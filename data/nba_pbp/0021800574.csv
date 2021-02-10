@@ -1,0 +1,523 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021800574,2,12,0,1,10:41 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021800574,4,10,0,1,10:41 PM,12:00,Jump Ball McGee vs. Vonleh: Tip to Ball,,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,5,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,1
+2,0021800574,7,5,1,1,10:41 PM,11:49,Ball Bad Pass Turnover (P1.T1),,Vonleh STEAL (1 STL),,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,5,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+3,0021800574,9,2,1,1,10:41 PM,11:44,,,MISS Vonleh 26' 3PT Jump Shot,,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+4,0021800574,10,4,0,1,10:41 PM,11:40,Ingram REBOUND (Off:0 Def:1),,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+5,0021800574,11,2,1,1,10:42 PM,11:20,MISS Ingram 27' 3PT Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+6,0021800574,12,4,0,1,10:42 PM,11:16,,,Hardaway Jr. REBOUND (Off:0 Def:1),,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+7,0021800574,13,2,86,1,10:42 PM,10:59,,,MISS Kornet 14' Turnaround Fadeaway Shot,,,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+8,0021800574,14,4,0,1,10:42 PM,10:56,,,Vonleh REBOUND (Off:1 Def:0),,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+9,0021800574,15,1,1,1,10:42 PM,10:53,,,Hardaway Jr. 29' 3PT Jump Shot (3 PTS) (Vonleh 1 AST),3 - 0,-3,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,5,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+10,0021800574,17,1,1,1,10:42 PM,10:41,Ball 28' 3PT Jump Shot (3 PTS) (McGee 1 AST),,,3 - 3,TIE,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,4,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+11,0021800574,19,1,1,1,10:43 PM,10:17,,,Vonleh 26' 3PT Jump Shot (3 PTS) (Mudiay 1 AST),6 - 3,-3,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,5,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+12,0021800574,21,6,1,1,10:43 PM,10:03,,,Vonleh P.FOUL (P1.T1) (K.Lane),,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,4,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+13,0021800574,23,5,1,1,10:43 PM,9:54,Ball Bad Pass Turnover (P2.T2),,Kornet STEAL (1 STL),,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,5,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+14,0021800574,25,6,1,1,10:44 PM,9:36,Ball P.FOUL (P1.T1) (K.Lane),,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,5,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+15,0021800574,27,2,1,1,10:44 PM,9:30,,,MISS Mudiay 25' 3PT Jump Shot,,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+16,0021800574,28,4,0,1,10:44 PM,9:27,Ingram REBOUND (Off:0 Def:2),,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+17,0021800574,29,5,1,1,10:44 PM,9:25,Ingram Bad Pass Turnover (P1.T3),,Vonleh STEAL (2 STL),,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,5,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+18,0021800574,31,1,1,1,10:44 PM,9:20,,,Knox  3PT Jump Shot (3 PTS) (Mudiay 2 AST),9 - 3,-6,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,5,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+19,0021800574,33,1,6,1,10:44 PM,9:07,Ingram 3' Driving Layup (2 PTS),,,9 - 5,-4,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+20,0021800574,34,2,1,1,10:45 PM,8:54,,,MISS Vonleh 25' 3PT Jump Shot,,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+21,0021800574,35,4,0,1,10:45 PM,8:50,Caldwell-Pope REBOUND (Off:0 Def:1),,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+22,0021800574,36,2,57,1,10:45 PM,8:43,MISS McGee 11' Driving Hook Shot,,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+23,0021800574,37,4,0,1,10:45 PM,8:40,,,Vonleh REBOUND (Off:1 Def:1),,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+24,0021800574,38,1,1,1,10:45 PM,8:28,,,Knox 24' 3PT Jump Shot (6 PTS) (Mudiay 3 AST),12 - 5,-7,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,5,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+25,0021800574,40,2,1,1,10:45 PM,8:10,MISS Ball 25' 3PT Jump Shot,,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+26,0021800574,41,4,0,1,10:45 PM,8:08,,,Vonleh REBOUND (Off:1 Def:2),,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+27,0021800574,42,2,6,1,10:45 PM,8:00,Hart BLOCK (1 BLK),,MISS Mudiay 4' Driving Layup,,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,1
+28,0021800574,44,4,0,1,10:46 PM,7:57,Hart REBOUND (Off:0 Def:1),,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+29,0021800574,45,2,6,1,10:46 PM,7:50,MISS Caldwell-Pope 2' Driving Layup,,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+30,0021800574,46,4,0,1,10:46 PM,7:47,,,Kornet REBOUND (Off:0 Def:1),,,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+31,0021800574,47,1,103,1,10:46 PM,7:44,,,Hardaway Jr. 26' 3PT Running Pull-Up Jump Shot (6 PTS),15 - 5,-10,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+32,0021800574,48,9,1,1,10:46 PM,7:43,LAKERS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+33,0021800574,49,2,1,1,10:49 PM,7:30,MISS Hart  3PT Jump Shot,,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+34,0021800574,50,4,0,1,10:49 PM,7:27,,,Vonleh REBOUND (Off:1 Def:3),,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+35,0021800574,51,2,1,1,10:49 PM,7:15,,,MISS Hardaway Jr. 27' 3PT Jump Shot,,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+36,0021800574,52,4,0,1,10:49 PM,7:13,Ball REBOUND (Off:0 Def:1),,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+37,0021800574,53,2,47,1,10:49 PM,7:08,MISS Ball 4' Turnaround Jump Shot,,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+38,0021800574,54,4,0,1,10:49 PM,7:05,,,Mudiay REBOUND (Off:0 Def:1),,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+39,0021800574,55,1,1,1,10:50 PM,6:57,,,Hardaway Jr.  3PT Jump Shot (9 PTS) (Mudiay 4 AST),18 - 5,-13,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,5,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+40,0021800574,57,2,79,1,10:50 PM,6:42,MISS Ingram 19' Pullup Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+41,0021800574,58,4,0,1,10:50 PM,6:40,,,Knox REBOUND (Off:0 Def:1),,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+42,0021800574,59,2,1,1,10:50 PM,6:38,,,MISS Hardaway Jr. 28' 3PT Jump Shot,,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+43,0021800574,60,4,0,1,10:50 PM,6:35,,,Vonleh REBOUND (Off:2 Def:3),,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+44,0021800574,61,6,2,1,10:50 PM,6:35,Hart S.FOUL (P1.T2) (M.Ervin),,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,5,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+45,0021800574,63,3,11,1,10:50 PM,6:35,,,Vonleh Free Throw 1 of 2 (4 PTS),19 - 5,-14,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+46,0021800574,64,8,0,1,10:50 PM,6:35,SUB: Zubac FOR McGee,,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,4,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+47,0021800574,66,3,12,1,10:51 PM,6:35,,,Vonleh Free Throw 2 of 2 (5 PTS),20 - 5,-15,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+48,0021800574,67,5,2,1,10:51 PM,6:26,Ingram Lost Ball Turnover (P2.T4),,Vonleh STEAL (3 STL),,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,5,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+49,0021800574,69,2,41,1,10:51 PM,6:19,,,MISS Mudiay 2' Running Layup,,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+50,0021800574,70,4,0,1,10:51 PM,6:17,Zubac REBOUND (Off:0 Def:1),,,,,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+51,0021800574,71,2,41,1,10:51 PM,6:14,MISS Ingram 1' Running Layup,,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+52,0021800574,72,4,0,1,10:51 PM,6:08,Zubac REBOUND (Off:1 Def:1),,,,,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+53,0021800574,73,2,97,1,10:51 PM,6:08,MISS Zubac 1' Tip Layup Shot,,,,,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+54,0021800574,74,4,0,1,10:51 PM,6:08,,,Knox REBOUND (Off:0 Def:2),,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+55,0021800574,75,1,9,1,10:51 PM,6:00,,,Knox 2' Driving Dunk (8 PTS) (Kornet 1 AST),22 - 5,-17,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,5,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+56,0021800574,77,1,1,1,10:52 PM,5:38,Caldwell-Pope 27' 3PT Jump Shot (3 PTS) (Zubac 1 AST),,,22 - 8,-14,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+57,0021800574,79,1,6,1,10:52 PM,5:21,,,Vonleh 1' Driving Layup (7 PTS),24 - 8,-16,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+58,0021800574,80,1,80,1,10:52 PM,5:10,Ball 27' 3PT Step Back Jump Shot (6 PTS),,,24 - 11,-13,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+59,0021800574,81,2,78,1,10:52 PM,4:58,,,MISS Knox 4' Floating Jump Shot,,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+60,0021800574,82,4,0,1,10:52 PM,4:56,Ball REBOUND (Off:0 Def:2),,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+61,0021800574,83,6,2,1,10:52 PM,4:54,,,Mudiay S.FOUL (P1.T2) (K.Lane),,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+62,0021800574,85,3,11,1,10:53 PM,4:54,MISS Ball Free Throw 1 of 2,,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+63,0021800574,86,4,1,1,10:53 PM,4:54,LAKERS Rebound,,,,,2.0,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+64,0021800574,87,8,0,1,10:53 PM,4:54,SUB: Stephenson FOR Ingram,,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+65,0021800574,88,8,0,1,10:53 PM,4:54,,,SUB: Ntilikina FOR Mudiay,,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+66,0021800574,89,8,0,1,10:53 PM,4:54,,,SUB: Dotson FOR Knox,,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+67,0021800574,93,3,12,1,10:53 PM,4:54,MISS Ball Free Throw 2 of 2,,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+68,0021800574,94,4,0,1,10:53 PM,4:49,,,Ntilikina REBOUND (Off:0 Def:1),,,5.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+69,0021800574,95,2,47,1,10:53 PM,4:36,,,MISS Kornet 11' Turnaround Jump Shot,,,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+70,0021800574,96,4,0,1,10:54 PM,4:32,,,Vonleh REBOUND (Off:3 Def:3),,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+71,0021800574,97,2,44,1,10:54 PM,4:31,,,MISS Vonleh 3' Reverse Layup,,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+72,0021800574,98,4,0,1,10:54 PM,4:31,,,Kornet REBOUND (Off:1 Def:1),,,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+73,0021800574,99,2,97,1,10:54 PM,4:27,,,MISS Kornet 1' Tip Layup Shot,,,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+74,0021800574,100,4,0,1,10:54 PM,4:27,Zubac REBOUND (Off:1 Def:2),,,,,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+75,0021800574,101,1,41,1,10:54 PM,4:27,Hart 2' Running Layup (2 PTS),,,24 - 13,-11,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+76,0021800574,102,6,2,1,10:54 PM,4:27,,,Ntilikina S.FOUL (P1.T3) (K.Mauer),,,5.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+77,0021800574,104,8,0,1,10:54 PM,4:27,,,SUB: Kanter FOR Kornet,,,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,5,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+78,0021800574,106,3,10,1,10:54 PM,4:27,Hart Free Throw 1 of 1 (3 PTS),,,24 - 14,-10,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+79,0021800574,107,5,2,1,10:55 PM,4:10,Ball STEAL (1 STL),,Ntilikina Lost Ball Turnover (P1.T1),,,5.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+80,0021800574,109,1,41,1,10:55 PM,4:05,Ball 2' Running Layup (8 PTS),,,24 - 16,-8,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+81,0021800574,110,9,1,1,10:55 PM,3:58,,,Knicks Timeout: Regular (Reg.1 Short 0),,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+82,0021800574,111,8,0,1,10:57 PM,3:58,,,SUB: Burke FOR Ntilikina,,,5.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,5,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+83,0021800574,113,2,1,1,10:58 PM,3:53,,,MISS Hardaway Jr. 26' 3PT Jump Shot,,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+84,0021800574,114,4,0,1,10:58 PM,3:49,Stephenson REBOUND (Off:0 Def:1),,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+85,0021800574,115,2,1,1,10:58 PM,3:33,MISS Stephenson 25' 3PT Jump Shot,,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+86,0021800574,116,4,0,1,10:58 PM,3:29,,,Kanter REBOUND (Off:0 Def:1),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+87,0021800574,117,2,5,1,10:58 PM,3:16,Stephenson BLOCK (1 BLK),,MISS Kanter 3' Layup,,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,1
+88,0021800574,119,4,0,1,10:59 PM,3:13,Stephenson REBOUND (Off:0 Def:2),,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+89,0021800574,120,2,2,1,10:59 PM,3:10,MISS Caldwell-Pope 25' 3PT Running Jump Shot,,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+90,0021800574,121,4,0,1,10:59 PM,3:07,,,Vonleh REBOUND (Off:3 Def:4),,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+91,0021800574,122,2,1,1,10:59 PM,3:00,,,MISS Dotson 27' 3PT Jump Shot,,,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+92,0021800574,123,4,0,1,10:59 PM,2:58,Zubac REBOUND (Off:1 Def:3),,,,,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+93,0021800574,124,2,1,1,10:59 PM,2:53,MISS Hart 28' 3PT Jump Shot,,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+94,0021800574,125,4,0,1,10:59 PM,2:50,,,Kanter REBOUND (Off:0 Def:2),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+95,0021800574,126,2,101,1,10:59 PM,2:42,,,MISS Burke 5' Driving Floating Jump Shot,,,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+96,0021800574,127,4,0,1,10:59 PM,2:38,Zubac REBOUND (Off:1 Def:4),,,,,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+97,0021800574,128,5,1,1,10:59 PM,2:36,Ball Bad Pass Turnover (P3.T5),,Dotson STEAL (1 STL),,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+98,0021800574,130,1,50,1,10:59 PM,2:31,,,Hardaway Jr. 1' Running Dunk (11 PTS) (Dotson 1 AST),26 - 16,-10,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+99,0021800574,132,6,1,1,10:59 PM,2:26,,,Vonleh P.FOUL (P2.T4) (M.Ervin),,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+100,0021800574,134,8,0,1,10:59 PM,2:26,,,SUB: Knox FOR Vonleh,,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+101,0021800574,136,1,108,1,11:00 PM,2:19,Zubac 4' Cutting Dunk Shot (2 PTS) (Caldwell-Pope 1 AST),,,26 - 18,-8,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+102,0021800574,138,1,58,1,11:00 PM,2:02,,,Kanter 5' Turnaround Hook Shot (2 PTS) (Dotson 2 AST),28 - 18,-10,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+103,0021800574,140,6,2,1,11:00 PM,2:02,Ball S.FOUL (P2.T3) (K.Mauer),,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,5,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+104,0021800574,142,8,0,1,11:01 PM,2:02,SUB: Mykhailiuk FOR Ball,,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,4,1629004,Svi Mykhailiuk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+105,0021800574,144,3,10,1,11:01 PM,2:02,,,Kanter Free Throw 1 of 1 (3 PTS),29 - 18,-11,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+106,0021800574,146,2,1,1,11:01 PM,1:45,MISS Caldwell-Pope 24' 3PT Jump Shot,,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+107,0021800574,147,4,0,1,11:01 PM,1:43,,,Kanter REBOUND (Off:0 Def:3),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+108,0021800574,148,1,1,1,11:01 PM,1:38,,,Kanter 27' 3PT Jump Shot (6 PTS) (Hardaway Jr. 1 AST),32 - 18,-14,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+109,0021800574,150,6,2,1,11:01 PM,1:24,,,Dotson S.FOUL (P1.PN) (M.Ervin),,,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,4,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+110,0021800574,152,3,11,1,11:02 PM,1:24,Zubac Free Throw 1 of 2 (3 PTS),,,32 - 19,-13,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+111,0021800574,153,8,0,1,11:02 PM,1:24,,,SUB: Trier FOR Hardaway Jr.,,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,5,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+112,0021800574,155,3,12,1,11:02 PM,1:24,Zubac Free Throw 2 of 2 (4 PTS),,,32 - 20,-12,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+113,0021800574,156,6,2,1,11:02 PM,1:16,Zubac S.FOUL (P1.T4) (M.Ervin),,,,,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,5,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+114,0021800574,158,3,11,1,11:03 PM,1:16,,,MISS Kanter Free Throw 1 of 2,,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+115,0021800574,159,4,1,1,11:03 PM,1:16,,,Knicks Rebound,,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+116,0021800574,160,3,12,1,11:03 PM,1:16,,,Kanter Free Throw 2 of 2 (7 PTS),33 - 20,-13,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+117,0021800574,161,1,79,1,11:03 PM,1:04,Caldwell-Pope 15' Pullup Jump Shot (5 PTS) (Zubac 2 AST),,,33 - 22,-11,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+118,0021800574,163,6,2,1,11:03 PM,1:04,,,Trier S.FOUL (P1.PN) (K.Lane),,,5.0,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+119,0021800574,165,3,10,1,11:04 PM,1:04,Caldwell-Pope Free Throw 1 of 1 (6 PTS),,,33 - 23,-10,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+120,0021800574,166,1,73,1,11:04 PM,0:55,,,Burke 3' Driving Reverse Layup (2 PTS),35 - 23,-12,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+121,0021800574,167,5,2,1,11:04 PM,0:41,Mykhailiuk Lost Ball Turnover (P1.T6),,Knox STEAL (1 STL),,,4.0,1629004,Svi Mykhailiuk,1610612747.0,Los Angeles,Lakers,LAL,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+122,0021800574,169,2,41,1,11:04 PM,0:38,Stephenson BLOCK (2 BLK),,MISS Burke 2' Running Layup,,,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,1
+123,0021800574,171,4,0,1,11:04 PM,0:38,,,Knicks Rebound,,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+124,0021800574,173,1,1,1,11:05 PM,0:31,,,Dotson 20' Jump Shot (2 PTS) (Trier 1 AST),37 - 23,-14,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,5,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+125,0021800574,175,2,58,1,11:05 PM,0:18,MISS Zubac 10' Turnaround Hook Shot,,Kanter BLOCK (1 BLK),,,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,1
+126,0021800574,177,4,0,1,11:05 PM,0:17,Zubac REBOUND (Off:2 Def:4),,,,,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+127,0021800574,178,1,72,1,11:05 PM,0:17,Zubac 2' Putback Layup (6 PTS),,,37 - 25,-12,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+128,0021800574,179,1,101,1,11:05 PM,0:01,,,Burke 3' Driving Floating Jump Shot (4 PTS),39 - 25,-14,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+129,0021800574,180,13,0,1,11:05 PM,0:00,,,,39 - 25,-14,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+130,0021800574,187,12,0,2,11:08 PM,12:00,,,,39 - 25,-14,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+131,0021800574,188,2,6,2,11:08 PM,11:50,,,MISS Knox 1' Driving Layup,,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+132,0021800574,189,4,0,2,11:08 PM,11:50,LAKERS Rebound,,,,,2.0,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+133,0021800574,191,2,6,2,11:08 PM,11:37,MISS Ingram 2' Driving Layup,,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+134,0021800574,192,4,0,2,11:08 PM,11:34,,,Knox REBOUND (Off:0 Def:3),,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+135,0021800574,193,2,79,2,11:09 PM,11:25,,,MISS Burke 18' Pullup Jump Shot,,,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+136,0021800574,194,4,0,2,11:09 PM,11:24,Beasley REBOUND (Off:0 Def:1),,,,,4.0,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+137,0021800574,195,6,2,2,11:09 PM,11:22,,,Knox S.FOUL (P1.T1) (M.Ervin),,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,4,2199,Tyson Chandler,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+138,0021800574,197,3,11,2,11:09 PM,11:22,Chandler Free Throw 1 of 2 (1 PTS),,,39 - 26,-13,4.0,2199,Tyson Chandler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+139,0021800574,198,3,12,2,11:09 PM,11:22,Chandler Free Throw 2 of 2 (2 PTS),,,39 - 27,-12,4.0,2199,Tyson Chandler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+140,0021800574,199,5,1,2,11:10 PM,11:11,Mykhailiuk STEAL (1 STL),,Trier Bad Pass Turnover (P1.T2),,,5.0,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,4,1629004,Svi Mykhailiuk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+141,0021800574,201,6,2,2,11:10 PM,11:09,,,Kanter S.FOUL (P1.T2) (K.Mauer),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,4,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+142,0021800574,203,3,11,2,11:10 PM,11:09,MISS Beasley Free Throw 1 of 2,,,,,4.0,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+143,0021800574,204,4,1,2,11:10 PM,11:09,LAKERS Rebound,,,,,2.0,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+144,0021800574,205,3,12,2,11:10 PM,11:09,MISS Beasley Free Throw 2 of 2,,,,,4.0,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+145,0021800574,206,4,0,2,11:10 PM,11:06,,,Dotson REBOUND (Off:0 Def:1),,,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+146,0021800574,207,2,6,2,11:11 PM,10:54,,,MISS Knox 2' Driving Layup,,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+147,0021800574,208,4,0,2,11:11 PM,10:54,,,Knicks Rebound,,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+148,0021800574,210,1,1,2,11:11 PM,10:46,,,Dotson 28' 3PT Jump Shot (5 PTS) (Burke 1 AST),42 - 27,-15,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,5,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+149,0021800574,212,1,73,2,11:11 PM,10:26,Beasley 2' Driving Reverse Layup (2 PTS) (Ingram 1 AST),,,42 - 29,-13,4.0,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,4,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+150,0021800574,214,2,1,2,11:12 PM,10:11,,,MISS Knox 26' 3PT Jump Shot,,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+151,0021800574,215,4,0,2,11:12 PM,10:10,Ingram REBOUND (Off:0 Def:3),,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+152,0021800574,216,1,101,2,11:12 PM,10:08,Ingram 2' Driving Floating Jump Shot (4 PTS),,,42 - 31,-11,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+153,0021800574,217,6,2,2,11:12 PM,10:08,,,Trier S.FOUL (P2.T3) (M.Ervin),,,5.0,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,4,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+154,0021800574,219,3,10,2,11:12 PM,10:08,Ingram Free Throw 1 of 1 (5 PTS),,,42 - 32,-10,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+155,0021800574,220,9,1,2,11:12 PM,10:02,,,Knicks Timeout: Regular (Reg.2 Short 0),,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+156,0021800574,221,6,2,2,11:15 PM,9:48,Ingram S.FOUL (P1.T1) (M.Ervin),,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,5,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+157,0021800574,223,3,11,2,11:16 PM,9:48,,,Trier Free Throw 1 of 2 (1 PTS),43 - 32,-11,5.0,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+158,0021800574,224,3,12,2,11:16 PM,9:48,,,Trier Free Throw 2 of 2 (2 PTS),44 - 32,-12,5.0,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+159,0021800574,225,1,108,2,11:16 PM,9:35,Chandler 1' Cutting Dunk Shot (4 PTS) (Beasley 1 AST),,,44 - 34,-10,4.0,2199,Tyson Chandler,1610612747.0,Los Angeles,Lakers,LAL,4,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+160,0021800574,227,2,1,2,11:17 PM,9:22,,,MISS Kanter 26' 3PT Jump Shot,,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+161,0021800574,228,4,0,2,11:17 PM,9:18,Chandler REBOUND (Off:0 Def:1),,,,,4.0,2199,Tyson Chandler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+162,0021800574,229,1,41,2,11:17 PM,9:13,Stephenson 1' Running Layup (2 PTS),,,44 - 36,-8,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+163,0021800574,230,2,79,2,11:17 PM,8:57,,,MISS Trier 17' Pullup Jump Shot,,,5.0,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+164,0021800574,231,4,0,2,11:17 PM,8:54,Beasley REBOUND (Off:0 Def:2),,,,,4.0,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+165,0021800574,232,5,1,2,11:17 PM,8:46,Stephenson Bad Pass Turnover (P1.T7),,Dotson STEAL (2 STL),,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+166,0021800574,234,1,74,2,11:17 PM,8:40,,,Burke 2' Running Reverse Layup (6 PTS),46 - 36,-10,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+167,0021800574,235,2,75,2,11:17 PM,8:32,MISS Ingram 2' Driving Finger Roll Layup,,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+168,0021800574,236,4,0,2,11:17 PM,8:32,,,Kanter REBOUND (Off:0 Def:4),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+169,0021800574,237,5,1,2,11:17 PM,8:24,Ingram STEAL (1 STL),,Trier Bad Pass Turnover (P2.T3),,,5.0,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,4,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+170,0021800574,240,1,108,2,11:18 PM,8:21,Ingram 2' Cutting Dunk Shot (7 PTS) (Stephenson 1 AST),,,46 - 38,-8,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+171,0021800574,242,1,101,2,11:18 PM,8:06,,,Burke 14' Driving Floating Jump Shot (8 PTS),48 - 38,-10,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+172,0021800574,243,9,1,2,11:18 PM,8:04,LAKERS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+173,0021800574,244,8,0,2,11:20 PM,8:04,SUB: Caldwell-Pope FOR Mykhailiuk,,,,,4.0,1629004,Svi Mykhailiuk,1610612747.0,Los Angeles,Lakers,LAL,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+174,0021800574,245,8,0,2,11:20 PM,8:04,,,SUB: Vonleh FOR Trier,,,5.0,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,5,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+175,0021800574,246,8,0,2,11:20 PM,8:04,,,SUB: Hardaway Jr. FOR Knox,,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+176,0021800574,250,5,1,2,11:21 PM,7:51,Ingram Bad Pass Turnover (P3.T8),,Vonleh STEAL (4 STL),,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,5,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+177,0021800574,252,1,76,2,11:21 PM,7:48,,,Dotson 1' Running Finger Roll Layup (7 PTS),50 - 38,-12,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+178,0021800574,253,1,75,2,11:21 PM,7:25,Beasley 2' Driving Finger Roll Layup (4 PTS),,,50 - 40,-10,4.0,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+179,0021800574,254,2,79,2,11:22 PM,7:09,,,MISS Hardaway Jr. 26' 3PT Pullup Jump Shot,,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+180,0021800574,255,4,0,2,11:22 PM,7:07,Ingram REBOUND (Off:0 Def:4),,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+181,0021800574,256,2,79,2,11:22 PM,7:03,MISS Ingram 18' Pullup Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+182,0021800574,257,4,0,2,11:22 PM,6:58,,,Hardaway Jr. REBOUND (Off:0 Def:2),,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+183,0021800574,258,2,57,2,11:22 PM,6:47,,,MISS Kanter 7' Driving Hook Shot,,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+184,0021800574,259,4,0,2,11:22 PM,6:46,Stephenson REBOUND (Off:0 Def:3),,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+185,0021800574,260,6,1,2,11:22 PM,6:46,,,Vonleh P.FOUL (P3.T4) (K.Mauer),,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+186,0021800574,262,8,0,2,11:22 PM,6:46,SUB: Ball FOR Ingram,,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+187,0021800574,263,8,0,2,11:22 PM,6:46,,,SUB: Knox FOR Vonleh,,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+188,0021800574,267,2,6,2,11:23 PM,6:27,MISS Caldwell-Pope 3' Driving Layup,,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+189,0021800574,268,4,0,2,11:23 PM,6:25,Chandler REBOUND (Off:1 Def:1),,,,,4.0,2199,Tyson Chandler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+190,0021800574,269,5,1,2,11:23 PM,6:24,Ball Bad Pass Turnover (P4.T9),,Burke STEAL (1 STL),,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,5,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+191,0021800574,271,1,74,2,11:23 PM,6:20,,,Burke 2' Running Reverse Layup (10 PTS),52 - 40,-12,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+192,0021800574,272,2,80,2,11:23 PM,5:58,MISS Ball 24' 3PT Step Back Jump Shot,,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+193,0021800574,273,4,0,2,11:23 PM,5:54,,,Kanter REBOUND (Off:0 Def:5),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+194,0021800574,274,2,105,2,11:24 PM,5:47,,,MISS Burke 10' Turnaround Fadeaway Bank Jump Shot,,,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+195,0021800574,275,4,0,2,11:24 PM,5:45,Beasley REBOUND (Off:0 Def:3),,,,,4.0,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+196,0021800574,276,6,2,2,11:24 PM,5:35,,,Kanter S.FOUL (P2.PN) (M.Ervin),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,4,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+197,0021800574,278,9,1,2,11:24 PM,5:35,LAKERS Timeout: Regular (Full 3 Short 0),,,,,2.0,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+198,0021800574,279,8,0,2,11:26 PM,5:35,SUB: McGee FOR Chandler,,,,,4.0,2199,Tyson Chandler,1610612747.0,Los Angeles,Lakers,LAL,4,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+199,0021800574,280,8,0,2,11:26 PM,5:35,SUB: Hart FOR Stephenson,,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,4,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+200,0021800574,281,8,0,2,11:26 PM,5:35,,,SUB: Kornet FOR Kanter,,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,5,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+201,0021800574,282,8,0,2,11:26 PM,5:35,,,SUB: Mudiay FOR Burke,,,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,5,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+202,0021800574,287,3,11,2,11:26 PM,5:35,Beasley Free Throw 1 of 2 (5 PTS),,,52 - 41,-11,4.0,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+203,0021800574,288,3,12,2,11:26 PM,5:35,Beasley Free Throw 2 of 2 (6 PTS),,,52 - 42,-10,4.0,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+204,0021800574,289,2,63,2,11:27 PM,5:16,,,MISS Dotson 20' Fadeaway Jumper,,,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+205,0021800574,290,4,0,2,11:27 PM,5:12,McGee REBOUND (Off:0 Def:1),,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+206,0021800574,291,2,98,2,11:27 PM,4:58,MISS McGee 1' Cutting Layup Shot,,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+207,0021800574,292,4,0,2,11:27 PM,4:54,McGee REBOUND (Off:1 Def:1),,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+208,0021800574,293,1,72,2,11:27 PM,4:54,McGee 2' Putback Layup (2 PTS),,,52 - 44,-8,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+209,0021800574,294,6,1,2,11:27 PM,4:38,McGee P.FOUL (P1.T2) (K.Lane),,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,5,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+210,0021800574,296,8,0,2,11:28 PM,4:38,SUB: Ingram FOR Beasley,,,,,4.0,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,4,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+211,0021800574,298,2,79,2,11:28 PM,4:29,,,MISS Hardaway Jr. 29' 3PT Pullup Jump Shot,,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+212,0021800574,299,4,0,2,11:28 PM,4:27,Caldwell-Pope REBOUND (Off:0 Def:2),,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+213,0021800574,300,5,1,2,11:28 PM,4:22,Ingram Bad Pass Turnover (P4.T10),,Dotson STEAL (3 STL),,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+214,0021800574,302,2,41,2,11:28 PM,4:17,,,MISS Dotson 3' Running Layup,,,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+215,0021800574,303,4,0,2,11:28 PM,4:17,,,Knox REBOUND (Off:1 Def:3),,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+216,0021800574,304,6,2,2,11:28 PM,4:17,Ingram S.FOUL (P2.T3) (M.Ervin),,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+217,0021800574,306,3,11,2,11:29 PM,4:17,,,Knox Free Throw 1 of 2 (9 PTS),53 - 44,-9,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+218,0021800574,307,8,0,2,11:29 PM,4:17,,,SUB: Burke FOR Dotson,,,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,5,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+219,0021800574,309,3,12,2,11:29 PM,4:17,,,Knox Free Throw 2 of 2 (10 PTS),54 - 44,-10,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+220,0021800574,310,1,80,2,11:30 PM,3:57,Ball 25' 3PT Step Back Jump Shot (11 PTS) (Hart 1 AST),,,54 - 47,-7,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,4,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+221,0021800574,312,2,80,2,11:30 PM,3:33,,,MISS Burke 26' 3PT Step Back Jump Shot,,,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+222,0021800574,313,4,0,2,11:30 PM,3:29,Caldwell-Pope REBOUND (Off:0 Def:3),,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+223,0021800574,314,2,41,2,11:30 PM,3:24,MISS Hart 2' Running Layup,,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+224,0021800574,315,4,0,2,11:30 PM,3:22,,,Kornet REBOUND (Off:1 Def:2),,,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+225,0021800574,316,2,6,2,11:30 PM,3:17,,,MISS Mudiay 3' Driving Layup,,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+226,0021800574,317,4,0,2,11:30 PM,3:14,Hart REBOUND (Off:0 Def:2),,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+227,0021800574,318,1,1,2,11:30 PM,3:10,Caldwell-Pope 25' 3PT Jump Shot (9 PTS) (Hart 2 AST),,,54 - 50,-4,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+228,0021800574,320,9,1,2,11:30 PM,3:09,,,Knicks Timeout: Regular (Reg.3 Short 0),,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+229,0021800574,321,1,93,2,11:32 PM,2:48,,,Kornet 2' Driving Bank Hook Shot (2 PTS),56 - 50,-6,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+230,0021800574,322,2,58,2,11:33 PM,2:29,MISS McGee 6' Turnaround Hook Shot,,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+231,0021800574,323,4,0,2,11:33 PM,2:27,,,Hardaway Jr. REBOUND (Off:0 Def:3),,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+232,0021800574,324,1,78,2,11:33 PM,2:24,,,Hardaway Jr. 11' Floating Jump Shot (13 PTS),58 - 50,-8,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+233,0021800574,325,6,2,2,11:33 PM,2:24,Hart S.FOUL (P2.T4) (K.Lane),,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+234,0021800574,327,3,10,2,11:33 PM,2:24,,,Hardaway Jr. Free Throw 1 of 1 (14 PTS),59 - 50,-9,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+235,0021800574,328,2,99,2,11:33 PM,2:12,MISS Ingram 2' Cutting Finger Roll Layup Shot,,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+236,0021800574,329,4,0,2,11:34 PM,2:09,McGee REBOUND (Off:2 Def:1),,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+237,0021800574,330,1,72,2,11:34 PM,2:08,McGee 2' Putback Layup (4 PTS),,,59 - 52,-7,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+238,0021800574,332,2,75,2,11:34 PM,1:50,Hart BLOCK (2 BLK),,MISS Burke 3' Driving Finger Roll Layup,,,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,1
+239,0021800574,334,4,0,2,11:34 PM,1:50,,,Knicks Rebound,,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+240,0021800574,336,2,1,2,11:34 PM,1:48,,,MISS Kornet 25' 3PT Jump Shot,,,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+241,0021800574,337,4,0,2,11:34 PM,1:43,,,Mudiay REBOUND (Off:1 Def:1),,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+242,0021800574,338,5,1,2,11:34 PM,1:42,Ball STEAL (2 STL),,Mudiay Bad Pass Turnover (P1.T4),,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+243,0021800574,340,2,1,2,11:34 PM,1:36,MISS Caldwell-Pope 27' 3PT Jump Shot,,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+244,0021800574,341,4,0,2,11:34 PM,1:34,,,Hardaway Jr. REBOUND (Off:0 Def:4),,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+245,0021800574,342,2,41,2,11:34 PM,1:32,,,MISS Mudiay 2' Running Layup,,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+246,0021800574,343,4,0,2,11:35 PM,1:32,Ball REBOUND (Off:0 Def:3),,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+247,0021800574,344,6,1,2,11:35 PM,1:23,,,Kornet P.FOUL (P1.PN) (M.Ervin),,,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+248,0021800574,346,3,11,2,11:35 PM,1:23,Caldwell-Pope Free Throw 1 of 2 (10 PTS),,,59 - 53,-6,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+249,0021800574,347,8,0,2,11:35 PM,1:23,SUB: Stephenson FOR Hart,,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+250,0021800574,349,3,12,2,11:36 PM,1:23,Caldwell-Pope Free Throw 2 of 2 (11 PTS),,,59 - 54,-5,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+251,0021800574,350,1,9,2,11:36 PM,1:08,,,Hardaway Jr. 2' Driving Dunk (16 PTS),61 - 54,-7,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+252,0021800574,351,2,1,2,11:36 PM,0:51,MISS Stephenson 24' 3PT Jump Shot,,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+253,0021800574,352,4,0,2,11:36 PM,0:47,,,Burke REBOUND (Off:0 Def:1),,,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+254,0021800574,353,6,1,2,11:37 PM,0:44,Stephenson P.FOUL (P1.PN) (K.Mauer),,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,5,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+255,0021800574,355,3,11,2,11:37 PM,0:44,,,Burke Free Throw 1 of 2 (11 PTS),62 - 54,-8,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+256,0021800574,356,3,12,2,11:37 PM,0:44,,,Burke Free Throw 2 of 2 (12 PTS),63 - 54,-9,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+257,0021800574,357,1,1,2,11:38 PM,0:32,Caldwell-Pope 25' 3PT Jump Shot (14 PTS) (Stephenson 2 AST),,,63 - 57,-6,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+258,0021800574,359,2,6,2,11:38 PM,0:16,Ball BLOCK (1 BLK),,MISS Mudiay 3' Driving Layup,,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,1
+259,0021800574,361,4,0,2,11:38 PM,0:13,McGee REBOUND (Off:2 Def:2),,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+260,0021800574,362,1,6,2,11:38 PM,0:00,Ingram 3' Driving Layup (9 PTS),,,63 - 59,-4,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+261,0021800574,363,13,0,2,11:38 PM,0:00,,,,63 - 59,-4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+262,0021800574,368,12,0,3,11:54 PM,12:00,,,,63 - 59,-4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+263,0021800574,369,2,101,3,11:54 PM,11:40,,,MISS Hardaway Jr. 3' Driving Floating Jump Shot,,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+264,0021800574,370,4,0,3,11:54 PM,11:36,,,Hardaway Jr. REBOUND (Off:1 Def:4),,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+265,0021800574,371,1,97,3,11:54 PM,11:36,,,Hardaway Jr. 1' Tip Layup Shot (18 PTS),65 - 59,-6,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+266,0021800574,372,2,78,3,11:55 PM,11:22,MISS Ball 12' Floating Jump Shot,,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+267,0021800574,373,4,0,3,11:55 PM,11:19,,,Mudiay REBOUND (Off:1 Def:2),,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+268,0021800574,374,1,76,3,11:55 PM,11:13,,,Mudiay 3' Running Finger Roll Layup (2 PTS),67 - 59,-8,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+269,0021800574,375,1,79,3,11:55 PM,10:51,Caldwell-Pope 20' Pullup Jump Shot (16 PTS),,,67 - 61,-6,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+270,0021800574,376,2,1,3,11:55 PM,10:27,,,MISS Knox 25' 3PT Jump Shot,,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+271,0021800574,377,4,0,3,11:56 PM,10:23,Caldwell-Pope REBOUND (Off:0 Def:4),,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+272,0021800574,378,2,1,3,11:56 PM,10:17,MISS Caldwell-Pope 26' 3PT Jump Shot,,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+273,0021800574,379,4,0,3,11:56 PM,10:14,,,Mudiay REBOUND (Off:1 Def:3),,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+274,0021800574,380,1,1,3,11:56 PM,10:10,,,Mudiay 24' 3PT Jump Shot (5 PTS) (Hardaway Jr. 2 AST),70 - 61,-9,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+275,0021800574,382,1,5,3,11:56 PM,9:43,McGee 2' Layup (6 PTS),,,70 - 63,-7,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+276,0021800574,383,2,1,3,11:56 PM,9:28,,,MISS Kornet 27' 3PT Jump Shot,,,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+277,0021800574,384,4,0,3,11:56 PM,9:25,Caldwell-Pope REBOUND (Off:0 Def:5),,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+278,0021800574,714,2,78,3,11:57 PM,9:16,MISS Ball 9' Floating Jump Shot,,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+279,0021800574,715,4,0,3,11:57 PM,9:16,LAKERS Rebound,,,,,2.0,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+280,0021800574,386,5,4,3,11:57 PM,9:16,Ball Traveling Turnover (P5.T11),,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+281,0021800574,387,6,28,3,11:57 PM,9:13,Caldwell-Pope Personal Take Foul (P1.T1) (M.Ervin),,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+282,0021800574,389,2,6,3,11:57 PM,9:05,McGee BLOCK (1 BLK),,MISS Mudiay 3' Driving Layup,,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,1
+283,0021800574,391,4,0,3,11:57 PM,9:02,Beasley REBOUND (Off:0 Def:4),,,,,4.0,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+284,0021800574,392,1,51,3,11:58 PM,8:49,McGee 1' Reverse Dunk (8 PTS) (Ingram 2 AST),,,70 - 65,-5,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,4,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+285,0021800574,394,6,2,3,11:58 PM,8:34,Beasley S.FOUL (P1.T2) (K.Lane),,,,,4.0,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,5,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+286,0021800574,396,3,11,3,11:58 PM,8:34,,,Kornet Free Throw 1 of 2 (3 PTS),71 - 65,-6,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+287,0021800574,397,3,12,3,11:59 PM,8:34,,,MISS Kornet Free Throw 2 of 2,,,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+288,0021800574,398,4,0,3,11:59 PM,8:31,Ball REBOUND (Off:0 Def:4),,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+289,0021800574,399,1,6,3,11:59 PM,8:24,Ingram 2' Driving Layup (11 PTS),,,71 - 67,-4,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+290,0021800574,400,6,2,3,11:59 PM,8:24,,,Knox S.FOUL (P2.T1) (K.Lane),,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,4,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+291,0021800574,402,3,10,3,11:59 PM,8:24,Ingram Free Throw 1 of 1 (12 PTS),,,71 - 68,-3,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+292,0021800574,403,1,6,3,11:59 PM,8:16,,,Mudiay 1' Driving Layup (7 PTS),73 - 68,-5,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+293,0021800574,404,6,2,3,11:59 PM,8:16,Ingram S.FOUL (P3.T3) (K.Lane),,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,5,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+294,0021800574,406,3,10,3,12:00 AM,8:16,,,Mudiay Free Throw 1 of 1 (8 PTS),74 - 68,-6,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+295,0021800574,407,2,1,3,12:00 AM,8:02,MISS Ingram 25' 3PT Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+296,0021800574,408,4,0,3,12:00 AM,7:58,McGee REBOUND (Off:3 Def:2),,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+297,0021800574,409,2,78,3,12:00 AM,7:53,MISS Beasley 2' Floating Jump Shot,,,,,4.0,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+298,0021800574,410,4,0,3,12:00 AM,7:49,McGee REBOUND (Off:4 Def:2),,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+299,0021800574,411,2,97,3,12:00 AM,7:49,MISS McGee 1' Tip Layup Shot,,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+300,0021800574,412,4,0,3,12:00 AM,7:47,,,Kornet REBOUND (Off:1 Def:3),,,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+301,0021800574,413,6,2,3,12:00 AM,7:45,Ball S.FOUL (P3.T4) (K.Mauer),,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,5,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+302,0021800574,415,3,11,3,12:01 AM,7:45,,,Mudiay Free Throw 1 of 2 (9 PTS),75 - 68,-7,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+303,0021800574,416,8,0,3,12:01 AM,7:45,SUB: Hart FOR Beasley,,,,,4.0,201563,Michael Beasley,1610612747.0,Los Angeles,Lakers,LAL,4,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+304,0021800574,418,3,12,3,12:01 AM,7:45,,,Mudiay Free Throw 2 of 2 (10 PTS),76 - 68,-8,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+305,0021800574,419,1,1,3,12:01 AM,7:35,Caldwell-Pope 26' 3PT Jump Shot (19 PTS) (Ingram 3 AST),,,76 - 71,-5,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+306,0021800574,421,2,1,3,12:02 AM,7:16,,,MISS Hardaway Jr. 26' 3PT Jump Shot,,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+307,0021800574,422,4,0,3,12:02 AM,7:14,,,Vonleh REBOUND (Off:4 Def:4),,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+308,0021800574,423,2,6,3,12:02 AM,7:10,,,MISS Knox 2' Driving Layup,,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+309,0021800574,424,4,0,3,12:02 AM,7:08,Hart REBOUND (Off:0 Def:3),,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+310,0021800574,425,6,2,3,12:02 AM,7:01,,,Vonleh S.FOUL (P4.T2) (M.Ervin),,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,4,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+311,0021800574,427,3,11,3,12:02 AM,7:01,Ingram Free Throw 1 of 2 (13 PTS),,,76 - 72,-4,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+312,0021800574,428,8,0,3,12:02 AM,7:01,SUB: Stephenson FOR Ball,,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+313,0021800574,430,3,12,3,12:03 AM,7:01,Ingram Free Throw 2 of 2 (14 PTS),,,76 - 73,-3,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+314,0021800574,431,1,1,3,12:03 AM,6:49,,,Kornet 26' 3PT Jump Shot (6 PTS) (Knox 1 AST),79 - 73,-6,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+315,0021800574,434,2,79,3,12:03 AM,6:41,MISS Ingram 17' Pullup Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+316,0021800574,435,4,0,3,12:03 AM,6:37,McGee REBOUND (Off:5 Def:2),,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+317,0021800574,436,2,79,3,12:03 AM,6:33,MISS Hart 26' 3PT Pullup Jump Shot,,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+318,0021800574,437,4,0,3,12:03 AM,6:31,,,Vonleh REBOUND (Off:4 Def:5),,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+319,0021800574,438,2,98,3,12:03 AM,6:23,,,MISS Vonleh 1' Cutting Layup Shot,,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+320,0021800574,439,4,0,3,12:03 AM,6:20,,,Vonleh REBOUND (Off:5 Def:5),,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+321,0021800574,440,2,1,3,12:03 AM,6:18,,,MISS Knox 26' 3PT Jump Shot,,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+322,0021800574,441,4,0,3,12:03 AM,6:15,Hart REBOUND (Off:0 Def:4),,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+323,0021800574,442,1,96,3,12:04 AM,5:57,McGee 2' Turnaround Bank Hook Shot (10 PTS) (Stephenson 3 AST),,,79 - 75,-4,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+324,0021800574,444,6,1,3,12:04 AM,5:49,Stephenson P.FOUL (P2.PN) (K.Mauer),,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,5,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+325,0021800574,446,9,1,3,12:04 AM,5:49,LAKERS Timeout: Regular (Full 4 Short 0),,,,,2.0,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+326,0021800574,447,8,0,3,12:07 AM,5:49,,,SUB: Dotson FOR Vonleh,,,5.0,203943,Noah Vonleh,1610612752.0,New York,Knicks,NYK,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+327,0021800574,449,3,11,3,12:07 AM,5:49,,,Mudiay Free Throw 1 of 2 (11 PTS),80 - 75,-5,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+328,0021800574,450,3,12,3,12:07 AM,5:49,,,Mudiay Free Throw 2 of 2 (12 PTS),81 - 75,-6,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+329,0021800574,451,1,3,3,12:08 AM,5:25,McGee 4' Hook Shot (12 PTS) (Caldwell-Pope 2 AST),,,81 - 77,-4,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+330,0021800574,453,2,1,3,12:08 AM,5:10,,,MISS Kornet 27' 3PT Jump Shot,,,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+331,0021800574,454,4,0,3,12:08 AM,5:08,McGee REBOUND (Off:5 Def:3),,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+332,0021800574,455,2,1,3,12:08 AM,4:58,MISS Caldwell-Pope 27' 3PT Jump Shot,,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+333,0021800574,456,4,0,3,12:08 AM,4:56,,,Kornet REBOUND (Off:1 Def:4),,,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+334,0021800574,457,1,44,3,12:08 AM,4:49,,,Dotson 2' Reverse Layup (9 PTS) (Mudiay 5 AST),83 - 77,-6,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,5,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+335,0021800574,459,1,73,3,12:09 AM,4:36,McGee 1' Driving Reverse Layup (14 PTS) (Stephenson 4 AST),,,83 - 79,-4,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+336,0021800574,461,2,1,3,12:09 AM,4:17,,,MISS Dotson 26' 3PT Jump Shot,,,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+337,0021800574,462,4,0,3,12:09 AM,4:13,Caldwell-Pope REBOUND (Off:0 Def:6),,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+338,0021800574,463,1,102,3,12:09 AM,4:03,McGee 2' Driving Floating Bank Jump Shot (16 PTS) (Stephenson 5 AST),,,83 - 81,-2,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+339,0021800574,465,9,1,3,12:09 AM,3:57,,,Knicks Timeout: Regular (Reg.4 Short 0),,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+340,0021800574,466,8,0,3,12:12 AM,3:57,SUB: Mykhailiuk FOR Caldwell-Pope,,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,1629004,Svi Mykhailiuk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+341,0021800574,467,8,0,3,12:12 AM,3:57,SUB: Zubac FOR McGee,,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,4,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+342,0021800574,468,8,0,3,12:12 AM,3:57,,,SUB: Kanter FOR Kornet,,,5.0,1628436,Luke Kornet,1610612752.0,New York,Knicks,NYK,5,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+343,0021800574,472,6,1,3,12:13 AM,3:46,Hart P.FOUL (P3.PN) (K.Mauer),,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,5,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+344,0021800574,474,3,11,3,12:13 AM,3:46,,,MISS Kanter Free Throw 1 of 2,,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+345,0021800574,475,4,1,3,12:13 AM,3:46,,,Knicks Rebound,,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+346,0021800574,476,3,12,3,12:13 AM,3:46,,,Kanter Free Throw 2 of 2 (8 PTS),84 - 81,-3,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+347,0021800574,477,1,98,3,12:13 AM,3:33,Zubac 4' Cutting Layup Shot (8 PTS) (Stephenson 6 AST),,,84 - 83,-1,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+348,0021800574,479,2,98,3,12:14 AM,3:20,Zubac BLOCK (1 BLK),,MISS Hardaway Jr. 3' Cutting Layup Shot,,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,1
+349,0021800574,481,4,0,3,12:14 AM,3:17,Ingram REBOUND (Off:0 Def:5),,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+350,0021800574,482,1,41,3,12:14 AM,3:15,Ingram 2' Running Layup (16 PTS),,,84 - 85,1,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+351,0021800574,483,2,79,3,12:14 AM,2:48,,,MISS Mudiay 28' 3PT Pullup Jump Shot,,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+352,0021800574,484,4,0,3,12:14 AM,2:44,Hart REBOUND (Off:0 Def:5),,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+353,0021800574,485,1,1,3,12:14 AM,2:40,Mykhailiuk 26' 3PT Jump Shot (3 PTS) (Hart 3 AST),,,84 - 88,4,4.0,1629004,Svi Mykhailiuk,1610612747.0,Los Angeles,Lakers,LAL,4,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+354,0021800574,487,9,1,3,12:14 AM,2:39,,,Knicks Timeout: Regular (Reg.5 Short 0),,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+355,0021800574,488,2,79,3,12:16 AM,2:29,,,MISS Knox 9' Pullup Jump Shot,,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+356,0021800574,489,4,0,3,12:16 AM,2:28,LAKERS Rebound,,,,,2.0,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+357,0021800574,490,6,3,3,12:16 AM,2:28,,,Knox L.B.FOUL (P3.T3) (K.Lane),,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+358,0021800574,492,2,1,3,12:17 AM,2:16,MISS Stephenson 25' 3PT Jump Shot,,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+359,0021800574,493,4,0,3,12:17 AM,2:12,,,Mudiay REBOUND (Off:1 Def:4),,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+360,0021800574,494,1,41,3,12:17 AM,2:09,,,Mudiay 2' Running Layup (14 PTS),86 - 88,2,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+361,0021800574,495,5,40,3,12:17 AM,1:47,Zubac Out of Bounds Lost Ball Turnover (P1.T12),,,,,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+362,0021800574,496,2,1,3,12:17 AM,1:30,,,MISS Mudiay 25' 3PT Jump Shot,,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+363,0021800574,497,4,0,3,12:18 AM,1:30,LAKERS Rebound,,,,,2.0,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+364,0021800574,498,6,3,3,12:18 AM,1:30,,,Knox L.B.FOUL (P4.T4) (M.Ervin),,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+365,0021800574,500,8,0,3,12:18 AM,1:30,,,SUB: Hezonja FOR Knox,,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,5,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+366,0021800574,502,1,108,3,12:18 AM,1:15,Zubac 2' Cutting Dunk Shot (10 PTS) (Stephenson 7 AST),,,86 - 90,4,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+367,0021800574,504,2,58,3,12:19 AM,0:47,,,MISS Kanter 10' Turnaround Hook Shot,,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+368,0021800574,505,4,0,3,12:19 AM,0:44,Ingram REBOUND (Off:0 Def:6),,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+369,0021800574,506,2,6,3,12:19 AM,0:38,MISS Stephenson 4' Driving Layup,,Kanter BLOCK (2 BLK),,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,1
+370,0021800574,508,4,0,3,12:19 AM,0:34,,,Kanter REBOUND (Off:0 Def:6),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+371,0021800574,509,2,1,3,12:19 AM,0:22,,,MISS Dotson 25' 3PT Jump Shot,,,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+372,0021800574,510,4,0,3,12:19 AM,0:15,,,Kanter REBOUND (Off:1 Def:6),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+373,0021800574,511,2,97,3,12:19 AM,0:15,,,MISS Kanter 1' Tip Layup Shot,,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+374,0021800574,512,4,0,3,12:19 AM,0:15,Stephenson REBOUND (Off:0 Def:4),,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+375,0021800574,513,1,79,3,12:19 AM,0:02,Ingram 19' Pullup Jump Shot (18 PTS),,,86 - 92,6,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+376,0021800574,514,13,0,3,12:20 AM,0:00,,,,86 - 92,6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+377,0021800574,521,12,0,4,12:22 AM,12:00,,,,86 - 92,6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+378,0021800574,522,2,79,4,12:23 AM,11:39,MISS Mykhailiuk 27' 3PT Pullup Jump Shot,,,,,4.0,1629004,Svi Mykhailiuk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+379,0021800574,523,4,0,4,12:23 AM,11:35,,,Kanter REBOUND (Off:1 Def:7),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+380,0021800574,524,6,2,4,12:23 AM,11:21,Hart S.FOUL (P4.T1) (K.Lane),,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,5,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+381,0021800574,526,3,11,4,12:24 AM,11:21,,,Burke Free Throw 1 of 2 (13 PTS),87 - 92,5,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+382,0021800574,527,3,12,4,12:24 AM,11:21,,,Burke Free Throw 2 of 2 (14 PTS),88 - 92,4,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+383,0021800574,528,2,6,4,12:24 AM,11:06,MISS Stephenson 2' Driving Layup,,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+384,0021800574,529,4,0,4,12:24 AM,11:03,,,Kanter REBOUND (Off:1 Def:8),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+385,0021800574,530,1,41,4,12:24 AM,10:59,,,Hezonja 1' Running Layup (2 PTS) (Kanter 1 AST),90 - 92,2,5.0,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,5,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+386,0021800574,532,9,1,4,12:24 AM,10:59,LAKERS Timeout: Regular (Full 5 Short 0),,,,,2.0,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+387,0021800574,533,8,0,4,12:27 AM,10:59,SUB: Chandler FOR Zubac,,,,,4.0,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,4,2199,Tyson Chandler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+388,0021800574,535,2,1,4,12:28 AM,10:47,MISS Mykhailiuk 28' 3PT Jump Shot,,,,,4.0,1629004,Svi Mykhailiuk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+389,0021800574,536,4,0,4,12:28 AM,10:45,Chandler REBOUND (Off:2 Def:1),,,,,4.0,2199,Tyson Chandler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+390,0021800574,537,2,1,4,12:28 AM,10:43,MISS Mykhailiuk 26' 3PT Jump Shot,,,,,4.0,1629004,Svi Mykhailiuk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+391,0021800574,538,4,0,4,12:28 AM,10:40,,,Hezonja REBOUND (Off:0 Def:1),,,5.0,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+392,0021800574,539,6,2,4,12:28 AM,10:30,Ball S.FOUL (P4.T2) (K.Mauer),,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,5,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+393,0021800574,541,3,11,4,12:28 AM,10:30,,,MISS Hezonja Free Throw 1 of 2,,,5.0,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+394,0021800574,542,4,1,4,12:28 AM,10:30,,,Knicks Rebound,,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+395,0021800574,543,8,0,4,12:28 AM,10:30,SUB: Caldwell-Pope FOR Mykhailiuk,,,,,4.0,1629004,Svi Mykhailiuk,1610612747.0,Los Angeles,Lakers,LAL,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+396,0021800574,545,3,12,4,12:29 AM,10:30,,,Hezonja Free Throw 2 of 2 (3 PTS),91 - 92,1,5.0,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+397,0021800574,546,1,1,4,12:29 AM,10:12,Hart 28' 3PT Jump Shot (6 PTS) (Ball 1 AST),,,91 - 95,4,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+398,0021800574,549,6,1,4,12:29 AM,9:56,Stephenson P.FOUL (P3.T3) (K.Lane),,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,5,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+399,0021800574,551,1,1,4,12:30 AM,9:50,,,Hezonja 26' 3PT Jump Shot (6 PTS) (Dotson 3 AST),94 - 95,1,5.0,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+400,0021800574,553,1,6,4,12:30 AM,9:36,Stephenson 3' Driving Layup (4 PTS),,,94 - 97,3,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+401,0021800574,554,6,2,4,12:30 AM,9:36,,,Trier S.FOUL (P3.T1) (K.Lane),,,5.0,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,4,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+402,0021800574,556,3,10,4,12:30 AM,9:36,MISS Stephenson Free Throw 1 of 1,,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+403,0021800574,557,4,0,4,12:30 AM,9:33,,,Dotson REBOUND (Off:0 Def:2),,,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+404,0021800574,558,1,79,4,12:31 AM,9:19,,,Burke 15' Pullup Jump Shot (16 PTS) (Kanter 2 AST),96 - 97,1,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,5,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+405,0021800574,560,2,1,4,12:31 AM,9:06,MISS Hart 24' 3PT Jump Shot,,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+406,0021800574,561,4,0,4,12:31 AM,9:02,,,Trier REBOUND (Off:0 Def:1),,,5.0,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+407,0021800574,562,2,1,4,12:31 AM,8:56,,,MISS Kanter 13' Jump Shot,,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+408,0021800574,563,4,0,4,12:31 AM,8:54,Chandler REBOUND (Off:2 Def:2),,,,,4.0,2199,Tyson Chandler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+409,0021800574,564,2,1,4,12:31 AM,8:47,MISS Hart 24' 3PT Jump Shot,,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+410,0021800574,565,10,0,4,12:32 AM,8:42,Jump Ball Chandler vs. Kanter: Tip to Ball,,,,,4.0,2199,Tyson Chandler,1610612747.0,Los Angeles,Lakers,LAL,5,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,1
+411,0021800574,568,4,0,4,12:32 AM,8:42,LAKERS Rebound,,,,,2.0,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+412,0021800574,569,2,79,4,12:32 AM,8:38,MISS Caldwell-Pope 27' 3PT Pullup Jump Shot,,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+413,0021800574,570,4,0,4,12:32 AM,8:35,,,Trier REBOUND (Off:0 Def:2),,,5.0,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+414,0021800574,571,6,2,4,12:32 AM,8:31,Stephenson S.FOUL (P4.T4) (K.Lane),,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,5,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+415,0021800574,573,3,11,4,12:33 AM,8:31,,,MISS Hezonja Free Throw 1 of 2,,,5.0,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+416,0021800574,574,4,1,4,12:33 AM,8:31,,,Knicks Rebound,,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+417,0021800574,575,8,0,4,12:33 AM,8:31,,,SUB: Mudiay FOR Trier,,,5.0,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,5,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+418,0021800574,577,3,12,4,12:33 AM,8:31,,,Hezonja Free Throw 2 of 2 (7 PTS),97 - 97,TIE,5.0,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+419,0021800574,578,1,6,4,12:33 AM,8:15,Stephenson 2' Driving Layup (6 PTS),,,97 - 99,2,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+420,0021800574,579,2,79,4,12:34 AM,7:59,,,MISS Burke 20' Pullup Jump Shot,,,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+421,0021800574,580,4,0,4,12:34 AM,7:57,Hart REBOUND (Off:0 Def:6),,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+422,0021800574,581,2,1,4,12:34 AM,7:48,MISS Caldwell-Pope 26' 3PT Jump Shot,,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+423,0021800574,582,4,0,4,12:34 AM,7:46,,,Kanter REBOUND (Off:1 Def:9),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+424,0021800574,583,6,2,4,12:34 AM,7:42,Caldwell-Pope S.FOUL (P2.PN) (M.Ervin),,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+425,0021800574,585,3,11,4,12:34 AM,7:42,,,Dotson Free Throw 1 of 2 (10 PTS),98 - 99,1,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+426,0021800574,586,8,0,4,12:34 AM,7:42,SUB: Ingram FOR Hart,,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,4,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+427,0021800574,587,8,0,4,12:34 AM,7:42,,,SUB: Hardaway Jr. FOR Burke,,,5.0,203504,Trey Burke,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+428,0021800574,590,3,12,4,12:35 AM,7:42,,,Dotson Free Throw 2 of 2 (11 PTS),99 - 99,TIE,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+429,0021800574,591,5,1,4,12:35 AM,7:23,Stephenson Bad Pass Turnover (P2.T13),,Dotson STEAL (4 STL),,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+430,0021800574,593,6,2,4,12:35 AM,7:14,Chandler S.FOUL (P1.PN) (K.Mauer),,,,,4.0,2199,Tyson Chandler,1610612747.0,Los Angeles,Lakers,LAL,5,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+431,0021800574,595,3,11,4,12:36 AM,7:14,,,Kanter Free Throw 1 of 2 (9 PTS),100 - 99,-1,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+432,0021800574,596,3,12,4,12:36 AM,7:14,,,Kanter Free Throw 2 of 2 (10 PTS),101 - 99,-2,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+433,0021800574,597,1,80,4,12:36 AM,6:56,Ball 25' 3PT Step Back Jump Shot (14 PTS) (Caldwell-Pope 3 AST),,,101 - 102,1,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+434,0021800574,599,2,1,4,12:37 AM,6:41,,,MISS Hezonja 27' 3PT Jump Shot,,,5.0,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+435,0021800574,600,4,0,4,12:37 AM,6:36,,,Kanter REBOUND (Off:2 Def:9),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+436,0021800574,601,2,79,4,12:37 AM,6:27,,,MISS Dotson 25' 3PT Pullup Jump Shot,,,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+437,0021800574,602,4,0,4,12:37 AM,6:27,,,Knicks Rebound,,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+438,0021800574,604,8,0,4,12:37 AM,6:27,SUB: McGee FOR Chandler,,,,,4.0,2199,Tyson Chandler,1610612747.0,Los Angeles,Lakers,LAL,4,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+439,0021800574,606,6,1,4,12:38 AM,6:16,Caldwell-Pope P.FOUL (P3.PN) (K.Mauer),,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,5,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+440,0021800574,608,7,1,4,12:38 AM,6:16,,,,,,,1610612747,,,,,,0,0,,,,,,1,0,,,,,,0
+441,0021800574,609,3,11,4,12:39 AM,6:16,,,MISS Mudiay Free Throw 1 of 2,,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+442,0021800574,610,4,1,4,12:39 AM,6:16,,,Knicks Rebound,,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+443,0021800574,611,7,1,4,12:39 AM,6:16,,,,,,,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+444,0021800574,612,8,0,4,12:39 AM,6:16,,,SUB: Knox FOR Dotson,,,5.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+445,0021800574,614,3,12,4,12:39 AM,6:16,,,Mudiay Free Throw 2 of 2 (15 PTS),102 - 102,TIE,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+446,0021800574,615,2,57,4,12:39 AM,6:03,MISS Ingram 6' Driving Hook Shot,,Hezonja BLOCK (1 BLK),,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,1
+447,0021800574,617,4,0,4,12:39 AM,6:00,,,Hardaway Jr. REBOUND (Off:1 Def:5),,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+448,0021800574,618,2,41,4,12:39 AM,5:56,,,MISS Hardaway Jr. 2' Running Layup,,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+449,0021800574,619,4,0,4,12:39 AM,5:56,,,Kanter REBOUND (Off:3 Def:9),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+450,0021800574,620,1,72,4,12:39 AM,5:53,,,Kanter 2' Putback Layup (12 PTS),104 - 102,-2,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+451,0021800574,621,6,26,4,12:39 AM,5:42,McGee Offensive Charge Foul (P2.PN) (M.Ervin),,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+452,0021800574,623,5,37,4,12:39 AM,5:42,McGee Offensive Foul Turnover (P1.T14),,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+453,0021800574,624,6,4,4,12:40 AM,5:34,,,Kanter OFF.Foul (P3) (K.Mauer),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+454,0021800574,626,5,37,4,12:40 AM,5:34,,,Kanter Offensive Foul Turnover (P1.T5),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+455,0021800574,627,1,6,4,12:40 AM,5:18,Ingram 1' Driving Layup (20 PTS),,,104 - 104,TIE,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+456,0021800574,628,6,2,4,12:40 AM,5:18,,,Kanter S.FOUL (P4.T2) (K.Mauer),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,4,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+457,0021800574,630,3,10,4,12:41 AM,5:18,Ingram Free Throw 1 of 1 (21 PTS),,,104 - 105,1,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+458,0021800574,631,6,2,4,12:41 AM,5:06,Caldwell-Pope S.FOUL (P4.PN) (K.Lane),,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+459,0021800574,633,3,11,4,12:42 AM,5:06,,,Hardaway Jr. Free Throw 1 of 2 (19 PTS),105 - 105,TIE,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+460,0021800574,634,3,12,4,12:42 AM,5:06,,,Hardaway Jr. Free Throw 2 of 2 (20 PTS),106 - 105,-1,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+461,0021800574,635,6,1,4,12:42 AM,4:56,,,Hezonja P.FOUL (P1.T3) (K.Lane),,,5.0,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,4,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+462,0021800574,637,8,0,4,12:42 AM,4:56,SUB: Hart FOR Caldwell-Pope,,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+463,0021800574,639,1,6,4,12:43 AM,4:47,Stephenson 2' Driving Layup (8 PTS),,,106 - 107,1,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+464,0021800574,640,2,79,4,12:43 AM,4:34,,,MISS Hardaway Jr. 18' Pullup Jump Shot,,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+465,0021800574,641,4,0,4,12:43 AM,4:31,Ingram REBOUND (Off:0 Def:7),,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+466,0021800574,642,2,79,4,12:43 AM,4:20,MISS Ingram 4' Pullup Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+467,0021800574,643,4,0,4,12:43 AM,4:17,,,Mudiay REBOUND (Off:1 Def:5),,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+468,0021800574,644,1,74,4,12:43 AM,4:13,,,Hezonja 2' Running Reverse Layup (9 PTS) (Mudiay 6 AST),108 - 107,-1,5.0,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,5,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+469,0021800574,646,1,98,4,12:43 AM,4:00,McGee 2' Cutting Layup Shot (18 PTS) (Ball 2 AST),,,108 - 109,1,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+470,0021800574,648,6,2,4,12:44 AM,3:45,McGee S.FOUL (P3.PN) (K.Lane),,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+471,0021800574,650,3,11,4,12:44 AM,3:45,,,Knox Free Throw 1 of 2 (11 PTS),109 - 109,TIE,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+472,0021800574,651,3,12,4,12:44 AM,3:45,,,Knox Free Throw 2 of 2 (12 PTS),110 - 109,-1,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+473,0021800574,652,2,6,4,12:45 AM,3:31,MISS Ingram 3' Driving Layup,,Kanter BLOCK (3 BLK),,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,1
+474,0021800574,654,4,0,4,12:45 AM,3:28,,,Knox REBOUND (Off:1 Def:4),,,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+475,0021800574,655,6,2,4,12:45 AM,3:28,Stephenson S.FOUL (P5.PN) (K.Mauer),,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+476,0021800574,657,3,11,4,12:45 AM,3:28,,,Hardaway Jr. Free Throw 1 of 2 (21 PTS),111 - 109,-2,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+477,0021800574,658,3,12,4,12:46 AM,3:28,,,Hardaway Jr. Free Throw 2 of 2 (22 PTS),112 - 109,-3,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+478,0021800574,659,2,1,4,12:46 AM,3:12,MISS Hart 26' 3PT Jump Shot,,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+479,0021800574,660,4,0,4,12:46 AM,3:08,,,Kanter REBOUND (Off:3 Def:10),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+480,0021800574,661,2,79,4,12:46 AM,2:53,,,MISS Hardaway Jr. 27' 3PT Pullup Jump Shot,,,5.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+481,0021800574,662,4,0,4,12:46 AM,2:51,McGee REBOUND (Off:5 Def:4),,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+482,0021800574,663,2,6,4,12:46 AM,2:42,MISS Ball 2' Driving Layup,,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+483,0021800574,664,4,0,4,12:46 AM,2:38,Ball REBOUND (Off:1 Def:4),,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+484,0021800574,665,2,97,4,12:46 AM,2:38,MISS Ball 1' Tip Layup Shot,,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+485,0021800574,666,4,0,4,12:46 AM,2:37,,,Mudiay REBOUND (Off:1 Def:6),,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+486,0021800574,667,2,41,4,12:47 AM,2:34,,,MISS Mudiay 3' Running Layup,,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+487,0021800574,668,4,0,4,12:47 AM,2:32,Ingram REBOUND (Off:0 Def:8),,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+488,0021800574,669,5,40,4,12:47 AM,2:28,Ingram Out of Bounds Lost Ball Turnover (P5.T15),,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+489,0021800574,670,9,1,4,12:47 AM,2:28,,,Knicks Timeout: Regular (Reg.6 Short 0),,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+490,0021800574,671,8,0,4,12:49 AM,2:28,SUB: Caldwell-Pope FOR Stephenson,,,,,4.0,202362,Lance Stephenson,1610612747.0,Los Angeles,Lakers,LAL,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+491,0021800574,673,2,80,4,12:50 AM,2:12,,,MISS Mudiay 27' 3PT Step Back Jump Shot,,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+492,0021800574,674,4,0,4,12:50 AM,2:10,Ingram REBOUND (Off:0 Def:9),,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+493,0021800574,675,2,57,4,12:50 AM,1:56,MISS Ingram 3' Driving Hook Shot,,,,,4.0,1627742,Brandon Ingram,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+494,0021800574,677,4,0,4,12:50 AM,1:56,,,Knicks Rebound,,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+495,0021800574,679,1,102,4,12:51 AM,1:40,,,Knox 2' Driving Floating Bank Jump Shot (14 PTS) (Kanter 3 AST),114 - 109,-5,5.0,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,5,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+496,0021800574,681,9,1,4,12:51 AM,1:40,LAKERS Timeout: Regular (Full 6 Short 0),,,,,2.0,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+497,0021800574,682,5,9,4,12:53 AM,1:40,LAKERS Turnover: 5 Second Violation (T#16),,,,,2.0,1610612747,,,,,,0,0,,,,,,1,0,,,,,,0
+498,0021800574,683,5,45,4,12:53 AM,1:29,,,Hezonja Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5.0,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+499,0021800574,684,2,3,4,12:53 AM,1:17,MISS McGee 4' Hook Shot,,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+500,0021800574,685,4,0,4,12:53 AM,1:14,Hart REBOUND (Off:1 Def:6),,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+501,0021800574,686,1,1,4,12:53 AM,1:13,Ball 26' 3PT Jump Shot (17 PTS) (Hart 4 AST),,,114 - 112,-2,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,4,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+502,0021800574,688,1,98,4,12:54 AM,0:55,,,Kanter 2' Cutting Layup Shot (14 PTS) (Hezonja 1 AST),116 - 112,-4,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,5,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+503,0021800574,691,7,2,4,12:54 AM,0:55,McGee Violation:Defensive Goaltending (M.Ervin),,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+504,0021800574,692,18,0,4,12:54 AM,0:55,,,,116 - 112,-4,0.0,691,Lou Roe,,,,,0,0,,,,,,1,0,,,,,,0
+505,0021800574,693,5,1,4,12:55 AM,0:47,Ball Bad Pass Turnover (P6.T17),,Hezonja STEAL (1 STL),,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,5,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+506,0021800574,695,2,75,4,12:55 AM,0:33,,,MISS Mudiay 2' Driving Finger Roll Layup,,,5.0,1626144,Emmanuel Mudiay,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+507,0021800574,696,4,0,4,12:55 AM,0:33,,,Kanter REBOUND (Off:4 Def:10),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+508,0021800574,697,1,97,4,12:55 AM,0:33,,,Kanter 1' Tip Layup Shot (16 PTS),118 - 112,-6,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+509,0021800574,698,9,1,4,12:56 AM,0:33,LAKERS Timeout: Regular (Full 7 Short 0),,,,,2.0,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+510,0021800574,699,8,0,4,12:57 AM,0:33,SUB: Chandler FOR McGee,,,,,4.0,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,4,2199,Tyson Chandler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+511,0021800574,701,2,79,4,12:57 AM,0:31,MISS Hart 27' 3PT Pullup Jump Shot,,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+512,0021800574,702,4,0,4,12:57 AM,0:26,Ball REBOUND (Off:2 Def:4),,,,,4.0,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+513,0021800574,703,2,1,4,12:57 AM,0:24,MISS Hart 28' 3PT Jump Shot,,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+514,0021800574,704,4,0,4,12:57 AM,0:22,,,Hezonja REBOUND (Off:0 Def:2),,,5.0,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+515,0021800574,705,6,28,4,12:57 AM,0:20,Hart Personal Take Foul (P5.PN) (K.Lane),,,,,4.0,1628404,Josh Hart,1610612747.0,Los Angeles,Lakers,LAL,5,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+516,0021800574,707,3,11,4,12:58 AM,0:20,,,MISS Hezonja Free Throw 1 of 2,,,5.0,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+517,0021800574,708,4,1,4,12:58 AM,0:20,,,Knicks Rebound,,,3.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+518,0021800574,709,3,12,4,12:58 AM,0:20,,,Hezonja Free Throw 2 of 2 (10 PTS),119 - 112,-7,5.0,1626209,Mario Hezonja,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+519,0021800574,710,2,79,4,12:58 AM,0:17,MISS Caldwell-Pope 26' 3PT Pullup Jump Shot,,,,,4.0,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+520,0021800574,711,4,0,4,12:58 AM,0:13,,,Kanter REBOUND (Off:4 Def:11),,,5.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+521,0021800574,712,13,0,4,12:58 AM,0:00,,,,119 - 112,-7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

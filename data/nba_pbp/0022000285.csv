@@ -1,117 +1,461 @@
 ,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
-0,0022000285,2,12,0,1,8:14 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
-1,0022000285,4,10,0,1,8:14 PM,12:00,Jump Ball Adebayo vs. Ibaka: Tip to Olynyk,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,4,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,1
-2,0022000285,7,2,79,1,8:14 PM,11:41,MISS Robinson 26' 3PT Pullup Jump Shot,,,,,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-3,0022000285,8,4,0,1,8:14 PM,11:38,Robinson REBOUND (Off:1 Def:0),,,,,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-4,0022000285,9,1,1,1,8:15 PM,11:36,Robinson 25' 3PT Jump Shot (3 PTS),,,0 - 3,3,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-5,0022000285,10,1,3,1,8:15 PM,11:13,,,Ibaka 6' Hook Shot (2 PTS) (Kennard 1 AST),2 - 3,1,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,5,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
-6,0022000285,12,2,101,1,8:15 PM,11:04,MISS Robinson 12' Driving Floating Jump Shot,,,,,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-7,0022000285,13,4,0,1,8:15 PM,11:01,,,Mann REBOUND (Off:0 Def:1),,,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-8,0022000285,14,5,4,1,8:15 PM,10:59,,,Mann Traveling Turnover (P1.T1),,,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
-9,0022000285,15,2,6,1,8:16 PM,10:41,MISS Herro 3' Driving Layup,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-10,0022000285,16,4,0,1,8:16 PM,10:39,,,Ibaka REBOUND (Off:0 Def:1),,,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-11,0022000285,17,2,79,1,8:16 PM,10:29,,,MISS Kennard 17' Pullup Jump Shot,,,5,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-12,0022000285,18,4,0,1,8:16 PM,10:27,Olynyk REBOUND (Off:0 Def:1),,,,,4,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-13,0022000285,19,1,1,1,8:16 PM,10:18,Olynyk 25' 3PT Jump Shot (3 PTS) (Adebayo 1 AST),,,2 - 6,4,4,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
-14,0022000285,21,2,1,1,8:16 PM,9:59,,,MISS Ibaka 26' 3PT Jump Shot,,,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-15,0022000285,22,4,0,1,8:16 PM,9:57,Olynyk REBOUND (Off:0 Def:2),,,,,4,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-16,0022000285,23,2,1,1,8:17 PM,9:49,MISS Adebayo 19' Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-17,0022000285,24,4,0,1,8:17 PM,9:44,,,Batum REBOUND (Off:0 Def:1),,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-18,0022000285,25,2,80,1,8:17 PM,9:40,,,MISS Kennard 26' 3PT Step Back Jump Shot,,,5,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-19,0022000285,26,4,0,1,8:17 PM,9:38,Nunn REBOUND (Off:0 Def:1),,,,,4,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-20,0022000285,27,1,47,1,8:17 PM,9:26,Nunn 12' Turnaround Jump Shot (2 PTS),,,2 - 8,6,4,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-21,0022000285,28,1,1,1,8:17 PM,9:06,,,Batum 24' 3PT Jump Shot (3 PTS) (Kennard 2 AST),5 - 8,3,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
-22,0022000285,30,2,1,1,8:18 PM,8:49,MISS Herro  3PT Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-23,0022000285,31,4,0,1,8:18 PM,8:47,,,Batum REBOUND (Off:0 Def:2),,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-24,0022000285,32,2,1,1,8:18 PM,8:34,,,MISS Ibaka 24' 3PT Jump Shot,,,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-25,0022000285,33,4,0,1,8:18 PM,8:29,Herro REBOUND (Off:0 Def:1),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-26,0022000285,34,1,73,1,8:18 PM,8:21,Herro 2' Driving Reverse Layup (2 PTS) (Olynyk 1 AST),,,5 - 10,5,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
-27,0022000285,36,2,80,1,8:18 PM,8:02,,,MISS Mann 10' Step Back Jump Shot,,,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-28,0022000285,37,4,0,1,8:18 PM,7:59,Herro REBOUND (Off:0 Def:2),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-29,0022000285,38,2,1,1,8:19 PM,7:50,MISS Adebayo 9' Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-30,0022000285,39,4,0,1,8:19 PM,7:48,,,Batum REBOUND (Off:0 Def:3),,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-31,0022000285,40,1,80,1,8:19 PM,7:30,,,Jackson 18' Step Back Jump Shot (2 PTS),7 - 10,3,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-32,0022000285,41,2,1,1,8:19 PM,7:20,MISS Olynyk 26' 3PT Jump Shot,,,,,4,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-33,0022000285,42,4,0,1,8:19 PM,7:18,,,Ibaka REBOUND (Off:0 Def:2),,,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-34,0022000285,43,2,86,1,8:19 PM,7:06,,,MISS Batum 19' Turnaround Fadeaway Shot,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-35,0022000285,44,4,0,1,8:19 PM,7:02,Herro REBOUND (Off:0 Def:3),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-36,0022000285,45,1,1,1,8:19 PM,6:56,Robinson 26' 3PT Jump Shot (6 PTS) (Herro 1 AST),,,7 - 13,6,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
-37,0022000285,47,9,1,1,8:20 PM,6:55,,,Clippers Timeout: Regular (Reg.1 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
-38,0022000285,48,8,0,1,8:20 PM,6:55,SUB: Vincent FOR Herro,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
-39,0022000285,50,2,1,1,8:23 PM,6:41,,,MISS Batum 24' 3PT Jump Shot,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-40,0022000285,51,4,0,1,8:23 PM,6:37,Robinson REBOUND (Off:1 Def:1),,,,,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-41,0022000285,52,1,75,1,8:23 PM,6:29,Vincent 1' Driving Finger Roll Layup (2 PTS),,,7 - 15,8,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-42,0022000285,54,8,0,1,8:23 PM,6:18,,,SUB: Williams FOR Kennard,,,5,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
-43,0022000285,55,8,0,1,8:23 PM,6:18,,,SUB: Morris Sr. FOR Mann,,,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
-44,0022000285,58,2,1,1,8:24 PM,6:12,,,MISS Batum 19' Jump Shot,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-45,0022000285,59,4,0,1,8:24 PM,6:08,Adebayo REBOUND (Off:0 Def:1),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-46,0022000285,60,5,1,1,8:24 PM,5:56,Vincent Bad Pass Turnover (P1.T1),,Ibaka STEAL (1 STL),,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
-47,0022000285,62,6,2,1,8:24 PM,5:54,Nunn S.FOUL (P1.T1) (Z.Zarba),,,,,4,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
-48,0022000285,64,3,11,1,8:24 PM,5:54,,,Williams Free Throw 1 of 2 (1 PTS),8 - 15,7,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-49,0022000285,65,3,12,1,8:25 PM,5:54,,,Williams Free Throw 2 of 2 (2 PTS),9 - 15,6,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-50,0022000285,66,6,1,1,8:25 PM,5:43,,,Jackson P.FOUL (P1.T1) (J.Schroeder),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
-51,0022000285,68,8,0,1,8:25 PM,5:43,SUB: Achiuwa FOR Adebayo,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
-52,0022000285,70,5,1,1,8:26 PM,5:37,Olynyk Bad Pass Turnover (P1.T2),,Jackson STEAL (1 STL),,,4,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
-53,0022000285,72,2,58,1,8:26 PM,5:25,,,MISS Ibaka 10' Turnaround Hook Shot,,,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-54,0022000285,73,4,0,1,8:26 PM,5:23,Achiuwa REBOUND (Off:0 Def:1),,,,,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-55,0022000285,74,6,28,1,8:26 PM,5:22,,,Williams Personal Take Foul (P1.T2) (Z.Zarba),,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
-56,0022000285,76,8,0,1,8:26 PM,5:22,SUB: Strus FOR Robinson,,,,,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
-57,0022000285,77,8,0,1,8:26 PM,5:22,,,SUB: Zubac FOR Ibaka,,,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
-58,0022000285,80,1,1,1,8:27 PM,5:11,Vincent 27' 3PT Jump Shot (5 PTS) (Nunn 1 AST),,,9 - 18,9,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
-59,0022000285,82,2,1,1,8:27 PM,4:49,,,MISS Morris Sr. 26' 3PT Jump Shot,,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-60,0022000285,83,4,0,1,8:27 PM,4:44,,,Zubac REBOUND (Off:1 Def:0),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-61,0022000285,84,2,97,1,8:27 PM,4:44,,,MISS Zubac  Tip Layup Shot,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-62,0022000285,85,4,0,1,8:27 PM,4:40,Vincent REBOUND (Off:0 Def:1),,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-63,0022000285,86,1,1,1,8:27 PM,4:36,Olynyk 26' 3PT Jump Shot (6 PTS) (Vincent 1 AST),,,9 - 21,12,4,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
-64,0022000285,88,6,2,1,8:27 PM,4:22,Nunn S.FOUL (P2.T2) (J.Schroeder),,,,,4,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
-65,0022000285,90,3,11,1,8:28 PM,4:22,,,Zubac Free Throw 1 of 2 (1 PTS),10 - 21,11,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-66,0022000285,95,3,12,1,8:28 PM,4:22,,,Zubac Free Throw 2 of 2 (2 PTS),11 - 21,10,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-67,0022000285,91,8,0,1,8:28 PM,4:22,SUB: Herro FOR Nunn,,,,,4,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
-68,0022000285,92,8,0,1,8:28 PM,4:22,,,SUB: Coffey FOR Batum,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
-69,0022000285,96,2,101,1,8:28 PM,4:03,MISS Vincent 10' Driving Floating Jump Shot,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-70,0022000285,97,4,0,1,8:28 PM,4:02,Achiuwa REBOUND (Off:1 Def:1),,,,,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-71,0022000285,98,1,72,1,8:29 PM,4:01,Achiuwa 2' Putback Layup (2 PTS),,,11 - 23,12,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-72,0022000285,99,6,2,1,8:29 PM,4:01,,,Zubac S.FOUL (P1.T3) (Z.Zarba),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
-73,0022000285,101,3,10,1,8:29 PM,4:01,Achiuwa Free Throw 1 of 1 (3 PTS),,,11 - 24,13,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-74,0022000285,102,2,79,1,8:30 PM,3:44,,,MISS Morris Sr. 16' Pullup Jump Shot,,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-75,0022000285,103,4,0,1,8:30 PM,3:41,Olynyk REBOUND (Off:0 Def:3),,,,,4,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-76,0022000285,104,2,6,1,8:30 PM,3:39,MISS Herro 2' Driving Layup,,Zubac BLOCK (1 BLK),,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1
-77,0022000285,106,4,0,1,8:30 PM,3:37,,,Jackson REBOUND (Off:0 Def:1),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-78,0022000285,107,2,101,1,8:30 PM,3:28,,,MISS Williams 6' Driving Floating Jump Shot,,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-79,0022000285,108,4,0,1,8:30 PM,3:24,Olynyk REBOUND (Off:0 Def:4),,,,,4,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-80,0022000285,109,1,80,1,8:30 PM,3:19,Vincent 28' 3PT Step Back Jump Shot (8 PTS),,,11 - 27,16,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-81,0022000285,110,9,1,1,8:30 PM,3:19,,,Clippers Timeout: Regular (Reg.2 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
-82,0022000285,111,8,0,1,8:31 PM,3:19,,,SUB: Mann FOR Jackson,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
-83,0022000285,113,5,2,1,8:33 PM,3:00,Vincent STEAL (1 STL),,Coffey Lost Ball Turnover (P1.T2),,,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
-84,0022000285,115,6,2,1,8:33 PM,2:54,,,Morris Sr. S.FOUL (P1.T4) (B.Barnaky),,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
-85,0022000285,117,3,11,1,8:34 PM,2:54,MISS Achiuwa Free Throw 1 of 2,,,,,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-86,0022000285,118,4,1,1,8:34 PM,2:54,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
-87,0022000285,119,3,12,1,8:34 PM,2:54,MISS Achiuwa Free Throw 2 of 2,,,,,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-88,0022000285,120,4,0,1,8:34 PM,2:51,,,Morris Sr. REBOUND (Off:0 Def:1),,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-89,0022000285,121,1,6,1,8:35 PM,2:36,,,Mann 1' Driving Layup (2 PTS),13 - 27,14,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-90,0022000285,122,5,1,1,8:35 PM,2:21,Vincent Bad Pass Turnover (P2.T3),,Morris Sr. STEAL (1 STL),,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
-91,0022000285,124,6,2,1,8:35 PM,2:17,Achiuwa S.FOUL (P1.T3) (J.Schroeder),,,,,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
-92,0022000285,126,3,11,1,8:35 PM,2:17,,,Morris Sr. Free Throw 1 of 2 (1 PTS),14 - 27,13,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-93,0022000285,127,3,12,1,8:36 PM,2:17,,,Morris Sr. Free Throw 2 of 2 (2 PTS),15 - 27,12,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-94,0022000285,128,1,1,1,8:36 PM,2:04,Strus 27' 3PT Jump Shot (3 PTS) (Vincent 2 AST),,,15 - 30,15,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
-95,0022000285,130,2,1,1,8:36 PM,1:41,,,MISS Morris Sr. 26' 3PT Jump Shot,,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-96,0022000285,131,4,0,1,8:36 PM,1:37,Vincent REBOUND (Off:0 Def:2),,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-97,0022000285,132,1,1,1,8:36 PM,1:33,Strus 26' 3PT Jump Shot (6 PTS) (Vincent 3 AST),,,15 - 33,18,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
-98,0022000285,134,6,1,1,8:37 PM,1:24,Vincent P.FOUL (P1.T4) (B.Barnaky),,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
-99,0022000285,136,2,1,1,8:37 PM,1:16,,,MISS Mann 24' 3PT Jump Shot,,,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-100,0022000285,137,4,0,1,8:37 PM,1:14,Herro REBOUND (Off:0 Def:4),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-101,0022000285,138,2,1,1,8:37 PM,1:06,MISS Strus 26' 3PT Jump Shot,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-102,0022000285,139,4,0,1,8:37 PM,1:03,,,Morris Sr. REBOUND (Off:0 Def:2),,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-103,0022000285,140,2,6,1,8:37 PM,0:55,,,MISS Williams 2' Driving Layup,,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-104,0022000285,141,4,0,1,8:37 PM,0:54,,,Zubac REBOUND (Off:2 Def:0),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-105,0022000285,142,1,107,1,8:37 PM,0:54,,,Zubac  Tip Dunk Shot (4 PTS),17 - 33,16,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-106,0022000285,143,2,1,1,8:38 PM,0:39,MISS Strus  3PT Jump Shot,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-107,0022000285,144,4,0,1,8:38 PM,0:35,,,Coffey REBOUND (Off:0 Def:1),,,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-108,0022000285,145,2,6,1,8:38 PM,0:31,,,MISS Coffey 2' Driving Layup,,,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-109,0022000285,146,4,0,1,8:38 PM,0:28,,,Morris Sr. REBOUND (Off:1 Def:2),,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-110,0022000285,147,1,97,1,8:38 PM,0:28,,,Morris Sr.  Tip Layup Shot (4 PTS),19 - 33,14,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-111,0022000285,148,2,102,1,8:38 PM,0:10,MISS Vincent 8' Driving Floating Bank Jump Shot,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-112,0022000285,149,4,0,1,8:38 PM,0:08,,,Coffey REBOUND (Off:0 Def:2),,,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-113,0022000285,150,2,1,1,8:38 PM,0:03,,,MISS Morris Sr. 24' 3PT Jump Shot,,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
-114,0022000285,151,4,0,1,8:38 PM,0:02,Achiuwa REBOUND (Off:1 Def:2),,,,,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
-115,0022000285,152,13,0,1,8:39 PM,0:00,,,,19 - 33,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0,0022000285,2,12,0,1,8:14 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0022000285,4,10,0,1,8:14 PM,12:00,Jump Ball Adebayo vs. Ibaka: Tip to Olynyk,,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,4,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,1
+2,0022000285,7,2,79,1,8:14 PM,11:41,MISS Robinson 26' 3PT Pullup Jump Shot,,,,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+3,0022000285,8,4,0,1,8:14 PM,11:38,Robinson REBOUND (Off:1 Def:0),,,,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+4,0022000285,9,1,1,1,8:15 PM,11:36,Robinson 25' 3PT Jump Shot (3 PTS),,,0 - 3,3,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+5,0022000285,10,1,3,1,8:15 PM,11:13,,,Ibaka 6' Hook Shot (2 PTS) (Kennard 1 AST),2 - 3,1,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,5,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+6,0022000285,12,2,101,1,8:15 PM,11:04,MISS Robinson 12' Driving Floating Jump Shot,,,,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+7,0022000285,13,4,0,1,8:15 PM,11:01,,,Mann REBOUND (Off:0 Def:1),,,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+8,0022000285,14,5,4,1,8:15 PM,10:59,,,Mann Traveling Turnover (P1.T1),,,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+9,0022000285,15,2,6,1,8:16 PM,10:41,MISS Herro 3' Driving Layup,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+10,0022000285,16,4,0,1,8:16 PM,10:39,,,Ibaka REBOUND (Off:0 Def:1),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+11,0022000285,17,2,79,1,8:16 PM,10:29,,,MISS Kennard 17' Pullup Jump Shot,,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+12,0022000285,18,4,0,1,8:16 PM,10:27,Olynyk REBOUND (Off:0 Def:1),,,,,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+13,0022000285,19,1,1,1,8:16 PM,10:18,Olynyk 25' 3PT Jump Shot (3 PTS) (Adebayo 1 AST),,,2 - 6,4,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+14,0022000285,21,2,1,1,8:16 PM,9:59,,,MISS Ibaka 26' 3PT Jump Shot,,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+15,0022000285,22,4,0,1,8:16 PM,9:57,Olynyk REBOUND (Off:0 Def:2),,,,,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+16,0022000285,23,2,1,1,8:17 PM,9:49,MISS Adebayo 19' Jump Shot,,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+17,0022000285,24,4,0,1,8:17 PM,9:44,,,Batum REBOUND (Off:0 Def:1),,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+18,0022000285,25,2,80,1,8:17 PM,9:40,,,MISS Kennard 26' 3PT Step Back Jump Shot,,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+19,0022000285,26,4,0,1,8:17 PM,9:38,Nunn REBOUND (Off:0 Def:1),,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+20,0022000285,27,1,47,1,8:17 PM,9:26,Nunn 12' Turnaround Jump Shot (2 PTS),,,2 - 8,6,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+21,0022000285,28,1,1,1,8:17 PM,9:06,,,Batum 24' 3PT Jump Shot (3 PTS) (Kennard 2 AST),5 - 8,3,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+22,0022000285,30,2,1,1,8:18 PM,8:49,MISS Herro  3PT Jump Shot,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+23,0022000285,31,4,0,1,8:18 PM,8:47,,,Batum REBOUND (Off:0 Def:2),,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+24,0022000285,32,2,1,1,8:18 PM,8:34,,,MISS Ibaka 24' 3PT Jump Shot,,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+25,0022000285,33,4,0,1,8:18 PM,8:29,Herro REBOUND (Off:0 Def:1),,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+26,0022000285,34,1,73,1,8:18 PM,8:21,Herro 2' Driving Reverse Layup (2 PTS) (Olynyk 1 AST),,,5 - 10,5,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+27,0022000285,36,2,80,1,8:18 PM,8:02,,,MISS Mann 10' Step Back Jump Shot,,,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+28,0022000285,37,4,0,1,8:18 PM,7:59,Herro REBOUND (Off:0 Def:2),,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+29,0022000285,38,2,1,1,8:19 PM,7:50,MISS Adebayo 9' Jump Shot,,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+30,0022000285,39,4,0,1,8:19 PM,7:48,,,Batum REBOUND (Off:0 Def:3),,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+31,0022000285,40,1,80,1,8:19 PM,7:30,,,Jackson 18' Step Back Jump Shot (2 PTS),7 - 10,3,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+32,0022000285,41,2,1,1,8:19 PM,7:20,MISS Olynyk 26' 3PT Jump Shot,,,,,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+33,0022000285,42,4,0,1,8:19 PM,7:18,,,Ibaka REBOUND (Off:0 Def:2),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+34,0022000285,43,2,86,1,8:19 PM,7:06,,,MISS Batum 19' Turnaround Fadeaway Shot,,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+35,0022000285,44,4,0,1,8:19 PM,7:02,Herro REBOUND (Off:0 Def:3),,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+36,0022000285,45,1,1,1,8:19 PM,6:56,Robinson 26' 3PT Jump Shot (6 PTS) (Herro 1 AST),,,7 - 13,6,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+37,0022000285,47,9,1,1,8:20 PM,6:55,,,Clippers Timeout: Regular (Reg.1 Short 0),,,3.0,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+38,0022000285,48,8,0,1,8:20 PM,6:55,SUB: Vincent FOR Herro,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+39,0022000285,50,2,1,1,8:23 PM,6:41,,,MISS Batum 24' 3PT Jump Shot,,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+40,0022000285,51,4,0,1,8:23 PM,6:37,Robinson REBOUND (Off:1 Def:1),,,,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+41,0022000285,52,1,75,1,8:23 PM,6:29,Vincent 1' Driving Finger Roll Layup (2 PTS),,,7 - 15,8,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+42,0022000285,54,8,0,1,8:23 PM,6:18,,,SUB: Williams FOR Kennard,,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+43,0022000285,55,8,0,1,8:23 PM,6:18,,,SUB: Morris Sr. FOR Mann,,,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+44,0022000285,58,2,1,1,8:24 PM,6:12,,,MISS Batum 19' Jump Shot,,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+45,0022000285,59,4,0,1,8:24 PM,6:08,Adebayo REBOUND (Off:0 Def:1),,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+46,0022000285,60,5,1,1,8:24 PM,5:56,Vincent Bad Pass Turnover (P1.T1),,Ibaka STEAL (1 STL),,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+47,0022000285,62,6,2,1,8:24 PM,5:54,Nunn S.FOUL (P1.T1) (Z.Zarba),,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+48,0022000285,64,3,11,1,8:24 PM,5:54,,,Williams Free Throw 1 of 2 (1 PTS),8 - 15,7,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+49,0022000285,65,3,12,1,8:25 PM,5:54,,,Williams Free Throw 2 of 2 (2 PTS),9 - 15,6,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+50,0022000285,66,6,1,1,8:25 PM,5:43,,,Jackson P.FOUL (P1.T1) (J.Schroeder),,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+51,0022000285,68,8,0,1,8:25 PM,5:43,SUB: Achiuwa FOR Adebayo,,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+52,0022000285,70,5,1,1,8:26 PM,5:37,Olynyk Bad Pass Turnover (P1.T2),,Jackson STEAL (1 STL),,,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+53,0022000285,72,2,58,1,8:26 PM,5:25,,,MISS Ibaka 10' Turnaround Hook Shot,,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+54,0022000285,73,4,0,1,8:26 PM,5:23,Achiuwa REBOUND (Off:0 Def:1),,,,,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+55,0022000285,74,6,28,1,8:26 PM,5:22,,,Williams Personal Take Foul (P1.T2) (Z.Zarba),,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+56,0022000285,76,8,0,1,8:26 PM,5:22,SUB: Strus FOR Robinson,,,,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+57,0022000285,77,8,0,1,8:26 PM,5:22,,,SUB: Zubac FOR Ibaka,,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+58,0022000285,80,1,1,1,8:27 PM,5:11,Vincent 27' 3PT Jump Shot (5 PTS) (Nunn 1 AST),,,9 - 18,9,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+59,0022000285,82,2,1,1,8:27 PM,4:49,,,MISS Morris Sr. 26' 3PT Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+60,0022000285,83,4,0,1,8:27 PM,4:44,,,Zubac REBOUND (Off:1 Def:0),,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+61,0022000285,84,2,97,1,8:27 PM,4:44,,,MISS Zubac  Tip Layup Shot,,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+62,0022000285,85,4,0,1,8:27 PM,4:40,Vincent REBOUND (Off:0 Def:1),,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+63,0022000285,86,1,1,1,8:27 PM,4:36,Olynyk 26' 3PT Jump Shot (6 PTS) (Vincent 1 AST),,,9 - 21,12,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+64,0022000285,88,6,2,1,8:27 PM,4:22,Nunn S.FOUL (P2.T2) (J.Schroeder),,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+65,0022000285,90,3,11,1,8:28 PM,4:22,,,Zubac Free Throw 1 of 2 (1 PTS),10 - 21,11,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+66,0022000285,95,3,12,1,8:28 PM,4:22,,,Zubac Free Throw 2 of 2 (2 PTS),11 - 21,10,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+67,0022000285,91,8,0,1,8:28 PM,4:22,SUB: Herro FOR Nunn,,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+68,0022000285,92,8,0,1,8:28 PM,4:22,,,SUB: Coffey FOR Batum,,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+69,0022000285,96,2,101,1,8:28 PM,4:03,MISS Vincent 10' Driving Floating Jump Shot,,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+70,0022000285,97,4,0,1,8:28 PM,4:02,Achiuwa REBOUND (Off:1 Def:1),,,,,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+71,0022000285,98,1,72,1,8:29 PM,4:01,Achiuwa 2' Putback Layup (2 PTS),,,11 - 23,12,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+72,0022000285,99,6,2,1,8:29 PM,4:01,,,Zubac S.FOUL (P1.T3) (Z.Zarba),,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+73,0022000285,101,3,10,1,8:29 PM,4:01,Achiuwa Free Throw 1 of 1 (3 PTS),,,11 - 24,13,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+74,0022000285,102,2,79,1,8:30 PM,3:44,,,MISS Morris Sr. 16' Pullup Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+75,0022000285,103,4,0,1,8:30 PM,3:41,Olynyk REBOUND (Off:0 Def:3),,,,,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+76,0022000285,104,2,6,1,8:30 PM,3:39,MISS Herro 2' Driving Layup,,Zubac BLOCK (1 BLK),,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1
+77,0022000285,106,4,0,1,8:30 PM,3:37,,,Jackson REBOUND (Off:0 Def:1),,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+78,0022000285,107,2,101,1,8:30 PM,3:28,,,MISS Williams 6' Driving Floating Jump Shot,,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+79,0022000285,108,4,0,1,8:30 PM,3:24,Olynyk REBOUND (Off:0 Def:4),,,,,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+80,0022000285,109,1,80,1,8:30 PM,3:19,Vincent 28' 3PT Step Back Jump Shot (8 PTS),,,11 - 27,16,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+81,0022000285,110,9,1,1,8:30 PM,3:19,,,Clippers Timeout: Regular (Reg.2 Short 0),,,3.0,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+82,0022000285,111,8,0,1,8:31 PM,3:19,,,SUB: Mann FOR Jackson,,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+83,0022000285,113,5,2,1,8:33 PM,3:00,Vincent STEAL (1 STL),,Coffey Lost Ball Turnover (P1.T2),,,5.0,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+84,0022000285,115,6,2,1,8:33 PM,2:54,,,Morris Sr. S.FOUL (P1.T4) (B.Barnaky),,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+85,0022000285,117,3,11,1,8:34 PM,2:54,MISS Achiuwa Free Throw 1 of 2,,,,,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+86,0022000285,118,4,1,1,8:34 PM,2:54,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+87,0022000285,119,3,12,1,8:34 PM,2:54,MISS Achiuwa Free Throw 2 of 2,,,,,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+88,0022000285,120,4,0,1,8:34 PM,2:51,,,Morris Sr. REBOUND (Off:0 Def:1),,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+89,0022000285,121,1,6,1,8:35 PM,2:36,,,Mann 1' Driving Layup (2 PTS),13 - 27,14,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+90,0022000285,122,5,1,1,8:35 PM,2:21,Vincent Bad Pass Turnover (P2.T3),,Morris Sr. STEAL (1 STL),,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+91,0022000285,124,6,2,1,8:35 PM,2:17,Achiuwa S.FOUL (P1.T3) (J.Schroeder),,,,,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+92,0022000285,126,3,11,1,8:35 PM,2:17,,,Morris Sr. Free Throw 1 of 2 (1 PTS),14 - 27,13,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+93,0022000285,127,3,12,1,8:36 PM,2:17,,,Morris Sr. Free Throw 2 of 2 (2 PTS),15 - 27,12,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+94,0022000285,128,1,1,1,8:36 PM,2:04,Strus 27' 3PT Jump Shot (3 PTS) (Vincent 2 AST),,,15 - 30,15,4.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+95,0022000285,130,2,1,1,8:36 PM,1:41,,,MISS Morris Sr. 26' 3PT Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+96,0022000285,131,4,0,1,8:36 PM,1:37,Vincent REBOUND (Off:0 Def:2),,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+97,0022000285,132,1,1,1,8:36 PM,1:33,Strus 26' 3PT Jump Shot (6 PTS) (Vincent 3 AST),,,15 - 33,18,4.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+98,0022000285,134,6,1,1,8:37 PM,1:24,Vincent P.FOUL (P1.T4) (B.Barnaky),,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+99,0022000285,136,2,1,1,8:37 PM,1:16,,,MISS Mann 24' 3PT Jump Shot,,,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+100,0022000285,137,4,0,1,8:37 PM,1:14,Herro REBOUND (Off:0 Def:4),,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+101,0022000285,138,2,1,1,8:37 PM,1:06,MISS Strus 26' 3PT Jump Shot,,,,,4.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+102,0022000285,139,4,0,1,8:37 PM,1:03,,,Morris Sr. REBOUND (Off:0 Def:2),,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+103,0022000285,140,2,6,1,8:37 PM,0:55,,,MISS Williams 2' Driving Layup,,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+104,0022000285,141,4,0,1,8:37 PM,0:54,,,Zubac REBOUND (Off:2 Def:0),,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+105,0022000285,142,1,107,1,8:37 PM,0:54,,,Zubac  Tip Dunk Shot (4 PTS),17 - 33,16,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+106,0022000285,143,2,1,1,8:38 PM,0:39,MISS Strus  3PT Jump Shot,,,,,4.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+107,0022000285,144,4,0,1,8:38 PM,0:35,,,Coffey REBOUND (Off:0 Def:1),,,5.0,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+108,0022000285,145,2,6,1,8:38 PM,0:31,,,MISS Coffey 2' Driving Layup,,,5.0,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+109,0022000285,146,4,0,1,8:38 PM,0:28,,,Morris Sr. REBOUND (Off:1 Def:2),,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+110,0022000285,147,1,97,1,8:38 PM,0:28,,,Morris Sr.  Tip Layup Shot (4 PTS),19 - 33,14,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+111,0022000285,148,2,102,1,8:38 PM,0:10,MISS Vincent 8' Driving Floating Bank Jump Shot,,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+112,0022000285,149,4,0,1,8:38 PM,0:08,,,Coffey REBOUND (Off:0 Def:2),,,5.0,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+113,0022000285,150,2,1,1,8:38 PM,0:03,,,MISS Morris Sr. 24' 3PT Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+114,0022000285,151,4,0,1,8:38 PM,0:02,Achiuwa REBOUND (Off:1 Def:2),,,,,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+115,0022000285,152,13,0,1,8:39 PM,0:00,,,,19 - 33,14,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+116,0022000285,161,12,0,2,8:41 PM,12:00,,,,19 - 33,14,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+117,0022000285,162,2,1,2,8:42 PM,11:42,,,MISS Kennard 24' 3PT Jump Shot,,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+118,0022000285,163,4,0,2,8:42 PM,11:35,,,Zubac REBOUND (Off:3 Def:0),,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+119,0022000285,164,2,6,2,8:42 PM,11:32,Okpala BLOCK (1 BLK),,MISS Williams 8' Driving Layup,,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,4,1629644,KZ Okpala,1610612748.0,Miami,Heat,MIA,1
+120,0022000285,166,4,0,2,8:42 PM,11:31,,,Williams REBOUND (Off:1 Def:0),,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+121,0022000285,167,6,2,2,8:42 PM,11:31,Vincent S.FOUL (P2.T1) (J.Schroeder),,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+122,0022000285,169,3,11,2,8:42 PM,11:31,,,Williams Free Throw 1 of 2 (3 PTS),20 - 33,13,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+123,0022000285,170,3,12,2,8:42 PM,11:31,,,Williams Free Throw 2 of 2 (4 PTS),21 - 33,12,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+124,0022000285,171,2,1,2,8:43 PM,11:15,MISS Okpala 25' 3PT Jump Shot,,,,,4.0,1629644,KZ Okpala,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+125,0022000285,172,4,0,2,8:43 PM,11:13,,,Coffey REBOUND (Off:0 Def:3),,,5.0,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+126,0022000285,173,2,1,2,8:43 PM,11:02,,,MISS Morris Sr. 24' 3PT Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+127,0022000285,174,4,0,2,8:43 PM,10:59,Okpala REBOUND (Off:0 Def:1),,,,,4.0,1629644,KZ Okpala,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+128,0022000285,175,1,79,2,8:43 PM,10:43,Vincent 13' Pullup Jump Shot (10 PTS) (Adebayo 2 AST),,,21 - 35,14,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+129,0022000285,177,1,79,2,8:43 PM,10:34,,,Kennard 11' Pullup Jump Shot (2 PTS),23 - 35,12,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+130,0022000285,179,6,17,2,8:44 PM,10:23,,,Clippers T.Foul (Def. 3 Sec Zubac ) (B.Barnaky),,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+131,0022000285,180,3,16,2,8:44 PM,10:23,Adebayo Free Throw Technical (1 PTS),,,23 - 36,13,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+132,0022000285,181,8,0,2,8:44 PM,10:23,SUB: Nunn FOR Vincent,,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+133,0022000285,182,8,0,2,8:44 PM,10:23,,,SUB: Batum FOR Morris Sr.,,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+134,0022000285,185,2,1,2,8:45 PM,10:08,MISS Herro 19' Jump Shot,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+135,0022000285,186,4,0,2,8:45 PM,10:04,,,Williams REBOUND (Off:1 Def:1),,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+136,0022000285,187,1,58,2,8:45 PM,9:56,,,Zubac 6' Turnaround Hook Shot (6 PTS) (Batum 1 AST),25 - 36,11,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+137,0022000285,189,2,79,2,8:45 PM,9:50,MISS Adebayo 10' Pullup Jump Shot,,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+138,0022000285,190,4,0,2,8:45 PM,9:48,,,Williams REBOUND (Off:1 Def:2),,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+139,0022000285,191,6,1,2,8:46 PM,9:30,Robinson P.FOUL (P1.T2) (Z.Zarba),,,,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+140,0022000285,193,8,0,2,8:46 PM,9:30,SUB: Vincent FOR Herro,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+141,0022000285,195,2,1,2,8:46 PM,9:16,,,MISS Coffey 26' 3PT Jump Shot,,,5.0,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+142,0022000285,196,4,0,2,8:46 PM,9:12,Vincent REBOUND (Off:0 Def:3),,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+143,0022000285,197,6,1,2,8:46 PM,9:00,,,Kennard P.FOUL (P1.T1) (J.Schroeder),,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+144,0022000285,199,6,1,2,8:47 PM,8:53,,,Coffey P.FOUL (P1.T2) (Z.Zarba),,,5.0,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+145,0022000285,201,8,0,2,8:47 PM,8:53,,,SUB: Jackson FOR Williams,,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+146,0022000285,203,2,1,2,8:47 PM,8:42,MISS Vincent  3PT Jump Shot,,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+147,0022000285,204,4,0,2,8:47 PM,8:40,,,Jackson REBOUND (Off:0 Def:2),,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+148,0022000285,205,1,73,2,8:47 PM,8:36,,,Kennard 1' Driving Reverse Layup (4 PTS) (Jackson 1 AST),27 - 36,9,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+149,0022000285,207,9,1,2,8:48 PM,8:36,HEAT Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+150,0022000285,208,6,1,2,8:51 PM,8:17,,,Batum P.FOUL (P1.T3) (J.Schroeder),,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+151,0022000285,210,8,0,2,8:51 PM,8:17,SUB: Strus FOR Vincent,,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+152,0022000285,212,2,79,2,8:51 PM,8:08,MISS Adebayo 9' Pullup Jump Shot,,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+153,0022000285,213,4,0,2,8:51 PM,8:04,,,Kennard REBOUND (Off:0 Def:1),,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+154,0022000285,214,5,4,2,8:51 PM,8:01,,,Jackson Traveling Turnover (P1.T3),,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+155,0022000285,215,2,98,2,8:52 PM,7:51,MISS Robinson 2' Cutting Layup Shot,,,,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+156,0022000285,216,4,0,2,8:52 PM,7:48,,,Zubac REBOUND (Off:3 Def:1),,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+157,0022000285,217,2,80,2,8:52 PM,7:29,,,MISS Jackson 19' Step Back Jump Shot,,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+158,0022000285,218,4,0,2,8:52 PM,7:25,Adebayo REBOUND (Off:0 Def:2),,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+159,0022000285,219,2,6,2,8:52 PM,7:19,MISS Okpala 3' Driving Layup,,,,,4.0,1629644,KZ Okpala,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+160,0022000285,220,4,0,2,8:52 PM,7:17,,,Jackson REBOUND (Off:0 Def:3),,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+161,0022000285,221,1,98,2,8:53 PM,7:12,,,Kennard 1' Cutting Layup Shot (6 PTS) (Jackson 2 AST),29 - 36,7,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+162,0022000285,223,2,1,2,8:53 PM,6:50,MISS Nunn 25' 3PT Jump Shot,,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+163,0022000285,224,4,0,2,8:53 PM,6:48,,,Jackson REBOUND (Off:0 Def:4),,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+164,0022000285,225,5,2,2,8:53 PM,6:33,Robinson STEAL (1 STL),,Kennard Lost Ball Turnover (P1.T4),,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+165,0022000285,227,6,28,2,8:53 PM,6:33,,,Coffey Personal Take Foul (P2.T4) (B.Barnaky),,,5.0,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,4,1629644,KZ Okpala,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+166,0022000285,236,8,0,2,8:54 PM,6:33,SUB: Olynyk FOR Okpala,,,,,4.0,1629644,KZ Okpala,1610612748.0,Miami,Heat,MIA,4,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+167,0022000285,229,5,1,2,8:54 PM,6:21,Strus Bad Pass Turnover (P1.T4),,Coffey STEAL (1 STL),,,4.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+168,0022000285,231,1,41,2,8:54 PM,6:17,,,Coffey 2' Running Layup (2 PTS),31 - 36,5,5.0,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+169,0022000285,232,1,1,2,8:54 PM,6:01,Strus 24' 3PT Jump Shot (9 PTS) (Adebayo 3 AST),,,31 - 39,8,4.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+170,0022000285,234,2,79,2,8:54 PM,5:47,,,MISS Kennard 26' 3PT Pullup Jump Shot,,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+171,0022000285,235,4,0,2,8:54 PM,5:45,Adebayo REBOUND (Off:0 Def:3),,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+172,0022000285,238,5,1,2,8:55 PM,5:36,Adebayo Bad Pass Turnover (P1.T5),,Coffey STEAL (2 STL),,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+173,0022000285,246,2,1,2,8:55 PM,5:27,,,MISS Jackson 24' 3PT Jump Shot,,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+174,0022000285,247,4,0,2,8:55 PM,5:26,,,Zubac REBOUND (Off:4 Def:1),,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+175,0022000285,248,2,6,2,8:55 PM,5:25,,,MISS Batum 2' Driving Layup,,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+176,0022000285,249,4,0,2,8:55 PM,5:25,Adebayo REBOUND (Off:0 Def:4),,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+177,0022000285,244,1,75,2,8:55 PM,5:10,Nunn 2' Driving Finger Roll Layup (4 PTS),,,31 - 41,10,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+178,0022000285,245,9,1,2,8:55 PM,5:10,,,Clippers Timeout: Regular (Reg.3 Short 0),,,3.0,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+179,0022000285,250,8,0,2,8:57 PM,5:10,,,SUB: Ibaka FOR Coffey,,,5.0,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+180,0022000285,251,8,0,2,8:57 PM,5:10,,,SUB: Mann FOR Zubac,,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+181,0022000285,254,2,101,2,8:58 PM,4:56,,,MISS Jackson 9' Driving Floating Jump Shot,,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+182,0022000285,255,4,0,2,8:58 PM,4:54,,,Ibaka REBOUND (Off:1 Def:2),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+183,0022000285,256,2,72,2,8:59 PM,4:52,,,MISS Ibaka 7' Putback Layup,,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+184,0022000285,257,4,0,2,8:59 PM,4:49,Adebayo REBOUND (Off:0 Def:5),,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+185,0022000285,258,2,80,2,8:59 PM,4:38,MISS Olynyk 26' 3PT Step Back Jump Shot,,,,,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+186,0022000285,259,4,0,2,8:59 PM,4:33,,,Batum REBOUND (Off:0 Def:4),,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+187,0022000285,260,1,1,2,8:59 PM,4:15,,,Batum 25' 3PT Jump Shot (6 PTS) (Mann 1 AST),34 - 41,7,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+188,0022000285,262,2,79,2,8:59 PM,3:57,MISS Nunn 15' Pullup Jump Shot,,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+189,0022000285,263,4,0,2,8:59 PM,3:54,,,Kennard REBOUND (Off:0 Def:2),,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+190,0022000285,264,6,1,2,9:00 PM,3:53,Strus P.FOUL (P1.T3) (Z.Zarba),,,,,4.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+191,0022000285,266,8,0,2,9:00 PM,3:53,,,SUB: Williams FOR Batum,,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+192,0022000285,279,8,0,2,9:00 PM,3:53,,,SUB: Morris Sr. FOR Kennard,,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+193,0022000285,268,1,79,2,9:00 PM,3:42,,,Morris Sr. 8' Pullup Jump Shot (6 PTS),36 - 41,5,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+194,0022000285,269,1,78,2,9:01 PM,3:28,Adebayo 13' Floating Jump Shot (3 PTS) (Nunn 2 AST),,,36 - 43,7,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+195,0022000285,273,6,1,2,9:01 PM,3:19,Nunn P.FOUL (P3.T4) (Z.Zarba),,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+196,0022000285,275,8,0,2,9:01 PM,3:19,SUB: Herro FOR Nunn,,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+197,0022000285,276,8,0,2,9:01 PM,3:19,SUB: Vincent FOR Robinson,,,,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+198,0022000285,281,1,1,2,9:01 PM,3:13,,,Jackson 26' 3PT Jump Shot (5 PTS) (Williams 1 AST),39 - 43,4,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+199,0022000285,283,2,6,2,9:02 PM,2:59,MISS Vincent 2' Driving Layup,,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+200,0022000285,284,4,0,2,9:02 PM,2:59,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+201,0022000285,285,6,3,2,9:02 PM,2:59,,,Ibaka L.B.FOUL (P1.PN) (J.Schroeder),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+202,0022000285,287,3,11,2,9:02 PM,2:59,Adebayo Free Throw 1 of 2 (4 PTS),,,39 - 44,5,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+203,0022000285,288,8,0,2,9:02 PM,2:59,SUB: Okpala FOR Olynyk,,,,,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,4,1629644,KZ Okpala,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+204,0022000285,290,3,12,2,9:03 PM,2:59,Adebayo Free Throw 2 of 2 (5 PTS),,,39 - 45,6,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+205,0022000285,291,1,1,2,9:03 PM,2:39,,,Jackson 26' 3PT Jump Shot (8 PTS) (Morris Sr. 1 AST),42 - 45,3,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+206,0022000285,293,2,101,2,9:03 PM,2:17,MISS Herro 6' Driving Floating Jump Shot,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+207,0022000285,294,4,0,2,9:03 PM,2:13,Adebayo REBOUND (Off:1 Def:5),,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+208,0022000285,295,2,58,2,9:03 PM,2:11,MISS Adebayo 5' Turnaround Hook Shot,,Ibaka BLOCK (1 BLK),,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,1
+209,0022000285,296,4,0,2,9:03 PM,2:08,,,Jackson REBOUND (Off:0 Def:5),,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+210,0022000285,297,1,1,2,9:04 PM,2:04,,,Mann 24' 3PT Jump Shot (5 PTS) (Williams 2 AST),45 - 45,TIE,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+211,0022000285,301,6,2,2,9:04 PM,1:48,,,Mann S.FOUL (P1.PN) (J.Schroeder),,,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+212,0022000285,303,3,13,2,9:04 PM,1:48,Vincent Free Throw 1 of 3 (11 PTS),,,45 - 46,1,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+213,0022000285,304,3,14,2,9:05 PM,1:48,Vincent Free Throw 2 of 3 (12 PTS),,,45 - 47,2,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+214,0022000285,305,3,15,2,9:05 PM,1:48,Vincent Free Throw 3 of 3 (13 PTS),,,45 - 48,3,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+215,0022000285,306,2,1,2,9:05 PM,1:34,,,MISS Morris Sr. 26' 3PT Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+216,0022000285,307,4,0,2,9:05 PM,1:31,,,Ibaka REBOUND (Off:2 Def:2),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+217,0022000285,308,5,45,2,9:05 PM,1:30,,,Ibaka Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+218,0022000285,309,1,6,2,9:06 PM,1:15,Herro 2' Driving Layup (4 PTS) (Adebayo 4 AST),,,45 - 50,5,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+219,0022000285,311,2,73,2,9:06 PM,0:52,,,MISS Williams 1' Driving Reverse Layup,,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+220,0022000285,312,4,0,2,9:06 PM,0:51,,,Ibaka REBOUND (Off:3 Def:2),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+221,0022000285,313,2,58,2,9:06 PM,0:49,,,MISS Ibaka 8' Turnaround Hook Shot,,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+222,0022000285,314,4,0,2,9:06 PM,0:47,Adebayo REBOUND (Off:1 Def:6),,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+223,0022000285,315,6,4,2,9:07 PM,0:33,Herro OFF.Foul (P1) (B.Barnaky),,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+224,0022000285,317,5,37,2,9:07 PM,0:33,Herro Offensive Foul Turnover (P1.T6),,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+225,0022000285,321,8,0,2,9:07 PM,0:33,SUB: Robinson FOR Vincent,,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+226,0022000285,320,1,79,2,9:07 PM,0:25,,,Williams 26' 3PT Pullup Jump Shot (7 PTS),48 - 50,2,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+227,0022000285,322,2,79,2,9:08 PM,0:01,MISS Adebayo 10' Pullup Jump Shot,,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+228,0022000285,323,4,0,2,9:08 PM,0:00,,,Morris Sr. REBOUND (Off:1 Def:3),,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+229,0022000285,324,13,0,2,9:08 PM,0:00,,,,48 - 50,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+230,0022000285,333,12,0,3,9:23 PM,12:00,,,,48 - 50,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+231,0022000285,334,1,6,3,9:24 PM,11:46,,,Mann 2' Driving Layup (7 PTS),50 - 50,TIE,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+232,0022000285,335,2,79,3,9:24 PM,11:23,MISS Herro 17' Pullup Jump Shot,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+233,0022000285,336,4,0,3,9:24 PM,11:20,,,Ibaka REBOUND (Off:3 Def:3),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+234,0022000285,337,2,1,3,9:24 PM,11:10,,,MISS Mann 26' 3PT Jump Shot,,,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+235,0022000285,338,4,0,3,9:24 PM,11:07,Adebayo REBOUND (Off:1 Def:7),,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+236,0022000285,339,1,1,3,9:24 PM,11:00,Olynyk 26' 3PT Jump Shot (9 PTS) (Adebayo 5 AST),,,50 - 53,3,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+237,0022000285,341,2,3,3,9:25 PM,10:40,,,MISS Ibaka 10' Hook Shot,,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+238,0022000285,342,4,0,3,9:25 PM,10:38,Adebayo REBOUND (Off:1 Def:8),,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+239,0022000285,343,1,41,3,9:25 PM,10:33,Nunn 1' Running Layup (6 PTS) (Adebayo 6 AST),,,50 - 55,5,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+240,0022000285,345,2,79,3,9:25 PM,10:09,,,MISS Jackson 26' 3PT Pullup Jump Shot,,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+241,0022000285,346,4,0,3,9:25 PM,10:04,Nunn REBOUND (Off:0 Def:2),,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+242,0022000285,347,2,1,3,9:25 PM,9:59,MISS Nunn 25' 3PT Jump Shot,,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+243,0022000285,348,4,0,3,9:26 PM,9:55,,,Kennard REBOUND (Off:0 Def:3),,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+244,0022000285,349,1,1,3,9:26 PM,9:36,,,Batum 26' 3PT Jump Shot (9 PTS) (Mann 2 AST),53 - 55,2,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+245,0022000285,351,6,1,3,9:26 PM,9:20,,,Mann P.FOUL (P2.T1) (B.Barnaky),,,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+246,0022000285,353,2,75,3,9:27 PM,9:14,MISS Herro 2' Driving Finger Roll Layup,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+247,0022000285,355,2,97,3,9:27 PM,9:09,MISS Adebayo  Tip Layup Shot,,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+248,0022000285,354,4,0,3,9:27 PM,9:09,Adebayo REBOUND (Off:2 Def:8),,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+249,0022000285,356,4,0,3,9:27 PM,9:08,,,Batum REBOUND (Off:0 Def:5),,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+250,0022000285,357,2,1,3,9:27 PM,9:03,,,MISS Batum 26' 3PT Jump Shot,,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+251,0022000285,358,4,0,3,9:27 PM,8:59,Herro REBOUND (Off:0 Def:5),,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+252,0022000285,359,2,1,3,9:27 PM,8:48,MISS Adebayo 8' Jump Shot,,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+253,0022000285,360,4,0,3,9:27 PM,8:45,,,Ibaka REBOUND (Off:3 Def:4),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+254,0022000285,361,2,101,3,9:27 PM,8:27,,,MISS Jackson 11' Driving Floating Jump Shot,,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+255,0022000285,362,4,0,3,9:27 PM,8:24,,,Ibaka REBOUND (Off:4 Def:4),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+256,0022000285,363,2,1,3,9:28 PM,8:15,,,MISS Ibaka 16' Jump Shot,,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+257,0022000285,364,4,0,3,9:28 PM,8:12,Herro REBOUND (Off:0 Def:6),,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+258,0022000285,365,1,78,3,9:28 PM,7:57,Adebayo 11' Floating Jump Shot (7 PTS) (Robinson 1 AST),,,53 - 57,4,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+259,0022000285,367,1,1,3,9:28 PM,7:40,,,Ibaka 26' 3PT Jump Shot (5 PTS) (Jackson 3 AST),56 - 57,1,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+260,0022000285,369,1,79,3,9:28 PM,7:32,Herro 16' Pullup Jump Shot (6 PTS),,,56 - 59,3,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+261,0022000285,370,6,2,3,9:28 PM,7:32,,,Jackson S.FOUL (P2.T2) (B.Barnaky),,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+262,0022000285,372,8,0,3,9:29 PM,7:32,SUB: Achiuwa FOR Adebayo,,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+263,0022000285,374,3,10,3,9:29 PM,7:32,Herro Free Throw 1 of 1 (7 PTS),,,56 - 60,4,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+264,0022000285,375,1,1,3,9:29 PM,7:22,,,Ibaka 27' 3PT Jump Shot (8 PTS) (Jackson 4 AST),59 - 60,1,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+265,0022000285,377,5,1,3,9:29 PM,7:15,Herro Bad Pass Turnover (P2.T7),,Batum STEAL (1 STL),,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+266,0022000285,379,1,1,3,9:30 PM,6:59,,,Batum 24' 3PT Jump Shot (12 PTS) (Ibaka 1 AST),62 - 60,-2,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+267,0022000285,381,9,1,3,9:30 PM,6:58,HEAT Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+268,0022000285,382,2,79,3,9:33 PM,6:40,MISS Robinson 26' 3PT Pullup Jump Shot,,Mann BLOCK (1 BLK),,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1
+269,0022000285,384,4,0,3,9:33 PM,6:36,,,Mann REBOUND (Off:0 Def:2),,,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+270,0022000285,385,1,1,3,9:33 PM,6:30,,,Batum 24' 3PT Jump Shot (15 PTS) (Jackson 5 AST),65 - 60,-5,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+271,0022000285,387,1,9,3,9:33 PM,6:17,Nunn 1' Driving Dunk (8 PTS),,,65 - 62,-3,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+272,0022000285,388,1,1,3,9:34 PM,5:59,,,Kennard 27' 3PT Jump Shot (9 PTS) (Ibaka 2 AST),68 - 62,-6,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+273,0022000285,390,2,79,3,9:34 PM,5:49,MISS Nunn 17' Pullup Jump Shot,,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+274,0022000285,391,4,0,3,9:34 PM,5:47,,,Ibaka REBOUND (Off:4 Def:5),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+275,0022000285,392,1,6,3,9:34 PM,5:40,,,Jackson 2' Driving Layup (10 PTS),70 - 62,-8,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+276,0022000285,393,9,1,3,9:34 PM,5:40,HEAT Timeout: Regular (Full 3 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+277,0022000285,394,8,0,3,9:34 PM,5:40,SUB: Adebayo FOR Herro,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+278,0022000285,395,8,0,3,9:34 PM,5:40,SUB: Vincent FOR Achiuwa,,,,,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+279,0022000285,398,2,80,3,9:37 PM,5:21,MISS Olynyk 26' 3PT Step Back Jump Shot,,,,,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+280,0022000285,399,4,0,3,9:37 PM,5:17,,,Jackson REBOUND (Off:0 Def:6),,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+281,0022000285,400,1,1,3,9:37 PM,5:07,,,Jackson 26' 3PT Jump Shot (13 PTS) (Kennard 3 AST),73 - 62,-11,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+282,0022000285,402,5,1,3,9:38 PM,4:43,Olynyk Bad Pass Turnover (P2.T8),,Batum STEAL (2 STL),,,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+283,0022000285,404,5,4,3,9:38 PM,4:37,,,Ibaka Traveling Turnover (P2.T6),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+284,0022000285,405,8,0,3,9:38 PM,4:37,SUB: Strus FOR Robinson,,,,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+285,0022000285,407,2,79,3,9:39 PM,4:19,MISS Vincent 26' 3PT Pullup Jump Shot,,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+286,0022000285,408,4,0,3,9:39 PM,4:16,,,Ibaka REBOUND (Off:4 Def:6),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+287,0022000285,409,1,1,3,9:39 PM,3:56,,,Batum 25' 3PT Jump Shot (18 PTS) (Ibaka 3 AST),76 - 62,-14,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+288,0022000285,411,6,1,3,9:39 PM,3:43,,,Batum P.FOUL (P2.T3) (J.Schroeder),,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+289,0022000285,413,8,0,3,9:40 PM,3:43,,,SUB: Zubac FOR Kennard,,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+290,0022000285,414,8,0,3,9:40 PM,3:43,,,SUB: Williams FOR Ibaka,,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+291,0022000285,417,5,40,3,9:40 PM,3:33,Vincent Out of Bounds Lost Ball Turnover (P3.T9),,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+292,0022000285,418,2,1,3,9:40 PM,3:23,,,MISS Batum 26' 3PT Jump Shot,,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+293,0022000285,419,4,0,3,9:40 PM,3:20,Adebayo REBOUND (Off:2 Def:9),,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+294,0022000285,420,5,1,3,9:40 PM,3:11,Olynyk Bad Pass Turnover (P3.T10),,Williams STEAL (1 STL),,,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+295,0022000285,422,2,41,3,9:40 PM,3:09,,,MISS Jackson 1' Running Layup,,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+296,0022000285,423,4,0,3,9:40 PM,3:08,,,Zubac REBOUND (Off:5 Def:1),,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+297,0022000285,462,5,2,3,9:41 PM,3:07,Vincent STEAL (2 STL),,Zubac Lost Ball Turnover (P1.T7),,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+298,0022000285,424,6,28,3,9:41 PM,3:05,,,Jackson Personal Take Foul (P3.T4) (J.Schroeder),,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+299,0022000285,426,8,0,3,9:41 PM,3:05,SUB: Okpala FOR Olynyk,,,,,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,4,1629644,KZ Okpala,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+300,0022000285,427,8,0,3,9:41 PM,3:05,,,SUB: Coffey FOR Jackson,,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+301,0022000285,430,2,47,3,9:41 PM,2:47,MISS Nunn 10' Turnaround Jump Shot,,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+302,0022000285,431,4,0,3,9:41 PM,2:44,,,Zubac REBOUND (Off:5 Def:2),,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+303,0022000285,432,5,2,3,9:41 PM,2:38,Adebayo STEAL (1 STL),,Williams Lost Ball Turnover (P1.T8),,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+304,0022000285,434,1,50,3,9:42 PM,2:34,Adebayo 1' Running Dunk (9 PTS),,,76 - 64,-12,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+305,0022000285,435,6,1,3,9:42 PM,2:21,Strus P.FOUL (P2.T1) (Z.Zarba),,,,,4.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+306,0022000285,437,8,0,3,9:42 PM,2:21,,,SUB: Morris Sr. FOR Batum,,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+307,0022000285,439,1,1,3,9:42 PM,2:05,,,Coffey 24' 3PT Jump Shot (5 PTS) (Zubac 1 AST),79 - 64,-15,5.0,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+308,0022000285,441,2,79,3,9:43 PM,1:49,MISS Vincent 11' Pullup Jump Shot,,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+309,0022000285,442,4,0,3,9:43 PM,1:46,,,Morris Sr. REBOUND (Off:1 Def:4),,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+310,0022000285,443,1,6,3,9:43 PM,1:38,,,Williams 1' Driving Layup (9 PTS),81 - 64,-17,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+311,0022000285,444,1,1,3,9:43 PM,1:18,Strus 25' 3PT Jump Shot (12 PTS) (Adebayo 7 AST),,,81 - 67,-14,4.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+312,0022000285,446,6,1,3,9:44 PM,1:06,Strus P.FOUL (P3.T2) (J.Schroeder),,,,,4.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+313,0022000285,448,8,0,3,9:44 PM,1:06,SUB: Herro FOR Adebayo,,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+314,0022000285,449,8,0,3,9:44 PM,1:06,SUB: Achiuwa FOR Nunn,,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+315,0022000285,452,6,2,3,9:44 PM,0:59,Vincent S.FOUL (P3.PN) (B.Barnaky),,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+316,0022000285,454,3,11,3,9:45 PM,0:59,,,Mann Free Throw 1 of 2 (8 PTS),82 - 67,-15,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+317,0022000285,455,3,12,3,9:45 PM,0:59,,,Mann Free Throw 2 of 2 (9 PTS),83 - 67,-16,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+318,0022000285,456,2,75,3,9:45 PM,0:45,MISS Vincent 2' Driving Finger Roll Layup,,Zubac BLOCK (2 BLK),,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1
+319,0022000285,458,4,0,3,9:45 PM,0:41,Herro REBOUND (Off:1 Def:6),,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+320,0022000285,459,1,86,3,9:45 PM,0:40,Achiuwa 16' Turnaround Fadeaway (5 PTS),,,83 - 69,-14,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+321,0022000285,460,6,2,3,9:45 PM,0:40,,,Mann S.FOUL (P3.PN) (B.Barnaky),,,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+322,0022000285,464,3,10,3,9:46 PM,0:40,MISS Achiuwa Free Throw 1 of 1,,,,,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+323,0022000285,465,4,0,3,9:46 PM,0:37,,,Zubac REBOUND (Off:5 Def:3),,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+324,0022000285,466,1,101,3,9:46 PM,0:27,,,Williams 12' Driving Floating Jump Shot (11 PTS),85 - 69,-16,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+325,0022000285,469,5,1,3,9:46 PM,0:15,Herro Bad Pass Turnover (P3.T11),,Coffey STEAL (3 STL),,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+326,0022000285,471,2,1,3,9:46 PM,0:03,,,MISS Morris Sr.  3PT Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+327,0022000285,472,4,0,3,9:47 PM,0:00,,,Mann REBOUND (Off:1 Def:2),,,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+328,0022000285,473,6,2,3,9:47 PM,0:00,Vincent S.FOUL (P4.PN) (B.Barnaky),,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+329,0022000285,475,3,13,3,9:47 PM,0:00,,,Mann Free Throw 1 of 3 (10 PTS),86 - 69,-17,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+330,0022000285,476,3,14,3,9:47 PM,0:00,,,Mann Free Throw 2 of 3 (11 PTS),87 - 69,-18,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+331,0022000285,477,3,15,3,9:48 PM,0:00,,,Mann Free Throw 3 of 3 (12 PTS),88 - 69,-19,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+332,0022000285,479,2,1,3,9:48 PM,0:00,MISS Herro 87' 3PT Jump Shot,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+333,0022000285,480,4,0,3,9:48 PM,0:00,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+334,0022000285,481,13,0,3,9:48 PM,0:00,,,,88 - 69,-19,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+335,0022000285,484,12,0,4,9:51 PM,12:00,,,,88 - 69,-19,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+336,0022000285,485,1,47,4,9:51 PM,11:42,Herro 17' Turnaround Jump Shot (9 PTS),,,88 - 71,-17,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+337,0022000285,486,6,4,4,9:51 PM,11:32,,,Zubac OFF.Foul (P2) (B.Barnaky),,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+338,0022000285,488,5,37,4,9:51 PM,11:32,,,Zubac Offensive Foul Turnover (P2.T9),,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+339,0022000285,489,1,52,4,9:52 PM,11:19,Achiuwa 1' Alley Oop Dunk (7 PTS) (Herro 2 AST),,,88 - 73,-15,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+340,0022000285,491,6,2,4,9:52 PM,11:19,,,Zubac S.FOUL (P3.T1) (J.Schroeder),,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+341,0022000285,493,3,10,4,9:52 PM,11:19,Achiuwa Free Throw 1 of 1 (8 PTS),,,88 - 74,-14,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+342,0022000285,494,2,1,4,9:52 PM,11:01,,,MISS Kennard 24' 3PT Jump Shot,,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+343,0022000285,495,4,0,4,9:52 PM,10:57,Herro REBOUND (Off:1 Def:7),,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+344,0022000285,496,1,41,4,9:52 PM,10:55,Vincent 1' Running Layup (15 PTS) (Herro 3 AST),,,88 - 76,-12,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+345,0022000285,498,6,2,4,9:53 PM,10:55,,,Williams S.FOUL (P2.T2) (Z.Zarba),,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+346,0022000285,500,3,10,4,9:53 PM,10:55,Vincent Free Throw 1 of 1 (16 PTS),,,88 - 77,-11,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+347,0022000285,501,2,1,4,9:53 PM,10:39,,,MISS Coffey 24' 3PT Jump Shot,,,5.0,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+348,0022000285,502,4,0,4,9:53 PM,10:38,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+349,0022000285,504,2,79,4,9:54 PM,10:27,MISS Herro 25' 3PT Pullup Jump Shot,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+350,0022000285,505,4,0,4,9:54 PM,10:26,,,Kennard REBOUND (Off:0 Def:4),,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+351,0022000285,506,2,78,4,9:54 PM,10:15,,,MISS Zubac 10' Floating Jump Shot,,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+352,0022000285,507,4,0,4,9:54 PM,10:13,Achiuwa REBOUND (Off:1 Def:3),,,,,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+353,0022000285,508,1,43,4,9:54 PM,10:08,Achiuwa 1' Alley Oop Layup (10 PTS) (Vincent 4 AST),,,88 - 79,-9,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+354,0022000285,510,9,1,4,9:54 PM,10:08,,,Clippers Timeout: Regular (Reg.4 Short 0),,,3.0,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+355,0022000285,511,8,0,4,9:54 PM,10:08,,,SUB: Jackson FOR Coffey,,,5.0,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+356,0022000285,513,6,2,4,9:58 PM,9:53,Okpala S.FOUL (P1.T1) (Z.Zarba),,,,,4.0,1629644,KZ Okpala,1610612748.0,Miami,Heat,MIA,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+357,0022000285,515,3,11,4,9:58 PM,9:53,,,MISS Williams Free Throw 1 of 2,,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+358,0022000285,516,4,1,4,9:58 PM,9:53,,,Clippers Rebound,,,3.0,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+359,0022000285,517,3,12,4,9:58 PM,9:53,,,Williams Free Throw 2 of 2 (12 PTS),89 - 79,-10,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+360,0022000285,518,5,1,4,9:58 PM,9:39,Vincent Bad Pass Turnover (P4.T12),,Zubac STEAL (1 STL),,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+361,0022000285,520,1,1,4,9:58 PM,9:32,,,Morris Sr.  3PT Jump Shot (9 PTS) (Williams 3 AST),92 - 79,-13,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+362,0022000285,522,9,1,4,9:58 PM,9:32,HEAT Timeout: Regular (Full 4 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+363,0022000285,523,8,0,4,9:59 PM,9:32,SUB: Robinson FOR Strus,,,,,4.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+364,0022000285,525,1,80,4,10:02 PM,9:09,Vincent 16' Step Back Jump Shot (18 PTS),,,92 - 81,-11,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+365,0022000285,527,6,17,4,10:02 PM,8:46,HEAT T.Foul (Def. 3 Sec Achiuwa ) (J.Schroeder),,,,,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+366,0022000285,528,3,16,4,10:02 PM,8:46,,,Williams Free Throw Technical (13 PTS),93 - 81,-12,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+367,0022000285,529,2,1,4,10:03 PM,8:35,,,MISS Jackson 28' 3PT Jump Shot,,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+368,0022000285,530,4,0,4,10:03 PM,8:30,Vincent REBOUND (Off:0 Def:4),,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+369,0022000285,531,2,101,4,10:03 PM,8:19,MISS Herro 7' Driving Floating Jump Shot,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+370,0022000285,532,4,0,4,10:03 PM,8:18,Achiuwa REBOUND (Off:2 Def:3),,,,,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+371,0022000285,533,1,1,4,10:03 PM,8:12,Herro 24' 3PT Jump Shot (12 PTS) (Okpala 1 AST),,,93 - 84,-9,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1629644,KZ Okpala,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+372,0022000285,535,2,1,4,10:04 PM,7:55,,,MISS Kennard 24' 3PT Jump Shot,,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+373,0022000285,536,4,0,4,10:04 PM,7:51,Robinson REBOUND (Off:1 Def:2),,,,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+374,0022000285,537,2,79,4,10:04 PM,7:33,MISS Herro 11' Pullup Jump Shot,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+375,0022000285,538,4,0,4,10:04 PM,7:30,,,Williams REBOUND (Off:1 Def:3),,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+376,0022000285,539,6,2,4,10:04 PM,7:20,Okpala S.FOUL (P2.T2) (J.Schroeder),,,,,4.0,1629644,KZ Okpala,1610612748.0,Miami,Heat,MIA,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+377,0022000285,541,8,0,4,10:05 PM,7:20,SUB: Adebayo FOR Achiuwa,,,,,4.0,1630173,Precious Achiuwa,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+378,0022000285,542,8,0,4,10:05 PM,7:20,SUB: Nunn FOR Herro,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+379,0022000285,545,8,0,4,10:05 PM,7:20,,,SUB: Batum FOR Kennard,,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+380,0022000285,547,3,11,4,10:06 PM,7:20,,,Williams Free Throw 1 of 2 (14 PTS),94 - 84,-10,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+381,0022000285,548,3,12,4,10:06 PM,7:20,,,Williams Free Throw 2 of 2 (15 PTS),95 - 84,-11,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+382,0022000285,549,1,1,4,10:06 PM,7:03,Okpala 24' 3PT Jump Shot (3 PTS) (Robinson 2 AST),,,95 - 87,-8,4.0,1629644,KZ Okpala,1610612748.0,Miami,Heat,MIA,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+383,0022000285,551,6,26,4,10:06 PM,6:43,,,Jackson Offensive Charge Foul (P4.T3) (Z.Zarba),,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+384,0022000285,553,5,37,4,10:06 PM,6:43,,,Jackson Offensive Foul Turnover (P2.T10),,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+385,0022000285,554,8,0,4,10:07 PM,6:43,,,SUB: Ibaka FOR Zubac,,,5.0,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+386,0022000285,556,1,86,4,10:07 PM,6:22,Okpala 5' Turnaround Fadeaway (5 PTS),,,95 - 89,-6,4.0,1629644,KZ Okpala,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+387,0022000285,557,2,1,4,10:07 PM,6:10,,,MISS Ibaka 8' Jump Shot,,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+388,0022000285,558,4,0,4,10:07 PM,6:09,,,Ibaka REBOUND (Off:5 Def:6),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+389,0022000285,559,2,3,4,10:07 PM,6:07,,,MISS Ibaka 9' Hook Shot,,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+390,0022000285,560,4,0,4,10:07 PM,6:07,Adebayo REBOUND (Off:2 Def:10),,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+391,0022000285,561,2,1,4,10:07 PM,5:57,MISS Robinson 26' 3PT Jump Shot,,,,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+392,0022000285,562,4,0,4,10:07 PM,5:55,,,Williams REBOUND (Off:1 Def:4),,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+393,0022000285,563,2,1,4,10:08 PM,5:49,,,MISS Jackson 25' 3PT Jump Shot,,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+394,0022000285,564,4,0,4,10:08 PM,5:45,Robinson REBOUND (Off:1 Def:3),,,,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+395,0022000285,565,2,98,4,10:08 PM,5:34,MISS Robinson 1' Cutting Layup Shot,,,,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+396,0022000285,566,4,0,4,10:08 PM,5:33,,,Jackson REBOUND (Off:0 Def:7),,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+397,0022000285,567,1,58,4,10:08 PM,5:17,,,Ibaka 6' Turnaround Hook Shot (10 PTS) (Batum 2 AST),97 - 89,-8,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+398,0022000285,569,5,11,4,10:09 PM,4:51,HEAT Turnover: Shot Clock (T#13),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+399,0022000285,570,1,1,4,10:09 PM,4:34,,,Morris Sr. 7' Jump Shot (11 PTS),99 - 89,-10,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+400,0022000285,571,9,1,4,10:10 PM,4:34,HEAT Timeout: Regular (Full 5 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+401,0022000285,572,8,0,4,10:10 PM,4:34,SUB: Herro FOR Vincent,,,,,4.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+402,0022000285,574,1,6,4,10:11 PM,4:18,Herro 1' Driving Layup (14 PTS) (Robinson 3 AST),,,99 - 91,-8,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+403,0022000285,577,2,63,4,10:12 PM,3:48,,,MISS Williams 16' Fadeaway Jumper,,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+404,0022000285,578,4,0,4,10:12 PM,3:41,Robinson REBOUND (Off:1 Def:4),,,,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+405,0022000285,579,2,1,4,10:12 PM,3:37,MISS Adebayo 11' Jump Shot,,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+406,0022000285,580,4,0,4,10:12 PM,3:35,,,Jackson REBOUND (Off:0 Def:8),,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+407,0022000285,581,1,1,4,10:13 PM,3:17,,,Morris Sr. 25' 3PT Jump Shot (14 PTS) (Jackson 6 AST),102 - 91,-11,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+408,0022000285,583,1,6,4,10:13 PM,3:04,Herro 3' Driving Layup (16 PTS),,,102 - 93,-9,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+409,0022000285,584,1,78,4,10:13 PM,2:53,,,Jackson 15' Floating Jump Shot (15 PTS) (Williams 4 AST),104 - 93,-11,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+410,0022000285,586,1,79,4,10:13 PM,2:41,Herro 15' Pullup Jump Shot (18 PTS),,,104 - 95,-9,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+411,0022000285,587,9,1,4,10:13 PM,2:41,,,Clippers Timeout: Regular (Reg.5 Short 0),,,3.0,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+412,0022000285,588,2,1,4,10:15 PM,2:28,,,MISS Morris Sr. 19' Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+413,0022000285,589,4,0,4,10:15 PM,2:25,Herro REBOUND (Off:1 Def:8),,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+414,0022000285,590,5,1,4,10:15 PM,2:17,Nunn Bad Pass Turnover (P1.T14),,Williams STEAL (2 STL),,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+415,0022000285,592,1,41,4,10:15 PM,2:12,,,Williams 2' Running Layup (17 PTS),106 - 95,-11,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+416,0022000285,593,1,75,4,10:16 PM,1:59,Nunn 1' Driving Finger Roll Layup (10 PTS),,,106 - 97,-9,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+417,0022000285,594,2,80,4,10:16 PM,1:34,,,MISS Jackson 30' 3PT Step Back Jump Shot,,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+418,0022000285,595,4,0,4,10:16 PM,1:32,Herro REBOUND (Off:1 Def:9),,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+419,0022000285,596,2,5,4,10:16 PM,1:29,MISS Nunn 1' Layup,,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+420,0022000285,597,4,0,4,10:16 PM,1:26,,,Ibaka REBOUND (Off:5 Def:7),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+421,0022000285,600,5,45,4,10:17 PM,1:08,,,Morris Sr. Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+422,0022000285,599,18,1,4,10:17 PM,1:08,,,,106 - 97,-9,0.0,600,,,,,,0,0,,,,,,1,0,,,,,,0
+423,0022000285,601,8,0,4,10:19 PM,1:08,,,SUB: Mann FOR Williams,,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+424,0022000285,603,2,79,4,10:19 PM,0:59,MISS Herro 26' 3PT Pullup Jump Shot,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+425,0022000285,604,4,0,4,10:19 PM,0:56,,,Ibaka REBOUND (Off:5 Def:8),,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+426,0022000285,605,5,1,4,10:19 PM,0:47,Herro STEAL (1 STL),,Jackson Bad Pass Turnover (P3.T12),,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+427,0022000285,607,1,41,4,10:19 PM,0:45,Adebayo 2' Running Layup (11 PTS) (Herro 4 AST),,,106 - 99,-7,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+428,0022000285,609,6,1,4,10:19 PM,0:45,,,Morris Sr. P.FOUL (P2.T4) (Z.Zarba),,,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+429,0022000285,611,8,0,4,10:19 PM,0:45,,,SUB: Williams FOR Mann,,,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+430,0022000285,613,3,10,4,10:20 PM,0:45,Adebayo Free Throw 1 of 1 (12 PTS),,,106 - 100,-6,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+431,0022000285,614,9,1,4,10:20 PM,0:45,,,Clippers Timeout: Regular (Reg.6 Short 0),,,3.0,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+432,0022000285,615,8,0,4,10:21 PM,0:45,,,SUB: Kennard FOR Ibaka,,,5.0,201586,Serge Ibaka,1610612746.0,LA,Clippers,LAC,5,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+433,0022000285,617,6,1,4,10:21 PM,0:43,Robinson P.FOUL (P2.T3) (B.Barnaky),,,,,4.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+434,0022000285,619,6,28,4,10:22 PM,0:42,Adebayo Personal Take Foul (P1.PN) (J.Schroeder),,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+435,0022000285,621,3,11,4,10:22 PM,0:42,,,Morris Sr. Free Throw 1 of 2 (15 PTS),107 - 100,-7,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+436,0022000285,622,8,0,4,10:22 PM,0:42,,,SUB: Mann FOR Williams,,,5.0,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+437,0022000285,623,8,0,4,10:22 PM,0:42,,,SUB: Coffey FOR Kennard,,,5.0,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+438,0022000285,626,3,12,4,10:23 PM,0:42,,,Morris Sr. Free Throw 2 of 2 (16 PTS),108 - 100,-8,5.0,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+439,0022000285,627,1,5,4,10:23 PM,0:30,Adebayo 2' Layup (14 PTS) (Herro 5 AST),,,108 - 102,-6,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+440,0022000285,629,6,25,4,10:23 PM,0:27,,,,,,3.0,1610612746,,,,,,0,0,,,,,,1,0,,,,,,0
+441,0022000285,630,5,42,4,10:23 PM,0:27,,,,,,,0,,,,,,0,0,,,,,,1,0,,,,,,0
+442,0022000285,631,3,16,4,10:24 PM,0:27,Herro Free Throw Technical (19 PTS),,,108 - 103,-5,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+443,0022000285,632,8,0,4,10:24 PM,0:27,,,SUB: Kennard FOR Mann,,,5.0,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+444,0022000285,633,8,0,4,10:24 PM,0:27,,,SUB: Williams FOR Coffey,,,5.0,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+445,0022000285,636,1,108,4,10:25 PM,0:21,Adebayo 1' Cutting Dunk Shot (16 PTS) (Nunn 3 AST),,,108 - 105,-3,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+446,0022000285,638,6,1,4,10:25 PM,0:20,Okpala P.FOUL (P3.PN) (Z.Zarba),,,,,4.0,1629644,KZ Okpala,1610612748.0,Miami,Heat,MIA,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+447,0022000285,640,3,11,4,10:25 PM,0:20,,,MISS Jackson Free Throw 1 of 2,,,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+448,0022000285,641,4,1,4,10:25 PM,0:20,,,Clippers Rebound,,,3.0,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+449,0022000285,642,3,12,4,10:26 PM,0:20,,,Jackson Free Throw 2 of 2 (16 PTS),109 - 105,-4,5.0,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+450,0022000285,643,9,1,4,10:26 PM,0:20,HEAT Timeout: Regular (Full 6 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+451,0022000285,644,8,0,4,10:26 PM,0:20,SUB: Olynyk FOR Okpala,,,,,4.0,1629644,KZ Okpala,1610612748.0,Miami,Heat,MIA,4,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+452,0022000285,647,2,80,4,10:28 PM,0:14,MISS Herro 27' 3PT Step Back Jump Shot,,,,,4.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+453,0022000285,648,4,0,4,10:28 PM,0:09,Nunn REBOUND (Off:1 Def:2),,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+454,0022000285,649,2,1,4,10:28 PM,0:07,MISS Nunn 24' 3PT Jump Shot,,,,,4.0,1629134,Kendrick Nunn,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+455,0022000285,650,4,0,4,10:28 PM,0:03,Adebayo REBOUND (Off:3 Def:10),,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+456,0022000285,651,2,86,4,10:28 PM,0:00,MISS Adebayo  3PT Turnaround Fadeaway Shot,,,,,4.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+457,0022000285,652,4,0,4,10:28 PM,0:00,,,Batum REBOUND (Off:0 Def:6),,,5.0,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+458,0022000285,653,10,0,4,10:28 PM,0:00,Jump Ball Olynyk vs. Batum: Tip to Williams,,,,,4.0,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1
+459,0022000285,656,13,0,4,10:29 PM,0:00,,,,109 - 105,-4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

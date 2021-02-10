@@ -1,6 +1,6 @@
 library(tidyverse)
 
-gamelogs <- read_csv('/Users/jim/Desktop/nba_2020-21.csv')
+gamelogs <- read_csv('./data/nba_gamelogs/nba_gamelogs_2020-21.csv')
 
 unique_games <- unique(gamelogs$GAME_ID)
 
@@ -15,7 +15,7 @@ for (g in unique_games) {
   matchup <- as.character(gamelog$MATCHUP[[1]])
   gamedate <- as.Date(gamelog$GAME_DATE[[1]])
 
-  csv_path <- paste0('/Users/jim/Desktop/', g, '.csv')
+  csv_path <- paste0('./data/nba_pbp/', g, '.csv')
 
   pbp_1q <- read_csv(csv_path) %>%
     filter(!is.na(SCORE)) %>%
@@ -45,7 +45,7 @@ first_scorer_df <- bind_rows(first_scorer_list)
 
 # pick a team using the matchup abbrevs to see how often they score first points and which players do it most
 
-abbrev <- 'GSW'
+abbrev <- 'CHA'
 
 team_games <- first_scorer_df %>%
   filter(grepl(abbrev, matchup))

@@ -1,125 +1,497 @@
 ,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
-0,0022000317,2,12,0,1,8:11 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
-1,0022000317,4,10,0,1,8:11 PM,12:00,Jump Ball Hayes vs. Bagley III: Tip to Fox,,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1
-2,0022000317,7,1,43,1,8:11 PM,11:35,,,Holmes 2' Alley Oop Layup (2 PTS) (Fox 1 AST),2 - 0,-2,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
-3,0022000317,9,1,1,1,8:12 PM,11:18,Ball 27' 3PT Jump Shot (3 PTS) (Williamson 1 AST),,,2 - 3,1,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
-4,0022000317,11,1,1,1,8:12 PM,11:03,,,Fox 24' 3PT Jump Shot (3 PTS) (Hield 1 AST),5 - 3,-2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
-5,0022000317,13,2,5,1,8:12 PM,10:48,MISS Williamson 6' Layup,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-6,0022000317,14,4,0,1,8:12 PM,10:48,,,Bagley III REBOUND (Off:0 Def:1),,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-7,0022000317,15,2,6,1,8:12 PM,10:39,Williamson BLOCK (1 BLK),,MISS Bagley III 4' Driving Layup,,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1
-8,0022000317,17,4,0,1,8:12 PM,10:39,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
-9,0022000317,19,5,39,1,8:13 PM,10:33,,,Fox Step Out of Bounds Turnover (P1.T1),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
-10,0022000317,20,2,79,1,8:13 PM,10:23,MISS Ingram 17' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-11,0022000317,21,4,0,1,8:13 PM,10:16,Hayes REBOUND (Off:1 Def:0),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-12,0022000317,22,1,107,1,8:13 PM,10:16,Hayes  Tip Dunk Shot (2 PTS),,,5 - 5,TIE,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-13,0022000317,23,1,79,1,8:13 PM,10:07,,,Hield 26' 3PT Pullup Jump Shot (3 PTS) (Holmes 1 AST),8 - 5,-3,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
-14,0022000317,25,6,1,1,8:14 PM,9:51,,,Holmes P.FOUL (P1.T1) (M.Boland),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
-15,0022000317,27,1,80,1,8:14 PM,9:37,Bledsoe 11' Step Back Jump Shot (2 PTS),,,8 - 7,-1,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-16,0022000317,28,6,2,1,8:14 PM,9:31,Williamson S.FOUL (P1.T1) (M.Boland),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
-17,0022000317,30,3,11,1,8:15 PM,9:31,,,Fox Free Throw 1 of 2 (4 PTS),9 - 7,-2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-18,0022000317,31,3,12,1,8:15 PM,9:31,,,Fox Free Throw 2 of 2 (5 PTS),10 - 7,-3,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-19,0022000317,33,2,1,1,8:15 PM,9:17,MISS Bledsoe 25' 3PT Jump Shot,,,,,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-20,0022000317,34,4,0,1,8:15 PM,9:15,,,Barnes REBOUND (Off:0 Def:1),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-21,0022000317,36,1,51,1,8:16 PM,8:59,,,Bagley III 1' Reverse Dunk (2 PTS) (Fox 2 AST),12 - 7,-5,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
-22,0022000317,38,1,98,1,8:16 PM,8:44,Hayes  Cutting Layup Shot (4 PTS) (Ball 1 AST),,,12 - 9,-3,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
-23,0022000317,40,6,2,1,8:16 PM,8:44,,,Bagley III S.FOUL (P1.T2) (M.Boland),,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
-24,0022000317,42,3,10,1,8:16 PM,8:44,Hayes Free Throw 1 of 1 (5 PTS),,,12 - 10,-2,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
-25,0022000317,43,1,5,1,8:17 PM,8:30,,,Holmes 2' Layup (4 PTS) (Fox 3 AST),14 - 10,-4,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
-26,0022000317,45,1,98,1,8:17 PM,8:16,Williamson 1' Cutting Layup Shot (2 PTS) (Ingram 1 AST),,,14 - 12,-2,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
-27,0022000317,47,1,105,1,8:17 PM,8:08,,,Bagley III 2' Turnaround Fadeaway Bank Jump Shot (4 PTS) (Fox 4 AST),16 - 12,-4,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
-28,0022000317,49,5,1,1,8:17 PM,7:52,Williamson Bad Pass Turnover (P1.T1),,Fox STEAL (1 STL),,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
-29,0022000317,51,2,1,1,8:17 PM,7:46,,,MISS Hield  3PT Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-30,0022000317,52,4,0,1,8:17 PM,7:43,Williamson REBOUND (Off:0 Def:1),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-31,0022000317,53,1,79,1,8:18 PM,7:35,Bledsoe 16' Pullup Jump Shot (4 PTS),,,16 - 14,-2,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-32,0022000317,54,2,6,1,8:18 PM,7:24,Williamson BLOCK (2 BLK),,MISS Bagley III 4' Driving Layup,,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1
-33,0022000317,56,4,0,1,8:18 PM,7:24,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
-34,0022000317,58,2,1,1,8:18 PM,7:22,,,MISS Hield 25' 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-35,0022000317,59,4,0,1,8:18 PM,7:19,Williamson REBOUND (Off:0 Def:2),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-36,0022000317,60,5,45,1,8:18 PM,7:14,Ball Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
-37,0022000317,61,1,6,1,8:19 PM,7:03,,,Holmes 1' Driving Layup (6 PTS),18 - 14,-4,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-38,0022000317,62,9,1,1,8:19 PM,6:59,PELICANS Timeout: Regular (Full 1 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
-39,0022000317,63,2,79,1,8:22 PM,6:52,MISS Ingram 16' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-40,0022000317,64,4,0,1,8:22 PM,6:48,,,Holmes REBOUND (Off:0 Def:1),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-41,0022000317,65,5,1,1,8:22 PM,6:35,Williamson STEAL (1 STL),,Holmes Bad Pass Turnover (P1.T2),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
-42,0022000317,67,2,2,1,8:22 PM,6:31,MISS Ball 25' 3PT Running Jump Shot,,,,,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-43,0022000317,68,4,0,1,8:22 PM,6:28,Williamson REBOUND (Off:1 Def:2),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-44,0022000317,69,6,2,1,8:22 PM,6:22,,,Holmes S.FOUL (P2.T3) (J.Capers),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
-45,0022000317,71,3,11,1,8:23 PM,6:22,MISS Ingram Free Throw 1 of 2,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-46,0022000317,72,4,1,1,8:23 PM,6:22,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
-47,0022000317,73,8,0,1,8:23 PM,6:22,,,SUB: Whiteside FOR Holmes,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
-48,0022000317,75,3,12,1,8:23 PM,6:22,Ingram Free Throw 2 of 2 (1 PTS),,,18 - 15,-3,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-49,0022000317,76,5,1,1,8:23 PM,6:09,Ball STEAL (1 STL),,Fox Bad Pass Turnover (P2.T3),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
-50,0022000317,78,6,2,1,8:23 PM,6:06,,,Hield S.FOUL (P1.T4) (J.Conley),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
-51,0022000317,80,3,11,1,8:24 PM,6:06,Ball Free Throw 1 of 2 (4 PTS),,,18 - 16,-2,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-52,0022000317,81,8,0,1,8:24 PM,6:06,SUB: Hart FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
-53,0022000317,83,3,12,1,8:24 PM,6:06,Ball Free Throw 2 of 2 (5 PTS),,,18 - 17,-1,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-54,0022000317,84,2,1,1,8:24 PM,5:52,,,MISS Fox 26' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-55,0022000317,85,4,0,1,8:24 PM,5:51,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
-56,0022000317,86,6,3,1,8:24 PM,5:51,Hayes L.B.FOUL (P1.T2) (M.Boland),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
-57,0022000317,88,8,0,1,8:25 PM,5:51,,,SUB: Haliburton FOR Bagley III,,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
-58,0022000317,90,5,1,1,8:25 PM,5:38,Ingram STEAL (1 STL),,Fox Bad Pass Turnover (P3.T4),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
-59,0022000317,92,1,2,1,8:25 PM,5:33,Ingram 25' 3PT Running Jump Shot (4 PTS) (Hart 1 AST),,,18 - 20,2,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
-60,0022000317,94,1,108,1,8:25 PM,5:20,,,Whiteside 1' Cutting Dunk Shot (2 PTS) (Hield 2 AST),20 - 20,TIE,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
-61,0022000317,96,2,86,1,8:25 PM,5:06,MISS Ingram 15' Turnaround Fadeaway Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-62,0022000317,97,4,0,1,8:26 PM,5:03,,,Haliburton REBOUND (Off:0 Def:1),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-63,0022000317,98,6,1,1,8:26 PM,4:55,Hayes P.FOUL (P2.T3) (J.Capers),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
-64,0022000317,100,8,0,1,8:26 PM,4:55,SUB: Hernangomez FOR Hayes,,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
-65,0022000317,102,2,1,1,8:26 PM,4:47,,,MISS Hield 24' 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-66,0022000317,103,4,0,1,8:26 PM,4:45,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
-67,0022000317,105,1,73,1,8:27 PM,4:35,,,Fox 2' Driving Reverse Layup (7 PTS) (Haliburton 1 AST),22 - 20,-2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
-68,0022000317,107,1,78,1,8:27 PM,4:24,Hernangomez 9' Floating Jump Shot (2 PTS) (Bledsoe 1 AST),,,22 - 22,TIE,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
-69,0022000317,109,6,26,1,8:27 PM,4:16,,,Whiteside Offensive Charge Foul (P1.PN) (M.Boland),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
-70,0022000317,111,5,37,1,8:27 PM,4:16,,,Whiteside Offensive Foul Turnover (P1.T5),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
-71,0022000317,112,8,0,1,8:27 PM,4:16,,,SUB: Joseph FOR Hield,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
-72,0022000317,114,2,79,1,8:28 PM,4:05,MISS Ingram 15' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-73,0022000317,115,4,0,1,8:28 PM,4:01,,,Whiteside REBOUND (Off:0 Def:1),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-74,0022000317,116,2,1,1,8:28 PM,3:43,,,MISS Fox 25' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-75,0022000317,117,4,0,1,8:28 PM,3:33,,,Fox REBOUND (Off:1 Def:0),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-76,0022000317,118,1,6,1,8:28 PM,3:26,,,Fox 1' Driving Layup (9 PTS),24 - 22,-2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-77,0022000317,119,2,6,1,8:28 PM,3:20,MISS Ball 2' Driving Layup,,,,,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-78,0022000317,120,4,0,1,8:28 PM,3:19,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
-79,0022000317,121,6,3,1,8:28 PM,3:19,,,Whiteside L.B.FOUL (P2.PN) (J.Capers),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
-80,0022000317,123,3,11,1,8:29 PM,3:19,MISS Hernangomez Free Throw 1 of 2,,,,,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-81,0022000317,124,4,1,1,8:29 PM,3:19,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
-82,0022000317,125,8,0,1,8:29 PM,3:19,SUB: Alexander-Walker FOR Ball,,,,,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,4,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
-83,0022000317,127,3,12,1,8:29 PM,3:19,Hernangomez Free Throw 2 of 2 (3 PTS),,,24 - 23,-1,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-84,0022000317,128,2,98,1,8:29 PM,3:04,Ingram BLOCK (1 BLK),,MISS Whiteside 2' Cutting Layup Shot,,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1
-85,0022000317,130,4,0,1,8:29 PM,3:02,Hernangomez REBOUND (Off:0 Def:1),,,,,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-86,0022000317,131,1,2,1,8:30 PM,2:59,Bledsoe  3PT Running Jump Shot (7 PTS) (Hart 2 AST),,,24 - 26,2,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
-87,0022000317,133,2,1,1,8:30 PM,2:35,,,MISS Haliburton 25' 3PT Jump Shot,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-88,0022000317,134,4,0,1,8:30 PM,2:29,Hart REBOUND (Off:0 Def:1),,,,,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-89,0022000317,135,5,45,1,8:31 PM,2:20,Bledsoe Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
-90,0022000317,136,9,1,1,8:31 PM,2:20,,,Kings Timeout: Regular (Reg.1 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
-91,0022000317,138,8,0,1,8:33 PM,2:20,SUB: Lewis Jr. FOR Bledsoe,,,,,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
-92,0022000317,139,8,0,1,8:33 PM,2:20,SUB: Williamson FOR Ingram,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
-93,0022000317,142,5,4,1,8:34 PM,2:09,,,Haliburton Traveling Turnover (P1.T6),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
-94,0022000317,143,2,79,1,8:34 PM,2:00,MISS Alexander-Walker 22' Pullup Jump Shot,,,,,4,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-95,0022000317,144,4,0,1,8:34 PM,1:57,,,Whiteside REBOUND (Off:0 Def:2),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-96,0022000317,146,8,0,1,8:34 PM,1:45,,,SUB: Bagley III FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
-97,0022000317,148,1,98,1,8:35 PM,1:35,,,Whiteside 1' Cutting Layup Shot (4 PTS) (Fox 5 AST),26 - 26,TIE,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
-98,0022000317,150,6,2,1,8:35 PM,1:35,Hart S.FOUL (P1.T4) (J.Capers),,,,,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
-99,0022000317,152,3,10,1,8:35 PM,1:35,,,Whiteside Free Throw 1 of 1 (5 PTS),27 - 26,-1,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-100,0022000317,153,2,78,1,8:35 PM,1:18,MISS Lewis Jr. 3' Floating Jump Shot,,,,,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-101,0022000317,154,4,0,1,8:35 PM,1:15,Hernangomez REBOUND (Off:1 Def:1),,,,,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-102,0022000317,155,1,87,1,8:35 PM,1:15,Hernangomez  Putback Dunk (5 PTS),,,27 - 28,1,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-103,0022000317,156,2,102,1,8:36 PM,1:03,,,MISS Bagley III 3' Driving Floating Bank Jump Shot,,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-104,0022000317,157,4,0,1,8:36 PM,1:02,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
-105,0022000317,160,2,80,1,8:36 PM,0:48,,,MISS Fox 16' Step Back Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-106,0022000317,161,4,0,1,8:36 PM,0:44,,,Whiteside REBOUND (Off:1 Def:2),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-107,0022000317,162,2,72,1,8:36 PM,0:42,,,MISS Whiteside 5' Putback Layup,,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-108,0022000317,163,4,0,1,8:36 PM,0:38,,,Haliburton REBOUND (Off:1 Def:1),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-109,0022000317,164,2,97,1,8:36 PM,0:38,,,MISS Haliburton  Tip Layup Shot,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-110,0022000317,165,4,0,1,8:36 PM,0:37,,,Whiteside REBOUND (Off:2 Def:2),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-111,0022000317,166,2,72,1,8:36 PM,0:36,,,MISS Whiteside 3' Putback Layup,,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-112,0022000317,167,4,0,1,8:36 PM,0:36,Hart REBOUND (Off:0 Def:2),,,,,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-113,0022000317,168,1,44,1,8:37 PM,0:31,Hernangomez 2' Reverse Layup (7 PTS) (Hart 3 AST),,,27 - 30,3,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
-114,0022000317,171,1,101,1,8:37 PM,0:08,,,Fox 2' Driving Floating Jump Shot (11 PTS) (Haliburton 2 AST),29 - 30,1,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
-115,0022000317,173,6,2,1,8:37 PM,0:08,Hart S.FOUL (P2.PN) (J.Capers),,,,,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
-116,0022000317,175,8,0,1,8:38 PM,0:08,,,SUB: Metu FOR Whiteside,,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
-117,0022000317,177,3,10,1,8:38 PM,0:08,,,Fox Free Throw 1 of 1 (12 PTS),30 - 30,TIE,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
-118,0022000317,178,6,2,1,8:38 PM,0:00,,,Bagley III S.FOUL (P2.PN) (J.Capers),,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
-119,0022000317,180,6,11,1,8:38 PM,0:00,,,Bagley III T.FOUL (P2.PN) (J.Capers),,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
-120,0022000317,181,3,16,1,8:39 PM,0:00,Alexander-Walker Free Throw Technical (1 PTS),,,30 - 31,1,4,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-121,0022000317,182,3,11,1,8:39 PM,0:00,Williamson Free Throw 1 of 2 (3 PTS),,,30 - 32,2,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-122,0022000317,183,3,12,1,8:39 PM,0:00,Williamson Free Throw 2 of 2 (4 PTS),,,30 - 33,3,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
-123,0022000317,184,13,0,1,8:40 PM,0:00,,,,30 - 33,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0,0022000317,2,12,0,1,8:11 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0022000317,4,10,0,1,8:11 PM,12:00,Jump Ball Hayes vs. Bagley III: Tip to Fox,,,,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1
+2,0022000317,7,1,43,1,8:11 PM,11:35,,,Holmes 2' Alley Oop Layup (2 PTS) (Fox 1 AST),2 - 0,-2,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+3,0022000317,9,1,1,1,8:12 PM,11:18,Ball 27' 3PT Jump Shot (3 PTS) (Williamson 1 AST),,,2 - 3,1,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+4,0022000317,11,1,1,1,8:12 PM,11:03,,,Fox 24' 3PT Jump Shot (3 PTS) (Hield 1 AST),5 - 3,-2,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+5,0022000317,13,2,5,1,8:12 PM,10:48,MISS Williamson 6' Layup,,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+6,0022000317,14,4,0,1,8:12 PM,10:48,,,Bagley III REBOUND (Off:0 Def:1),,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+7,0022000317,15,2,6,1,8:12 PM,10:39,Williamson BLOCK (1 BLK),,MISS Bagley III 4' Driving Layup,,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1
+8,0022000317,17,4,0,1,8:12 PM,10:39,,,Kings Rebound,,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+9,0022000317,19,5,39,1,8:13 PM,10:33,,,Fox Step Out of Bounds Turnover (P1.T1),,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+10,0022000317,20,2,79,1,8:13 PM,10:23,MISS Ingram 17' Pullup Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+11,0022000317,21,4,0,1,8:13 PM,10:16,Hayes REBOUND (Off:1 Def:0),,,,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+12,0022000317,22,1,107,1,8:13 PM,10:16,Hayes  Tip Dunk Shot (2 PTS),,,5 - 5,TIE,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+13,0022000317,23,1,79,1,8:13 PM,10:07,,,Hield 26' 3PT Pullup Jump Shot (3 PTS) (Holmes 1 AST),8 - 5,-3,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+14,0022000317,25,6,1,1,8:14 PM,9:51,,,Holmes P.FOUL (P1.T1) (M.Boland),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+15,0022000317,27,1,80,1,8:14 PM,9:37,Bledsoe 11' Step Back Jump Shot (2 PTS),,,8 - 7,-1,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+16,0022000317,28,6,2,1,8:14 PM,9:31,Williamson S.FOUL (P1.T1) (M.Boland),,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+17,0022000317,30,3,11,1,8:15 PM,9:31,,,Fox Free Throw 1 of 2 (4 PTS),9 - 7,-2,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+18,0022000317,31,3,12,1,8:15 PM,9:31,,,Fox Free Throw 2 of 2 (5 PTS),10 - 7,-3,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+19,0022000317,33,2,1,1,8:15 PM,9:17,MISS Bledsoe 25' 3PT Jump Shot,,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+20,0022000317,34,4,0,1,8:15 PM,9:15,,,Barnes REBOUND (Off:0 Def:1),,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+21,0022000317,36,1,51,1,8:16 PM,8:59,,,Bagley III 1' Reverse Dunk (2 PTS) (Fox 2 AST),12 - 7,-5,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+22,0022000317,38,1,98,1,8:16 PM,8:44,Hayes  Cutting Layup Shot (4 PTS) (Ball 1 AST),,,12 - 9,-3,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+23,0022000317,40,6,2,1,8:16 PM,8:44,,,Bagley III S.FOUL (P1.T2) (M.Boland),,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+24,0022000317,42,3,10,1,8:16 PM,8:44,Hayes Free Throw 1 of 1 (5 PTS),,,12 - 10,-2,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+25,0022000317,43,1,5,1,8:17 PM,8:30,,,Holmes 2' Layup (4 PTS) (Fox 3 AST),14 - 10,-4,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+26,0022000317,45,1,98,1,8:17 PM,8:16,Williamson 1' Cutting Layup Shot (2 PTS) (Ingram 1 AST),,,14 - 12,-2,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+27,0022000317,47,1,105,1,8:17 PM,8:08,,,Bagley III 2' Turnaround Fadeaway Bank Jump Shot (4 PTS) (Fox 4 AST),16 - 12,-4,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+28,0022000317,49,5,1,1,8:17 PM,7:52,Williamson Bad Pass Turnover (P1.T1),,Fox STEAL (1 STL),,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+29,0022000317,51,2,1,1,8:17 PM,7:46,,,MISS Hield  3PT Jump Shot,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+30,0022000317,52,4,0,1,8:17 PM,7:43,Williamson REBOUND (Off:0 Def:1),,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+31,0022000317,53,1,79,1,8:18 PM,7:35,Bledsoe 16' Pullup Jump Shot (4 PTS),,,16 - 14,-2,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+32,0022000317,54,2,6,1,8:18 PM,7:24,Williamson BLOCK (2 BLK),,MISS Bagley III 4' Driving Layup,,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1
+33,0022000317,56,4,0,1,8:18 PM,7:24,,,Kings Rebound,,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+34,0022000317,58,2,1,1,8:18 PM,7:22,,,MISS Hield 25' 3PT Jump Shot,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+35,0022000317,59,4,0,1,8:18 PM,7:19,Williamson REBOUND (Off:0 Def:2),,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+36,0022000317,60,5,45,1,8:18 PM,7:14,Ball Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+37,0022000317,61,1,6,1,8:19 PM,7:03,,,Holmes 1' Driving Layup (6 PTS),18 - 14,-4,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+38,0022000317,62,9,1,1,8:19 PM,6:59,PELICANS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+39,0022000317,63,2,79,1,8:22 PM,6:52,MISS Ingram 16' Pullup Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+40,0022000317,64,4,0,1,8:22 PM,6:48,,,Holmes REBOUND (Off:0 Def:1),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+41,0022000317,65,5,1,1,8:22 PM,6:35,Williamson STEAL (1 STL),,Holmes Bad Pass Turnover (P1.T2),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+42,0022000317,67,2,2,1,8:22 PM,6:31,MISS Ball 25' 3PT Running Jump Shot,,,,,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+43,0022000317,68,4,0,1,8:22 PM,6:28,Williamson REBOUND (Off:1 Def:2),,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+44,0022000317,69,6,2,1,8:22 PM,6:22,,,Holmes S.FOUL (P2.T3) (J.Capers),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+45,0022000317,71,3,11,1,8:23 PM,6:22,MISS Ingram Free Throw 1 of 2,,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+46,0022000317,72,4,1,1,8:23 PM,6:22,PELICANS Rebound,,,,,2.0,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+47,0022000317,73,8,0,1,8:23 PM,6:22,,,SUB: Whiteside FOR Holmes,,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+48,0022000317,75,3,12,1,8:23 PM,6:22,Ingram Free Throw 2 of 2 (1 PTS),,,18 - 15,-3,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+49,0022000317,76,5,1,1,8:23 PM,6:09,Ball STEAL (1 STL),,Fox Bad Pass Turnover (P2.T3),,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+50,0022000317,78,6,2,1,8:23 PM,6:06,,,Hield S.FOUL (P1.T4) (J.Conley),,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+51,0022000317,80,3,11,1,8:24 PM,6:06,Ball Free Throw 1 of 2 (4 PTS),,,18 - 16,-2,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+52,0022000317,81,8,0,1,8:24 PM,6:06,SUB: Hart FOR Williamson,,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+53,0022000317,83,3,12,1,8:24 PM,6:06,Ball Free Throw 2 of 2 (5 PTS),,,18 - 17,-1,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+54,0022000317,84,2,1,1,8:24 PM,5:52,,,MISS Fox 26' 3PT Jump Shot,,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+55,0022000317,85,4,0,1,8:24 PM,5:51,,,Kings Rebound,,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+56,0022000317,86,6,3,1,8:24 PM,5:51,Hayes L.B.FOUL (P1.T2) (M.Boland),,,,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+57,0022000317,88,8,0,1,8:25 PM,5:51,,,SUB: Haliburton FOR Bagley III,,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+58,0022000317,90,5,1,1,8:25 PM,5:38,Ingram STEAL (1 STL),,Fox Bad Pass Turnover (P3.T4),,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+59,0022000317,92,1,2,1,8:25 PM,5:33,Ingram 25' 3PT Running Jump Shot (4 PTS) (Hart 1 AST),,,18 - 20,2,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+60,0022000317,94,1,108,1,8:25 PM,5:20,,,Whiteside 1' Cutting Dunk Shot (2 PTS) (Hield 2 AST),20 - 20,TIE,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+61,0022000317,96,2,86,1,8:25 PM,5:06,MISS Ingram 15' Turnaround Fadeaway Shot,,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+62,0022000317,97,4,0,1,8:26 PM,5:03,,,Haliburton REBOUND (Off:0 Def:1),,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+63,0022000317,98,6,1,1,8:26 PM,4:55,Hayes P.FOUL (P2.T3) (J.Capers),,,,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+64,0022000317,100,8,0,1,8:26 PM,4:55,SUB: Hernangomez FOR Hayes,,,,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+65,0022000317,102,2,1,1,8:26 PM,4:47,,,MISS Hield 24' 3PT Jump Shot,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+66,0022000317,103,4,0,1,8:26 PM,4:45,,,Kings Rebound,,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+67,0022000317,105,1,73,1,8:27 PM,4:35,,,Fox 2' Driving Reverse Layup (7 PTS) (Haliburton 1 AST),22 - 20,-2,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+68,0022000317,107,1,78,1,8:27 PM,4:24,Hernangomez 9' Floating Jump Shot (2 PTS) (Bledsoe 1 AST),,,22 - 22,TIE,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+69,0022000317,109,6,26,1,8:27 PM,4:16,,,Whiteside Offensive Charge Foul (P1.PN) (M.Boland),,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+70,0022000317,111,5,37,1,8:27 PM,4:16,,,Whiteside Offensive Foul Turnover (P1.T5),,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+71,0022000317,112,8,0,1,8:27 PM,4:16,,,SUB: Joseph FOR Hield,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+72,0022000317,114,2,79,1,8:28 PM,4:05,MISS Ingram 15' Pullup Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+73,0022000317,115,4,0,1,8:28 PM,4:01,,,Whiteside REBOUND (Off:0 Def:1),,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+74,0022000317,116,2,1,1,8:28 PM,3:43,,,MISS Fox 25' 3PT Jump Shot,,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+75,0022000317,117,4,0,1,8:28 PM,3:33,,,Fox REBOUND (Off:1 Def:0),,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+76,0022000317,118,1,6,1,8:28 PM,3:26,,,Fox 1' Driving Layup (9 PTS),24 - 22,-2,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+77,0022000317,119,2,6,1,8:28 PM,3:20,MISS Ball 2' Driving Layup,,,,,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+78,0022000317,120,4,0,1,8:28 PM,3:19,PELICANS Rebound,,,,,2.0,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+79,0022000317,121,6,3,1,8:28 PM,3:19,,,Whiteside L.B.FOUL (P2.PN) (J.Capers),,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+80,0022000317,123,3,11,1,8:29 PM,3:19,MISS Hernangomez Free Throw 1 of 2,,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+81,0022000317,124,4,1,1,8:29 PM,3:19,PELICANS Rebound,,,,,2.0,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+82,0022000317,125,8,0,1,8:29 PM,3:19,SUB: Alexander-Walker FOR Ball,,,,,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,4,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+83,0022000317,127,3,12,1,8:29 PM,3:19,Hernangomez Free Throw 2 of 2 (3 PTS),,,24 - 23,-1,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+84,0022000317,128,2,98,1,8:29 PM,3:04,Ingram BLOCK (1 BLK),,MISS Whiteside 2' Cutting Layup Shot,,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1
+85,0022000317,130,4,0,1,8:29 PM,3:02,Hernangomez REBOUND (Off:0 Def:1),,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+86,0022000317,131,1,2,1,8:30 PM,2:59,Bledsoe  3PT Running Jump Shot (7 PTS) (Hart 2 AST),,,24 - 26,2,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+87,0022000317,133,2,1,1,8:30 PM,2:35,,,MISS Haliburton 25' 3PT Jump Shot,,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+88,0022000317,134,4,0,1,8:30 PM,2:29,Hart REBOUND (Off:0 Def:1),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+89,0022000317,135,5,45,1,8:31 PM,2:20,Bledsoe Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+90,0022000317,136,9,1,1,8:31 PM,2:20,,,Kings Timeout: Regular (Reg.1 Short 0),,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+91,0022000317,138,8,0,1,8:33 PM,2:20,SUB: Lewis Jr. FOR Bledsoe,,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+92,0022000317,139,8,0,1,8:33 PM,2:20,SUB: Williamson FOR Ingram,,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+93,0022000317,142,5,4,1,8:34 PM,2:09,,,Haliburton Traveling Turnover (P1.T6),,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+94,0022000317,143,2,79,1,8:34 PM,2:00,MISS Alexander-Walker 22' Pullup Jump Shot,,,,,4.0,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+95,0022000317,144,4,0,1,8:34 PM,1:57,,,Whiteside REBOUND (Off:0 Def:2),,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+96,0022000317,146,8,0,1,8:34 PM,1:45,,,SUB: Bagley III FOR Barnes,,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+97,0022000317,148,1,98,1,8:35 PM,1:35,,,Whiteside 1' Cutting Layup Shot (4 PTS) (Fox 5 AST),26 - 26,TIE,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+98,0022000317,150,6,2,1,8:35 PM,1:35,Hart S.FOUL (P1.T4) (J.Capers),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+99,0022000317,152,3,10,1,8:35 PM,1:35,,,Whiteside Free Throw 1 of 1 (5 PTS),27 - 26,-1,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+100,0022000317,153,2,78,1,8:35 PM,1:18,MISS Lewis Jr. 3' Floating Jump Shot,,,,,4.0,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+101,0022000317,154,4,0,1,8:35 PM,1:15,Hernangomez REBOUND (Off:1 Def:1),,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+102,0022000317,155,1,87,1,8:35 PM,1:15,Hernangomez  Putback Dunk (5 PTS),,,27 - 28,1,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+103,0022000317,156,2,102,1,8:36 PM,1:03,,,MISS Bagley III 3' Driving Floating Bank Jump Shot,,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+104,0022000317,157,4,0,1,8:36 PM,1:02,,,Kings Rebound,,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+105,0022000317,160,2,80,1,8:36 PM,0:48,,,MISS Fox 16' Step Back Jump Shot,,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+106,0022000317,161,4,0,1,8:36 PM,0:44,,,Whiteside REBOUND (Off:1 Def:2),,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+107,0022000317,162,2,72,1,8:36 PM,0:42,,,MISS Whiteside 5' Putback Layup,,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+108,0022000317,163,4,0,1,8:36 PM,0:38,,,Haliburton REBOUND (Off:1 Def:1),,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+109,0022000317,164,2,97,1,8:36 PM,0:38,,,MISS Haliburton  Tip Layup Shot,,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+110,0022000317,165,4,0,1,8:36 PM,0:37,,,Whiteside REBOUND (Off:2 Def:2),,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+111,0022000317,166,2,72,1,8:36 PM,0:36,,,MISS Whiteside 3' Putback Layup,,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+112,0022000317,167,4,0,1,8:36 PM,0:36,Hart REBOUND (Off:0 Def:2),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+113,0022000317,168,1,44,1,8:37 PM,0:31,Hernangomez 2' Reverse Layup (7 PTS) (Hart 3 AST),,,27 - 30,3,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+114,0022000317,171,1,101,1,8:37 PM,0:08,,,Fox 2' Driving Floating Jump Shot (11 PTS) (Haliburton 2 AST),29 - 30,1,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+115,0022000317,173,6,2,1,8:37 PM,0:08,Hart S.FOUL (P2.PN) (J.Capers),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+116,0022000317,175,8,0,1,8:38 PM,0:08,,,SUB: Metu FOR Whiteside,,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+117,0022000317,177,3,10,1,8:38 PM,0:08,,,Fox Free Throw 1 of 1 (12 PTS),30 - 30,TIE,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+118,0022000317,178,6,2,1,8:38 PM,0:00,,,Bagley III S.FOUL (P2.PN) (J.Capers),,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+119,0022000317,180,6,11,1,8:38 PM,0:00,,,Bagley III T.FOUL (P2.PN) (J.Capers),,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+120,0022000317,181,3,16,1,8:39 PM,0:00,Alexander-Walker Free Throw Technical (1 PTS),,,30 - 31,1,4.0,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+121,0022000317,182,3,11,1,8:39 PM,0:00,Williamson Free Throw 1 of 2 (3 PTS),,,30 - 32,2,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+122,0022000317,183,3,12,1,8:39 PM,0:00,Williamson Free Throw 2 of 2 (4 PTS),,,30 - 33,3,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+123,0022000317,184,13,0,1,8:40 PM,0:00,,,,30 - 33,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+124,0022000317,189,12,0,2,8:42 PM,12:00,,,,30 - 33,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+125,0022000317,190,2,1,2,8:42 PM,11:44,MISS Hart  3PT Jump Shot,,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+126,0022000317,191,4,0,2,8:43 PM,11:41,,,Hield REBOUND (Off:0 Def:1),,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+127,0022000317,192,2,57,2,8:43 PM,11:18,,,MISS Holmes 8' Driving Hook Shot,,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+128,0022000317,193,4,0,2,8:43 PM,11:17,PELICANS Rebound,,,,,2.0,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+129,0022000317,195,6,2,2,8:44 PM,10:54,,,Holmes S.FOUL (P3.T1) (M.Boland),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+130,0022000317,197,3,11,2,8:44 PM,10:54,Hart Free Throw 1 of 2 (1 PTS),,,30 - 34,4,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+131,0022000317,198,3,12,2,8:44 PM,10:54,Hart Free Throw 2 of 2 (2 PTS),,,30 - 35,5,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+132,0022000317,200,1,1,2,8:45 PM,10:34,,,Hield 25' 3PT Jump Shot (6 PTS) (Haliburton 3 AST),33 - 35,2,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+133,0022000317,202,2,6,2,8:45 PM,10:17,MISS Alexander-Walker 1' Driving Layup,,,,,4.0,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+134,0022000317,203,4,0,2,8:45 PM,10:15,,,Holmes REBOUND (Off:0 Def:2),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+135,0022000317,204,2,1,2,8:45 PM,10:07,,,MISS Hield 25' 3PT Jump Shot,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+136,0022000317,205,4,0,2,8:45 PM,10:03,Hart REBOUND (Off:0 Def:3),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+137,0022000317,206,2,6,2,8:45 PM,9:58,MISS Hart 4' Driving Layup,,Holmes BLOCK (1 BLK),,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1
+138,0022000317,208,4,0,2,8:45 PM,9:58,,,Holmes REBOUND (Off:0 Def:3),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+139,0022000317,291,5,1,2,8:45 PM,9:58,Alexander-Walker STEAL (1 STL),,Holmes Bad Pass Turnover (P2.T7),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+140,0022000317,209,2,1,2,8:45 PM,9:51,MISS Williamson 25' 3PT Jump Shot,,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+141,0022000317,210,4,0,2,8:45 PM,9:48,Hart REBOUND (Off:1 Def:3),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+142,0022000317,211,1,72,2,8:45 PM,9:46,Hart 2' Putback Layup (4 PTS),,,33 - 37,4,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+143,0022000317,212,2,1,2,8:46 PM,9:34,,,MISS Bagley III 26' 3PT Jump Shot,,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+144,0022000317,213,4,0,2,8:46 PM,9:32,Lewis Jr. REBOUND (Off:0 Def:1),,,,,4.0,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+145,0022000317,214,2,6,2,8:46 PM,9:22,MISS Lewis Jr. 2' Driving Layup,,,,,4.0,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+146,0022000317,215,4,0,2,8:46 PM,9:20,,,Haliburton REBOUND (Off:1 Def:2),,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+147,0022000317,216,6,1,2,8:46 PM,9:13,Alexander-Walker P.FOUL (P1.T1) (M.Boland),,,,,4.0,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+148,0022000317,218,2,1,2,8:47 PM,8:58,,,MISS Bagley III 30' 3PT Jump Shot,,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+149,0022000317,219,4,0,2,8:47 PM,8:55,Hart REBOUND (Off:1 Def:4),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+150,0022000317,220,2,41,2,8:47 PM,8:48,MISS Lewis Jr. 2' Running Layup,,,,,4.0,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+151,0022000317,221,4,0,2,8:47 PM,8:45,Hart REBOUND (Off:2 Def:4),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+152,0022000317,222,1,87,2,8:47 PM,8:45,Hart  Putback Dunk (6 PTS),,,33 - 39,6,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+153,0022000317,223,1,79,2,8:47 PM,8:37,,,Haliburton 17' Pullup Jump Shot (2 PTS),35 - 39,4,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+154,0022000317,224,2,6,2,8:47 PM,8:22,MISS Alexander-Walker 2' Driving Layup,,,,,4.0,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+155,0022000317,225,4,0,2,8:47 PM,8:20,,,Holmes REBOUND (Off:0 Def:4),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+156,0022000317,226,2,1,2,8:47 PM,8:16,,,MISS Joseph 24' 3PT Jump Shot,,,5.0,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+157,0022000317,227,4,0,2,8:47 PM,8:13,Hernangomez REBOUND (Off:1 Def:2),,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+158,0022000317,228,2,6,2,8:47 PM,8:08,MISS Lewis Jr. 4' Driving Layup,,,,,4.0,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+159,0022000317,229,4,0,2,8:47 PM,8:08,,,Hield REBOUND (Off:0 Def:2),,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+160,0022000317,230,6,2,2,8:48 PM,7:59,Alexander-Walker S.FOUL (P2.T2) (J.Capers),,,,,4.0,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+161,0022000317,232,3,11,2,8:48 PM,7:59,,,Holmes Free Throw 1 of 2 (7 PTS),36 - 39,3,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+162,0022000317,233,8,0,2,8:48 PM,7:59,SUB: Ingram FOR Williamson,,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+163,0022000317,234,8,0,2,8:48 PM,7:59,SUB: Ball FOR Alexander-Walker,,,,,4.0,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+164,0022000317,235,8,0,2,8:48 PM,7:59,,,SUB: Barnes FOR Haliburton,,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+165,0022000317,239,3,12,2,8:49 PM,7:59,,,Holmes Free Throw 2 of 2 (8 PTS),37 - 39,2,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+166,0022000317,240,2,101,2,8:49 PM,7:38,MISS Ingram 3' Driving Floating Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+167,0022000317,241,4,0,2,8:49 PM,7:36,,,Barnes REBOUND (Off:0 Def:2),,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+168,0022000317,242,1,51,2,8:49 PM,7:26,,,Bagley III 1' Reverse Dunk (6 PTS) (Barnes 1 AST),39 - 39,TIE,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+169,0022000317,244,9,1,2,8:49 PM,7:21,PELICANS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+170,0022000317,245,8,0,2,8:51 PM,7:21,SUB: Hayes FOR Hernangomez,,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+171,0022000317,246,8,0,2,8:51 PM,7:21,SUB: Bledsoe FOR Lewis Jr.,,,,,4.0,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+172,0022000317,247,8,0,2,8:51 PM,7:21,,,SUB: Fox FOR Joseph,,,5.0,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+173,0022000317,251,2,1,2,8:52 PM,7:15,MISS Ball 26' 3PT Jump Shot,,,,,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+174,0022000317,252,4,0,2,8:52 PM,7:11,,,Holmes REBOUND (Off:0 Def:5),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+175,0022000317,253,2,80,2,8:53 PM,6:49,,,MISS Bagley III 21' Step Back Jump Shot,,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+176,0022000317,254,4,0,2,8:53 PM,6:46,Bledsoe REBOUND (Off:0 Def:1),,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+177,0022000317,255,2,101,2,8:53 PM,6:37,MISS Ball 3' Driving Floating Jump Shot,,,,,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+178,0022000317,256,4,0,2,8:53 PM,6:36,Hayes REBOUND (Off:2 Def:0),,,,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+179,0022000317,257,1,97,2,8:53 PM,6:36,Hayes  Tip Layup Shot (7 PTS),,,39 - 41,2,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+180,0022000317,258,1,57,2,8:53 PM,6:21,,,Barnes 5' Driving Hook Shot (2 PTS) (Holmes 2 AST),41 - 41,TIE,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+181,0022000317,259,1,1,2,8:53 PM,6:11,Hart 27' 3PT Jump Shot (9 PTS) (Ball 2 AST),,,41 - 44,3,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+182,0022000317,261,2,1,2,8:54 PM,5:58,,,MISS Hield 25' 3PT Jump Shot,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+183,0022000317,262,4,0,2,8:54 PM,5:56,,,Bagley III REBOUND (Off:1 Def:1),,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+184,0022000317,263,6,2,2,8:54 PM,5:56,Hayes S.FOUL (P3.T3) (J.Conley),,,,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+185,0022000317,266,3,11,2,8:54 PM,5:56,,,MISS Bagley III Free Throw 1 of 2,,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+186,0022000317,267,4,1,2,8:54 PM,5:56,,,Kings Rebound,,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+187,0022000317,272,3,12,2,8:54 PM,5:56,,,MISS Bagley III Free Throw 2 of 2,,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+188,0022000317,268,8,0,2,8:54 PM,5:56,SUB: Hernangomez FOR Hayes,,,,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+189,0022000317,269,8,0,2,8:54 PM,5:56,,,SUB: Whiteside FOR Holmes,,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+190,0022000317,273,4,0,2,8:54 PM,5:53,Ingram REBOUND (Off:0 Def:1),,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+191,0022000317,274,2,1,2,8:55 PM,5:48,MISS Ingram 26' 3PT Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+192,0022000317,275,4,0,2,8:55 PM,5:46,,,Hield REBOUND (Off:0 Def:3),,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+193,0022000317,276,5,1,2,8:55 PM,5:41,Ball STEAL (2 STL),,Hield Bad Pass Turnover (P1.T8),,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+194,0022000317,278,5,6,2,8:55 PM,5:39,Bledsoe Double Dribble Turnover (P2.T4),,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+195,0022000317,279,7,1,2,8:55 PM,5:39,PELICANS Violation: Delay of game Violation,,,,,2.0,1610612740,,,,,,0,0,,,,,,1,0,,,,,,0
+196,0022000317,280,2,1,2,8:55 PM,5:24,,,MISS Barnes 24' 3PT Jump Shot,,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+197,0022000317,281,4,0,2,8:55 PM,5:20,,,Hield REBOUND (Off:1 Def:3),,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+198,0022000317,282,6,1,2,8:56 PM,5:18,Ingram P.FOUL (P1.T4) (J.Capers),,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+199,0022000317,284,1,1,2,8:56 PM,5:10,,,Fox 26' 3PT Jump Shot (15 PTS) (Barnes 2 AST),44 - 44,TIE,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+200,0022000317,286,1,75,2,8:56 PM,4:51,Ingram 2' Driving Finger Roll Layup (6 PTS),,,44 - 46,2,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+201,0022000317,287,2,1,2,8:56 PM,4:46,,,MISS Hield 26' 3PT Jump Shot,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+202,0022000317,288,4,0,2,8:56 PM,4:46,Bledsoe REBOUND (Off:0 Def:2),,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+203,0022000317,289,6,28,2,8:56 PM,4:44,,,Hield Personal Take Foul (P2.T2) (M.Boland),,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+204,0022000317,293,8,0,2,8:57 PM,4:44,SUB: Williamson FOR Hart,,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+205,0022000317,295,1,1,2,8:57 PM,4:33,Ball 25' 3PT Jump Shot (8 PTS) (Hernangomez 1 AST),,,44 - 49,5,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+206,0022000317,297,5,40,2,8:57 PM,4:22,,,Fox Out of Bounds Lost Ball Turnover (P4.T9),,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+207,0022000317,299,2,1,2,8:58 PM,4:08,MISS Hernangomez 26' 3PT Jump Shot,,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+208,0022000317,300,4,0,2,8:58 PM,4:03,,,Bagley III REBOUND (Off:1 Def:2),,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+209,0022000317,301,1,1,2,8:58 PM,4:01,,,Hield 24' 3PT Jump Shot (9 PTS),47 - 49,2,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+210,0022000317,303,2,1,2,8:58 PM,3:42,MISS Ingram  3PT Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+211,0022000317,304,4,0,2,8:58 PM,3:38,,,Whiteside REBOUND (Off:2 Def:3),,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+212,0022000317,305,1,58,2,8:58 PM,3:31,,,Bagley III 8' Turnaround Hook Shot (8 PTS) (Fox 6 AST),49 - 49,TIE,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+213,0022000317,307,6,2,2,8:58 PM,3:19,,,Fox S.FOUL (P1.T3) (J.Conley),,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+214,0022000317,309,3,11,2,8:59 PM,3:19,Bledsoe Free Throw 1 of 2 (8 PTS),,,49 - 50,1,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+215,0022000317,311,3,12,2,8:59 PM,3:19,MISS Bledsoe Free Throw 2 of 2,,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+216,0022000317,312,4,0,2,8:59 PM,3:19,,,Kings Rebound,,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+217,0022000317,360,7,3,2,8:59 PM,3:19,Bledsoe Violation:Lane (.),,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+218,0022000317,310,9,1,2,8:59 PM,3:19,,,Kings Timeout: Regular (Reg.2 Short 0),,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+219,0022000317,313,5,45,2,9:02 PM,3:06,,,Bagley III Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+220,0022000317,358,2,5,2,9:03 PM,2:54,MISS Williamson 1' Layup,,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+221,0022000317,359,4,0,2,9:03 PM,2:53,Williamson REBOUND (Off:2 Def:2),,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+222,0022000317,314,2,5,2,9:03 PM,2:52,MISS Williamson 2' Layup,,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+223,0022000317,316,4,0,2,9:03 PM,2:51,Hernangomez REBOUND (Off:2 Def:2),,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+224,0022000317,317,1,5,2,9:03 PM,2:51,Hernangomez 2' Layup (9 PTS),,,49 - 52,3,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+225,0022000317,318,1,5,2,9:03 PM,2:38,,,Barnes 2' Layup (4 PTS) (Fox 7 AST),51 - 52,1,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+226,0022000317,320,6,2,2,9:03 PM,2:24,,,Whiteside S.FOUL (P3.T4) (J.Capers),,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+227,0022000317,322,3,11,2,9:04 PM,2:24,Ingram Free Throw 1 of 2 (7 PTS),,,51 - 53,2,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+228,0022000317,324,3,12,2,9:04 PM,2:24,Ingram Free Throw 2 of 2 (8 PTS),,,51 - 54,3,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+229,0022000317,325,5,2,2,9:04 PM,2:08,Williamson STEAL (2 STL),,Bagley III Lost Ball Turnover (P2.T11),,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+230,0022000317,327,1,9,2,9:05 PM,1:59,Williamson  Driving Dunk (6 PTS),,,51 - 56,5,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+231,0022000317,328,2,1,2,9:05 PM,1:40,Bledsoe BLOCK (1 BLK),,MISS Barnes 7' Jump Shot,,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,1
+232,0022000317,330,4,0,2,9:05 PM,1:33,,,Barnes REBOUND (Off:1 Def:2),,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+233,0022000317,331,2,1,2,9:05 PM,1:29,,,MISS Fox 26' 3PT Jump Shot,,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+234,0022000317,332,4,0,2,9:05 PM,1:28,,,Fox REBOUND (Off:2 Def:0),,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+235,0022000317,333,2,1,2,9:05 PM,1:22,,,MISS Fox  3PT Jump Shot,,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+236,0022000317,334,4,0,2,9:05 PM,1:19,Ingram REBOUND (Off:0 Def:2),,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+237,0022000317,335,1,6,2,9:05 PM,1:13,Ingram 1' Driving Layup (10 PTS),,,51 - 58,7,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+238,0022000317,336,1,1,2,9:06 PM,0:58,,,Barnes 25' 3PT Jump Shot (7 PTS) (Fox 8 AST),54 - 58,4,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+239,0022000317,338,1,6,2,9:06 PM,0:47,Ingram 2' Driving Layup (12 PTS),,,54 - 60,6,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+240,0022000317,340,1,1,2,9:06 PM,0:32,,,Bagley III 8' Jump Shot (10 PTS) (Fox 9 AST),56 - 60,4,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+241,0022000317,342,2,1,2,9:07 PM,0:22,MISS Ball 12' Jump Shot,,,,,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+242,0022000317,343,4,0,2,9:07 PM,0:22,Hernangomez REBOUND (Off:3 Def:2),,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+243,0022000317,344,1,108,2,9:07 PM,0:16,Williamson  Cutting Dunk Shot (8 PTS) (Hernangomez 2 AST),,,56 - 62,6,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+244,0022000317,346,7,1,2,9:07 PM,0:16,PELICANS Violation: Delay of game Violation,,,,,2.0,1610612740,,,,,,0,0,,,,,,1,0,,,,,,0
+245,0022000317,347,6,18,2,9:07 PM,0:16,,,,,,2.0,1610612740,,,,,,0,0,,,,,,1,0,,,,,,1
+246,0022000317,348,3,16,2,9:07 PM,0:16,,,Hield Free Throw Technical (10 PTS),57 - 62,5,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+247,0022000317,349,8,0,2,9:08 PM,0:16,SUB: Hart FOR Hernangomez,,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+248,0022000317,350,8,0,2,9:08 PM,0:16,,,SUB: Haliburton FOR Whiteside,,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+249,0022000317,353,1,1,2,9:08 PM,0:03,,,Haliburton 26' 3PT Jump Shot (5 PTS) (Bagley III 1 AST),60 - 62,2,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+250,0022000317,355,2,1,2,9:08 PM,0:00,MISS Bledsoe 55' 3PT Jump Shot,,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+251,0022000317,356,4,0,2,9:08 PM,0:00,PELICANS Rebound,,,,,2.0,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+252,0022000317,357,13,0,2,9:08 PM,0:00,,,,60 - 62,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+253,0022000317,365,12,0,3,9:24 PM,12:00,,,,60 - 62,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+254,0022000317,366,2,79,3,9:24 PM,11:49,MISS Ingram 14' Pullup Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+255,0022000317,367,4,0,3,9:24 PM,11:45,,,Barnes REBOUND (Off:1 Def:3),,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+256,0022000317,368,2,3,3,9:24 PM,11:30,Williamson BLOCK (3 BLK),,MISS Bagley III 9' Hook Shot,,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1
+257,0022000317,370,4,0,3,9:24 PM,11:27,Hayes REBOUND (Off:2 Def:1),,,,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+258,0022000317,371,2,1,3,9:24 PM,11:23,MISS Bledsoe 25' 3PT Jump Shot,,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+259,0022000317,372,4,0,3,9:24 PM,11:22,,,Barnes REBOUND (Off:1 Def:4),,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+260,0022000317,373,5,1,3,9:25 PM,11:13,Ball STEAL (3 STL),,Barnes Bad Pass Turnover (P1.T12),,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+261,0022000317,375,2,98,3,9:25 PM,10:53,MISS Hayes 3' Cutting Layup Shot,,Bagley III BLOCK (1 BLK),,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,1
+262,0022000317,377,4,0,3,9:25 PM,10:51,,,Bagley III REBOUND (Off:1 Def:3),,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+263,0022000317,378,7,5,3,9:25 PM,10:46,Hayes Violation:Kicked Ball (J.Conley),,,,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+264,0022000317,379,6,2,3,9:25 PM,10:37,Bledsoe S.FOUL (P1.T1) (J.Capers),,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+265,0022000317,381,3,11,3,9:26 PM,10:37,,,Holmes Free Throw 1 of 2 (9 PTS),61 - 62,1,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+266,0022000317,382,3,12,3,9:26 PM,10:37,,,MISS Holmes Free Throw 2 of 2,,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+267,0022000317,383,4,0,3,9:26 PM,10:35,Williamson REBOUND (Off:2 Def:3),,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+268,0022000317,384,6,1,3,9:26 PM,10:32,,,Hield P.FOUL (P3.T1) (M.Boland),,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+269,0022000317,386,6,2,3,9:27 PM,10:18,,,Bagley III S.FOUL (P3.T2) (J.Conley),,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+270,0022000317,389,6,11,3,9:27 PM,10:18,,,Bagley III T.FOUL (P3.T2) (J.Conley),,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+271,0022000317,395,11,4,3,9:28 PM,10:18,,,Bagley III Ejection:Other,,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+272,0022000317,390,3,16,3,9:28 PM,10:18,Ingram Free Throw Technical (13 PTS),,,61 - 63,2,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+273,0022000317,391,8,0,3,9:28 PM,10:18,,,SUB: Haliburton FOR Bagley III,,,5.0,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+274,0022000317,393,3,11,3,9:29 PM,10:18,Williamson Free Throw 1 of 2 (9 PTS),,,61 - 64,3,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+275,0022000317,394,3,12,3,9:29 PM,10:18,Williamson Free Throw 2 of 2 (10 PTS),,,61 - 65,4,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+276,0022000317,397,2,1,3,9:29 PM,10:06,,,MISS Hield 26' 3PT Jump Shot,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+277,0022000317,398,4,0,3,9:29 PM,10:02,Ingram REBOUND (Off:0 Def:3),,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+278,0022000317,399,2,47,3,9:29 PM,9:53,MISS Williamson 7' Turnaround Jump Shot,,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+279,0022000317,400,4,0,3,9:29 PM,9:51,,,Holmes REBOUND (Off:0 Def:6),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+280,0022000317,401,2,1,3,9:30 PM,9:45,,,MISS Fox 26' 3PT Jump Shot,,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+281,0022000317,402,4,0,3,9:30 PM,9:41,Ingram REBOUND (Off:0 Def:4),,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+282,0022000317,403,2,5,3,9:30 PM,9:30,MISS Hayes 2' Layup,,,,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+283,0022000317,404,4,0,3,9:30 PM,9:29,Hayes REBOUND (Off:3 Def:1),,,,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+284,0022000317,413,2,97,3,9:30 PM,9:29,MISS Hayes 2' Tip Layup Shot,,,,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+285,0022000317,414,4,0,3,9:30 PM,9:28,,,Barnes REBOUND (Off:1 Def:5),,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+286,0022000317,405,6,2,3,9:30 PM,9:12,Hayes S.FOUL (P4.T2) (M.Boland),,,,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+287,0022000317,407,3,11,3,9:30 PM,9:12,,,Barnes Free Throw 1 of 2 (8 PTS),62 - 65,3,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+288,0022000317,408,8,0,3,9:30 PM,9:12,SUB: Hernangomez FOR Hayes,,,,,4.0,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+289,0022000317,410,3,12,3,9:31 PM,9:12,,,Barnes Free Throw 2 of 2 (9 PTS),63 - 65,2,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+290,0022000317,411,2,6,3,9:31 PM,9:03,MISS Williamson 1' Driving Layup,,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+291,0022000317,412,4,0,3,9:31 PM,9:00,,,Barnes REBOUND (Off:1 Def:6),,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+292,0022000317,415,6,1,3,9:31 PM,8:56,Ingram P.FOUL (P2.T3) (J.Conley),,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+293,0022000317,417,2,1,3,9:32 PM,8:49,,,MISS Barnes 25' 3PT Jump Shot,,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+294,0022000317,418,4,0,3,9:32 PM,8:45,,,Haliburton REBOUND (Off:2 Def:2),,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+295,0022000317,419,2,79,3,9:32 PM,8:41,,,MISS Fox 26' 3PT Pullup Jump Shot,,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+296,0022000317,420,4,0,3,9:32 PM,8:39,PELICANS Rebound,,,,,2.0,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+297,0022000317,422,2,78,3,9:32 PM,8:26,MISS Hernangomez 8' Floating Jump Shot,,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+298,0022000317,423,4,0,3,9:32 PM,8:25,,,Kings Rebound,,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+299,0022000317,425,1,1,3,9:32 PM,8:15,,,Barnes 26' 3PT Jump Shot (12 PTS) (Fox 10 AST),66 - 65,-1,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+300,0022000317,427,9,1,3,9:32 PM,8:15,PELICANS Timeout: Regular (Full 3 Short 0),,,,,2.0,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+301,0022000317,428,1,6,3,9:36 PM,7:59,Bledsoe 2' Driving Layup (10 PTS) (Ingram 2 AST),,,66 - 67,1,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+302,0022000317,430,6,2,3,9:36 PM,7:54,Williamson S.FOUL (P2.T4) (J.Conley),,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+303,0022000317,432,3,11,3,9:36 PM,7:54,,,Fox Free Throw 1 of 2 (16 PTS),67 - 67,TIE,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+304,0022000317,433,3,12,3,9:36 PM,7:54,,,Fox Free Throw 2 of 2 (17 PTS),68 - 67,-1,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+305,0022000317,434,1,98,3,9:36 PM,7:43,Williamson 2' Cutting Layup Shot (12 PTS) (Bledsoe 2 AST),,,68 - 69,1,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+306,0022000317,436,1,80,3,9:37 PM,7:27,,,Fox 19' Step Back Jump Shot (19 PTS) (Barnes 3 AST),70 - 69,-1,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+307,0022000317,438,1,79,3,9:37 PM,7:15,Ball 18' Pullup Jump Shot (10 PTS),,,70 - 71,1,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+308,0022000317,440,1,78,3,9:37 PM,6:59,,,Holmes 11' Floating Jump Shot (11 PTS) (Barnes 4 AST),72 - 71,-1,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+309,0022000317,442,1,1,3,9:37 PM,6:49,Williamson 26' 3PT Jump Shot (15 PTS) (Ball 3 AST),,,72 - 74,2,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+310,0022000317,444,1,6,3,9:38 PM,6:24,,,Fox 1' Driving Layup (21 PTS),74 - 74,TIE,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+311,0022000317,445,1,6,3,9:38 PM,6:05,Williamson 1' Driving Layup (17 PTS),,,74 - 76,2,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+312,0022000317,446,6,17,3,9:38 PM,5:56,PELICANS T.Foul (Def. 3 Sec Hernangomez ) (J.Capers),,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+313,0022000317,447,3,16,3,9:39 PM,5:56,,,MISS Hield Free Throw Technical,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+314,0022000317,448,4,1,3,9:39 PM,5:56,,,Kings Rebound,,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+315,0022000317,449,8,0,3,9:39 PM,5:56,SUB: Hart FOR Williamson,,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+316,0022000317,451,2,1,3,9:39 PM,5:49,,,MISS Hield 25' 3PT Jump Shot,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+317,0022000317,452,4,0,3,9:39 PM,5:46,Hart REBOUND (Off:2 Def:5),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+318,0022000317,454,8,0,3,9:39 PM,5:31,,,SUB: Joseph FOR Barnes,,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+319,0022000317,456,1,1,3,9:40 PM,5:29,Bledsoe 27' 3PT Jump Shot (13 PTS) (Ball 4 AST),,,74 - 79,5,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+320,0022000317,458,2,79,3,9:40 PM,5:12,,,MISS Hield 15' Pullup Jump Shot,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+321,0022000317,459,4,0,3,9:40 PM,5:09,Hernangomez REBOUND (Off:3 Def:3),,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+322,0022000317,460,6,26,3,9:40 PM,5:07,Bledsoe Offensive Charge Foul (P2.PN) (J.Conley),,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+323,0022000317,462,5,37,3,9:40 PM,5:07,Bledsoe Offensive Foul Turnover (P3.T5),,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+324,0022000317,463,2,1,3,9:41 PM,4:54,,,MISS Hield 25' 3PT Jump Shot,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+325,0022000317,464,4,0,3,9:41 PM,4:53,,,Holmes REBOUND (Off:1 Def:6),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+326,0022000317,556,5,1,3,9:41 PM,4:52,Hart STEAL (1 STL),,Holmes Bad Pass Turnover (P3.T13),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+327,0022000317,465,1,41,3,9:41 PM,4:44,Ball 3' Running Layup (12 PTS),,,74 - 81,7,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+328,0022000317,467,9,1,3,9:41 PM,4:44,,,Kings Timeout: Regular (Reg.3 Short 0),,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+329,0022000317,468,8,0,3,9:43 PM,4:44,SUB: Alexander-Walker FOR Bledsoe,,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,4,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+330,0022000317,469,8,0,3,9:43 PM,4:44,,,SUB: Guy FOR Hield,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1629657,Kyle Guy,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+331,0022000317,472,2,1,3,9:44 PM,4:26,,,MISS Guy 25' 3PT Jump Shot,,,5.0,1629657,Kyle Guy,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+332,0022000317,473,4,0,3,9:44 PM,4:22,Ingram REBOUND (Off:0 Def:5),,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+333,0022000317,474,2,47,3,9:44 PM,4:13,MISS Ball 5' Turnaround Jump Shot,,Holmes BLOCK (2 BLK),,,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1
+334,0022000317,476,4,0,3,9:44 PM,4:11,Hart REBOUND (Off:3 Def:5),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+335,0022000317,477,6,1,3,9:44 PM,4:09,,,Guy P.FOUL (P1.T3) (M.Boland),,,5.0,1629657,Kyle Guy,1610612758.0,Sacramento,Kings,SAC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+336,0022000317,479,2,1,3,9:45 PM,3:55,MISS Ingram 28' 3PT Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+337,0022000317,480,4,0,3,9:45 PM,3:51,,,Fox REBOUND (Off:2 Def:1),,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+338,0022000317,481,6,2,3,9:45 PM,3:40,Ingram S.FOUL (P3.PN) (J.Capers),,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+339,0022000317,483,3,11,3,9:46 PM,3:40,,,MISS Holmes Free Throw 1 of 2,,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+340,0022000317,484,4,1,3,9:46 PM,3:40,,,Kings Rebound,,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+341,0022000317,485,8,0,3,9:46 PM,3:40,,,SUB: Barnes FOR Fox,,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+342,0022000317,487,3,12,3,9:46 PM,3:40,,,Holmes Free Throw 2 of 2 (12 PTS),75 - 81,6,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+343,0022000317,488,1,98,3,9:46 PM,3:26,Hernangomez 3' Cutting Layup Shot (11 PTS) (Alexander-Walker 1 AST),,,75 - 83,8,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,4,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+344,0022000317,490,2,1,3,9:46 PM,3:13,,,MISS Barnes 24' 3PT Jump Shot,,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+345,0022000317,491,4,0,3,9:46 PM,3:10,Hernangomez REBOUND (Off:3 Def:4),,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+346,0022000317,492,2,41,3,9:47 PM,3:05,MISS Alexander-Walker 2' Running Layup,,Holmes BLOCK (3 BLK),,,4.0,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1
+347,0022000317,494,4,0,3,9:47 PM,3:03,Hart REBOUND (Off:4 Def:5),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+348,0022000317,495,1,97,3,9:47 PM,3:03,Hart  Tip Layup Shot (11 PTS),,,75 - 85,10,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+349,0022000317,496,2,63,3,9:47 PM,2:40,,,MISS Barnes 11' Fadeaway Jumper,,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+350,0022000317,497,4,0,3,9:47 PM,2:36,,,Holmes REBOUND (Off:2 Def:6),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+351,0022000317,498,1,98,3,9:47 PM,2:35,,,Barnes 1' Cutting Layup Shot (14 PTS) (Holmes 3 AST),77 - 85,8,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+352,0022000317,500,6,2,3,9:47 PM,2:35,Hernangomez S.FOUL (P1.PN) (J.Conley),,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+353,0022000317,502,8,0,3,9:47 PM,2:35,SUB: Lewis Jr. FOR Ball,,,,,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+354,0022000317,503,8,0,3,9:47 PM,2:35,,,SUB: Whiteside FOR Holmes,,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+355,0022000317,506,3,10,3,9:48 PM,2:35,,,Barnes Free Throw 1 of 1 (15 PTS),78 - 85,7,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+356,0022000317,507,6,2,3,9:48 PM,2:18,,,Whiteside S.FOUL (P4.T4) (M.Boland),,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+357,0022000317,509,3,11,3,9:48 PM,2:18,Ingram Free Throw 1 of 2 (14 PTS),,,78 - 86,8,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+358,0022000317,510,3,12,3,9:49 PM,2:18,Ingram Free Throw 2 of 2 (15 PTS),,,78 - 87,9,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+359,0022000317,511,1,1,3,9:49 PM,2:02,,,Joseph 25' 3PT Jump Shot (3 PTS) (Guy 1 AST),81 - 87,6,5.0,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,1629657,Kyle Guy,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+360,0022000317,513,1,1,3,9:49 PM,1:41,Alexander-Walker 25' 3PT Jump Shot (4 PTS) (Hart 4 AST),,,81 - 90,9,4.0,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+361,0022000317,515,1,80,3,9:50 PM,1:24,,,Barnes 25' 3PT Step Back Jump Shot (18 PTS) (Joseph 1 AST),84 - 90,6,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+362,0022000317,517,2,6,3,9:50 PM,1:11,MISS Alexander-Walker 2' Driving Layup,,,,,4.0,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+363,0022000317,518,4,0,3,9:50 PM,1:10,Hernangomez REBOUND (Off:4 Def:4),,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+364,0022000317,519,2,72,3,9:50 PM,1:10,MISS Hernangomez 3' Putback Layup,,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+365,0022000317,520,4,0,3,9:50 PM,1:08,Hernangomez REBOUND (Off:5 Def:4),,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+366,0022000317,521,2,97,3,9:50 PM,1:08,MISS Hernangomez 3' Tip Layup Shot,,Barnes BLOCK (1 BLK),,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1
+367,0022000317,522,4,0,3,9:50 PM,1:07,,,Whiteside REBOUND (Off:2 Def:4),,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+368,0022000317,523,2,1,3,9:50 PM,0:55,,,MISS Haliburton 25' 3PT Jump Shot,,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+369,0022000317,524,4,0,3,9:50 PM,0:53,Hernangomez REBOUND (Off:5 Def:5),,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+370,0022000317,525,2,1,3,9:50 PM,0:51,MISS Ingram 26' 3PT Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+371,0022000317,526,4,0,3,9:50 PM,0:48,,,Joseph REBOUND (Off:0 Def:1),,,5.0,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+372,0022000317,527,5,1,3,9:50 PM,0:39,Hernangomez STEAL (1 STL),,Joseph Bad Pass Turnover (P1.T14),,,5.0,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+373,0022000317,529,1,43,3,9:50 PM,0:36,Lewis Jr. 2' Alley Oop Layup (2 PTS) (Alexander-Walker 2 AST),,,84 - 92,8,4.0,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+374,0022000317,531,5,1,3,9:51 PM,0:30,Hart STEAL (2 STL),,Whiteside Bad Pass Turnover (P2.T15),,,5.0,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,4,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+375,0022000317,533,1,52,3,9:51 PM,0:26,Ingram 1' Alley Oop Dunk (17 PTS) (Lewis Jr. 1 AST),,,84 - 94,10,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+376,0022000317,535,1,80,3,9:51 PM,0:06,,,Barnes 26' 3PT Step Back Jump Shot (21 PTS),87 - 94,7,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+377,0022000317,536,2,1,3,9:51 PM,0:02,MISS Ingram 26' 3PT Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+378,0022000317,537,4,0,3,9:51 PM,0:01,Hart REBOUND (Off:5 Def:5),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+379,0022000317,538,2,97,3,9:51 PM,0:00,MISS Hart  Tip Layup Shot,,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+380,0022000317,539,4,0,3,9:51 PM,0:00,PELICANS Rebound,,,,,2.0,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+381,0022000317,540,13,0,3,9:52 PM,0:00,,,,87 - 94,7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+382,0022000317,551,12,0,4,9:54 PM,12:00,,,,87 - 94,7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+383,0022000317,552,5,2,4,9:54 PM,11:42,Lewis Jr. STEAL (1 STL),,Barnes Lost Ball Turnover (P2.T16),,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+384,0022000317,554,1,1,4,9:55 PM,11:36,Alexander-Walker  3PT Jump Shot (7 PTS) (Bledsoe 3 AST),,,87 - 97,10,4.0,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+385,0022000317,558,2,1,4,9:55 PM,11:22,,,MISS Fox 26' 3PT Jump Shot,,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+386,0022000317,559,4,0,4,9:55 PM,11:22,,,Barnes REBOUND (Off:2 Def:6),,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+387,0022000317,560,2,1,4,9:55 PM,11:18,,,MISS Hield 26' 3PT Jump Shot,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+388,0022000317,561,4,0,4,9:55 PM,11:14,Williamson REBOUND (Off:2 Def:4),,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+389,0022000317,562,5,45,4,9:55 PM,11:11,Williamson Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+390,0022000317,563,1,79,4,9:56 PM,10:53,,,Barnes 27' 3PT Pullup Jump Shot (24 PTS),90 - 97,7,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+391,0022000317,564,2,1,4,9:56 PM,10:37,MISS Alexander-Walker 26' 3PT Jump Shot,,,,,4.0,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+392,0022000317,565,4,0,4,9:56 PM,10:33,Hart REBOUND (Off:6 Def:5),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+393,0022000317,566,2,1,4,9:56 PM,10:30,MISS Hart 25' 3PT Jump Shot,,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+394,0022000317,567,4,0,4,9:56 PM,10:26,,,Haliburton REBOUND (Off:2 Def:3),,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+395,0022000317,568,1,1,4,9:56 PM,10:10,,,Hield 27' 3PT Jump Shot (13 PTS) (Fox 11 AST),93 - 97,4,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+396,0022000317,570,1,75,4,9:57 PM,9:43,Hart 2' Driving Finger Roll Layup (13 PTS) (Williamson 2 AST),,,93 - 99,6,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+397,0022000317,572,1,6,4,9:57 PM,9:26,,,Holmes 5' Driving Layup (14 PTS) (Haliburton 4 AST),95 - 99,4,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+398,0022000317,574,6,2,4,9:57 PM,9:26,Lewis Jr. S.FOUL (P1.T1) (J.Capers),,,,,4.0,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+399,0022000317,576,9,1,4,9:58 PM,9:26,PELICANS Timeout: Regular (Full 4 Short 0),,,,,2.0,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+400,0022000317,577,18,6,4,9:58 PM,9:26,,,,95 - 99,4,0.0,574,,,,,,0,0,,,,,,1,0,,,,,,1
+401,0022000317,579,3,10,4,10:01 PM,9:26,,,Holmes Free Throw 1 of 1 (15 PTS),96 - 99,3,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+402,0022000317,580,6,2,4,10:01 PM,9:14,,,Fox S.FOUL (P2.T1) (J.Conley),,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+403,0022000317,582,3,11,4,10:01 PM,9:14,MISS Bledsoe Free Throw 1 of 2,,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+404,0022000317,583,4,1,4,10:01 PM,9:14,PELICANS Rebound,,,,,2.0,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+405,0022000317,584,3,12,4,10:02 PM,9:14,Bledsoe Free Throw 2 of 2 (14 PTS),,,96 - 100,4,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+406,0022000317,585,5,45,4,10:02 PM,8:51,,,Fox Out of Bounds - Bad Pass Turnover Turnover (P5.T17),,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+407,0022000317,587,2,1,4,10:02 PM,8:41,MISS Bledsoe 25' 3PT Jump Shot,,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+408,0022000317,588,4,0,4,10:02 PM,8:38,,,Hield REBOUND (Off:1 Def:4),,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+409,0022000317,589,5,40,4,10:03 PM,8:22,,,Barnes Out of Bounds Lost Ball Turnover (P3.T18),,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+410,0022000317,590,6,26,4,10:03 PM,8:12,Williamson Offensive Charge Foul (P3.T2) (J.Capers),,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+411,0022000317,592,5,37,4,10:03 PM,8:12,Williamson Offensive Foul Turnover (P3.T7),,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+412,0022000317,593,1,108,4,10:04 PM,7:59,,,Holmes 1' Cutting Dunk Shot (17 PTS) (Fox 12 AST),98 - 100,2,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+413,0022000317,595,2,79,4,10:04 PM,7:46,MISS Lewis Jr. 17' Pullup Jump Shot,,,,,4.0,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+414,0022000317,596,4,0,4,10:04 PM,7:42,,,Fox REBOUND (Off:2 Def:2),,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+415,0022000317,597,2,80,4,10:04 PM,7:27,,,MISS Haliburton 21' Step Back Jump Shot,,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+416,0022000317,605,4,0,4,10:04 PM,7:27,Williamson REBOUND (Off:2 Def:5),,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+417,0022000317,598,2,41,4,10:04 PM,7:20,MISS Hart 2' Running Layup,,Holmes BLOCK (4 BLK),,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1
+418,0022000317,599,4,0,4,10:04 PM,7:18,,,Haliburton REBOUND (Off:2 Def:4),,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+419,0022000317,600,1,1,4,10:04 PM,7:07,,,Fox 26' 3PT Jump Shot (24 PTS) (Hield 3 AST),101 - 100,-1,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+420,0022000317,603,2,1,4,10:05 PM,6:50,MISS Hart 25' 3PT Jump Shot,,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+421,0022000317,604,4,0,4,10:05 PM,6:46,,,Hield REBOUND (Off:1 Def:5),,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+422,0022000317,606,2,1,4,10:05 PM,6:33,,,MISS Barnes 26' 3PT Jump Shot,,,5.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+423,0022000317,607,4,0,4,10:05 PM,6:30,,,Haliburton REBOUND (Off:3 Def:4),,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+424,0022000317,608,2,80,4,10:05 PM,6:28,,,MISS Hield 27' 3PT Step Back Jump Shot,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+425,0022000317,609,4,0,4,10:05 PM,6:24,Williamson REBOUND (Off:2 Def:6),,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+426,0022000317,610,5,1,4,10:05 PM,6:14,Williamson Bad Pass Turnover (P4.T8),,Haliburton STEAL (1 STL),,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+427,0022000317,612,6,4,4,10:06 PM,5:57,,,Fox OFF.Foul (P3) (J.Conley),,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+428,0022000317,614,5,37,4,10:06 PM,5:57,,,Fox Offensive Foul Turnover (P6.T19),,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+429,0022000317,615,9,1,4,10:06 PM,5:57,,,Kings Timeout: Regular (Reg.4 Short 0),,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+430,0022000317,616,18,4,4,10:06 PM,5:57,,,,101 - 100,-1,0.0,612,,,,,,0,0,,,,,,1,0,,,,,,0
+431,0022000317,617,8,0,4,10:08 PM,5:57,SUB: Hernangomez FOR Alexander-Walker,,,,,4.0,1629638,Nickeil Alexander-Walker,1610612740.0,New Orleans,Pelicans,NOP,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+432,0022000317,618,8,0,4,10:08 PM,5:57,SUB: Ball FOR Lewis Jr.,,,,,4.0,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+433,0022000317,619,8,0,4,10:08 PM,5:57,SUB: Ingram FOR Williamson,,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+434,0022000317,623,2,1,4,10:09 PM,5:42,MISS Ingram 13' Jump Shot,,Holmes BLOCK (5 BLK),,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1
+435,0022000317,625,4,0,4,10:09 PM,5:42,PELICANS Rebound,,,,,2.0,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+436,0022000317,627,1,79,4,10:09 PM,5:40,Ingram 17' Pullup Jump Shot (19 PTS) (Ball 5 AST),,,101 - 102,1,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+437,0022000317,629,1,80,4,10:10 PM,5:22,,,Fox 23' Step Back Jump Shot (26 PTS) (Haliburton 5 AST),103 - 102,-1,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+438,0022000317,631,2,1,4,10:10 PM,5:08,MISS Ball 26' 3PT Jump Shot,,,,,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+439,0022000317,632,4,0,4,10:10 PM,5:04,,,Holmes REBOUND (Off:2 Def:7),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+440,0022000317,633,1,6,4,10:10 PM,4:58,,,Fox 2' Driving Layup (28 PTS),105 - 102,-3,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+441,0022000317,634,2,6,4,10:10 PM,4:45,MISS Bledsoe 2' Driving Layup,,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+442,0022000317,635,4,0,4,10:10 PM,4:42,Hernangomez REBOUND (Off:6 Def:5),,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+443,0022000317,636,1,72,4,10:10 PM,4:42,Hernangomez  Putback Layup (13 PTS),,,105 - 104,-1,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+444,0022000317,637,2,6,4,10:11 PM,4:27,,,MISS Fox 2' Driving Layup,,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+445,0022000317,638,4,0,4,10:11 PM,4:26,Hart REBOUND (Off:6 Def:6),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+446,0022000317,639,1,41,4,10:11 PM,4:20,Hart 2' Running Layup (15 PTS),,,105 - 106,1,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+447,0022000317,640,5,45,4,10:11 PM,4:04,,,Holmes Out of Bounds - Bad Pass Turnover Turnover (P4.T20),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+448,0022000317,642,2,1,4,10:11 PM,3:47,MISS Ingram 19' Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+449,0022000317,643,4,0,4,10:12 PM,3:42,,,Haliburton REBOUND (Off:3 Def:5),,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+450,0022000317,644,1,6,4,10:12 PM,3:34,,,Fox 1' Driving Layup (30 PTS) (Haliburton 6 AST),107 - 106,-1,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+451,0022000317,646,2,1,4,10:12 PM,3:10,MISS Hart  3PT Jump Shot,,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+452,0022000317,647,4,0,4,10:12 PM,3:08,,,Holmes REBOUND (Off:2 Def:8),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+453,0022000317,648,9,1,4,10:12 PM,3:08,,,Kings Timeout: Regular (Reg.5 Short 0),,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+454,0022000317,649,8,0,4,10:13 PM,3:08,SUB: Williamson FOR Hernangomez,,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+455,0022000317,651,2,1,4,10:14 PM,2:53,,,MISS Haliburton  3PT Jump Shot,,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+456,0022000317,652,4,0,4,10:14 PM,2:50,Ball REBOUND (Off:0 Def:1),,,,,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+457,0022000317,654,5,2,4,10:15 PM,2:28,Ingram Lost Ball Turnover (P1.T9),,Barnes STEAL (1 STL),,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+458,0022000317,656,6,2,4,10:15 PM,2:24,Hart S.FOUL (P3.T3) (M.Boland),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+459,0022000317,658,3,11,4,10:15 PM,2:24,,,Fox Free Throw 1 of 2 (31 PTS),108 - 106,-2,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+460,0022000317,659,3,12,4,10:15 PM,2:24,,,Fox Free Throw 2 of 2 (32 PTS),109 - 106,-3,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+461,0022000317,660,2,47,4,10:16 PM,2:12,MISS Williamson 4' Turnaround Jump Shot,,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+462,0022000317,661,4,0,4,10:16 PM,2:10,,,Hield REBOUND (Off:1 Def:6),,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+463,0022000317,662,1,6,4,10:16 PM,1:57,,,Fox 2' Driving Layup (34 PTS),111 - 106,-5,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+464,0022000317,663,9,1,4,10:16 PM,1:57,PELICANS Timeout: Regular (Full 5 Short 0),,,,,2.0,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+465,0022000317,664,6,2,4,10:18 PM,1:52,,,Holmes S.FOUL (P4.T2) (J.Capers),,,5.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+466,0022000317,666,3,11,4,10:18 PM,1:52,Ingram Free Throw 1 of 2 (20 PTS),,,111 - 107,-4,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+467,0022000317,669,5,0,4,10:18 PM,1:52,Hernangomez No Turnover (P1.T10),,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+468,0022000317,667,8,0,4,10:18 PM,1:52,SUB: Hernangomez FOR Williamson,,,,,4.0,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+469,0022000317,670,2,80,4,10:19 PM,1:32,,,MISS Fox 22' Step Back Jump Shot,,,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+470,0022000317,671,4,0,4,10:19 PM,1:28,Ball REBOUND (Off:0 Def:2),,,,,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+471,0022000317,672,2,41,4,10:19 PM,1:25,MISS Ball 2' Running Layup,,Holmes BLOCK (6 BLK),,,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1
+472,0022000317,674,4,0,4,10:19 PM,1:22,,,Haliburton REBOUND (Off:3 Def:6),,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+473,0022000317,675,1,6,4,10:20 PM,1:08,,,Fox 2' Driving Layup (36 PTS),113 - 107,-6,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+474,0022000317,676,2,3,4,10:20 PM,0:50,MISS Hernangomez 2' Hook Shot,,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+475,0022000317,677,4,0,4,10:20 PM,0:48,,,Hield REBOUND (Off:1 Def:7),,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+476,0022000317,678,1,75,4,10:20 PM,0:33,,,Fox 1' Driving Finger Roll Layup (38 PTS),115 - 107,-8,5.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+477,0022000317,679,9,1,4,10:20 PM,0:33,PELICANS Timeout: Regular (Full 6 Short 0),,,,,2.0,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+478,0022000317,680,8,0,4,10:21 PM,0:33,SUB: Williamson FOR Hernangomez,,,,,4.0,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+479,0022000317,682,2,1,4,10:22 PM,0:30,MISS Ingram 26' 3PT Jump Shot,,,,,4.0,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+480,0022000317,683,4,0,4,10:22 PM,0:26,,,Haliburton REBOUND (Off:3 Def:7),,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+481,0022000317,684,6,28,4,10:22 PM,0:26,Hart Personal Take Foul (P4.T4) (J.Conley),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+482,0022000317,686,9,1,4,10:23 PM,0:26,,,Kings Timeout: Regular (Reg.6 Short 0),,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+483,0022000317,687,9,1,4,10:24 PM,0:26,,,Kings Timeout: Regular (Reg.7 Short 0),,,3.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+484,0022000317,688,6,1,4,10:26 PM,0:25,Ball P.FOUL (P1.PN) (M.Boland),,,,,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+485,0022000317,690,3,11,4,10:26 PM,0:25,,,Hield Free Throw 1 of 2 (14 PTS),116 - 107,-9,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+486,0022000317,691,3,12,4,10:26 PM,0:25,,,MISS Hield Free Throw 2 of 2,,,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+487,0022000317,692,4,0,4,10:26 PM,0:23,Hart REBOUND (Off:6 Def:7),,,,,4.0,1628404,Josh Hart,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+488,0022000317,693,1,98,4,10:27 PM,0:18,Ball 2' Cutting Layup Shot (14 PTS) (Bledsoe 4 AST),,,116 - 109,-7,4.0,1628366,Lonzo Ball,1610612740.0,New Orleans,Pelicans,NOP,4,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+489,0022000317,695,6,28,4,10:27 PM,0:12,Bledsoe Personal Take Foul (P3.PN) (J.Conley),,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+490,0022000317,697,3,11,4,10:27 PM,0:12,,,Hield Free Throw 1 of 2 (15 PTS),117 - 109,-8,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+491,0022000317,698,3,12,4,10:27 PM,0:12,,,Hield Free Throw 2 of 2 (16 PTS),118 - 109,-9,5.0,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+492,0022000317,699,2,1,4,10:28 PM,0:06,MISS Bledsoe 26' 3PT Jump Shot,,,,,4.0,202339,Eric Bledsoe,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+493,0022000317,700,4,0,4,10:28 PM,0:02,,,Haliburton REBOUND (Off:3 Def:8),,,5.0,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+494,0022000317,701,13,0,4,10:28 PM,0:00,,,,118 - 109,-9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+495,0022000317,703,6,0,4,10:39 PM,0:00,,,,,,,0,,,,,,0,0,,,,,,0,0,,,,,,0

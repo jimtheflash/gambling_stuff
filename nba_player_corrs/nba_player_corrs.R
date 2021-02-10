@@ -1,6 +1,6 @@
 library(tidyverse)
 
-boxscores <- read_csv('/Users/jim/Desktop/nba_2020-21.csv')
+boxscores <- read_csv('./data/nba_gamelogs/nba_gamelogs_2020-21.csv')
 
 teams <- unique(boxscores$TEAM_NAME)
 
