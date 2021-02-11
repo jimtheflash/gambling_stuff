@@ -1,4 +1,3 @@
-import nba_api.stats.endpoints.playergamelogs as pg
 import nba_api.stats.endpoints.playbyplayv2 as pbp
 import pandas as pd
 import time
@@ -8,6 +7,7 @@ gamelog_path = './data/nba_gamelogs/'
 pbp_path = './data/nba_pbp/'
 
 gamelogs = os.listdir(gamelog_path)
+# gamelogs = './data/nba_gamelogs/nba_gamelogs_2018-19.csv'
 
 for gl in gamelogs:
   print(gl)
