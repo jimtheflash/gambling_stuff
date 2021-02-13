@@ -1,0 +1,473 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021600627,1,12,0,1,7:11 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021600627,2,10,0,1,7:11 PM,12:00,Jump Ball Embiid vs. Valanciunas: Tip to Covington,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,1
+2,0021600627,3,1,101,1,7:12 PM,11:46,McConnell 4' Driving Floating Jump Shot (2 PTS),,,0 - 2,2,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+3,0021600627,4,2,1,1,7:12 PM,11:23,Stauskas BLOCK (1 BLK),,MISS Carroll 21' Jump Shot,,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,1
+4,0021600627,5,4,0,1,7:13 PM,11:21,Ilyasova REBOUND (Off:0 Def:1),,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+5,0021600627,6,2,1,1,7:13 PM,11:12,MISS Embiid 13' Jump Shot,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+6,0021600627,7,4,0,1,7:13 PM,11:11,,,Valanciunas REBOUND (Off:0 Def:1),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+7,0021600627,8,5,4,1,7:13 PM,11:02,,,Siakam Traveling Turnover (P1.T1),,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+8,0021600627,9,1,98,1,7:13 PM,10:53,Ilyasova 2' Cutting Layup Shot (2 PTS) (McConnell 1 AST),,,0 - 4,4,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+9,0021600627,10,5,39,1,7:14 PM,10:31,,,Lowry Step Out of Bounds Turnover (P1.T2),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+10,0021600627,11,1,1,1,7:14 PM,10:18,Covington 26' 3PT Jump Shot (3 PTS) (Embiid 1 AST),,,0 - 7,7,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+11,0021600627,12,2,1,1,7:14 PM,10:00,,,MISS Carroll 25' 3PT Jump Shot,,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+12,0021600627,13,4,0,1,7:14 PM,9:58,McConnell REBOUND (Off:0 Def:1),,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+13,0021600627,14,2,80,1,7:15 PM,9:45,MISS Ilyasova 21' Step Back Jump Shot,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+14,0021600627,15,4,0,1,7:15 PM,9:43,,,Valanciunas REBOUND (Off:0 Def:2),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+15,0021600627,16,1,1,1,7:15 PM,9:37,,,Lowry 26' 3PT Jump Shot (3 PTS),3 - 7,4,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+16,0021600627,17,1,47,1,7:15 PM,9:15,Embiid 9' Turnaround Jump Shot (2 PTS) (Ilyasova 1 AST),,,3 - 9,6,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+17,0021600627,18,6,2,1,7:15 PM,8:58,Stauskas S.FOUL (P1.T1) (G.Zielinski),,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+18,0021600627,19,3,11,1,7:15 PM,8:58,,,DeRozan Free Throw 1 of 2 (1 PTS),4 - 9,5,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+19,0021600627,22,3,12,1,7:16 PM,8:58,,,DeRozan Free Throw 2 of 2 (2 PTS),5 - 9,4,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+20,0021600627,24,2,1,1,7:16 PM,8:46,MISS Embiid 25' 3PT Jump Shot,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+21,0021600627,25,4,0,1,7:16 PM,8:44,,,Carroll REBOUND (Off:0 Def:1),,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+22,0021600627,26,6,1,1,7:17 PM,8:33,Covington P.FOUL (P1.T2) (J.VanDuyne),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+23,0021600627,27,5,11,1,7:17 PM,8:19,,,Raptors Turnover: Shot Clock (T#3),,,3.0,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+24,0021600627,28,2,1,1,7:17 PM,8:10,MISS Ilyasova 5' Jump Shot,,Siakam BLOCK (1 BLK),,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1
+25,0021600627,29,4,0,1,7:17 PM,8:10,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+26,0021600627,30,1,1,1,7:18 PM,8:06,Ilyasova 25' 3PT Jump Shot (5 PTS) (Stauskas 1 AST),,,5 - 12,7,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+27,0021600627,33,2,1,1,7:18 PM,7:49,,,MISS Lowry 25' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+28,0021600627,34,4,0,1,7:18 PM,7:48,,,Valanciunas REBOUND (Off:1 Def:2),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+29,0021600627,35,1,1,1,7:18 PM,7:36,,,Valanciunas 19' Jump Shot (2 PTS) (DeRozan 1 AST),7 - 12,5,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+30,0021600627,36,1,99,1,7:19 PM,7:19,Covington 2' Cutting Finger Roll Layup Shot (5 PTS) (Embiid 2 AST),,,7 - 14,7,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+31,0021600627,37,2,1,1,7:19 PM,7:04,,,MISS DeRozan 18' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+32,0021600627,38,4,0,1,7:19 PM,7:03,,,Valanciunas REBOUND (Off:2 Def:2),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+33,0021600627,39,2,1,1,7:19 PM,7:00,,,MISS DeRozan 8' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+34,0021600627,41,4,0,1,7:19 PM,6:57,,,Valanciunas REBOUND (Off:3 Def:2),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+35,0021600627,40,2,97,1,7:19 PM,6:57,,,MISS Valanciunas 1' Tip Layup Shot,,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+36,0021600627,42,4,0,1,7:19 PM,6:53,Covington REBOUND (Off:0 Def:1),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+37,0021600627,43,1,50,1,7:19 PM,6:51,Ilyasova  Running Dunk (7 PTS) (Covington 1 AST),,,7 - 16,9,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+38,0021600627,44,9,1,1,7:19 PM,6:43,,,Raptors Timeout: Regular (Reg.1 Short 0),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+39,0021600627,580,7,1,1,7:19 PM,6:43,,,Raptors Violation: Delay of game Violation,,,3.0,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+40,0021600627,45,8,0,1,7:22 PM,6:43,,,SUB: Ross FOR Siakam,,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+41,0021600627,46,8,0,1,7:22 PM,6:43,SUB: Henderson FOR Stauskas,,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,4,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+42,0021600627,47,8,0,1,7:22 PM,6:43,SUB: Noel FOR Embiid,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+43,0021600627,48,6,2,1,7:22 PM,6:35,McConnell S.FOUL (P1.T3) (G.Zielinski),,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+44,0021600627,49,3,11,1,7:22 PM,6:35,,,Lowry Free Throw 1 of 2 (4 PTS),8 - 16,8,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+45,0021600627,51,3,12,1,7:22 PM,6:35,,,MISS Lowry Free Throw 2 of 2,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+46,0021600627,53,4,0,1,7:23 PM,6:34,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+47,0021600627,55,1,101,1,7:23 PM,6:23,McConnell 7' Driving Floating Jump Shot (4 PTS),,,8 - 18,10,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+48,0021600627,56,1,5,1,7:23 PM,6:11,,,Valanciunas 2' Layup (4 PTS) (Lowry 1 AST),10 - 18,8,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+49,0021600627,57,5,4,1,7:23 PM,5:59,Covington Traveling Turnover (P1.T1),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+50,0021600627,58,8,0,1,7:23 PM,5:59,SUB: Saric FOR Ilyasova,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+51,0021600627,59,2,57,1,7:24 PM,5:42,,,MISS Valanciunas 3' Driving Hook Shot,,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+52,0021600627,60,4,0,1,7:24 PM,5:40,Saric REBOUND (Off:0 Def:1),,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+53,0021600627,61,2,100,1,7:24 PM,5:35,MISS Noel 2' Running Alley Oop Layup Shot,,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+54,0021600627,62,4,0,1,7:24 PM,5:33,,,Carroll REBOUND (Off:0 Def:2),,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+55,0021600627,63,1,7,1,7:24 PM,5:22,,,Valanciunas  Dunk (6 PTS) (Lowry 2 AST),12 - 18,6,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+56,0021600627,64,6,29,1,7:24 PM,5:16,,,Valanciunas Shooting Block Foul (P1.T1) (G.Zielinski),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+57,0021600627,65,3,11,1,7:25 PM,5:16,MISS Covington Free Throw 1 of 2,,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+58,0021600627,67,4,0,1,7:25 PM,5:16,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+59,0021600627,66,8,0,1,7:25 PM,5:16,,,SUB: Sullinger FOR Valanciunas,,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+60,0021600627,68,3,12,1,7:25 PM,5:16,Covington Free Throw 2 of 2 (6 PTS),,,12 - 19,7,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+61,0021600627,70,2,101,1,7:26 PM,5:06,,,MISS DeRozan 5' Driving Floating Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+62,0021600627,71,4,0,1,7:26 PM,5:03,McConnell REBOUND (Off:0 Def:2),,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+63,0021600627,73,1,75,1,7:26 PM,4:47,Henderson 2' Driving Finger Roll Layup (2 PTS) (Saric 1 AST),,,12 - 21,9,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+64,0021600627,74,6,2,1,7:26 PM,4:47,,,Lowry S.FOUL (P1.T2) (B.Spooner),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+65,0021600627,75,3,10,1,7:27 PM,4:47,MISS Henderson Free Throw 1 of 1,,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+66,0021600627,76,8,0,1,7:27 PM,4:47,SUB: Rodriguez FOR McConnell,,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+67,0021600627,77,4,0,1,7:27 PM,4:45,,,Ross REBOUND (Off:0 Def:1),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+68,0021600627,78,1,98,1,7:27 PM,4:22,,,Sullinger 2' Cutting Layup Shot (2 PTS) (Carroll 1 AST),14 - 21,7,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,5,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+69,0021600627,79,2,42,1,7:28 PM,4:11,MISS Saric 2' Driving Layup,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+70,0021600627,80,4,0,1,7:28 PM,4:09,,,Sullinger REBOUND (Off:0 Def:1),,,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+71,0021600627,81,2,1,1,7:28 PM,4:01,,,MISS Carroll  3PT Jump Shot,,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+72,0021600627,82,4,0,1,7:28 PM,3:59,,,Sullinger REBOUND (Off:1 Def:1),,,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+73,0021600627,83,1,72,1,7:28 PM,3:57,,,Sullinger 2' Putback Layup (4 PTS),16 - 21,5,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+74,0021600627,84,2,57,1,7:28 PM,3:38,MISS Saric 6' Driving Hook Shot,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+75,0021600627,85,4,0,1,7:28 PM,3:36,,,Sullinger REBOUND (Off:1 Def:2),,,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+76,0021600627,86,5,4,1,7:28 PM,3:33,,,Lowry Traveling Turnover (P2.T4),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+77,0021600627,88,9,1,1,7:28 PM,3:33,76ERS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+78,0021600627,89,8,0,1,7:30 PM,3:33,,,SUB: Powell FOR Lowry,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+79,0021600627,90,8,0,1,7:31 PM,3:33,,,SUB: Joseph FOR Carroll,,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+80,0021600627,91,8,0,1,7:31 PM,3:33,SUB: Luwawu-Cabarrot FOR Covington,,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+81,0021600627,92,2,1,1,7:31 PM,3:21,MISS Luwawu-Cabarrot 26' 3PT Jump Shot,,,,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+82,0021600627,93,4,0,1,7:31 PM,3:21,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+83,0021600627,94,6,3,1,7:31 PM,3:21,,,Powell L.B.FOUL (P1.T3) (J.VanDuyne),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+84,0021600627,95,5,40,1,7:32 PM,3:11,Henderson Out of Bounds Lost Ball Turnover (P1.T2),,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+85,0021600627,96,6,1,1,7:32 PM,3:02,Henderson P.FOUL (P1.T4) (G.Zielinski),,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+86,0021600627,97,2,1,1,7:32 PM,2:54,,,MISS Sullinger 19' Jump Shot,,,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+87,0021600627,98,4,0,1,7:32 PM,2:52,Saric REBOUND (Off:0 Def:2),,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+88,0021600627,99,2,101,1,7:33 PM,2:32,MISS Luwawu-Cabarrot 9' Driving Floating Jump Shot,,,,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+89,0021600627,100,4,0,1,7:33 PM,2:30,,,Ross REBOUND (Off:0 Def:2),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+90,0021600627,101,1,1,1,7:33 PM,2:21,,,Ross 26' 3PT Jump Shot (3 PTS) (Joseph 1 AST),19 - 21,2,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+91,0021600627,102,2,1,1,7:33 PM,2:10,MISS Noel 17' Jump Shot,,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+92,0021600627,103,4,0,1,7:33 PM,2:10,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+93,0021600627,104,6,3,1,7:33 PM,2:10,,,Powell L.B.FOUL (P2.T4) (J.VanDuyne),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+94,0021600627,105,8,0,1,7:33 PM,2:10,SUB: Embiid FOR Noel,,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+95,0021600627,106,2,1,1,7:34 PM,1:53,MISS Luwawu-Cabarrot 4' Jump Shot,,Powell BLOCK (1 BLK),,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,1
+96,0021600627,107,4,0,1,7:34 PM,1:51,Rodriguez REBOUND (Off:1 Def:0),,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+97,0021600627,108,2,1,1,7:34 PM,1:50,MISS Rodriguez 27' 3PT Jump Shot,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+98,0021600627,109,4,0,1,7:34 PM,1:48,,,Powell REBOUND (Off:0 Def:1),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+99,0021600627,110,1,40,1,7:34 PM,1:40,,,Sullinger 3' Layup (6 PTS) (DeRozan 2 AST),21 - 21,TIE,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+100,0021600627,111,6,2,1,7:34 PM,1:40,Embiid S.FOUL (P1.PN) (G.Zielinski),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+101,0021600627,112,3,10,1,7:34 PM,1:40,,,MISS Sullinger Free Throw 1 of 1,,,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+102,0021600627,113,4,0,1,7:34 PM,1:38,Rodriguez REBOUND (Off:1 Def:1),,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+103,0021600627,114,1,80,1,7:35 PM,1:26,Embiid 17' Step Back Jump Shot (4 PTS),,,21 - 23,2,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+104,0021600627,115,2,1,1,7:35 PM,1:10,,,MISS DeRozan 14' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+105,0021600627,116,4,0,1,7:35 PM,1:08,Embiid REBOUND (Off:0 Def:1),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+106,0021600627,118,5,2,1,7:35 PM,0:52,Embiid Lost Ball Turnover (P1.T3),,Joseph STEAL (1 STL),,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+107,0021600627,119,2,5,1,7:35 PM,0:42,,,MISS Ross 2' Layup,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+108,0021600627,120,4,0,1,7:36 PM,0:40,Embiid REBOUND (Off:0 Def:2),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+109,0021600627,121,5,4,1,7:36 PM,0:36,Rodriguez Traveling Turnover (P1.T4),,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+110,0021600627,122,2,1,1,7:36 PM,0:29,,,MISS DeRozan 14' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+111,0021600627,123,4,0,1,7:36 PM,0:28,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+112,0021600627,124,2,1,1,7:37 PM,0:07,,,MISS DeRozan 14' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+113,0021600627,125,4,0,1,7:37 PM,0:05,Rodriguez REBOUND (Off:1 Def:2),,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+114,0021600627,126,6,2,1,7:37 PM,0:00,,,Ross S.FOUL (P1.PN) (G.Zielinski),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+115,0021600627,127,18,0,1,7:38 PM,0:00,,,,,,,126,,,,,,0,0,,,,,,1,0,,,,,,0
+116,0021600627,128,3,11,1,7:38 PM,0:00,Henderson Free Throw 1 of 2 (3 PTS),,,21 - 24,3,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+117,0021600627,130,3,12,1,7:39 PM,0:00,Henderson Free Throw 2 of 2 (4 PTS),,,21 - 25,4,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+118,0021600627,132,13,0,1,7:39 PM,0:00,,,,21 - 25,4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+119,0021600627,134,12,0,2,7:42 PM,12:00,,,,21 - 25,4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+120,0021600627,135,2,3,2,7:42 PM,11:38,Embiid BLOCK (1 BLK),,MISS Valanciunas 8' Hook Shot,,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+121,0021600627,136,4,0,2,7:42 PM,11:36,Luwawu-Cabarrot REBOUND (Off:0 Def:1),,,,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+122,0021600627,137,2,1,2,7:42 PM,11:30,MISS Ilyasova 25' 3PT Jump Shot,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+123,0021600627,138,4,0,2,7:42 PM,11:28,,,Valanciunas REBOUND (Off:3 Def:3),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+124,0021600627,141,6,1,2,7:43 PM,11:17,Ilyasova P.FOUL (P1.T1) (J.VanDuyne),,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+125,0021600627,142,3,11,2,7:43 PM,11:17,,,MISS Lowry Free Throw 1 of 2,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+126,0021600627,144,4,0,2,7:43 PM,11:17,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+127,0021600627,143,3,12,2,7:43 PM,11:17,,,Lowry Free Throw 2 of 2 (5 PTS),22 - 25,3,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+128,0021600627,146,5,2,2,7:44 PM,10:59,Luwawu-Cabarrot Lost Ball Turnover (P1.T5),,Lowry STEAL (1 STL),,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+129,0021600627,147,2,44,2,7:44 PM,10:50,,,MISS Powell 2' Reverse Layup,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+130,0021600627,148,4,0,2,7:44 PM,10:48,Embiid REBOUND (Off:0 Def:3),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+131,0021600627,149,2,1,2,7:44 PM,10:39,MISS Embiid 24' 3PT Jump Shot,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+132,0021600627,150,4,0,2,7:44 PM,10:37,,,Valanciunas REBOUND (Off:3 Def:4),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+133,0021600627,151,2,1,2,7:44 PM,10:30,,,MISS Powell  3PT Jump Shot,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+134,0021600627,152,4,0,2,7:44 PM,10:27,Ilyasova REBOUND (Off:0 Def:2),,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+135,0021600627,155,6,29,2,7:44 PM,10:24,,,Lowry Shooting Block Foul (P2.T1) (J.VanDuyne),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+136,0021600627,156,3,11,2,7:45 PM,10:24,Ilyasova Free Throw 1 of 2 (8 PTS),,,22 - 26,4,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+137,0021600627,157,8,0,2,7:45 PM,10:24,SUB: McConnell FOR Rodriguez,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+138,0021600627,158,3,12,2,7:45 PM,10:24,MISS Ilyasova Free Throw 2 of 2,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+139,0021600627,160,4,0,2,7:45 PM,10:22,,,Ross REBOUND (Off:0 Def:3),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+140,0021600627,161,2,79,2,7:45 PM,10:08,,,MISS Lowry 18' Pullup Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+141,0021600627,162,4,0,2,7:45 PM,10:07,Embiid REBOUND (Off:0 Def:4),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+142,0021600627,163,1,79,2,7:46 PM,10:01,Embiid 25' 3PT Pullup Jump Shot (7 PTS) (McConnell 2 AST),,,22 - 29,7,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+143,0021600627,164,1,1,2,7:46 PM,9:38,,,Joseph 12' Jump Shot (2 PTS),24 - 29,5,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+144,0021600627,165,2,79,2,7:46 PM,9:26,MISS Ilyasova 4' Pullup Jump Shot,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+145,0021600627,166,4,0,2,7:46 PM,9:24,,,Valanciunas REBOUND (Off:3 Def:5),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+146,0021600627,167,6,2,2,7:46 PM,9:20,McConnell S.FOUL (P2.T2) (J.VanDuyne),,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+147,0021600627,168,3,11,2,7:47 PM,9:20,,,MISS Joseph Free Throw 1 of 2,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+148,0021600627,169,4,1,2,7:47 PM,9:20,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+149,0021600627,170,3,12,2,7:47 PM,9:20,,,Joseph Free Throw 2 of 2 (3 PTS),25 - 29,4,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+150,0021600627,172,5,1,2,7:47 PM,9:04,Embiid Bad Pass Turnover (P2.T6),,Lowry STEAL (2 STL),,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+151,0021600627,173,6,2,2,7:47 PM,9:02,Stauskas S.FOUL (P2.T3) (B.Spooner),,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+152,0021600627,174,3,11,2,7:48 PM,9:02,,,Lowry Free Throw 1 of 2 (6 PTS),26 - 29,3,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+153,0021600627,176,3,12,2,7:48 PM,9:02,,,MISS Lowry Free Throw 2 of 2,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+154,0021600627,178,4,0,2,7:48 PM,9:01,Stauskas REBOUND (Off:0 Def:1),,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+155,0021600627,180,9,4,2,7:48 PM,8:51,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+156,0021600627,181,8,0,2,7:50 PM,8:51,,,SUB: Carroll FOR Powell,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+157,0021600627,182,2,1,2,7:51 PM,8:37,MISS Embiid 17' Jump Shot,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+158,0021600627,183,4,0,2,7:51 PM,8:35,Ilyasova REBOUND (Off:1 Def:2),,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+159,0021600627,184,2,5,2,7:51 PM,8:35,MISS Ilyasova 3' Layup,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+160,0021600627,185,4,0,2,7:51 PM,8:35,Luwawu-Cabarrot REBOUND (Off:1 Def:1),,,,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+161,0021600627,186,6,2,2,7:51 PM,8:35,,,Valanciunas S.FOUL (P2.T2) (G.Zielinski),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+162,0021600627,187,3,11,2,7:51 PM,8:35,Luwawu-Cabarrot Free Throw 1 of 2 (1 PTS),,,26 - 30,4,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+163,0021600627,188,8,0,2,7:52 PM,8:35,SUB: Noel FOR Embiid,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+164,0021600627,189,3,12,2,7:52 PM,8:35,Luwawu-Cabarrot Free Throw 2 of 2 (2 PTS),,,26 - 31,5,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+165,0021600627,192,6,1,2,7:52 PM,8:19,Stauskas P.FOUL (P3.T4) (B.Spooner),,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+166,0021600627,193,8,0,2,7:53 PM,8:19,SUB: Covington FOR Stauskas,,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+167,0021600627,194,5,1,2,7:53 PM,8:12,Luwawu-Cabarrot STEAL (1 STL),,Ross Bad Pass Turnover (P1.T5),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+168,0021600627,195,2,1,2,7:53 PM,7:57,MISS Ilyasova 26' 3PT Jump Shot,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+169,0021600627,196,4,0,2,7:53 PM,7:55,,,Valanciunas REBOUND (Off:3 Def:6),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+170,0021600627,197,1,103,2,7:53 PM,7:49,,,Lowry 25' 3PT Running Pull-Up Jump Shot (9 PTS),29 - 31,2,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+171,0021600627,198,2,82,2,7:54 PM,7:25,MISS Luwawu-Cabarrot 5' Driving Bank Shot,,,,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+172,0021600627,199,4,0,2,7:54 PM,7:24,,,Joseph REBOUND (Off:0 Def:1),,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+173,0021600627,200,1,41,2,7:54 PM,7:18,,,Joseph 2' Running Layup (5 PTS),31 - 31,TIE,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+174,0021600627,201,1,79,2,7:54 PM,7:00,McConnell 16' Pullup Jump Shot (6 PTS) (Ilyasova 2 AST),,,31 - 33,2,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+175,0021600627,202,1,43,2,7:54 PM,6:50,,,Valanciunas 1' Alley Oop Layup (8 PTS) (Joseph 2 AST),33 - 33,TIE,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+176,0021600627,203,1,5,2,7:55 PM,6:35,Noel 2' Layup (2 PTS) (McConnell 3 AST),,,33 - 35,2,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+177,0021600627,204,2,1,2,7:55 PM,6:14,,,MISS Carroll 25' 3PT Jump Shot,,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+178,0021600627,205,4,0,2,7:55 PM,6:12,,,Lowry REBOUND (Off:1 Def:0),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+179,0021600627,206,6,2,2,7:55 PM,6:07,Noel S.FOUL (P1.PN) (J.VanDuyne),,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+180,0021600627,207,3,11,2,7:55 PM,6:07,,,Lowry Free Throw 1 of 2 (10 PTS),34 - 35,1,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+181,0021600627,209,8,0,2,7:56 PM,6:07,,,SUB: DeRozan FOR Joseph,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+182,0021600627,210,8,0,2,7:56 PM,6:07,SUB: Saric FOR Ilyasova,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+183,0021600627,211,8,0,2,7:56 PM,6:07,,,SUB: VanVleet FOR Ross,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+184,0021600627,212,8,0,2,7:56 PM,6:07,SUB: Henderson FOR Luwawu-Cabarrot,,,,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,4,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+185,0021600627,213,3,12,2,7:56 PM,6:07,,,Lowry Free Throw 2 of 2 (11 PTS),35 - 35,TIE,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+186,0021600627,215,6,2,2,7:57 PM,5:47,,,Carroll S.FOUL (P1.T3) (J.VanDuyne),,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+187,0021600627,216,9,1,2,7:57 PM,5:47,76ERS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+188,0021600627,217,3,11,2,7:59 PM,5:47,Saric Free Throw 1 of 2 (1 PTS),,,35 - 36,1,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+189,0021600627,219,3,12,2,7:59 PM,5:47,MISS Saric Free Throw 2 of 2,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+190,0021600627,221,4,0,2,7:59 PM,5:47,,,VanVleet REBOUND (Off:0 Def:1),,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+191,0021600627,222,2,1,2,8:00 PM,5:27,,,MISS Lowry 26' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+192,0021600627,223,4,0,2,8:00 PM,5:25,,,DeRozan REBOUND (Off:1 Def:0),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+193,0021600627,224,1,42,2,8:00 PM,5:18,,,VanVleet 1' Driving Layup (2 PTS) (DeRozan 3 AST),37 - 36,-1,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+194,0021600627,225,2,1,2,8:00 PM,4:57,MISS Covington 25' 3PT Jump Shot,,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+195,0021600627,226,4,0,2,8:00 PM,4:55,,,Valanciunas REBOUND (Off:3 Def:7),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+196,0021600627,227,2,5,2,8:00 PM,4:45,,,MISS Valanciunas 2' Layup,,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+197,0021600627,229,4,0,2,8:00 PM,4:44,,,Valanciunas REBOUND (Off:4 Def:7),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+198,0021600627,228,2,97,2,8:00 PM,4:44,,,MISS Valanciunas 1' Tip Layup Shot,,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+199,0021600627,230,4,0,2,8:01 PM,4:43,Saric REBOUND (Off:0 Def:3),,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+200,0021600627,231,2,79,2,8:01 PM,4:34,MISS Henderson 15' Pullup Jump Shot,,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+201,0021600627,232,4,0,2,8:01 PM,4:33,,,VanVleet REBOUND (Off:0 Def:2),,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+202,0021600627,233,2,46,2,8:01 PM,4:26,,,MISS Carroll 27' 3PT Running Jump Shot,,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+203,0021600627,234,4,0,2,8:01 PM,4:25,Henderson REBOUND (Off:0 Def:1),,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+204,0021600627,235,6,26,2,8:01 PM,4:17,Saric Offensive Charge Foul (P1.PN) (J.VanDuyne),,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+205,0021600627,236,5,5,2,8:01 PM,4:17,Saric Foul Turnover (P1.T7),,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+206,0021600627,238,8,0,2,8:01 PM,4:17,,,SUB: Sullinger FOR Valanciunas,,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+207,0021600627,240,5,2,2,8:02 PM,4:06,Covington STEAL (1 STL),,DeRozan Lost Ball Turnover (P1.T6),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+208,0021600627,241,6,26,2,8:02 PM,3:58,Noel Offensive Charge Foul (P2.PN) (J.VanDuyne),,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+209,0021600627,242,5,5,2,8:02 PM,3:58,Noel Foul Turnover (P1.T8),,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+210,0021600627,243,1,58,2,8:02 PM,3:39,,,Sullinger 4' Turnaround Hook Shot (8 PTS) (DeRozan 4 AST),39 - 36,-3,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+211,0021600627,244,6,1,2,8:03 PM,3:25,,,VanVleet P.FOUL (P1.T4) (B.Spooner),,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+212,0021600627,245,8,0,2,8:03 PM,3:25,SUB: Embiid FOR Noel,,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+213,0021600627,246,8,0,2,8:03 PM,3:25,SUB: Rodriguez FOR McConnell,,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+214,0021600627,247,5,39,2,8:03 PM,3:19,Covington Step Out of Bounds Turnover (P2.T9),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+215,0021600627,249,9,1,2,8:04 PM,3:11,,,Raptors Timeout: Regular (Reg.2 Short 0),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+216,0021600627,250,6,1,2,8:06 PM,3:05,Embiid P.FOUL (P2.PN) (G.Zielinski),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+217,0021600627,251,3,11,2,8:06 PM,3:05,,,Lowry Free Throw 1 of 2 (12 PTS),40 - 36,-4,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+218,0021600627,253,3,12,2,8:07 PM,3:05,,,MISS Lowry Free Throw 2 of 2,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+219,0021600627,255,4,0,2,8:07 PM,3:04,Saric REBOUND (Off:0 Def:4),,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+220,0021600627,256,6,2,2,8:07 PM,2:50,,,Carroll S.FOUL (P2.PN) (G.Zielinski),,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+221,0021600627,257,3,11,2,8:07 PM,2:50,Embiid Free Throw 1 of 2 (8 PTS),,,40 - 37,-3,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+222,0021600627,259,3,12,2,8:08 PM,2:50,Embiid Free Throw 2 of 2 (9 PTS),,,40 - 38,-2,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+223,0021600627,261,2,1,2,8:08 PM,2:34,,,MISS Lowry 27' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+224,0021600627,262,4,0,2,8:08 PM,2:32,Saric REBOUND (Off:0 Def:5),,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+225,0021600627,263,6,2,2,8:09 PM,2:28,,,Sullinger S.FOUL (P1.PN) (J.VanDuyne),,,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+226,0021600627,264,3,11,2,8:09 PM,2:28,Embiid Free Throw 1 of 2 (10 PTS),,,40 - 39,-1,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+227,0021600627,266,8,0,2,8:09 PM,2:28,,,SUB: Joseph FOR Lowry,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+228,0021600627,267,3,12,2,8:09 PM,2:28,Embiid Free Throw 2 of 2 (11 PTS),,,40 - 40,TIE,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+229,0021600627,269,1,79,2,8:09 PM,2:15,,,DeRozan 14' Pullup Jump Shot (4 PTS) (VanVleet 1 AST),42 - 40,-2,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+230,0021600627,270,6,1,2,8:10 PM,1:59,,,Sullinger P.FOUL (P2.PN) (G.Zielinski),,,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+231,0021600627,272,3,11,2,8:10 PM,1:59,Embiid Free Throw 1 of 2 (12 PTS),,,42 - 41,-1,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+232,0021600627,274,3,12,2,8:10 PM,1:59,Embiid Free Throw 2 of 2 (13 PTS),,,42 - 42,TIE,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+233,0021600627,276,2,1,2,8:11 PM,1:45,,,MISS Sullinger 25' 3PT Jump Shot,,,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+234,0021600627,277,4,0,2,8:11 PM,1:43,Embiid REBOUND (Off:0 Def:5),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+235,0021600627,278,1,5,2,8:11 PM,1:31,Covington 1' Layup (8 PTS) (Rodriguez 1 AST),,,42 - 44,2,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+236,0021600627,279,2,79,2,8:11 PM,1:19,,,MISS Joseph 14' Pullup Jump Shot,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+237,0021600627,280,4,0,2,8:11 PM,1:17,Embiid REBOUND (Off:0 Def:6),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+238,0021600627,281,5,40,2,8:12 PM,1:06,Rodriguez Out of Bounds Lost Ball Turnover (P2.T10),,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+239,0021600627,282,1,79,2,8:12 PM,0:55,,,DeRozan 18' Pullup Jump Shot (6 PTS),44 - 44,TIE,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+240,0021600627,283,2,1,2,8:12 PM,0:43,MISS Saric 20' Jump Shot,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+241,0021600627,284,4,0,2,8:12 PM,0:41,,,Joseph REBOUND (Off:0 Def:2),,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+242,0021600627,285,2,5,2,8:12 PM,0:25,,,MISS Sullinger 2' Layup,,,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+243,0021600627,286,4,0,2,8:12 PM,0:23,Rodriguez REBOUND (Off:1 Def:3),,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+244,0021600627,287,1,5,2,8:13 PM,0:17,Covington 2' Layup (10 PTS) (Rodriguez 2 AST),,,44 - 46,2,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+245,0021600627,288,9,2,2,8:13 PM,0:17,,,Raptors Timeout: Short (Reg.2 Short 1),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+246,0021600627,289,8,0,2,8:14 PM,0:17,SUB: Noel FOR Embiid,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+247,0021600627,290,8,0,2,8:14 PM,0:17,SUB: Luwawu-Cabarrot FOR Rodriguez,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,4,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+248,0021600627,291,9,2,2,8:15 PM,0:17,76ERS Timeout: Short (Full 2 Short 1),,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+249,0021600627,293,5,38,2,8:15 PM,0:17,,,Raptors Turnover: 5 Second Inbound (T#7),,,3.0,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+250,0021600627,294,8,0,2,8:15 PM,0:17,,,SUB: Ross FOR VanVleet,,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+251,0021600627,295,8,0,2,8:15 PM,0:17,SUB: Rodriguez FOR Noel,,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+252,0021600627,296,8,0,2,8:15 PM,0:17,SUB: Embiid FOR Luwawu-Cabarrot,,,,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+253,0021600627,297,2,1,2,8:16 PM,0:01,MISS Embiid 24' 3PT Jump Shot,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+254,0021600627,298,4,0,2,8:16 PM,0:01,Saric REBOUND (Off:1 Def:5),,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+255,0021600627,299,2,3,2,8:16 PM,0:00,MISS Saric 2' Hook Shot,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+256,0021600627,300,4,0,2,8:16 PM,0:00,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+257,0021600627,301,13,0,2,8:16 PM,0:00,,,,44 - 46,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+258,0021600627,303,12,0,3,8:32 PM,12:00,,,,44 - 46,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+259,0021600627,304,2,79,3,8:32 PM,11:45,,,MISS DeRozan 17' Pullup Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+260,0021600627,305,4,0,3,8:32 PM,11:43,Ilyasova REBOUND (Off:1 Def:3),,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+261,0021600627,306,2,66,3,8:32 PM,11:34,MISS Embiid 5' Jump Bank Shot,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+262,0021600627,307,4,0,3,8:32 PM,11:32,,,Siakam REBOUND (Off:0 Def:1),,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+263,0021600627,309,7,2,3,8:33 PM,11:19,Embiid Violation:Defensive Goaltending (G.Zielinski),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+264,0021600627,308,1,71,3,8:33 PM,11:19,,,Siakam 2' Finger Roll Layup (2 PTS) (Lowry 3 AST),46 - 46,TIE,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+265,0021600627,310,2,1,3,8:33 PM,10:54,MISS McConnell 12' Jump Shot,,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+266,0021600627,311,4,0,3,8:33 PM,10:53,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+267,0021600627,312,6,3,3,8:33 PM,10:53,Embiid L.B.FOUL (P3.T1) (B.Spooner),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+268,0021600627,313,1,42,3,8:34 PM,10:32,,,Lowry 2' Driving Layup (14 PTS) (DeRozan 5 AST),48 - 46,-2,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+269,0021600627,315,2,1,3,8:34 PM,10:12,MISS Stauskas 26' 3PT Jump Shot,,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+270,0021600627,316,4,0,3,8:34 PM,10:11,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+271,0021600627,317,1,1,3,8:35 PM,10:01,Ilyasova 4' Jump Shot (10 PTS),,,48 - 48,TIE,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+272,0021600627,318,2,1,3,8:35 PM,9:40,,,MISS Siakam 15' Jump Shot,,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+273,0021600627,319,4,0,3,8:35 PM,9:37,Covington REBOUND (Off:0 Def:2),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+274,0021600627,321,5,45,3,8:36 PM,9:22,Embiid Out of Bounds - Bad Pass Turnover Turnover (P3.T11),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+275,0021600627,322,1,63,3,8:36 PM,9:04,,,DeRozan 18' Fadeaway Jumper (8 PTS),50 - 48,-2,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+276,0021600627,323,2,1,3,8:36 PM,8:51,MISS Ilyasova 28' 3PT Jump Shot,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+277,0021600627,324,4,0,3,8:36 PM,8:49,,,Valanciunas REBOUND (Off:4 Def:8),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+278,0021600627,325,1,101,3,8:37 PM,8:26,,,DeRozan 13' Driving Floating Jump Shot (10 PTS) (Carroll 2 AST),52 - 48,-4,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+279,0021600627,326,1,1,3,8:37 PM,8:01,Ilyasova 26' 3PT Jump Shot (13 PTS) (McConnell 4 AST),,,52 - 51,-1,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+280,0021600627,327,5,9,3,8:37 PM,7:48,,,Lowry 5 Second Violation Turnover (P3.T8),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+281,0021600627,329,6,1,3,8:38 PM,7:32,,,Lowry P.FOUL (P3.T1) (J.VanDuyne),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+282,0021600627,330,8,0,3,8:38 PM,7:32,SUB: Noel FOR Embiid,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+283,0021600627,331,5,1,3,8:39 PM,7:23,Covington Bad Pass Turnover (P3.T12),,Carroll STEAL (1 STL),,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+284,0021600627,332,2,5,3,8:39 PM,7:14,Stauskas BLOCK (2 BLK),,MISS Carroll 1' Layup,,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,1
+285,0021600627,333,4,0,3,8:39 PM,7:12,McConnell REBOUND (Off:0 Def:3),,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+286,0021600627,334,1,1,3,8:39 PM,7:07,Ilyasova 26' 3PT Jump Shot (16 PTS) (McConnell 5 AST),,,52 - 54,2,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+287,0021600627,335,2,1,3,8:39 PM,6:44,,,MISS Lowry 29' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+288,0021600627,336,4,0,3,8:39 PM,6:43,Covington REBOUND (Off:0 Def:3),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+289,0021600627,337,5,2,3,8:39 PM,6:35,Noel Lost Ball Turnover (P2.T13),,Carroll STEAL (2 STL),,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,5,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+290,0021600627,338,6,2,3,8:40 PM,6:31,Covington S.FOUL (P2.T2) (B.Spooner),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+291,0021600627,339,9,1,3,8:40 PM,6:31,,,Raptors Timeout: Regular (Reg.3 Short 1),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+292,0021600627,341,8,0,3,8:44 PM,6:31,,,SUB: Ross FOR Siakam,,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+293,0021600627,342,8,0,3,8:44 PM,6:31,,,SUB: Powell FOR Carroll,,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+294,0021600627,344,3,11,3,8:45 PM,6:31,,,Lowry Free Throw 1 of 2 (15 PTS),53 - 54,1,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+295,0021600627,346,3,12,3,8:45 PM,6:31,,,MISS Lowry Free Throw 2 of 2,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+296,0021600627,350,4,0,3,8:45 PM,6:30,McConnell REBOUND (Off:0 Def:4),,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+297,0021600627,351,2,1,3,8:45 PM,6:16,MISS Stauskas 28' 3PT Jump Shot,,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+298,0021600627,352,4,0,3,8:45 PM,6:14,,,Lowry REBOUND (Off:1 Def:1),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+299,0021600627,353,2,71,3,8:46 PM,6:09,,,MISS Valanciunas 2' Finger Roll Layup,,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+300,0021600627,354,4,0,3,8:46 PM,6:07,,,Valanciunas REBOUND (Off:5 Def:8),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+301,0021600627,355,2,80,3,8:46 PM,5:53,,,MISS Lowry 9' Step Back Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+302,0021600627,356,4,0,3,8:46 PM,5:51,Noel REBOUND (Off:0 Def:1),,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+303,0021600627,357,1,49,3,8:46 PM,5:43,Noel  Driving Dunk (4 PTS) (McConnell 6 AST),,,53 - 56,3,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+304,0021600627,358,6,1,3,8:46 PM,5:26,Noel P.FOUL (P3.T3) (G.Zielinski),,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,5,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+305,0021600627,359,5,2,3,8:47 PM,5:18,Covington STEAL (2 STL),,DeRozan Lost Ball Turnover (P2.T9),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+306,0021600627,360,5,1,3,8:47 PM,5:12,Stauskas Bad Pass Turnover (P1.T14),,Lowry STEAL (3 STL),,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+307,0021600627,361,6,2,3,8:47 PM,5:10,McConnell S.FOUL (P3.T4) (J.VanDuyne),,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+308,0021600627,362,3,11,3,8:47 PM,5:10,,,MISS DeRozan Free Throw 1 of 2,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+309,0021600627,363,4,1,3,8:47 PM,5:10,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+310,0021600627,364,3,12,3,8:48 PM,5:10,,,DeRozan Free Throw 2 of 2 (11 PTS),54 - 56,2,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+311,0021600627,366,5,40,3,8:48 PM,4:48,Covington Out of Bounds Lost Ball Turnover (P4.T15),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+312,0021600627,367,8,0,3,8:48 PM,4:48,SUB: Henderson FOR Stauskas,,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,4,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+313,0021600627,368,1,93,3,8:49 PM,4:36,,,Valanciunas 7' Driving Bank Hook Shot (10 PTS),56 - 56,TIE,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+314,0021600627,369,1,80,3,8:49 PM,4:14,Ilyasova 12' Step Back Jump Shot (18 PTS),,,56 - 58,2,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+315,0021600627,370,6,2,3,8:49 PM,3:52,McConnell S.FOUL (P4.PN) (G.Zielinski),,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+316,0021600627,371,3,11,3,8:49 PM,3:52,,,Lowry Free Throw 1 of 2 (16 PTS),57 - 58,1,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+317,0021600627,373,8,0,3,8:50 PM,3:52,SUB: Rodriguez FOR McConnell,,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+318,0021600627,374,8,0,3,8:50 PM,3:52,SUB: Saric FOR Ilyasova,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+319,0021600627,375,8,0,3,8:50 PM,3:52,,,SUB: Poeltl FOR Valanciunas,,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+320,0021600627,376,3,12,3,8:50 PM,3:52,,,Lowry Free Throw 2 of 2 (17 PTS),58 - 58,TIE,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+321,0021600627,378,9,1,3,8:50 PM,3:52,76ERS Timeout: Regular (Full 3 Short 1),,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+322,0021600627,379,1,5,3,8:53 PM,3:38,Saric 2' Layup (3 PTS),,,58 - 60,2,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+323,0021600627,380,2,1,3,8:53 PM,3:21,,,MISS Ross 20' Jump Shot,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+324,0021600627,381,4,0,3,8:53 PM,3:19,Covington REBOUND (Off:0 Def:4),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+325,0021600627,382,6,1,3,8:54 PM,3:03,,,Powell P.FOUL (P3.T2) (G.Zielinski),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,4,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+326,0021600627,383,1,1,3,8:54 PM,2:48,Henderson 24' 3PT Jump Shot (7 PTS),,,58 - 63,5,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+327,0021600627,384,1,66,3,8:54 PM,2:21,,,Lowry 10' Jump Bank Shot (19 PTS),60 - 63,3,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+328,0021600627,385,5,2,3,8:55 PM,2:05,Noel Lost Ball Turnover (P3.T16),,Powell STEAL (1 STL),,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+329,0021600627,386,2,1,3,8:55 PM,1:59,,,MISS Ross  3PT Jump Shot,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+330,0021600627,388,4,0,3,8:55 PM,1:56,,,Powell REBOUND (Off:1 Def:1),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+331,0021600627,387,1,7,3,8:55 PM,1:56,,,Powell  Dunk (2 PTS),62 - 63,1,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+332,0021600627,391,6,1,3,8:55 PM,1:49,,,Poeltl P.FOUL (P1.T3) (G.Zielinski),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,4,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+333,0021600627,392,8,0,3,8:55 PM,1:49,SUB: Embiid FOR Noel,,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+334,0021600627,393,8,0,3,8:56 PM,1:49,,,SUB: Joseph FOR Lowry,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+335,0021600627,394,6,2,3,8:56 PM,1:38,,,Poeltl S.FOUL (P2.PN) (G.Zielinski),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+336,0021600627,396,3,11,3,8:56 PM,1:38,Embiid Free Throw 1 of 2 (14 PTS),,,62 - 64,2,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+337,0021600627,399,3,12,3,8:56 PM,1:38,MISS Embiid Free Throw 2 of 2,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+338,0021600627,402,4,0,3,8:57 PM,1:36,,,Poeltl REBOUND (Off:0 Def:1),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+339,0021600627,403,2,1,3,8:57 PM,1:11,,,MISS Ross 27' 3PT Jump Shot,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+340,0021600627,404,4,0,3,8:57 PM,1:10,Embiid REBOUND (Off:0 Def:7),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+341,0021600627,405,1,79,3,8:57 PM,1:00,Rodriguez 14' Pullup Jump Shot (2 PTS),,,62 - 66,4,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+342,0021600627,406,2,1,3,8:57 PM,0:45,,,MISS Joseph 10' Jump Shot,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+343,0021600627,407,4,0,3,8:57 PM,0:44,Rodriguez REBOUND (Off:1 Def:4),,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+344,0021600627,408,2,1,3,8:58 PM,0:22,MISS Rodriguez 26' 3PT Jump Shot,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+345,0021600627,409,4,0,3,8:58 PM,0:20,,,DeRozan REBOUND (Off:1 Def:1),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+346,0021600627,410,1,1,3,8:58 PM,0:16,,,Ross  3PT Jump Shot (6 PTS) (DeRozan 6 AST),65 - 66,1,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+347,0021600627,411,1,75,3,8:58 PM,0:00,Rodriguez 3' Driving Finger Roll Layup (4 PTS),,,65 - 68,3,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+348,0021600627,413,13,0,3,8:59 PM,0:00,,,,65 - 68,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+349,0021600627,414,12,0,4,9:01 PM,12:00,,,,65 - 68,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+350,0021600627,415,2,1,4,9:01 PM,11:48,MISS Saric 26' 3PT Jump Shot,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+351,0021600627,416,4,0,4,9:01 PM,11:46,,,Ross REBOUND (Off:0 Def:4),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+352,0021600627,417,5,2,4,9:01 PM,11:41,Embiid STEAL (1 STL),,Lowry Lost Ball Turnover (P4.T10),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+353,0021600627,418,2,58,4,9:02 PM,11:29,MISS Embiid 9' Turnaround Hook Shot,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+354,0021600627,419,4,0,4,9:02 PM,11:28,,,Powell REBOUND (Off:1 Def:2),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+355,0021600627,420,2,1,4,9:02 PM,11:18,,,MISS Powell 15' Jump Shot,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+356,0021600627,421,4,0,4,9:02 PM,11:17,Saric REBOUND (Off:1 Def:6),,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+357,0021600627,422,6,2,4,9:02 PM,11:04,,,Joseph S.FOUL (P1.T1) (J.VanDuyne),,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,4,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+358,0021600627,423,3,11,4,9:02 PM,11:04,Henderson Free Throw 1 of 2 (8 PTS),,,65 - 69,4,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+359,0021600627,425,7,3,4,9:02 PM,11:04,,,Powell Violation:Lane (G.Zielinski),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+360,0021600627,427,3,12,4,9:03 PM,11:04,Henderson Free Throw 2 of 2 (9 PTS),,,65 - 70,5,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+361,0021600627,430,1,79,4,9:03 PM,10:52,,,Lowry 26' 3PT Pullup Jump Shot (22 PTS),68 - 70,2,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+362,0021600627,432,1,7,4,9:04 PM,10:32,Embiid  Dunk (16 PTS) (Rodriguez 3 AST),,,68 - 72,4,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+363,0021600627,433,2,1,4,9:04 PM,10:15,,,MISS Sullinger 27' 3PT Jump Shot,,,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+364,0021600627,434,4,0,4,9:04 PM,10:12,Henderson REBOUND (Off:0 Def:2),,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+365,0021600627,436,1,1,4,9:04 PM,10:04,Embiid 27' 3PT Jump Shot (19 PTS) (Rodriguez 4 AST),,,68 - 75,7,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+366,0021600627,438,9,1,4,9:04 PM,9:52,,,Raptors Timeout: Regular (Reg.4 Short 1),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+367,0021600627,516,6,26,4,9:08 PM,9:49,,,Lowry Offensive Charge Foul (P4.T2) (J.VanDuyne),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+368,0021600627,443,6,18,4,9:08 PM,9:49,,,Raptors Delay,,,3.0,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+369,0021600627,444,3,16,4,9:08 PM,9:49,MISS Rodriguez Free Throw Technical,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+370,0021600627,445,4,1,4,9:08 PM,9:49,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+371,0021600627,447,5,8,4,9:08 PM,9:29,Saric 3 Second Violation Turnover (P2.T17),,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+372,0021600627,450,6,1,4,9:09 PM,9:18,Embiid P.FOUL (P4.T1) (B.Spooner),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+373,0021600627,451,3,11,4,9:09 PM,9:18,,,Lowry Free Throw 1 of 2 (23 PTS),69 - 75,6,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+374,0021600627,453,8,0,4,9:10 PM,9:18,SUB: Noel FOR Embiid,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+375,0021600627,454,3,12,4,9:10 PM,9:18,,,Lowry Free Throw 2 of 2 (24 PTS),70 - 75,5,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+376,0021600627,456,6,2,4,9:10 PM,9:06,,,Sullinger S.FOUL (P3.T3) (J.VanDuyne),,,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,4,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+377,0021600627,457,3,11,4,9:11 PM,9:06,MISS Noel Free Throw 1 of 2,,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+378,0021600627,459,4,0,4,9:11 PM,9:06,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+379,0021600627,458,3,12,4,9:11 PM,9:06,Noel Free Throw 2 of 2 (5 PTS),,,70 - 76,6,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+380,0021600627,462,2,1,4,9:11 PM,8:48,Saric BLOCK (1 BLK),,MISS Sullinger 8' Jump Shot,,,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,1
+381,0021600627,463,4,0,4,9:11 PM,8:45,Rodriguez REBOUND (Off:1 Def:5),,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+382,0021600627,464,2,1,4,9:12 PM,8:37,MISS Saric 26' 3PT Jump Shot,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+383,0021600627,465,4,0,4,9:12 PM,8:35,,,Ross REBOUND (Off:0 Def:5),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+384,0021600627,467,2,1,4,9:12 PM,8:22,,,MISS Ross 27' 3PT Jump Shot,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+385,0021600627,468,4,0,4,9:12 PM,8:21,,,Lowry REBOUND (Off:2 Def:1),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+386,0021600627,469,2,7,4,9:12 PM,8:00,,,MISS Powell  Dunk,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+387,0021600627,470,4,0,4,9:12 PM,7:55,Rodriguez REBOUND (Off:1 Def:6),,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+388,0021600627,471,5,1,4,9:13 PM,7:55,Rodriguez Bad Pass Turnover (P3.T18),,Lowry STEAL (4 STL),,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+389,0021600627,472,2,5,4,9:13 PM,7:55,Saric BLOCK (2 BLK),,MISS Sullinger 3' Layup,,,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,1
+390,0021600627,473,4,0,4,9:13 PM,7:55,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+391,0021600627,474,8,0,4,9:13 PM,7:55,,,SUB: DeRozan FOR Powell,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+392,0021600627,475,6,1,4,9:13 PM,7:43,,,DeRozan P.FOUL (P1.T4) (B.Spooner),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+393,0021600627,476,8,0,4,9:13 PM,7:43,SUB: Covington FOR Luwawu-Cabarrot,,,,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+394,0021600627,479,8,0,4,9:13 PM,7:43,,,SUB: Valanciunas FOR Sullinger,,,5.0,203096,Jared Sullinger,1610612761.0,Toronto,Raptors,TOR,5,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+395,0021600627,477,2,1,4,9:14 PM,7:35,MISS Rodriguez 27' 3PT Jump Shot,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+396,0021600627,478,4,0,4,9:14 PM,7:33,,,Ross REBOUND (Off:0 Def:6),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+397,0021600627,480,10,0,4,9:14 PM,7:32,Jump Ball Saric vs. Ross: Tip to DeRozan,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1
+398,0021600627,482,8,0,4,9:14 PM,7:18,SUB: Luwawu-Cabarrot FOR Henderson,,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,4,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+399,0021600627,484,1,42,4,9:15 PM,7:13,,,DeRozan 3' Driving Layup (13 PTS),72 - 76,4,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+400,0021600627,485,2,1,4,9:15 PM,6:51,MISS Luwawu-Cabarrot 25' 3PT Jump Shot,,,,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+401,0021600627,486,4,0,4,9:15 PM,6:49,Saric REBOUND (Off:2 Def:6),,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+402,0021600627,487,1,5,4,9:15 PM,6:48,Saric 2' Layup (5 PTS),,,72 - 78,6,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+403,0021600627,488,1,101,4,9:15 PM,6:32,,,DeRozan 5' Driving Floating Jump Shot (15 PTS),74 - 78,4,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+404,0021600627,489,5,2,4,9:16 PM,6:16,Covington Lost Ball Turnover (P5.T19),,DeRozan STEAL (1 STL),,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+405,0021600627,490,6,1,4,9:16 PM,6:14,Noel P.FOUL (P4.T2) (J.VanDuyne),,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+406,0021600627,491,8,0,4,9:16 PM,6:14,SUB: McConnell FOR Rodriguez,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+407,0021600627,492,2,1,4,9:16 PM,6:02,,,MISS DeRozan 19' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+408,0021600627,493,4,0,4,9:16 PM,6:00,Saric REBOUND (Off:2 Def:7),,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+409,0021600627,494,1,1,4,9:16 PM,5:50,Saric 28' 3PT Jump Shot (8 PTS) (McConnell 7 AST),,,74 - 81,7,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+410,0021600627,495,1,42,4,9:17 PM,5:33,,,DeRozan 3' Driving Layup (17 PTS),76 - 81,5,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+411,0021600627,496,5,45,4,9:17 PM,5:18,Saric Out of Bounds - Bad Pass Turnover Turnover (P3.T20),,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+412,0021600627,497,9,4,4,9:17 PM,5:18,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+413,0021600627,499,1,82,4,9:20 PM,5:03,,,DeRozan 5' Driving Bank Shot (19 PTS) (Joseph 3 AST),78 - 81,3,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+414,0021600627,500,2,1,4,9:20 PM,4:45,MISS McConnell 15' Jump Shot,,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+415,0021600627,503,10,0,4,9:21 PM,4:28,Jump Ball Noel vs. Lowry: Tip to Lowry,,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1
+416,0021600627,504,4,0,4,9:21 PM,4:28,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+417,0021600627,505,2,1,4,9:21 PM,4:24,,,MISS DeRozan 9' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+418,0021600627,506,4,0,4,9:21 PM,4:23,McConnell REBOUND (Off:0 Def:5),,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+419,0021600627,507,1,42,4,9:21 PM,4:21,Luwawu-Cabarrot 2' Driving Layup (4 PTS),,,78 - 83,5,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+420,0021600627,508,5,2,4,9:21 PM,4:13,McConnell STEAL (1 STL),,Lowry Lost Ball Turnover (P5.T11),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+421,0021600627,509,5,2,4,9:21 PM,4:06,McConnell Lost Ball Turnover (P1.T21),,Lowry STEAL (5 STL),,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+422,0021600627,510,2,1,4,9:21 PM,3:55,,,MISS Ross 25' 3PT Jump Shot,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+423,0021600627,511,4,0,4,9:21 PM,3:54,Noel REBOUND (Off:0 Def:2),,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+424,0021600627,512,2,1,4,9:21 PM,3:45,MISS Noel 13' Jump Shot,,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+425,0021600627,513,4,0,4,9:21 PM,3:43,,,Valanciunas REBOUND (Off:5 Def:9),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+426,0021600627,514,1,7,4,9:21 PM,3:39,,,Ross  Dunk (8 PTS) (Lowry 4 AST),80 - 83,3,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+427,0021600627,517,8,0,4,9:24 PM,3:36,SUB: Ilyasova FOR Noel,,,,,4.0,203457,Nerlens Noel,1610612755.0,Philadelphia,76ers,PHI,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+428,0021600627,518,8,0,4,9:24 PM,3:36,SUB: Henderson FOR Saric,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+429,0021600627,519,8,0,4,9:24 PM,3:36,SUB: Embiid FOR Luwawu-Cabarrot,,,,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+430,0021600627,523,9,1,4,9:24 PM,3:36,76ERS Timeout: Regular (Full 4 Short 1),,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+431,0021600627,521,2,1,4,9:24 PM,3:25,MISS Covington 4' Jump Shot,,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+432,0021600627,522,4,0,4,9:24 PM,3:23,,,Valanciunas REBOUND (Off:5 Def:10),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+433,0021600627,524,1,79,4,9:25 PM,3:01,,,DeRozan 18' Pullup Jump Shot (21 PTS),82 - 83,1,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+434,0021600627,525,1,5,4,9:25 PM,2:45,Embiid 2' Layup (21 PTS) (McConnell 8 AST),,,82 - 85,3,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+435,0021600627,526,1,101,4,9:25 PM,2:27,,,DeRozan 9' Driving Floating Jump Shot (23 PTS),84 - 85,1,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+436,0021600627,527,6,26,4,9:26 PM,2:06,Embiid Offensive Charge Foul (P5.T3) (J.VanDuyne),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+437,0021600627,528,5,5,4,9:26 PM,2:06,Embiid Foul Turnover (P4.T22),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+438,0021600627,530,1,79,4,9:26 PM,1:53,,,DeRozan 18' Pullup Jump Shot (25 PTS),86 - 85,-1,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+439,0021600627,531,6,2,4,9:26 PM,1:42,,,Valanciunas S.FOUL (P3.PN) (J.VanDuyne),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+440,0021600627,532,3,11,4,9:27 PM,1:42,Embiid Free Throw 1 of 2 (22 PTS),,,86 - 86,TIE,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+441,0021600627,534,3,12,4,9:27 PM,1:42,MISS Embiid Free Throw 2 of 2,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+442,0021600627,536,4,0,4,9:27 PM,1:37,,,DeRozan REBOUND (Off:1 Def:2),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+443,0021600627,537,2,1,4,9:28 PM,1:21,,,MISS DeRozan 12' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+444,0021600627,538,4,0,4,9:28 PM,1:19,Embiid REBOUND (Off:0 Def:8),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+445,0021600627,539,1,5,4,9:28 PM,1:10,McConnell 2' Layup (8 PTS) (Covington 2 AST),,,86 - 88,2,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+446,0021600627,540,9,1,4,9:28 PM,1:09,,,Raptors Timeout: Regular (Reg.5 Short 1),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+447,0021600627,542,2,1,4,9:30 PM,0:47,,,MISS Joseph 24' 3PT Jump Shot,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+448,0021600627,543,4,0,4,9:30 PM,0:45,Covington REBOUND (Off:0 Def:5),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+449,0021600627,545,6,1,4,9:30 PM,0:35,,,Lowry P.FOUL (P5.PN) (J.VanDuyne),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+450,0021600627,546,3,11,4,9:31 PM,0:35,McConnell Free Throw 1 of 2 (9 PTS),,,86 - 89,3,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+451,0021600627,549,3,12,4,9:31 PM,0:35,McConnell Free Throw 2 of 2 (10 PTS),,,86 - 90,4,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+452,0021600627,550,9,2,4,9:31 PM,0:35,,,Raptors Timeout: Short (Reg.5 Short 2),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+453,0021600627,552,2,1,4,9:32 PM,0:30,Covington BLOCK (1 BLK),,MISS Lowry 28' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,1
+454,0021600627,553,4,0,4,9:32 PM,0:27,,,Lowry REBOUND (Off:3 Def:1),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+455,0021600627,554,2,1,4,9:32 PM,0:22,Embiid BLOCK (2 BLK),,MISS Lowry 5' Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+456,0021600627,555,4,0,4,9:32 PM,0:20,Embiid REBOUND (Off:0 Def:9),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+457,0021600627,556,6,1,4,9:33 PM,0:20,,,Lowry P.FOUL (P6.PN) (J.VanDuyne),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+458,0021600627,558,8,0,4,9:33 PM,0:20,,,SUB: Powell FOR Lowry,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+459,0021600627,559,3,11,4,9:34 PM,0:20,Embiid Free Throw 1 of 2 (23 PTS),,,86 - 91,5,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+460,0021600627,561,3,12,4,9:34 PM,0:20,Embiid Free Throw 2 of 2 (24 PTS),,,86 - 92,6,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+461,0021600627,562,2,1,4,9:34 PM,0:11,,,MISS Ross 27' 3PT Jump Shot,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+462,0021600627,563,4,0,4,9:34 PM,0:09,,,Joseph REBOUND (Off:1 Def:2),,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+463,0021600627,564,1,1,4,9:34 PM,0:05,,,Powell 27' 3PT Jump Shot (5 PTS) (Valanciunas 1 AST),89 - 92,3,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+464,0021600627,565,6,28,4,9:35 PM,0:03,,,Joseph Personal Take Foul (P2.PN) (J.VanDuyne),,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+465,0021600627,566,3,11,4,9:35 PM,0:03,Embiid Free Throw 1 of 2 (25 PTS),,,89 - 93,4,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+466,0021600627,568,3,12,4,9:35 PM,0:03,Embiid Free Throw 2 of 2 (26 PTS),,,89 - 94,5,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+467,0021600627,576,8,0,4,9:35 PM,0:03,,,SUB: VanVleet FOR Valanciunas,,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+468,0021600627,572,9,2,4,9:35 PM,0:03,,,Raptors Timeout: Short (Reg.5 Short 3),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+469,0021600627,574,2,1,4,9:37 PM,0:00,,,MISS VanVleet 4' Jump Shot,,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+470,0021600627,575,4,0,4,9:37 PM,0:00,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+471,0021600627,582,13,0,4,9:44 PM,0:00,,,,89 - 94,5,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0

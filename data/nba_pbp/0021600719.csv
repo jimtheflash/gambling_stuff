@@ -1,0 +1,465 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021600719,0,12,0,1,7:42 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021600719,1,10,0,1,7:42 PM,12:00,Jump Ball Whiteside vs. Lopez: Tip to Booker,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,1
+2,0021600719,2,6,2,1,7:42 PM,11:44,Whiteside S.FOUL (P1.T1) (S.Anderson),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+3,0021600719,3,3,11,1,7:43 PM,11:44,,,Lopez Free Throw 1 of 2 (1 PTS),1 - 0,-1,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+4,0021600719,5,3,12,1,7:43 PM,11:44,,,Lopez Free Throw 2 of 2 (2 PTS),2 - 0,-2,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+5,0021600719,7,2,1,1,7:43 PM,11:30,MISS Whiteside 21' Jump Shot,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+6,0021600719,8,4,0,1,7:43 PM,11:29,,,Dinwiddie REBOUND (Off:0 Def:1),,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+7,0021600719,9,2,5,1,7:43 PM,11:23,,,MISS Lopez 2' Layup,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+8,0021600719,10,4,0,1,7:43 PM,11:22,Whiteside REBOUND (Off:0 Def:1),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+9,0021600719,11,2,42,1,7:44 PM,11:15,MISS Waiters 2' Driving Layup,,Lopez BLOCK (1 BLK),,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1
+10,0021600719,12,4,0,1,7:44 PM,11:14,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+11,0021600719,13,1,1,1,7:44 PM,11:08,Dragic 18' Jump Shot (2 PTS) (Waiters 1 AST),,,2 - 2,TIE,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+12,0021600719,14,1,82,1,7:44 PM,10:50,,,Bogdanovic 5' Driving Bank Shot (2 PTS),4 - 2,-2,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+13,0021600719,15,5,4,1,7:44 PM,10:39,Whiteside Traveling Turnover (P1.T1),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+14,0021600719,16,1,42,1,7:45 PM,10:22,,,Booker 2' Driving Layup (2 PTS),6 - 2,-4,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+15,0021600719,17,1,79,1,7:45 PM,9:59,Waiters 17' Pullup Jump Shot (2 PTS),,,6 - 4,-2,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+16,0021600719,18,1,3,1,7:45 PM,9:46,,,Lopez 9' Hook Shot (4 PTS),8 - 4,-4,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+17,0021600719,19,1,102,1,7:46 PM,9:34,Dragic 9' Driving Floating Bank Jump Shot (4 PTS),,,8 - 6,-2,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+18,0021600719,20,2,58,1,7:46 PM,9:12,,,MISS Booker 10' Turnaround Hook Shot,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+19,0021600719,21,4,0,1,7:46 PM,9:11,Babbitt REBOUND (Off:0 Def:1),,,,,4.0,202337,Luke Babbitt,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+20,0021600719,22,5,39,1,7:46 PM,9:02,Babbitt Step Out of Bounds Turnover (P1.T2),,,,,4.0,202337,Luke Babbitt,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+21,0021600719,23,1,58,1,7:47 PM,8:44,,,Lopez 9' Turnaround Hook Shot (6 PTS) (Dinwiddie 1 AST),10 - 6,-4,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+22,0021600719,24,1,1,1,7:47 PM,8:21,Whiteside 5' Jump Shot (2 PTS),,,10 - 8,-2,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+23,0021600719,25,2,1,1,7:47 PM,8:11,,,MISS Lopez 26' 3PT Jump Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+24,0021600719,26,4,0,1,7:47 PM,8:10,Babbitt REBOUND (Off:0 Def:2),,,,,4.0,202337,Luke Babbitt,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+25,0021600719,27,2,1,1,7:47 PM,8:03,MISS Waiters 24' 3PT Jump Shot,,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+26,0021600719,28,4,0,1,7:47 PM,8:02,,,Dinwiddie REBOUND (Off:0 Def:2),,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+27,0021600719,29,1,1,1,7:47 PM,7:51,,,Foye 24' 3PT Jump Shot (3 PTS) (Dinwiddie 2 AST),13 - 8,-5,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,5,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+28,0021600719,30,6,1,1,7:48 PM,7:42,,,Dinwiddie P.FOUL (P1.T1) (J.Tiven),,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+29,0021600719,31,2,1,1,7:48 PM,7:34,MISS Dragic 19' Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+30,0021600719,32,4,0,1,7:48 PM,7:33,,,Bogdanovic REBOUND (Off:0 Def:1),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+31,0021600719,33,1,42,1,7:48 PM,7:26,,,Bogdanovic 2' Driving Layup (4 PTS),15 - 8,-7,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+32,0021600719,34,2,1,1,7:48 PM,7:15,MISS Babbitt 24' 3PT Jump Shot,,,,,4.0,202337,Luke Babbitt,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+33,0021600719,35,4,0,1,7:48 PM,7:14,,,Foye REBOUND (Off:0 Def:1),,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+34,0021600719,36,2,1,1,7:48 PM,7:05,,,MISS Foye 25' 3PT Jump Shot,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+35,0021600719,37,4,0,1,7:49 PM,7:04,Whiteside REBOUND (Off:0 Def:2),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+36,0021600719,38,5,2,1,7:49 PM,7:02,Whiteside Lost Ball Turnover (P2.T3),,Booker STEAL (1 STL),,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+37,0021600719,40,8,0,1,7:49 PM,7:00,SUB: Johnson FOR Babbitt,,,,,4.0,202337,Luke Babbitt,1610612748.0,Miami,Heat,MIA,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+38,0021600719,42,2,1,1,7:49 PM,6:56,,,MISS Lopez 26' 3PT Jump Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+39,0021600719,43,4,0,1,7:49 PM,6:55,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+40,0021600719,44,6,3,1,7:49 PM,6:55,,,Foye L.B.FOUL (P1.T2) (D.Stafford),,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+41,0021600719,45,1,1,1,7:50 PM,6:30,Waiters 25' 3PT Jump Shot (5 PTS) (Dragic 1 AST),,,15 - 11,-4,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+42,0021600719,46,5,45,1,7:50 PM,6:13,,,Bogdanovic Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+43,0021600719,47,8,0,1,7:50 PM,6:13,,,SUB: LeVert FOR Foye,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,5,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+44,0021600719,48,1,73,1,7:51 PM,6:01,Waiters 1' Driving Reverse Layup (7 PTS),,,15 - 13,-2,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+45,0021600719,49,2,5,1,7:51 PM,5:48,Whiteside BLOCK (1 BLK),,MISS Dinwiddie 2' Layup,,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+46,0021600719,50,4,0,1,7:51 PM,5:47,,,Nets Rebound,,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+47,0021600719,51,9,1,1,7:51 PM,5:47,HEAT Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+48,0021600719,55,1,1,1,7:53 PM,5:38,,,Booker 3' Jump Shot (4 PTS) (Bogdanovic 1 AST),17 - 13,-4,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+49,0021600719,56,6,2,1,7:53 PM,5:38,Johnson S.FOUL (P1.T2) (J.Tiven),,,,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+50,0021600719,57,3,10,1,7:54 PM,5:38,,,Booker Free Throw 1 of 1 (5 PTS),18 - 13,-5,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+51,0021600719,59,2,1,1,7:54 PM,5:21,MISS Johnson 9' Jump Shot,,,,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+52,0021600719,60,4,0,1,7:54 PM,5:20,,,Lopez REBOUND (Off:0 Def:1),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+53,0021600719,61,1,47,1,7:54 PM,5:06,,,Lopez 13' Turnaround Jump Shot (8 PTS),20 - 13,-7,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+54,0021600719,62,1,80,1,7:55 PM,4:53,Dragic 9' Step Back Jump Shot (6 PTS),,,20 - 15,-5,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+55,0021600719,63,1,42,1,7:55 PM,4:40,,,Bogdanovic 2' Driving Layup (6 PTS),22 - 15,-7,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+56,0021600719,64,1,1,1,7:55 PM,4:30,Johnson 25' 3PT Jump Shot (3 PTS) (Waiters 2 AST),,,22 - 18,-4,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+57,0021600719,65,1,66,1,7:55 PM,4:10,,,Dinwiddie 9' Jump Bank Shot (2 PTS),24 - 18,-6,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+58,0021600719,66,1,47,1,7:56 PM,3:57,Dragic 10' Turnaround Jump Shot (8 PTS),,,24 - 20,-4,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+59,0021600719,67,1,5,1,7:56 PM,3:40,,,Booker 2' Layup (7 PTS) (Lopez 1 AST),26 - 20,-6,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+60,0021600719,68,2,1,1,7:56 PM,3:16,MISS Whiteside 16' Jump Shot,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+61,0021600719,69,4,0,1,7:56 PM,3:15,,,Bogdanovic REBOUND (Off:0 Def:2),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+62,0021600719,70,5,2,1,7:56 PM,3:01,Dragic STEAL (1 STL),,Bogdanovic Lost Ball Turnover (P2.T2),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+63,0021600719,71,5,1,1,7:57 PM,2:58,Whiteside Bad Pass Turnover (P3.T4),,Booker STEAL (2 STL),,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+64,0021600719,72,2,1,1,7:57 PM,2:52,Johnson BLOCK (1 BLK),,MISS Booker 7' Jump Shot,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,1
+65,0021600719,73,4,0,1,7:57 PM,2:51,Waiters REBOUND (Off:0 Def:1),,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+66,0021600719,74,1,1,1,7:57 PM,2:45,McGruder 24' 3PT Jump Shot (3 PTS) (Waiters 3 AST),,,26 - 23,-3,4.0,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+67,0021600719,75,9,1,1,7:57 PM,2:45,,,Nets Timeout: Regular (Reg.1 Short 0),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+68,0021600719,77,8,0,1,7:59 PM,2:45,SUB: Johnson FOR Whiteside,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+69,0021600719,78,8,0,1,7:59 PM,2:45,SUB: Reed FOR Dragic,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+70,0021600719,79,8,0,1,7:59 PM,2:45,,,SUB: Kilpatrick FOR Bogdanovic,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+71,0021600719,80,8,0,1,7:59 PM,2:45,,,SUB: Hamilton FOR Booker,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,5,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+72,0021600719,81,8,0,1,7:59 PM,2:45,,,SUB: Whitehead FOR Lopez,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+73,0021600719,82,8,0,1,7:59 PM,2:45,,,SUB: Hollis-Jefferson FOR Dinwiddie,,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+74,0021600719,83,1,1,1,8:00 PM,2:24,,,Hamilton 14' Jump Shot (2 PTS) (Whitehead 1 AST),28 - 23,-5,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+75,0021600719,84,1,78,1,8:00 PM,1:58,McGruder 12' Floating Jump Shot (5 PTS),,,28 - 25,-3,4.0,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+76,0021600719,85,2,1,1,8:00 PM,1:36,,,MISS LeVert 25' 3PT Jump Shot,,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+77,0021600719,86,4,0,1,8:00 PM,1:35,Johnson REBOUND (Off:0 Def:1),,,,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+78,0021600719,87,2,42,1,8:00 PM,1:27,MISS Waiters 1' Driving Layup,,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+79,0021600719,88,4,0,1,8:01 PM,1:26,,,Kilpatrick REBOUND (Off:0 Def:1),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+80,0021600719,89,2,44,1,8:01 PM,1:18,McGruder BLOCK (1 BLK),,MISS Whitehead 1' Reverse Layup,,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,1
+81,0021600719,90,4,0,1,8:01 PM,1:17,,,Whitehead REBOUND (Off:1 Def:0),,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+82,0021600719,91,2,1,1,8:01 PM,1:08,,,MISS Kilpatrick 25' 3PT Jump Shot,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+83,0021600719,92,4,0,1,8:01 PM,1:07,Reed REBOUND (Off:0 Def:1),,,,,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+84,0021600719,93,1,1,1,8:01 PM,0:53,McGruder 25' 3PT Jump Shot (8 PTS) (Waiters 4 AST),,,28 - 28,TIE,4.0,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+85,0021600719,94,1,98,1,8:01 PM,0:39,,,Hamilton 2' Cutting Layup Shot (4 PTS) (Whitehead 2 AST),30 - 28,-2,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+86,0021600719,95,2,1,1,8:02 PM,0:23,MISS Johnson 16' Jump Shot,,,,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+87,0021600719,96,4,0,1,8:02 PM,0:22,,,Whitehead REBOUND (Off:1 Def:1),,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+88,0021600719,97,1,50,1,8:02 PM,0:20,,,LeVert  Running Dunk (2 PTS) (Whitehead 3 AST),32 - 28,-4,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+89,0021600719,98,2,1,1,8:02 PM,0:01,MISS McGruder 25' 3PT Jump Shot,,,,,4.0,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+90,0021600719,99,4,0,1,8:02 PM,0:00,,,Hollis-Jefferson REBOUND (Off:0 Def:1),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+91,0021600719,100,13,0,1,8:02 PM,0:00,,,,32 - 28,-4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+92,0021600719,102,12,0,2,8:05 PM,12:00,,,,32 - 28,-4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+93,0021600719,103,2,42,2,8:05 PM,11:46,MISS Johnson 3' Driving Layup,,Whitehead BLOCK (1 BLK),,,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,1
+94,0021600719,104,4,0,2,8:05 PM,11:45,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+95,0021600719,105,1,1,2,8:06 PM,11:35,Dragic 24' 3PT Jump Shot (11 PTS),,,32 - 31,-1,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+96,0021600719,106,5,4,2,8:06 PM,11:19,,,Kilpatrick Traveling Turnover (P1.T3),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+97,0021600719,107,2,73,2,8:06 PM,11:02,MISS Johnson 2' Driving Reverse Layup,,,,,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+98,0021600719,108,4,0,2,8:06 PM,11:01,,,Hamilton REBOUND (Off:0 Def:1),,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+99,0021600719,109,2,1,2,8:07 PM,10:51,,,MISS Hamilton 25' 3PT Jump Shot,,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+100,0021600719,110,4,0,2,8:07 PM,10:50,Dragic REBOUND (Off:0 Def:1),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+101,0021600719,111,6,1,2,8:07 PM,10:41,,,Hamilton P.FOUL (P1.T1) (J.Tiven),,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,4,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+102,0021600719,112,2,1,2,8:07 PM,10:29,MISS Ellington 24' 3PT Jump Shot,,,,,4.0,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+103,0021600719,113,4,0,2,8:07 PM,10:28,,,Hollis-Jefferson REBOUND (Off:0 Def:2),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+104,0021600719,114,6,1,2,8:07 PM,10:26,Dragic P.FOUL (P1.T1) (J.Tiven),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+105,0021600719,115,5,4,2,8:08 PM,10:21,,,LeVert Traveling Turnover (P1.T4),,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+106,0021600719,116,1,3,2,8:08 PM,10:03,Reed 5' Hook Shot (2 PTS) (Johnson 1 AST),,,32 - 33,1,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+107,0021600719,117,2,42,2,8:09 PM,9:44,,,MISS LeVert 2' Driving Layup,,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+108,0021600719,118,4,0,2,8:09 PM,9:43,Reed REBOUND (Off:0 Def:2),,,,,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+109,0021600719,119,1,1,2,8:09 PM,9:31,Johnson 8' Jump Shot (5 PTS) (Dragic 2 AST),,,32 - 35,3,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+110,0021600719,120,1,42,2,8:09 PM,9:23,,,Whitehead 1' Driving Layup (2 PTS),34 - 35,1,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+111,0021600719,121,5,1,2,8:09 PM,9:08,Johnson Bad Pass Turnover (P1.T5),,LeVert STEAL (1 STL),,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,5,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+112,0021600719,122,6,2,2,8:09 PM,9:06,Reed S.FOUL (P1.T2) (S.Anderson),,,,,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+113,0021600719,123,3,11,2,8:10 PM,9:06,,,Kilpatrick Free Throw 1 of 2 (1 PTS),35 - 35,TIE,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+114,0021600719,125,3,12,2,8:10 PM,9:06,,,Kilpatrick Free Throw 2 of 2 (2 PTS),36 - 35,-1,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+115,0021600719,127,5,1,2,8:10 PM,8:56,Johnson Bad Pass Turnover (P2.T6),,Kilpatrick STEAL (1 STL),,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+116,0021600719,128,5,1,2,8:10 PM,8:52,Dragic STEAL (2 STL),,LeVert Bad Pass Turnover (P2.T5),,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+117,0021600719,129,2,1,2,8:11 PM,8:35,MISS Johnson  3PT Jump Shot,,,,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+118,0021600719,130,4,0,2,8:11 PM,8:34,,,Whitehead REBOUND (Off:1 Def:2),,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+119,0021600719,131,2,42,2,8:11 PM,8:21,Johnson BLOCK (2 BLK),,MISS Whitehead 2' Driving Layup,,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,1
+120,0021600719,132,4,0,2,8:11 PM,8:20,,,Hollis-Jefferson REBOUND (Off:1 Def:2),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+121,0021600719,133,2,1,2,8:11 PM,8:11,,,MISS Kilpatrick 24' 3PT Jump Shot,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+122,0021600719,134,4,0,2,8:11 PM,8:10,,,Hamilton REBOUND (Off:1 Def:1),,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+123,0021600719,135,2,1,2,8:11 PM,8:06,,,MISS LeVert 25' 3PT Jump Shot,,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+124,0021600719,136,4,0,2,8:11 PM,8:05,Reed REBOUND (Off:0 Def:3),,,,,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+125,0021600719,137,2,1,2,8:12 PM,7:43,MISS Johnson 15' Jump Shot,,,,,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+126,0021600719,138,4,0,2,8:12 PM,7:42,,,Kilpatrick REBOUND (Off:0 Def:2),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+127,0021600719,139,1,79,2,8:12 PM,7:36,,,Kilpatrick 16' Pullup Jump Shot (4 PTS),38 - 35,-3,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+128,0021600719,140,9,1,2,8:12 PM,7:36,HEAT Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+129,0021600719,142,8,0,2,8:14 PM,7:36,,,SUB: Lopez FOR Hamilton,,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+130,0021600719,143,8,0,2,8:14 PM,7:36,SUB: Whiteside FOR Johnson,,,,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+131,0021600719,144,8,0,2,8:14 PM,7:36,SUB: White FOR Reed,,,,,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,4,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+132,0021600719,145,5,1,2,8:14 PM,7:22,Whiteside Bad Pass Turnover (P4.T7),,LeVert STEAL (2 STL),,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+133,0021600719,146,1,50,2,8:15 PM,7:18,,,Kilpatrick  Running Dunk (6 PTS) (LeVert 1 AST),40 - 35,-5,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,5,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+134,0021600719,147,2,1,2,8:15 PM,7:02,MISS Ellington  3PT Jump Shot,,,,,4.0,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+135,0021600719,148,4,0,2,8:15 PM,7:01,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+136,0021600719,149,6,3,2,8:15 PM,7:00,,,Hollis-Jefferson L.B.FOUL (P1.T2) (D.Stafford),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+137,0021600719,150,6,1,2,8:15 PM,6:55,,,Kilpatrick P.FOUL (P1.T3) (J.Tiven),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,4,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+138,0021600719,151,2,1,2,8:16 PM,6:43,MISS Dragic 17' Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+139,0021600719,152,4,0,2,8:16 PM,6:42,Dragic REBOUND (Off:1 Def:1),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+140,0021600719,153,1,1,2,8:16 PM,6:38,White 19' Jump Shot (2 PTS) (Dragic 3 AST),,,40 - 37,-3,4.0,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+141,0021600719,154,1,42,2,8:16 PM,6:15,,,Whitehead 2' Driving Layup (4 PTS),42 - 37,-5,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+142,0021600719,155,1,52,2,8:17 PM,6:03,Whiteside  Alley Oop Dunk (4 PTS) (Dragic 4 AST),,,42 - 39,-3,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+143,0021600719,156,1,3,2,8:17 PM,5:45,,,Lopez 11' Hook Shot (10 PTS),44 - 39,-5,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+144,0021600719,157,2,1,2,8:17 PM,5:26,MISS Johnson 26' 3PT Jump Shot,,,,,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+145,0021600719,158,4,0,2,8:17 PM,5:25,White REBOUND (Off:1 Def:0),,,,,4.0,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+146,0021600719,159,2,1,2,8:17 PM,5:18,MISS White 25' 3PT Jump Shot,,,,,4.0,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+147,0021600719,160,4,0,2,8:17 PM,5:17,,,Kilpatrick REBOUND (Off:0 Def:3),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+148,0021600719,161,2,1,2,8:18 PM,5:06,,,MISS Lopez 16' Jump Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+149,0021600719,162,4,0,2,8:18 PM,5:05,Johnson REBOUND (Off:0 Def:1),,,,,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+150,0021600719,163,2,78,2,8:18 PM,4:57,MISS Johnson 9' Floating Jump Shot,,,,,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+151,0021600719,164,4,0,2,8:18 PM,4:56,,,Hollis-Jefferson REBOUND (Off:1 Def:3),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+152,0021600719,165,1,98,2,8:18 PM,4:46,,,Whitehead 1' Cutting Layup Shot (6 PTS) (Lopez 2 AST),46 - 39,-7,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+153,0021600719,166,9,2,2,8:18 PM,4:46,HEAT Timeout: Short (Full 2 Short 1),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+154,0021600719,168,9,4,2,8:18 PM,4:46,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+155,0021600719,169,8,0,2,8:21 PM,4:46,,,SUB: Bogdanovic FOR LeVert,,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+156,0021600719,170,8,0,2,8:21 PM,4:46,,,SUB: Dinwiddie FOR Hollis-Jefferson,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+157,0021600719,171,8,0,2,8:21 PM,4:46,,,SUB: Foye FOR Kilpatrick,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,5,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+158,0021600719,172,8,0,2,8:21 PM,4:46,,,SUB: Booker FOR Whitehead,,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+159,0021600719,173,8,0,2,8:21 PM,4:46,SUB: McGruder FOR Dragic,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+160,0021600719,174,8,0,2,8:21 PM,4:46,SUB: Waiters FOR Johnson,,,,,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+161,0021600719,175,2,1,2,8:21 PM,4:33,MISS Ellington 20' Jump Shot,,,,,4.0,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+162,0021600719,176,4,0,2,8:21 PM,4:32,,,Dinwiddie REBOUND (Off:0 Def:3),,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+163,0021600719,177,1,101,2,8:21 PM,4:14,,,Dinwiddie 9' Driving Floating Jump Shot (4 PTS),48 - 39,-9,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+164,0021600719,178,2,3,2,8:22 PM,3:59,MISS Whiteside 8' Hook Shot,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+165,0021600719,179,4,0,2,8:22 PM,3:58,,,Booker REBOUND (Off:0 Def:1),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+166,0021600719,180,1,44,2,8:22 PM,3:42,,,Bogdanovic 2' Reverse Layup (8 PTS) (Lopez 3 AST),50 - 39,-11,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+167,0021600719,181,1,101,2,8:22 PM,3:22,McGruder 8' Driving Floating Jump Shot (10 PTS),,,50 - 41,-9,4.0,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+168,0021600719,182,2,42,2,8:23 PM,3:08,,,MISS Dinwiddie 3' Driving Layup,,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+169,0021600719,183,4,0,2,8:23 PM,3:07,Whiteside REBOUND (Off:0 Def:3),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+170,0021600719,184,1,74,2,8:23 PM,3:01,Ellington 1' Running Reverse Layup (2 PTS) (Waiters 5 AST),,,50 - 43,-7,4.0,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+171,0021600719,185,2,63,2,8:23 PM,2:43,,,MISS Bogdanovic 16' Fadeaway Jumper,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+172,0021600719,186,4,0,2,8:23 PM,2:42,Waiters REBOUND (Off:0 Def:2),,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+173,0021600719,187,1,1,2,8:23 PM,2:34,White 25' 3PT Jump Shot (5 PTS) (Waiters 6 AST),,,50 - 46,-4,4.0,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+174,0021600719,188,9,1,2,8:23 PM,2:34,,,Nets Timeout: Regular (Reg.2 Short 0),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+175,0021600719,190,8,0,2,8:25 PM,2:34,SUB: Johnson FOR Ellington,,,,,4.0,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+176,0021600719,192,2,5,2,8:26 PM,2:20,,,MISS Lopez 2' Layup,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+177,0021600719,193,4,0,2,8:26 PM,2:19,White REBOUND (Off:1 Def:1),,,,,4.0,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+178,0021600719,194,1,63,2,8:26 PM,2:00,Waiters 20' Fadeaway Jumper (9 PTS),,,50 - 48,-2,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+179,0021600719,195,2,98,2,8:26 PM,1:45,Whiteside BLOCK (2 BLK),,MISS Bogdanovic 2' Cutting Layup Shot,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+180,0021600719,196,4,0,2,8:26 PM,1:44,Whiteside REBOUND (Off:0 Def:4),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+181,0021600719,198,1,1,2,8:27 PM,1:32,Waiters 24' 3PT Jump Shot (12 PTS),,,50 - 51,1,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+182,0021600719,199,2,1,2,8:27 PM,1:10,Whiteside BLOCK (3 BLK),,MISS Lopez 10' Jump Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+183,0021600719,200,4,0,2,8:27 PM,1:09,Johnson REBOUND (Off:0 Def:2),,,,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+184,0021600719,201,1,1,2,8:27 PM,1:03,Waiters 25' 3PT Jump Shot (15 PTS) (Johnson 2 AST),,,50 - 54,4,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+185,0021600719,202,9,2,2,8:28 PM,1:03,,,Nets Timeout: Short (Reg.2 Short 1),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+186,0021600719,206,5,2,2,8:29 PM,0:40,Whiteside STEAL (1 STL),,Foye Lost Ball Turnover (P1.T6),,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+187,0021600719,207,2,1,2,8:29 PM,0:34,MISS McGruder 25' 3PT Jump Shot,,,,,4.0,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+188,0021600719,208,4,0,2,8:29 PM,0:33,Whiteside REBOUND (Off:1 Def:4),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+189,0021600719,209,1,72,2,8:29 PM,0:32,Whiteside 1' Putback Layup (6 PTS),,,50 - 56,6,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+190,0021600719,212,6,2,2,8:30 PM,0:09,McGruder S.FOUL (P1.T3) (J.Tiven),,,,,4.0,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+191,0021600719,214,18,0,2,8:30 PM,0:09,,,,,,,212,Yinka Dare,,,,,0,0,,,,,,1,0,,,,,,0
+192,0021600719,215,8,0,2,8:31 PM,0:09,,,SUB: Hollis-Jefferson FOR Dinwiddie,,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+193,0021600719,217,3,11,2,8:32 PM,0:09,,,Bogdanovic Free Throw 1 of 2 (9 PTS),51 - 56,5,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+194,0021600719,219,8,0,2,8:32 PM,0:09,SUB: Ellington FOR White,,,,,4.0,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,4,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+195,0021600719,220,8,0,2,8:32 PM,0:09,,,SUB: Whitehead FOR Lopez,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+196,0021600719,221,3,12,2,8:32 PM,0:09,,,Bogdanovic Free Throw 2 of 2 (10 PTS),52 - 56,4,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+197,0021600719,223,2,1,2,8:32 PM,0:04,MISS Waiters 26' 3PT Jump Shot,,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+198,0021600719,224,4,0,2,8:32 PM,0:02,,,Foye REBOUND (Off:0 Def:2),,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+199,0021600719,225,2,1,2,8:32 PM,0:00,,,MISS Foye 55' 3PT Jump Shot,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+200,0021600719,226,4,0,2,8:33 PM,0:00,,,Nets Rebound,,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+201,0021600719,227,13,0,2,8:33 PM,0:00,,,,52 - 56,4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+202,0021600719,229,12,0,3,8:48 PM,12:00,,,,52 - 56,4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+203,0021600719,230,1,7,3,8:48 PM,11:45,Whiteside  Dunk (8 PTS) (Waiters 7 AST),,,52 - 58,6,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+204,0021600719,231,6,1,3,8:49 PM,11:26,Dragic P.FOUL (P2.T1) (D.Stafford),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+205,0021600719,233,1,42,3,8:49 PM,11:13,,,Dinwiddie 1' Driving Layup (6 PTS),54 - 58,4,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+206,0021600719,234,2,1,3,8:50 PM,10:44,MISS Waiters 24' 3PT Jump Shot,,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+207,0021600719,235,4,0,3,8:50 PM,10:43,,,Bogdanovic REBOUND (Off:0 Def:3),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+208,0021600719,236,5,2,3,8:50 PM,10:34,McGruder STEAL (1 STL),,Booker Lost Ball Turnover (P1.T7),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,4,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+209,0021600719,237,6,1,3,8:50 PM,10:32,,,Booker P.FOUL (P1.T1) (J.Tiven),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+210,0021600719,238,1,1,3,8:51 PM,10:16,Babbitt  3PT Jump Shot (3 PTS) (Dragic 5 AST),,,54 - 61,7,4.0,202337,Luke Babbitt,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+211,0021600719,239,2,1,3,8:51 PM,10:02,,,MISS Lopez 25' 3PT Jump Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+212,0021600719,240,4,0,3,8:51 PM,10:01,Waiters REBOUND (Off:0 Def:3),,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+213,0021600719,241,1,3,3,8:51 PM,9:50,Whiteside 6' Hook Shot (10 PTS) (Dragic 6 AST),,,54 - 63,9,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+214,0021600719,242,9,1,3,8:51 PM,9:48,,,Nets Timeout: Regular (Reg.3 Short 1),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+215,0021600719,245,8,0,3,8:53 PM,9:48,SUB: Johnson FOR Babbitt,,,,,4.0,202337,Luke Babbitt,1610612748.0,Miami,Heat,MIA,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+216,0021600719,246,5,40,3,8:54 PM,9:40,,,Lopez Out of Bounds Lost Ball Turnover (P1.T8),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+217,0021600719,247,6,3,3,8:54 PM,9:39,,,Lopez L.B.FOUL (P1.T2) (D.Stafford),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+218,0021600719,248,6,1,3,8:54 PM,9:18,,,Bogdanovic P.FOUL (P1.T3) (J.Tiven),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+219,0021600719,249,5,1,3,8:55 PM,9:06,Dragic Bad Pass Turnover (P1.T8),,Lopez STEAL (1 STL),,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+220,0021600719,250,2,42,3,8:55 PM,9:02,,,MISS Foye 2' Driving Layup,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+221,0021600719,251,4,0,3,8:55 PM,9:01,,,Foye REBOUND (Off:1 Def:2),,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+222,0021600719,252,2,1,3,8:55 PM,8:47,,,MISS Booker  3PT Jump Shot,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+223,0021600719,253,4,0,3,8:55 PM,8:46,Dragic REBOUND (Off:1 Def:2),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+224,0021600719,254,2,1,3,8:55 PM,8:40,MISS Dragic 24' 3PT Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+225,0021600719,255,4,0,3,8:55 PM,8:39,,,Booker REBOUND (Off:0 Def:2),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+226,0021600719,256,2,5,3,8:55 PM,8:35,Waiters BLOCK (1 BLK),,MISS Dinwiddie 2' Layup,,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,1
+227,0021600719,257,4,0,3,8:55 PM,8:31,,,Booker REBOUND (Off:1 Def:2),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+228,0021600719,258,2,1,3,8:55 PM,8:27,,,MISS Booker 5' Jump Shot,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+229,0021600719,259,4,0,3,8:56 PM,8:26,Johnson REBOUND (Off:0 Def:3),,,,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+230,0021600719,260,1,1,3,8:56 PM,8:20,McGruder 25' 3PT Jump Shot (13 PTS) (Johnson 3 AST),,,54 - 66,12,4.0,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+231,0021600719,261,6,1,3,8:56 PM,8:02,McGruder P.FOUL (P2.T2) (J.Tiven),,,,,4.0,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+232,0021600719,262,8,0,3,8:56 PM,8:02,,,SUB: Whitehead FOR Dinwiddie,,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+233,0021600719,263,5,1,3,8:56 PM,7:56,McGruder STEAL (2 STL),,Booker Bad Pass Turnover (P2.T9),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,4,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+234,0021600719,264,6,2,3,8:57 PM,7:50,,,Bogdanovic S.FOUL (P2.T4) (J.Tiven),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+235,0021600719,265,3,11,3,8:57 PM,7:50,MISS Dragic Free Throw 1 of 2,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+236,0021600719,266,4,1,3,8:57 PM,7:50,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+237,0021600719,267,8,0,3,8:57 PM,7:50,,,SUB: LeVert FOR Foye,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,5,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+238,0021600719,268,8,0,3,8:57 PM,7:50,,,SUB: Hollis-Jefferson FOR Booker,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+239,0021600719,269,3,12,3,8:57 PM,7:50,Dragic Free Throw 2 of 2 (12 PTS),,,54 - 67,13,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+240,0021600719,271,1,1,3,8:58 PM,7:28,,,Lopez 12' Jump Shot (12 PTS),56 - 67,11,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+241,0021600719,272,5,1,3,8:58 PM,7:18,Waiters Bad Pass Turnover (P1.T9),,Hollis-Jefferson STEAL (1 STL),,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+242,0021600719,273,6,1,3,8:58 PM,7:16,Whiteside P.FOUL (P2.T3) (J.Tiven),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+243,0021600719,274,1,1,3,8:59 PM,7:05,,,Bogdanovic 25' 3PT Jump Shot (13 PTS) (Whitehead 4 AST),59 - 67,8,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+244,0021600719,275,6,1,3,8:59 PM,6:48,,,Whitehead P.FOUL (P1.PN) (S.Anderson),,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+245,0021600719,276,3,13,3,8:59 PM,6:48,Dragic Free Throw 1 of 3 (13 PTS),,,59 - 68,9,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+246,0021600719,278,3,14,3,8:59 PM,6:48,Dragic Free Throw 2 of 3 (14 PTS),,,59 - 69,10,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+247,0021600719,280,8,0,3,9:00 PM,6:48,,,SUB: Kilpatrick FOR Bogdanovic,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+248,0021600719,281,3,15,3,9:00 PM,6:48,MISS Dragic Free Throw 3 of 3,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+249,0021600719,283,4,0,3,9:00 PM,6:47,,,Hollis-Jefferson REBOUND (Off:1 Def:4),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+250,0021600719,284,1,42,3,9:00 PM,6:36,,,LeVert 2' Driving Layup (4 PTS),61 - 69,8,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+251,0021600719,285,1,1,3,9:00 PM,6:21,Whiteside 10' Jump Shot (12 PTS) (Waiters 8 AST),,,61 - 71,10,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+252,0021600719,286,2,1,3,9:00 PM,6:09,,,MISS LeVert 16' Jump Shot,,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+253,0021600719,287,4,0,3,9:01 PM,6:08,,,Hollis-Jefferson REBOUND (Off:2 Def:4),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+254,0021600719,288,2,42,3,9:01 PM,6:01,,,MISS Hollis-Jefferson 1' Driving Layup,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+255,0021600719,289,4,0,3,9:01 PM,6:00,,,Lopez REBOUND (Off:1 Def:1),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+256,0021600719,291,2,1,3,9:01 PM,5:54,,,MISS Lopez 25' 3PT Jump Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+257,0021600719,292,4,0,3,9:01 PM,5:53,Waiters REBOUND (Off:0 Def:4),,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+258,0021600719,293,2,1,3,9:01 PM,5:43,MISS Waiters 8' Jump Shot,,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+259,0021600719,294,4,0,3,9:01 PM,5:42,,,LeVert REBOUND (Off:0 Def:1),,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+260,0021600719,295,1,1,3,9:01 PM,5:36,,,Whitehead 26' 3PT Jump Shot (9 PTS) (Hollis-Jefferson 1 AST),64 - 71,7,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+261,0021600719,296,9,1,3,9:02 PM,5:36,HEAT Timeout: Regular (Full 3 Short 1),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+262,0021600719,298,18,0,3,9:02 PM,5:36,,,,,,,260,,,,,,0,0,,,,,,1,0,,,,,,0
+263,0021600719,300,8,0,3,9:04 PM,5:36,,,SUB: Hamilton FOR Lopez,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+264,0021600719,301,8,0,3,9:04 PM,5:36,SUB: Ellington FOR Whiteside,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+265,0021600719,302,8,0,3,9:04 PM,5:36,SUB: Reed FOR Dragic,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+266,0021600719,303,2,42,3,9:04 PM,5:21,MISS Waiters 3' Driving Layup,,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+267,0021600719,304,4,0,3,9:04 PM,5:20,,,Nets Rebound,,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+268,0021600719,307,5,40,3,9:05 PM,5:06,,,Hollis-Jefferson Out of Bounds Lost Ball Turnover (P1.T10),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+269,0021600719,309,5,40,3,9:05 PM,4:47,Johnson Out of Bounds Lost Ball Turnover (P3.T10),,,,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+270,0021600719,311,2,78,3,9:05 PM,4:31,,,MISS Whitehead 11' Floating Jump Shot,,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+271,0021600719,312,4,0,3,9:05 PM,4:30,Reed REBOUND (Off:0 Def:4),,,,,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+272,0021600719,313,1,1,3,9:06 PM,4:07,Johnson 3' Jump Shot (7 PTS),,,64 - 73,9,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+273,0021600719,314,1,42,3,9:06 PM,3:48,,,Whitehead 2' Driving Layup (11 PTS),66 - 73,7,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+274,0021600719,315,2,5,3,9:06 PM,3:34,MISS Johnson 2' Layup,,,,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+275,0021600719,316,4,0,3,9:06 PM,3:33,,,Hamilton REBOUND (Off:1 Def:2),,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+276,0021600719,317,1,41,3,9:06 PM,3:27,,,Kilpatrick 1' Running Layup (8 PTS) (LeVert 2 AST),68 - 73,5,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,5,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+277,0021600719,318,1,1,3,9:07 PM,3:08,Ellington 17' Jump Shot (4 PTS) (Waiters 9 AST),,,68 - 75,7,4.0,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+278,0021600719,319,2,42,3,9:07 PM,2:50,,,MISS LeVert 2' Driving Layup,,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+279,0021600719,320,4,0,3,9:07 PM,2:49,Waiters REBOUND (Off:0 Def:5),,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+280,0021600719,321,6,1,3,9:07 PM,2:43,,,Hollis-Jefferson P.FOUL (P2.PN) (J.Tiven),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+281,0021600719,322,3,11,3,9:07 PM,2:43,Waiters Free Throw 1 of 2 (16 PTS),,,68 - 76,8,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+282,0021600719,324,8,0,3,9:08 PM,2:43,SUB: Johnson FOR McGruder,,,,,4.0,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+283,0021600719,325,3,12,3,9:08 PM,2:43,MISS Waiters Free Throw 2 of 2,,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+284,0021600719,327,4,0,3,9:08 PM,2:42,,,Hollis-Jefferson REBOUND (Off:2 Def:5),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+285,0021600719,328,1,44,3,9:08 PM,2:25,,,Hollis-Jefferson 2' Reverse Layup (2 PTS) (Kilpatrick 1 AST),70 - 76,6,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+286,0021600719,329,2,1,3,9:09 PM,2:02,MISS Waiters 17' Jump Shot,,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+287,0021600719,330,4,0,3,9:09 PM,2:01,,,LeVert REBOUND (Off:0 Def:2),,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+288,0021600719,331,1,1,3,9:09 PM,1:52,,,Hamilton 6' Jump Shot (6 PTS) (Hollis-Jefferson 2 AST),72 - 76,4,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+289,0021600719,332,6,2,3,9:09 PM,1:43,,,Hamilton S.FOUL (P2.PN) (S.Anderson),,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+290,0021600719,333,3,11,3,9:09 PM,1:43,Johnson Free Throw 1 of 2 (8 PTS),,,72 - 77,5,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+291,0021600719,335,8,0,3,9:10 PM,1:43,SUB: Dragic FOR Waiters,,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+292,0021600719,336,3,12,3,9:10 PM,1:43,MISS Johnson Free Throw 2 of 2,,,,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+293,0021600719,338,4,0,3,9:10 PM,1:42,,,Hollis-Jefferson REBOUND (Off:2 Def:6),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+294,0021600719,339,2,5,3,9:10 PM,1:28,,,MISS Kilpatrick 2' Layup,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+295,0021600719,340,4,0,3,9:10 PM,1:27,Reed REBOUND (Off:0 Def:5),,,,,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+296,0021600719,341,2,79,3,9:10 PM,1:21,MISS Dragic 13' Pullup Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+297,0021600719,342,4,0,3,9:10 PM,1:20,,,Hollis-Jefferson REBOUND (Off:2 Def:7),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+298,0021600719,343,5,2,3,9:10 PM,1:11,Dragic STEAL (3 STL),,LeVert Lost Ball Turnover (P3.T11),,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+299,0021600719,344,1,43,3,9:11 PM,1:05,Reed 3' Alley Oop Layup (4 PTS) (Johnson 4 AST),,,72 - 79,7,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+300,0021600719,345,1,79,3,9:11 PM,0:47,,,Whitehead 7' Pullup Jump Shot (13 PTS),74 - 79,5,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+301,0021600719,346,1,1,3,9:11 PM,0:26,Johnson 25' 3PT Jump Shot (11 PTS) (Dragic 7 AST),,,74 - 82,8,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+302,0021600719,347,1,1,3,9:12 PM,0:07,,,Hamilton 26' 3PT Jump Shot (9 PTS) (Whitehead 5 AST),77 - 82,5,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+303,0021600719,348,1,79,3,9:12 PM,0:00,Johnson 20' Pullup Jump Shot (13 PTS),,,77 - 84,7,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+304,0021600719,349,2,1,3,9:12 PM,0:00,,,MISS Whitehead 60' 3PT Jump Shot,,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+305,0021600719,350,4,0,3,9:12 PM,0:00,,,Nets Rebound,,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+306,0021600719,351,13,0,3,9:12 PM,0:00,,,,77 - 84,7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+307,0021600719,353,12,0,4,9:15 PM,12:00,,,,77 - 84,7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+308,0021600719,354,6,2,4,9:15 PM,11:44,Reed S.FOUL (P2.T1) (S.Anderson),,,,,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,5,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+309,0021600719,355,3,11,4,9:15 PM,11:44,,,Dinwiddie Free Throw 1 of 2 (7 PTS),78 - 84,6,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+310,0021600719,357,3,12,4,9:15 PM,11:44,,,Dinwiddie Free Throw 2 of 2 (8 PTS),79 - 84,5,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+311,0021600719,359,6,2,4,9:16 PM,11:21,,,Foye S.FOUL (P2.T1) (S.Anderson),,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,4,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+312,0021600719,360,3,11,4,9:16 PM,11:21,White Free Throw 1 of 2 (6 PTS),,,79 - 85,6,4.0,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+313,0021600719,362,3,12,4,9:16 PM,11:21,White Free Throw 2 of 2 (7 PTS),,,79 - 86,7,4.0,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+314,0021600719,364,6,2,4,9:17 PM,11:15,White S.FOUL (P1.T2) (S.Anderson),,,,,4.0,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+315,0021600719,365,3,11,4,9:17 PM,11:15,,,Hollis-Jefferson Free Throw 1 of 2 (3 PTS),80 - 86,6,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+316,0021600719,367,3,12,4,9:17 PM,11:15,,,Hollis-Jefferson Free Throw 2 of 2 (4 PTS),81 - 86,5,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+317,0021600719,369,2,5,4,9:18 PM,11:04,MISS Dragic 1' Layup,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+318,0021600719,371,10,0,4,9:18 PM,10:59,Jump Ball Reed vs. Hollis-Jefferson: Tip to Ellington,,,,,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,1
+319,0021600719,372,4,0,4,9:18 PM,10:59,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+320,0021600719,373,6,1,4,9:19 PM,10:53,,,Dinwiddie P.FOUL (P2.T2) (S.Anderson),,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,4,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+321,0021600719,374,8,0,4,9:19 PM,10:53,SUB: Whiteside FOR Reed,,,,,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+322,0021600719,379,6,1,4,9:20 PM,10:41,,,Foye P.FOUL (P3.T3) (D.Stafford),,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+323,0021600719,380,3,11,4,9:20 PM,10:41,Johnson Free Throw 1 of 2 (1 PTS),,,81 - 87,6,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+324,0021600719,382,3,12,4,9:20 PM,10:41,MISS Johnson Free Throw 2 of 2,,,,,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+325,0021600719,384,4,0,4,9:20 PM,10:40,,,Hollis-Jefferson REBOUND (Off:2 Def:8),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+326,0021600719,385,2,1,4,9:20 PM,10:27,,,MISS Hollis-Jefferson  3PT Jump Shot,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+327,0021600719,386,4,0,4,9:20 PM,10:26,,,Foye REBOUND (Off:2 Def:2),,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+328,0021600719,387,6,1,4,9:20 PM,10:25,Dragic P.FOUL (P3.T3) (S.Anderson),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+329,0021600719,388,5,2,4,9:21 PM,10:16,Johnson STEAL (1 STL),,Hollis-Jefferson Lost Ball Turnover (P2.T12),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+330,0021600719,391,2,3,4,9:21 PM,9:53,MISS Whiteside 8' Hook Shot,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+331,0021600719,392,4,0,4,9:21 PM,9:52,,,Bogdanovic REBOUND (Off:0 Def:4),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+332,0021600719,393,2,66,4,9:21 PM,9:38,,,MISS Bogdanovic 14' Jump Bank Shot,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+333,0021600719,394,4,0,4,9:21 PM,9:37,Whiteside REBOUND (Off:1 Def:5),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+334,0021600719,395,1,78,4,9:22 PM,9:26,Dragic 9' Floating Jump Shot (16 PTS),,,81 - 89,8,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+335,0021600719,396,6,2,4,9:22 PM,9:18,Dragic S.FOUL (P4.T4) (D.Stafford),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+336,0021600719,397,3,11,4,9:22 PM,9:18,,,Dinwiddie Free Throw 1 of 2 (9 PTS),82 - 89,7,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+337,0021600719,399,8,0,4,9:22 PM,9:18,SUB: Johnson FOR Dragic,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+338,0021600719,400,3,12,4,9:22 PM,9:18,,,Dinwiddie Free Throw 2 of 2 (10 PTS),83 - 89,6,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+339,0021600719,402,6,1,4,9:23 PM,9:04,,,Hollis-Jefferson P.FOUL (P3.T4) (S.Anderson),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+340,0021600719,404,9,4,4,9:23 PM,8:57,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+341,0021600719,408,6,4,4,9:26 PM,8:54,Johnson OFF.Foul (P1) (D.Stafford),,,,,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,5,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+342,0021600719,409,5,5,4,9:26 PM,8:54,Johnson Foul Turnover (P1.T11),,,,,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+343,0021600719,410,2,1,4,9:26 PM,8:45,,,MISS Bogdanovic 25' 3PT Jump Shot,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+344,0021600719,411,4,0,4,9:26 PM,8:44,,,Nets Rebound,,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+345,0021600719,412,8,0,4,9:27 PM,8:44,SUB: Waiters FOR Ellington,,,,,4.0,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+346,0021600719,413,2,1,4,9:27 PM,8:38,,,MISS Dinwiddie 8' Jump Shot,,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+347,0021600719,414,4,0,4,9:27 PM,8:37,Whiteside REBOUND (Off:1 Def:6),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+348,0021600719,415,2,1,4,9:27 PM,8:14,MISS White 24' 3PT Jump Shot,,,,,4.0,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+349,0021600719,416,4,0,4,9:27 PM,8:13,,,Hollis-Jefferson REBOUND (Off:2 Def:9),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+350,0021600719,417,1,1,4,9:27 PM,8:04,,,Foye 17' Jump Shot (5 PTS),85 - 89,4,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+351,0021600719,418,6,2,4,9:28 PM,7:46,,,Hollis-Jefferson S.FOUL (P4.PN) (J.Tiven),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+352,0021600719,419,3,11,4,9:28 PM,7:46,Johnson Free Throw 1 of 2 (14 PTS),,,85 - 90,5,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+353,0021600719,421,8,0,4,9:28 PM,7:46,,,SUB: Booker FOR Hollis-Jefferson,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+354,0021600719,422,8,0,4,9:28 PM,7:46,,,SUB: Lopez FOR Hamilton,,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+355,0021600719,423,3,12,4,9:28 PM,7:46,Johnson Free Throw 2 of 2 (15 PTS),,,85 - 91,6,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+356,0021600719,425,2,1,4,9:29 PM,7:27,,,MISS Foye 24' 3PT Jump Shot,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+357,0021600719,426,4,0,4,9:29 PM,7:26,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+358,0021600719,427,2,42,4,9:29 PM,7:17,MISS Waiters 2' Driving Layup,,Lopez BLOCK (2 BLK),,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1
+359,0021600719,437,4,0,4,9:29 PM,7:16,,,Booker REBOUND (Off:1 Def:3),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+360,0021600719,428,6,2,4,9:30 PM,7:03,Whiteside S.FOUL (P3.PN) (D.Stafford),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+361,0021600719,429,3,11,4,9:30 PM,7:03,,,MISS Lopez Free Throw 1 of 2,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+362,0021600719,430,4,1,4,9:30 PM,7:03,,,Nets Rebound,,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+363,0021600719,431,3,12,4,9:30 PM,7:03,,,MISS Lopez Free Throw 2 of 2,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+364,0021600719,433,4,0,4,9:30 PM,7:02,Whiteside REBOUND (Off:1 Def:7),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+365,0021600719,434,1,5,4,9:31 PM,6:42,Johnson 1' Layup (3 PTS) (Johnson 5 AST),,,85 - 93,8,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+366,0021600719,436,6,2,4,9:31 PM,6:28,Whiteside S.FOUL (P4.PN) (J.Tiven),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+367,0021600719,438,3,11,4,9:32 PM,6:28,,,Lopez Free Throw 1 of 2 (13 PTS),86 - 93,7,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+368,0021600719,440,3,12,4,9:32 PM,6:28,,,Lopez Free Throw 2 of 2 (14 PTS),87 - 93,6,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+369,0021600719,443,2,1,4,9:32 PM,6:12,MISS Johnson 25' 3PT Jump Shot,,,,,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+370,0021600719,444,4,0,4,9:33 PM,6:11,,,Booker REBOUND (Off:1 Def:4),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+371,0021600719,445,2,80,4,9:33 PM,6:01,,,MISS Foye 25' 3PT Step Back Jump Shot,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+372,0021600719,446,4,0,4,9:33 PM,6:00,,,Dinwiddie REBOUND (Off:1 Def:3),,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+373,0021600719,447,2,1,4,9:33 PM,5:54,,,MISS Bogdanovic 24' 3PT Jump Shot,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+374,0021600719,448,4,0,4,9:33 PM,5:50,Whiteside REBOUND (Off:1 Def:8),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+375,0021600719,449,2,1,4,9:33 PM,5:39,MISS Waiters 21' Jump Shot,,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+376,0021600719,450,4,0,4,9:33 PM,5:38,,,Dinwiddie REBOUND (Off:1 Def:4),,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+377,0021600719,451,2,42,4,9:33 PM,5:30,,,MISS Bogdanovic 1' Driving Layup,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+378,0021600719,452,4,0,4,9:33 PM,5:29,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+379,0021600719,453,9,1,4,9:33 PM,5:29,HEAT Timeout: Regular (Full 4 Short 1),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+380,0021600719,455,8,0,4,9:35 PM,5:29,,,SUB: LeVert FOR Foye,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,5,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+381,0021600719,456,8,0,4,9:35 PM,5:29,,,SUB: Whitehead FOR Dinwiddie,,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+382,0021600719,457,8,0,4,9:36 PM,5:29,SUB: Dragic FOR Johnson,,,,,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+383,0021600719,458,8,0,4,9:36 PM,5:29,SUB: McGruder FOR White,,,,,4.0,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,4,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+384,0021600719,459,1,42,4,9:36 PM,5:18,Waiters 2' Driving Layup (18 PTS),,,87 - 95,8,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+385,0021600719,460,6,2,4,9:36 PM,5:00,Whiteside S.FOUL (P5.PN) (D.Stafford),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+386,0021600719,461,3,11,4,9:37 PM,5:00,,,Booker Free Throw 1 of 2 (8 PTS),88 - 95,7,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+387,0021600719,463,8,0,4,9:37 PM,5:00,SUB: Reed FOR Whiteside,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+388,0021600719,464,3,12,4,9:37 PM,5:00,,,MISS Booker Free Throw 2 of 2,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+389,0021600719,466,4,0,4,9:37 PM,4:59,,,Lopez REBOUND (Off:2 Def:1),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+390,0021600719,467,2,5,4,9:37 PM,4:55,,,MISS Lopez 3' Layup,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+391,0021600719,469,4,0,4,9:37 PM,4:54,,,LeVert REBOUND (Off:1 Def:2),,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+392,0021600719,468,2,1,4,9:37 PM,4:51,,,MISS Bogdanovic 25' 3PT Jump Shot,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+393,0021600719,471,4,0,4,9:37 PM,4:49,,,Booker REBOUND (Off:2 Def:4),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+394,0021600719,470,1,107,4,9:37 PM,4:47,,,Booker  Tip Dunk Shot (10 PTS),90 - 95,5,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+395,0021600719,472,2,78,4,9:38 PM,4:18,MISS McGruder 8' Floating Jump Shot,,,,,4.0,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+396,0021600719,473,4,0,4,9:38 PM,4:17,,,Booker REBOUND (Off:2 Def:5),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+397,0021600719,474,6,4,4,9:38 PM,4:06,,,Booker OFF.Foul (P2) (D.Stafford),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+398,0021600719,475,5,5,4,9:38 PM,4:06,,,Booker Foul Turnover (P3.T13),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+399,0021600719,476,2,1,4,9:39 PM,3:50,MISS Johnson 14' Jump Shot,,,,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+400,0021600719,477,4,0,4,9:39 PM,3:49,,,Booker REBOUND (Off:2 Def:6),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+401,0021600719,478,2,1,4,9:39 PM,3:32,,,MISS Lopez 6' Jump Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+402,0021600719,479,4,0,4,9:39 PM,3:31,Johnson REBOUND (Off:0 Def:4),,,,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+403,0021600719,480,2,42,4,9:39 PM,3:28,MISS Dragic 1' Driving Layup,,Booker BLOCK (1 BLK),,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,1
+404,0021600719,481,4,0,4,9:39 PM,3:27,,,Bogdanovic REBOUND (Off:0 Def:5),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+405,0021600719,482,2,1,4,9:39 PM,3:18,,,MISS Lopez 25' 3PT Jump Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+406,0021600719,483,4,0,4,9:39 PM,3:17,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+407,0021600719,484,1,5,4,9:40 PM,3:02,Reed 2' Layup (6 PTS) (Dragic 8 AST),,,90 - 97,7,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+408,0021600719,485,9,1,4,9:40 PM,3:02,,,Nets Timeout: Regular (Reg.4 Short 1),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+409,0021600719,489,2,1,4,9:42 PM,2:48,,,MISS LeVert 16' Jump Shot,,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+410,0021600719,490,4,0,4,9:42 PM,2:47,,,LeVert REBOUND (Off:2 Def:2),,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+411,0021600719,491,6,2,4,9:43 PM,2:34,Reed S.FOUL (P3.PN) (J.Tiven),,,,,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+412,0021600719,492,3,11,4,9:43 PM,2:34,,,Booker Free Throw 1 of 2 (11 PTS),91 - 97,6,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+413,0021600719,494,3,12,4,9:43 PM,2:34,,,MISS Booker Free Throw 2 of 2,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+414,0021600719,496,4,0,4,9:43 PM,2:33,McGruder REBOUND (Off:0 Def:1),,,,,4.0,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+415,0021600719,497,2,42,4,9:44 PM,2:11,MISS Waiters 2' Driving Layup,,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+416,0021600719,498,4,0,4,9:44 PM,2:10,,,Bogdanovic REBOUND (Off:0 Def:6),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+417,0021600719,499,1,3,4,9:44 PM,2:00,,,Booker 9' Hook Shot (13 PTS),93 - 97,4,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+418,0021600719,500,2,79,4,9:44 PM,1:41,MISS Dragic 12' Pullup Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+419,0021600719,501,4,0,4,9:44 PM,1:40,Reed REBOUND (Off:1 Def:5),,,,,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+420,0021600719,502,6,2,4,9:44 PM,1:30,,,Whitehead S.FOUL (P2.PN) (D.Stafford),,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+421,0021600719,503,3,11,4,9:45 PM,1:30,Dragic Free Throw 1 of 2 (17 PTS),,,93 - 98,5,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+422,0021600719,505,8,0,4,9:45 PM,1:30,SUB: Whiteside FOR Reed,,,,,4.0,203186,Willie Reed,1610612748.0,Miami,Heat,MIA,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+423,0021600719,506,3,12,4,9:45 PM,1:30,Dragic Free Throw 2 of 2 (18 PTS),,,93 - 99,6,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+424,0021600719,508,5,1,4,9:46 PM,1:20,Johnson STEAL (1 STL),,LeVert Bad Pass Turnover (P4.T14),,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+425,0021600719,509,10,0,4,9:46 PM,1:13,Jump Ball Dragic vs. Booker: Tip to Whiteside,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+426,0021600719,510,2,1,4,9:47 PM,0:58,MISS McGruder 25' 3PT Jump Shot,,,,,4.0,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+427,0021600719,512,4,0,4,9:47 PM,0:57,Johnson REBOUND (Off:1 Def:4),,,,,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+428,0021600719,511,1,107,4,9:47 PM,0:56,Johnson  Tip Dunk Shot (17 PTS),,,93 - 101,8,4.0,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+429,0021600719,513,9,1,4,9:47 PM,0:56,,,Nets Timeout: Regular (Reg.5 Short 1),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+430,0021600719,517,6,4,4,9:49 PM,0:52,,,Booker OFF.Foul (P3) (J.Tiven),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,4,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+431,0021600719,518,5,5,4,9:49 PM,0:52,,,Booker Foul Turnover (P4.T15),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+432,0021600719,519,8,0,4,9:49 PM,0:52,,,SUB: Hollis-Jefferson FOR Lopez,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+433,0021600719,520,6,1,4,9:49 PM,0:46,,,Whitehead P.FOUL (P3.PN) (J.Tiven),,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+434,0021600719,521,3,11,4,9:50 PM,0:46,Dragic Free Throw 1 of 2 (19 PTS),,,93 - 102,9,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+435,0021600719,523,8,0,4,9:50 PM,0:46,SUB: White FOR Whiteside,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+436,0021600719,524,8,0,4,9:50 PM,0:46,,,SUB: Lopez FOR Hollis-Jefferson,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+437,0021600719,525,3,12,4,9:50 PM,0:46,MISS Dragic Free Throw 2 of 2,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+438,0021600719,527,4,0,4,9:50 PM,0:45,,,LeVert REBOUND (Off:2 Def:3),,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+439,0021600719,528,9,2,4,9:50 PM,0:45,,,Nets Timeout: Short (Reg.5 Short 2),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+440,0021600719,531,8,0,4,9:51 PM,0:45,SUB: Whiteside FOR White,,,,,4.0,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+441,0021600719,532,5,2,4,9:52 PM,0:39,Johnson STEAL (2 STL),,Bogdanovic Lost Ball Turnover (P3.T16),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+442,0021600719,533,6,1,4,9:52 PM,0:34,,,Lopez P.FOUL (P2.PN) (S.Anderson),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+443,0021600719,534,3,11,4,9:52 PM,0:34,MISS Waiters Free Throw 1 of 2,,,,,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+444,0021600719,535,4,1,4,9:52 PM,0:34,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+445,0021600719,536,3,12,4,9:52 PM,0:34,Waiters Free Throw 2 of 2 (19 PTS),,,93 - 103,10,4.0,203079,Dion Waiters,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+446,0021600719,538,9,2,4,9:53 PM,0:34,,,Nets Timeout: Short (Reg.5 Short 3),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+447,0021600719,542,1,42,4,9:54 PM,0:29,,,Bogdanovic 2' Driving Layup (15 PTS),95 - 103,8,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+448,0021600719,543,6,2,4,9:54 PM,0:29,Whiteside S.FOUL (P6.PN) (J.Tiven),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+449,0021600719,544,8,0,4,9:54 PM,0:29,SUB: White FOR Whiteside,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,1627855,Okaro White,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+450,0021600719,545,8,0,4,9:54 PM,0:29,,,SUB: Hollis-Jefferson FOR Lopez,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+451,0021600719,546,3,10,4,9:54 PM,0:29,,,Bogdanovic Free Throw 1 of 1 (16 PTS),96 - 103,7,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+452,0021600719,548,6,1,4,9:55 PM,0:28,,,Hollis-Jefferson P.FOUL (P5.PN) (S.Anderson),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+453,0021600719,549,3,11,4,9:55 PM,0:28,MISS Dragic Free Throw 1 of 2,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+454,0021600719,550,4,1,4,9:55 PM,0:28,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+455,0021600719,551,8,0,4,9:55 PM,0:28,,,SUB: Lopez FOR Hollis-Jefferson,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+456,0021600719,552,3,12,4,9:55 PM,0:28,Dragic Free Throw 2 of 2 (20 PTS),,,96 - 104,8,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+457,0021600719,554,2,1,4,9:56 PM,0:17,,,MISS Whitehead 25' 3PT Jump Shot,,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+458,0021600719,555,4,0,4,9:56 PM,0:16,,,LeVert REBOUND (Off:3 Def:3),,,5.0,1627747,Caris LeVert,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+459,0021600719,556,2,1,4,9:56 PM,0:12,,,MISS Lopez 25' 3PT Jump Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+460,0021600719,557,4,0,4,9:56 PM,0:11,,,Whitehead REBOUND (Off:2 Def:2),,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+461,0021600719,558,2,5,4,9:56 PM,0:10,Johnson BLOCK (3 BLK),,MISS Whitehead 1' Layup,,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,201949,James Johnson,1610612748.0,Miami,Heat,MIA,1
+462,0021600719,559,4,0,4,9:56 PM,0:09,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+463,0021600719,560,13,0,4,9:56 PM,0:00,,,,96 - 104,8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

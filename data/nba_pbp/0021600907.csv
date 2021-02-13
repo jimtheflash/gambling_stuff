@@ -1,0 +1,455 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021600907,0,12,0,1,9:11 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021600907,1,10,0,1,9:11 PM,12:00,Jump Ball Len vs. Kaminsky: Tip to Chriss,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,4,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,1
+2,0021600907,2,2,1,1,9:11 PM,11:42,MISS Len 19' Jump Shot,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+3,0021600907,3,4,0,1,9:11 PM,11:42,,,Batum REBOUND (Off:0 Def:1),,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+4,0021600907,4,1,98,1,9:12 PM,11:31,,,Williams 2' Cutting Layup Shot (2 PTS) (Batum 1 AST),2 - 0,-2,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+5,0021600907,5,1,98,1,9:12 PM,11:14,Warren  Cutting Layup Shot (2 PTS) (Len 1 AST),,,2 - 2,TIE,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+6,0021600907,6,2,3,1,9:12 PM,10:56,,,MISS Kidd-Gilchrist 3' Hook Shot,,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+7,0021600907,7,4,0,1,9:12 PM,10:54,,,Kidd-Gilchrist REBOUND (Off:1 Def:0),,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+8,0021600907,8,6,27,1,9:12 PM,10:52,Bledsoe Personal Block Foul (P1.T1) (C.Blair),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+9,0021600907,9,2,66,1,9:13 PM,10:40,,,MISS Walker 4' Jump Bank Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+10,0021600907,10,4,0,1,9:13 PM,10:36,Len REBOUND (Off:0 Def:1),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+11,0021600907,11,1,1,1,9:13 PM,10:27,Chriss 24' 3PT Jump Shot (3 PTS) (Warren 1 AST),,,2 - 5,3,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+12,0021600907,12,2,79,1,9:13 PM,10:12,,,MISS Batum 25' 3PT Pullup Jump Shot,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+13,0021600907,13,4,0,1,9:13 PM,10:11,Bledsoe REBOUND (Off:0 Def:1),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+14,0021600907,14,2,1,1,9:13 PM,10:01,MISS Chriss 3' Jump Shot,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+15,0021600907,15,4,0,1,9:13 PM,10:00,,,Kidd-Gilchrist REBOUND (Off:1 Def:1),,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+16,0021600907,16,2,5,1,9:13 PM,9:52,Warren BLOCK (1 BLK),,MISS Kidd-Gilchrist 2' Layup,,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,1
+17,0021600907,17,4,0,1,9:14 PM,9:51,Len REBOUND (Off:0 Def:2),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+18,0021600907,18,1,79,1,9:14 PM,9:45,Bledsoe 16' Pullup Jump Shot (2 PTS),,,2 - 7,5,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+19,0021600907,19,1,1,1,9:14 PM,9:31,,,Williams 25' 3PT Jump Shot (5 PTS) (Walker 1 AST),5 - 7,2,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+20,0021600907,20,5,2,1,9:14 PM,9:05,Chriss Lost Ball Turnover (P1.T1),,Walker STEAL (1 STL),,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+21,0021600907,21,1,42,1,9:14 PM,9:05,,,Walker 1' Driving Layup (2 PTS),7 - 7,TIE,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+22,0021600907,22,9,1,1,9:14 PM,9:01,SUNS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+23,0021600907,24,8,0,1,9:16 PM,9:01,SUB: Dudley FOR Chriss,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+24,0021600907,26,1,1,1,9:17 PM,8:56,Booker 18' Jump Shot (2 PTS) (Bledsoe 1 AST),,,7 - 9,2,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+25,0021600907,27,2,1,1,9:17 PM,8:42,,,MISS Kaminsky 26' 3PT Jump Shot,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+26,0021600907,28,4,0,1,9:17 PM,8:42,Booker REBOUND (Off:0 Def:1),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+27,0021600907,29,5,1,1,9:17 PM,8:36,Booker Bad Pass Turnover (P1.T2),,Kidd-Gilchrist STEAL (1 STL),,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+28,0021600907,30,1,1,1,9:17 PM,8:30,,,Walker 26' 3PT Jump Shot (5 PTS) (Batum 2 AST),10 - 9,-1,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+29,0021600907,31,5,2,1,9:18 PM,8:20,Bledsoe Lost Ball Turnover (P1.T3),,Kidd-Gilchrist STEAL (2 STL),,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+30,0021600907,32,1,1,1,9:18 PM,8:04,,,Williams 26' 3PT Jump Shot (8 PTS) (Walker 2 AST),13 - 9,-4,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+31,0021600907,33,2,79,1,9:18 PM,7:47,MISS Booker 26' 3PT Pullup Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+32,0021600907,34,4,0,1,9:18 PM,7:47,,,Williams REBOUND (Off:0 Def:1),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+33,0021600907,35,1,1,1,9:18 PM,7:35,,,Kidd-Gilchrist 17' Jump Shot (2 PTS),15 - 9,-6,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+34,0021600907,36,1,1,1,9:18 PM,7:21,Dudley 19' Jump Shot (2 PTS) (Booker 1 AST),,,15 - 11,-4,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+35,0021600907,37,2,98,1,9:19 PM,6:59,,,MISS Williams 2' Cutting Layup Shot,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+36,0021600907,40,4,0,1,9:19 PM,6:57,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+37,0021600907,41,8,0,1,9:19 PM,6:57,,,SUB: Zeller FOR Williams,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+38,0021600907,42,1,79,1,9:19 PM,6:42,,,Walker 15' Pullup Jump Shot (7 PTS),17 - 11,-6,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+39,0021600907,43,5,1,1,9:20 PM,6:22,Warren Bad Pass Turnover (P1.T4),,Kidd-Gilchrist STEAL (3 STL),,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+40,0021600907,44,1,79,1,9:20 PM,6:12,,,Batum 25' 3PT Pullup Jump Shot (3 PTS),20 - 11,-9,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+41,0021600907,45,9,1,1,9:20 PM,6:12,SUNS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+42,0021600907,47,8,0,1,9:22 PM,6:12,SUB: Williams FOR Len,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+43,0021600907,49,6,2,1,9:23 PM,6:03,,,Walker S.FOUL (P1.T1) (J.Williams),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+44,0021600907,51,18,0,1,9:23 PM,6:03,,,,,,,49,Gheorghe Muresan,,,,,0,0,,,,,,1,0,,,,,,0
+45,0021600907,52,3,13,1,9:23 PM,6:03,MISS Bledsoe Free Throw 1 of 3,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+46,0021600907,53,4,1,1,9:23 PM,6:03,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+47,0021600907,54,3,14,1,9:24 PM,6:03,Bledsoe Free Throw 2 of 3 (3 PTS),,,20 - 12,-8,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+48,0021600907,56,3,15,1,9:24 PM,6:03,Bledsoe Free Throw 3 of 3 (4 PTS),,,20 - 13,-7,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+49,0021600907,58,6,2,1,9:24 PM,5:51,Booker S.FOUL (P1.T2) (R.Garretson),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+50,0021600907,59,3,13,1,9:25 PM,5:51,,,Batum Free Throw 1 of 3 (4 PTS),21 - 13,-8,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+51,0021600907,61,3,14,1,9:25 PM,5:51,,,Batum Free Throw 2 of 3 (5 PTS),22 - 13,-9,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+52,0021600907,63,3,15,1,9:25 PM,5:51,,,Batum Free Throw 3 of 3 (6 PTS),23 - 13,-10,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+53,0021600907,65,1,1,1,9:25 PM,5:38,Williams 9' Jump Shot (2 PTS) (Booker 2 AST),,,23 - 15,-8,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+54,0021600907,66,5,1,1,9:26 PM,5:23,,,Batum Bad Pass Turnover (P1.T1),,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+55,0021600907,67,2,1,1,9:26 PM,5:10,MISS Warren  3PT Jump Shot,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+56,0021600907,68,4,0,1,9:26 PM,5:10,,,Walker REBOUND (Off:0 Def:1),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+57,0021600907,69,2,73,1,9:26 PM,5:00,,,MISS Walker 1' Driving Reverse Layup,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+58,0021600907,70,4,0,1,9:26 PM,4:53,Williams REBOUND (Off:0 Def:1),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+59,0021600907,71,2,5,1,9:26 PM,4:50,MISS Booker  Layup,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+60,0021600907,73,4,0,1,9:26 PM,4:50,Warren REBOUND (Off:1 Def:0),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+61,0021600907,72,1,107,1,9:26 PM,4:50,Warren  Tip Dunk Shot (4 PTS),,,23 - 17,-6,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+62,0021600907,74,2,5,1,9:27 PM,4:37,Williams BLOCK (1 BLK),,MISS Kaminsky 1' Layup,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,1
+63,0021600907,75,4,0,1,9:27 PM,4:34,,,Zeller REBOUND (Off:1 Def:0),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+64,0021600907,76,1,72,1,9:27 PM,4:30,,,Zeller 1' Putback Layup (2 PTS),25 - 17,-8,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+65,0021600907,77,1,1,1,9:27 PM,4:10,Bledsoe 26' 3PT Jump Shot (7 PTS) (Booker 3 AST),,,25 - 20,-5,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+66,0021600907,78,1,5,1,9:27 PM,3:49,,,Zeller 2' Layup (4 PTS) (Batum 3 AST),27 - 20,-7,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+67,0021600907,79,6,1,1,9:27 PM,3:44,,,Zeller P.FOUL (P1.T2) (R.Garretson),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+68,0021600907,80,8,0,1,9:28 PM,3:44,"SUB: Jones, Jr. FOR Warren",,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,1627884,Derrick Jones Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+69,0021600907,81,8,0,1,9:28 PM,3:44,,,SUB: Williams FOR Kidd-Gilchrist,,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+70,0021600907,82,8,0,1,9:28 PM,3:44,,,SUB: Lamb FOR Kaminsky,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+71,0021600907,83,2,1,1,9:28 PM,3:39,MISS Bledsoe 17' Jump Shot,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+72,0021600907,84,4,0,1,9:28 PM,3:39,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+73,0021600907,85,2,1,1,9:28 PM,3:30,MISS Booker 23' Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+74,0021600907,86,4,0,1,9:28 PM,3:30,,,Walker REBOUND (Off:0 Def:2),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+75,0021600907,87,2,1,1,9:29 PM,3:16,,,MISS Williams 11' Jump Shot,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+76,0021600907,88,4,0,1,9:29 PM,3:15,,,Zeller REBOUND (Off:2 Def:0),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+77,0021600907,89,1,42,1,9:29 PM,3:09,,,Williams 1' Driving Layup (10 PTS),29 - 20,-9,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+78,0021600907,90,6,2,1,9:29 PM,3:09,Williams S.FOUL (P1.T3) (R.Garretson),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+79,0021600907,91,8,0,1,9:29 PM,3:09,SUB: Ulis FOR Bledsoe,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+80,0021600907,92,8,0,1,9:29 PM,3:09,,,SUB: Roberts FOR Walker,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+81,0021600907,93,3,10,1,9:29 PM,3:09,,,Williams Free Throw 1 of 1 (11 PTS),30 - 20,-10,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+82,0021600907,95,1,98,1,9:30 PM,2:53,Williams  Cutting Layup Shot (4 PTS) (Booker 4 AST),,,30 - 22,-8,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+83,0021600907,96,2,47,1,9:30 PM,2:29,,,MISS Batum 16' Turnaround Jump Shot,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+84,0021600907,97,4,0,1,9:30 PM,2:28,Williams REBOUND (Off:0 Def:2),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+85,0021600907,98,1,98,1,9:30 PM,2:20,Williams 2' Cutting Layup Shot (6 PTS) (Ulis 1 AST),,,30 - 24,-6,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+86,0021600907,99,2,1,1,9:30 PM,2:03,,,MISS Batum 26' 3PT Jump Shot,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+87,0021600907,100,4,0,1,9:30 PM,2:03,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+88,0021600907,101,8,0,1,9:30 PM,2:03,,,SUB: Belinelli FOR Batum,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,5,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+89,0021600907,102,1,47,1,9:31 PM,1:50,Booker 6' Turnaround Jump Shot (4 PTS),,,30 - 26,-4,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+90,0021600907,103,5,1,1,9:31 PM,1:38,Ulis STEAL (1 STL),,Roberts Bad Pass Turnover (P1.T2),,,5.0,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+91,0021600907,104,2,1,1,9:31 PM,1:27,MISS Dudley 25' 3PT Jump Shot,,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+92,0021600907,105,4,0,1,9:31 PM,1:26,,,Roberts REBOUND (Off:0 Def:1),,,5.0,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+93,0021600907,106,6,2,1,9:31 PM,1:17,Williams S.FOUL (P2.T4) (J.Williams),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+94,0021600907,107,3,11,1,9:32 PM,1:17,,,Williams Free Throw 1 of 2 (12 PTS),31 - 26,-5,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+95,0021600907,109,3,12,1,9:32 PM,1:17,,,Williams Free Throw 2 of 2 (13 PTS),32 - 26,-6,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+96,0021600907,111,1,98,1,9:32 PM,1:04,"Jones, Jr. 2' Cutting Layup Shot (2 PTS) (Booker 5 AST)",,,32 - 28,-4,4.0,1627884,Derrick Jones Jr.,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+97,0021600907,112,2,79,1,9:33 PM,0:46,,,MISS Lamb 18' Pullup Jump Shot,,,5.0,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+98,0021600907,113,4,0,1,9:33 PM,0:44,Booker REBOUND (Off:0 Def:2),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+99,0021600907,114,5,1,1,9:33 PM,0:41,Booker Bad Pass Turnover (P2.T5),,Lamb STEAL (1 STL),,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+100,0021600907,115,5,2,1,9:33 PM,0:26,"Jones, Jr. STEAL (1 STL)",,Williams Lost Ball Turnover (P1.T3),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,4,1627884,Derrick Jones Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+101,0021600907,116,2,1,1,9:33 PM,0:21,MISS Booker 26' 3PT Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+102,0021600907,117,4,0,1,9:33 PM,0:19,,,Lamb REBOUND (Off:0 Def:1),,,5.0,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+103,0021600907,118,2,1,1,9:33 PM,0:00,,,MISS Belinelli 27' 3PT Jump Shot,,,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+104,0021600907,120,4,0,1,9:34 PM,0:00,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+105,0021600907,119,13,0,1,9:34 PM,0:00,,,,32 - 28,-4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+106,0021600907,122,12,0,2,9:36 PM,12:00,,,,32 - 28,-4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+107,0021600907,123,2,1,2,9:36 PM,11:46,,,MISS Kaminsky 26' 3PT Jump Shot,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+108,0021600907,124,4,0,2,9:36 PM,11:45,Dudley REBOUND (Off:0 Def:1),,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+109,0021600907,125,2,1,2,9:37 PM,11:29,MISS Dudley 25' 3PT Jump Shot,,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+110,0021600907,126,4,0,2,9:37 PM,11:29,,,Lamb REBOUND (Off:0 Def:2),,,5.0,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+111,0021600907,127,1,57,2,9:37 PM,11:11,,,Kaminsky 3' Driving Hook Shot (2 PTS),34 - 28,-6,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+112,0021600907,128,5,1,2,9:37 PM,10:58,Barbosa Bad Pass Turnover (P1.T6),,Kaminsky STEAL (1 STL),,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,5,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+113,0021600907,129,5,1,2,9:37 PM,10:56,Ulis STEAL (2 STL),,Kaminsky Bad Pass Turnover (P1.T4),,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+114,0021600907,130,1,79,2,9:37 PM,10:55,Ulis 16' Pullup Jump Shot (2 PTS),,,34 - 30,-4,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+115,0021600907,131,6,1,2,9:38 PM,10:40,Dudley P.FOUL (P1.T1) (C.Blair),,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,5,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+116,0021600907,132,1,79,2,9:38 PM,10:33,,,Belinelli 19' Pullup Jump Shot (2 PTS),36 - 30,-6,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+117,0021600907,133,1,98,2,9:38 PM,10:12,Williams 2' Cutting Layup Shot (8 PTS) (Barbosa 1 AST),,,36 - 32,-4,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,4,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+118,0021600907,134,9,1,2,9:38 PM,10:07,,,Hornets Timeout: Regular (Reg.1 Short 0),,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+119,0021600907,138,6,2,2,9:41 PM,10:02,Barbosa S.FOUL (P1.T2) (C.Blair),,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+120,0021600907,139,3,13,2,9:41 PM,10:02,,,Roberts Free Throw 1 of 3 (1 PTS),37 - 32,-5,5.0,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+121,0021600907,141,3,14,2,9:42 PM,10:02,,,MISS Roberts Free Throw 2 of 3,,,5.0,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+122,0021600907,142,4,1,2,9:42 PM,10:02,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+123,0021600907,143,3,15,2,9:42 PM,10:02,,,Roberts Free Throw 3 of 3 (2 PTS),38 - 32,-6,5.0,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+124,0021600907,146,6,1,2,9:42 PM,9:53,,,Williams P.FOUL (P1.T1) (J.Williams),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,4,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+125,0021600907,147,1,1,2,9:43 PM,9:42,Barbosa 24' 3PT Jump Shot (3 PTS) (Ulis 2 AST),,,38 - 35,-3,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+126,0021600907,149,2,78,2,9:43 PM,9:13,,,MISS Williams 13' Floating Jump Shot,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+127,0021600907,150,4,0,2,9:43 PM,9:10,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+128,0021600907,151,8,0,2,9:43 PM,9:10,,,SUB: Kidd-Gilchrist FOR Williams,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+129,0021600907,152,2,1,2,9:44 PM,8:57,MISS Barbosa 24' 3PT Jump Shot,,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+130,0021600907,153,4,0,2,9:44 PM,8:57,,,Kaminsky REBOUND (Off:0 Def:1),,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+131,0021600907,154,2,1,2,9:44 PM,8:38,,,MISS Roberts 25' 3PT Jump Shot,,,5.0,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+132,0021600907,155,4,0,2,9:44 PM,8:37,,,Kidd-Gilchrist REBOUND (Off:2 Def:1),,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+133,0021600907,156,2,1,2,9:44 PM,8:32,,,MISS Kaminsky 25' 3PT Jump Shot,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+134,0021600907,157,4,0,2,9:44 PM,8:32,Williams REBOUND (Off:0 Def:3),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+135,0021600907,158,1,78,2,9:44 PM,8:22,Ulis 13' Floating Jump Shot (4 PTS),,,38 - 37,-1,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+136,0021600907,159,2,1,2,9:45 PM,8:00,,,MISS Belinelli 26' 3PT Jump Shot,,,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+137,0021600907,160,4,0,2,9:45 PM,8:00,Barbosa REBOUND (Off:0 Def:1),,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+138,0021600907,161,6,26,2,9:45 PM,7:56,Barbosa Offensive Charge Foul (P2.T3) (C.Blair),,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+139,0021600907,162,5,5,2,9:45 PM,7:56,Barbosa Foul Turnover (P2.T7),,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+140,0021600907,163,8,0,2,9:45 PM,7:56,SUB: Chriss FOR Williams,,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,4,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+141,0021600907,164,8,0,2,9:45 PM,7:56,,,SUB: Batum FOR Kaminsky,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+142,0021600907,165,8,0,2,9:45 PM,7:56,,,SUB: Walker FOR Lamb,,,5.0,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+143,0021600907,166,8,0,2,9:45 PM,7:56,,,SUB: Zeller FOR Roberts,,,5.0,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+144,0021600907,167,1,98,2,9:45 PM,7:42,,,Walker 2' Cutting Layup Shot (9 PTS) (Zeller 1 AST),40 - 37,-3,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+145,0021600907,168,1,98,2,9:46 PM,7:27,Chriss 1' Cutting Layup Shot (5 PTS) (Dudley 1 AST),,,40 - 39,-1,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+146,0021600907,169,2,66,2,9:46 PM,7:12,,,MISS Zeller 3' Jump Bank Shot,,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+147,0021600907,170,4,0,2,9:46 PM,7:10,,,Kidd-Gilchrist REBOUND (Off:3 Def:1),,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+148,0021600907,171,2,1,2,9:46 PM,7:05,,,MISS Kidd-Gilchrist 8' Jump Shot,,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+149,0021600907,172,4,0,2,9:46 PM,7:03,,,Kidd-Gilchrist REBOUND (Off:4 Def:1),,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+150,0021600907,173,1,5,2,9:46 PM,7:00,,,Kidd-Gilchrist 1' Layup (4 PTS),42 - 39,-3,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+151,0021600907,174,2,1,2,9:46 PM,6:51,MISS Barbosa  3PT Jump Shot,,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+152,0021600907,175,4,0,2,9:46 PM,6:49,,,Batum REBOUND (Off:0 Def:2),,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+153,0021600907,176,1,41,2,9:46 PM,6:41,,,Walker 2' Running Layup (11 PTS),44 - 39,-5,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+154,0021600907,177,6,2,2,9:46 PM,6:41,"Jones, Jr. S.FOUL (P1.T4) (R.Garretson)",,,,,4.0,1627884,Derrick Jones Jr.,1610612756.0,Phoenix,Suns,PHX,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+155,0021600907,178,8,0,2,9:47 PM,6:41,SUB: Warren FOR Dudley,,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+156,0021600907,179,3,10,2,9:47 PM,6:41,,,Walker Free Throw 1 of 1 (12 PTS),45 - 39,-6,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+157,0021600907,181,2,79,2,9:47 PM,6:32,MISS Ulis 21' Pullup Jump Shot,,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+158,0021600907,182,4,0,2,9:47 PM,6:30,,,Zeller REBOUND (Off:2 Def:1),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+159,0021600907,183,2,63,2,9:47 PM,6:23,,,MISS Batum 15' Fadeaway Jumper,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+160,0021600907,184,4,0,2,9:47 PM,6:20,,,Kidd-Gilchrist REBOUND (Off:5 Def:1),,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+161,0021600907,185,6,2,2,9:48 PM,6:09,Barbosa S.FOUL (P3.PN) (R.Garretson),,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,5,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+162,0021600907,186,3,11,2,9:48 PM,6:09,,,Belinelli Free Throw 1 of 2 (3 PTS),46 - 39,-7,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+163,0021600907,188,8,0,2,9:48 PM,6:09,SUB: Booker FOR Ulis,,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+164,0021600907,189,8,0,2,9:48 PM,6:09,"SUB: Bledsoe FOR Jones, Jr.",,,,,4.0,1627884,Derrick Jones Jr.,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+165,0021600907,191,3,12,2,9:49 PM,6:09,,,Belinelli Free Throw 2 of 2 (4 PTS),47 - 39,-8,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+166,0021600907,193,1,1,2,9:49 PM,5:46,Chriss 24' 3PT Jump Shot (8 PTS) (Bledsoe 2 AST),,,47 - 42,-5,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+167,0021600907,194,1,79,2,9:49 PM,5:32,,,Walker 25' 3PT Pullup Jump Shot (15 PTS),50 - 42,-8,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+168,0021600907,195,2,1,2,9:50 PM,5:14,MISS Barbosa 25' 3PT Jump Shot,,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+169,0021600907,196,4,0,2,9:50 PM,5:13,,,Batum REBOUND (Off:0 Def:3),,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+170,0021600907,197,2,42,2,9:50 PM,5:05,,,MISS Walker 1' Driving Layup,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+171,0021600907,198,4,0,2,9:50 PM,5:05,Bledsoe REBOUND (Off:0 Def:2),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+172,0021600907,199,1,41,2,9:50 PM,5:01,Barbosa 2' Running Layup (5 PTS) (Booker 6 AST),,,50 - 44,-6,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+173,0021600907,200,6,2,2,9:50 PM,5:01,,,Kidd-Gilchrist S.FOUL (P1.T2) (R.Garretson),,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,4,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+174,0021600907,201,9,4,2,9:50 PM,5:01,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+175,0021600907,204,8,0,2,9:52 PM,5:01,,,SUB: Kaminsky FOR Zeller,,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+176,0021600907,205,3,10,2,9:52 PM,5:01,Barbosa Free Throw 1 of 1 (6 PTS),,,50 - 45,-5,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+177,0021600907,209,2,1,2,9:53 PM,4:40,,,MISS Batum 12' Jump Shot,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+178,0021600907,210,4,0,2,9:53 PM,4:39,Warren REBOUND (Off:1 Def:1),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+179,0021600907,211,1,66,2,9:53 PM,4:34,Bledsoe 10' Jump Bank Shot (9 PTS),,,50 - 47,-3,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+180,0021600907,212,6,2,2,9:53 PM,4:34,,,Kidd-Gilchrist S.FOUL (P2.T3) (J.Williams),,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+181,0021600907,213,3,10,2,9:54 PM,4:34,Bledsoe Free Throw 1 of 1 (10 PTS),,,50 - 48,-2,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+182,0021600907,215,2,1,2,9:54 PM,4:17,,,MISS Batum 26' 3PT Jump Shot,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+183,0021600907,216,4,0,2,9:54 PM,4:15,Warren REBOUND (Off:1 Def:2),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+184,0021600907,217,1,98,2,9:54 PM,4:06,Booker 2' Cutting Layup Shot (6 PTS) (Bledsoe 3 AST),,,50 - 50,TIE,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+185,0021600907,218,9,1,2,9:54 PM,3:59,,,Hornets Timeout: Regular (Reg.2 Short 0),,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+186,0021600907,221,8,0,2,9:57 PM,3:59,,,SUB: Williams FOR Kidd-Gilchrist,,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+187,0021600907,222,2,1,2,9:57 PM,3:40,,,MISS Walker  3PT Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+188,0021600907,223,4,0,2,9:57 PM,3:40,,,Williams REBOUND (Off:1 Def:1),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+189,0021600907,224,5,40,2,9:57 PM,3:34,,,Belinelli Out of Bounds Lost Ball Turnover (P1.T5),,,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+190,0021600907,226,1,82,2,9:58 PM,3:22,Barbosa 4' Driving Bank Shot (8 PTS) (Booker 7 AST),,,50 - 52,2,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+191,0021600907,228,6,2,2,9:58 PM,3:09,Chriss S.FOUL (P1.PN) (C.Blair),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+192,0021600907,229,3,11,2,9:58 PM,3:09,,,Walker Free Throw 1 of 2 (16 PTS),51 - 52,1,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+193,0021600907,231,3,12,2,9:58 PM,3:09,,,MISS Walker Free Throw 2 of 2,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+194,0021600907,233,4,0,2,9:59 PM,3:08,Warren REBOUND (Off:1 Def:3),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+195,0021600907,234,6,1,2,9:59 PM,2:50,,,Batum P.FOUL (P1.T4) (R.Garretson),,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+196,0021600907,235,1,1,2,9:59 PM,2:37,Booker 24' 3PT Jump Shot (9 PTS) (Bledsoe 4 AST),,,51 - 55,4,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+197,0021600907,236,1,1,2,10:00 PM,2:17,,,Belinelli 22' Jump Shot (6 PTS) (Walker 3 AST),53 - 55,2,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+198,0021600907,237,2,79,2,10:00 PM,2:02,MISS Booker 19' Pullup Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+199,0021600907,238,4,0,2,10:00 PM,2:01,,,Walker REBOUND (Off:0 Def:3),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+200,0021600907,239,2,42,2,10:00 PM,1:54,,,MISS Walker 2' Driving Layup,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+201,0021600907,240,4,0,2,10:00 PM,1:54,Booker REBOUND (Off:0 Def:3),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+202,0021600907,241,6,29,2,10:00 PM,1:49,,,Kaminsky Shooting Block Foul (P1.PN) (J.Williams),,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+203,0021600907,242,3,11,2,10:01 PM,1:49,Booker Free Throw 1 of 2 (10 PTS),,,53 - 56,3,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+204,0021600907,244,3,12,2,10:01 PM,1:49,Booker Free Throw 2 of 2 (11 PTS),,,53 - 57,4,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+205,0021600907,246,1,57,2,10:01 PM,1:32,,,Kaminsky 4' Driving Hook Shot (4 PTS) (Batum 4 AST),55 - 57,2,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+206,0021600907,247,1,43,2,10:02 PM,1:16,Chriss 2' Alley Oop Layup (10 PTS) (Bledsoe 5 AST),,,55 - 59,4,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+207,0021600907,251,6,5,2,10:04 PM,0:58,Chriss IN.FOUL (P2.PN) (J.Williams),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+208,0021600907,252,3,10,2,10:04 PM,0:58,,,Belinelli Free Throw 1 of 1 (7 PTS),56 - 59,3,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+209,0021600907,254,2,1,2,10:04 PM,0:48,Bledsoe BLOCK (1 BLK),,MISS Walker 25' 3PT Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,1
+210,0021600907,255,4,0,2,10:04 PM,0:47,Chriss REBOUND (Off:0 Def:1),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+211,0021600907,256,1,42,2,10:04 PM,0:37,Barbosa 1' Driving Layup (10 PTS),,,56 - 61,5,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+212,0021600907,257,1,42,2,10:05 PM,0:25,,,Walker 2' Driving Layup (18 PTS),58 - 61,3,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+213,0021600907,258,5,1,2,10:05 PM,0:05,Bledsoe Bad Pass Turnover (P2.T8),,Williams STEAL (1 STL),,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+214,0021600907,259,2,1,2,10:05 PM,0:00,,,MISS Walker 25' 3PT Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+215,0021600907,261,4,0,2,10:05 PM,0:00,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+216,0021600907,260,13,0,2,10:05 PM,0:00,,,,58 - 61,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+217,0021600907,263,12,0,3,10:21 PM,12:00,,,,58 - 61,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+218,0021600907,264,1,47,3,10:21 PM,11:49,,,Batum 15' Turnaround Jump Shot (8 PTS),60 - 61,1,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+219,0021600907,265,6,2,3,10:21 PM,11:49,Booker S.FOUL (P2.T1) (J.Williams),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+220,0021600907,266,3,10,3,10:21 PM,11:49,,,Batum Free Throw 1 of 1 (9 PTS),61 - 61,TIE,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+221,0021600907,268,6,2,3,10:22 PM,11:32,,,Walker S.FOUL (P2.T1) (C.Blair),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+222,0021600907,269,3,11,3,10:22 PM,11:32,Bledsoe Free Throw 1 of 2 (11 PTS),,,61 - 62,1,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+223,0021600907,271,3,12,3,10:22 PM,11:32,Bledsoe Free Throw 2 of 2 (12 PTS),,,61 - 63,2,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+224,0021600907,273,5,1,3,10:23 PM,11:15,Bledsoe STEAL (1 STL),,Batum Bad Pass Turnover (P2.T6),,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+225,0021600907,274,1,41,3,10:23 PM,11:09,Warren 2' Running Layup (6 PTS) (Bledsoe 6 AST),,,61 - 65,4,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+226,0021600907,276,1,5,3,10:23 PM,10:47,,,Kaminsky 2' Layup (6 PTS) (Walker 4 AST),63 - 65,2,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+227,0021600907,277,2,47,3,10:24 PM,10:30,MISS Chriss 12' Turnaround Jump Shot,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+228,0021600907,278,4,0,3,10:24 PM,10:29,Warren REBOUND (Off:2 Def:3),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+229,0021600907,279,1,97,3,10:24 PM,10:26,Warren 1' Tip Layup Shot (8 PTS),,,63 - 67,4,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+230,0021600907,280,1,1,3,10:24 PM,10:14,,,Kaminsky 12' Jump Shot (8 PTS) (Walker 5 AST),65 - 67,2,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+231,0021600907,281,5,1,3,10:24 PM,9:58,Booker Bad Pass Turnover (P3.T9),,Walker STEAL (2 STL),,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+232,0021600907,282,1,41,3,10:24 PM,9:52,,,Walker 2' Running Layup (20 PTS),67 - 67,TIE,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+233,0021600907,283,6,2,3,10:25 PM,9:35,,,Kaminsky S.FOUL (P2.T2) (C.Blair),,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+234,0021600907,284,3,11,3,10:25 PM,9:35,Bledsoe Free Throw 1 of 2 (13 PTS),,,67 - 68,1,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+235,0021600907,286,3,12,3,10:25 PM,9:35,Bledsoe Free Throw 2 of 2 (14 PTS),,,67 - 69,2,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+236,0021600907,288,1,1,3,10:26 PM,9:19,,,Kaminsky 25' 3PT Jump Shot (11 PTS) (Walker 6 AST),70 - 69,-1,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+237,0021600907,289,6,2,3,10:26 PM,9:11,,,Kaminsky S.FOUL (P3.T3) (R.Garretson),,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,4,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+238,0021600907,290,3,11,3,10:26 PM,9:11,Chriss Free Throw 1 of 2 (11 PTS),,,70 - 70,TIE,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+239,0021600907,292,3,12,3,10:26 PM,9:11,Chriss Free Throw 2 of 2 (12 PTS),,,70 - 71,1,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+240,0021600907,294,2,1,3,10:27 PM,8:54,,,MISS Batum 25' 3PT Jump Shot,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+241,0021600907,295,4,0,3,10:27 PM,8:54,Len REBOUND (Off:0 Def:3),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+242,0021600907,296,1,7,3,10:27 PM,8:38,Len  Dunk (2 PTS),,,70 - 73,3,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+243,0021600907,297,6,1,3,10:27 PM,8:27,Chriss P.FOUL (P3.T2) (C.Blair),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+244,0021600907,298,2,42,3,10:28 PM,8:16,,,MISS Walker 2' Driving Layup,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+245,0021600907,299,4,0,3,10:28 PM,8:14,Warren REBOUND (Off:2 Def:4),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+246,0021600907,300,1,41,3,10:28 PM,8:09,Warren 2' Running Layup (10 PTS),,,70 - 75,5,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+247,0021600907,301,2,1,3,10:28 PM,7:52,,,MISS Kaminsky 3' Jump Shot,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+248,0021600907,302,4,0,3,10:28 PM,7:52,Warren REBOUND (Off:2 Def:5),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+249,0021600907,303,1,1,3,10:28 PM,7:44,Chriss  3PT Jump Shot (15 PTS) (Booker 8 AST),,,70 - 78,8,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+250,0021600907,304,9,1,3,10:28 PM,7:44,,,Hornets Timeout: Regular (Reg.3 Short 0),,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+251,0021600907,307,8,0,3,10:31 PM,7:44,,,SUB: Zeller FOR Williams,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+252,0021600907,308,2,1,3,10:31 PM,7:35,,,MISS Walker 25' 3PT Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+253,0021600907,309,4,0,3,10:31 PM,7:34,Bledsoe REBOUND (Off:0 Def:3),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+254,0021600907,310,1,3,3,10:31 PM,7:15,Len 4' Hook Shot (4 PTS),,,70 - 80,10,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+255,0021600907,311,1,1,3,10:32 PM,7:03,,,Walker 16' Jump Shot (22 PTS),72 - 80,8,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+256,0021600907,312,6,2,3,10:32 PM,7:03,Bledsoe S.FOUL (P2.T3) (R.Garretson),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+257,0021600907,313,3,10,3,10:32 PM,7:03,,,Walker Free Throw 1 of 1 (23 PTS),73 - 80,7,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+258,0021600907,315,1,1,3,10:32 PM,6:48,Warren 18' Jump Shot (12 PTS) (Booker 9 AST),,,73 - 82,9,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+259,0021600907,317,6,6,3,10:33 PM,6:48,,,Zeller AWAY.FROM.PLAY.FOUL (P2.T4) (R.Garretson),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+260,0021600907,319,3,10,3,10:33 PM,6:48,Len Free Throw 1 of 1 (5 PTS),,,73 - 83,10,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+261,0021600907,336,2,45,3,10:33 PM,6:37,,,MISS Kidd-Gilchrist 16' Jump Shot,,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+262,0021600907,340,4,0,3,10:33 PM,6:35,Len REBOUND (Off:0 Def:4),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+263,0021600907,322,5,1,3,10:33 PM,6:23,Bledsoe Bad Pass Turnover (P3.T10),,Kidd-Gilchrist STEAL (4 STL),,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+264,0021600907,323,6,26,3,10:34 PM,6:19,,,Kidd-Gilchrist Offensive Charge Foul (P3.PN) (R.Garretson),,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+265,0021600907,324,5,5,3,10:34 PM,6:19,,,Kidd-Gilchrist Foul Turnover (P1.T7),,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+266,0021600907,325,1,108,3,10:34 PM,6:04,Chriss  Cutting Dunk Shot (17 PTS) (Bledsoe 7 AST),,,73 - 85,12,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+267,0021600907,326,1,1,3,10:34 PM,5:44,,,Kidd-Gilchrist 14' Jump Shot (6 PTS) (Zeller 2 AST),75 - 85,10,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+268,0021600907,327,2,1,3,10:35 PM,5:27,MISS Chriss 26' 3PT Jump Shot,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+269,0021600907,328,4,0,3,10:35 PM,5:26,,,Zeller REBOUND (Off:2 Def:2),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+270,0021600907,329,1,1,3,10:35 PM,5:16,,,Kaminsky 26' 3PT Jump Shot (14 PTS) (Walker 7 AST),78 - 85,7,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+271,0021600907,330,9,1,3,10:35 PM,5:12,SUNS Timeout: Regular (Full 3 Short 0),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+272,0021600907,335,5,1,3,10:38 PM,5:05,Booker Bad Pass Turnover (P4.T11),,Kaminsky STEAL (2 STL),,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+273,0021600907,337,5,45,3,10:38 PM,4:54,,,Batum Out of Bounds - Bad Pass Turnover Turnover (P3.T8),,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+274,0021600907,338,2,79,3,10:38 PM,4:44,MISS Booker 19' Pullup Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+275,0021600907,339,4,0,3,10:38 PM,4:43,,,Zeller REBOUND (Off:2 Def:3),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+276,0021600907,341,6,2,3,10:38 PM,4:26,Len S.FOUL (P1.T4) (J.Williams),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+277,0021600907,342,3,11,3,10:39 PM,4:26,,,MISS Kidd-Gilchrist Free Throw 1 of 2,,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+278,0021600907,343,4,1,3,10:39 PM,4:26,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+279,0021600907,344,3,12,3,10:39 PM,4:26,,,Kidd-Gilchrist Free Throw 2 of 2 (7 PTS),79 - 85,6,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+280,0021600907,346,1,47,3,10:40 PM,4:06,Booker 11' Turnaround Jump Shot (13 PTS),,,79 - 87,8,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+281,0021600907,347,1,1,3,10:40 PM,3:48,,,Batum 26' 3PT Jump Shot (12 PTS) (Zeller 3 AST),82 - 87,5,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+282,0021600907,348,2,79,3,10:40 PM,3:25,MISS Booker 25' 3PT Pullup Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+283,0021600907,349,4,0,3,10:40 PM,3:24,,,Kidd-Gilchrist REBOUND (Off:5 Def:2),,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+284,0021600907,350,2,1,3,10:40 PM,3:17,,,MISS Batum 25' 3PT Jump Shot,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+285,0021600907,351,4,0,3,10:40 PM,3:16,Len REBOUND (Off:0 Def:5),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+286,0021600907,352,5,1,3,10:41 PM,3:03,Bledsoe Bad Pass Turnover (P4.T12),,Zeller STEAL (1 STL),,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+287,0021600907,353,1,1,3,10:41 PM,2:53,,,Walker 25' 3PT Jump Shot (26 PTS) (Batum 5 AST),85 - 87,2,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+288,0021600907,354,5,2,3,10:41 PM,2:36,Booker Lost Ball Turnover (P5.T13),,Kidd-Gilchrist STEAL (5 STL),,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+289,0021600907,355,2,1,3,10:41 PM,2:26,,,MISS Walker 25' 3PT Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+290,0021600907,356,4,0,3,10:41 PM,2:26,Bledsoe REBOUND (Off:0 Def:4),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+291,0021600907,357,2,1,3,10:41 PM,2:17,MISS Warren 18' Jump Shot,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+292,0021600907,358,4,0,3,10:41 PM,2:17,,,Walker REBOUND (Off:0 Def:4),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+293,0021600907,359,2,1,3,10:42 PM,2:04,,,MISS Kaminsky 26' 3PT Jump Shot,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+294,0021600907,360,4,0,3,10:42 PM,2:04,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+295,0021600907,361,8,0,3,10:42 PM,2:04,SUB: Ulis FOR Chriss,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+296,0021600907,362,8,0,3,10:42 PM,2:04,SUB: Williams FOR Len,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+297,0021600907,363,8,0,3,10:42 PM,1:59,,,SUB: Lamb FOR Kidd-Gilchrist,,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,5,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+298,0021600907,364,8,0,3,10:42 PM,1:59,,,SUB: Williams FOR Kaminsky,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+299,0021600907,365,8,0,3,10:42 PM,1:59,,,SUB: Belinelli FOR Batum,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,5,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+300,0021600907,366,8,0,3,10:42 PM,1:59,SUB: Chriss FOR Bledsoe,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+301,0021600907,367,2,3,3,10:42 PM,1:51,MISS Warren 8' Hook Shot,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+302,0021600907,368,4,0,3,10:42 PM,1:50,,,Lamb REBOUND (Off:0 Def:3),,,5.0,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+303,0021600907,369,2,80,3,10:42 PM,1:37,,,MISS Walker 12' Step Back Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+304,0021600907,370,4,0,3,10:42 PM,1:35,Booker REBOUND (Off:0 Def:4),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+305,0021600907,371,1,5,3,10:43 PM,1:27,Warren 1' Layup (14 PTS) (Chriss 1 AST),,,85 - 89,4,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+306,0021600907,372,2,1,3,10:43 PM,1:12,,,MISS Zeller 19' Jump Shot,,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+307,0021600907,373,4,0,3,10:43 PM,1:11,Booker REBOUND (Off:0 Def:5),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+308,0021600907,374,6,1,3,10:43 PM,1:04,,,Williams P.FOUL (P2.PN) (R.Garretson),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,4,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+309,0021600907,375,3,11,3,10:43 PM,1:04,MISS Williams Free Throw 1 of 2,,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+310,0021600907,376,4,1,3,10:43 PM,1:04,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+311,0021600907,377,8,0,3,10:44 PM,1:04,SUB: Dudley FOR Chriss,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+312,0021600907,378,3,12,3,10:44 PM,1:04,Williams Free Throw 2 of 2 (9 PTS),,,85 - 90,5,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+313,0021600907,380,1,1,3,10:44 PM,0:47,,,Williams 25' 3PT Jump Shot (16 PTS) (Walker 8 AST),88 - 90,2,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+314,0021600907,381,2,1,3,10:44 PM,0:37,MISS Williams 7' Jump Shot,,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+315,0021600907,383,4,0,3,10:44 PM,0:37,Warren REBOUND (Off:3 Def:5),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+316,0021600907,382,1,97,3,10:44 PM,0:37,Warren 2' Tip Layup Shot (16 PTS),,,88 - 92,4,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+317,0021600907,384,2,1,3,10:45 PM,0:21,Warren BLOCK (2 BLK),,MISS Belinelli 16' Jump Shot,,,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,1
+318,0021600907,385,4,0,3,10:45 PM,0:20,Booker REBOUND (Off:0 Def:6),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+319,0021600907,386,6,29,3,10:45 PM,0:18,,,Walker Shooting Block Foul (P3.PN) (J.Williams),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+320,0021600907,387,6,11,3,10:45 PM,0:18,,,Walker T.FOUL (P3.PN) (J.Williams),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+321,0021600907,388,3,16,3,10:45 PM,0:18,MISS Booker Free Throw Technical,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+322,0021600907,389,4,1,3,10:45 PM,0:18,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+323,0021600907,390,3,11,3,10:45 PM,0:18,Booker Free Throw 1 of 2 (14 PTS),,,88 - 93,5,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+324,0021600907,392,3,12,3,10:46 PM,0:18,Booker Free Throw 2 of 2 (15 PTS),,,88 - 94,6,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+325,0021600907,394,6,2,3,10:46 PM,0:00,Booker S.FOUL (P3.PN) (R.Garretson),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+326,0021600907,395,18,0,3,10:46 PM,0:00,,,,,,,394,,,,,,0,0,,,,,,1,0,,,,,,0
+327,0021600907,396,3,13,3,10:47 PM,0:00,,,Williams Free Throw 1 of 3 (17 PTS),89 - 94,5,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+328,0021600907,398,3,14,3,10:47 PM,0:00,,,Williams Free Throw 2 of 3 (18 PTS),90 - 94,4,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+329,0021600907,400,3,15,3,10:47 PM,0:00,,,Williams Free Throw 3 of 3 (19 PTS),91 - 94,3,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+330,0021600907,402,13,0,3,10:47 PM,0:00,,,,91 - 94,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+331,0021600907,404,12,0,4,10:50 PM,12:00,,,,91 - 94,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+332,0021600907,405,2,1,4,10:50 PM,11:46,MISS Dudley 19' Jump Shot,,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+333,0021600907,406,4,0,4,10:50 PM,11:46,,,Roberts REBOUND (Off:0 Def:2),,,5.0,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+334,0021600907,407,6,2,4,10:50 PM,11:33,Dudley S.FOUL (P2.T1) (R.Garretson),,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,5,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+335,0021600907,408,3,11,4,10:50 PM,11:33,,,Lamb Free Throw 1 of 2 (1 PTS),92 - 94,2,5.0,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+336,0021600907,410,3,12,4,10:51 PM,11:33,,,Lamb Free Throw 2 of 2 (2 PTS),93 - 94,1,5.0,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+337,0021600907,412,1,79,4,10:51 PM,11:20,Barbosa 17' Pullup Jump Shot (12 PTS),,,93 - 96,3,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+338,0021600907,413,2,1,4,10:51 PM,11:00,Dudley BLOCK (1 BLK),,MISS Roberts 10' Jump Shot,,,5.0,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,1
+339,0021600907,414,4,0,4,10:51 PM,11:00,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+340,0021600907,415,1,42,4,10:52 PM,10:54,,,Lamb 1' Driving Layup (4 PTS),95 - 96,1,5.0,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+341,0021600907,416,1,52,4,10:52 PM,10:48,"Jones, Jr.  Alley Oop Dunk (4 PTS) (Ulis 3 AST)",,,95 - 98,3,4.0,1627884,Derrick Jones Jr.,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+342,0021600907,417,2,5,4,10:52 PM,10:29,"Jones, Jr. BLOCK (1 BLK)",,MISS Lamb 2' Layup,,,5.0,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1627884,Derrick Jones Jr.,1610612756.0,Phoenix,Suns,PHX,1
+343,0021600907,418,4,0,4,10:52 PM,10:29,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+344,0021600907,419,2,78,4,10:53 PM,10:18,,,MISS Williams 13' Floating Jump Shot,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+345,0021600907,420,4,0,4,10:53 PM,10:17,Williams REBOUND (Off:0 Def:4),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+346,0021600907,421,6,2,4,10:53 PM,10:12,,,Roberts S.FOUL (P1.T1) (C.Blair),,,5.0,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+347,0021600907,422,3,11,4,10:53 PM,10:12,Ulis Free Throw 1 of 2 (5 PTS),,,95 - 99,4,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+348,0021600907,424,3,12,4,10:53 PM,10:12,Ulis Free Throw 2 of 2 (6 PTS),,,95 - 100,5,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+349,0021600907,426,2,98,4,10:54 PM,9:58,,,MISS Kaminsky 2' Cutting Layup Shot,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+350,0021600907,427,4,0,4,10:54 PM,9:57,Barbosa REBOUND (Off:0 Def:2),,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+351,0021600907,428,2,5,4,10:54 PM,9:48,"MISS Jones, Jr. 1' Layup",,Williams BLOCK (1 BLK),,,4.0,1627884,Derrick Jones Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,1
+352,0021600907,429,4,0,4,10:54 PM,9:47,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+353,0021600907,430,2,1,4,10:54 PM,9:33,,,MISS Belinelli 27' 3PT Jump Shot,,,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+354,0021600907,431,4,0,4,10:54 PM,9:33,Williams REBOUND (Off:0 Def:5),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+355,0021600907,432,5,19,4,10:55 PM,9:26,Ulis Kicked Ball Violation Turnover (P1.T14),,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+356,0021600907,433,2,1,4,10:55 PM,9:20,"Jones, Jr. BLOCK (2 BLK)",,MISS Roberts 4' Jump Shot,,,5.0,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1627884,Derrick Jones Jr.,1610612756.0,Phoenix,Suns,PHX,1
+357,0021600907,434,4,0,4,10:55 PM,9:19,Williams REBOUND (Off:0 Def:6),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+358,0021600907,435,2,79,4,10:55 PM,9:11,MISS Ulis 17' Pullup Jump Shot,,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+359,0021600907,436,4,0,4,10:55 PM,9:10,,,Williams REBOUND (Off:1 Def:2),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+360,0021600907,437,2,1,4,10:55 PM,8:54,,,MISS Belinelli 19' Jump Shot,,,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+361,0021600907,438,4,0,4,10:55 PM,8:53,Barbosa REBOUND (Off:0 Def:3),,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+362,0021600907,439,6,29,4,10:55 PM,8:49,,,Lamb Shooting Block Foul (P1.T2) (R.Garretson),,,5.0,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,4,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+363,0021600907,440,9,4,4,10:56 PM,8:49,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+364,0021600907,443,8,0,4,10:57 PM,8:49,,,SUB: Batum FOR Lamb,,,5.0,203087,Jeremy Lamb,1610612766.0,Charlotte,Hornets,CHA,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+365,0021600907,444,8,0,4,10:57 PM,8:49,,,SUB: Walker FOR Roberts,,,5.0,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+366,0021600907,451,8,0,4,10:57 PM,8:49,,,SUB: Kidd-Gilchrist FOR Williams,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+367,0021600907,445,3,11,4,10:58 PM,8:49,MISS Williams Free Throw 1 of 2,,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+368,0021600907,446,4,1,4,10:58 PM,8:49,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+369,0021600907,447,3,12,4,10:58 PM,8:49,Williams Free Throw 2 of 2 (10 PTS),,,95 - 101,6,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+370,0021600907,449,6,4,4,10:59 PM,8:40,,,Kidd-Gilchrist OFF.Foul (P4) (R.Garretson),,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,4,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+371,0021600907,450,5,5,4,10:59 PM,8:40,,,Kidd-Gilchrist Foul Turnover (P2.T9),,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+372,0021600907,452,5,40,4,10:59 PM,8:32,Dudley Out of Bounds Lost Ball Turnover (P1.T15),,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+373,0021600907,453,1,98,4,10:59 PM,8:15,,,Kaminsky 2' Cutting Layup Shot (16 PTS) (Belinelli 1 AST),97 - 101,4,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+374,0021600907,454,1,42,4,10:59 PM,8:02,Barbosa 1' Driving Layup (14 PTS) (Dudley 2 AST),,,97 - 103,6,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,4,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+375,0021600907,455,5,2,4,11:00 PM,7:47,Williams STEAL (1 STL),,Kaminsky Lost Ball Turnover (P2.T10),,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,4,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+376,0021600907,456,1,52,4,11:00 PM,7:42,"Jones, Jr.  Alley Oop Dunk (6 PTS) (Ulis 4 AST)",,,97 - 105,8,4.0,1627884,Derrick Jones Jr.,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+377,0021600907,457,9,1,4,11:00 PM,7:38,,,Hornets Timeout: Regular (Reg.4 Short 0),,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+378,0021600907,460,8,0,4,11:02 PM,7:38,,,SUB: Zeller FOR Kaminsky,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+379,0021600907,461,5,4,4,11:03 PM,7:23,,,Kidd-Gilchrist Traveling Turnover (P3.T11),,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+380,0021600907,462,2,78,4,11:03 PM,7:09,MISS Barbosa 12' Floating Jump Shot,,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+381,0021600907,463,4,0,4,11:03 PM,7:07,Williams REBOUND (Off:1 Def:6),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+382,0021600907,465,2,1,4,11:04 PM,6:47,MISS Dudley 26' 3PT Jump Shot,,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+383,0021600907,466,4,0,4,11:04 PM,6:46,,,Kidd-Gilchrist REBOUND (Off:5 Def:3),,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+384,0021600907,467,2,79,4,11:04 PM,6:39,,,MISS Batum 25' 3PT Pullup Jump Shot,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+385,0021600907,468,4,0,4,11:04 PM,6:37,Williams REBOUND (Off:1 Def:7),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+386,0021600907,469,6,4,4,11:04 PM,6:32,Williams OFF.Foul (P3) (R.Garretson),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+387,0021600907,470,5,5,4,11:04 PM,6:32,Williams Foul Turnover (P1.T16),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+388,0021600907,471,5,45,4,11:05 PM,6:12,,,Belinelli Out of Bounds - Bad Pass Turnover Turnover (P2.T12),,,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+389,0021600907,472,1,1,4,11:05 PM,5:57,Dudley 27' 3PT Jump Shot (5 PTS) (Ulis 5 AST),,,97 - 108,11,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+390,0021600907,473,2,1,4,11:05 PM,5:38,,,MISS Walker 25' 3PT Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+391,0021600907,474,4,0,4,11:05 PM,5:38,Williams REBOUND (Off:1 Def:8),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+392,0021600907,475,2,42,4,11:06 PM,5:21,MISS Ulis 3' Driving Layup,,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+393,0021600907,476,4,0,4,11:06 PM,5:21,,,Zeller REBOUND (Off:2 Def:4),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+394,0021600907,477,5,2,4,11:06 PM,5:18,"Jones, Jr. STEAL (2 STL)",,Zeller Lost Ball Turnover (P1.T13),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,1627884,Derrick Jones Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+395,0021600907,478,6,2,4,11:06 PM,5:18,,,Zeller S.FOUL (P3.T3) (C.Blair),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,1627884,Derrick Jones Jr.,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+396,0021600907,479,3,11,4,11:06 PM,5:18,"Jones, Jr. Free Throw 1 of 2 (7 PTS)",,,97 - 109,12,4.0,1627884,Derrick Jones Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+397,0021600907,481,8,0,4,11:06 PM,5:18,,,SUB: Williams FOR Belinelli,,,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+398,0021600907,482,3,12,4,11:06 PM,5:18,"Jones, Jr. Free Throw 2 of 2 (8 PTS)",,,97 - 110,13,4.0,1627884,Derrick Jones Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+399,0021600907,484,2,1,4,11:07 PM,5:05,,,MISS Batum 25' 3PT Jump Shot,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+400,0021600907,485,4,0,4,11:07 PM,5:04,Williams REBOUND (Off:1 Def:9),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+401,0021600907,486,5,1,4,11:07 PM,4:49,Barbosa Bad Pass Turnover (P3.T17),,Kidd-Gilchrist STEAL (6 STL),,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+402,0021600907,487,5,1,4,11:07 PM,4:39,Barbosa STEAL (1 STL),,Walker Bad Pass Turnover (P1.T14),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,4,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+403,0021600907,488,2,1,4,11:07 PM,4:33,MISS Dudley 25' 3PT Jump Shot,,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+404,0021600907,489,4,0,4,11:07 PM,4:32,,,Williams REBOUND (Off:1 Def:3),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+405,0021600907,490,1,41,4,11:07 PM,4:26,,,Zeller 2' Running Layup (6 PTS) (Kidd-Gilchrist 1 AST),99 - 110,11,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+406,0021600907,491,1,79,4,11:08 PM,4:01,Ulis 20' Pullup Jump Shot (8 PTS),,,99 - 112,13,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+407,0021600907,492,2,79,4,11:08 PM,3:40,,,MISS Walker 25' 3PT Pullup Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+408,0021600907,493,4,0,4,11:08 PM,3:39,Williams REBOUND (Off:1 Def:10),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+409,0021600907,494,5,1,4,11:09 PM,3:24,Barbosa Bad Pass Turnover (P4.T18),,Zeller STEAL (2 STL),,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+410,0021600907,495,6,1,4,11:09 PM,3:22,Barbosa P.FOUL (P4.T2) (C.Blair),,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+411,0021600907,496,8,0,4,11:09 PM,3:22,,,SUB: Belinelli FOR Kidd-Gilchrist,,,5.0,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,5,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+412,0021600907,497,6,1,4,11:09 PM,3:20,Barbosa P.FOUL (P5.T3) (R.Garretson),,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,5,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+413,0021600907,498,6,4,4,11:10 PM,3:20,,,Belinelli OFF.Foul (P1) (R.Garretson),,,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,4,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+414,0021600907,499,5,5,4,11:10 PM,3:20,,,Belinelli Foul Turnover (P3.T15),,,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+415,0021600907,500,18,0,4,11:10 PM,3:20,,,,,,,498,,,,,,0,0,,,,,,1,0,,,,,,0
+416,0021600907,501,2,79,4,11:11 PM,3:08,MISS Ulis 19' Pullup Jump Shot,,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+417,0021600907,502,4,0,4,11:11 PM,3:06,,,Zeller REBOUND (Off:2 Def:5),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+418,0021600907,503,2,42,4,11:11 PM,2:51,,,MISS Batum 3' Driving Layup,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+419,0021600907,504,4,0,4,11:11 PM,2:49,Ulis REBOUND (Off:0 Def:1),,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+420,0021600907,505,1,41,4,11:11 PM,2:46,Williams 2' Running Layup (12 PTS) (Ulis 6 AST),,,99 - 114,15,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+421,0021600907,506,9,2,4,11:11 PM,2:46,,,Hornets Timeout: Short (Reg.4 Short 1),,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+422,0021600907,507,9,1,4,11:12 PM,2:46,SUNS Timeout: Regular (Full 4 Short 0),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+423,0021600907,510,6,1,4,11:15 PM,2:32,"Jones, Jr. P.FOUL (P2.T4) (R.Garretson)",,,,,4.0,1627884,Derrick Jones Jr.,1610612756.0,Phoenix,Suns,PHX,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+424,0021600907,511,6,1,4,11:15 PM,2:25,Dudley P.FOUL (P3.PN) (C.Blair),,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+425,0021600907,512,3,11,4,11:16 PM,2:25,,,MISS Williams Free Throw 1 of 2,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+426,0021600907,513,4,1,4,11:16 PM,2:25,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+427,0021600907,514,3,12,4,11:16 PM,2:25,,,MISS Williams Free Throw 2 of 2,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+428,0021600907,516,4,0,4,11:16 PM,2:24,Williams REBOUND (Off:1 Def:11),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+429,0021600907,517,1,3,4,11:16 PM,2:07,Williams 6' Hook Shot (14 PTS) (Ulis 7 AST),,,99 - 116,17,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+430,0021600907,518,2,1,4,11:16 PM,1:52,,,MISS Batum 15' Jump Shot,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+431,0021600907,519,4,0,4,11:16 PM,1:51,,,Zeller REBOUND (Off:3 Def:5),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+432,0021600907,520,2,1,4,11:16 PM,1:47,,,MISS Walker 27' 3PT Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+433,0021600907,521,4,0,4,11:17 PM,1:46,Barbosa REBOUND (Off:0 Def:4),,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+434,0021600907,522,6,1,4,11:17 PM,1:38,,,Walker P.FOUL (P4.T4) (J.Williams),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+435,0021600907,523,8,0,4,11:17 PM,1:38,,,SUB: Weber FOR Williams,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,1627362,Briante Weber,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+436,0021600907,524,8,0,4,11:17 PM,1:38,,,SUB: O'Bryant III FOR Batum,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,5,203948,Johnny O'Bryant III,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+437,0021600907,525,8,0,4,11:17 PM,1:38,,,SUB: Wood FOR Walker,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,5,1626174,Christian Wood,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+438,0021600907,526,8,0,4,11:17 PM,1:38,,,SUB: Roberts FOR Zeller,,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+439,0021600907,527,8,0,4,11:17 PM,1:38,,,SUB: Graham FOR Belinelli,,,5.0,201158,Marco Belinelli,1610612766.0,Charlotte,Hornets,CHA,5,1626203,Treveon Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+440,0021600907,528,2,47,4,11:17 PM,1:21,MISS Williams 8' Turnaround Jump Shot,,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+441,0021600907,529,4,0,4,11:17 PM,1:21,,,Roberts REBOUND (Off:0 Def:3),,,5.0,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+442,0021600907,530,5,1,4,11:18 PM,1:05,Barbosa STEAL (2 STL),,O'Bryant III Bad Pass Turnover (P1.T16),,,5.0,203948,Johnny O'Bryant III,1610612766.0,Charlotte,Hornets,CHA,4,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+443,0021600907,531,1,41,4,11:18 PM,1:02,Barbosa 1' Running Layup (16 PTS),,,99 - 118,19,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+444,0021600907,532,6,1,4,11:18 PM,0:57,Barbosa P.FOUL (P6.PN) (R.Garretson),,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,5,1627362,Briante Weber,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+445,0021600907,534,8,0,4,11:19 PM,0:57,SUB: Price FOR Barbosa,,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,4,101179,Ronnie Price,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+446,0021600907,535,3,11,4,11:19 PM,0:57,,,Weber Free Throw 1 of 2 (1 PTS),100 - 118,18,5.0,1627362,Briante Weber,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+447,0021600907,537,3,12,4,11:19 PM,0:57,,,Weber Free Throw 2 of 2 (2 PTS),101 - 118,17,5.0,1627362,Briante Weber,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+448,0021600907,539,1,98,4,11:19 PM,0:39,Williams 1' Cutting Layup Shot (16 PTS) (Ulis 8 AST),,,101 - 120,19,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+449,0021600907,540,1,47,4,11:20 PM,0:25,,,O'Bryant III 10' Turnaround Jump Shot (2 PTS) (Roberts 1 AST),103 - 120,17,5.0,203948,Johnny O'Bryant III,1610612766.0,Charlotte,Hornets,CHA,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+450,0021600907,541,5,11,4,11:20 PM,0:01,SUNS Turnover: Shot Clock (T#19),,,,,2.0,1610612756,,,,,,0,0,,,,,,1,0,,,,,,0
+451,0021600907,542,2,1,4,11:20 PM,0:00,,,MISS Wood 35' 3PT Jump Shot,,,5.0,1626174,Christian Wood,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+452,0021600907,544,4,0,4,11:20 PM,0:00,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+453,0021600907,543,13,0,4,11:20 PM,0:00,,,,103 - 120,17,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

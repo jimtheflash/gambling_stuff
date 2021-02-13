@@ -1,0 +1,499 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021900576,2,12,0,1,10:42 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021900576,4,10,0,1,10:42 PM,12:00,Jump Ball Zubac vs. Spellman: Tip to Leonard,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1
+2,0021900576,7,5,1,1,10:42 PM,11:39,Leonard Bad Pass Turnover (P1.T1),,Robinson III STEAL (1 STL),,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+3,0021900576,9,2,2,1,10:42 PM,11:34,,,MISS Robinson III 27' 3PT Running Jump Shot,,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+4,0021900576,10,4,0,1,10:42 PM,11:30,Shamet REBOUND (Off:0 Def:1),,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+5,0021900576,11,6,1,1,10:42 PM,11:25,,,Spellman P.FOUL (P1.T1) (P.Fraher),,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+6,0021900576,13,1,1,1,10:43 PM,11:15,Beverley 27' 3PT Jump Shot (3 PTS) (Shamet 1 AST),,,0 - 3,3,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+7,0021900576,15,1,1,1,10:43 PM,11:00,,,Spellman 27' 3PT Jump Shot (3 PTS) (Lee 1 AST),3 - 3,TIE,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+8,0021900576,17,6,2,1,10:43 PM,10:53,,,Bowman S.FOUL (P1.T2) (D.Taylor),,,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+9,0021900576,19,3,11,1,10:44 PM,10:53,Beverley Free Throw 1 of 2 (4 PTS),,,3 - 4,1,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+10,0021900576,20,3,12,1,10:44 PM,10:53,Beverley Free Throw 2 of 2 (5 PTS),,,3 - 5,2,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+11,0021900576,21,2,1,1,10:44 PM,10:41,,,MISS Lee 25' 3PT Jump Shot,,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+12,0021900576,22,4,0,1,10:44 PM,10:39,Harkless REBOUND (Off:0 Def:1),,,,,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+13,0021900576,23,2,1,1,10:44 PM,10:28,MISS Shamet  3PT Jump Shot,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+14,0021900576,24,4,0,1,10:44 PM,10:24,,,Green REBOUND (Off:0 Def:1),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+15,0021900576,25,2,2,1,10:44 PM,10:20,,,MISS Bowman 25' 3PT Running Jump Shot,,,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+16,0021900576,26,4,0,1,10:44 PM,10:16,Zubac REBOUND (Off:0 Def:1),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+17,0021900576,27,1,98,1,10:45 PM,10:07,Harkless 1' Cutting Layup Shot (2 PTS) (Leonard 1 AST),,,3 - 7,4,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+18,0021900576,29,6,1,1,10:45 PM,9:54,Shamet P.FOUL (P1.T1) (D.Taylor),,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+19,0021900576,31,1,108,1,10:45 PM,9:48,,,Lee 1' Cutting Dunk Shot (2 PTS) (Bowman 1 AST),5 - 7,2,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+20,0021900576,33,2,66,1,10:46 PM,9:37,MISS Zubac 6' Jump Bank Shot,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+21,0021900576,34,4,0,1,10:46 PM,9:34,,,Spellman REBOUND (Off:0 Def:1),,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+22,0021900576,35,5,2,1,10:46 PM,9:27,Harkless STEAL (1 STL),,Spellman Lost Ball Turnover (P1.T1),,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+23,0021900576,37,5,1,1,10:46 PM,9:22,Beverley Bad Pass Turnover (P1.T2),,Robinson III STEAL (2 STL),,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+24,0021900576,39,5,1,1,10:46 PM,9:17,Leonard STEAL (1 STL),,Robinson III Bad Pass Turnover (P1.T2),,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+25,0021900576,41,6,4,1,10:46 PM,9:12,Leonard OFF.Foul (P1) (P.Fraher),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+26,0021900576,43,5,37,1,10:46 PM,9:12,Leonard Offensive Foul Turnover (P2.T3),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+27,0021900576,44,2,1,1,10:47 PM,8:56,,,MISS Spellman 24' 3PT Jump Shot,,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+28,0021900576,45,4,0,1,10:47 PM,8:54,Zubac REBOUND (Off:0 Def:2),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+29,0021900576,46,2,1,1,10:47 PM,8:42,MISS Leonard 28' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+30,0021900576,47,4,0,1,10:47 PM,8:39,Harkless REBOUND (Off:1 Def:1),,,,,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+31,0021900576,48,2,1,1,10:47 PM,8:37,MISS Leonard 27' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+32,0021900576,49,4,0,1,10:47 PM,8:34,,,Robinson III REBOUND (Off:0 Def:1),,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+33,0021900576,50,5,40,1,10:47 PM,8:30,,,Robinson III Out of Bounds Lost Ball Turnover (P2.T3),,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+34,0021900576,51,2,1,1,10:47 PM,8:17,MISS Harkless 26' 3PT Jump Shot,,,,,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+35,0021900576,52,4,0,1,10:47 PM,8:14,,,Lee REBOUND (Off:0 Def:1),,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+36,0021900576,53,2,1,1,10:48 PM,8:03,,,MISS Bowman 24' 3PT Jump Shot,,,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+37,0021900576,54,4,0,1,10:48 PM,8:00,Beverley REBOUND (Off:0 Def:1),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+38,0021900576,55,1,3,1,10:48 PM,7:51,Zubac 9' Hook Shot (2 PTS) (Leonard 2 AST),,,5 - 9,4,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+39,0021900576,57,1,6,1,10:48 PM,7:31,,,Lee 1' Driving Layup (4 PTS) (Robinson III 1 AST),7 - 9,2,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+40,0021900576,59,1,80,1,10:48 PM,7:13,Leonard 14' Step Back Jump Shot (2 PTS) (Beverley 1 AST),,,7 - 11,4,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+41,0021900576,61,2,73,1,10:49 PM,6:54,,,MISS Spellman 1' Driving Reverse Layup,,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+42,0021900576,62,4,0,1,10:49 PM,6:51,Harkless REBOUND (Off:1 Def:2),,,,,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+43,0021900576,63,2,1,1,10:49 PM,6:46,MISS Leonard 26' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+44,0021900576,64,4,0,1,10:49 PM,6:44,,,Lee REBOUND (Off:0 Def:2),,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+45,0021900576,65,1,103,1,10:49 PM,6:39,,,Robinson III 15' Running Pull-Up Jump Shot (2 PTS) (Lee 2 AST),9 - 11,2,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+46,0021900576,67,1,1,1,10:49 PM,6:20,Zubac 14' Jump Shot (4 PTS) (Beverley 2 AST),,,9 - 13,4,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+47,0021900576,69,2,1,1,10:50 PM,5:57,,,MISS Spellman 27' 3PT Jump Shot,,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+48,0021900576,70,4,0,1,10:50 PM,5:54,Zubac REBOUND (Off:0 Def:3),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+49,0021900576,71,1,1,1,10:50 PM,5:40,Leonard 25' 3PT Jump Shot (5 PTS) (Beverley 3 AST),,,9 - 16,7,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+50,0021900576,73,9,1,1,10:50 PM,5:34,,,Warriors Timeout: Regular (Reg.1 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+51,0021900576,74,8,0,1,10:53 PM,5:34,,,SUB: Burks FOR Spellman,,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+52,0021900576,75,8,0,1,10:53 PM,5:34,,,SUB: Cauley-Stein FOR Bowman,,,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+53,0021900576,78,5,45,1,10:53 PM,5:20,,,Burks Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+54,0021900576,79,7,5,1,10:54 PM,5:06,,,Cauley-Stein Violation:Kicked Ball (D.Taylor),,,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+55,0021900576,80,8,0,1,10:54 PM,5:06,SUB: Williams FOR Shamet,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+56,0021900576,82,2,1,1,10:54 PM,5:00,MISS Beverley 26' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+57,0021900576,83,4,0,1,10:54 PM,4:57,Zubac REBOUND (Off:1 Def:3),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+58,0021900576,84,6,1,1,10:54 PM,4:57,,,Green P.FOUL (P1.T3) (D.Taylor),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+59,0021900576,86,1,79,1,10:55 PM,4:53,Leonard 13' Pullup Jump Shot (7 PTS),,,9 - 18,9,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+60,0021900576,87,2,79,1,10:55 PM,4:35,,,MISS Lee 17' Pullup Jump Shot,,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+61,0021900576,88,4,0,1,10:55 PM,4:31,Harkless REBOUND (Off:1 Def:3),,,,,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+62,0021900576,89,5,1,1,10:55 PM,4:19,Zubac Bad Pass Turnover (P1.T4),,Green STEAL (1 STL),,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+63,0021900576,91,2,1,1,10:55 PM,4:13,,,MISS Green 27' 3PT Jump Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+64,0021900576,92,4,0,1,10:55 PM,4:09,Zubac REBOUND (Off:1 Def:4),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+65,0021900576,93,2,79,1,10:56 PM,3:53,MISS Williams 20' Pullup Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+66,0021900576,94,4,0,1,10:56 PM,3:51,,,Cauley-Stein REBOUND (Off:0 Def:1),,,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+67,0021900576,95,1,79,1,10:56 PM,3:41,,,Burks 22' Pullup Jump Shot (2 PTS),11 - 18,7,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+68,0021900576,96,2,79,1,10:56 PM,3:17,MISS Leonard 25' 3PT Pullup Jump Shot,,Green BLOCK (1 BLK),,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+69,0021900576,98,4,0,1,10:56 PM,3:13,,,Cauley-Stein REBOUND (Off:0 Def:2),,,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+70,0021900576,99,1,2,1,10:56 PM,3:10,,,Robinson III 9' Running Jump Shot (4 PTS) (Lee 3 AST),13 - 18,5,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+71,0021900576,101,2,79,1,10:57 PM,2:55,MISS Leonard 15' Pullup Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+72,0021900576,102,4,0,1,10:57 PM,2:53,Zubac REBOUND (Off:2 Def:4),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+73,0021900576,103,2,97,1,10:57 PM,2:53,MISS Zubac 1' Tip Layup Shot,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+74,0021900576,104,4,0,1,10:57 PM,2:53,,,Cauley-Stein REBOUND (Off:0 Def:3),,,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+75,0021900576,105,2,1,1,10:57 PM,2:46,Beverley BLOCK (1 BLK),,MISS Robinson III 25' 3PT Jump Shot,,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1
+76,0021900576,107,4,0,1,10:57 PM,2:43,,,Cauley-Stein REBOUND (Off:1 Def:3),,,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+77,0021900576,108,1,73,1,10:57 PM,2:41,,,Robinson III 2' Driving Reverse Layup (6 PTS) (Cauley-Stein 1 AST),15 - 18,3,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+78,0021900576,110,9,1,1,10:57 PM,2:33,CLIPPERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+79,0021900576,111,8,0,1,10:59 PM,2:33,SUB: Harrell FOR Harkless,,,,,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+80,0021900576,112,8,0,1,10:59 PM,2:33,SUB: Green FOR Beverley,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+81,0021900576,113,8,0,1,10:59 PM,2:33,SUB: McGruder FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,203585,Rodney McGruder,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+82,0021900576,114,8,0,1,10:59 PM,2:33,,,SUB: Paschall FOR Lee,,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+83,0021900576,115,8,0,1,10:59 PM,2:33,,,SUB: Poole FOR Robinson III,,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+84,0021900576,116,8,0,1,10:59 PM,2:33,,,SUB: Evans FOR Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+85,0021900576,123,6,1,1,11:00 PM,2:32,,,Paschall P.FOUL (P1.T4) (B.Barnaky),,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+86,0021900576,125,2,86,1,11:00 PM,2:27,MISS Leonard 11' Turnaround Fadeaway Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+87,0021900576,126,4,0,1,11:00 PM,2:24,,,Burks REBOUND (Off:0 Def:1),,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+88,0021900576,127,6,2,1,11:01 PM,2:12,Green S.FOUL (P1.T2) (B.Barnaky),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+89,0021900576,129,3,11,1,11:01 PM,2:12,,,Evans Free Throw 1 of 2 (1 PTS),16 - 18,2,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+90,0021900576,132,3,12,1,11:01 PM,2:12,,,MISS Evans Free Throw 2 of 2,,,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+91,0021900576,130,8,0,1,11:01 PM,2:12,SUB: Shamet FOR Leonard,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+92,0021900576,133,4,0,1,11:01 PM,2:10,Green REBOUND (Off:0 Def:1),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+93,0021900576,135,2,102,1,11:02 PM,1:57,MISS Harrell 4' Driving Floating Bank Jump Shot,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+94,0021900576,136,4,0,1,11:02 PM,1:55,,,Paschall REBOUND (Off:0 Def:1),,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+95,0021900576,137,2,1,1,11:02 PM,1:44,,,MISS Poole 29' 3PT Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+96,0021900576,138,4,0,1,11:02 PM,1:39,Williams REBOUND (Off:0 Def:1),,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+97,0021900576,139,1,41,1,11:02 PM,1:36,Harrell 3' Running Layup (2 PTS) (Williams 1 AST),,,16 - 20,4,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+98,0021900576,141,1,108,1,11:03 PM,1:15,,,Cauley-Stein 1' Cutting Dunk Shot (2 PTS) (Paschall 1 AST),18 - 20,2,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+99,0021900576,143,5,45,1,11:03 PM,1:05,Harrell Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+100,0021900576,144,1,43,1,11:03 PM,0:57,,,Cauley-Stein 3' Alley Oop Layup (4 PTS) (Burks 1 AST),20 - 20,TIE,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+101,0021900576,146,1,101,1,11:03 PM,0:36,McGruder 2' Driving Floating Jump Shot (2 PTS) (Williams 2 AST),,,20 - 22,2,4,203585,Rodney McGruder,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+102,0021900576,148,2,103,1,11:04 PM,0:29,,,MISS Burks 27' 3PT Running Pull-Up Jump Shot,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+103,0021900576,149,4,0,1,11:04 PM,0:27,Harrell REBOUND (Off:0 Def:1),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+104,0021900576,150,2,1,1,11:04 PM,0:11,MISS Green 24' 3PT Jump Shot,,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+105,0021900576,151,4,0,1,11:04 PM,0:08,,,Burks REBOUND (Off:0 Def:2),,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+106,0021900576,152,6,28,1,11:04 PM,0:06,Shamet Personal Take Foul (P2.T3) (P.Fraher),,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+107,0021900576,154,8,0,1,11:04 PM,0:06,SUB: Robinson FOR Williams,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+108,0021900576,155,8,0,1,11:04 PM,0:06,SUB: Mann FOR Shamet,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+109,0021900576,158,2,101,1,11:05 PM,0:01,,,MISS Burks 13' Driving Floating Jump Shot,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+110,0021900576,159,4,0,1,11:05 PM,0:00,Green REBOUND (Off:0 Def:2),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+111,0021900576,160,13,0,1,11:05 PM,0:00,,,,20 - 22,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+112,0021900576,165,12,0,2,11:07 PM,12:00,,,,20 - 22,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+113,0021900576,166,2,79,2,11:08 PM,11:40,,,MISS Burks 18' Pullup Jump Shot,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+114,0021900576,167,4,0,2,11:08 PM,11:37,Harrell REBOUND (Off:0 Def:2),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+115,0021900576,169,5,4,2,11:08 PM,11:19,Harrell Traveling Turnover (P2.T6),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+116,0021900576,170,2,79,2,11:09 PM,11:02,,,MISS Evans 18' Pullup Jump Shot,,,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+117,0021900576,171,4,0,2,11:09 PM,10:59,Green REBOUND (Off:0 Def:3),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+118,0021900576,172,5,1,2,11:09 PM,10:49,Green Bad Pass Turnover (P1.T7),,Evans STEAL (1 STL),,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+119,0021900576,174,2,1,2,11:09 PM,10:34,,,MISS Paschall 25' 3PT Jump Shot,,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+120,0021900576,175,4,0,2,11:09 PM,10:32,Shamet REBOUND (Off:0 Def:2),,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+121,0021900576,176,1,80,2,11:09 PM,10:22,Williams 27' 3PT Step Back Jump Shot (3 PTS),,,20 - 25,5,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+122,0021900576,177,2,73,2,11:10 PM,10:06,,,MISS Evans 1' Driving Reverse Layup,,,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+123,0021900576,178,4,0,2,11:10 PM,10:04,,,Evans REBOUND (Off:1 Def:0),,,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+124,0021900576,179,2,97,2,11:10 PM,10:04,,,MISS Evans 1' Tip Layup Shot,,,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+125,0021900576,180,4,0,2,11:10 PM,10:03,Harrell REBOUND (Off:0 Def:3),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+126,0021900576,181,2,1,2,11:10 PM,9:53,MISS Williams  3PT Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+127,0021900576,182,4,0,2,11:10 PM,9:49,,,Paschall REBOUND (Off:0 Def:2),,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+128,0021900576,183,2,1,2,11:10 PM,9:36,,,MISS Paschall 15' Jump Shot,,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+129,0021900576,184,4,0,2,11:10 PM,9:33,,,Evans REBOUND (Off:2 Def:0),,,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+130,0021900576,185,2,98,2,11:10 PM,9:26,,,MISS Paschall 4' Cutting Layup Shot,,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+131,0021900576,186,4,0,2,11:10 PM,9:26,,,Paschall REBOUND (Off:1 Def:2),,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+132,0021900576,187,1,72,2,11:10 PM,9:26,,,Paschall 1' Putback Layup (2 PTS),22 - 25,3,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+133,0021900576,188,6,2,2,11:10 PM,9:26,McGruder S.FOUL (P1.T1) (P.Fraher),,,,,4,203585,Rodney McGruder,1610612746.0,LA,Clippers,LAC,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+134,0021900576,190,9,1,2,11:11 PM,9:26,CLIPPERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+135,0021900576,191,8,0,2,11:13 PM,9:26,,,SUB: Smailagic FOR Cauley-Stein,,,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,5,1629346,Alen Smailagic,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+136,0021900576,192,8,0,2,11:13 PM,9:26,,,SUB: Spellman FOR Evans,,,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+137,0021900576,195,3,10,2,11:13 PM,9:26,,,Paschall Free Throw 1 of 1 (3 PTS),23 - 25,2,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+138,0021900576,196,6,4,2,11:14 PM,9:17,Harrell OFF.Foul (P1) (B.Barnaky),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+139,0021900576,198,5,37,2,11:14 PM,9:17,Harrell Offensive Foul Turnover (P3.T8),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+140,0021900576,199,5,1,2,11:14 PM,9:06,McGruder STEAL (1 STL),,Burks Bad Pass Turnover (P2.T5),,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,4,203585,Rodney McGruder,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+141,0021900576,201,1,50,2,11:14 PM,9:03,McGruder 2' Running Dunk (4 PTS),,,23 - 27,4,4,203585,Rodney McGruder,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+142,0021900576,202,2,6,2,11:14 PM,8:41,Green BLOCK (1 BLK),,MISS Burks 2' Driving Layup,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,1
+143,0021900576,204,4,0,2,11:14 PM,8:40,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+144,0021900576,206,2,1,2,11:15 PM,8:32,MISS Green 26' 3PT Jump Shot,,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+145,0021900576,207,4,0,2,11:15 PM,8:28,,,Burks REBOUND (Off:0 Def:3),,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+146,0021900576,208,1,98,2,11:15 PM,8:21,,,Poole 2' Cutting Layup Shot (2 PTS) (Burks 2 AST),25 - 27,2,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+147,0021900576,210,6,1,2,11:15 PM,8:14,,,Paschall P.FOUL (P2.T1) (D.Taylor),,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+148,0021900576,212,2,1,2,11:16 PM,8:05,MISS Green  3PT Jump Shot,,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+149,0021900576,213,4,0,2,11:16 PM,8:01,,,Spellman REBOUND (Off:0 Def:2),,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+150,0021900576,214,1,9,2,11:16 PM,7:52,,,Spellman 2' Driving Dunk (5 PTS) (Burks 3 AST),27 - 27,TIE,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+151,0021900576,216,6,1,2,11:16 PM,7:45,,,Poole P.FOUL (P1.T2) (B.Barnaky),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+152,0021900576,218,8,0,2,11:16 PM,7:45,SUB: Beverley FOR McGruder,,,,,4,203585,Rodney McGruder,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+153,0021900576,219,8,0,2,11:16 PM,7:45,SUB: Leonard FOR Shamet,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+154,0021900576,220,8,0,2,11:16 PM,7:45,,,SUB: Bowman FOR Burks,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+155,0021900576,224,5,4,2,11:17 PM,7:43,Harrell Traveling Turnover (P4.T9),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+156,0021900576,225,6,4,2,11:17 PM,7:32,,,Spellman OFF.Foul (P2) (P.Fraher),,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+157,0021900576,227,5,37,2,11:17 PM,7:32,,,Spellman Offensive Foul Turnover (P2.T6),,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+158,0021900576,228,1,9,2,11:17 PM,7:23,Leonard 3' Driving Dunk (9 PTS) (Williams 3 AST),,,27 - 29,2,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+159,0021900576,229,2,1,2,11:18 PM,7:08,,,MISS Poole 25' 3PT Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+160,0021900576,230,4,0,2,11:18 PM,7:06,,,Paschall REBOUND (Off:2 Def:2),,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+161,0021900576,231,1,47,2,11:18 PM,7:04,,,Paschall 8' Turnaround Jump Shot (5 PTS),29 - 29,TIE,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+162,0021900576,232,6,2,2,11:18 PM,7:04,Green S.FOUL (P2.T2) (P.Fraher),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+163,0021900576,235,3,10,2,11:18 PM,7:04,,,Paschall Free Throw 1 of 1 (6 PTS),30 - 29,-1,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+164,0021900576,236,6,2,2,11:18 PM,6:53,,,Paschall S.FOUL (P3.T3) (P.Fraher),,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+165,0021900576,238,3,11,2,11:19 PM,6:53,Leonard Free Throw 1 of 2 (10 PTS),,,30 - 30,TIE,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+166,0021900576,243,3,12,2,11:19 PM,6:53,MISS Leonard Free Throw 2 of 2,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+167,0021900576,239,8,0,2,11:19 PM,6:53,SUB: Harkless FOR Green,,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+168,0021900576,240,8,0,2,11:19 PM,6:53,,,SUB: Robinson III FOR Paschall,,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+169,0021900576,244,4,0,2,11:19 PM,6:51,,,Spellman REBOUND (Off:0 Def:3),,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+170,0021900576,245,1,79,2,11:19 PM,6:30,,,Robinson III 18' Pullup Jump Shot (8 PTS) (Spellman 1 AST),32 - 30,-2,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+171,0021900576,247,1,102,2,11:20 PM,6:19,Williams 3' Driving Floating Bank Jump Shot (5 PTS),,,32 - 32,TIE,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+172,0021900576,248,2,79,2,11:20 PM,6:08,,,MISS Poole 17' Pullup Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+173,0021900576,249,4,0,2,11:20 PM,6:04,,,Smailagic REBOUND (Off:1 Def:0),,,5,1629346,Alen Smailagic,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+174,0021900576,250,1,97,2,11:20 PM,6:04,,,Smailagic 1' Tip Layup Shot (2 PTS),34 - 32,-2,5,1629346,Alen Smailagic,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+175,0021900576,251,2,57,2,11:20 PM,5:52,MISS Leonard 5' Driving Hook Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+176,0021900576,252,4,0,2,11:20 PM,5:50,,,Smailagic REBOUND (Off:1 Def:1),,,5,1629346,Alen Smailagic,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+177,0021900576,253,1,1,2,11:20 PM,5:34,,,Robinson III 24' 3PT Jump Shot (11 PTS) (Spellman 2 AST),37 - 32,-5,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+178,0021900576,255,1,1,2,11:21 PM,5:10,Harkless  3PT Jump Shot (5 PTS) (Leonard 3 AST),,,37 - 35,-2,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+179,0021900576,257,9,1,2,11:21 PM,5:08,,,Warriors Timeout: Regular (Reg.2 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+180,0021900576,258,8,0,2,11:23 PM,5:08,,,SUB: Green FOR Poole,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+181,0021900576,259,8,0,2,11:23 PM,5:08,,,SUB: Lee FOR Smailagic,,,5,1629346,Alen Smailagic,1610612744.0,Golden State,Warriors,GSW,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+182,0021900576,262,7,5,2,11:24 PM,5:01,Harkless Violation:Kicked Ball (D.Taylor),,,,,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+183,0021900576,263,2,1,2,11:24 PM,4:55,,,MISS Lee 27' 3PT Jump Shot,,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+184,0021900576,264,4,0,2,11:24 PM,4:53,Harrell REBOUND (Off:0 Def:4),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+185,0021900576,265,5,1,2,11:25 PM,4:45,Williams Bad Pass Turnover (P1.T10),,Spellman STEAL (1 STL),,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+186,0021900576,267,2,1,2,11:25 PM,4:34,,,MISS Lee 26' 3PT Jump Shot,,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+187,0021900576,268,4,0,2,11:25 PM,4:31,Beverley REBOUND (Off:0 Def:2),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+188,0021900576,269,1,1,2,11:25 PM,4:21,Leonard 15' Jump Shot (12 PTS) (Williams 4 AST),,,37 - 37,TIE,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+189,0021900576,271,2,98,2,11:25 PM,4:00,Williams BLOCK (1 BLK),,MISS Lee 3' Cutting Layup Shot,,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1
+190,0021900576,273,4,0,2,11:25 PM,3:57,Harrell REBOUND (Off:0 Def:5),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+191,0021900576,274,5,40,2,11:25 PM,3:56,Harkless Out of Bounds Lost Ball Turnover (P1.T11),,,,,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+192,0021900576,275,8,0,2,11:25 PM,3:56,SUB: Zubac FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+193,0021900576,276,8,0,2,11:25 PM,3:56,SUB: Shamet FOR Williams,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+194,0021900576,279,1,1,2,11:26 PM,3:40,,,Spellman 27' 3PT Jump Shot (8 PTS) (Bowman 2 AST),40 - 37,-3,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+195,0021900576,281,2,80,2,11:26 PM,3:22,MISS Leonard 17' Step Back Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+196,0021900576,282,4,0,2,11:26 PM,3:19,,,Lee REBOUND (Off:0 Def:3),,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+197,0021900576,283,1,79,2,11:26 PM,3:13,,,Robinson III 17' Pullup Jump Shot (13 PTS),42 - 37,-5,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+198,0021900576,284,1,9,2,11:27 PM,2:57,Harkless  Driving Dunk (7 PTS) (Beverley 4 AST),,,42 - 39,-3,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+199,0021900576,286,1,1,2,11:27 PM,2:43,,,Spellman 25' 3PT Jump Shot (11 PTS) (Bowman 3 AST),45 - 39,-6,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+200,0021900576,299,6,4,2,11:27 PM,2:36,Harkless OFF.Foul (P1) (D.Taylor),,,,,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+201,0021900576,300,5,37,2,11:27 PM,2:36,Harkless Offensive Foul Turnover (P2.T12),,,,,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+202,0021900576,290,8,0,2,11:27 PM,2:36,,,SUB: Burks FOR Bowman,,,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+203,0021900576,292,8,0,2,11:27 PM,2:36,SUB: Patterson FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+204,0021900576,294,2,6,2,11:28 PM,2:21,,,MISS Spellman 3' Driving Layup,,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+205,0021900576,296,4,0,2,11:28 PM,2:17,,,Burks REBOUND (Off:1 Def:3),,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+206,0021900576,297,6,2,2,11:28 PM,2:16,Harkless S.FOUL (P2.T3) (D.Taylor),,,,,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+207,0021900576,302,3,11,2,11:28 PM,2:16,,,MISS Lee Free Throw 1 of 2,,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+208,0021900576,303,4,1,2,11:28 PM,2:16,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+209,0021900576,304,3,12,2,11:29 PM,2:16,,,Lee Free Throw 2 of 2 (5 PTS),46 - 39,-7,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+210,0021900576,305,1,1,2,11:30 PM,1:57,Beverley 26' 3PT Jump Shot (8 PTS) (Leonard 4 AST),,,46 - 42,-4,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+211,0021900576,307,1,47,2,11:30 PM,1:34,,,Green 13' Turnaround Jump Shot (2 PTS) (Robinson III 2 AST),48 - 42,-6,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+212,0021900576,309,1,1,2,11:30 PM,1:20,Patterson  3PT Jump Shot (3 PTS) (Beverley 5 AST),,,48 - 45,-3,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+213,0021900576,311,1,98,2,11:31 PM,1:04,,,Lee 1' Cutting Layup Shot (7 PTS) (Robinson III 3 AST),50 - 45,-5,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+214,0021900576,313,6,2,2,11:31 PM,1:04,Patterson S.FOUL (P1.T4) (B.Barnaky),,,,,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+215,0021900576,315,8,0,2,11:31 PM,1:04,SUB: Williams FOR Shamet,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+216,0021900576,317,3,10,2,11:31 PM,1:04,,,Lee Free Throw 1 of 1 (8 PTS),51 - 45,-6,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+217,0021900576,318,1,1,2,11:31 PM,0:55,Leonard 27' 3PT Jump Shot (15 PTS) (Beverley 6 AST),,,51 - 48,-3,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+218,0021900576,320,5,2,2,11:32 PM,0:43,Leonard STEAL (2 STL),,Robinson III Lost Ball Turnover (P3.T7),,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+219,0021900576,322,6,1,2,11:32 PM,0:37,,,Spellman P.FOUL (P3.T4) (P.Fraher),,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+220,0021900576,324,8,0,2,11:32 PM,0:37,,,SUB: Bowman FOR Spellman,,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+221,0021900576,326,2,1,2,11:33 PM,0:31,MISS Patterson 24' 3PT Jump Shot,,,,,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+222,0021900576,327,4,0,2,11:33 PM,0:28,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+223,0021900576,328,6,1,2,11:33 PM,0:12,Leonard P.FOUL (P2.PN) (B.Barnaky),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+224,0021900576,330,3,11,2,11:34 PM,0:12,,,Burks Free Throw 1 of 2 (3 PTS),52 - 48,-4,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+225,0021900576,331,8,0,2,11:34 PM,0:12,SUB: Shamet FOR Harkless,,,,,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+226,0021900576,333,3,12,2,11:34 PM,0:12,,,Burks Free Throw 2 of 2 (4 PTS),53 - 48,-5,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+227,0021900576,334,2,1,2,11:34 PM,0:05,MISS Patterson 24' 3PT Jump Shot,,,,,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+228,0021900576,335,4,0,2,11:34 PM,0:03,,,Green REBOUND (Off:0 Def:2),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+229,0021900576,336,2,103,2,11:34 PM,0:00,,,MISS Green 27' 3PT Running Pull-Up Jump Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+230,0021900576,337,4,0,2,11:34 PM,0:00,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+231,0021900576,338,13,0,2,11:34 PM,0:00,,,,53 - 48,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+232,0021900576,345,12,0,3,11:50 PM,12:00,,,,53 - 48,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+233,0021900576,346,2,1,3,11:50 PM,11:42,,,MISS Green 27' 3PT Jump Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+234,0021900576,347,4,0,3,11:50 PM,11:39,Leonard REBOUND (Off:0 Def:1),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+235,0021900576,348,6,2,3,11:50 PM,11:34,,,Spellman S.FOUL (P4.T1) (P.Fraher),,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+236,0021900576,350,3,11,3,11:50 PM,11:34,MISS Leonard Free Throw 1 of 2,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+237,0021900576,351,4,1,3,11:50 PM,11:34,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+238,0021900576,352,3,12,3,11:51 PM,11:34,Leonard Free Throw 2 of 2 (16 PTS),,,53 - 49,-4,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+239,0021900576,353,2,79,3,11:51 PM,11:20,,,MISS Bowman 19' Pullup Jump Shot,,,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+240,0021900576,354,4,0,3,11:51 PM,11:17,Leonard REBOUND (Off:0 Def:2),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+241,0021900576,355,1,6,3,11:51 PM,11:11,Leonard 2' Driving Layup (18 PTS),,,53 - 51,-2,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+242,0021900576,356,9,1,3,11:51 PM,11:11,,,Warriors Timeout: Regular (Reg.3 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+243,0021900576,357,6,4,3,11:54 PM,11:02,,,Green OFF.Foul (P2) (P.Fraher),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+244,0021900576,359,5,37,3,11:54 PM,11:02,,,Green Offensive Foul Turnover (P1.T8),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+245,0021900576,360,6,11,3,11:55 PM,11:02,,,Green T.FOUL (P2.T1) (P.Fraher),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+246,0021900576,361,3,16,3,11:55 PM,11:02,Leonard Free Throw Technical (19 PTS),,,53 - 52,-1,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+247,0021900576,362,8,0,3,11:55 PM,11:02,,,SUB: Burks FOR Bowman,,,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+248,0021900576,364,1,6,3,11:55 PM,10:51,Leonard 3' Driving Layup (21 PTS),,,53 - 54,1,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+249,0021900576,365,6,2,3,11:56 PM,10:51,,,Robinson III S.FOUL (P1.T2) (B.Barnaky),,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+250,0021900576,367,3,10,3,11:56 PM,10:51,Leonard Free Throw 1 of 1 (22 PTS),,,53 - 55,2,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+251,0021900576,368,2,101,3,11:56 PM,10:40,,,MISS Burks 10' Driving Floating Jump Shot,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+252,0021900576,369,4,0,3,11:56 PM,10:38,Beverley REBOUND (Off:0 Def:3),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+253,0021900576,371,2,1,3,11:57 PM,10:16,MISS Shamet 25' 3PT Jump Shot,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+254,0021900576,372,4,0,3,11:57 PM,10:14,,,Robinson III REBOUND (Off:0 Def:2),,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+255,0021900576,373,6,2,3,11:57 PM,10:02,Harkless S.FOUL (P3.T1) (P.Fraher),,,,,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+256,0021900576,375,3,11,3,11:57 PM,10:02,,,Robinson III Free Throw 1 of 2 (14 PTS),54 - 55,1,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+257,0021900576,376,3,12,3,11:58 PM,10:02,,,Robinson III Free Throw 2 of 2 (15 PTS),55 - 55,TIE,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+258,0021900576,377,1,80,3,11:58 PM,9:43,Shamet 25' 3PT Step Back Jump Shot (3 PTS) (Zubac 1 AST),,,55 - 58,3,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+259,0021900576,379,1,5,3,11:58 PM,9:30,,,Spellman 2' Layup (13 PTS) (Lee 4 AST),57 - 58,1,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+260,0021900576,381,6,2,3,11:58 PM,9:30,Zubac S.FOUL (P1.T2) (B.Barnaky),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+261,0021900576,383,3,10,3,11:59 PM,9:30,,,Spellman Free Throw 1 of 1 (14 PTS),58 - 58,TIE,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+262,0021900576,384,2,1,3,11:59 PM,9:14,MISS Beverley 24' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+263,0021900576,385,4,0,3,11:59 PM,9:14,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+264,0021900576,387,1,102,3,11:59 PM,9:04,,,Burks 4' Driving Floating Bank Jump Shot (6 PTS),60 - 58,-2,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+265,0021900576,388,2,1,3,12:00 AM,8:51,MISS Shamet 25' 3PT Jump Shot,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+266,0021900576,389,4,0,3,12:00 AM,8:47,Zubac REBOUND (Off:3 Def:4),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+267,0021900576,390,2,1,3,12:00 AM,8:45,MISS Beverley 27' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+268,0021900576,391,4,0,3,12:00 AM,8:45,,,Green REBOUND (Off:0 Def:3),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+269,0021900576,393,6,2,3,12:00 AM,8:29,Zubac S.FOUL (P2.T3) (P.Fraher),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+270,0021900576,395,3,11,3,12:01 AM,8:29,,,Burks Free Throw 1 of 2 (7 PTS),61 - 58,-3,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+271,0021900576,396,3,12,3,12:01 AM,8:29,,,Burks Free Throw 2 of 2 (8 PTS),62 - 58,-4,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+272,0021900576,397,1,75,3,12:01 AM,8:11,Harkless 4' Driving Finger Roll Layup (9 PTS),,,62 - 60,-2,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+273,0021900576,398,2,1,3,12:02 AM,7:54,,,MISS Burks 24' 3PT Jump Shot,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+274,0021900576,399,4,0,3,12:02 AM,7:51,,,Spellman REBOUND (Off:1 Def:3),,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+275,0021900576,400,2,1,3,12:02 AM,7:46,,,MISS Lee 22' Jump Shot,,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+276,0021900576,401,4,0,3,12:02 AM,7:43,Zubac REBOUND (Off:3 Def:5),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+277,0021900576,402,5,1,3,12:02 AM,7:41,Leonard Bad Pass Turnover (P3.T13),,Lee STEAL (1 STL),,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+278,0021900576,404,6,2,3,12:02 AM,7:35,Zubac S.FOUL (P3.T4) (D.Taylor),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+279,0021900576,406,3,11,3,12:02 AM,7:35,,,Green Free Throw 1 of 2 (3 PTS),63 - 60,-3,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+280,0021900576,411,3,12,3,12:02 AM,7:35,,,MISS Green Free Throw 2 of 2,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+281,0021900576,407,8,0,3,12:02 AM,7:35,SUB: Harrell FOR Harkless,,,,,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+282,0021900576,408,8,0,3,12:02 AM,7:35,SUB: Williams FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+283,0021900576,412,4,0,3,12:03 AM,7:33,Leonard REBOUND (Off:0 Def:3),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+284,0021900576,413,5,1,3,12:03 AM,7:18,Leonard Bad Pass Turnover (P4.T14),,Spellman STEAL (2 STL),,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+285,0021900576,415,1,80,3,12:03 AM,7:10,,,Robinson III 18' Step Back Jump Shot (17 PTS) (Green 1 AST),65 - 60,-5,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+286,0021900576,417,1,108,3,12:04 AM,6:57,Leonard 1' Cutting Dunk Shot (24 PTS) (Harrell 1 AST),,,65 - 62,-3,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+287,0021900576,419,1,1,3,12:04 AM,6:38,,,Green 26' 3PT Jump Shot (6 PTS) (Burks 4 AST),68 - 62,-6,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+288,0021900576,421,5,40,3,12:04 AM,6:27,Beverley Out of Bounds Lost Ball Turnover (P2.T15),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+289,0021900576,422,6,2,3,12:04 AM,6:18,Shamet S.FOUL (P3.PN) (P.Fraher),,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+290,0021900576,424,3,11,3,12:05 AM,6:18,,,Burks Free Throw 1 of 2 (9 PTS),69 - 62,-7,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+291,0021900576,425,8,0,3,12:05 AM,6:18,,,SUB: Cauley-Stein FOR Spellman,,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+292,0021900576,427,3,12,3,12:05 AM,6:18,,,Burks Free Throw 2 of 2 (10 PTS),70 - 62,-8,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+293,0021900576,428,1,75,3,12:05 AM,6:06,Leonard 1' Driving Finger Roll Layup (26 PTS),,,70 - 64,-6,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+294,0021900576,429,2,1,3,12:06 AM,5:51,,,MISS Green 25' 3PT Jump Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+295,0021900576,430,4,0,3,12:06 AM,5:48,Beverley REBOUND (Off:0 Def:4),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+296,0021900576,431,2,1,3,12:06 AM,5:35,MISS Beverley 24' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+297,0021900576,432,4,0,3,12:06 AM,5:32,,,Robinson III REBOUND (Off:0 Def:3),,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+298,0021900576,433,2,1,3,12:06 AM,5:20,,,MISS Robinson III 29' 3PT Jump Shot,,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+299,0021900576,434,4,0,3,12:06 AM,5:17,Beverley REBOUND (Off:0 Def:5),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+300,0021900576,435,2,2,3,12:06 AM,5:09,MISS Beverley 25' 3PT Running Jump Shot,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+301,0021900576,436,4,0,3,12:06 AM,5:08,,,Green REBOUND (Off:0 Def:4),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+302,0021900576,437,2,76,3,12:06 AM,5:02,Beverley BLOCK (2 BLK),,MISS Burks 1' Running Finger Roll Layup,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1
+303,0021900576,439,4,0,3,12:06 AM,5:02,Leonard REBOUND (Off:0 Def:4),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+304,0021900576,440,2,79,3,12:07 AM,4:51,MISS Leonard 27' 3PT Pullup Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+305,0021900576,441,4,0,3,12:07 AM,4:49,,,Burks REBOUND (Off:1 Def:4),,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+306,0021900576,442,2,78,3,12:07 AM,4:37,,,MISS Robinson III 2' Floating Jump Shot,,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+307,0021900576,443,4,0,3,12:07 AM,4:35,,,Lee REBOUND (Off:1 Def:3),,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+308,0021900576,444,2,1,3,12:07 AM,4:33,,,MISS Burks 26' 3PT Jump Shot,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+309,0021900576,445,4,0,3,12:07 AM,4:30,Leonard REBOUND (Off:0 Def:5),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+310,0021900576,446,6,26,3,12:07 AM,4:24,Leonard Offensive Charge Foul (P3.PN) (P.Fraher),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+311,0021900576,448,5,37,3,12:07 AM,4:24,Leonard Offensive Foul Turnover (P5.T16),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+312,0021900576,449,8,0,3,12:07 AM,4:24,SUB: McGruder FOR Shamet,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,4,203585,Rodney McGruder,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+313,0021900576,450,8,0,3,12:07 AM,4:24,SUB: Green FOR Beverley,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+314,0021900576,451,8,0,3,12:07 AM,4:24,,,SUB: Paschall FOR Lee,,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+315,0021900576,452,8,0,3,12:07 AM,4:24,,,SUB: Evans FOR Robinson III,,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+316,0021900576,453,8,0,3,12:07 AM,4:24,,,SUB: Poole FOR Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+317,0021900576,459,2,6,3,12:08 AM,4:07,,,MISS Paschall 3' Driving Layup,,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+318,0021900576,460,4,0,3,12:08 AM,4:04,Harrell REBOUND (Off:0 Def:6),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+319,0021900576,461,6,2,3,12:08 AM,4:01,,,Cauley-Stein S.FOUL (P1.T3) (P.Fraher),,,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+320,0021900576,463,3,11,3,12:08 AM,4:01,MISS Harrell Free Throw 1 of 2,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+321,0021900576,464,4,1,3,12:08 AM,4:01,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+322,0021900576,467,3,12,3,12:08 AM,4:01,MISS Harrell Free Throw 2 of 2,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+323,0021900576,465,8,0,3,12:08 AM,4:01,SUB: Robinson FOR Leonard,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+324,0021900576,468,4,0,3,12:08 AM,3:57,Green REBOUND (Off:1 Def:3),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+325,0021900576,469,2,9,3,12:09 AM,3:53,MISS Harrell 2' Driving Dunk,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+326,0021900576,471,4,0,3,12:09 AM,3:51,,,Paschall REBOUND (Off:2 Def:3),,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+327,0021900576,472,1,41,3,12:09 AM,3:45,,,Paschall 1' Running Layup (8 PTS) (Burks 5 AST),72 - 64,-8,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+328,0021900576,474,1,75,3,12:09 AM,3:32,Williams 1' Driving Finger Roll Layup (7 PTS),,,72 - 66,-6,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+329,0021900576,475,2,44,3,12:09 AM,3:21,,,MISS Burks 1' Reverse Layup,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+330,0021900576,476,4,0,3,12:09 AM,3:21,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+331,0021900576,479,6,2,3,12:10 AM,3:14,,,Evans S.FOUL (P1.T4) (P.Fraher),,,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+332,0021900576,481,3,13,3,12:11 AM,3:14,Williams Free Throw 1 of 3 (8 PTS),,,72 - 67,-5,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+333,0021900576,482,3,14,3,12:11 AM,3:14,Williams Free Throw 2 of 3 (9 PTS),,,72 - 68,-4,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+334,0021900576,483,3,15,3,12:11 AM,3:14,Williams Free Throw 3 of 3 (10 PTS),,,72 - 69,-3,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+335,0021900576,484,1,79,3,12:11 AM,3:01,,,Evans 17' Pullup Jump Shot (3 PTS) (Poole 1 AST),74 - 69,-5,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+336,0021900576,486,6,4,3,12:11 AM,2:56,Robinson OFF.Foul (P1) (D.Taylor),,,,,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+337,0021900576,488,5,37,3,12:11 AM,2:56,Robinson Offensive Foul Turnover (P1.T17),,,,,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+338,0021900576,489,9,1,3,12:12 AM,2:56,CLIPPERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+339,0021900576,490,2,1,3,12:14 AM,2:46,,,MISS Poole 26' 3PT Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+340,0021900576,491,4,0,3,12:14 AM,2:43,McGruder REBOUND (Off:0 Def:1),,,,,4,203585,Rodney McGruder,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+341,0021900576,492,2,1,3,12:14 AM,2:34,MISS Robinson 24' 3PT Jump Shot,,,,,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+342,0021900576,493,4,0,3,12:15 AM,2:32,,,Burks REBOUND (Off:1 Def:5),,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+343,0021900576,494,1,79,3,12:15 AM,2:16,,,Evans 14' Pullup Jump Shot (5 PTS),76 - 69,-7,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+344,0021900576,495,2,1,3,12:15 AM,1:53,MISS McGruder 24' 3PT Jump Shot,,,,,4,203585,Rodney McGruder,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+345,0021900576,496,4,0,3,12:15 AM,1:50,,,Cauley-Stein REBOUND (Off:1 Def:4),,,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+346,0021900576,497,1,79,3,12:15 AM,1:42,,,Poole 25' 3PT Pullup Jump Shot (5 PTS),79 - 69,-10,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+347,0021900576,498,6,2,3,12:16 AM,1:31,,,Poole S.FOUL (P2.PN) (B.Barnaky),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+348,0021900576,500,3,11,3,12:16 AM,1:31,Williams Free Throw 1 of 2 (11 PTS),,,79 - 70,-9,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+349,0021900576,501,3,12,3,12:16 AM,1:31,Williams Free Throw 2 of 2 (12 PTS),,,79 - 71,-8,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+350,0021900576,502,2,1,3,12:16 AM,1:15,,,MISS Burks 25' 3PT Jump Shot,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+351,0021900576,503,4,0,3,12:17 AM,1:11,Williams REBOUND (Off:0 Def:2),,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+352,0021900576,504,2,2,3,12:17 AM,1:05,MISS McGruder 25' 3PT Running Jump Shot,,,,,4,203585,Rodney McGruder,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+353,0021900576,505,4,0,3,12:17 AM,1:03,,,Burks REBOUND (Off:1 Def:6),,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+354,0021900576,506,6,2,3,12:17 AM,0:59,Robinson S.FOUL (P2.PN) (B.Barnaky),,,,,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+355,0021900576,508,3,11,3,12:17 AM,0:59,,,Burks Free Throw 1 of 2 (11 PTS),80 - 71,-9,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+356,0021900576,509,3,12,3,12:17 AM,0:59,,,Burks Free Throw 2 of 2 (12 PTS),81 - 71,-10,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+357,0021900576,510,1,108,3,12:18 AM,0:48,Green 1' Cutting Dunk Shot (2 PTS) (Harrell 2 AST),,,81 - 73,-8,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+358,0021900576,512,1,63,3,12:18 AM,0:34,,,Evans 18' Fadeaway Jumper (7 PTS) (Poole 2 AST),83 - 73,-10,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+359,0021900576,514,2,1,3,12:18 AM,0:21,MISS Green 27' 3PT Jump Shot,,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+360,0021900576,515,4,0,3,12:18 AM,0:18,,,Cauley-Stein REBOUND (Off:1 Def:5),,,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+361,0021900576,516,6,2,3,12:19 AM,0:05,Green S.FOUL (P3.PN) (D.Taylor),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+362,0021900576,518,3,11,3,12:19 AM,0:05,,,MISS Cauley-Stein Free Throw 1 of 2,,,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+363,0021900576,519,4,1,3,12:19 AM,0:05,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+364,0021900576,524,3,12,3,12:19 AM,0:05,,,MISS Cauley-Stein Free Throw 2 of 2,,,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+365,0021900576,530,4,0,3,12:19 AM,0:05,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+366,0021900576,520,8,0,3,12:19 AM,0:05,,,SUB: Robinson III FOR Poole,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+367,0021900576,521,8,0,3,12:19 AM,0:05,,,SUB: Green FOR Paschall,,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+368,0021900576,525,8,0,3,12:20 AM,0:01,,,SUB: Lee FOR Evans,,,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+369,0021900576,527,10,0,3,12:20 AM,0:01,Jump Ball Robinson vs. Cauley-Stein: Tip to Lee,,,,,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,1
+370,0021900576,533,2,1,3,12:21 AM,0:00,,,MISS Lee 22' Jump Shot,,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+371,0021900576,534,4,0,3,12:21 AM,0:00,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+372,0021900576,535,13,0,3,12:21 AM,0:00,,,,83 - 73,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+373,0021900576,544,12,0,4,12:23 AM,12:00,,,,83 - 73,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+374,0021900576,545,2,75,4,12:23 AM,11:46,MISS Williams 1' Driving Finger Roll Layup,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+375,0021900576,546,4,0,4,12:23 AM,11:44,,,Evans REBOUND (Off:2 Def:1),,,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+376,0021900576,547,2,5,4,12:23 AM,11:29,,,MISS Cauley-Stein 2' Layup,,,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+377,0021900576,548,4,0,4,12:24 AM,11:27,Green REBOUND (Off:1 Def:4),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+378,0021900576,549,2,75,4,12:24 AM,11:11,MISS Harrell 1' Driving Finger Roll Layup,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+379,0021900576,550,4,0,4,12:24 AM,11:05,Green REBOUND (Off:2 Def:4),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+380,0021900576,551,1,107,4,12:24 AM,11:05,Green 1' Tip Dunk Shot (4 PTS),,,83 - 75,-8,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+381,0021900576,552,5,2,4,12:24 AM,10:46,Leonard STEAL (3 STL),,Poole Lost Ball Turnover (P1.T9),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+382,0021900576,554,1,50,4,12:24 AM,10:43,Leonard 1' Running Dunk (28 PTS),,,83 - 77,-6,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+383,0021900576,555,2,79,4,12:24 AM,10:28,,,MISS Evans 27' 3PT Pullup Jump Shot,,,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+384,0021900576,556,4,0,4,12:25 AM,10:25,,,Cauley-Stein REBOUND (Off:2 Def:5),,,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+385,0021900576,557,2,1,4,12:25 AM,10:22,,,MISS Poole 28' 3PT Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+386,0021900576,558,4,0,4,12:25 AM,10:19,Harrell REBOUND (Off:0 Def:7),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+387,0021900576,559,1,98,4,12:25 AM,10:13,Harrell 2' Cutting Layup Shot (4 PTS) (Williams 5 AST),,,83 - 79,-4,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+388,0021900576,561,9,1,4,12:25 AM,10:13,,,Warriors Timeout: Regular (Reg.4 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+389,0021900576,562,8,0,4,12:27 AM,10:13,SUB: Beverley FOR McGruder,,,,,4,203585,Rodney McGruder,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+390,0021900576,563,8,0,4,12:27 AM,10:13,,,SUB: Burks FOR Cauley-Stein,,,5,1626161,Willie Cauley-Stein,1610612744.0,Golden State,Warriors,GSW,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+391,0021900576,564,8,0,4,12:27 AM,10:13,,,SUB: Spellman FOR Poole,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+392,0021900576,568,2,6,4,12:28 AM,9:50,,,MISS Evans 2' Driving Layup,,,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+393,0021900576,569,4,0,4,12:28 AM,9:48,Harrell REBOUND (Off:0 Def:8),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+394,0021900576,570,1,101,4,12:28 AM,9:45,Williams 2' Driving Floating Jump Shot (14 PTS) (Harrell 3 AST),,,83 - 81,-2,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+395,0021900576,572,6,2,4,12:28 AM,9:45,,,Evans S.FOUL (P2.T1) (B.Barnaky),,,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+396,0021900576,574,8,0,4,12:28 AM,9:45,,,SUB: Bowman FOR Evans,,,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+397,0021900576,576,3,10,4,12:29 AM,9:45,Williams Free Throw 1 of 1 (15 PTS),,,83 - 82,-1,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+398,0021900576,577,1,98,4,12:29 AM,9:32,,,Paschall 1' Cutting Layup Shot (10 PTS) (Robinson III 4 AST),85 - 82,-3,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+399,0021900576,579,2,1,4,12:29 AM,9:22,MISS Williams 28' 3PT Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+400,0021900576,580,4,0,4,12:29 AM,9:21,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+401,0021900576,581,6,3,4,12:29 AM,9:21,,,Burks L.B.FOUL (P1.T2) (D.Taylor),,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+402,0021900576,583,1,3,4,12:30 AM,9:17,Harrell 5' Hook Shot (6 PTS) (Williams 6 AST),,,85 - 84,-1,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+403,0021900576,585,2,1,4,12:30 AM,8:54,,,MISS Burks 27' 3PT Jump Shot,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+404,0021900576,586,4,0,4,12:30 AM,8:51,Beverley REBOUND (Off:0 Def:6),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+405,0021900576,587,1,98,4,12:30 AM,8:47,Harrell 2' Cutting Layup Shot (8 PTS) (Beverley 7 AST),,,85 - 86,1,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+406,0021900576,589,6,2,4,12:30 AM,8:47,,,Spellman S.FOUL (P5.T3) (P.Fraher),,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+407,0021900576,591,8,0,4,12:30 AM,8:47,,,SUB: Green FOR Spellman,,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+408,0021900576,592,8,0,4,12:30 AM,8:47,,,SUB: Lee FOR Robinson III,,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+409,0021900576,595,7,1,4,12:31 AM,8:47,,,Warriors Violation: Delay of game Violation,,,3,1610612744,,,,,,0,0,,,,,,1,0,,,,,,0
+410,0021900576,596,3,10,4,12:31 AM,8:47,Harrell Free Throw 1 of 1 (9 PTS),,,85 - 87,2,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+411,0021900576,597,2,86,4,12:31 AM,8:25,,,MISS Paschall 18' Turnaround Fadeaway Shot,,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+412,0021900576,598,4,0,4,12:31 AM,8:23,,,Bowman REBOUND (Off:1 Def:0),,,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+413,0021900576,599,1,79,4,12:32 AM,8:11,,,Paschall 15' Pullup Jump Shot (12 PTS) (Green 2 AST),87 - 87,TIE,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+414,0021900576,601,2,98,4,12:32 AM,7:54,MISS Harrell 2' Cutting Layup Shot,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+415,0021900576,602,4,0,4,12:32 AM,7:52,,,Lee REBOUND (Off:1 Def:4),,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+416,0021900576,603,2,2,4,12:32 AM,7:46,,,MISS Burks 18' Running Jump Shot,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+417,0021900576,604,4,0,4,12:32 AM,7:43,Leonard REBOUND (Off:0 Def:6),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+418,0021900576,605,2,1,4,12:32 AM,7:32,MISS Williams 32' 3PT Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+419,0021900576,606,4,0,4,12:32 AM,7:28,Beverley REBOUND (Off:1 Def:6),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+420,0021900576,607,2,1,4,12:32 AM,7:27,MISS Green 27' 3PT Jump Shot,,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+421,0021900576,608,4,0,4,12:32 AM,7:23,,,Lee REBOUND (Off:1 Def:5),,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+422,0021900576,609,2,1,4,12:33 AM,7:11,,,MISS Lee 28' 3PT Jump Shot,,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+423,0021900576,610,4,0,4,12:33 AM,7:07,Beverley REBOUND (Off:1 Def:7),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+424,0021900576,611,1,63,4,12:33 AM,6:56,Williams  3PT Fadeaway Jumper (18 PTS) (Beverley 8 AST),,,87 - 90,3,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+425,0021900576,613,1,9,4,12:33 AM,6:46,,,Bowman 1' Driving Dunk (2 PTS) (Green 3 AST),89 - 90,1,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+426,0021900576,615,9,1,4,12:33 AM,6:45,CLIPPERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+427,0021900576,616,8,0,4,12:36 AM,6:45,,,SUB: Robinson III FOR Burks,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+428,0021900576,618,2,79,4,12:36 AM,6:28,MISS Leonard 20' Pullup Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+429,0021900576,626,4,0,4,12:36 AM,6:28,Green REBOUND (Off:3 Def:4),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+430,0021900576,620,1,87,4,12:36 AM,6:25,Green 2' Putback Dunk (6 PTS),,,89 - 92,3,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+431,0021900576,621,2,1,4,12:37 AM,6:12,,,MISS Lee 27' 3PT Jump Shot,,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+432,0021900576,622,4,0,4,12:37 AM,6:12,Harrell REBOUND (Off:0 Def:9),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+433,0021900576,623,5,2,4,12:37 AM,6:04,Williams Lost Ball Turnover (P2.T18),,Bowman STEAL (1 STL),,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+434,0021900576,625,6,2,4,12:37 AM,6:02,Green S.FOUL (P4.T1) (P.Fraher),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+435,0021900576,628,3,11,4,12:37 AM,6:02,,,MISS Bowman Free Throw 1 of 2,,,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+436,0021900576,629,4,1,4,12:37 AM,6:02,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+437,0021900576,632,3,12,4,12:37 AM,6:02,,,MISS Bowman Free Throw 2 of 2,,,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+438,0021900576,630,8,0,4,12:37 AM,6:02,SUB: Shamet FOR Williams,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+439,0021900576,633,4,0,4,12:37 AM,5:59,Beverley REBOUND (Off:1 Def:8),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+440,0021900576,634,2,6,4,12:38 AM,5:43,MISS Leonard 2' Driving Layup,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+441,0021900576,635,4,0,4,12:38 AM,5:41,Leonard REBOUND (Off:1 Def:6),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+442,0021900576,636,1,72,4,12:38 AM,5:40,Leonard 1' Putback Layup (30 PTS),,,89 - 94,5,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+443,0021900576,638,8,0,4,12:38 AM,5:25,,,SUB: Spellman FOR Paschall,,,5,1629672,Eric Paschall,1610612744.0,Golden State,Warriors,GSW,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+444,0021900576,640,1,79,4,12:38 AM,5:20,,,Lee 16' Pullup Jump Shot (10 PTS) (Green 4 AST),91 - 94,3,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+445,0021900576,642,1,79,4,12:39 AM,5:04,Leonard 20' Pullup Jump Shot (32 PTS),,,91 - 96,5,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+446,0021900576,643,6,26,4,12:39 AM,4:49,,,Lee Offensive Charge Foul (P1.T4) (B.Barnaky),,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+447,0021900576,645,5,37,4,12:39 AM,4:49,,,Lee Offensive Foul Turnover (P1.T10),,,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+448,0021900576,646,6,2,4,12:39 AM,4:42,,,Bowman S.FOUL (P2.PN) (P.Fraher),,,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+449,0021900576,648,3,11,4,12:40 AM,4:42,Beverley Free Throw 1 of 2 (9 PTS),,,91 - 97,6,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+450,0021900576,649,8,0,4,12:40 AM,4:42,,,SUB: Burks FOR Bowman,,,5,1629065,Ky Bowman,1610612744.0,Golden State,Warriors,GSW,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+451,0021900576,651,3,12,4,12:40 AM,4:42,MISS Beverley Free Throw 2 of 2,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+452,0021900576,652,4,0,4,12:40 AM,4:41,,,Green REBOUND (Off:0 Def:5),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+453,0021900576,653,1,79,4,12:40 AM,4:32,,,Burks 24' 3PT Pullup Jump Shot (15 PTS),94 - 97,3,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+454,0021900576,654,6,2,4,12:41 AM,4:32,Shamet S.FOUL (P4.T2) (P.Fraher),,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+455,0021900576,656,3,10,4,12:41 AM,4:32,,,Burks Free Throw 1 of 1 (16 PTS),95 - 97,2,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+456,0021900576,657,6,1,4,12:41 AM,4:23,,,Robinson III P.FOUL (P2.PN) (D.Taylor),,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+457,0021900576,659,3,11,4,12:42 AM,4:23,Leonard Free Throw 1 of 2 (33 PTS),,,95 - 98,3,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+458,0021900576,660,3,12,4,12:42 AM,4:23,Leonard Free Throw 2 of 2 (34 PTS),,,95 - 99,4,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+459,0021900576,661,6,1,4,12:43 AM,4:06,Shamet P.FOUL (P5.T3) (P.Fraher),,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+460,0021900576,663,8,0,4,12:43 AM,4:06,SUB: McGruder FOR Shamet,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,4,203585,Rodney McGruder,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+461,0021900576,665,2,1,4,12:43 AM,3:59,,,MISS Burks 26' 3PT Jump Shot,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+462,0021900576,666,4,0,4,12:43 AM,3:55,Leonard REBOUND (Off:1 Def:7),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+463,0021900576,667,1,6,4,12:44 AM,3:47,Harrell 2' Driving Layup (11 PTS) (Leonard 5 AST),,,95 - 101,6,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+464,0021900576,669,6,2,4,12:44 AM,3:47,,,Green S.FOUL (P3.PN) (P.Fraher),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+465,0021900576,671,9,1,4,12:44 AM,3:47,,,Warriors Timeout: Regular (Reg.5 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+466,0021900576,672,3,10,4,12:46 AM,3:47,MISS Harrell Free Throw 1 of 1,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+467,0021900576,673,4,0,4,12:46 AM,3:46,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+468,0021900576,675,1,1,4,12:46 AM,3:35,,,Spellman 27' 3PT Jump Shot (17 PTS) (Lee 5 AST),98 - 101,3,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,5,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+469,0021900576,677,9,1,4,12:46 AM,3:34,CLIPPERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+470,0021900576,678,8,0,4,12:48 AM,3:34,SUB: Williams FOR McGruder,,,,,4,203585,Rodney McGruder,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+471,0021900576,680,2,79,4,12:48 AM,3:12,MISS Williams 20' Pullup Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+472,0021900576,681,4,0,4,12:48 AM,3:10,,,Green REBOUND (Off:0 Def:6),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+473,0021900576,682,2,1,4,12:49 AM,2:48,,,MISS Spellman 36' 3PT Jump Shot,,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+474,0021900576,683,4,0,4,12:49 AM,2:45,Harrell REBOUND (Off:0 Def:10),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+475,0021900576,684,1,79,4,12:49 AM,2:22,Williams 26' 3PT Pullup Jump Shot (21 PTS) (Beverley 9 AST),,,98 - 104,6,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+476,0021900576,686,2,1,4,12:49 AM,2:05,,,MISS Green 25' 3PT Jump Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+477,0021900576,687,4,0,4,12:49 AM,2:03,Beverley REBOUND (Off:1 Def:9),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+478,0021900576,688,5,1,4,12:50 AM,1:46,Beverley Bad Pass Turnover (P3.T19),,Spellman STEAL (3 STL),,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+479,0021900576,690,6,1,4,12:50 AM,1:45,Green P.FOUL (P5.T4) (P.Fraher),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+480,0021900576,692,18,1,4,12:50 AM,1:45,,,,98 - 104,6,0,684,Loren Meyer,,,,,0,0,,,,,,1,0,,,,,,0
+481,0021900576,693,1,98,4,12:51 AM,1:33,,,Green 3' Cutting Layup Shot (8 PTS) (Spellman 3 AST),100 - 104,4,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+482,0021900576,695,1,9,4,12:51 AM,1:16,Leonard 1' Driving Dunk (36 PTS) (Williams 7 AST),,,100 - 106,6,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+483,0021900576,696,9,1,4,12:51 AM,1:16,,,Warriors Timeout: Regular (Reg.6 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+484,0021900576,698,8,0,4,12:52 AM,1:16,SUB: Harkless FOR Williams,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+485,0021900576,700,2,101,4,12:53 AM,0:59,Beverley BLOCK (3 BLK),,MISS Robinson III 14' Driving Floating Jump Shot,,,5,203922,Glenn Robinson III,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1
+486,0021900576,702,4,0,4,12:53 AM,0:56,,,Burks REBOUND (Off:2 Def:6),,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+487,0021900576,703,2,6,4,12:53 AM,0:55,Leonard BLOCK (1 BLK),,MISS Burks 2' Driving Layup,,,5,202692,Alec Burks,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1
+488,0021900576,705,4,0,4,12:53 AM,0:53,Leonard REBOUND (Off:1 Def:8),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+489,0021900576,706,2,103,4,12:53 AM,0:50,MISS Beverley 28' 3PT Running Pull-Up Jump Shot,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+490,0021900576,707,4,0,4,12:53 AM,0:50,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+491,0021900576,709,8,0,4,12:53 AM,0:48,SUB: Williams FOR Harkless,,,,,4,203090,Maurice Harkless,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+492,0021900576,711,1,1,4,12:54 AM,0:37,Beverley 25' 3PT Jump Shot (12 PTS) (Williams 8 AST),,,100 - 109,9,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+493,0021900576,713,2,6,4,12:54 AM,0:28,Harrell BLOCK (1 BLK),,MISS Green 4' Driving Layup,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,1
+494,0021900576,715,4,0,4,12:54 AM,0:23,,,Spellman REBOUND (Off:2 Def:3),,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+495,0021900576,716,2,1,4,12:55 AM,0:18,,,MISS Spellman 27' 3PT Jump Shot,,,5,1629016,Omari Spellman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+496,0021900576,717,4,0,4,12:55 AM,0:13,Beverley REBOUND (Off:1 Def:10),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+497,0021900576,718,13,0,4,12:55 AM,0:00,,,,100 - 109,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,6 +1,6 @@
 library(tidyverse)
 
-gamelogs <- read_csv('./data/nba_gamelogs/nba_gamelogs_2016-17.csv')
+gamelogs <- read_csv('./data/nba_gamelogs/nba_gamelogs_2020-21.csv')
 
 unique_games <- unique(gamelogs$GAME_ID)
 
@@ -45,7 +45,7 @@ first_scorer_df <- bind_rows(first_scorer_list)
 
 # pick a team using the matchup abbrevs to see how often they score first points and which players do it most
 
-abbrev <- 'PHI'
+abbrev <- 'POR'
 
 team_games <- first_scorer_df %>%
   filter(grepl(abbrev, matchup))

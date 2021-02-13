@@ -1,0 +1,423 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021700063,2,12,0,1,10:41 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021700063,4,10,0,1,10:41 PM,12:00,Jump Ball Pachulia vs. Ibaka: Tip to Lowry,,,,,4.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,5,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1
+2,0021700063,7,6,2,1,10:42 PM,11:41,Thompson S.FOUL (P1.T1) (K.Fitzgerald),,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+3,0021700063,9,3,11,1,10:42 PM,11:41,,,Ibaka Free Throw 1 of 2 (1 PTS),1 - 0,-1,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+4,0021700063,10,3,12,1,10:42 PM,11:41,,,Ibaka Free Throw 2 of 2 (2 PTS),2 - 0,-2,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+5,0021700063,11,1,101,1,10:43 PM,11:22,Durant 8' Driving Floating Jump Shot (2 PTS),,,2 - 2,TIE,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+6,0021700063,12,2,1,1,10:43 PM,11:10,,,MISS Ibaka 25' 3PT Jump Shot,,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+7,0021700063,13,4,0,1,10:43 PM,11:10,Pachulia REBOUND (Off:0 Def:1),,,,,4.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+8,0021700063,14,6,1,1,10:43 PM,10:59,,,Powell P.FOUL (P1.T1) (K.Cutler),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,4,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+9,0021700063,16,2,1,1,10:43 PM,10:54,MISS Thompson 17' Jump Shot,,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+10,0021700063,17,4,0,1,10:44 PM,10:51,,,Ibaka REBOUND (Off:0 Def:1),,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+11,0021700063,18,5,2,1,10:44 PM,10:49,Curry STEAL (1 STL),,Lowry Lost Ball Turnover (P1.T1),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+12,0021700063,20,2,1,1,10:44 PM,10:42,MISS Curry 26' 3PT Jump Shot,,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+13,0021700063,21,4,0,1,10:44 PM,10:39,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+14,0021700063,22,6,1,1,10:44 PM,10:18,Curry P.FOUL (P1.T2) (K.Cutler),,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+15,0021700063,24,1,98,1,10:45 PM,10:12,,,Siakam 2' Cutting Layup Shot (2 PTS) (Lowry 1 AST),4 - 2,-2,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+16,0021700063,26,2,98,1,10:45 PM,9:54,MISS Thompson 2' Cutting Layup Shot,,Ibaka BLOCK (1 BLK),,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,1
+17,0021700063,28,4,0,1,10:45 PM,9:48,,,Siakam REBOUND (Off:0 Def:1),,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+18,0021700063,29,6,2,1,10:45 PM,9:48,Pachulia S.FOUL (P1.T3) (K.Fitzgerald),,,,,4.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+19,0021700063,31,3,13,1,10:46 PM,9:48,,,Lowry Free Throw 1 of 3 (1 PTS),5 - 2,-3,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+20,0021700063,32,3,14,1,10:46 PM,9:48,,,Lowry Free Throw 2 of 3 (2 PTS),6 - 2,-4,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+21,0021700063,33,3,15,1,10:46 PM,9:48,,,Lowry Free Throw 3 of 3 (3 PTS),7 - 2,-5,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+22,0021700063,34,1,79,1,10:46 PM,9:37,Green 25' 3PT Pullup Jump Shot (3 PTS) (Thompson 1 AST),,,7 - 5,-2,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+23,0021700063,36,1,1,1,10:46 PM,9:24,,,Ibaka 16' Jump Shot (4 PTS) (Lowry 2 AST),9 - 5,-4,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+24,0021700063,38,1,73,1,10:47 PM,9:13,Pachulia 2' Driving Reverse Layup (2 PTS) (Thompson 2 AST),,,9 - 7,-2,4.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+25,0021700063,40,1,9,1,10:47 PM,8:52,,,Powell 1' Driving Dunk (2 PTS) (Siakam 1 AST),11 - 7,-4,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+26,0021700063,43,1,52,1,10:48 PM,8:39,Durant 1' Alley Oop Dunk (4 PTS) (Curry 1 AST),,,11 - 9,-2,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+27,0021700063,45,2,1,1,10:48 PM,8:12,,,MISS Siakam  3PT Jump Shot,,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+28,0021700063,46,4,0,1,10:48 PM,8:12,,,DeRozan REBOUND (Off:1 Def:0),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+29,0021700063,48,5,11,1,10:48 PM,8:12,,,Raptors Turnover: Shot Clock (T#2),,,3.0,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+30,0021700063,49,6,2,1,10:48 PM,7:59,,,Powell S.FOUL (P2.T2) (M.Lindsay),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+31,0021700063,51,3,11,1,10:49 PM,7:59,Curry Free Throw 1 of 2 (1 PTS),,,11 - 10,-1,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+32,0021700063,53,8,0,1,10:49 PM,7:59,,,SUB: Wright FOR Powell,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+33,0021700063,54,3,12,1,10:49 PM,7:59,Curry Free Throw 2 of 2 (2 PTS),,,11 - 11,TIE,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+34,0021700063,55,6,1,1,10:50 PM,7:48,Durant P.FOUL (P1.T4) (K.Cutler),,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+35,0021700063,57,1,1,1,10:50 PM,7:42,,,Ibaka  3PT Jump Shot (7 PTS) (DeRozan 1 AST),14 - 11,-3,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+36,0021700063,59,2,1,1,10:50 PM,7:34,MISS Curry 6' Jump Shot,,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+37,0021700063,60,4,0,1,10:50 PM,7:28,Green REBOUND (Off:1 Def:0),,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+38,0021700063,61,2,5,1,10:50 PM,7:27,MISS Pachulia 2' Layup,,Wright BLOCK (1 BLK),,,4.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,1
+39,0021700063,63,4,0,1,10:50 PM,7:20,,,Ibaka REBOUND (Off:0 Def:2),,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+40,0021700063,64,2,1,1,10:50 PM,7:18,,,MISS Lowry 26' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+41,0021700063,65,4,0,1,10:50 PM,7:16,Pachulia REBOUND (Off:0 Def:2),,,,,4.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+42,0021700063,66,6,2,1,10:50 PM,7:16,,,Wright S.FOUL (P1.T3) (M.Lindsay),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+43,0021700063,68,3,11,1,10:51 PM,7:16,Green Free Throw 1 of 2 (4 PTS),,,14 - 12,-2,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+44,0021700063,69,3,12,1,10:51 PM,7:16,Green Free Throw 2 of 2 (5 PTS),,,14 - 13,-1,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+45,0021700063,81,5,39,1,10:52 PM,7:08,,,Siakam Step Out of Bounds Turnover (P1.T3),,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+46,0021700063,73,5,1,1,10:52 PM,6:58,Thompson Bad Pass Turnover (P1.T1),,Lowry STEAL (1 STL),,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+47,0021700063,75,2,1,1,10:52 PM,6:41,,,MISS Ibaka 26' 3PT Jump Shot,,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+48,0021700063,76,4,0,1,10:52 PM,6:37,Pachulia REBOUND (Off:0 Def:3),,,,,4.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+49,0021700063,77,5,1,1,10:52 PM,6:34,Green Bad Pass Turnover (P1.T2),,DeRozan STEAL (1 STL),,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+50,0021700063,80,9,1,1,10:53 PM,6:29,WARRIORS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+51,0021700063,79,1,6,1,10:52 PM,6:28,,,DeRozan 3' Driving Layup (2 PTS),16 - 13,-3,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+52,0021700063,82,1,41,1,10:55 PM,6:23,Green 2' Running Layup (7 PTS) (Thompson 3 AST),,,16 - 15,-1,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+53,0021700063,84,2,3,1,10:56 PM,6:03,,,MISS Siakam 6' Hook Shot,,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+54,0021700063,85,4,0,1,10:56 PM,5:59,Pachulia REBOUND (Off:0 Def:4),,,,,4.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+55,0021700063,86,1,1,1,10:56 PM,5:57,Thompson 26' 3PT Jump Shot (3 PTS) (Curry 2 AST),,,16 - 18,2,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+56,0021700063,88,2,1,1,10:56 PM,5:38,,,MISS Ibaka 25' 3PT Jump Shot,,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+57,0021700063,89,4,0,1,10:56 PM,5:35,Thompson REBOUND (Off:0 Def:1),,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+58,0021700063,90,1,6,1,10:56 PM,5:18,Curry 1' Driving Layup (4 PTS),,,16 - 20,4,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+59,0021700063,91,1,86,1,10:56 PM,5:06,,,Ibaka 12' Turnaround Fadeaway (9 PTS),18 - 20,2,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+60,0021700063,92,6,2,1,10:57 PM,4:54,,,Ibaka S.FOUL (P1.T4) (K.Fitzgerald),,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,4,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+61,0021700063,94,3,11,1,10:57 PM,4:54,MISS Pachulia Free Throw 1 of 2,,,,,4.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+62,0021700063,95,4,1,1,10:57 PM,4:54,WARRIORS Rebound,,,,,2.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+63,0021700063,98,8,0,1,10:57 PM,4:54,SUB: Iguodala FOR Durant,,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+64,0021700063,99,8,0,1,10:57 PM,4:54,,,SUB: Anunoby FOR Siakam,,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+65,0021700063,100,3,12,1,10:58 PM,4:54,Pachulia Free Throw 2 of 2 (3 PTS),,,18 - 21,3,4.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+66,0021700063,101,2,1,1,10:58 PM,4:45,,,MISS Anunoby  3PT Jump Shot,,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+67,0021700063,102,4,0,1,10:58 PM,4:42,Green REBOUND (Off:1 Def:1),,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+68,0021700063,103,5,1,1,10:58 PM,4:41,Green Bad Pass Turnover (P2.T3),,DeRozan STEAL (2 STL),,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+69,0021700063,107,8,0,1,10:58 PM,4:35,SUB: Bell FOR Pachulia,,,,,4.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,4,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+70,0021700063,109,8,0,1,10:58 PM,4:35,SUB: McCaw FOR Thompson,,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+71,0021700063,110,1,58,1,10:59 PM,4:28,,,Ibaka 8' Turnaround Hook Shot (11 PTS) (DeRozan 2 AST),20 - 21,1,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+72,0021700063,112,1,98,1,10:59 PM,4:18,McCaw 2' Cutting Layup Shot (2 PTS) (Green 1 AST),,,20 - 23,3,4.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+73,0021700063,114,5,4,1,10:59 PM,4:03,,,Anunoby Traveling Turnover (P1.T4),,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+74,0021700063,115,2,1,1,10:59 PM,3:52,MISS Curry 26' 3PT Jump Shot,,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+75,0021700063,116,4,0,1,11:00 PM,3:45,Green REBOUND (Off:2 Def:1),,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+76,0021700063,117,2,1,1,11:00 PM,3:38,MISS Curry 25' 3PT Jump Shot,,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+77,0021700063,118,4,0,1,11:00 PM,3:34,,,Wright REBOUND (Off:0 Def:1),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+78,0021700063,119,2,1,1,11:00 PM,3:17,,,MISS Lowry 26' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+79,0021700063,120,4,0,1,11:00 PM,3:12,Green REBOUND (Off:2 Def:2),,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+80,0021700063,121,2,1,1,11:00 PM,3:08,MISS Green 8' Jump Shot,,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+81,0021700063,122,4,0,1,11:00 PM,3:04,Bell REBOUND (Off:1 Def:0),,,,,4.0,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+82,0021700063,123,2,5,1,11:00 PM,3:04,MISS Bell 2' Layup,,Lowry BLOCK (1 BLK),,,4.0,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1
+83,0021700063,125,4,0,1,11:01 PM,3:04,Green REBOUND (Off:3 Def:2),,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+84,0021700063,127,8,0,1,11:01 PM,3:04,,,SUB: Miles FOR Lowry,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+85,0021700063,128,1,80,1,11:01 PM,2:55,Curry 18' Step Back Jump Shot (6 PTS),,,20 - 25,5,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+86,0021700063,129,9,1,1,11:01 PM,2:45,,,Raptors Timeout: Regular (Reg.1 Short 0),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+87,0021700063,131,8,0,1,11:04 PM,2:45,,,SUB: Poeltl FOR Ibaka,,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+88,0021700063,132,1,1,1,11:04 PM,2:39,,,DeRozan 15' Jump Shot (4 PTS),22 - 25,3,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+89,0021700063,133,6,2,1,11:04 PM,2:39,Bell S.FOUL (P1.PN) (K.Fitzgerald),,,,,4.0,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+90,0021700063,135,3,10,1,11:05 PM,2:39,,,MISS DeRozan Free Throw 1 of 1,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+91,0021700063,136,4,0,1,11:05 PM,2:36,,,Poeltl REBOUND (Off:1 Def:0),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+92,0021700063,137,5,1,1,11:05 PM,2:20,Green STEAL (1 STL),,Wright Bad Pass Turnover (P1.T5),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+93,0021700063,139,5,1,1,11:05 PM,2:13,Bell Bad Pass Turnover (P1.T4),,Miles STEAL (1 STL),,,4.0,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,5,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+94,0021700063,141,2,1,1,11:05 PM,1:55,,,MISS DeRozan 18' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+95,0021700063,142,4,0,1,11:05 PM,1:51,,,Poeltl REBOUND (Off:2 Def:0),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+96,0021700063,143,2,1,1,11:05 PM,1:48,,,MISS Miles 30' 3PT Jump Shot,,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+97,0021700063,144,4,0,1,11:06 PM,1:45,Curry REBOUND (Off:0 Def:1),,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+98,0021700063,145,2,5,1,11:06 PM,1:43,MISS Curry 2' Layup,,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+99,0021700063,146,4,0,1,11:06 PM,1:38,,,Miles REBOUND (Off:0 Def:1),,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+100,0021700063,147,1,5,1,11:06 PM,1:35,,,Poeltl 1' Layup (2 PTS) (Miles 1 AST),24 - 25,1,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,5,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+101,0021700063,149,1,52,1,11:06 PM,1:20,Bell 1' Alley Oop Dunk (2 PTS) (Iguodala 1 AST),,,24 - 27,3,4.0,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+102,0021700063,151,5,1,1,11:06 PM,1:04,Bell STEAL (1 STL),,DeRozan Bad Pass Turnover (P1.T6),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+103,0021700063,154,2,1,1,11:07 PM,0:52,MISS Green 30' 3PT Jump Shot,,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+104,0021700063,155,4,0,1,11:07 PM,0:50,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+105,0021700063,157,8,0,1,11:07 PM,0:50,,,SUB: VanVleet FOR DeRozan,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+106,0021700063,159,1,58,1,11:08 PM,0:26,,,Poeltl 6' Turnaround Hook Shot (4 PTS) (Miles 2 AST),26 - 27,1,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,5,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+107,0021700063,161,2,1,1,11:08 PM,0:05,MISS Curry 26' 3PT Jump Shot,,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+108,0021700063,162,4,0,1,11:08 PM,0:03,Green REBOUND (Off:4 Def:2),,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+109,0021700063,163,1,87,1,11:08 PM,0:03,Green 1' Putback Dunk (9 PTS),,,26 - 29,3,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+110,0021700063,164,2,1,1,11:08 PM,0:00,,,MISS Wright 29' 3PT Jump Shot,,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+111,0021700063,165,4,0,1,11:09 PM,0:00,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+112,0021700063,166,13,0,1,11:09 PM,0:00,,,,26 - 29,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+113,0021700063,175,12,0,2,11:11 PM,12:00,,,,26 - 29,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+114,0021700063,176,2,58,2,11:11 PM,11:45,MISS West 6' Turnaround Hook Shot,,,,,4.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+115,0021700063,177,4,0,2,11:11 PM,11:39,,,Poeltl REBOUND (Off:2 Def:1),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+116,0021700063,178,2,1,2,11:11 PM,11:30,,,MISS Miles 25' 3PT Jump Shot,,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+117,0021700063,179,4,0,2,11:12 PM,11:25,Durant REBOUND (Off:0 Def:1),,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+118,0021700063,180,2,1,2,11:12 PM,11:23,MISS Durant 26' 3PT Jump Shot,,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+119,0021700063,181,4,0,2,11:12 PM,11:14,,,Poeltl REBOUND (Off:2 Def:2),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+120,0021700063,182,1,1,2,11:12 PM,11:12,,,Miles 28' 3PT Jump Shot (3 PTS) (VanVleet 1 AST),29 - 29,TIE,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+121,0021700063,183,2,1,2,11:12 PM,10:54,MISS Thompson 12' Jump Shot,,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+122,0021700063,184,4,0,2,11:12 PM,10:50,,,VanVleet REBOUND (Off:0 Def:1),,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+123,0021700063,185,6,2,2,11:12 PM,10:47,West S.FOUL (P1.T1) (K.Cutler),,,,,4.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,5,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+124,0021700063,187,3,11,2,11:13 PM,10:47,,,Miles Free Throw 1 of 2 (4 PTS),30 - 29,-1,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+125,0021700063,189,3,12,2,11:13 PM,10:47,,,Miles Free Throw 2 of 2 (5 PTS),31 - 29,-2,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+126,0021700063,191,1,79,2,11:13 PM,10:33,Thompson 26' 3PT Pullup Jump Shot (6 PTS) (Livingston 1 AST),,,31 - 32,1,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+127,0021700063,193,2,79,2,11:14 PM,10:10,,,MISS Miles 25' 3PT Pullup Jump Shot,,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+128,0021700063,194,4,0,2,11:14 PM,10:05,Thompson REBOUND (Off:0 Def:2),,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+129,0021700063,195,5,45,2,11:14 PM,9:59,Thompson Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+130,0021700063,196,5,1,2,11:14 PM,9:58,West STEAL (1 STL),,Wright Bad Pass Turnover (P2.T7),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,4,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+131,0021700063,198,1,50,2,11:15 PM,9:38,West 1' Running Dunk (2 PTS) (Thompson 4 AST),,,31 - 34,3,4.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+132,0021700063,200,6,1,2,11:15 PM,9:27,Iguodala P.FOUL (P1.T2) (K.Fitzgerald),,,,,4.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+133,0021700063,202,2,1,2,11:15 PM,9:13,West BLOCK (1 BLK),,MISS Wright 26' 3PT Jump Shot,,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,2561,David West,1610612744.0,Golden State,Warriors,GSW,1
+134,0021700063,203,4,0,2,11:15 PM,9:11,,,Anunoby REBOUND (Off:1 Def:0),,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+135,0021700063,204,5,11,2,11:15 PM,9:11,,,Raptors Turnover: Shot Clock (T#8),,,3.0,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+136,0021700063,205,1,86,2,11:16 PM,8:53,Durant 9' Turnaround Fadeaway (6 PTS),,,31 - 36,5,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+137,0021700063,208,8,0,2,11:17 PM,8:49,,,SUB: Powell FOR Wright,,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+138,0021700063,209,1,79,2,11:17 PM,8:46,,,Miles 27' 3PT Pullup Jump Shot (8 PTS) (Powell 1 AST),34 - 36,2,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+139,0021700063,211,1,86,2,11:18 PM,8:20,Thompson 19' Turnaround Fadeaway (8 PTS),,,34 - 38,4,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+140,0021700063,213,2,79,2,11:18 PM,7:56,,,MISS Powell 26' 3PT Pullup Jump Shot,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+141,0021700063,214,4,0,2,11:18 PM,7:44,,,Poeltl REBOUND (Off:3 Def:2),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+142,0021700063,215,1,72,2,11:18 PM,7:44,,,Poeltl 1' Putback Layup (6 PTS),36 - 38,2,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+143,0021700063,216,1,43,2,11:19 PM,7:35,Thompson 1' Alley Oop Layup (10 PTS) (West 1 AST),,,36 - 40,4,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+144,0021700063,218,6,26,2,11:19 PM,7:18,,,Poeltl Offensive Charge Foul (P1.T1) (M.Lindsay),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,4,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+145,0021700063,220,5,37,2,11:19 PM,7:18,,,Poeltl Offensive Foul Turnover (P1.T9),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+146,0021700063,222,8,0,2,11:19 PM,7:18,,,SUB: Lowry FOR VanVleet,,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+147,0021700063,223,5,45,2,11:19 PM,7:08,West Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,,,4.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+148,0021700063,224,1,105,2,11:20 PM,6:52,,,Miles 12' Turnaround Fadeaway Bank Jump Shot (10 PTS),38 - 40,2,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+149,0021700063,225,2,1,2,11:20 PM,6:37,MISS Durant 26' 3PT Jump Shot,,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+150,0021700063,226,4,0,2,11:20 PM,6:33,,,Miles REBOUND (Off:0 Def:2),,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+151,0021700063,227,2,1,2,11:20 PM,6:29,,,MISS Miles 31' 3PT Jump Shot,,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+152,0021700063,228,4,0,2,11:20 PM,6:24,,,Anunoby REBOUND (Off:3 Def:0),,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+153,0021700063,229,2,97,2,11:20 PM,6:24,,,MISS Anunoby 1' Tip Layup Shot,,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+154,0021700063,230,4,0,2,11:20 PM,6:23,,,Anunoby REBOUND (Off:3 Def:0),,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+155,0021700063,231,1,1,2,11:21 PM,6:21,,,Anunoby  3PT Jump Shot (3 PTS) (Powell 2 AST),41 - 40,-1,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+156,0021700063,233,9,1,2,11:21 PM,6:21,WARRIORS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+157,0021700063,237,8,0,2,11:22 PM,6:21,SUB: Curry FOR West,,,,,4.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+158,0021700063,238,8,0,2,11:22 PM,6:21,SUB: Green FOR Iguodala,,,,,4.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+159,0021700063,239,8,0,2,11:22 PM,6:21,,,SUB: DeRozan FOR Anunoby,,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+160,0021700063,240,6,1,2,11:23 PM,6:12,,,Powell P.FOUL (P3.T2) (K.Cutler),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+161,0021700063,242,2,6,2,11:24 PM,6:05,MISS Durant 1' Driving Layup,,Poeltl BLOCK (1 BLK),,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,1
+162,0021700063,243,4,0,2,11:24 PM,5:57,,,Powell REBOUND (Off:0 Def:1),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+163,0021700063,244,1,5,2,11:24 PM,5:51,,,Lowry 1' Layup (5 PTS) (DeRozan 3 AST),43 - 40,-3,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+164,0021700063,246,1,79,2,11:24 PM,5:39,Thompson 26' 3PT Pullup Jump Shot (13 PTS) (Curry 3 AST),,,43 - 43,TIE,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+165,0021700063,248,2,1,2,11:24 PM,5:25,,,MISS Lowry 8' Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+166,0021700063,249,4,0,2,11:25 PM,5:19,,,Poeltl REBOUND (Off:4 Def:2),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+167,0021700063,250,2,97,2,11:25 PM,5:19,,,MISS Poeltl 1' Tip Layup Shot,,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+168,0021700063,251,4,0,2,11:25 PM,5:17,Curry REBOUND (Off:0 Def:2),,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+169,0021700063,252,1,1,2,11:25 PM,5:14,Durant  3PT Jump Shot (9 PTS) (Curry 4 AST),,,43 - 46,3,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+170,0021700063,254,5,1,2,11:25 PM,5:02,Durant STEAL (1 STL),,DeRozan Bad Pass Turnover (P2.T10),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+171,0021700063,256,5,1,2,11:25 PM,4:56,Curry Bad Pass Turnover (P1.T7),,DeRozan STEAL (3 STL),,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+172,0021700063,258,2,1,2,11:25 PM,4:51,,,MISS Miles  3PT Jump Shot,,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+173,0021700063,259,4,0,2,11:25 PM,4:43,,,Poeltl REBOUND (Off:5 Def:2),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+174,0021700063,260,5,1,2,11:25 PM,4:26,Green STEAL (2 STL),,Lowry Bad Pass Turnover (P2.T11),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+175,0021700063,262,1,1,2,11:26 PM,4:20,Thompson 26' 3PT Jump Shot (16 PTS) (Durant 1 AST),,,43 - 49,6,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+176,0021700063,264,9,1,2,11:26 PM,4:19,,,Raptors Timeout: Regular (Reg.2 Short 0),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+177,0021700063,269,8,0,2,11:27 PM,4:19,,,SUB: Wright FOR Miles,,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+178,0021700063,270,8,0,2,11:27 PM,4:19,,,SUB: Ibaka FOR Powell,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+179,0021700063,271,8,0,2,11:27 PM,4:19,,,SUB: Siakam FOR Poeltl,,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+180,0021700063,272,1,63,2,11:29 PM,4:12,,,DeRozan 14' Fadeaway Jumper (6 PTS) (Lowry 3 AST),45 - 49,4,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+181,0021700063,274,2,79,2,11:29 PM,3:59,MISS Thompson 26' 3PT Pullup Jump Shot,,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+182,0021700063,275,4,0,2,11:29 PM,3:54,,,Wright REBOUND (Off:0 Def:2),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+183,0021700063,276,1,5,2,11:29 PM,3:50,,,Siakam 3' Layup (4 PTS) (Lowry 4 AST),47 - 49,2,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+184,0021700063,278,6,2,2,11:29 PM,3:32,,,Wright S.FOUL (P2.T3) (K.Cutler),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,4,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+185,0021700063,280,3,11,2,11:30 PM,3:32,Durant Free Throw 1 of 2 (10 PTS),,,47 - 50,3,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+186,0021700063,282,8,0,2,11:30 PM,3:32,SUB: Iguodala FOR Livingston,,,,,4.0,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+187,0021700063,283,3,12,2,11:30 PM,3:32,Durant Free Throw 2 of 2 (11 PTS),,,47 - 51,4,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+188,0021700063,284,2,80,2,11:30 PM,3:12,,,MISS DeRozan 17' Step Back Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+189,0021700063,285,4,0,2,11:30 PM,3:07,Iguodala REBOUND (Off:0 Def:1),,,,,4.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+190,0021700063,286,1,1,2,11:31 PM,3:03,Green 10' Jump Shot (11 PTS) (Iguodala 2 AST),,,47 - 53,6,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+191,0021700063,288,5,4,2,11:31 PM,2:51,,,Ibaka Traveling Turnover (P1.T12),,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+192,0021700063,289,1,1,2,11:31 PM,2:47,Durant 18' Jump Shot (13 PTS) (Green 2 AST),,,47 - 55,8,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+193,0021700063,291,2,86,2,11:31 PM,2:22,,,MISS Lowry 11' Turnaround Fadeaway Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+194,0021700063,292,4,0,2,11:31 PM,2:17,Thompson REBOUND (Off:0 Def:3),,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+195,0021700063,293,5,1,2,11:31 PM,2:15,Green Bad Pass Turnover (P3.T8),,DeRozan STEAL (4 STL),,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+196,0021700063,295,2,1,2,11:32 PM,2:12,,,MISS Wright 25' 3PT Jump Shot,,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+197,0021700063,296,4,0,2,11:32 PM,2:12,WARRIORS Rebound,,,,,2.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+198,0021700063,297,2,86,2,11:32 PM,1:57,MISS Durant 17' Turnaround Fadeaway Shot,,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+199,0021700063,298,4,0,2,11:32 PM,1:49,,,Ibaka REBOUND (Off:0 Def:3),,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+200,0021700063,299,6,2,2,11:32 PM,1:42,Curry S.FOUL (P2.T3) (K.Cutler),,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+201,0021700063,301,3,11,2,11:33 PM,1:42,,,DeRozan Free Throw 1 of 2 (7 PTS),48 - 55,7,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+202,0021700063,302,3,12,2,11:33 PM,1:42,,,DeRozan Free Throw 2 of 2 (8 PTS),49 - 55,6,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+203,0021700063,303,2,98,2,11:33 PM,1:31,MISS Durant 1' Cutting Layup Shot,,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+204,0021700063,304,4,0,2,11:33 PM,1:27,,,Siakam REBOUND (Off:0 Def:2),,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+205,0021700063,305,2,1,2,11:33 PM,1:24,,,MISS Lowry 27' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+206,0021700063,306,4,0,2,11:33 PM,1:19,Thompson REBOUND (Off:0 Def:4),,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+207,0021700063,307,6,2,2,11:33 PM,1:19,,,Siakam S.FOUL (P1.T4) (K.Cutler),,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+208,0021700063,309,18,0,2,11:34 PM,1:19,,,,49 - 55,6,0.0,307,,,,,,0,0,,,,,,1,0,,,,,,0
+209,0021700063,310,3,11,2,11:34 PM,1:19,Curry Free Throw 1 of 2 (7 PTS),,,49 - 56,7,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+210,0021700063,311,3,12,2,11:34 PM,1:19,Curry Free Throw 2 of 2 (8 PTS),,,49 - 57,8,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+211,0021700063,312,2,86,2,11:35 PM,1:03,,,MISS Ibaka 16' Turnaround Fadeaway Shot,,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+212,0021700063,313,4,0,2,11:35 PM,0:58,Durant REBOUND (Off:0 Def:2),,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+213,0021700063,314,6,1,2,11:35 PM,0:57,,,Lowry P.FOUL (P1.PN) (M.Lindsay),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+214,0021700063,317,3,12,2,11:35 PM,0:57,Curry Free Throw 2 of 2 (9 PTS),,,49 - 58,9,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+215,0021700063,316,3,11,2,11:36 PM,0:57,Curry Free Throw 1 of 2 (10 PTS),,,49 - 59,10,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+216,0021700063,318,2,1,2,11:36 PM,0:37,,,MISS DeRozan 13' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+217,0021700063,319,4,0,2,11:36 PM,0:29,Green REBOUND (Off:4 Def:3),,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+218,0021700063,320,5,1,2,11:36 PM,0:27,Green Bad Pass Turnover (P4.T9),,DeRozan STEAL (5 STL),,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+219,0021700063,322,1,41,2,11:36 PM,0:24,,,Siakam 2' Running Layup (6 PTS) (DeRozan 4 AST),51 - 59,8,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+220,0021700063,324,1,1,2,11:37 PM,0:06,Thompson 22' Jump Shot (18 PTS) (Curry 5 AST),,,51 - 61,10,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+221,0021700063,327,1,6,2,11:37 PM,0:02,,,Lowry 3' Driving Layup (7 PTS),53 - 61,8,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+222,0021700063,328,18,0,2,11:38 PM,0:00,,,,53 - 61,8,0.0,324,Anthony Peeler,,,,,0,0,,,,,,1,0,,,,,,0
+223,0021700063,329,13,0,2,11:38 PM,0:00,,,,53 - 61,8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+224,0021700063,334,12,0,3,11:53 PM,12:00,,,,53 - 61,8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+225,0021700063,335,1,80,3,11:53 PM,11:49,Curry 25' 3PT Step Back Jump Shot (13 PTS) (Durant 2 AST),,,53 - 64,11,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+226,0021700063,337,2,1,3,11:53 PM,11:27,,,MISS Ibaka 27' 3PT Jump Shot,,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+227,0021700063,338,4,0,3,11:53 PM,11:22,Thompson REBOUND (Off:0 Def:5),,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+228,0021700063,339,1,1,3,11:53 PM,11:18,Durant 25' 3PT Jump Shot (16 PTS) (Thompson 5 AST),,,53 - 67,14,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+229,0021700063,342,1,80,3,11:54 PM,10:57,,,DeRozan 13' Step Back Jump Shot (10 PTS),55 - 67,12,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+230,0021700063,343,1,98,3,11:54 PM,10:42,Thompson 2' Cutting Layup Shot (20 PTS) (Pachulia 1 AST),,,55 - 69,14,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+231,0021700063,345,1,6,3,11:54 PM,10:28,,,Siakam 3' Driving Layup (8 PTS) (Powell 3 AST),57 - 69,12,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+232,0021700063,347,2,1,3,11:55 PM,10:15,MISS Pachulia 6' Jump Shot,,Ibaka BLOCK (2 BLK),,,4.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,1
+233,0021700063,349,4,0,3,11:55 PM,10:11,,,DeRozan REBOUND (Off:1 Def:1),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+234,0021700063,350,2,1,3,11:55 PM,10:07,,,MISS Ibaka 25' 3PT Jump Shot,,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+235,0021700063,351,4,0,3,11:55 PM,10:00,Thompson REBOUND (Off:0 Def:6),,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+236,0021700063,352,1,1,3,11:55 PM,9:54,Durant 14' Jump Shot (18 PTS) (Green 3 AST),,,57 - 71,14,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+237,0021700063,354,6,2,3,11:55 PM,9:26,Durant S.FOUL (P2.T1) (K.Cutler),,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+238,0021700063,356,3,11,3,11:56 PM,9:26,,,Ibaka Free Throw 1 of 2 (12 PTS),58 - 71,13,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+239,0021700063,357,3,12,3,11:56 PM,9:26,,,Ibaka Free Throw 2 of 2 (13 PTS),59 - 71,12,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+240,0021700063,358,5,45,3,11:57 PM,9:21,Curry Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+241,0021700063,359,2,1,3,11:57 PM,9:15,,,MISS Lowry 25' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+242,0021700063,360,4,0,3,11:57 PM,9:09,Green REBOUND (Off:4 Def:4),,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+243,0021700063,361,6,1,3,11:57 PM,9:06,,,Lowry P.FOUL (P2.T1) (K.Fitzgerald),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+244,0021700063,363,2,71,3,11:57 PM,8:55,MISS Durant 3' Finger Roll Layup,,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+245,0021700063,364,4,0,3,11:57 PM,8:54,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+246,0021700063,365,1,6,3,11:58 PM,8:31,,,Ibaka 1' Driving Layup (15 PTS),61 - 71,10,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+247,0021700063,366,1,41,3,11:58 PM,8:24,Curry 2' Running Layup (15 PTS),,,61 - 73,12,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+248,0021700063,367,1,3,3,11:58 PM,8:12,,,Siakam 4' Hook Shot (10 PTS) (Lowry 5 AST),63 - 73,10,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+249,0021700063,369,9,1,3,11:58 PM,8:12,WARRIORS Timeout: Regular (Full 3 Short 0),,,,,2.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+250,0021700063,370,1,79,3,12:01 AM,8:02,Durant 14' Pullup Jump Shot (20 PTS) (Pachulia 2 AST),,,63 - 75,12,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+251,0021700063,372,5,4,3,12:02 AM,7:47,,,DeRozan Traveling Turnover (P3.T13),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+252,0021700063,412,2,1,3,12:02 AM,7:32,MISS Durant 18' Jump Shot,,Lowry BLOCK (2 BLK),,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0
+253,0021700063,414,4,0,3,12:02 AM,7:32,,,Lowry REBOUND (Off:0 Def:1),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+254,0021700063,375,1,52,3,12:02 AM,7:27,,,Siakam 2' Alley Oop Dunk (12 PTS) (Lowry 6 AST),65 - 75,10,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+255,0021700063,377,5,1,3,12:03 AM,7:13,Thompson Bad Pass Turnover (P3.T11),,Powell STEAL (1 STL),,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+256,0021700063,379,1,6,3,12:03 AM,7:03,,,Siakam 1' Driving Layup (14 PTS) (Powell 4 AST),67 - 75,8,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+257,0021700063,381,6,26,3,12:03 AM,6:46,Thompson Offensive Charge Foul (P2.T2) (K.Fitzgerald),,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+258,0021700063,383,5,37,3,12:03 AM,6:46,Thompson Offensive Foul Turnover (P4.T12),,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+259,0021700063,385,8,0,3,12:03 AM,6:46,SUB: Iguodala FOR Durant,,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+260,0021700063,386,1,1,3,12:04 AM,6:27,,,Siakam 26' 3PT Jump Shot (17 PTS) (DeRozan 5 AST),70 - 75,5,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+261,0021700063,388,5,8,3,12:04 AM,6:07,Pachulia 3 Second Violation Turnover (P1.T13),,,,,4.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+262,0021700063,389,2,1,3,12:05 AM,5:49,,,MISS Ibaka 18' Jump Shot,,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+263,0021700063,390,4,0,3,12:05 AM,5:45,Iguodala REBOUND (Off:0 Def:2),,,,,4.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+264,0021700063,391,2,47,3,12:05 AM,5:38,MISS Green 8' Turnaround Jump Shot,,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+265,0021700063,392,4,0,3,12:05 AM,5:33,,,Ibaka REBOUND (Off:0 Def:4),,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+266,0021700063,393,1,1,3,12:05 AM,5:29,,,Siakam 24' 3PT Jump Shot (20 PTS) (DeRozan 6 AST),73 - 75,2,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+267,0021700063,395,5,1,3,12:05 AM,5:07,Green Bad Pass Turnover (P5.T14),,DeRozan STEAL (6 STL),,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+268,0021700063,397,5,1,3,12:05 AM,5:01,Curry STEAL (2 STL),,Powell Bad Pass Turnover (P1.T14),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+269,0021700063,401,8,0,3,12:06 AM,4:59,SUB: McCaw FOR Thompson,,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+270,0021700063,403,8,0,3,12:06 AM,4:59,SUB: Bell FOR Pachulia,,,,,4.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,4,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+271,0021700063,404,1,98,3,12:06 AM,4:48,McCaw 2' Cutting Layup Shot (4 PTS) (Green 4 AST),,,73 - 77,4,4.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+272,0021700063,406,1,6,3,12:07 AM,4:25,,,Lowry 2' Driving Layup (9 PTS) (Siakam 2 AST),75 - 77,2,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+273,0021700063,409,1,44,3,12:07 AM,4:14,Bell 3' Reverse Layup (4 PTS) (Green 5 AST),,,75 - 79,4,4.0,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+274,0021700063,411,9,1,3,12:07 AM,4:14,,,Raptors Timeout: Regular (Reg.3 Short 0),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+275,0021700063,417,8,0,3,12:09 AM,4:14,,,SUB: Miles FOR Ibaka,,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,5,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+276,0021700063,418,8,0,3,12:09 AM,4:14,,,SUB: Poeltl FOR Powell,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+277,0021700063,419,2,5,3,12:10 AM,3:51,Bell BLOCK (1 BLK),,MISS Poeltl 3' Layup,,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,1
+278,0021700063,421,4,0,3,12:10 AM,3:45,Bell REBOUND (Off:1 Def:1),,,,,4.0,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+279,0021700063,422,2,80,3,12:10 AM,3:33,MISS Curry 18' Step Back Jump Shot,,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+280,0021700063,423,4,0,3,12:11 AM,3:28,,,DeRozan REBOUND (Off:1 Def:2),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+281,0021700063,424,2,3,3,12:11 AM,3:22,,,MISS Siakam 10' Hook Shot,,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+282,0021700063,425,4,0,3,12:11 AM,3:17,Green REBOUND (Off:4 Def:5),,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+283,0021700063,426,1,5,3,12:11 AM,3:13,Bell 2' Layup (6 PTS) (Iguodala 3 AST),,,75 - 81,6,4.0,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+284,0021700063,428,1,79,3,12:11 AM,2:59,,,Lowry 18' Pullup Jump Shot (11 PTS),77 - 81,4,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+285,0021700063,429,1,75,3,12:11 AM,2:40,Curry 2' Driving Finger Roll Layup (17 PTS),,,77 - 83,6,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+286,0021700063,430,1,98,3,12:11 AM,2:31,,,DeRozan 3' Cutting Layup Shot (12 PTS) (Lowry 7 AST),79 - 83,4,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+287,0021700063,432,2,78,3,12:12 AM,2:12,MISS Curry 11' Floating Jump Shot,,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+288,0021700063,433,4,0,3,12:12 AM,2:06,,,Lowry REBOUND (Off:0 Def:2),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+289,0021700063,439,2,1,3,12:12 AM,2:03,Curry BLOCK (1 BLK),,MISS Lowry 78' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0
+290,0021700063,441,4,0,3,12:12 AM,2:03,Curry REBOUND (Off:0 Def:3),,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+291,0021700063,436,6,2,3,12:12 AM,1:58,,,Miles S.FOUL (P1.T2) (K.Fitzgerald),,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+292,0021700063,438,3,11,3,12:13 AM,1:58,Green Free Throw 1 of 2 (12 PTS),,,79 - 84,5,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+293,0021700063,444,8,0,3,12:13 AM,1:58,,,SUB: Anunoby FOR Lowry,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+294,0021700063,445,8,0,3,12:13 AM,1:58,,,SUB: Wright FOR Siakam,,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+295,0021700063,446,3,12,3,12:13 AM,1:58,Green Free Throw 2 of 2 (13 PTS),,,79 - 85,6,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+296,0021700063,447,2,1,3,12:13 AM,1:44,,,MISS Anunoby  3PT Jump Shot,,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+297,0021700063,448,4,0,3,12:13 AM,1:43,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+298,0021700063,450,8,0,3,12:14 AM,1:43,SUB: Durant FOR Green,,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+299,0021700063,451,1,6,3,12:14 AM,1:33,,,Wright 1' Driving Layup (2 PTS),81 - 85,4,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+300,0021700063,452,6,2,3,12:14 AM,1:33,Bell S.FOUL (P2.T3) (K.Cutler),,,,,4.0,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+301,0021700063,454,3,10,3,12:14 AM,1:33,,,Wright Free Throw 1 of 1 (3 PTS),82 - 85,3,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+302,0021700063,455,1,79,3,12:15 AM,1:17,Curry  3PT Pullup Jump Shot (20 PTS) (Iguodala 4 AST),,,82 - 88,6,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+303,0021700063,457,1,79,3,12:15 AM,1:04,,,DeRozan 12' Pullup Jump Shot (14 PTS),84 - 88,4,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+304,0021700063,458,1,79,3,12:15 AM,0:52,Curry 29' 3PT Pullup Jump Shot (23 PTS) (Durant 3 AST),,,84 - 91,7,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+305,0021700063,460,1,79,3,12:16 AM,0:31,,,DeRozan 20' Pullup Jump Shot (16 PTS) (Anunoby 1 AST),86 - 91,5,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+306,0021700063,462,2,1,3,12:16 AM,0:28,MISS Curry 26' 3PT Jump Shot,,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+307,0021700063,463,4,0,3,12:16 AM,0:18,,,Poeltl REBOUND (Off:5 Def:3),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+308,0021700063,464,2,1,3,12:16 AM,0:04,,,MISS DeRozan 21' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+309,0021700063,465,4,0,3,12:16 AM,0:04,,,Poeltl REBOUND (Off:6 Def:3),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+310,0021700063,466,2,97,3,12:16 AM,0:02,,,MISS Poeltl 1' Tip Layup Shot,,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+311,0021700063,467,4,0,3,12:16 AM,0:02,,,Poeltl REBOUND (Off:7 Def:3),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+312,0021700063,477,2,97,3,12:17 AM,0:01,,,MISS Poeltl  Tip Layup Shot,,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+313,0021700063,478,4,0,3,12:17 AM,0:01,Durant REBOUND (Off:0 Def:3),,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+314,0021700063,468,13,0,3,12:17 AM,0:00,,,,86 - 91,5,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+315,0021700063,479,12,0,4,12:19 AM,12:00,,,,86 - 91,5,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+316,0021700063,480,2,3,4,12:19 AM,11:41,,,MISS Lowry 7' Hook Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+317,0021700063,481,4,0,4,12:20 AM,11:35,West REBOUND (Off:0 Def:1),,,,,4.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+318,0021700063,482,1,79,4,12:20 AM,11:22,Durant 14' Pullup Jump Shot (22 PTS) (Livingston 2 AST),,,86 - 93,7,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+319,0021700063,484,5,1,4,12:20 AM,11:06,Thompson STEAL (1 STL),,Miles Bad Pass Turnover (P1.T15),,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+320,0021700063,486,1,5,4,12:20 AM,11:01,West 2' Layup (4 PTS) (Livingston 3 AST),,,86 - 95,9,4.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,4,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+321,0021700063,488,5,1,4,12:20 AM,10:43,Iguodala STEAL (1 STL),,Wright Bad Pass Turnover (P3.T16),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+322,0021700063,491,1,109,4,12:21 AM,10:32,West 1' Driving Reverse Dunk Shot (6 PTS) (Durant 4 AST),,,86 - 97,11,4.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,4,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+323,0021700063,493,9,1,4,12:21 AM,10:30,,,Raptors Timeout: Regular (Reg.4 Short 0),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+324,0021700063,494,1,58,4,12:24 AM,10:17,,,Poeltl 3' Turnaround Hook Shot (8 PTS) (Anunoby 2 AST),88 - 97,9,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+325,0021700063,496,2,1,4,12:25 AM,9:52,MISS Iguodala  3PT Jump Shot,,,,,4.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+326,0021700063,497,4,0,4,12:25 AM,9:48,,,Miles REBOUND (Off:0 Def:3),,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+327,0021700063,498,2,1,4,12:25 AM,9:43,,,MISS Lowry 12' Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+328,0021700063,499,4,0,4,12:25 AM,9:36,,,Anunoby REBOUND (Off:4 Def:0),,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+329,0021700063,500,1,1,4,12:25 AM,9:27,,,Anunoby 28' 3PT Jump Shot (6 PTS) (Wright 1 AST),91 - 97,6,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+330,0021700063,502,2,1,4,12:25 AM,9:02,MISS Thompson 10' Jump Shot,,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+331,0021700063,503,4,0,4,12:25 AM,8:54,West REBOUND (Off:1 Def:1),,,,,4.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+332,0021700063,504,1,87,4,12:25 AM,8:54,West 1' Putback Dunk (8 PTS),,,91 - 99,8,4.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+333,0021700063,505,2,1,4,12:26 AM,8:43,West BLOCK (2 BLK),,MISS Miles 25' 3PT Jump Shot,,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,2561,David West,1610612744.0,Golden State,Warriors,GSW,1
+334,0021700063,512,1,5,4,12:26 AM,8:43,,,Anunoby 1' Layup (8 PTS) (Poeltl 1 AST),93 - 99,6,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+335,0021700063,506,4,0,4,12:26 AM,8:39,,,Poeltl REBOUND (Off:8 Def:3),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+336,0021700063,509,6,1,4,12:27 AM,8:27,,,Poeltl P.FOUL (P2.T1) (K.Cutler),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,4,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+337,0021700063,519,8,0,4,12:27 AM,8:27,,,SUB: DeRozan FOR Miles,,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+338,0021700063,514,5,45,4,12:27 AM,8:19,West Out of Bounds - Bad Pass Turnover Turnover (P2.T15),,,,,4.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+339,0021700063,515,2,1,4,12:27 AM,8:08,,,MISS Lowry 26' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+340,0021700063,516,4,0,4,12:27 AM,8:04,,,Poeltl REBOUND (Off:9 Def:3),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+341,0021700063,517,1,44,4,12:27 AM,8:04,,,Poeltl 3' Reverse Layup (10 PTS),95 - 99,4,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+342,0021700063,521,8,0,4,12:29 AM,8:04,SUB: Green FOR West,,,,,4.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+343,0021700063,522,2,1,4,12:30 AM,7:48,MISS Durant 20' Jump Shot,,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+344,0021700063,523,4,0,4,12:30 AM,7:44,,,Wright REBOUND (Off:0 Def:3),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+345,0021700063,524,2,86,4,12:30 AM,7:38,Iguodala BLOCK (1 BLK),,MISS DeRozan 9' Turnaround Fadeaway Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,1
+346,0021700063,526,4,0,4,12:30 AM,7:31,,,Wright REBOUND (Off:1 Def:3),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+347,0021700063,527,6,2,4,12:31 AM,7:25,Green S.FOUL (P1.T1) (K.Fitzgerald),,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+348,0021700063,529,3,11,4,12:31 AM,7:25,,,Wright Free Throw 1 of 2 (4 PTS),96 - 99,3,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+349,0021700063,530,3,12,4,12:31 AM,7:25,,,Wright Free Throw 2 of 2 (5 PTS),97 - 99,2,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+350,0021700063,531,5,2,4,12:32 AM,7:13,Green Lost Ball Turnover (P6.T16),,Poeltl STEAL (1 STL),,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+351,0021700063,533,1,44,4,12:32 AM,7:10,,,Wright 2' Reverse Layup (7 PTS) (Lowry 8 AST),99 - 99,TIE,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+352,0021700063,535,9,1,4,12:32 AM,7:10,WARRIORS Timeout: Regular (Full 4 Short 0),,,,,2.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+353,0021700063,538,8,0,4,12:33 AM,7:10,SUB: Curry FOR Iguodala,,,,,4.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+354,0021700063,539,1,79,4,12:33 AM,6:56,Durant 17' Pullup Jump Shot (24 PTS),,,99 - 101,2,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+355,0021700063,540,6,2,4,12:34 AM,6:38,Livingston S.FOUL (P1.T2) (K.Cutler),,,,,4.0,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+356,0021700063,542,3,11,4,12:34 AM,6:38,,,DeRozan Free Throw 1 of 2 (17 PTS),100 - 101,1,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+357,0021700063,543,3,12,4,12:34 AM,6:38,,,DeRozan Free Throw 2 of 2 (18 PTS),101 - 101,TIE,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+358,0021700063,544,6,2,4,12:35 AM,6:26,,,Poeltl S.FOUL (P3.T2) (K.Cutler),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+359,0021700063,546,3,11,4,12:35 AM,6:26,Green Free Throw 1 of 2 (14 PTS),,,101 - 102,1,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+360,0021700063,548,8,0,4,12:35 AM,6:26,,,SUB: Ibaka FOR Anunoby,,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+361,0021700063,549,3,12,4,12:35 AM,6:26,Green Free Throw 2 of 2 (15 PTS),,,101 - 103,2,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+362,0021700063,550,1,79,4,12:36 AM,6:03,,,Lowry 27' 3PT Pullup Jump Shot (14 PTS) (Poeltl 2 AST),104 - 103,-1,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+363,0021700063,552,6,2,4,12:36 AM,5:50,,,Lowry S.FOUL (P3.T3) (K.Fitzgerald),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+364,0021700063,554,3,11,4,12:36 AM,5:50,MISS Durant Free Throw 1 of 2,,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+365,0021700063,555,4,1,4,12:36 AM,5:50,WARRIORS Rebound,,,,,2.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+366,0021700063,556,3,12,4,12:37 AM,5:50,Durant Free Throw 2 of 2 (25 PTS),,,104 - 104,TIE,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+367,0021700063,557,2,1,4,12:37 AM,5:37,,,MISS DeRozan 17' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+368,0021700063,558,4,0,4,12:37 AM,5:33,,,Poeltl REBOUND (Off:10 Def:3),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+369,0021700063,559,2,1,4,12:37 AM,5:30,,,MISS Wright 25' 3PT Jump Shot,,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+370,0021700063,560,4,0,4,12:37 AM,5:26,Curry REBOUND (Off:0 Def:4),,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+371,0021700063,561,2,1,4,12:37 AM,5:21,MISS Durant 26' 3PT Jump Shot,,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+372,0021700063,562,4,0,4,12:37 AM,5:15,,,Lowry REBOUND (Off:0 Def:3),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+373,0021700063,563,2,1,4,12:37 AM,5:13,,,MISS Lowry 29' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+374,0021700063,564,4,0,4,12:38 AM,5:11,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+375,0021700063,565,6,3,4,12:38 AM,5:11,Livingston L.B.FOUL (P2.T3) (K.Fitzgerald),,,,,4.0,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+376,0021700063,567,2,1,4,12:38 AM,4:58,,,MISS DeRozan 21' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+377,0021700063,568,4,0,4,12:38 AM,4:53,,,Poeltl REBOUND (Off:11 Def:3),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+378,0021700063,569,2,1,4,12:38 AM,4:43,,,MISS DeRozan 7' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+379,0021700063,570,4,0,4,12:38 AM,4:39,Green REBOUND (Off:4 Def:6),,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+380,0021700063,571,6,2,4,12:39 AM,4:36,,,Lowry S.FOUL (P4.T4) (K.Cutler),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+381,0021700063,573,3,11,4,12:39 AM,4:36,MISS Durant Free Throw 1 of 2,,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+382,0021700063,574,4,1,4,12:39 AM,4:36,WARRIORS Rebound,,,,,2.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+383,0021700063,576,8,0,4,12:39 AM,4:36,SUB: Iguodala FOR Livingston,,,,,4.0,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+384,0021700063,577,9,1,4,12:39 AM,4:36,,,Raptors Timeout: Regular (Reg.5 Short 0),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+385,0021700063,578,3,12,4,12:41 AM,4:36,Durant Free Throw 2 of 2 (26 PTS),,,104 - 105,1,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+386,0021700063,579,1,58,4,12:41 AM,4:22,,,Poeltl 5' Turnaround Hook Shot (12 PTS) (Lowry 9 AST),106 - 105,-1,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+387,0021700063,581,2,79,4,12:42 AM,4:03,MISS Thompson 25' 3PT Pullup Jump Shot,,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+388,0021700063,582,4,0,4,12:42 AM,3:59,,,Wright REBOUND (Off:1 Def:4),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+389,0021700063,583,1,108,4,12:42 AM,3:53,,,DeRozan 3' Cutting Dunk Shot (20 PTS) (Wright 2 AST),108 - 105,-3,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+390,0021700063,585,2,1,4,12:42 AM,3:41,MISS Curry 27' 3PT Jump Shot,,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+391,0021700063,586,4,0,4,12:42 AM,3:37,,,Lowry REBOUND (Off:0 Def:4),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+392,0021700063,587,5,4,4,12:42 AM,3:20,,,Ibaka Traveling Turnover (P2.T17),,,5.0,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+393,0021700063,588,2,80,4,12:43 AM,3:05,MISS Curry 26' 3PT Step Back Jump Shot,,,,,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+394,0021700063,589,4,0,4,12:43 AM,3:01,,,Wright REBOUND (Off:1 Def:5),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+395,0021700063,590,1,47,4,12:43 AM,2:52,,,DeRozan 14' Turnaround Jump Shot (22 PTS),110 - 105,-5,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+396,0021700063,591,1,98,4,12:43 AM,2:36,Thompson 1' Cutting Layup Shot (22 PTS) (Green 6 AST),,,110 - 107,-3,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+397,0021700063,593,6,2,4,12:44 AM,2:13,Green S.FOUL (P2.T4) (M.Lindsay),,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+398,0021700063,595,3,11,4,12:44 AM,2:13,,,DeRozan Free Throw 1 of 2 (23 PTS),111 - 107,-4,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+399,0021700063,596,3,12,4,12:45 AM,2:13,,,DeRozan Free Throw 2 of 2 (24 PTS),112 - 107,-5,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+400,0021700063,599,18,1,4,12:45 AM,1:56,,,,112 - 107,-5,0.0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+401,0021700063,629,5,40,4,12:46 AM,1:56,Durant Out of Bounds Lost Ball Turnover (P1.T17),,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+402,0021700063,602,2,1,4,12:47 AM,1:37,Green BLOCK (1 BLK),,MISS Poeltl 9' Jump Shot,,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+403,0021700063,603,4,0,4,12:47 AM,1:30,Thompson REBOUND (Off:0 Def:7),,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+404,0021700063,604,1,6,4,12:47 AM,1:28,Curry 3' Driving Layup (25 PTS) (Iguodala 5 AST),,,112 - 109,-3,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+405,0021700063,606,2,1,4,12:48 AM,1:05,,,MISS Lowry 14' Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+406,0021700063,607,4,0,4,12:48 AM,1:02,Green REBOUND (Off:4 Def:7),,,,,4.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+407,0021700063,608,1,1,4,12:48 AM,1:02,Durant 26' 3PT Jump Shot (29 PTS),,,112 - 112,TIE,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+408,0021700063,609,9,1,4,12:49 AM,1:02,,,Raptors Timeout: Regular (Reg.6 Short 0),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+409,0021700063,611,2,79,4,12:50 AM,0:53,,,MISS DeRozan 16' Pullup Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+410,0021700063,612,4,0,4,12:50 AM,0:46,Durant REBOUND (Off:0 Def:4),,,,,4.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+411,0021700063,613,1,80,4,12:50 AM,0:32,Curry 26' 3PT Step Back Jump Shot (28 PTS) (Durant 5 AST),,,112 - 115,3,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+412,0021700063,615,2,1,4,12:51 AM,0:16,Thompson BLOCK (1 BLK),,MISS Lowry 5' Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1
+413,0021700063,616,4,0,4,12:51 AM,0:13,Thompson REBOUND (Off:0 Def:8),,,,,4.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+414,0021700063,617,6,28,4,12:51 AM,0:05,,,Poeltl Personal Take Foul (P4.PN) (K.Cutler),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+415,0021700063,620,3,11,4,12:51 AM,0:05,Curry Free Throw 1 of 2 (29 PTS),,,112 - 116,4,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+416,0021700063,621,3,12,4,12:52 AM,0:05,Curry Free Throw 2 of 2 (30 PTS),,,112 - 117,5,4.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+417,0021700063,622,9,1,4,12:52 AM,0:05,,,Raptors Timeout: Regular (Reg.7 Short 0),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+418,0021700063,623,7,1,4,12:53 AM,0:05,,,,,,,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+419,0021700063,625,8,0,4,12:54 AM,0:05,,,SUB: Miles FOR Wright,,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,5,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+420,0021700063,626,5,1,4,12:54 AM,0:00,Curry STEAL (3 STL),,Poeltl Bad Pass Turnover (P2.T18),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+421,0021700063,628,13,0,4,12:55 AM,0:00,,,,112 - 117,5,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

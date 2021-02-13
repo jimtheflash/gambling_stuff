@@ -1,0 +1,479 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021601169,0,12,0,1,8:12 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021601169,1,10,0,1,8:12 PM,12:00,Jump Ball Johnson vs. Frye: Tip to Horford,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,5,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1
+2,0021601169,2,2,1,1,8:12 PM,11:46,MISS Bradley 22' Jump Shot,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+3,0021601169,3,4,0,1,8:12 PM,11:45,Horford REBOUND (Off:1 Def:0),,,,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+4,0021601169,21,5,41,1,8:12 PM,11:43,Horford Poss Lost Ball Turnover (P1.T1),,Smith STEAL (1 STL),,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+5,0021601169,4,2,1,1,8:12 PM,11:34,,,MISS Smith 24' 3PT Jump Shot,,,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+6,0021601169,5,4,0,1,8:12 PM,11:32,,,Frye REBOUND (Off:1 Def:0),,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+7,0021601169,6,2,86,1,8:12 PM,11:28,,,MISS Irving 16' Turnaround Fadeaway Shot,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+8,0021601169,7,4,0,1,8:12 PM,11:27,,,Love REBOUND (Off:1 Def:0),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+9,0021601169,8,6,2,1,8:12 PM,11:14,Crowder S.FOUL (P1.T1) (M.Davis),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,5,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+10,0021601169,9,3,11,1,8:13 PM,11:14,,,Frye Free Throw 1 of 2 (1 PTS),1 - 0,-1,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+11,0021601169,11,3,12,1,8:13 PM,11:14,,,Frye Free Throw 2 of 2 (2 PTS),2 - 0,-2,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+12,0021601169,13,5,2,1,8:13 PM,11:03,Thomas Lost Ball Turnover (P1.T2),,Frye STEAL (1 STL),,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,5,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+13,0021601169,14,2,1,1,8:13 PM,10:55,,,MISS Smith  3PT Jump Shot,,,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+14,0021601169,15,4,0,1,8:13 PM,10:55,Thomas REBOUND (Off:0 Def:1),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+15,0021601169,16,2,1,1,8:13 PM,10:46,MISS Bradley 24' 3PT Jump Shot,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+16,0021601169,17,4,0,1,8:13 PM,10:45,,,Love REBOUND (Off:1 Def:1),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+17,0021601169,18,1,42,1,8:14 PM,10:38,,,Irving 2' Driving Layup (2 PTS),4 - 0,-4,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+18,0021601169,19,9,1,1,8:14 PM,10:38,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+19,0021601169,23,1,1,1,8:17 PM,10:23,Crowder 25' 3PT Jump Shot (3 PTS) (Horford 1 AST),,,4 - 3,-1,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+20,0021601169,24,2,1,1,8:17 PM,10:00,,,MISS Frye 25' 3PT Jump Shot,,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+21,0021601169,25,4,0,1,8:17 PM,9:59,,,Cavaliers Rebound,,,3.0,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+22,0021601169,26,2,80,1,8:18 PM,9:49,,,MISS James 21' Step Back Jump Shot,,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+23,0021601169,27,4,0,1,8:18 PM,9:48,,,Love REBOUND (Off:2 Def:1),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+24,0021601169,29,2,80,1,8:18 PM,9:29,,,MISS Love 18' Step Back Jump Shot,,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+25,0021601169,30,4,0,1,8:18 PM,9:28,Bradley REBOUND (Off:0 Def:1),,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+26,0021601169,31,6,2,1,8:19 PM,9:13,,,Frye S.FOUL (P1.T1) (T.Ford),,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+27,0021601169,32,3,11,1,8:19 PM,9:13,Bradley Free Throw 1 of 2 (1 PTS),,,4 - 4,TIE,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+28,0021601169,34,3,12,1,8:19 PM,9:13,MISS Bradley Free Throw 2 of 2,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+29,0021601169,36,4,0,1,8:19 PM,9:13,,,Love REBOUND (Off:2 Def:2),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+30,0021601169,37,1,42,1,8:19 PM,8:57,,,James 1' Driving Layup (2 PTS),6 - 4,-2,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+31,0021601169,38,2,58,1,8:20 PM,8:40,MISS Horford 4' Turnaround Hook Shot,,,,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+32,0021601169,39,4,0,1,8:20 PM,8:38,Bradley REBOUND (Off:1 Def:1),,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+33,0021601169,40,2,1,1,8:20 PM,8:31,MISS Crowder 16' Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+34,0021601169,41,4,0,1,8:20 PM,8:30,,,Frye REBOUND (Off:1 Def:1),,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+35,0021601169,42,6,1,1,8:20 PM,8:23,Bradley P.FOUL (P1.T2) (N.Buchert),,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+36,0021601169,43,2,75,1,8:20 PM,8:12,,,MISS Irving 2' Driving Finger Roll Layup,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+37,0021601169,44,4,0,1,8:20 PM,8:10,,,Smith REBOUND (Off:1 Def:0),,,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+38,0021601169,45,2,1,1,8:21 PM,8:06,,,MISS Frye 24' 3PT Jump Shot,,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+39,0021601169,46,4,0,1,8:21 PM,8:05,Johnson REBOUND (Off:0 Def:1),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+40,0021601169,48,2,98,1,8:21 PM,7:55,MISS Bradley 1' Cutting Layup Shot,,Smith BLOCK (1 BLK),,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,1
+41,0021601169,49,4,0,1,8:21 PM,7:54,,,Love REBOUND (Off:2 Def:3),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+42,0021601169,50,1,1,1,8:21 PM,7:48,,,Frye 25' 3PT Jump Shot (5 PTS) (Irving 1 AST),9 - 4,-5,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,5,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+43,0021601169,51,6,1,1,8:21 PM,7:37,,,Smith P.FOUL (P1.T2) (T.Ford),,,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+44,0021601169,52,2,1,1,8:22 PM,7:30,MISS Horford 19' Jump Shot,,,,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+45,0021601169,53,4,0,1,8:22 PM,7:29,,,James REBOUND (Off:0 Def:1),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+46,0021601169,54,2,1,1,8:22 PM,7:17,,,MISS Love 25' 3PT Jump Shot,,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+47,0021601169,55,4,0,1,8:22 PM,7:16,,,Frye REBOUND (Off:2 Def:1),,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+48,0021601169,56,5,45,1,8:22 PM,7:07,,,Frye Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+49,0021601169,57,2,79,1,8:22 PM,7:02,MISS Thomas 27' 3PT Pullup Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+50,0021601169,58,4,0,1,8:22 PM,7:01,,,James REBOUND (Off:0 Def:2),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+51,0021601169,59,2,1,1,8:22 PM,6:54,,,MISS Irving 25' 3PT Jump Shot,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+52,0021601169,60,4,0,1,8:22 PM,6:53,,,James REBOUND (Off:1 Def:2),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+53,0021601169,61,6,2,1,8:23 PM,6:51,Johnson S.FOUL (P1.T3) (T.Ford),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+54,0021601169,62,3,11,1,8:23 PM,6:51,,,Irving Free Throw 1 of 2 (3 PTS),10 - 4,-6,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+55,0021601169,64,3,12,1,8:23 PM,6:51,,,Irving Free Throw 2 of 2 (4 PTS),11 - 4,-7,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+56,0021601169,66,7,5,1,8:23 PM,6:38,,,Smith Violation:Kicked Ball (.),,,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+57,0021601169,67,1,1,1,8:24 PM,6:34,Thomas 25' 3PT Jump Shot (3 PTS) (Crowder 1 AST),,,11 - 7,-4,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+58,0021601169,68,2,1,1,8:24 PM,6:14,,,MISS Frye 24' 3PT Jump Shot,,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+59,0021601169,69,4,0,1,8:24 PM,6:13,,,Love REBOUND (Off:3 Def:3),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+60,0021601169,70,2,72,1,8:24 PM,6:12,,,MISS Love 2' Putback Layup,,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+61,0021601169,71,4,0,1,8:24 PM,6:11,Horford REBOUND (Off:1 Def:1),,,,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+62,0021601169,72,2,1,1,8:24 PM,6:03,MISS Crowder 19' Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+63,0021601169,73,4,0,1,8:24 PM,6:03,Bradley REBOUND (Off:2 Def:1),,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+64,0021601169,74,1,101,1,8:24 PM,5:59,Thomas 4' Driving Floating Jump Shot (5 PTS) (Bradley 1 AST),,,11 - 9,-2,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+65,0021601169,75,1,63,1,8:25 PM,5:38,,,Love 9' Fadeaway Jumper (2 PTS),13 - 9,-4,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+66,0021601169,76,1,67,1,8:25 PM,5:22,Johnson 4' Hook Bank Shot (2 PTS) (Horford 2 AST),,,13 - 11,-2,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+67,0021601169,77,1,93,1,8:25 PM,5:03,,,Love 4' Driving Bank Hook Shot (4 PTS),15 - 11,-4,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+68,0021601169,78,2,75,1,8:25 PM,4:52,MISS Thomas 3' Driving Finger Roll Layup,,Irving BLOCK (1 BLK),,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,1
+69,0021601169,79,4,0,1,8:26 PM,4:51,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+70,0021601169,80,8,0,1,8:26 PM,4:51,SUB: Smart FOR Johnson,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+71,0021601169,81,8,0,1,8:26 PM,4:51,,,SUB: Shumpert FOR Frye,,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,5,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+72,0021601169,83,2,1,1,8:26 PM,4:46,MISS Thomas 25' 3PT Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+73,0021601169,84,4,0,1,8:26 PM,4:45,,,Love REBOUND (Off:3 Def:4),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+74,0021601169,85,2,63,1,8:26 PM,4:22,,,MISS Love 23' Fadeaway Jumper,,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+75,0021601169,86,4,0,1,8:26 PM,4:21,Thomas REBOUND (Off:0 Def:2),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+76,0021601169,87,2,1,1,8:27 PM,4:11,MISS Smart 25' 3PT Jump Shot,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+77,0021601169,88,4,0,1,8:27 PM,4:09,,,James REBOUND (Off:1 Def:3),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+78,0021601169,89,1,75,1,8:27 PM,4:04,,,James 1' Driving Finger Roll Layup (4 PTS),17 - 11,-6,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+79,0021601169,90,6,4,1,8:27 PM,3:51,Crowder OFF.Foul (P2) (M.Davis),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+80,0021601169,91,5,5,1,8:27 PM,3:51,Crowder Foul Turnover (P1.T3),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+81,0021601169,92,8,0,1,8:27 PM,3:51,SUB: Brown FOR Bradley,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+82,0021601169,93,2,1,1,8:27 PM,3:37,,,MISS Irving 28' 3PT Jump Shot,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+83,0021601169,94,4,0,1,8:28 PM,3:36,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+84,0021601169,95,2,1,1,8:28 PM,3:22,MISS Brown  3PT Jump Shot,,,,,4.0,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+85,0021601169,96,4,0,1,8:28 PM,3:21,,,Love REBOUND (Off:3 Def:5),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+86,0021601169,97,2,86,1,8:28 PM,3:03,,,MISS Love 13' Turnaround Fadeaway Shot,,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+87,0021601169,98,4,0,1,8:28 PM,3:02,Brown REBOUND (Off:0 Def:1),,,,,4.0,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+88,0021601169,99,1,42,1,8:28 PM,2:54,Thomas 3' Driving Layup (7 PTS),,,17 - 13,-4,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+89,0021601169,100,6,2,1,8:28 PM,2:54,,,Love S.FOUL (P1.T3) (N.Buchert),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+90,0021601169,102,9,1,1,8:29 PM,2:54,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,,3.0,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+91,0021601169,103,8,0,1,8:31 PM,2:54,,,SUB: D. Williams FOR James,,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+92,0021601169,104,8,0,1,8:31 PM,2:54,,,SUB: Frye FOR Love,,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+93,0021601169,105,8,0,1,8:31 PM,2:54,,,SUB: Jefferson FOR Smith,,,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,5,2210,Richard Jefferson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+94,0021601169,106,8,0,1,8:31 PM,2:54,SUB: Jerebko FOR Crowder,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+95,0021601169,107,3,10,1,8:31 PM,2:54,MISS Thomas Free Throw 1 of 1,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+96,0021601169,109,4,0,1,8:32 PM,2:54,,,Frye REBOUND (Off:2 Def:2),,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+97,0021601169,110,1,3,1,8:32 PM,2:36,,,Irving 5' Hook Shot (6 PTS),19 - 13,-6,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+98,0021601169,111,1,86,1,8:32 PM,2:13,Horford 9' Turnaround Fadeaway (2 PTS),,,19 - 15,-4,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+99,0021601169,112,2,1,1,8:33 PM,1:55,,,MISS Irving 22' Jump Shot,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+100,0021601169,113,4,0,1,8:33 PM,1:54,Thomas REBOUND (Off:0 Def:3),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+101,0021601169,114,1,75,1,8:33 PM,1:48,Thomas 2' Driving Finger Roll Layup (9 PTS),,,19 - 17,-2,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+102,0021601169,115,6,2,1,8:33 PM,1:48,,,Irving S.FOUL (P1.T4) (T.Ford),,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+103,0021601169,116,8,0,1,8:33 PM,1:48,SUB: Olynyk FOR Horford,,,,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+104,0021601169,117,3,10,1,8:33 PM,1:48,Thomas Free Throw 1 of 1 (10 PTS),,,19 - 18,-1,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+105,0021601169,119,2,1,1,8:34 PM,1:29,,,MISS Shumpert 24' 3PT Jump Shot,,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+106,0021601169,120,4,0,1,8:34 PM,1:28,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+107,0021601169,121,8,0,1,8:34 PM,1:28,,,SUB: Korver FOR Frye,,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+108,0021601169,122,8,0,1,8:34 PM,1:28,,,SUB: Love FOR Irving,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+109,0021601169,123,5,45,1,8:35 PM,1:21,Thomas Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+110,0021601169,124,6,1,1,8:35 PM,1:09,Olynyk P.FOUL (P1.T4) (T.Ford),,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+111,0021601169,125,2,3,1,8:35 PM,1:02,,,MISS Love 4' Hook Shot,,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+112,0021601169,126,4,0,1,8:35 PM,1:01,Jerebko REBOUND (Off:0 Def:1),,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+113,0021601169,127,1,75,1,8:35 PM,0:55,Thomas 2' Driving Finger Roll Layup (12 PTS) (Jerebko 1 AST),,,19 - 20,1,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+114,0021601169,128,6,26,1,8:36 PM,0:37,,,Shumpert Offensive Charge Foul (P1.PN) (N.Buchert),,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+115,0021601169,129,5,5,1,8:36 PM,0:37,,,Shumpert Foul Turnover (P1.T2),,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+116,0021601169,130,8,0,1,8:36 PM,0:37,,,SUB: James FOR Jefferson,,,5.0,2210,Richard Jefferson,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+117,0021601169,131,2,79,1,8:36 PM,0:30,MISS Thomas 25' 3PT Pullup Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+118,0021601169,132,4,0,1,8:36 PM,0:29,,,D. Williams REBOUND (Off:0 Def:1),,,5.0,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+119,0021601169,133,2,1,1,8:37 PM,0:09,,,MISS D. Williams  3PT Jump Shot,,,5.0,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+120,0021601169,134,4,0,1,8:37 PM,0:07,,,Shumpert REBOUND (Off:1 Def:0),,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+121,0021601169,135,2,101,1,8:37 PM,0:00,,,MISS James 17' Driving Floating Jump Shot,,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+122,0021601169,137,4,0,1,8:37 PM,0:00,,,Cavaliers Rebound,,,3.0,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+123,0021601169,136,13,0,1,8:37 PM,0:00,,,,19 - 20,1,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+124,0021601169,139,12,0,2,8:41 PM,12:00,,,,19 - 20,1,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+125,0021601169,140,1,108,2,8:41 PM,11:47,,,Jefferson  Cutting Dunk Shot (2 PTS) (James 1 AST),21 - 20,-1,5.0,2210,Richard Jefferson,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+126,0021601169,141,2,75,2,8:41 PM,11:33,MISS Brown 1' Driving Finger Roll Layup,,,,,4.0,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+127,0021601169,142,4,0,2,8:41 PM,11:32,,,James REBOUND (Off:1 Def:4),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+128,0021601169,143,2,42,2,8:41 PM,11:25,,,MISS James 1' Driving Layup,,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+129,0021601169,144,4,0,2,8:41 PM,11:25,Smart REBOUND (Off:0 Def:1),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+130,0021601169,145,2,1,2,8:41 PM,11:19,MISS Jerebko 25' 3PT Jump Shot,,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+131,0021601169,146,4,0,2,8:41 PM,11:18,Olynyk REBOUND (Off:1 Def:0),,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+132,0021601169,147,2,1,2,8:42 PM,10:58,MISS Brown  3PT Jump Shot,,,,,4.0,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+133,0021601169,148,4,0,2,8:42 PM,10:57,,,D. Williams REBOUND (Off:0 Def:2),,,5.0,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+134,0021601169,149,1,49,2,8:42 PM,10:48,,,James  Driving Dunk (6 PTS) (D. Williams 1 AST),23 - 20,-3,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+135,0021601169,150,9,1,2,8:42 PM,10:48,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+136,0021601169,152,8,0,2,8:44 PM,10:48,SUB: Bradley FOR Brown,,,,,4.0,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+137,0021601169,153,2,1,2,8:45 PM,10:33,MISS Smart 24' 3PT Jump Shot,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+138,0021601169,154,4,0,2,8:45 PM,10:31,,,Shumpert REBOUND (Off:1 Def:1),,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+139,0021601169,155,1,1,2,8:45 PM,10:06,,,Shumpert 25' 3PT Jump Shot (3 PTS) (D. Williams 2 AST),26 - 20,-6,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,5,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+140,0021601169,156,1,73,2,8:46 PM,9:51,Olynyk 2' Driving Reverse Layup (2 PTS) (Smart 1 AST),,,26 - 22,-4,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+141,0021601169,157,1,7,2,8:46 PM,9:35,,,Jefferson  Dunk (4 PTS) (James 2 AST),28 - 22,-6,5.0,2210,Richard Jefferson,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+142,0021601169,158,2,1,2,8:46 PM,9:10,MISS Rozier  3PT Jump Shot,,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+143,0021601169,159,4,0,2,8:46 PM,9:09,,,Shumpert REBOUND (Off:1 Def:2),,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+144,0021601169,160,1,47,2,8:46 PM,8:59,,,James 4' Turnaround Jump Shot (8 PTS) (D. Williams 3 AST),30 - 22,-8,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+145,0021601169,161,5,1,2,8:47 PM,8:42,Olynyk Bad Pass Turnover (P1.T5),,Jefferson STEAL (1 STL),,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,5,2210,Richard Jefferson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+146,0021601169,162,1,42,2,8:47 PM,8:36,,,James 2' Driving Layup (10 PTS),32 - 22,-10,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+147,0021601169,163,1,1,2,8:47 PM,8:16,Bradley 21' Jump Shot (3 PTS) (Smart 2 AST),,,32 - 24,-8,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+148,0021601169,164,2,75,2,8:47 PM,8:04,,,MISS D. Williams 3' Driving Finger Roll Layup,,,5.0,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+149,0021601169,165,4,0,2,8:47 PM,8:03,,,James REBOUND (Off:2 Def:4),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+150,0021601169,166,1,5,2,8:47 PM,8:02,,,James 2' Layup (12 PTS),34 - 24,-10,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+151,0021601169,167,2,42,2,8:48 PM,7:40,MISS Rozier 3' Driving Layup,,D. Williams BLOCK (1 BLK),,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,1
+152,0021601169,168,4,0,2,8:48 PM,7:39,,,D. Williams REBOUND (Off:0 Def:3),,,5.0,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+153,0021601169,169,1,1,2,8:48 PM,7:30,,,Korver  3PT Jump Shot (3 PTS) (D. Williams 4 AST),37 - 24,-13,5.0,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,5,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+154,0021601169,170,9,2,2,8:48 PM,7:30,CELTICS Timeout: Short (Full 2 Short 1),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+155,0021601169,172,8,0,2,8:49 PM,7:30,SUB: Horford FOR Jerebko,,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+156,0021601169,173,8,0,2,8:49 PM,7:30,SUB: Crowder FOR Olynyk,,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+157,0021601169,174,8,0,2,8:49 PM,7:30,SUB: Green FOR Rozier,,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,4,101123,Gerald Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+158,0021601169,175,8,0,2,8:49 PM,7:30,,,SUB: Smith FOR D. Williams,,,5.0,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+159,0021601169,176,8,0,2,8:50 PM,7:30,,,SUB: D. Williams FOR Jefferson,,,5.0,2210,Richard Jefferson,1610612739.0,Cleveland,Cavaliers,CLE,5,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+160,0021601169,177,2,1,2,8:50 PM,7:12,MISS Crowder 24' 3PT Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+161,0021601169,178,4,0,2,8:50 PM,7:11,,,James REBOUND (Off:2 Def:5),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+162,0021601169,179,1,49,2,8:50 PM,7:03,,,James  Driving Dunk (14 PTS),39 - 24,-15,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+163,0021601169,180,2,75,2,8:50 PM,6:55,MISS Smart 1' Driving Finger Roll Layup,,James BLOCK (1 BLK),,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1
+164,0021601169,181,4,0,2,8:50 PM,6:55,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+165,0021601169,182,8,0,2,8:50 PM,6:55,,,SUB: Frye FOR Shumpert,,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,5,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+166,0021601169,183,2,1,2,8:50 PM,6:53,MISS Bradley 19' Jump Shot,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+167,0021601169,184,4,0,2,8:51 PM,6:52,,,Frye REBOUND (Off:2 Def:3),,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+168,0021601169,185,1,83,2,8:51 PM,6:40,,,James 8' Fadeaway Bank Shot (16 PTS),41 - 24,-17,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+169,0021601169,186,2,1,2,8:51 PM,6:26,MISS Green 25' 3PT Jump Shot,,,,,4.0,101123,Gerald Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+170,0021601169,187,4,0,2,8:51 PM,6:25,,,Korver REBOUND (Off:0 Def:1),,,5.0,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+171,0021601169,188,2,1,2,8:51 PM,6:15,,,MISS D. Williams 25' 3PT Jump Shot,,,5.0,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+172,0021601169,189,4,0,2,8:51 PM,6:14,Horford REBOUND (Off:1 Def:2),,,,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+173,0021601169,190,2,79,2,8:51 PM,6:01,MISS Smart 6' Pullup Jump Shot,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+174,0021601169,191,4,0,2,8:51 PM,6:00,,,Korver REBOUND (Off:0 Def:2),,,5.0,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+175,0021601169,192,9,1,2,8:51 PM,5:57,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,,3.0,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+176,0021601169,194,18,0,2,8:52 PM,5:57,,,,,,,155,,,,,,0,0,,,,,,1,0,,,,,,0
+177,0021601169,196,8,0,2,8:54 PM,5:57,SUB: Thomas FOR Smart,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+178,0021601169,197,8,0,2,8:54 PM,5:57,,,SUB: Irving FOR James,,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+179,0021601169,198,2,1,2,8:55 PM,5:47,,,MISS Frye 25' 3PT Jump Shot,,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+180,0021601169,199,4,0,2,8:55 PM,5:46,Bradley REBOUND (Off:2 Def:2),,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+181,0021601169,200,6,2,2,8:55 PM,5:26,,,Frye S.FOUL (P2.T1) (N.Buchert),,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+182,0021601169,201,3,11,2,8:55 PM,5:26,Horford Free Throw 1 of 2 (3 PTS),,,41 - 25,-16,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+183,0021601169,203,3,12,2,8:56 PM,5:26,Horford Free Throw 2 of 2 (4 PTS),,,41 - 26,-15,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+184,0021601169,205,2,43,2,8:56 PM,5:05,,,MISS D. Williams 2' Alley Oop Layup,,,5.0,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+185,0021601169,206,4,0,2,8:56 PM,5:04,Horford REBOUND (Off:1 Def:3),,,,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+186,0021601169,207,6,1,2,8:56 PM,5:04,,,Irving P.FOUL (P2.T2) (N.Buchert),,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+187,0021601169,208,8,0,2,8:56 PM,5:04,,,SUB: Love FOR Frye,,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+188,0021601169,209,8,0,2,8:57 PM,5:04,,,SUB: Shumpert FOR D. Williams,,,5.0,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,5,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+189,0021601169,210,2,1,2,8:57 PM,4:54,MISS Thomas 25' 3PT Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+190,0021601169,211,4,0,2,8:57 PM,4:53,,,Love REBOUND (Off:3 Def:6),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+191,0021601169,212,2,1,2,8:57 PM,4:40,,,MISS Irving 27' 3PT Jump Shot,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+192,0021601169,213,4,0,2,8:57 PM,4:39,,,Love REBOUND (Off:4 Def:6),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+193,0021601169,214,6,1,2,8:57 PM,4:38,Bradley P.FOUL (P2.T1) (M.Davis),,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+194,0021601169,215,8,0,2,8:58 PM,4:38,,,SUB: James FOR Korver,,,5.0,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+195,0021601169,216,2,1,2,8:58 PM,4:29,,,MISS Smith 25' 3PT Jump Shot,,,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+196,0021601169,217,4,0,2,8:58 PM,4:28,Horford REBOUND (Off:1 Def:4),,,,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+197,0021601169,218,6,1,2,8:58 PM,4:19,,,Shumpert P.FOUL (P2.T3) (N.Buchert),,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+198,0021601169,219,1,73,2,8:58 PM,4:12,Horford 3' Driving Reverse Layup (6 PTS),,,41 - 28,-13,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+199,0021601169,220,6,2,2,8:58 PM,4:12,,,Love S.FOUL (P2.T4) (T.Ford),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+200,0021601169,221,3,10,2,8:59 PM,4:12,Horford Free Throw 1 of 1 (7 PTS),,,41 - 29,-12,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+201,0021601169,223,2,5,2,8:59 PM,3:57,Green BLOCK (1 BLK),,MISS James 2' Layup,,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,101123,Gerald Green,1610612738.0,Boston,Celtics,BOS,1
+202,0021601169,224,4,0,2,8:59 PM,3:57,Bradley REBOUND (Off:2 Def:3),,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+203,0021601169,225,1,108,2,8:59 PM,3:50,Crowder  Cutting Dunk Shot (5 PTS) (Green 1 AST),,,41 - 31,-10,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,101123,Gerald Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+204,0021601169,226,9,2,2,8:59 PM,3:49,,,Cavaliers Timeout: Short (Reg.2 Short 1),,,3.0,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+205,0021601169,229,1,108,2,9:01 PM,3:36,,,Love  Cutting Dunk Shot (6 PTS) (James 3 AST),43 - 31,-12,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+206,0021601169,230,2,75,2,9:01 PM,3:16,MISS Thomas 2' Driving Finger Roll Layup,,James BLOCK (2 BLK),,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1
+207,0021601169,231,4,0,2,9:01 PM,3:14,,,Love REBOUND (Off:4 Def:7),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+208,0021601169,232,1,50,2,9:02 PM,3:09,,,Smith  Running Dunk (2 PTS) (Irving 2 AST),45 - 31,-14,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,5,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+209,0021601169,233,1,108,2,9:02 PM,2:54,Horford  Cutting Dunk Shot (9 PTS) (Thomas 1 AST),,,45 - 33,-12,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+210,0021601169,234,2,1,2,9:02 PM,2:33,,,MISS Smith 25' 3PT Jump Shot,,,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+211,0021601169,235,4,0,2,9:02 PM,2:32,Bradley REBOUND (Off:2 Def:4),,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+212,0021601169,236,1,1,2,9:02 PM,2:13,Horford 25' 3PT Jump Shot (12 PTS) (Crowder 2 AST),,,45 - 36,-9,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+213,0021601169,237,6,2,2,9:03 PM,1:52,Horford S.FOUL (P1.T2) (T.Ford),,,,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+214,0021601169,238,9,4,2,9:03 PM,1:52,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+215,0021601169,240,8,0,2,9:05 PM,1:52,SUB: Smart FOR Green,,,,,4.0,101123,Gerald Green,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+216,0021601169,242,3,11,2,9:06 PM,1:52,,,Love Free Throw 1 of 2 (7 PTS),46 - 36,-10,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+217,0021601169,244,3,12,2,9:06 PM,1:52,,,Love Free Throw 2 of 2 (8 PTS),47 - 36,-11,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+218,0021601169,246,2,1,2,9:07 PM,1:36,MISS Crowder 25' 3PT Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+219,0021601169,247,4,0,2,9:07 PM,1:35,,,Shumpert REBOUND (Off:1 Def:3),,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+220,0021601169,248,1,102,2,9:07 PM,1:20,,,Irving 4' Driving Floating Bank Jump Shot (8 PTS),49 - 36,-13,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+221,0021601169,249,5,1,2,9:07 PM,1:04,Smart Bad Pass Turnover (P1.T6),,Irving STEAL (1 STL),,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+222,0021601169,250,1,101,2,9:07 PM,0:50,,,Irving 5' Driving Floating Jump Shot (10 PTS),51 - 36,-15,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+223,0021601169,251,1,75,2,9:08 PM,0:42,Thomas 1' Driving Finger Roll Layup (14 PTS),,,51 - 38,-13,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+224,0021601169,252,1,1,2,9:08 PM,0:30,,,Smith 27' 3PT Jump Shot (5 PTS) (Shumpert 1 AST),54 - 38,-16,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,5,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+225,0021601169,253,1,75,2,9:08 PM,0:14,Thomas 2' Driving Finger Roll Layup (16 PTS),,,54 - 40,-14,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+226,0021601169,254,6,2,2,9:08 PM,0:14,,,Shumpert S.FOUL (P3.PN) (N.Buchert),,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+227,0021601169,255,8,0,2,9:08 PM,0:14,SUB: Brown FOR Crowder,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+228,0021601169,256,8,0,2,9:09 PM,0:14,,,SUB: Korver FOR Shumpert,,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+229,0021601169,257,3,10,2,9:09 PM,0:14,Thomas Free Throw 1 of 1 (17 PTS),,,54 - 41,-13,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+230,0021601169,259,1,42,2,9:09 PM,0:01,,,James 3' Driving Layup (18 PTS),56 - 41,-15,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+231,0021601169,260,6,2,2,9:09 PM,0:01,Brown S.FOUL (P1.PN) (N.Buchert),,,,,4.0,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+232,0021601169,261,8,0,2,9:10 PM,0:01,,,SUB: D. Williams FOR Irving,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,5,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+233,0021601169,262,8,0,2,9:10 PM,0:01,,,SUB: Frye FOR Love,,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+234,0021601169,263,8,0,2,9:10 PM,0:01,SUB: Olynyk FOR Brown,,,,,4.0,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+235,0021601169,264,3,10,2,9:10 PM,0:01,,,James Free Throw 1 of 1 (19 PTS),57 - 41,-16,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+236,0021601169,266,6,1,2,9:10 PM,0:01,,,James P.FOUL (P1.PN) (N.Buchert),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+237,0021601169,267,3,11,2,9:11 PM,0:01,MISS Olynyk Free Throw 1 of 2,,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+238,0021601169,268,4,1,2,9:11 PM,0:01,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+239,0021601169,269,8,0,2,9:11 PM,0:01,,,SUB: Love FOR Frye,,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+240,0021601169,270,8,0,2,9:11 PM,0:01,,,SUB: Jefferson FOR D. Williams,,,5.0,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,5,2210,Richard Jefferson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+241,0021601169,271,3,12,2,9:12 PM,0:01,Olynyk Free Throw 2 of 2 (3 PTS),,,57 - 42,-15,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+242,0021601169,273,13,0,2,9:12 PM,0:00,,,,57 - 42,-15,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+243,0021601169,277,12,0,3,9:29 PM,12:00,,,,57 - 42,-15,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+244,0021601169,278,6,1,3,9:29 PM,11:49,Crowder P.FOUL (P3.T1) (M.Davis),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+245,0021601169,279,1,86,3,9:29 PM,11:35,,,James 12' Turnaround Fadeaway (21 PTS),59 - 42,-17,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+246,0021601169,280,1,44,3,9:30 PM,11:10,Johnson 3' Reverse Layup (4 PTS) (Thomas 2 AST),,,59 - 44,-15,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+247,0021601169,281,2,86,3,9:30 PM,10:48,,,MISS James 16' Turnaround Fadeaway Shot,,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+248,0021601169,282,4,0,3,9:30 PM,10:47,Horford REBOUND (Off:1 Def:5),,,,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+249,0021601169,283,6,27,3,9:30 PM,10:42,,,Frye Personal Block Foul (P3.T1) (M.Davis),,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+250,0021601169,284,2,1,3,9:31 PM,10:30,MISS Crowder 20' Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+251,0021601169,285,4,0,3,9:31 PM,10:29,Johnson REBOUND (Off:1 Def:1),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+252,0021601169,286,1,1,3,9:31 PM,10:26,Crowder 25' 3PT Jump Shot (8 PTS) (Johnson 1 AST),,,59 - 47,-12,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+253,0021601169,287,2,80,3,9:31 PM,10:04,,,MISS Irving 25' 3PT Step Back Jump Shot,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+254,0021601169,288,4,0,3,9:31 PM,10:03,Crowder REBOUND (Off:0 Def:1),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+255,0021601169,289,2,1,3,9:31 PM,9:54,MISS Bradley  3PT Jump Shot,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+256,0021601169,290,4,0,3,9:31 PM,9:53,,,Frye REBOUND (Off:2 Def:4),,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+257,0021601169,291,6,1,3,9:31 PM,9:53,Johnson P.FOUL (P2.T2) (T.Ford),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,5,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+258,0021601169,292,6,1,3,9:32 PM,9:35,Thomas P.FOUL (P1.T3) (N.Buchert),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+259,0021601169,293,1,99,3,9:32 PM,9:24,,,Irving 1' Cutting Finger Roll Layup Shot (12 PTS) (Frye 1 AST),61 - 47,-14,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,5,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+260,0021601169,294,2,1,3,9:32 PM,9:10,MISS Crowder 24' 3PT Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+261,0021601169,295,4,0,3,9:32 PM,9:09,,,Irving REBOUND (Off:0 Def:1),,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+262,0021601169,296,6,2,3,9:33 PM,9:08,Horford S.FOUL (P2.T4) (T.Ford),,,,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+263,0021601169,297,3,11,3,9:33 PM,9:08,,,James Free Throw 1 of 2 (22 PTS),62 - 47,-15,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+264,0021601169,299,3,12,3,9:33 PM,9:08,,,James Free Throw 2 of 2 (23 PTS),63 - 47,-16,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+265,0021601169,302,2,1,3,9:34 PM,8:45,MISS Thomas 45' 3PT Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+266,0021601169,303,4,0,3,9:34 PM,8:44,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+267,0021601169,304,5,11,3,9:34 PM,8:44,CELTICS Turnover: Shot Clock (T#7),,,,,2.0,1610612738,,,,,,0,0,,,,,,1,0,,,,,,0
+268,0021601169,305,2,1,3,9:35 PM,8:31,,,MISS Smith 24' 3PT Jump Shot,,,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+269,0021601169,306,4,0,3,9:35 PM,8:30,Johnson REBOUND (Off:1 Def:2),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+270,0021601169,307,2,79,3,9:35 PM,8:19,MISS Bradley 21' Pullup Jump Shot,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+271,0021601169,308,4,0,3,9:35 PM,8:18,,,Frye REBOUND (Off:2 Def:5),,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+272,0021601169,309,2,1,3,9:35 PM,8:08,,,MISS Irving  3PT Jump Shot,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+273,0021601169,311,4,0,3,9:35 PM,8:06,,,Frye REBOUND (Off:3 Def:5),,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+274,0021601169,310,1,87,3,9:35 PM,8:05,,,Frye  Putback Dunk (7 PTS),65 - 47,-18,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+275,0021601169,312,1,57,3,9:35 PM,7:52,Johnson 5' Driving Hook Shot (6 PTS) (Thomas 3 AST),,,65 - 49,-16,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+276,0021601169,313,1,42,3,9:35 PM,7:40,,,Love 2' Driving Layup (10 PTS),67 - 49,-18,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+277,0021601169,314,9,1,3,9:35 PM,7:40,CELTICS Timeout: Regular (Full 3 Short 1),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+278,0021601169,316,1,79,3,9:39 PM,7:20,Thomas 8' Pullup Jump Shot (19 PTS),,,67 - 51,-16,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+279,0021601169,317,5,1,3,9:39 PM,7:04,Bradley STEAL (1 STL),,James Bad Pass Turnover (P1.T3),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+280,0021601169,318,2,79,3,9:39 PM,6:58,MISS Thomas 25' 3PT Pullup Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+281,0021601169,319,4,0,3,9:39 PM,6:57,,,James REBOUND (Off:2 Def:6),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+282,0021601169,320,5,1,3,9:39 PM,6:56,Johnson STEAL (1 STL),,James Bad Pass Turnover (P2.T4),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,4,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+283,0021601169,321,6,3,3,9:39 PM,6:56,,,Irving L.B.FOUL (P3.T2) (N.Buchert),,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+284,0021601169,322,1,3,3,9:40 PM,6:47,Johnson 6' Hook Shot (8 PTS) (Horford 3 AST),,,67 - 53,-14,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+285,0021601169,323,1,1,3,9:40 PM,6:22,,,Frye  3PT Jump Shot (10 PTS) (Love 1 AST),70 - 53,-17,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+286,0021601169,324,5,1,3,9:40 PM,6:08,Thomas Bad Pass Turnover (P3.T8),,Frye STEAL (2 STL),,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,5,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+287,0021601169,325,1,63,3,9:40 PM,5:55,,,Smith 13' Fadeaway Jumper (7 PTS),72 - 53,-19,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+288,0021601169,326,5,1,3,9:41 PM,5:39,Horford Bad Pass Turnover (P2.T9),,James STEAL (1 STL),,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+289,0021601169,327,1,79,3,9:41 PM,5:33,,,Smith 26' 3PT Pullup Jump Shot (10 PTS) (James 4 AST),75 - 53,-22,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+290,0021601169,335,6,2,3,9:42 PM,5:13,,,Love S.FOUL (P3.T3) (N.Buchert),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+291,0021601169,332,3,11,3,9:42 PM,5:13,MISS Crowder Free Throw 1 of 2,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+292,0021601169,333,4,1,3,9:42 PM,5:13,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+293,0021601169,334,8,0,3,9:42 PM,5:13,SUB: Brown FOR Johnson,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+294,0021601169,339,8,0,3,9:42 PM,5:13,SUB: Smart FOR Bradley,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+295,0021601169,336,8,0,3,9:42 PM,5:13,,,SUB: Shumpert FOR Frye,,,5.0,101112,Channing Frye,1610612739.0,Cleveland,Cavaliers,CLE,5,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+296,0021601169,337,3,12,3,9:42 PM,5:13,Crowder Free Throw 2 of 2 (9 PTS),,,75 - 54,-21,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+297,0021601169,340,6,17,3,9:43 PM,4:53,CELTICS T.Foul (Def. 3 Sec Smart ) (M.Davis),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+298,0021601169,342,3,16,3,9:43 PM,4:53,,,Irving Free Throw Technical (13 PTS),76 - 54,-22,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+299,0021601169,344,2,79,3,9:43 PM,4:37,,,MISS Shumpert 21' Pullup Jump Shot,,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+300,0021601169,345,4,0,3,9:43 PM,4:36,,,Love REBOUND (Off:5 Def:7),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+301,0021601169,346,1,1,3,9:44 PM,4:28,,,James 25' 3PT Jump Shot (26 PTS),79 - 54,-25,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+302,0021601169,348,5,1,3,9:44 PM,4:05,Brown Bad Pass Turnover (P1.T10),,Irving STEAL (2 STL),,,4.0,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+303,0021601169,349,9,1,3,9:44 PM,3:59,,,Cavaliers Timeout: Regular (Reg.3 Short 1),,,3.0,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+304,0021601169,351,8,0,3,9:46 PM,3:59,SUB: Olynyk FOR Horford,,,,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+305,0021601169,353,2,101,3,9:47 PM,3:50,,,MISS Irving 7' Driving Floating Jump Shot,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+306,0021601169,354,4,0,3,9:47 PM,3:50,,,Cavaliers Rebound,,,3.0,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+307,0021601169,355,6,3,3,9:47 PM,3:50,Olynyk L.B.FOUL (P2.PN) (N.Buchert),,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+308,0021601169,356,3,11,3,9:48 PM,3:50,,,Love Free Throw 1 of 2 (11 PTS),80 - 54,-26,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+309,0021601169,358,3,12,3,9:48 PM,3:50,,,Love Free Throw 2 of 2 (12 PTS),81 - 54,-27,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+310,0021601169,360,2,78,3,9:48 PM,3:39,MISS Smart 8' Floating Jump Shot,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+311,0021601169,361,4,0,3,9:48 PM,3:38,,,Love REBOUND (Off:5 Def:8),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+312,0021601169,362,2,1,3,9:48 PM,3:30,,,MISS Love 26' 3PT Jump Shot,,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+313,0021601169,363,4,0,3,9:48 PM,3:29,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+314,0021601169,364,6,2,3,9:49 PM,3:20,,,James S.FOUL (P2.T4) (N.Buchert),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+315,0021601169,365,3,11,3,9:49 PM,3:20,Thomas Free Throw 1 of 2 (20 PTS),,,81 - 55,-26,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+316,0021601169,367,3,12,3,9:49 PM,3:20,Thomas Free Throw 2 of 2 (21 PTS),,,81 - 56,-25,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+317,0021601169,369,2,1,3,9:50 PM,3:02,,,MISS Shumpert 24' 3PT Jump Shot,,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+318,0021601169,370,4,0,3,9:50 PM,3:01,Thomas REBOUND (Off:0 Def:4),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+319,0021601169,371,2,1,3,9:50 PM,2:52,MISS Olynyk 25' 3PT Jump Shot,,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+320,0021601169,372,4,0,3,9:50 PM,2:51,Crowder REBOUND (Off:1 Def:1),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+321,0021601169,373,1,72,3,9:50 PM,2:50,Crowder 2' Putback Layup (11 PTS),,,81 - 58,-23,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+322,0021601169,374,1,79,3,9:50 PM,2:34,,,Irving 19' Pullup Jump Shot (15 PTS),83 - 58,-25,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+323,0021601169,375,6,2,3,9:51 PM,2:16,,,James S.FOUL (P3.PN) (T.Ford),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+324,0021601169,376,3,11,3,9:51 PM,2:16,Thomas Free Throw 1 of 2 (22 PTS),,,83 - 59,-24,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+325,0021601169,378,8,0,3,9:51 PM,2:16,,,SUB: D. Williams FOR Smith,,,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,5,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+326,0021601169,379,8,0,3,9:51 PM,2:16,,,SUB: Korver FOR James,,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+327,0021601169,380,8,0,3,9:51 PM,2:16,SUB: Jerebko FOR Crowder,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+328,0021601169,381,3,12,3,9:52 PM,2:16,Thomas Free Throw 2 of 2 (23 PTS),,,83 - 60,-23,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+329,0021601169,383,1,80,3,9:52 PM,1:52,,,Irving 24' 3PT Step Back Jump Shot (18 PTS),86 - 60,-26,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+330,0021601169,384,2,1,3,9:52 PM,1:41,MISS Brown 24' 3PT Jump Shot,,,,,4.0,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+331,0021601169,385,4,0,3,9:52 PM,1:40,,,Love REBOUND (Off:5 Def:9),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+332,0021601169,386,1,1,3,9:52 PM,1:30,,,Korver  3PT Jump Shot (6 PTS) (D. Williams 5 AST),89 - 60,-29,5.0,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,5,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+333,0021601169,387,1,7,3,9:53 PM,1:18,Brown  Dunk (2 PTS) (Thomas 4 AST),,,89 - 62,-27,4.0,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+334,0021601169,388,2,1,3,9:53 PM,0:57,,,MISS Love 25' 3PT Jump Shot,,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+335,0021601169,389,4,0,3,9:53 PM,0:56,Olynyk REBOUND (Off:1 Def:1),,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+336,0021601169,390,1,1,3,9:53 PM,0:48,Olynyk 26' 3PT Jump Shot (6 PTS) (Thomas 5 AST),,,89 - 65,-24,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+337,0021601169,391,6,2,3,9:54 PM,0:36,Smart S.FOUL (P1.PN) (M.Davis),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+338,0021601169,392,3,11,3,9:54 PM,0:36,,,Irving Free Throw 1 of 2 (19 PTS),90 - 65,-25,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+339,0021601169,394,8,0,3,9:54 PM,0:36,SUB: Bradley FOR Thomas,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+340,0021601169,395,8,0,3,9:54 PM,0:36,,,SUB: Jefferson FOR Love,,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,2210,Richard Jefferson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+341,0021601169,396,3,12,3,9:54 PM,0:36,,,MISS Irving Free Throw 2 of 2,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+342,0021601169,398,4,0,3,9:54 PM,0:36,Olynyk REBOUND (Off:1 Def:2),,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+343,0021601169,399,6,29,3,9:55 PM,0:28,,,Irving Shooting Block Foul (P4.PN) (M.Davis),,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+344,0021601169,400,3,11,3,9:55 PM,0:28,MISS Smart Free Throw 1 of 2,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+345,0021601169,401,4,1,3,9:55 PM,0:28,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+346,0021601169,402,8,0,3,9:55 PM,0:28,,,SUB: James FOR Irving,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+347,0021601169,403,3,12,3,9:55 PM,0:28,Smart Free Throw 2 of 2 (1 PTS),,,90 - 66,-24,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+348,0021601169,405,2,1,3,9:56 PM,0:07,,,MISS James 25' 3PT Jump Shot,,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+349,0021601169,406,4,0,3,9:56 PM,0:06,Brown REBOUND (Off:0 Def:2),,,,,4.0,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+350,0021601169,407,2,1,3,9:56 PM,0:00,MISS Bradley 25' 3PT Jump Shot,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+351,0021601169,409,4,0,3,9:56 PM,0:00,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+352,0021601169,408,13,0,3,9:56 PM,0:00,,,,90 - 66,-24,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+353,0021601169,411,12,0,4,10:00 PM,12:00,,,,90 - 66,-24,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+354,0021601169,412,1,44,4,10:00 PM,11:38,Olynyk 2' Reverse Layup (8 PTS) (Jerebko 2 AST),,,90 - 68,-22,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+355,0021601169,413,1,1,4,10:01 PM,11:11,,,Jefferson 25' 3PT Jump Shot (7 PTS) (James 5 AST),93 - 68,-25,5.0,2210,Richard Jefferson,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+356,0021601169,414,2,80,4,10:01 PM,10:55,MISS Brown 18' Step Back Jump Shot,,,,,4.0,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+357,0021601169,415,4,0,4,10:01 PM,10:54,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+358,0021601169,417,1,1,4,10:01 PM,10:50,Smart  3PT Jump Shot (4 PTS) (Brown 1 AST),,,93 - 71,-22,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+359,0021601169,418,6,2,4,10:02 PM,10:27,Olynyk S.FOUL (P3.T1) (N.Buchert),,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+360,0021601169,419,3,11,4,10:02 PM,10:27,,,James Free Throw 1 of 2 (27 PTS),94 - 71,-23,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+361,0021601169,421,3,12,4,10:02 PM,10:27,,,James Free Throw 2 of 2 (28 PTS),95 - 71,-24,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+362,0021601169,423,5,40,4,10:03 PM,10:18,Bradley Out of Bounds Lost Ball Turnover (P1.T11),,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+363,0021601169,424,7,1,4,10:03 PM,10:18,CELTICS Violation: Delay of game Violation,,,,,2.0,1610612738,,,,,,0,0,,,,,,1,0,,,,,,0
+364,0021601169,425,2,1,4,10:03 PM,9:55,,,MISS James 25' 3PT Jump Shot,,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+365,0021601169,426,4,0,4,10:03 PM,9:53,Bradley REBOUND (Off:2 Def:5),,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+366,0021601169,427,1,98,4,10:03 PM,9:44,Olynyk 3' Cutting Layup Shot (10 PTS) (Smart 3 AST),,,95 - 73,-22,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+367,0021601169,428,2,75,4,10:04 PM,9:19,,,MISS D. Williams 3' Driving Finger Roll Layup,,,5.0,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+368,0021601169,429,4,0,4,10:04 PM,9:19,Jerebko REBOUND (Off:0 Def:2),,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+369,0021601169,430,6,2,4,10:04 PM,9:13,,,Shumpert S.FOUL (P4.T1) (N.Buchert),,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+370,0021601169,431,3,11,4,10:04 PM,9:13,MISS Jerebko Free Throw 1 of 2,,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+371,0021601169,432,4,1,4,10:04 PM,9:13,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+372,0021601169,433,8,0,4,10:04 PM,9:13,,,SUB: Love FOR Jefferson,,,5.0,2210,Richard Jefferson,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+373,0021601169,434,3,12,4,10:05 PM,9:13,Jerebko Free Throw 2 of 2 (1 PTS),,,95 - 74,-21,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+374,0021601169,436,6,4,4,10:05 PM,9:04,,,D. Williams OFF.Foul (P1) (M.Davis),,,5.0,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+375,0021601169,437,5,5,4,10:05 PM,9:04,,,D. Williams Foul Turnover (P1.T5),,,5.0,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+376,0021601169,438,2,1,4,10:05 PM,8:56,MISS Olynyk 22' Jump Shot,,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+377,0021601169,439,4,0,4,10:05 PM,8:54,,,Love REBOUND (Off:5 Def:10),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+378,0021601169,440,2,1,4,10:05 PM,8:36,,,MISS James 25' 3PT Jump Shot,,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+379,0021601169,441,4,0,4,10:06 PM,8:36,Jerebko REBOUND (Off:0 Def:3),,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+380,0021601169,442,5,39,4,10:06 PM,8:31,Brown Step Out of Bounds Turnover (P2.T12),,,,,4.0,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+381,0021601169,443,9,4,4,10:06 PM,8:31,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+382,0021601169,445,8,0,4,10:08 PM,8:31,,,SUB: Smith FOR Shumpert,,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+383,0021601169,446,8,0,4,10:08 PM,8:31,,,SUB: Irving FOR D. Williams,,,5.0,101114,Deron Williams,1610612739.0,Cleveland,Cavaliers,CLE,5,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+384,0021601169,447,2,42,4,10:09 PM,8:16,Brown BLOCK (1 BLK),,MISS Love 2' Driving Layup,,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1
+385,0021601169,448,4,0,4,10:09 PM,8:15,,,Cavaliers Rebound,,,3.0,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+386,0021601169,449,2,1,4,10:09 PM,8:11,,,MISS Love 25' 3PT Jump Shot,,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+387,0021601169,450,4,0,4,10:09 PM,8:10,Smart REBOUND (Off:0 Def:2),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+388,0021601169,451,6,2,4,10:09 PM,7:59,,,Korver S.FOUL (P1.T2) (T.Ford),,,5.0,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+389,0021601169,452,3,11,4,10:10 PM,7:59,Bradley Free Throw 1 of 2 (4 PTS),,,95 - 75,-20,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+390,0021601169,454,8,0,4,10:10 PM,7:59,SUB: Crowder FOR Jerebko,,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+391,0021601169,455,8,0,4,10:10 PM,7:59,SUB: Thomas FOR Brown,,,,,4.0,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+392,0021601169,456,3,12,4,10:10 PM,7:59,MISS Bradley Free Throw 2 of 2,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+393,0021601169,458,4,0,4,10:10 PM,7:59,,,Love REBOUND (Off:5 Def:11),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+394,0021601169,459,1,43,4,10:10 PM,7:40,,,James 2' Alley Oop Layup (30 PTS) (Irving 3 AST),97 - 75,-22,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+395,0021601169,460,1,44,4,10:11 PM,7:26,Olynyk 2' Reverse Layup (12 PTS) (Thomas 6 AST),,,97 - 77,-20,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+396,0021601169,461,2,99,4,10:11 PM,7:06,,,MISS Irving 3' Cutting Finger Roll Layup Shot,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+397,0021601169,462,4,0,4,10:11 PM,7:05,Olynyk REBOUND (Off:1 Def:3),,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+398,0021601169,463,6,1,4,10:11 PM,7:01,,,Love P.FOUL (P4.T3) (N.Buchert),,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+399,0021601169,464,2,1,4,10:12 PM,6:54,MISS Olynyk 25' 3PT Jump Shot,,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+400,0021601169,465,4,0,4,10:12 PM,6:53,,,Smith REBOUND (Off:1 Def:1),,,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+401,0021601169,466,1,75,4,10:12 PM,6:47,,,James 3' Driving Finger Roll Layup (32 PTS),99 - 77,-22,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+402,0021601169,467,6,2,4,10:12 PM,6:47,Crowder S.FOUL (P4.T2) (T.Ford),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+403,0021601169,468,8,0,4,10:12 PM,6:47,SUB: Horford FOR Olynyk,,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+404,0021601169,469,3,10,4,10:12 PM,6:47,,,James Free Throw 1 of 1 (33 PTS),100 - 77,-23,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+405,0021601169,471,6,1,4,10:13 PM,6:37,,,Korver P.FOUL (P2.T4) (N.Buchert),,,5.0,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+406,0021601169,472,5,40,4,10:13 PM,6:32,Thomas Out of Bounds Lost Ball Turnover (P4.T13),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+407,0021601169,473,2,47,4,10:14 PM,6:15,Thomas BLOCK (1 BLK),,MISS Irving 7' Turnaround Jump Shot,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1
+408,0021601169,474,4,0,4,10:14 PM,6:14,Horford REBOUND (Off:1 Def:6),,,,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+409,0021601169,475,2,1,4,10:14 PM,6:07,MISS Thomas 26' 3PT Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+410,0021601169,476,4,0,4,10:14 PM,6:06,Crowder REBOUND (Off:2 Def:1),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+411,0021601169,477,2,1,4,10:14 PM,6:04,MISS Smart  3PT Jump Shot,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+412,0021601169,478,4,0,4,10:14 PM,6:03,,,James REBOUND (Off:2 Def:7),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+413,0021601169,479,1,41,4,10:14 PM,5:58,,,Smith 1' Running Layup (12 PTS) (James 6 AST),102 - 77,-25,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+414,0021601169,480,2,83,4,10:14 PM,5:38,MISS Smart 6' Fadeaway Bank Shot,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+415,0021601169,481,4,0,4,10:14 PM,5:37,,,James REBOUND (Off:2 Def:8),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+416,0021601169,482,5,1,4,10:15 PM,5:18,Crowder STEAL (1 STL),,James Bad Pass Turnover (P3.T6),,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+417,0021601169,483,2,75,4,10:15 PM,5:12,MISS Thomas 2' Driving Finger Roll Layup,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+418,0021601169,484,4,0,4,10:15 PM,5:11,Crowder REBOUND (Off:3 Def:1),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+419,0021601169,485,1,72,4,10:15 PM,5:10,Crowder 2' Putback Layup (13 PTS),,,102 - 79,-23,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+420,0021601169,486,9,1,4,10:15 PM,5:10,,,Cavaliers Timeout: Regular (Reg.4 Short 1),,,3.0,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+421,0021601169,489,1,98,4,10:18 PM,5:00,,,James 2' Cutting Layup Shot (35 PTS) (Irving 4 AST),104 - 79,-25,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+422,0021601169,490,6,2,4,10:18 PM,5:00,Horford S.FOUL (P3.T3) (N.Buchert),,,,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+423,0021601169,491,3,10,4,10:18 PM,5:00,,,James Free Throw 1 of 1 (36 PTS),105 - 79,-26,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+424,0021601169,493,1,1,4,10:19 PM,4:43,Thomas 12' Jump Shot (25 PTS) (Smart 4 AST),,,105 - 81,-24,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+425,0021601169,494,6,2,4,10:19 PM,4:43,,,Korver S.FOUL (P3.PN) (M.Davis),,,5.0,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+426,0021601169,495,8,0,4,10:19 PM,4:43,SUB: Brown FOR Crowder,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+427,0021601169,496,8,0,4,10:19 PM,4:43,SUB: Rozier FOR Horford,,,,,4.0,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+428,0021601169,497,8,0,4,10:19 PM,4:43,SUB: Young FOR Bradley,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+429,0021601169,498,8,0,4,10:19 PM,4:43,SUB: Mickey FOR Smart,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1626175,Jordan Mickey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+430,0021601169,499,3,10,4,10:19 PM,4:43,Thomas Free Throw 1 of 1 (26 PTS),,,105 - 82,-23,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+431,0021601169,501,6,28,4,10:20 PM,4:37,Rozier Personal Take Foul (P1.T4) (M.Davis),,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+432,0021601169,504,8,0,4,10:20 PM,4:37,SUB: Green FOR Thomas,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,4,101123,Gerald Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+433,0021601169,502,1,1,4,10:20 PM,4:27,,,Love 24' 3PT Jump Shot (15 PTS) (Irving 5 AST),108 - 82,-26,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+434,0021601169,509,2,45,4,10:21 PM,4:06,MISS Green 26' 3PT Jump Shot,,,,,4.0,101123,Gerald Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+435,0021601169,506,4,0,4,10:21 PM,4:05,,,Smith REBOUND (Off:1 Def:2),,,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+436,0021601169,507,9,1,4,10:21 PM,4:04,,,Cavaliers Timeout: Regular (Reg.5 Short 1),,,3.0,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+437,0021601169,511,8,0,4,10:23 PM,4:04,,,SUB: Liggins FOR James,,,5.0,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,202732,DeAndre Liggins,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+438,0021601169,512,8,0,4,10:23 PM,4:04,,,SUB: Shumpert FOR Love,,,5.0,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+439,0021601169,513,8,0,4,10:23 PM,4:04,,,SUB: Sanders FOR Smith,,,5.0,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,5,202336,Larry Sanders,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+440,0021601169,514,8,0,4,10:23 PM,4:04,,,SUB: Williams FOR Irving,,,5.0,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,5,202682,Derrick Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+441,0021601169,515,8,0,4,10:23 PM,4:04,,,SUB: Jones FOR Korver,,,5.0,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,5,2592,James Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+442,0021601169,517,5,1,4,10:24 PM,3:51,Young STEAL (1 STL),,Shumpert Bad Pass Turnover (P2.T7),,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+443,0021601169,518,6,2,4,10:24 PM,3:32,,,Liggins S.FOUL (P1.PN) (N.Buchert),,,5.0,202732,DeAndre Liggins,1610612739.0,Cleveland,Cavaliers,CLE,4,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+444,0021601169,519,3,11,4,10:25 PM,3:32,MISS Rozier Free Throw 1 of 2,,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+445,0021601169,520,4,1,4,10:25 PM,3:32,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+446,0021601169,521,3,12,4,10:25 PM,3:32,Rozier Free Throw 2 of 2 (1 PTS),,,108 - 83,-25,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+447,0021601169,524,5,4,4,10:25 PM,3:11,,,Liggins Traveling Turnover (P1.T8),,,5.0,202732,DeAndre Liggins,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+448,0021601169,525,1,80,4,10:26 PM,2:58,Rozier 21' Step Back Jump Shot (3 PTS),,,108 - 85,-23,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+449,0021601169,526,5,1,4,10:26 PM,2:45,Mickey STEAL (1 STL),,Liggins Bad Pass Turnover (P2.T9),,,5.0,202732,DeAndre Liggins,1610612739.0,Cleveland,Cavaliers,CLE,4,1626175,Jordan Mickey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+450,0021601169,527,1,42,4,10:26 PM,2:39,Green 3' Driving Layup (2 PTS),,,108 - 87,-21,4.0,101123,Gerald Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+451,0021601169,528,1,75,4,10:26 PM,2:24,,,Liggins 2' Driving Finger Roll Layup (2 PTS),110 - 87,-23,5.0,202732,DeAndre Liggins,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+452,0021601169,529,6,2,4,10:26 PM,2:11,,,Sanders S.FOUL (P1.PN) (T.Ford),,,5.0,202336,Larry Sanders,1610612739.0,Cleveland,Cavaliers,CLE,4,1626175,Jordan Mickey,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+453,0021601169,530,3,11,4,10:27 PM,2:11,MISS Mickey Free Throw 1 of 2,,,,,4.0,1626175,Jordan Mickey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+454,0021601169,531,4,1,4,10:27 PM,2:11,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+455,0021601169,532,3,12,4,10:27 PM,2:11,Mickey Free Throw 2 of 2 (1 PTS),,,110 - 88,-22,4.0,1626175,Jordan Mickey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+456,0021601169,535,1,75,4,10:27 PM,1:58,,,Shumpert 2' Driving Finger Roll Layup (5 PTS),112 - 88,-24,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+457,0021601169,536,2,79,4,10:27 PM,1:45,MISS Brown 16' Pullup Jump Shot,,,,,4.0,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+458,0021601169,537,4,0,4,10:27 PM,1:43,,,Jones REBOUND (Off:0 Def:1),,,5.0,2592,James Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+459,0021601169,538,2,1,4,10:28 PM,1:30,,,MISS Liggins 22' Jump Shot,,,5.0,202732,DeAndre Liggins,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+460,0021601169,539,4,0,4,10:28 PM,1:28,,,Sanders REBOUND (Off:1 Def:0),,,5.0,202336,Larry Sanders,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+461,0021601169,540,2,5,4,10:28 PM,1:26,,,MISS Sanders 2' Layup,,,5.0,202336,Larry Sanders,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+462,0021601169,541,4,0,4,10:28 PM,1:25,Mickey REBOUND (Off:0 Def:1),,,,,4.0,1626175,Jordan Mickey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+463,0021601169,542,2,1,4,10:28 PM,1:18,MISS Mickey 19' Jump Shot,,,,,4.0,1626175,Jordan Mickey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+464,0021601169,543,4,0,4,10:28 PM,1:17,,,Jones REBOUND (Off:0 Def:2),,,5.0,2592,James Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+465,0021601169,544,1,79,4,10:28 PM,1:06,,,Jones 19' Pullup Jump Shot (2 PTS),114 - 88,-26,5.0,2592,James Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+466,0021601169,545,1,79,4,10:28 PM,1:00,Rozier 25' 3PT Pullup Jump Shot (6 PTS),,,114 - 91,-23,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+467,0021601169,546,2,5,4,10:29 PM,0:43,Mickey BLOCK (1 BLK),,MISS Shumpert 3' Layup,,,5.0,202697,Iman Shumpert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1626175,Jordan Mickey,1610612738.0,Boston,Celtics,BOS,1
+468,0021601169,547,4,0,4,10:29 PM,0:42,Mickey REBOUND (Off:0 Def:2),,,,,4.0,1626175,Jordan Mickey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+469,0021601169,548,2,80,4,10:29 PM,0:31,MISS Rozier 25' 3PT Step Back Jump Shot,,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+470,0021601169,549,4,0,4,10:29 PM,0:30,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+471,0021601169,550,6,3,4,10:29 PM,0:30,,,Liggins L.B.FOUL (P2.PN) (N.Buchert),,,5.0,202732,DeAndre Liggins,1610612739.0,Cleveland,Cavaliers,CLE,4,101123,Gerald Green,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+472,0021601169,551,3,11,4,10:29 PM,0:30,MISS Green Free Throw 1 of 2,,,,,4.0,101123,Gerald Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+473,0021601169,552,4,1,4,10:29 PM,0:30,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+474,0021601169,553,3,12,4,10:29 PM,0:30,MISS Green Free Throw 2 of 2,,,,,4.0,101123,Gerald Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+475,0021601169,555,4,0,4,10:29 PM,0:30,,,Sanders REBOUND (Off:1 Def:1),,,5.0,202336,Larry Sanders,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+476,0021601169,556,5,2,4,10:30 PM,0:10,Brown STEAL (1 STL),,Williams Lost Ball Turnover (P1.T10),,,5.0,202682,Derrick Williams,1610612739.0,Cleveland,Cavaliers,CLE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+477,0021601169,557,13,0,4,10:30 PM,0:00,,,,114 - 91,-23,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

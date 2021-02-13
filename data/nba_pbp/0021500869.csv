@@ -1,0 +1,485 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021500869,0,12,0,1,3:11 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021500869,1,10,0,1,3:11 PM,12:00,Jump Ball Johnson vs. Stoudemire: Tip to Dragic,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,5,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1
+2,0021500869,2,5,1,1,3:11 PM,11:48,Johnson STEAL (1 STL),,Winslow Bad Pass Turnover (P1.T1),,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+3,0021500869,4,6,4,1,3:12 PM,11:27,Johnson OFF.Foul (P1) (G.Petraitis),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,5,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+4,0021500869,5,5,5,1,3:12 PM,11:27,Johnson Foul Turnover (P1.T1),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+5,0021500869,6,2,5,1,3:12 PM,11:04,Sullinger BLOCK (1 BLK),,MISS Stoudemire 2' Layup,,,5.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,1
+6,0021500869,7,4,0,1,3:12 PM,11:02,Crowder REBOUND (Off:0 Def:1),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+7,0021500869,8,2,3,1,3:12 PM,10:55,MISS Sullinger 6' Hook Shot,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+8,0021500869,9,4,0,1,3:12 PM,10:54,,,Dragic REBOUND (Off:0 Def:1),,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+9,0021500869,10,2,1,1,3:13 PM,10:42,,,MISS Dragic 24' 3PT Jump Shot,,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+10,0021500869,11,4,0,1,3:13 PM,10:41,Sullinger REBOUND (Off:0 Def:1),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+11,0021500869,12,2,1,1,3:13 PM,10:26,MISS Thomas 8' Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+12,0021500869,13,4,0,1,3:13 PM,10:25,,,Stoudemire REBOUND (Off:0 Def:1),,,5.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+13,0021500869,14,2,1,1,3:13 PM,10:15,,,MISS Deng 22' Jump Shot,,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+14,0021500869,15,4,0,1,3:13 PM,10:14,Thomas REBOUND (Off:0 Def:1),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+15,0021500869,16,2,1,1,3:13 PM,10:04,MISS Bradley 24' 3PT Jump Shot,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+16,0021500869,17,4,0,1,3:13 PM,10:03,Johnson REBOUND (Off:1 Def:0),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+17,0021500869,18,1,5,1,3:13 PM,9:51,Sullinger 2' Layup (2 PTS) (Crowder 1 AST),,,0 - 2,2,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+18,0021500869,19,7,5,1,3:14 PM,9:41,Sullinger Violation:Kicked Ball (M.Callahan),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+19,0021500869,20,1,49,1,3:14 PM,9:32,,,Stoudemire  Driving Dunk (2 PTS) (Dragic 1 AST),2 - 2,TIE,5.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+20,0021500869,22,2,1,1,3:14 PM,9:24,MISS Sullinger 19' Jump Shot,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+21,0021500869,23,4,0,1,3:14 PM,9:23,,,Deng REBOUND (Off:0 Def:1),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+22,0021500869,24,1,1,1,3:14 PM,9:10,,,Stoudemire 18' Jump Shot (4 PTS) (Dragic 2 AST),4 - 2,-2,5.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+23,0021500869,25,5,1,1,3:15 PM,8:56,Thomas Bad Pass Turnover (P1.T2),,Wade STEAL (1 STL),,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+24,0021500869,26,2,1,1,3:15 PM,8:50,,,MISS Deng 24' 3PT Jump Shot,,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+25,0021500869,27,4,0,1,3:15 PM,8:49,Sullinger REBOUND (Off:0 Def:2),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+26,0021500869,28,2,5,1,3:15 PM,8:35,MISS Sullinger 2' Layup,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+27,0021500869,29,4,0,1,3:15 PM,8:34,,,Stoudemire REBOUND (Off:0 Def:2),,,5.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+28,0021500869,30,1,42,1,3:15 PM,8:30,,,Deng 1' Driving Layup (2 PTS) (Winslow 1 AST),6 - 2,-4,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+29,0021500869,31,6,2,1,3:15 PM,8:30,Crowder S.FOUL (P1.T1) (M.Callahan),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,5,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+30,0021500869,32,3,10,1,3:15 PM,8:30,,,MISS Deng Free Throw 1 of 1,,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+31,0021500869,34,4,0,1,3:16 PM,8:30,Johnson REBOUND (Off:1 Def:1),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+32,0021500869,35,2,1,1,3:16 PM,8:18,MISS Crowder 26' 3PT Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+33,0021500869,36,4,0,1,3:16 PM,8:17,,,Winslow REBOUND (Off:0 Def:1),,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+34,0021500869,37,2,78,1,3:16 PM,7:59,,,MISS Wade 6' Floating Jump Shot,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+35,0021500869,38,4,0,1,3:16 PM,7:58,,,Deng REBOUND (Off:1 Def:1),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+36,0021500869,39,1,72,1,3:16 PM,7:57,,,Winslow 2' Putback Layup (2 PTS) (Deng 1 AST),8 - 2,-6,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+37,0021500869,40,9,1,1,3:16 PM,7:57,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+38,0021500869,42,5,8,1,3:19 PM,7:39,Johnson 3 Second Violation Turnover (P2.T3),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+39,0021500869,43,2,1,1,3:19 PM,7:26,,,MISS Stoudemire 17' Jump Shot,,,5.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+40,0021500869,44,4,0,1,3:19 PM,7:25,Johnson REBOUND (Off:1 Def:2),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+41,0021500869,45,2,78,1,3:19 PM,7:18,MISS Thomas 9' Floating Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+42,0021500869,47,4,0,1,3:19 PM,7:17,Johnson REBOUND (Off:2 Def:2),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+43,0021500869,46,1,97,1,3:19 PM,7:16,Johnson  Tip Layup Shot (2 PTS),,,8 - 4,-4,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+44,0021500869,48,6,4,1,3:20 PM,6:54,,,Deng OFF.Foul (P1) (J.Williams),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+45,0021500869,49,5,5,1,3:20 PM,6:54,,,Deng Foul Turnover (P1.T2),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+46,0021500869,50,2,1,1,3:20 PM,6:39,MISS Crowder 25' 3PT Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+47,0021500869,51,4,0,1,3:20 PM,6:38,,,Dragic REBOUND (Off:0 Def:2),,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+48,0021500869,52,1,108,1,3:20 PM,6:27,,,Stoudemire  Cutting Dunk Shot (6 PTS) (Dragic 3 AST),10 - 4,-6,5.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+49,0021500869,53,1,5,1,3:21 PM,6:10,Sullinger 1' Layup (4 PTS) (Crowder 2 AST),,,10 - 6,-4,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+50,0021500869,54,2,1,1,3:21 PM,5:54,,,MISS Winslow  3PT Jump Shot,,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+51,0021500869,55,4,0,1,3:21 PM,5:53,Bradley REBOUND (Off:0 Def:1),,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+52,0021500869,56,5,1,1,3:21 PM,5:38,Sullinger Bad Pass Turnover (P1.T4),,Deng STEAL (1 STL),,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+53,0021500869,57,6,2,1,3:21 PM,5:31,Sullinger S.FOUL (P1.T2) (G.Petraitis),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+54,0021500869,58,3,11,1,3:22 PM,5:31,,,Dragic Free Throw 1 of 2 (1 PTS),11 - 6,-5,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+55,0021500869,60,8,0,1,3:22 PM,5:31,SUB: Turner FOR Sullinger,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+56,0021500869,61,8,0,1,3:22 PM,5:31,SUB: Smart FOR Bradley,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+57,0021500869,62,8,0,1,3:22 PM,5:31,,,SUB: Green FOR Wade,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+58,0021500869,63,3,12,1,3:22 PM,5:31,,,Dragic Free Throw 2 of 2 (2 PTS),12 - 6,-6,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+59,0021500869,65,6,2,1,3:22 PM,5:21,,,Dragic S.FOUL (P1.T1) (J.Williams),,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+60,0021500869,66,3,11,1,3:23 PM,5:21,MISS Thomas Free Throw 1 of 2,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+61,0021500869,67,4,1,1,3:23 PM,5:21,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+62,0021500869,70,3,12,1,3:23 PM,5:21,Thomas Free Throw 2 of 2 (1 PTS),,,12 - 7,-5,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+63,0021500869,72,1,42,1,3:23 PM,5:14,,,Dragic 1' Driving Layup (4 PTS),14 - 7,-7,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+64,0021500869,73,2,5,1,3:23 PM,5:04,MISS Thomas  Layup,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+65,0021500869,75,4,0,1,3:23 PM,5:03,Johnson REBOUND (Off:3 Def:2),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+66,0021500869,74,2,5,1,3:23 PM,5:02,MISS Johnson 2' Layup,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+67,0021500869,76,4,0,1,3:23 PM,5:01,,,Dragic REBOUND (Off:0 Def:3),,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+68,0021500869,77,6,4,1,3:24 PM,4:58,,,Winslow OFF.Foul (P1) (J.Williams),,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+69,0021500869,78,5,5,1,3:24 PM,4:58,,,Winslow Foul Turnover (P2.T3),,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+70,0021500869,79,2,1,1,3:24 PM,4:48,MISS Smart 26' 3PT Jump Shot,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+71,0021500869,80,4,0,1,3:24 PM,4:47,,,Deng REBOUND (Off:1 Def:2),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+72,0021500869,81,1,5,1,3:24 PM,4:38,,,Winslow 1' Layup (4 PTS) (Deng 2 AST),16 - 7,-9,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+73,0021500869,82,5,1,1,3:24 PM,4:27,Smart Bad Pass Turnover (P1.T5),,Green STEAL (1 STL),,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+74,0021500869,83,1,42,1,3:24 PM,4:21,,,Deng 1' Driving Layup (4 PTS) (Green 1 AST),18 - 7,-11,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,5,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+75,0021500869,84,2,1,1,3:25 PM,4:02,MISS Turner 13' Jump Shot,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+76,0021500869,85,4,0,1,3:25 PM,4:01,,,Deng REBOUND (Off:1 Def:3),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+77,0021500869,86,5,2,1,3:25 PM,3:58,Crowder STEAL (1 STL),,Deng Lost Ball Turnover (P2.T4),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+78,0021500869,87,6,2,1,3:25 PM,3:56,,,Stoudemire S.FOUL (P1.T2) (M.Callahan),,,5.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+79,0021500869,88,3,11,1,3:25 PM,3:56,Crowder Free Throw 1 of 2 (1 PTS),,,18 - 8,-10,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+80,0021500869,90,8,0,1,3:25 PM,3:56,SUB: Zeller FOR Johnson,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+81,0021500869,91,8,0,1,3:25 PM,3:56,SUB: Jerebko FOR Thomas,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+82,0021500869,92,8,0,1,3:25 PM,3:56,,,SUB: Whiteside FOR Stoudemire,,,5.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+83,0021500869,93,3,12,1,3:26 PM,3:56,MISS Crowder Free Throw 2 of 2,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+84,0021500869,95,4,0,1,3:26 PM,3:55,,,Whiteside REBOUND (Off:0 Def:1),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+85,0021500869,96,1,80,1,3:26 PM,3:41,,,Dragic 15' Step Back Jump Shot (6 PTS),20 - 8,-12,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+86,0021500869,97,1,1,1,3:26 PM,3:28,Zeller 20' Jump Shot (2 PTS) (Turner 1 AST),,,20 - 10,-10,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+87,0021500869,98,9,1,1,3:26 PM,3:21,,,Heat Timeout: Regular (Reg.1 Short 0),,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+88,0021500869,101,2,1,1,3:29 PM,3:02,,,MISS Green 18' Jump Shot,,,5.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+89,0021500869,102,4,0,1,3:29 PM,3:00,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+90,0021500869,103,5,11,1,3:29 PM,3:00,,,Heat Turnover: Shot Clock (T#5),,,3.0,1610612748,,,,,,0,0,,,,,,1,0,,,,,,0
+91,0021500869,104,2,5,1,3:30 PM,2:49,MISS Crowder 1' Layup,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+92,0021500869,105,4,0,1,3:30 PM,2:48,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+93,0021500869,106,1,1,1,3:30 PM,2:42,Smart 14' Jump Shot (2 PTS) (Turner 2 AST),,,20 - 12,-8,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+94,0021500869,107,1,42,1,3:30 PM,2:30,,,Dragic 2' Driving Layup (8 PTS),22 - 12,-10,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+95,0021500869,108,1,79,1,3:30 PM,2:19,Turner 12' Pullup Jump Shot (2 PTS),,,22 - 14,-8,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+96,0021500869,109,6,2,1,3:31 PM,1:58,Smart S.FOUL (P1.T3) (J.Williams),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+97,0021500869,110,3,11,1,3:31 PM,1:58,,,MISS Deng Free Throw 1 of 2,,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+98,0021500869,111,4,1,1,3:31 PM,1:58,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+99,0021500869,112,8,0,1,3:31 PM,1:58,,,SUB: Richardson FOR Winslow,,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+100,0021500869,113,8,0,1,3:31 PM,1:58,,,SUB: Wade FOR Dragic,,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+101,0021500869,114,3,12,1,3:32 PM,1:58,,,Deng Free Throw 2 of 2 (5 PTS),23 - 14,-9,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+102,0021500869,118,5,40,1,3:32 PM,1:46,Jerebko Out of Bounds Lost Ball Turnover (P1.T6),,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+103,0021500869,129,8,0,1,3:32 PM,1:46,,,SUB: McRoberts FOR Deng,,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,5,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+104,0021500869,119,2,1,1,3:32 PM,1:34,,,MISS Green 14' Jump Shot,,,5.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+105,0021500869,121,4,0,1,3:32 PM,1:33,,,Whiteside REBOUND (Off:1 Def:1),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+106,0021500869,120,2,97,1,3:32 PM,1:32,,,MISS Whiteside  Tip Layup Shot,,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+107,0021500869,122,4,0,1,3:32 PM,1:29,Zeller REBOUND (Off:0 Def:1),,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+108,0021500869,123,2,1,1,3:33 PM,1:21,MISS Smart 4' Jump Shot,,Whiteside BLOCK (1 BLK),,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+109,0021500869,124,4,0,1,3:33 PM,1:20,,,Whiteside REBOUND (Off:1 Def:2),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+110,0021500869,126,6,2,1,3:33 PM,1:16,Jerebko S.FOUL (P1.PN) (G.Petraitis),,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+111,0021500869,127,3,11,1,3:33 PM,1:16,,,MISS Wade Free Throw 1 of 2,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+112,0021500869,128,4,1,1,3:33 PM,1:16,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+113,0021500869,130,3,12,1,3:33 PM,1:16,,,Wade Free Throw 2 of 2 (1 PTS),24 - 14,-10,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+114,0021500869,132,1,1,1,3:33 PM,1:04,Zeller 18' Jump Shot (4 PTS) (Turner 3 AST),,,24 - 16,-8,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+115,0021500869,133,2,47,1,3:34 PM,0:45,,,MISS Whiteside 9' Turnaround Jump Shot,,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+116,0021500869,134,4,0,1,3:34 PM,0:44,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+117,0021500869,135,6,3,1,3:34 PM,0:44,Smart L.B.FOUL (P2.PN) (J.Williams),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+118,0021500869,136,3,11,1,3:34 PM,0:44,,,Richardson Free Throw 1 of 2 (1 PTS),25 - 16,-9,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+119,0021500869,138,3,12,1,3:34 PM,0:44,,,Richardson Free Throw 2 of 2 (2 PTS),26 - 16,-10,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+120,0021500869,140,6,2,1,3:35 PM,0:31,,,McRoberts S.FOUL (P1.T3) (M.Callahan),,,5.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+121,0021500869,141,3,11,1,3:35 PM,0:31,Zeller Free Throw 1 of 2 (5 PTS),,,26 - 17,-9,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+122,0021500869,143,3,12,1,3:35 PM,0:31,Zeller Free Throw 2 of 2 (6 PTS),,,26 - 18,-8,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+123,0021500869,145,5,2,1,3:36 PM,0:23,Crowder STEAL (2 STL),,Wade Lost Ball Turnover (P1.T6),,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+124,0021500869,146,2,5,1,3:36 PM,0:15,MISS Jerebko 1' Layup,,Whiteside BLOCK (2 BLK),,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+125,0021500869,147,4,0,1,3:36 PM,0:15,,,Whiteside REBOUND (Off:1 Def:3),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+126,0021500869,148,2,1,1,3:36 PM,0:00,,,MISS Wade 26' 3PT Jump Shot,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+127,0021500869,149,4,0,1,3:36 PM,0:00,Jerebko REBOUND (Off:0 Def:1),,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+128,0021500869,150,13,0,1,3:36 PM,0:00,,,,26 - 18,-8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+129,0021500869,152,12,0,2,3:39 PM,12:00,,,,26 - 18,-8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+130,0021500869,153,2,1,2,3:39 PM,11:46,MISS Zeller 7' Jump Shot,,Whiteside BLOCK (3 BLK),,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+131,0021500869,154,4,0,2,3:39 PM,11:45,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+132,0021500869,155,2,1,2,3:39 PM,11:42,MISS Zeller 16' Jump Shot,,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+133,0021500869,156,4,0,2,3:39 PM,11:41,,,Whiteside REBOUND (Off:1 Def:4),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+134,0021500869,158,2,1,2,3:40 PM,11:20,,,MISS McRoberts 26' 3PT Jump Shot,,,5.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+135,0021500869,159,4,0,2,3:40 PM,11:19,Jerebko REBOUND (Off:0 Def:2),,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+136,0021500869,160,6,2,2,3:40 PM,11:11,,,Richardson S.FOUL (P1.T1) (G.Petraitis),,,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+137,0021500869,161,3,11,2,3:41 PM,11:11,MISS Smart Free Throw 1 of 2,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+138,0021500869,162,4,1,2,3:41 PM,11:11,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+139,0021500869,163,3,12,2,3:41 PM,11:11,Smart Free Throw 2 of 2 (3 PTS),,,26 - 19,-7,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+140,0021500869,165,5,1,2,3:41 PM,11:00,Smart STEAL (1 STL),,Wade Bad Pass Turnover (P2.T7),,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+141,0021500869,166,5,1,2,3:41 PM,10:53,Bradley Bad Pass Turnover (P1.T7),,Whiteside STEAL (1 STL),,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+142,0021500869,167,1,73,2,3:41 PM,10:43,,,Richardson 1' Driving Reverse Layup (4 PTS) (Wade 1 AST),28 - 19,-9,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+143,0021500869,168,1,1,2,3:42 PM,10:30,Turner 13' Jump Shot (4 PTS) (Jerebko 1 AST),,,28 - 21,-7,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+144,0021500869,169,5,1,2,3:42 PM,10:09,Turner STEAL (1 STL),,Green Bad Pass Turnover (P1.T8),,,5.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+145,0021500869,170,1,1,2,3:42 PM,10:03,Jerebko  3PT Jump Shot (3 PTS) (Turner 4 AST),,,28 - 24,-4,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+146,0021500869,171,9,1,2,3:42 PM,9:52,,,Heat Timeout: Regular (Reg.2 Short 0),,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+147,0021500869,173,5,13,2,3:45 PM,9:51,,,Richardson Backcourt Turnover (P1.T9),,,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+148,0021500869,174,1,43,2,3:45 PM,9:34,Zeller  Alley Oop Layup (8 PTS) (Turner 5 AST),,,28 - 26,-2,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+149,0021500869,175,10,0,2,3:46 PM,9:17,Jump Ball Bradley vs. Wade: Tip to Smart,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1
+150,0021500869,176,5,2,2,3:46 PM,9:17,Bradley STEAL (1 STL),,Wade Lost Ball Turnover (P3.T10),,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+151,0021500869,177,1,108,2,3:46 PM,9:08,Turner  Cutting Dunk Shot (6 PTS) (Smart 1 AST),,,28 - 28,TIE,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+152,0021500869,178,2,1,2,3:47 PM,8:47,,,MISS McRoberts 20' Jump Shot,,,5.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+153,0021500869,180,4,0,2,3:47 PM,8:46,,,Whiteside REBOUND (Off:2 Def:4),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+154,0021500869,179,1,97,2,3:47 PM,8:45,,,Whiteside  Tip Layup Shot (2 PTS),30 - 28,-2,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+155,0021500869,181,1,86,2,3:47 PM,8:28,Jerebko 9' Turnaround Fadeaway (5 PTS),,,30 - 30,TIE,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+156,0021500869,182,1,66,2,3:47 PM,8:11,,,McRoberts 13' Jump Bank Shot (2 PTS),32 - 30,-2,5.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+157,0021500869,183,6,2,2,3:47 PM,7:56,,,McRoberts S.FOUL (P2.T2) (G.Petraitis),,,5.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+158,0021500869,184,3,11,2,3:48 PM,7:56,MISS Turner Free Throw 1 of 2,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+159,0021500869,185,4,1,2,3:48 PM,7:56,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+160,0021500869,186,3,12,2,3:48 PM,7:56,Turner Free Throw 2 of 2 (7 PTS),,,32 - 31,-1,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+161,0021500869,188,2,58,2,3:48 PM,7:44,,,MISS Whiteside 7' Turnaround Hook Shot,,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+162,0021500869,189,4,0,2,3:48 PM,7:43,Turner REBOUND (Off:0 Def:1),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+163,0021500869,190,1,63,2,3:48 PM,7:31,Turner 12' Fadeaway Jumper (9 PTS),,,32 - 33,1,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+164,0021500869,191,6,2,2,3:49 PM,7:15,Smart S.FOUL (P3.T1) (G.Petraitis),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+165,0021500869,192,3,11,2,3:49 PM,7:15,,,Richardson Free Throw 1 of 2 (5 PTS),33 - 33,TIE,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+166,0021500869,194,8,0,2,3:49 PM,7:15,,,SUB: Dragic FOR Green,,,5.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+167,0021500869,195,8,0,2,3:49 PM,7:15,,,SUB: Deng FOR McRoberts,,,5.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,5,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+168,0021500869,196,3,12,2,3:49 PM,7:15,,,Richardson Free Throw 2 of 2 (6 PTS),34 - 33,-1,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+169,0021500869,198,2,1,2,3:50 PM,7:00,MISS Turner 15' Jump Shot,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+170,0021500869,200,4,0,2,3:50 PM,6:59,Smart REBOUND (Off:1 Def:0),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+171,0021500869,199,1,72,2,3:50 PM,6:59,Smart 2' Putback Layup (5 PTS),,,34 - 35,1,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+172,0021500869,201,1,1,2,3:50 PM,6:47,,,Wade 17' Jump Shot (3 PTS) (Dragic 4 AST),36 - 35,-1,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+173,0021500869,202,2,1,2,3:50 PM,6:30,MISS Bradley 16' Jump Shot,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+174,0021500869,203,4,0,2,3:50 PM,6:29,,,Wade REBOUND (Off:0 Def:1),,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+175,0021500869,205,1,5,2,3:51 PM,6:20,,,Whiteside 1' Layup (4 PTS) (Wade 2 AST),38 - 35,-3,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+176,0021500869,206,6,2,2,3:51 PM,6:20,Jerebko S.FOUL (P2.T2) (M.Callahan),,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+177,0021500869,207,8,0,2,3:51 PM,6:20,SUB: Thomas FOR Smart,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+178,0021500869,208,3,10,2,3:51 PM,6:20,,,Whiteside Free Throw 1 of 1 (5 PTS),39 - 35,-4,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+179,0021500869,210,2,78,2,3:51 PM,6:02,MISS Thomas 8' Floating Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+180,0021500869,211,4,0,2,3:51 PM,6:01,Thomas REBOUND (Off:1 Def:1),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+181,0021500869,212,5,1,2,3:51 PM,5:54,Jerebko Bad Pass Turnover (P2.T8),,Richardson STEAL (1 STL),,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+182,0021500869,213,2,1,2,3:52 PM,5:39,,,MISS Dragic 16' Jump Shot,,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+183,0021500869,214,4,0,2,3:52 PM,5:38,,,Wade REBOUND (Off:1 Def:1),,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+184,0021500869,215,2,5,2,3:52 PM,5:35,,,MISS Wade 1' Layup,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+185,0021500869,217,4,0,2,3:52 PM,5:34,,,Dragic REBOUND (Off:1 Def:3),,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+186,0021500869,216,1,72,2,3:52 PM,5:33,,,Dragic 1' Putback Layup (10 PTS),41 - 35,-6,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+187,0021500869,218,9,1,2,3:52 PM,5:33,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+188,0021500869,220,8,0,2,3:54 PM,5:33,SUB: Sullinger FOR Zeller,,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+189,0021500869,221,8,0,2,3:54 PM,5:33,SUB: Crowder FOR Jerebko,,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+190,0021500869,222,8,0,2,3:54 PM,5:33,,,SUB: Winslow FOR Wade,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+191,0021500869,223,5,1,2,3:55 PM,5:16,Thomas Bad Pass Turnover (P2.T9),,Richardson STEAL (2 STL),,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+192,0021500869,224,5,1,2,3:55 PM,5:15,Crowder STEAL (3 STL),,Richardson Bad Pass Turnover (P2.T11),,,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+193,0021500869,225,6,1,2,3:55 PM,5:05,,,Whiteside P.FOUL (P1.T3) (J.Williams),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+194,0021500869,226,6,27,2,3:55 PM,5:03,,,Richardson Personal Block Foul (P2.T4) (M.Callahan),,,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+195,0021500869,227,1,1,2,3:56 PM,4:53,Turner 15' Jump Shot (11 PTS) (Sullinger 1 AST),,,41 - 37,-4,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+196,0021500869,228,1,82,2,3:56 PM,4:29,,,Richardson 6' Driving Bank Shot (8 PTS) (Dragic 5 AST),43 - 37,-6,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+197,0021500869,229,2,5,2,3:56 PM,4:22,MISS Thomas 1' Layup,,Winslow BLOCK (1 BLK),,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,1
+198,0021500869,230,4,0,2,3:56 PM,4:21,Thomas REBOUND (Off:2 Def:1),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+199,0021500869,231,1,52,2,3:56 PM,4:18,Crowder  Alley Oop Dunk (3 PTS) (Turner 6 AST),,,43 - 39,-4,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+200,0021500869,232,5,11,2,3:57 PM,3:52,,,Heat Turnover: Shot Clock (T#12),,,3.0,1610612748,,,,,,0,0,,,,,,1,0,,,,,,0
+201,0021500869,233,2,42,2,3:57 PM,3:39,MISS Thomas 1' Driving Layup,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+202,0021500869,234,4,0,2,3:57 PM,3:38,,,Whiteside REBOUND (Off:2 Def:5),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+203,0021500869,236,1,98,2,3:57 PM,3:31,,,Winslow 1' Cutting Layup Shot (6 PTS) (Richardson 1 AST),45 - 39,-6,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+204,0021500869,237,2,1,2,3:58 PM,3:04,MISS Turner 13' Jump Shot,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+205,0021500869,238,4,0,2,3:58 PM,3:03,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+206,0021500869,239,6,3,2,3:58 PM,3:03,,,Winslow L.B.FOUL (P2.PN) (G.Petraitis),,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+207,0021500869,240,3,11,2,3:58 PM,3:03,Sullinger Free Throw 1 of 2 (5 PTS),,,45 - 40,-5,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+208,0021500869,242,8,0,2,3:58 PM,3:03,SUB: Johnson FOR Turner,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+209,0021500869,243,3,12,2,3:58 PM,3:03,Sullinger Free Throw 2 of 2 (6 PTS),,,45 - 41,-4,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+210,0021500869,245,2,82,2,3:59 PM,2:57,,,MISS Winslow 5' Driving Bank Shot,,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+211,0021500869,246,4,0,2,3:59 PM,2:56,Sullinger REBOUND (Off:0 Def:3),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+212,0021500869,247,2,63,2,3:59 PM,2:43,MISS Thomas 18' Fadeaway Jumper,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+213,0021500869,248,4,0,2,3:59 PM,2:42,,,Whiteside REBOUND (Off:2 Def:6),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+214,0021500869,249,6,1,2,3:59 PM,2:40,Crowder P.FOUL (P2.T3) (M.Callahan),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,5,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+215,0021500869,250,9,4,2,3:59 PM,2:40,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+216,0021500869,252,2,66,2,4:02 PM,2:25,,,MISS Deng 12' Jump Bank Shot,,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+217,0021500869,253,4,0,2,4:02 PM,2:24,,,Winslow REBOUND (Off:1 Def:1),,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+218,0021500869,254,2,5,2,4:02 PM,2:22,Sullinger BLOCK (2 BLK),,MISS Winslow 1' Layup,,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,1
+219,0021500869,255,4,0,2,4:02 PM,2:21,Sullinger REBOUND (Off:0 Def:4),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+220,0021500869,256,1,5,2,4:02 PM,2:12,Sullinger  Layup (8 PTS) (Thomas 1 AST),,,45 - 43,-2,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+221,0021500869,257,6,2,2,4:02 PM,1:57,Crowder S.FOUL (P3.T4) (G.Petraitis),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,5,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+222,0021500869,258,3,11,2,4:03 PM,1:57,,,MISS Deng Free Throw 1 of 2,,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+223,0021500869,259,4,1,2,4:03 PM,1:57,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+224,0021500869,260,3,12,2,4:03 PM,1:57,,,MISS Deng Free Throw 2 of 2,,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+225,0021500869,262,4,0,2,4:03 PM,1:57,Johnson REBOUND (Off:3 Def:3),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+226,0021500869,263,2,78,2,4:03 PM,1:42,MISS Crowder 7' Floating Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+227,0021500869,264,4,0,2,4:03 PM,1:41,,,Deng REBOUND (Off:1 Def:4),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+228,0021500869,265,2,1,2,4:03 PM,1:34,,,MISS Dragic 11' Jump Shot,,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+229,0021500869,267,4,0,2,4:03 PM,1:33,,,Deng REBOUND (Off:2 Def:4),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+230,0021500869,266,1,87,2,4:03 PM,1:33,,,Deng  Putback Dunk (7 PTS),47 - 43,-4,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+231,0021500869,268,2,5,2,4:04 PM,1:23,MISS Thomas 3' Layup,,Whiteside BLOCK (4 BLK),,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+232,0021500869,269,4,0,2,4:04 PM,1:22,Johnson REBOUND (Off:4 Def:3),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+233,0021500869,270,2,1,2,4:04 PM,1:18,MISS Crowder 26' 3PT Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+234,0021500869,271,4,0,2,4:04 PM,1:17,,,Whiteside REBOUND (Off:2 Def:7),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+235,0021500869,272,6,26,2,4:04 PM,1:12,,,Dragic Offensive Charge Foul (P2.PN) (J.Williams),,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+236,0021500869,273,5,5,2,4:04 PM,1:12,,,Dragic Foul Turnover (P1.T13),,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+237,0021500869,274,8,0,2,4:04 PM,1:12,,,SUB: Wade FOR Winslow,,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+238,0021500869,275,8,0,2,4:04 PM,1:12,,,SUB: Green FOR Dragic,,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+239,0021500869,276,2,1,2,4:05 PM,1:00,MISS Sullinger 20' Jump Shot,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+240,0021500869,277,4,0,2,4:05 PM,0:59,,,Deng REBOUND (Off:2 Def:5),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+241,0021500869,278,1,1,2,4:05 PM,0:51,,,Wade 17' Jump Shot (5 PTS),49 - 43,-6,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+242,0021500869,279,9,2,2,4:05 PM,0:51,CELTICS Timeout: Short (Full 2 Short 1),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+243,0021500869,281,8,0,2,4:06 PM,0:51,SUB: Turner FOR Johnson,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+244,0021500869,282,8,0,2,4:06 PM,0:51,SUB: Jerebko FOR Crowder,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+245,0021500869,284,1,1,2,4:07 PM,0:29,Bradley 27' 3PT Jump Shot (3 PTS) (Jerebko 2 AST),,,49 - 46,-3,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+246,0021500869,285,9,2,2,4:07 PM,0:23,,,Heat Timeout: Short (Reg.2 Short 1),,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+247,0021500869,287,2,63,2,4:09 PM,0:05,,,MISS Wade 11' Fadeaway Jumper,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+248,0021500869,288,4,0,2,4:09 PM,0:03,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+249,0021500869,289,8,0,2,4:09 PM,0:03,SUB: Rozier FOR Sullinger,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+250,0021500869,290,8,0,2,4:09 PM,0:03,,,SUB: Dragic FOR Whiteside,,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+251,0021500869,291,13,0,2,4:09 PM,0:00,,,,49 - 46,-3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+252,0021500869,293,12,0,3,4:25 PM,12:00,,,,49 - 46,-3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+253,0021500869,295,2,45,3,4:25 PM,11:44,MISS Bradley 26' 3PT Jump Shot,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+254,0021500869,294,4,0,3,4:25 PM,11:44,,,Wade REBOUND (Off:1 Def:2),,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+255,0021500869,296,2,1,3,4:26 PM,11:23,,,MISS Wade 21' Jump Shot,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+256,0021500869,297,4,0,3,4:26 PM,11:22,Sullinger REBOUND (Off:0 Def:5),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+257,0021500869,298,2,1,3,4:26 PM,11:14,MISS Sullinger 19' Jump Shot,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+258,0021500869,299,4,0,3,4:26 PM,11:13,,,Wade REBOUND (Off:1 Def:3),,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+259,0021500869,300,1,1,3,4:26 PM,11:06,,,Wade 7' Jump Shot (7 PTS),51 - 46,-5,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+260,0021500869,301,6,2,3,4:26 PM,11:06,Bradley S.FOUL (P1.T1) (G.Petraitis),,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+261,0021500869,302,3,10,3,4:26 PM,11:06,,,Wade Free Throw 1 of 1 (8 PTS),52 - 46,-6,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+262,0021500869,304,1,78,3,4:27 PM,10:49,Sullinger 7' Floating Jump Shot (10 PTS),,,52 - 48,-4,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+263,0021500869,306,2,5,3,4:27 PM,10:36,,,MISS Dragic 2' Layup,,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+264,0021500869,307,4,0,3,4:27 PM,10:35,Johnson REBOUND (Off:4 Def:4),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+265,0021500869,308,2,1,3,4:27 PM,10:23,MISS Thomas 26' 3PT Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+266,0021500869,309,4,0,3,4:27 PM,10:22,,,Stoudemire REBOUND (Off:0 Def:3),,,5.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+267,0021500869,310,2,1,3,4:27 PM,10:15,,,MISS Wade 17' Jump Shot,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+268,0021500869,311,4,0,3,4:27 PM,10:14,Sullinger REBOUND (Off:0 Def:6),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+269,0021500869,312,1,43,3,4:27 PM,10:02,Crowder 1' Alley Oop Layup (5 PTS) (Bradley 1 AST),,,52 - 50,-2,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+270,0021500869,313,2,5,3,4:28 PM,9:47,Johnson BLOCK (1 BLK),,MISS Deng 2' Layup,,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,1
+271,0021500869,314,4,0,3,4:28 PM,9:46,Crowder REBOUND (Off:0 Def:2),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+272,0021500869,315,2,5,3,4:28 PM,9:40,MISS Johnson 2' Layup,,Stoudemire BLOCK (1 BLK),,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,1
+273,0021500869,316,4,0,3,4:28 PM,9:39,,,Winslow REBOUND (Off:1 Def:2),,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+274,0021500869,317,5,45,3,4:28 PM,9:17,,,Dragic Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+275,0021500869,318,1,5,3,4:29 PM,9:06,Johnson 2' Layup (4 PTS) (Thomas 2 AST),,,52 - 52,TIE,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+276,0021500869,319,6,2,3,4:29 PM,9:06,,,Dragic S.FOUL (P3.T1) (M.Callahan),,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+277,0021500869,320,3,10,3,4:29 PM,9:06,Johnson Free Throw 1 of 1 (5 PTS),,,52 - 53,1,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+278,0021500869,322,6,1,3,4:29 PM,8:50,Thomas P.FOUL (P1.T2) (M.Callahan),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+279,0021500869,323,2,86,3,4:30 PM,8:40,,,MISS Wade 11' Turnaround Fadeaway Shot,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+280,0021500869,324,4,0,3,4:30 PM,8:38,Sullinger REBOUND (Off:0 Def:7),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+281,0021500869,325,1,5,3,4:30 PM,8:32,Bradley 1' Layup (5 PTS) (Thomas 3 AST),,,52 - 55,3,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+282,0021500869,326,2,1,3,4:30 PM,8:11,,,MISS Winslow 15' Jump Shot,,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+283,0021500869,327,4,0,3,4:30 PM,8:09,Sullinger REBOUND (Off:0 Def:8),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+284,0021500869,328,1,5,3,4:30 PM,8:04,Bradley 2' Layup (7 PTS) (Sullinger 2 AST),,,52 - 57,5,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+285,0021500869,329,9,1,3,4:30 PM,8:04,,,Heat Timeout: Regular (Reg.3 Short 1),,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+286,0021500869,332,2,1,3,4:33 PM,7:50,,,MISS Deng  3PT Jump Shot,,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+287,0021500869,333,4,0,3,4:33 PM,7:49,,,Winslow REBOUND (Off:2 Def:2),,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+288,0021500869,334,1,42,3,4:33 PM,7:35,,,Deng 1' Driving Layup (9 PTS) (Wade 3 AST),54 - 57,3,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+289,0021500869,335,1,101,3,4:34 PM,7:19,Thomas 6' Driving Floating Jump Shot (3 PTS) (Bradley 2 AST),,,54 - 59,5,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+290,0021500869,336,6,1,3,4:34 PM,7:14,Sullinger P.FOUL (P2.T3) (J.Williams),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+291,0021500869,337,2,5,3,4:34 PM,7:00,Sullinger BLOCK (3 BLK),,MISS Stoudemire  Layup,,,5.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,1
+292,0021500869,338,4,0,3,4:34 PM,6:59,,,Stoudemire REBOUND (Off:1 Def:3),,,5.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+293,0021500869,339,2,5,3,4:34 PM,6:58,Johnson BLOCK (2 BLK),,MISS Stoudemire  Layup,,,5.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,1
+294,0021500869,340,10,0,3,4:35 PM,6:57,Jump Ball Johnson vs. Stoudemire: Tip to Thomas,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,5,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1
+295,0021500869,341,4,0,3,4:35 PM,6:57,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+296,0021500869,342,5,1,3,4:35 PM,6:51,Thomas Bad Pass Turnover (P3.T10),,Dragic STEAL (1 STL),,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+297,0021500869,342,5,1,3,4:35 PM,6:51,Thomas Bad Pass Turnover (P3.T10),,Dragic STEAL (1 STL),,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+298,0021500869,343,1,80,3,4:35 PM,6:43,,,Dragic 15' Step Back Jump Shot (12 PTS),56 - 59,3,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+299,0021500869,344,1,1,3,4:35 PM,6:23,Thomas 25' 3PT Jump Shot (6 PTS) (Sullinger 3 AST),,,56 - 62,6,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+300,0021500869,345,2,42,3,4:36 PM,6:01,,,MISS Wade 1' Driving Layup,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+301,0021500869,346,4,0,3,4:36 PM,6:00,Sullinger REBOUND (Off:0 Def:9),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+302,0021500869,347,6,4,3,4:36 PM,5:53,Bradley OFF.Foul (P2) (J.Williams),,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+303,0021500869,348,5,5,3,4:36 PM,5:53,Bradley Foul Turnover (P2.T11),,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+304,0021500869,349,1,82,3,4:37 PM,5:31,,,Dragic 5' Driving Bank Shot (14 PTS),58 - 62,4,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+305,0021500869,350,2,3,3,4:37 PM,5:12,MISS Johnson 7' Hook Shot,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+306,0021500869,351,4,0,3,4:37 PM,5:11,,,Winslow REBOUND (Off:2 Def:3),,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+307,0021500869,352,1,1,3,4:37 PM,5:02,,,Wade 21' Jump Shot (10 PTS) (Winslow 2 AST),60 - 62,2,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+308,0021500869,353,2,1,3,4:37 PM,4:48,MISS Thomas 11' Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+309,0021500869,354,4,0,3,4:37 PM,4:48,,,Stoudemire REBOUND (Off:1 Def:4),,,5.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+310,0021500869,355,6,1,3,4:37 PM,4:40,Thomas P.FOUL (P2.T4) (J.Williams),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+311,0021500869,356,8,0,3,4:38 PM,4:40,,,SUB: Whiteside FOR Stoudemire,,,5.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+312,0021500869,357,8,0,3,4:38 PM,4:40,SUB: Smart FOR Bradley,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+313,0021500869,358,8,0,3,4:38 PM,4:40,SUB: Turner FOR Sullinger,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+314,0021500869,359,8,0,3,4:38 PM,4:40,,,SUB: Richardson FOR Wade,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+315,0021500869,360,2,1,3,4:38 PM,4:34,,,MISS Dragic 25' 3PT Jump Shot,,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+316,0021500869,361,4,0,3,4:38 PM,4:32,Johnson REBOUND (Off:4 Def:5),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+317,0021500869,362,1,86,3,4:38 PM,4:22,Crowder 14' Turnaround Fadeaway (7 PTS) (Smart 2 AST),,,60 - 64,4,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+318,0021500869,363,6,2,3,4:39 PM,4:01,Smart S.FOUL (P4.PN) (G.Petraitis),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+319,0021500869,364,3,11,3,4:39 PM,4:01,,,Richardson Free Throw 1 of 2 (9 PTS),61 - 64,3,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+320,0021500869,366,3,12,3,4:39 PM,4:01,,,MISS Richardson Free Throw 2 of 2,,,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+321,0021500869,368,4,0,3,4:39 PM,4:01,Turner REBOUND (Off:0 Def:2),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+322,0021500869,369,6,1,3,4:40 PM,3:53,,,Richardson P.FOUL (P3.T2) (J.Williams),,,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+323,0021500869,370,2,80,3,4:40 PM,3:41,MISS Crowder 18' Step Back Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+324,0021500869,371,4,0,3,4:40 PM,3:40,,,Whiteside REBOUND (Off:2 Def:8),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+325,0021500869,372,1,101,3,4:40 PM,3:30,,,Dragic 8' Driving Floating Jump Shot (16 PTS),63 - 64,1,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+326,0021500869,373,2,1,3,4:40 PM,3:20,MISS Thomas 17' Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+327,0021500869,375,4,0,3,4:40 PM,3:19,Crowder REBOUND (Off:1 Def:2),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+328,0021500869,374,1,72,3,4:40 PM,3:18,Crowder 1' Putback Layup (9 PTS),,,63 - 66,3,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+329,0021500869,376,5,1,3,4:41 PM,3:08,Crowder STEAL (4 STL),,Dragic Bad Pass Turnover (P3.T15),,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+330,0021500869,377,6,1,3,4:41 PM,3:06,,,Dragic P.FOUL (P4.T3) (G.Petraitis),,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+331,0021500869,378,18,0,3,4:41 PM,3:06,,,,,,,377,,,,,,0,0,,,,,,1,0,,,,,,0
+332,0021500869,381,8,0,3,4:41 PM,3:06,SUB: Zeller FOR Johnson,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+333,0021500869,379,2,1,3,4:43 PM,2:45,MISS Zeller 15' Jump Shot,,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+334,0021500869,380,4,0,3,4:43 PM,2:44,,,Deng REBOUND (Off:2 Def:6),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+335,0021500869,382,5,2,3,4:44 PM,2:31,Crowder STEAL (5 STL),,Richardson Lost Ball Turnover (P3.T16),,,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+336,0021500869,383,2,5,3,4:44 PM,2:25,MISS Smart  Layup,,Richardson BLOCK (1 BLK),,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,1
+337,0021500869,384,4,0,3,4:44 PM,2:23,,,Richardson REBOUND (Off:0 Def:1),,,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+338,0021500869,386,2,1,3,4:44 PM,2:15,,,MISS Winslow 8' Jump Shot,,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+339,0021500869,388,4,0,3,4:44 PM,2:14,,,Deng REBOUND (Off:3 Def:6),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+340,0021500869,387,2,97,3,4:44 PM,2:14,,,MISS Deng 1' Tip Layup Shot,,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+341,0021500869,389,4,0,3,4:44 PM,2:13,Smart REBOUND (Off:1 Def:1),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+342,0021500869,390,1,42,3,4:44 PM,2:07,Smart 1' Driving Layup (7 PTS),,,63 - 68,5,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+343,0021500869,392,1,1,3,4:44 PM,1:44,,,Dragic 25' 3PT Jump Shot (19 PTS) (Winslow 3 AST),66 - 68,2,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+344,0021500869,395,7,2,3,4:45 PM,1:28,,,Whiteside Violation:Defensive Goaltending (M.Callahan),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+345,0021500869,394,1,101,3,4:45 PM,1:28,Crowder 9' Driving Floating Jump Shot (11 PTS),,,66 - 70,4,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+346,0021500869,396,6,2,3,4:45 PM,1:28,,,Deng S.FOUL (P2.T4) (G.Petraitis),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+347,0021500869,398,9,1,3,4:45 PM,1:28,CELTICS Timeout: Regular (Full 3 Short 1),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+348,0021500869,400,18,0,3,4:46 PM,1:28,,,,,,,344,Dana Barros,,,,,0,0,,,,,,1,0,,,,,,0
+349,0021500869,401,6,12,3,4:47 PM,1:28,,,Whiteside Non-Unsportsmanlike (P1.T4) (M.Callahan),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+350,0021500869,402,3,16,3,4:47 PM,1:28,Turner Free Throw Technical (12 PTS),,,66 - 71,5,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+351,0021500869,404,8,0,3,4:48 PM,1:28,SUB: Jerebko FOR Thomas,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+352,0021500869,405,8,0,3,4:48 PM,1:28,,,SUB: Green FOR Deng,,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,5,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+353,0021500869,406,3,10,3,4:48 PM,1:28,Crowder Free Throw 1 of 1 (12 PTS),,,66 - 72,6,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+354,0021500869,408,1,1,3,4:48 PM,1:16,,,Dragic 16' Jump Shot (21 PTS),68 - 72,4,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+355,0021500869,410,2,1,3,4:49 PM,1:01,MISS Crowder 25' 3PT Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+356,0021500869,411,4,0,3,4:49 PM,1:00,,,Dragic REBOUND (Off:1 Def:4),,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+357,0021500869,412,2,1,3,4:49 PM,0:39,,,MISS Green 21' Jump Shot,,,5.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+358,0021500869,413,4,0,3,4:49 PM,0:39,Zeller REBOUND (Off:0 Def:2),,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+359,0021500869,414,2,1,3,4:49 PM,0:21,MISS Zeller 18' Jump Shot,,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+360,0021500869,415,4,0,3,4:49 PM,0:18,,,Green REBOUND (Off:0 Def:1),,,5.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+361,0021500869,416,2,5,3,4:49 PM,0:13,,,MISS Winslow  Layup,,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+362,0021500869,417,4,0,3,4:49 PM,0:12,,,Whiteside REBOUND (Off:3 Def:8),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+363,0021500869,418,1,97,3,4:50 PM,0:12,,,Whiteside 1' Tip Layup Shot (7 PTS),70 - 72,2,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+364,0021500869,419,2,5,3,4:50 PM,0:00,MISS Turner 1' Layup,,Richardson BLOCK (2 BLK),,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,1
+365,0021500869,420,4,0,3,4:50 PM,0:00,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+366,0021500869,421,2,1,3,4:50 PM,0:00,,,MISS Green 61' 3PT Jump Shot,,,5.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+367,0021500869,423,4,0,3,4:50 PM,0:00,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+368,0021500869,422,13,0,3,4:50 PM,0:00,,,,70 - 72,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+369,0021500869,425,12,0,4,4:53 PM,12:00,,,,70 - 72,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+370,0021500869,426,1,78,4,4:53 PM,11:44,,,Wade 9' Floating Jump Shot (12 PTS),72 - 72,TIE,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+371,0021500869,427,2,5,4,4:53 PM,11:27,MISS Turner 2' Layup,,Whiteside BLOCK (5 BLK),,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+372,0021500869,428,4,0,4,4:53 PM,11:26,Turner REBOUND (Off:1 Def:2),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+373,0021500869,429,6,2,4,4:53 PM,11:25,,,Green S.FOUL (P1.T1) (J.Williams),,,5.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+374,0021500869,430,3,11,4,4:54 PM,11:25,Bradley Free Throw 1 of 2 (8 PTS),,,72 - 73,1,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+375,0021500869,432,3,12,4,4:54 PM,11:25,Bradley Free Throw 2 of 2 (9 PTS),,,72 - 74,2,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+376,0021500869,434,1,1,4,4:54 PM,11:11,,,Richardson 20' Jump Shot (11 PTS) (McRoberts 1 AST),74 - 74,TIE,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,5,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+377,0021500869,435,2,1,4,4:54 PM,10:58,MISS Zeller 19' Jump Shot,,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+378,0021500869,436,4,0,4,4:55 PM,10:57,,,Wade REBOUND (Off:1 Def:4),,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+379,0021500869,437,1,1,4,4:55 PM,10:48,,,Wade 18' Jump Shot (14 PTS),76 - 74,-2,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+380,0021500869,438,2,1,4,4:55 PM,10:34,MISS Turner 18' Jump Shot,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+381,0021500869,439,4,0,4,4:55 PM,10:31,,,Richardson REBOUND (Off:0 Def:2),,,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+382,0021500869,440,2,80,4,4:55 PM,10:21,,,MISS Wade 16' Step Back Jump Shot,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+383,0021500869,441,4,0,4,4:55 PM,10:20,Turner REBOUND (Off:1 Def:3),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+384,0021500869,442,1,43,4,4:55 PM,10:14,Zeller  Alley Oop Layup (10 PTS) (Turner 7 AST),,,76 - 76,TIE,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+385,0021500869,443,1,1,4,4:56 PM,9:48,,,Whiteside 19' Jump Shot (9 PTS) (McRoberts 2 AST),78 - 76,-2,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+386,0021500869,444,1,1,4,4:56 PM,9:25,Smart 25' 3PT Jump Shot (10 PTS),,,78 - 79,1,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+387,0021500869,445,2,5,4,4:56 PM,8:59,,,MISS Green 2' Layup,,,5.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+388,0021500869,446,4,0,4,4:56 PM,8:58,Smart REBOUND (Off:1 Def:2),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+389,0021500869,447,2,5,4,4:57 PM,8:44,MISS Jerebko 3' Layup,,Whiteside BLOCK (6 BLK),,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+390,0021500869,448,4,0,4,4:57 PM,8:43,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+391,0021500869,449,9,4,4,4:57 PM,8:43,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+392,0021500869,451,18,0,4,4:57 PM,8:43,,,,,,,444,,,,,,0,0,,,,,,1,0,,,,,,0
+393,0021500869,454,1,1,4,4:59 PM,8:34,,,Wade 18' Jump Shot (16 PTS) (McRoberts 3 AST),80 - 79,-1,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+394,0021500869,455,2,1,4,5:00 PM,8:15,MISS Bradley 22' Jump Shot,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+395,0021500869,456,4,0,4,5:00 PM,8:14,,,Whiteside REBOUND (Off:3 Def:9),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+396,0021500869,457,2,1,4,5:00 PM,8:01,,,MISS Wade 20' Jump Shot,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+397,0021500869,458,4,0,4,5:00 PM,8:00,,,Whiteside REBOUND (Off:4 Def:9),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+398,0021500869,459,1,72,4,5:00 PM,7:59,,,Whiteside  Putback Layup (11 PTS),82 - 79,-3,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+399,0021500869,460,1,1,4,5:00 PM,7:39,Jerebko 24' 3PT Jump Shot (8 PTS) (Turner 8 AST),,,82 - 82,TIE,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+400,0021500869,461,2,1,4,5:01 PM,7:16,,,MISS Richardson 26' 3PT Jump Shot,,,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+401,0021500869,462,4,0,4,5:01 PM,7:15,Jerebko REBOUND (Off:0 Def:3),,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+402,0021500869,463,2,5,4,5:01 PM,7:01,MISS Bradley 1' Layup,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+403,0021500869,464,4,0,4,5:01 PM,7:00,,,Whiteside REBOUND (Off:4 Def:10),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+404,0021500869,465,2,5,4,5:01 PM,6:51,,,MISS Wade  Layup,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+405,0021500869,466,4,0,4,5:01 PM,6:50,Zeller REBOUND (Off:0 Def:3),,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+406,0021500869,467,1,80,4,5:01 PM,6:44,Turner 12' Step Back Jump Shot (14 PTS),,,82 - 84,2,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+407,0021500869,468,2,1,4,5:02 PM,6:22,,,MISS Green 25' 3PT Jump Shot,,,5.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+408,0021500869,469,4,0,4,5:02 PM,6:21,Jerebko REBOUND (Off:0 Def:4),,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+409,0021500869,470,2,58,4,5:02 PM,6:12,MISS Zeller 6' Turnaround Hook Shot,,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+410,0021500869,471,4,0,4,5:02 PM,6:11,,,McRoberts REBOUND (Off:0 Def:1),,,5.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+411,0021500869,476,2,45,4,5:02 PM,5:56,Zeller BLOCK (1 BLK),,MISS McRoberts 7' Jump Shot,,,5.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,1
+412,0021500869,477,4,0,4,5:02 PM,5:55,,,McRoberts REBOUND (Off:1 Def:1),,,5.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+413,0021500869,472,2,5,4,5:03 PM,5:54,,,MISS Whiteside  Layup,,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+414,0021500869,473,4,0,4,5:03 PM,5:53,Turner REBOUND (Off:1 Def:4),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+415,0021500869,474,1,98,4,5:03 PM,5:47,Zeller 1' Cutting Layup Shot (12 PTS) (Turner 9 AST),,,82 - 86,4,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+416,0021500869,475,9,1,4,5:03 PM,5:46,,,Heat Timeout: Regular (Reg.4 Short 1),,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+417,0021500869,479,8,0,4,5:05 PM,5:46,SUB: Thomas FOR Bradley,,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+418,0021500869,480,8,0,4,5:05 PM,5:46,,,SUB: Winslow FOR Wade,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+419,0021500869,481,8,0,4,5:05 PM,5:46,,,SUB: Dragic FOR Green,,,5.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+420,0021500869,482,8,0,4,5:05 PM,5:46,,,SUB: Deng FOR McRoberts,,,5.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,5,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+421,0021500869,483,6,2,4,5:06 PM,5:32,Zeller S.FOUL (P1.T1) (J.Williams),,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+422,0021500869,484,3,11,4,5:06 PM,5:32,,,Whiteside Free Throw 1 of 2 (12 PTS),83 - 86,3,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+423,0021500869,486,3,12,4,5:06 PM,5:32,,,Whiteside Free Throw 2 of 2 (13 PTS),84 - 86,2,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+424,0021500869,488,2,3,4,5:06 PM,5:21,MISS Zeller 8' Hook Shot,,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+425,0021500869,489,4,0,4,5:06 PM,5:20,,,Deng REBOUND (Off:3 Def:7),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+426,0021500869,490,6,4,4,5:07 PM,5:12,,,Whiteside OFF.Foul (P2) (M.Callahan),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+427,0021500869,491,5,5,4,5:07 PM,5:12,,,Whiteside Foul Turnover (P1.T17),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+428,0021500869,492,8,0,4,5:07 PM,5:12,SUB: Sullinger FOR Zeller,,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+429,0021500869,493,2,1,4,5:07 PM,5:04,MISS Thomas 26' 3PT Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+430,0021500869,494,4,0,4,5:07 PM,5:03,,,Deng REBOUND (Off:3 Def:8),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+431,0021500869,495,2,86,4,5:07 PM,4:43,,,MISS Winslow 11' Turnaround Fadeaway Shot,,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+432,0021500869,496,4,0,4,5:07 PM,4:42,Sullinger REBOUND (Off:0 Def:10),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+433,0021500869,497,2,1,4,5:08 PM,4:30,MISS Sullinger 20' Jump Shot,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+434,0021500869,498,4,0,4,5:08 PM,4:28,Turner REBOUND (Off:2 Def:4),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+435,0021500869,499,6,2,4,5:08 PM,4:25,,,Richardson S.FOUL (P4.T2) (J.Williams),,,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+436,0021500869,500,3,11,4,5:08 PM,4:25,Thomas Free Throw 1 of 2 (7 PTS),,,84 - 87,3,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+437,0021500869,502,8,0,4,5:08 PM,4:25,SUB: Crowder FOR Jerebko,,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+438,0021500869,503,3,12,4,5:08 PM,4:25,Thomas Free Throw 2 of 2 (8 PTS),,,84 - 88,4,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+439,0021500869,505,2,1,4,5:09 PM,4:05,,,MISS Deng 15' Jump Shot,,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+440,0021500869,506,4,0,4,5:09 PM,4:04,Sullinger REBOUND (Off:0 Def:11),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+441,0021500869,507,2,5,4,5:09 PM,3:51,MISS Sullinger 1' Layup,,Whiteside BLOCK (7 BLK),,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+442,0021500869,509,4,0,4,5:09 PM,3:50,Smart REBOUND (Off:2 Def:2),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+443,0021500869,511,2,40,4,5:09 PM,3:49,MISS Smart 2' Layup,,Whiteside BLOCK (8 BLK),,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+444,0021500869,508,4,0,4,5:09 PM,3:48,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+445,0021500869,510,8,0,4,5:09 PM,3:48,,,SUB: Wade FOR Richardson,,,5.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+446,0021500869,512,9,1,4,5:09 PM,3:48,CELTICS Timeout: Regular (Full 4 Short 1),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+447,0021500869,515,8,0,4,5:12 PM,3:48,SUB: Bradley FOR Turner,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+448,0021500869,516,1,98,4,5:12 PM,3:44,Smart 1' Cutting Layup Shot (12 PTS) (Sullinger 4 AST),,,84 - 90,6,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+449,0021500869,517,2,1,4,5:13 PM,3:17,,,MISS Dragic 25' 3PT Jump Shot,,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+450,0021500869,518,4,0,4,5:13 PM,3:15,,,Winslow REBOUND (Off:3 Def:3),,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+451,0021500869,519,5,1,4,5:13 PM,3:11,Sullinger STEAL (1 STL),,Wade Bad Pass Turnover (P4.T18),,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+452,0021500869,520,2,1,4,5:13 PM,2:58,MISS Crowder 24' 3PT Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+453,0021500869,522,4,0,4,5:13 PM,2:57,,,Deng REBOUND (Off:3 Def:9),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+454,0021500869,524,5,41,4,5:13 PM,2:56,Sullinger STEAL (2 STL),,Deng Poss Lost Ball Turnover (P3.T19),,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+455,0021500869,523,6,2,4,5:13 PM,2:45,,,Whiteside S.FOUL (P3.T3) (J.Williams),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+456,0021500869,525,3,13,4,5:13 PM,2:45,Smart Free Throw 1 of 3 (13 PTS),,,84 - 91,7,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+457,0021500869,527,3,14,4,5:14 PM,2:45,Smart Free Throw 2 of 3 (14 PTS),,,84 - 92,8,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+458,0021500869,529,3,15,4,5:14 PM,2:45,Smart Free Throw 3 of 3 (15 PTS),,,84 - 93,9,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+459,0021500869,532,6,2,4,5:14 PM,2:38,Sullinger S.FOUL (P3.T2) (J.Williams),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+460,0021500869,533,3,11,4,5:15 PM,2:38,,,Wade Free Throw 1 of 2 (17 PTS),85 - 93,8,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+461,0021500869,535,3,12,4,5:15 PM,2:38,,,Wade Free Throw 2 of 2 (18 PTS),86 - 93,7,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+462,0021500869,537,1,42,4,5:15 PM,2:25,Thomas 1' Driving Layup (10 PTS),,,86 - 95,9,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+463,0021500869,538,5,2,4,5:16 PM,2:07,Thomas STEAL (1 STL),,Dragic Lost Ball Turnover (P4.T20),,,5.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+464,0021500869,539,1,5,4,5:16 PM,2:01,Crowder 1' Layup (14 PTS) (Smart 3 AST),,,86 - 97,11,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+465,0021500869,540,9,1,4,5:16 PM,2:01,,,Heat Timeout: Regular (Reg.5 Short 1),,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+466,0021500869,542,6,2,4,5:18 PM,1:46,Bradley S.FOUL (P3.T3) (J.Williams),,,,,4.0,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+467,0021500869,543,3,11,4,5:18 PM,1:46,,,Wade Free Throw 1 of 2 (19 PTS),87 - 97,10,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+468,0021500869,545,3,12,4,5:19 PM,1:46,,,MISS Wade Free Throw 2 of 2,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+469,0021500869,547,4,0,4,5:19 PM,1:46,Crowder REBOUND (Off:1 Def:3),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+470,0021500869,548,1,42,4,5:19 PM,1:30,Thomas  Driving Layup (12 PTS),,,87 - 99,12,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+471,0021500869,549,1,1,4,5:19 PM,1:16,,,Deng 18' Jump Shot (11 PTS) (Winslow 4 AST),89 - 99,10,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+472,0021500869,550,2,5,4,5:20 PM,0:59,MISS Sullinger 1' Layup,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+473,0021500869,551,4,0,4,5:20 PM,0:58,,,Whiteside REBOUND (Off:4 Def:11),,,5.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+474,0021500869,552,2,1,4,5:20 PM,0:52,,,MISS Deng 24' 3PT Jump Shot,,,5.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+475,0021500869,553,4,0,4,5:20 PM,0:52,Sullinger REBOUND (Off:0 Def:12),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+476,0021500869,554,2,42,4,5:20 PM,0:45,MISS Thomas 2' Driving Layup,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+477,0021500869,555,4,0,4,5:20 PM,0:44,,,Winslow REBOUND (Off:3 Def:4),,,5.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+478,0021500869,556,2,1,4,5:20 PM,0:37,,,MISS Wade 17' Jump Shot,,,5.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+479,0021500869,557,4,0,4,5:20 PM,0:36,Smart REBOUND (Off:2 Def:3),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+480,0021500869,558,2,1,4,5:20 PM,0:29,MISS Crowder 25' 3PT Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+481,0021500869,559,4,0,4,5:20 PM,0:28,Smart REBOUND (Off:3 Def:3),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+482,0021500869,560,1,58,4,5:21 PM,0:04,Sullinger 8' Turnaround Hook Shot (12 PTS) (Thomas 4 AST),,,89 - 101,12,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+483,0021500869,561,13,0,4,5:21 PM,0:00,,,,89 - 101,12,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0

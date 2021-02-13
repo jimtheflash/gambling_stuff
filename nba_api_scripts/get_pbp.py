@@ -6,7 +6,7 @@ import os
 gamelog_path = './data/nba_gamelogs/'
 pbp_path = './data/nba_pbp/'
 
-gamelogs = os.listdir(gamelog_path)
+gamelogs = [f for f in os.listdir(gamelog_path) if not f.startswith('.')]
 # gamelogs = './data/nba_gamelogs/nba_gamelogs_2018-19.csv'
 
 for gl in gamelogs:

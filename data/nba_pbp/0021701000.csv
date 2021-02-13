@@ -1,0 +1,456 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021701000,2,12,0,1,9:11 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021701000,4,10,0,1,9:11 PM,12:00,Jump Ball Lopez vs. Nance Jr.: Tip to G. Hill,,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,1
+2,0021701000,7,2,1,1,9:11 PM,11:38,,,MISS Nance Jr. 26' 3PT Jump Shot,,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+3,0021701000,8,4,0,1,9:11 PM,11:35,Kuzma REBOUND (Off:0 Def:1),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+4,0021701000,9,2,1,1,9:11 PM,11:19,MISS Kuzma 27' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+5,0021701000,10,4,0,1,9:11 PM,11:15,Randle REBOUND (Off:1 Def:0),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+6,0021701000,11,2,1,1,9:12 PM,11:06,MISS Lopez 26' 3PT Jump Shot,,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+7,0021701000,12,4,0,1,9:12 PM,11:02,,,Green REBOUND (Off:0 Def:1),,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+8,0021701000,13,2,3,1,9:12 PM,10:45,,,MISS Green 1' Hook Shot,,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+9,0021701000,14,4,0,1,9:12 PM,10:43,Lopez REBOUND (Off:0 Def:1),,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+10,0021701000,15,2,5,1,9:12 PM,10:33,MISS Randle 2' Layup,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+11,0021701000,16,4,0,1,9:12 PM,10:30,Caldwell-Pope REBOUND (Off:1 Def:0),,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+12,0021701000,17,1,1,1,9:12 PM,10:25,Randle 21' Jump Shot (2 PTS) (Ball 1 AST),,,0 - 2,2,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+13,0021701000,20,2,1,1,9:13 PM,9:57,,,MISS Nance Jr. 19' Jump Shot,,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+14,0021701000,21,4,0,1,9:13 PM,9:56,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+15,0021701000,22,1,98,1,9:13 PM,9:41,Caldwell-Pope 3' Cutting Layup Shot (2 PTS) (Lopez 1 AST),,,0 - 4,4,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+16,0021701000,24,2,5,1,9:14 PM,9:29,,,MISS Smith 2' Layup,,,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+17,0021701000,25,4,0,1,9:14 PM,9:25,,,Nance Jr. REBOUND (Off:1 Def:0),,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+18,0021701000,26,1,87,1,9:14 PM,9:25,,,Nance Jr. 1' Putback Dunk (2 PTS),2 - 4,2,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+19,0021701000,27,1,5,1,9:14 PM,9:10,Randle 2' Layup (4 PTS) (Lopez 2 AST),,,2 - 6,4,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+20,0021701000,29,1,80,1,9:14 PM,9:01,,,James 26' 3PT Step Back Jump Shot (3 PTS),5 - 6,1,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+21,0021701000,30,2,1,1,9:14 PM,8:49,MISS Lopez 6' Jump Shot,,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+22,0021701000,31,4,0,1,9:14 PM,8:46,,,James REBOUND (Off:0 Def:1),,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+23,0021701000,32,1,41,1,9:14 PM,8:44,,,James 3' Running Layup (5 PTS),7 - 6,-1,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+24,0021701000,33,6,2,1,9:15 PM,8:33,,,Green S.FOUL (P1.T1) (J.Capers),,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+25,0021701000,35,3,11,1,9:15 PM,8:33,MISS Randle Free Throw 1 of 2,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+26,0021701000,36,4,1,1,9:15 PM,8:33,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+27,0021701000,37,3,12,1,9:15 PM,8:33,Randle Free Throw 2 of 2 (5 PTS),,,7 - 7,TIE,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+28,0021701000,38,2,79,1,9:15 PM,8:22,,,MISS G. Hill 19' Pullup Jump Shot,,,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+29,0021701000,39,4,0,1,9:15 PM,8:19,Lopez REBOUND (Off:0 Def:2),,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+30,0021701000,40,2,1,1,9:15 PM,8:11,MISS Randle 20' Jump Shot,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+31,0021701000,41,4,0,1,9:16 PM,8:08,Caldwell-Pope REBOUND (Off:2 Def:0),,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+32,0021701000,42,1,79,1,9:16 PM,8:05,Caldwell-Pope 19' Pullup Jump Shot (4 PTS),,,7 - 9,2,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+33,0021701000,43,2,47,1,9:16 PM,7:51,,,MISS James 16' Turnaround Jump Shot,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+34,0021701000,44,4,0,1,9:16 PM,7:48,Caldwell-Pope REBOUND (Off:2 Def:1),,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+35,0021701000,45,2,1,1,9:16 PM,7:34,MISS Ball 9' Jump Shot,,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+36,0021701000,46,4,0,1,9:16 PM,7:31,,,James REBOUND (Off:0 Def:2),,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+37,0021701000,48,2,1,1,9:17 PM,7:25,,,MISS Smith 27' 3PT Jump Shot,,,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+38,0021701000,49,4,0,1,9:17 PM,7:21,Randle REBOUND (Off:1 Def:1),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+39,0021701000,50,1,1,1,9:17 PM,7:15,Caldwell-Pope 27' 3PT Jump Shot (7 PTS) (Randle 1 AST),,,7 - 12,5,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+40,0021701000,52,2,1,1,9:17 PM,6:58,,,MISS Green 26' 3PT Jump Shot,,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+41,0021701000,53,4,0,1,9:17 PM,6:56,Kuzma REBOUND (Off:0 Def:2),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+42,0021701000,54,2,78,1,9:17 PM,6:45,MISS Kuzma 15' Floating Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+43,0021701000,55,4,0,1,9:17 PM,6:43,,,James REBOUND (Off:0 Def:3),,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+44,0021701000,56,6,2,1,9:17 PM,6:41,Ball S.FOUL (P1.T1) (S.Twardoski),,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+45,0021701000,58,9,1,1,9:18 PM,6:41,LAKERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+46,0021701000,59,3,11,1,9:21 PM,6:41,,,James Free Throw 1 of 2 (6 PTS),8 - 12,4,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+47,0021701000,60,3,12,1,9:21 PM,6:41,,,James Free Throw 2 of 2 (7 PTS),9 - 12,3,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+48,0021701000,61,1,43,1,9:21 PM,6:30,Lopez 2' Alley Oop Layup (2 PTS) (Ball 2 AST),,,9 - 14,5,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+49,0021701000,63,1,6,1,9:22 PM,6:11,,,James  Driving Layup (9 PTS),11 - 14,3,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+50,0021701000,64,6,2,1,9:22 PM,6:11,Ball S.FOUL (P2.T2) (J.Capers),,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+51,0021701000,66,8,0,1,9:22 PM,6:11,SUB: Thomas FOR Ball,,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+52,0021701000,68,3,10,1,9:22 PM,6:11,,,James Free Throw 1 of 1 (10 PTS),12 - 14,2,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+53,0021701000,69,1,5,1,9:23 PM,5:57,Randle 3' Layup (7 PTS),,,12 - 16,4,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+54,0021701000,70,1,78,1,9:23 PM,5:44,,,G. Hill 10' Floating Jump Shot (2 PTS),14 - 16,2,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+55,0021701000,71,1,66,1,9:23 PM,5:30,Lopez 19' Jump Bank Shot (4 PTS),,,14 - 18,4,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+56,0021701000,72,6,1,1,9:23 PM,5:21,Thomas P.FOUL (P1.T3) (S.Twardoski),,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+57,0021701000,74,6,4,1,9:23 PM,5:18,,,G. Hill OFF.Foul (P1) (J.Capers),,,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+58,0021701000,76,5,37,1,9:23 PM,5:18,,,G. Hill Offensive Foul Turnover (P1.T1),,,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+59,0021701000,77,2,1,1,9:24 PM,5:07,MISS Thomas 28' 3PT Jump Shot,,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+60,0021701000,78,4,0,1,9:24 PM,5:05,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+61,0021701000,79,2,80,1,9:24 PM,4:43,,,MISS James 25' 3PT Step Back Jump Shot,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+62,0021701000,80,4,0,1,9:24 PM,4:41,Kuzma REBOUND (Off:0 Def:3),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+63,0021701000,81,2,79,1,9:24 PM,4:37,MISS Caldwell-Pope 25' 3PT Pullup Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+64,0021701000,82,4,0,1,9:24 PM,4:33,,,Green REBOUND (Off:0 Def:2),,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+65,0021701000,83,2,79,1,9:25 PM,4:27,,,MISS Green 15' Pullup Jump Shot,,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+66,0021701000,84,4,0,1,9:25 PM,4:25,Caldwell-Pope REBOUND (Off:2 Def:2),,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+67,0021701000,85,1,44,1,9:25 PM,4:17,Kuzma 4' Reverse Layup (2 PTS) (Randle 2 AST),,,14 - 20,6,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+68,0021701000,87,2,5,1,9:25 PM,4:04,,,MISS Nance Jr. 2' Layup,,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+69,0021701000,88,4,0,1,9:25 PM,4:02,,,Nance Jr. REBOUND (Off:2 Def:0),,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+70,0021701000,89,1,97,1,9:25 PM,4:02,,,Nance Jr. 1' Tip Layup Shot (4 PTS),16 - 20,4,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+71,0021701000,90,1,41,1,9:25 PM,3:58,Lopez 3' Running Layup (6 PTS) (Thomas 1 AST),,,16 - 22,6,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+72,0021701000,92,2,1,1,9:25 PM,3:44,,,MISS Smith 25' 3PT Jump Shot,,,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+73,0021701000,93,4,0,1,9:25 PM,3:41,Kuzma REBOUND (Off:0 Def:4),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+74,0021701000,94,2,5,1,9:25 PM,3:34,MISS Kuzma 3' Layup,,Green BLOCK (1 BLK),,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,1
+75,0021701000,96,4,0,1,9:26 PM,3:30,,,Nance Jr. REBOUND (Off:2 Def:1),,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+76,0021701000,97,1,80,1,9:26 PM,3:22,,,G. Hill 19' Step Back Jump Shot (4 PTS),18 - 22,4,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+77,0021701000,98,9,1,1,9:26 PM,3:15,LAKERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+78,0021701000,99,8,0,1,9:28 PM,3:15,SUB: Wear FOR Randle,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,204037,Travis Wear,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+79,0021701000,100,8,0,1,9:28 PM,3:15,,,SUB: Zizic FOR G. Hill,,,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+80,0021701000,101,8,0,1,9:28 PM,3:15,,,SUB: Korver FOR Smith,,,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+81,0021701000,102,8,0,1,9:28 PM,3:15,,,SUB: Clarkson FOR Nance Jr.,,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+82,0021701000,103,8,0,1,9:28 PM,3:15,,,SUB: Calderon FOR James,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+83,0021701000,109,1,108,1,9:29 PM,3:03,Lopez 2' Cutting Dunk Shot (8 PTS) (Thomas 2 AST),,,18 - 24,6,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+84,0021701000,111,2,5,1,9:30 PM,2:46,Lopez BLOCK (1 BLK),,MISS Clarkson 3' Layup,,,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,1
+85,0021701000,113,4,0,1,9:30 PM,2:43,Wear REBOUND (Off:0 Def:1),,,,,4,204037,Travis Wear,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+86,0021701000,114,2,1,1,9:30 PM,2:36,MISS Caldwell-Pope 27' 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+87,0021701000,115,4,0,1,9:30 PM,2:33,,,Korver REBOUND (Off:0 Def:1),,,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+88,0021701000,116,6,2,1,9:30 PM,2:26,Thomas S.FOUL (P2.T4) (T.Brown),,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+89,0021701000,118,3,11,1,9:31 PM,2:26,,,MISS Calderon Free Throw 1 of 2,,,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+90,0021701000,119,4,1,1,9:31 PM,2:26,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+91,0021701000,120,8,0,1,9:31 PM,2:26,,,SUB: Holland FOR Green,,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+92,0021701000,122,3,12,1,9:31 PM,2:26,,,Calderon Free Throw 2 of 2 (1 PTS),19 - 24,5,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+93,0021701000,123,1,47,1,9:31 PM,2:07,Kuzma 2' Turnaround Jump Shot (4 PTS),,,19 - 26,7,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+94,0021701000,124,1,108,1,9:31 PM,1:52,,,Zizic 3' Cutting Dunk Shot (2 PTS) (Clarkson 1 AST),21 - 26,5,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+95,0021701000,126,1,58,1,9:32 PM,1:43,Lopez 11' Turnaround Hook Shot (10 PTS) (Caldwell-Pope 1 AST),,,21 - 28,7,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+96,0021701000,128,1,79,1,9:32 PM,1:24,,,Calderon 20' Pullup Jump Shot (3 PTS),23 - 28,5,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+97,0021701000,129,1,1,1,9:32 PM,1:06,Caldwell-Pope 25' 3PT Jump Shot (10 PTS) (Thomas 3 AST),,,23 - 31,8,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+98,0021701000,131,6,1,1,9:32 PM,0:54,Kuzma P.FOUL (P1.PN) (T.Brown),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+99,0021701000,133,3,11,1,9:33 PM,0:54,,,Clarkson Free Throw 1 of 2 (1 PTS),24 - 31,7,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+100,0021701000,134,8,0,1,9:33 PM,0:54,SUB: Caruso FOR Caldwell-Pope,,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+101,0021701000,136,3,12,1,9:33 PM,0:54,,,Clarkson Free Throw 2 of 2 (2 PTS),25 - 31,6,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+102,0021701000,137,2,5,1,9:33 PM,0:44,MISS Thomas 3' Layup,,Zizic BLOCK (1 BLK),,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,1
+103,0021701000,139,4,0,1,9:33 PM,0:41,Thomas REBOUND (Off:1 Def:0),,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+104,0021701000,140,2,1,1,9:34 PM,0:38,MISS Kuzma 27' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+105,0021701000,141,4,0,1,9:34 PM,0:36,,,Calderon REBOUND (Off:0 Def:1),,,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+106,0021701000,142,1,108,1,9:34 PM,0:33,,,Zizic 2' Cutting Dunk Shot (4 PTS) (Clarkson 2 AST),27 - 31,4,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+107,0021701000,144,1,44,1,9:34 PM,0:21,Caruso  Reverse Layup (2 PTS) (Lopez 3 AST),,,27 - 33,6,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+108,0021701000,146,1,1,1,9:34 PM,0:01,,,Clarkson 15' Jump Shot (4 PTS) (Calderon 1 AST),29 - 33,4,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+109,0021701000,148,2,1,1,9:34 PM,0:00,MISS Thomas 57' 3PT Jump Shot,,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+110,0021701000,149,4,0,1,9:34 PM,0:00,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+111,0021701000,150,13,0,1,9:35 PM,0:00,,,,29 - 33,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+112,0021701000,155,12,0,2,9:38 PM,12:00,,,,29 - 33,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+113,0021701000,156,5,1,2,9:38 PM,11:44,Thomas Bad Pass Turnover (P1.T1),,Holland STEAL (1 STL),,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+114,0021701000,158,2,47,2,9:38 PM,11:32,,,MISS Clarkson 9' Turnaround Jump Shot,,,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+115,0021701000,159,4,0,2,9:38 PM,11:29,Ball REBOUND (Off:0 Def:1),,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+116,0021701000,160,2,1,2,9:39 PM,11:14,MISS Wear 27' 3PT Jump Shot,,,,,4,204037,Travis Wear,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+117,0021701000,161,4,0,2,9:39 PM,11:13,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+118,0021701000,162,6,3,2,9:39 PM,11:13,,,Clarkson L.B.FOUL (P1.T1) (T.Brown),,,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+119,0021701000,165,2,47,2,9:40 PM,10:50,MISS Ball 19' Turnaround Jump Shot,,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+120,0021701000,166,4,0,2,9:40 PM,10:48,,,Holland REBOUND (Off:0 Def:1),,,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+121,0021701000,167,2,1,2,9:40 PM,10:32,,,MISS Holland 27' 3PT Jump Shot,,,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+122,0021701000,168,4,0,2,9:40 PM,10:29,Ball REBOUND (Off:0 Def:2),,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+123,0021701000,169,2,1,2,9:40 PM,10:16,MISS Ball  3PT Jump Shot,,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+124,0021701000,170,4,0,2,9:40 PM,10:14,,,Korver REBOUND (Off:0 Def:2),,,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+125,0021701000,171,5,4,2,9:40 PM,10:00,,,Clarkson Traveling Turnover (P1.T2),,,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+126,0021701000,172,2,1,2,9:41 PM,9:43,MISS Thomas 22' Jump Shot,,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+127,0021701000,173,4,0,2,9:41 PM,9:41,,,Zizic REBOUND (Off:0 Def:1),,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+128,0021701000,174,6,2,2,9:41 PM,9:39,Zubac S.FOUL (P1.T1) (T.Brown),,,,,4,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+129,0021701000,176,3,11,2,9:41 PM,9:39,,,MISS Holland Free Throw 1 of 2,,,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+130,0021701000,177,4,1,2,9:41 PM,9:39,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+131,0021701000,178,8,0,2,9:41 PM,9:39,SUB: Randle FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+132,0021701000,179,8,0,2,9:41 PM,9:39,,,SUB: Nance Jr. FOR Zizic,,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+133,0021701000,182,3,12,2,9:42 PM,9:39,,,Holland Free Throw 2 of 2 (1 PTS),30 - 33,3,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+134,0021701000,183,1,1,2,9:42 PM,9:28,Wear 25' 3PT Jump Shot (3 PTS) (Randle 3 AST),,,30 - 36,6,4,204037,Travis Wear,1610612747.0,Los Angeles,Lakers,LAL,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+135,0021701000,185,6,1,2,9:42 PM,9:18,Wear P.FOUL (P1.T2) (S.Twardoski),,,,,4,204037,Travis Wear,1610612747.0,Los Angeles,Lakers,LAL,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+136,0021701000,187,8,0,2,9:42 PM,9:18,,,SUB: James FOR Holland,,,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+137,0021701000,189,2,3,2,9:43 PM,9:09,Randle BLOCK (1 BLK),,MISS Nance Jr. 8' Hook Shot,,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,1
+138,0021701000,191,4,0,2,9:43 PM,9:09,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+139,0021701000,192,2,1,2,9:43 PM,9:02,,,MISS Korver 28' 3PT Jump Shot,,,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+140,0021701000,193,4,0,2,9:43 PM,8:59,Wear REBOUND (Off:0 Def:2),,,,,4,204037,Travis Wear,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+141,0021701000,195,6,26,2,9:43 PM,8:53,Randle Offensive Charge Foul (P1.T3) (J.Capers),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+142,0021701000,197,5,37,2,9:43 PM,8:53,Randle Offensive Foul Turnover (P1.T2),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+143,0021701000,198,1,98,2,9:44 PM,8:39,,,James 2' Cutting Layup Shot (12 PTS) (Calderon 2 AST),32 - 36,4,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+144,0021701000,200,1,1,2,9:44 PM,8:26,Ball 25' 3PT Jump Shot (3 PTS) (Randle 4 AST),,,32 - 39,7,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+145,0021701000,202,1,1,2,9:44 PM,8:09,,,Korver 25' 3PT Jump Shot (3 PTS) (Nance Jr. 1 AST),35 - 39,4,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+146,0021701000,204,1,98,2,9:44 PM,7:58,Randle 1' Cutting Layup Shot (9 PTS) (Ball 3 AST),,,35 - 41,6,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+147,0021701000,206,1,6,2,9:45 PM,7:39,,,Calderon 2' Driving Layup (5 PTS),37 - 41,4,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+148,0021701000,207,6,1,2,9:45 PM,7:32,,,Nance Jr. P.FOUL (P1.T2) (T.Brown),,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+149,0021701000,209,8,0,2,9:45 PM,7:32,SUB: Kuzma FOR Caruso,,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+150,0021701000,210,8,0,2,9:45 PM,7:32,SUB: Caldwell-Pope FOR Wear,,,,,4,204037,Travis Wear,1610612747.0,Los Angeles,Lakers,LAL,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+151,0021701000,213,2,1,2,9:46 PM,7:22,MISS Ball 26' 3PT Jump Shot,,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+152,0021701000,214,4,0,2,9:46 PM,7:20,,,James REBOUND (Off:0 Def:4),,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+153,0021701000,215,2,58,2,9:46 PM,7:06,,,MISS Nance Jr. 3' Turnaround Hook Shot,,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+154,0021701000,216,4,0,2,9:46 PM,7:04,Thomas REBOUND (Off:1 Def:1),,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+155,0021701000,218,8,0,2,9:46 PM,7:04,,,SUB: G. Hill FOR Calderon,,,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+156,0021701000,220,5,1,2,9:46 PM,6:54,Thomas Bad Pass Turnover (P2.T3),,James STEAL (1 STL),,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+157,0021701000,222,1,74,2,9:46 PM,6:50,,,James 2' Running Reverse Layup (14 PTS),39 - 41,2,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+158,0021701000,223,1,103,2,9:47 PM,6:43,Thomas  3PT Running Pull-Up Jump Shot (3 PTS) (Kuzma 1 AST),,,39 - 44,5,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+159,0021701000,225,2,5,2,9:47 PM,6:31,,,MISS James 2' Layup,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+160,0021701000,226,4,0,2,9:47 PM,6:30,Thomas REBOUND (Off:1 Def:2),,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+161,0021701000,227,1,1,2,9:47 PM,6:24,Caldwell-Pope 25' 3PT Jump Shot (13 PTS) (Randle 5 AST),,,39 - 47,8,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+162,0021701000,229,9,1,2,9:47 PM,6:23,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+163,0021701000,230,1,1,2,9:51 PM,6:10,,,Korver 25' 3PT Jump Shot (6 PTS) (James 1 AST),42 - 47,5,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+164,0021701000,232,5,12,2,9:51 PM,6:05,Kuzma Inbound Turnover (P1.T4),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+165,0021701000,233,8,0,2,9:51 PM,6:05,,,SUB: Green FOR Nance Jr.,,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+166,0021701000,235,8,0,2,9:51 PM,6:05,,,SUB: Smith FOR Clarkson,,,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+167,0021701000,237,1,1,2,9:51 PM,5:55,,,Green 27' 3PT Jump Shot (3 PTS) (Smith 1 AST),45 - 47,2,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+168,0021701000,239,1,1,2,9:51 PM,5:38,Kuzma 25' 3PT Jump Shot (7 PTS) (Ball 4 AST),,,45 - 50,5,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+169,0021701000,241,1,98,2,9:52 PM,5:27,,,James 3' Cutting Layup Shot (16 PTS) (G. Hill 1 AST),47 - 50,3,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+170,0021701000,243,1,1,2,9:52 PM,5:14,Thomas 29' 3PT Jump Shot (6 PTS) (Ball 5 AST),,,47 - 53,6,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+171,0021701000,245,2,1,2,9:52 PM,4:54,,,MISS James 27' 3PT Jump Shot,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+172,0021701000,246,4,0,2,9:52 PM,4:50,Ball REBOUND (Off:0 Def:3),,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+173,0021701000,247,1,98,2,9:52 PM,4:38,Caldwell-Pope 3' Cutting Layup Shot (15 PTS) (Kuzma 2 AST),,,47 - 55,8,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+174,0021701000,249,6,1,2,9:53 PM,4:23,Caldwell-Pope P.FOUL (P1.T4) (J.Capers),,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+175,0021701000,251,8,0,2,9:53 PM,4:23,SUB: Lopez FOR Thomas,,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+176,0021701000,252,8,0,2,9:53 PM,4:23,,,SUB: Nance Jr. FOR Korver,,,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+177,0021701000,255,1,5,2,9:53 PM,4:17,,,Nance Jr. 2' Layup (6 PTS) (James 2 AST),49 - 55,6,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+178,0021701000,273,2,5,2,9:54 PM,4:02,MISS Randle 2' Layup,,James BLOCK (1 BLK),,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1
+179,0021701000,275,4,0,2,9:54 PM,4:02,Randle REBOUND (Off:2 Def:1),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+180,0021701000,258,6,2,2,9:54 PM,4:00,,,Green S.FOUL (P2.T3) (J.Capers),,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+181,0021701000,260,3,11,2,9:54 PM,4:00,Randle Free Throw 1 of 2 (10 PTS),,,49 - 56,7,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+182,0021701000,261,3,12,2,9:54 PM,4:00,Randle Free Throw 2 of 2 (11 PTS),,,49 - 57,8,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+183,0021701000,262,1,1,2,9:55 PM,3:38,,,Nance Jr. 17' Jump Shot (8 PTS) (James 3 AST),51 - 57,6,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+184,0021701000,264,2,1,2,9:55 PM,3:22,MISS Ball 27' 3PT Jump Shot,,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+185,0021701000,265,4,0,2,9:55 PM,3:19,,,Smith REBOUND (Off:0 Def:1),,,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+186,0021701000,266,1,41,2,9:55 PM,3:14,,,Green 1' Running Layup (5 PTS),53 - 57,4,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+187,0021701000,267,6,4,2,9:55 PM,3:08,Randle OFF.Foul (P2) (T.Brown),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+188,0021701000,269,5,37,2,9:55 PM,3:08,Randle Offensive Foul Turnover (P2.T5),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+189,0021701000,270,6,2,2,9:56 PM,2:54,Lopez S.FOUL (P1.PN) (J.Capers),,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+190,0021701000,272,9,1,2,9:56 PM,2:54,LAKERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+191,0021701000,276,8,0,2,9:56 PM,2:54,SUB: Thomas FOR Ball,,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+192,0021701000,278,3,11,2,10:00 PM,2:54,,,Nance Jr. Free Throw 1 of 2 (9 PTS),54 - 57,3,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+193,0021701000,279,3,12,2,10:00 PM,2:54,,,Nance Jr. Free Throw 2 of 2 (10 PTS),55 - 57,2,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+194,0021701000,280,2,1,2,10:00 PM,2:41,MISS Lopez 6' Jump Shot,,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+195,0021701000,281,4,0,2,10:00 PM,2:36,Lopez REBOUND (Off:1 Def:2),,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+196,0021701000,282,1,97,2,10:00 PM,2:36,Lopez 1' Tip Layup Shot (12 PTS),,,55 - 59,4,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+197,0021701000,283,2,1,2,10:00 PM,2:18,,,MISS James 26' 3PT Jump Shot,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+198,0021701000,284,4,0,2,10:00 PM,2:16,Kuzma REBOUND (Off:0 Def:5),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+199,0021701000,285,2,5,2,10:01 PM,2:10,MISS Lopez 3' Layup,,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+200,0021701000,286,4,0,2,10:01 PM,2:03,Lopez REBOUND (Off:2 Def:2),,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+201,0021701000,287,1,72,2,10:01 PM,2:03,Lopez 1' Putback Layup (14 PTS),,,55 - 61,6,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+202,0021701000,288,1,1,2,10:01 PM,1:54,,,Smith 26' 3PT Jump Shot (3 PTS),58 - 61,3,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+203,0021701000,289,6,2,2,10:01 PM,1:37,,,G. Hill S.FOUL (P2.T4) (T.Brown),,,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+204,0021701000,291,3,11,2,10:02 PM,1:37,Randle Free Throw 1 of 2 (12 PTS),,,58 - 62,4,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+205,0021701000,292,8,0,2,10:02 PM,1:37,,,SUB: Zizic FOR Nance Jr.,,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+206,0021701000,293,8,0,2,10:02 PM,1:37,,,SUB: Korver FOR Green,,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+207,0021701000,296,3,12,2,10:02 PM,1:37,Randle Free Throw 2 of 2 (13 PTS),,,58 - 63,5,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+208,0021701000,297,2,80,2,10:02 PM,1:22,,,MISS Smith 18' Step Back Jump Shot,,,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+209,0021701000,298,4,0,2,10:02 PM,1:18,,,James REBOUND (Off:1 Def:4),,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+210,0021701000,299,1,108,2,10:02 PM,1:16,,,Zizic 1' Cutting Dunk Shot (6 PTS) (James 4 AST),60 - 63,3,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+211,0021701000,301,2,63,2,10:03 PM,1:00,MISS Lopez 17' Fadeaway Jumper,,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+212,0021701000,302,4,0,2,10:03 PM,0:58,,,James REBOUND (Off:1 Def:5),,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+213,0021701000,303,2,1,2,10:03 PM,0:53,,,MISS G. Hill  3PT Jump Shot,,,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+214,0021701000,304,4,0,2,10:03 PM,0:49,Kuzma REBOUND (Off:0 Def:6),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+215,0021701000,305,2,5,2,10:03 PM,0:41,MISS Kuzma 2' Layup,,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+216,0021701000,306,4,0,2,10:03 PM,0:39,Randle REBOUND (Off:3 Def:1),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+217,0021701000,307,5,4,2,10:03 PM,0:38,Randle Traveling Turnover (P3.T6),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+218,0021701000,308,8,0,2,10:03 PM,0:38,,,SUB: Clarkson FOR G. Hill,,,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+219,0021701000,310,2,80,2,10:04 PM,0:25,,,MISS Smith 14' Step Back Jump Shot,,,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+220,0021701000,311,4,0,2,10:04 PM,0:25,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+221,0021701000,312,6,3,2,10:04 PM,0:25,,,Zizic L.B.FOUL (P1.PN) (T.Brown),,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+222,0021701000,314,3,11,2,10:04 PM,0:25,Kuzma Free Throw 1 of 2 (8 PTS),,,60 - 64,4,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+223,0021701000,315,8,0,2,10:04 PM,0:25,SUB: Caruso FOR Thomas,,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+224,0021701000,316,8,0,2,10:04 PM,0:25,,,SUB: Calderon FOR Zizic,,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+225,0021701000,319,8,0,2,10:04 PM,0:25,SUB: Williams FOR Lopez,,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,4,202682,Derrick Williams,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+226,0021701000,321,3,12,2,10:05 PM,0:25,Kuzma Free Throw 2 of 2 (9 PTS),,,60 - 65,5,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+227,0021701000,322,2,102,2,10:05 PM,0:00,,,MISS James 5' Driving Floating Bank Jump Shot,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+228,0021701000,323,4,0,2,10:05 PM,0:00,Randle REBOUND (Off:3 Def:2),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+229,0021701000,324,13,0,2,10:05 PM,0:00,,,,60 - 65,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+230,0021701000,335,12,0,3,10:21 PM,12:00,,,,60 - 65,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+231,0021701000,336,2,1,3,10:21 PM,11:42,MISS Caldwell-Pope 24' 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+232,0021701000,337,4,0,3,10:21 PM,11:39,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+233,0021701000,338,2,79,3,10:21 PM,11:28,MISS Caldwell-Pope 20' Pullup Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+234,0021701000,339,4,0,3,10:21 PM,11:25,,,Nance Jr. REBOUND (Off:2 Def:2),,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+235,0021701000,340,2,1,3,10:22 PM,11:13,,,MISS James 26' 3PT Jump Shot,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+236,0021701000,341,4,0,3,10:22 PM,11:10,Kuzma REBOUND (Off:0 Def:7),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+237,0021701000,342,1,1,3,10:22 PM,10:58,Lopez 27' 3PT Jump Shot (17 PTS) (Ball 6 AST),,,60 - 68,8,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+238,0021701000,344,1,1,3,10:22 PM,10:31,,,James 26' 3PT Jump Shot (19 PTS) (Smith 2 AST),63 - 68,5,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+239,0021701000,346,1,108,3,10:23 PM,10:16,Ball 2' Cutting Dunk Shot (5 PTS) (Randle 6 AST),,,63 - 70,7,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+240,0021701000,348,2,1,3,10:23 PM,9:48,,,MISS Green 21' Jump Shot,,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+241,0021701000,349,4,0,3,10:23 PM,9:45,Randle REBOUND (Off:3 Def:3),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+242,0021701000,350,2,5,3,10:23 PM,9:36,MISS Kuzma 1' Layup,,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+243,0021701000,351,4,0,3,10:23 PM,9:34,,,Nance Jr. REBOUND (Off:2 Def:3),,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+244,0021701000,352,5,1,3,10:24 PM,9:21,Caldwell-Pope STEAL (1 STL),,James Bad Pass Turnover (P1.T3),,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+245,0021701000,354,1,9,3,10:24 PM,9:14,Randle 1' Driving Dunk (15 PTS),,,63 - 72,9,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+246,0021701000,355,9,1,3,10:24 PM,9:14,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+247,0021701000,356,1,1,3,10:27 PM,8:54,,,G. Hill  3PT Jump Shot (7 PTS),66 - 72,6,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+248,0021701000,357,2,1,3,10:28 PM,8:38,MISS Ball 25' 3PT Jump Shot,,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+249,0021701000,358,4,0,3,10:28 PM,8:36,,,Green REBOUND (Off:0 Def:3),,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+250,0021701000,359,6,2,3,10:28 PM,8:33,Kuzma S.FOUL (P2.T1) (T.Brown),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+251,0021701000,361,3,11,3,10:28 PM,8:33,,,Green Free Throw 1 of 2 (6 PTS),67 - 72,5,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+252,0021701000,362,3,12,3,10:29 PM,8:33,,,Green Free Throw 2 of 2 (7 PTS),68 - 72,4,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+253,0021701000,363,2,47,3,10:29 PM,8:09,MISS Lopez 17' Turnaround Jump Shot,,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+254,0021701000,364,4,0,3,10:29 PM,8:06,,,James REBOUND (Off:1 Def:6),,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+255,0021701000,365,1,6,3,10:29 PM,7:57,,,G. Hill 1' Driving Layup (9 PTS),70 - 72,2,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+256,0021701000,366,2,1,3,10:29 PM,7:36,MISS Caldwell-Pope 20' Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+257,0021701000,367,4,0,3,10:29 PM,7:35,,,Nance Jr. REBOUND (Off:2 Def:4),,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+258,0021701000,368,2,7,3,10:30 PM,7:31,Randle BLOCK (2 BLK),,MISS Green  Dunk,,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,1
+259,0021701000,370,4,0,3,10:30 PM,7:27,Randle REBOUND (Off:3 Def:4),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+260,0021701000,371,2,1,3,10:30 PM,7:21,MISS Lopez 7' Jump Shot,,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+261,0021701000,372,4,0,3,10:30 PM,7:21,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+262,0021701000,373,1,52,3,10:30 PM,7:11,,,Nance Jr. 3' Alley Oop Dunk (12 PTS) (James 5 AST),72 - 72,TIE,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+263,0021701000,375,9,1,3,10:30 PM,7:10,LAKERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+264,0021701000,376,6,1,3,10:34 PM,7:01,,,Nance Jr. P.FOUL (P2.T1) (T.Brown),,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+265,0021701000,378,5,4,3,10:34 PM,6:55,Lopez Traveling Turnover (P1.T7),,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+266,0021701000,379,2,1,3,10:35 PM,6:42,,,MISS Green 25' 3PT Jump Shot,,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+267,0021701000,380,4,0,3,10:35 PM,6:39,Randle REBOUND (Off:3 Def:5),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+268,0021701000,381,6,2,3,10:35 PM,6:37,,,Green S.FOUL (P3.T2) (S.Twardoski),,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+269,0021701000,383,3,11,3,10:35 PM,6:37,Randle Free Throw 1 of 2 (16 PTS),,,72 - 73,1,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+270,0021701000,384,3,12,3,10:35 PM,6:37,Randle Free Throw 2 of 2 (17 PTS),,,72 - 74,2,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+271,0021701000,385,6,4,3,10:35 PM,6:30,,,Nance Jr. OFF.Foul (P3) (T.Brown),,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+272,0021701000,387,5,37,3,10:35 PM,6:30,,,Nance Jr. Offensive Foul Turnover (P1.T4),,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+273,0021701000,388,5,1,3,10:36 PM,6:14,Randle Bad Pass Turnover (P4.T8),,Smith STEAL (1 STL),,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+274,0021701000,390,5,1,3,10:36 PM,6:11,Lopez STEAL (1 STL),,Smith Bad Pass Turnover (P1.T5),,,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+275,0021701000,392,2,1,3,10:36 PM,6:06,MISS Caldwell-Pope 27' 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+276,0021701000,393,4,0,3,10:36 PM,6:02,Randle REBOUND (Off:4 Def:5),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+277,0021701000,394,2,97,3,10:36 PM,6:02,MISS Randle 1' Tip Layup Shot,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+278,0021701000,395,4,0,3,10:36 PM,6:02,,,Nance Jr. REBOUND (Off:2 Def:5),,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+279,0021701000,396,2,5,3,10:36 PM,5:58,,,MISS Smith 2' Layup,,,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+280,0021701000,397,4,0,3,10:36 PM,5:55,,,Nance Jr. REBOUND (Off:3 Def:5),,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+281,0021701000,398,5,1,3,10:36 PM,5:53,Randle STEAL (1 STL),,Nance Jr. Bad Pass Turnover (P2.T6),,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+282,0021701000,400,1,41,3,10:36 PM,5:45,Randle 3' Running Layup (19 PTS),,,72 - 76,4,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+283,0021701000,401,1,3,3,10:37 PM,5:21,,,Nance Jr. 6' Hook Shot (14 PTS) (G. Hill 2 AST),74 - 76,2,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+284,0021701000,403,2,79,3,10:37 PM,5:08,MISS Ball 14' Pullup Jump Shot,,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+285,0021701000,404,4,0,3,10:37 PM,5:03,,,James REBOUND (Off:1 Def:7),,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+286,0021701000,405,1,6,3,10:37 PM,4:57,,,James 2' Driving Layup (21 PTS),76 - 76,TIE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+287,0021701000,406,1,1,3,10:37 PM,4:37,Kuzma 26' 3PT Jump Shot (12 PTS),,,76 - 79,3,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+288,0021701000,407,2,80,3,10:38 PM,4:11,,,MISS James 17' Step Back Jump Shot,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+289,0021701000,408,4,0,3,10:38 PM,4:07,Randle REBOUND (Off:4 Def:6),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+290,0021701000,409,6,2,3,10:38 PM,4:00,,,G. Hill S.FOUL (P3.T3) (J.Capers),,,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+291,0021701000,411,3,11,3,10:38 PM,4:00,Caldwell-Pope Free Throw 1 of 2 (16 PTS),,,76 - 80,4,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+292,0021701000,412,8,0,3,10:38 PM,4:00,SUB: Thomas FOR Ball,,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+293,0021701000,413,8,0,3,10:38 PM,4:00,,,SUB: Zizic FOR Smith,,,5,2747,JR Smith,1610612739.0,Cleveland,Cavaliers,CLE,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+294,0021701000,414,8,0,3,10:38 PM,4:00,,,SUB: Korver FOR Nance Jr.,,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+295,0021701000,415,8,0,3,10:38 PM,4:00,,,SUB: Clarkson FOR Green,,,5,201145,Jeff Green,1610612739.0,Cleveland,Cavaliers,CLE,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+296,0021701000,420,3,12,3,10:39 PM,4:00,Caldwell-Pope Free Throw 2 of 2 (17 PTS),,,76 - 81,5,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+297,0021701000,421,6,2,3,10:39 PM,3:39,Kuzma S.FOUL (P3.T2) (J.Capers),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+298,0021701000,423,3,11,3,10:40 PM,3:39,,,James Free Throw 1 of 2 (22 PTS),77 - 81,4,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+299,0021701000,424,3,12,3,10:40 PM,3:39,,,MISS James Free Throw 2 of 2,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+300,0021701000,425,4,0,3,10:40 PM,3:37,Randle REBOUND (Off:4 Def:7),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+301,0021701000,426,1,1,3,10:40 PM,3:29,Lopez 28' 3PT Jump Shot (20 PTS) (Thomas 4 AST),,,77 - 84,7,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+302,0021701000,428,2,1,3,10:41 PM,3:20,,,MISS G. Hill 27' 3PT Jump Shot,,,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+303,0021701000,429,4,0,3,10:41 PM,3:17,Kuzma REBOUND (Off:0 Def:8),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+304,0021701000,430,6,2,3,10:41 PM,3:04,,,Korver S.FOUL (P1.T4) (J.Capers),,,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+305,0021701000,432,3,11,3,10:41 PM,3:04,Kuzma Free Throw 1 of 2 (13 PTS),,,77 - 85,8,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+306,0021701000,433,8,0,3,10:41 PM,3:04,,,SUB: Calderon FOR G. Hill,,,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+307,0021701000,435,3,12,3,10:42 PM,3:04,Kuzma Free Throw 2 of 2 (14 PTS),,,77 - 86,9,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+308,0021701000,436,2,1,3,10:42 PM,2:50,,,MISS James 26' 3PT Jump Shot,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+309,0021701000,437,4,0,3,10:42 PM,2:47,Lopez REBOUND (Off:2 Def:3),,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+310,0021701000,438,2,101,3,10:42 PM,2:38,MISS Kuzma 8' Driving Floating Jump Shot,,Zizic BLOCK (2 BLK),,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,1
+311,0021701000,440,4,0,3,10:42 PM,2:35,,,Zizic REBOUND (Off:0 Def:2),,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+312,0021701000,441,5,1,3,10:42 PM,2:34,Caldwell-Pope STEAL (2 STL),,Zizic Bad Pass Turnover (P1.T7),,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+313,0021701000,445,2,5,3,10:42 PM,2:34,MISS Kuzma 1' Layup,,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+314,0021701000,447,4,0,3,10:42 PM,2:34,Randle REBOUND (Off:5 Def:7),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+315,0021701000,443,1,97,3,10:42 PM,2:32,Randle 2' Tip Layup Shot (21 PTS),,,77 - 88,11,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+316,0021701000,446,9,1,3,10:43 PM,2:32,,,Cavaliers Timeout: Regular (Reg.3 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+317,0021701000,448,1,98,3,10:44 PM,2:21,,,Zizic 3' Cutting Layup Shot (8 PTS) (James 6 AST),79 - 88,9,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+318,0021701000,450,2,1,3,10:44 PM,2:05,MISS Thomas 17' Jump Shot,,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+319,0021701000,451,4,0,3,10:44 PM,2:05,Thomas REBOUND (Off:2 Def:2),,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+320,0021701000,452,1,78,3,10:44 PM,1:50,Thomas 4' Floating Jump Shot (8 PTS),,,79 - 90,11,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+321,0021701000,453,2,5,3,10:45 PM,1:37,Lopez BLOCK (2 BLK),,MISS Clarkson 3' Layup,,,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,1
+322,0021701000,455,4,0,3,10:45 PM,1:37,Lopez REBOUND (Off:2 Def:4),,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+323,0021701000,456,6,1,3,10:45 PM,1:37,,,Calderon P.FOUL (P1.PN) (J.Capers),,,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+324,0021701000,458,3,11,3,10:45 PM,1:37,Thomas Free Throw 1 of 2 (9 PTS),,,79 - 91,12,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+325,0021701000,459,8,0,3,10:45 PM,1:37,SUB: Caruso FOR Caldwell-Pope,,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+326,0021701000,460,8,0,3,10:45 PM,1:37,,,SUB: Holland FOR James,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+327,0021701000,463,3,12,3,10:46 PM,1:37,Thomas Free Throw 2 of 2 (10 PTS),,,79 - 92,13,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+328,0021701000,465,2,1,3,10:46 PM,1:21,,,MISS Clarkson 27' 3PT Jump Shot,,,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+329,0021701000,466,4,0,3,10:46 PM,1:20,Kuzma REBOUND (Off:0 Def:9),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+330,0021701000,467,1,108,3,10:46 PM,1:12,Randle 2' Cutting Dunk Shot (23 PTS) (Thomas 5 AST),,,79 - 94,15,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+331,0021701000,469,2,79,3,10:46 PM,0:55,,,MISS Korver 17' Pullup Jump Shot,,,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+332,0021701000,470,4,0,3,10:46 PM,0:52,Caruso REBOUND (Off:0 Def:1),,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+333,0021701000,471,2,79,3,10:46 PM,0:49,MISS Thomas 27' 3PT Pullup Jump Shot,,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+334,0021701000,472,4,0,3,10:46 PM,0:49,Thomas REBOUND (Off:3 Def:2),,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+335,0021701000,473,1,79,3,10:46 PM,0:44,Thomas 13' Pullup Jump Shot (12 PTS),,,79 - 96,17,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+336,0021701000,474,2,1,3,10:47 PM,0:34,,,MISS Clarkson 27' 3PT Jump Shot,,,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+337,0021701000,475,4,0,3,10:47 PM,0:34,Lopez REBOUND (Off:2 Def:5),,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+338,0021701000,476,1,44,3,10:47 PM,0:12,Caruso 2' Reverse Layup (4 PTS) (Lopez 4 AST),,,79 - 98,19,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+339,0021701000,478,1,1,3,10:47 PM,0:03,,,Holland 27' 3PT Jump Shot (4 PTS) (Clarkson 3 AST),82 - 98,16,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+340,0021701000,480,5,40,3,10:47 PM,0:01,Thomas Out of Bounds Lost Ball Turnover (P3.T9),,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+341,0021701000,481,2,1,3,10:48 PM,0:00,,,MISS Clarkson 29' 3PT Jump Shot,,,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+342,0021701000,482,4,0,3,10:48 PM,0:00,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+343,0021701000,483,13,0,3,10:48 PM,0:00,,,,82 - 98,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+344,0021701000,490,12,0,4,10:51 PM,12:00,,,,82 - 98,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+345,0021701000,491,5,1,4,10:51 PM,11:46,Zubac STEAL (1 STL),,Korver Bad Pass Turnover (P1.T8),,,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,4,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+346,0021701000,493,2,50,4,10:51 PM,11:44,MISS Ball 1' Running Dunk,,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+347,0021701000,494,4,0,4,10:51 PM,11:40,,,Korver REBOUND (Off:0 Def:3),,,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+348,0021701000,495,1,1,4,10:52 PM,11:35,,,Calderon 26' 3PT Jump Shot (8 PTS) (Clarkson 4 AST),85 - 98,13,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+349,0021701000,497,6,2,4,10:52 PM,11:17,,,Calderon S.FOUL (P2.T1) (T.Brown),,,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+350,0021701000,499,3,11,4,10:52 PM,11:17,Thomas Free Throw 1 of 2 (13 PTS),,,85 - 99,14,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+351,0021701000,500,3,12,4,10:53 PM,11:17,Thomas Free Throw 2 of 2 (14 PTS),,,85 - 100,15,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+352,0021701000,501,6,2,4,10:53 PM,11:08,Zubac S.FOUL (P2.T1) (T.Brown),,,,,4,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+353,0021701000,503,3,11,4,10:53 PM,11:08,,,Calderon Free Throw 1 of 2 (9 PTS),86 - 100,14,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+354,0021701000,504,3,12,4,10:53 PM,11:08,,,Calderon Free Throw 2 of 2 (10 PTS),87 - 100,13,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+355,0021701000,505,2,1,4,10:54 PM,10:52,MISS Ball 26' 3PT Jump Shot,,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+356,0021701000,506,4,0,4,10:54 PM,10:47,,,Zizic REBOUND (Off:0 Def:3),,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+357,0021701000,507,2,1,4,10:54 PM,10:25,,,MISS Clarkson 8' Jump Shot,,,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+358,0021701000,508,4,0,4,10:54 PM,10:21,Zubac REBOUND (Off:0 Def:1),,,,,4,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+359,0021701000,509,1,78,4,10:54 PM,10:19,Thomas 12' Floating Jump Shot (16 PTS),,,87 - 102,15,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+360,0021701000,510,5,1,4,10:54 PM,10:04,Zubac STEAL (2 STL),,Clarkson Bad Pass Turnover (P2.T9),,,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,4,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+361,0021701000,512,6,1,4,10:54 PM,10:04,,,Calderon P.FOUL (P3.T2) (S.Twardoski),,,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+362,0021701000,514,1,6,4,10:55 PM,9:47,Thomas 4' Driving Layup (18 PTS),,,87 - 104,17,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+363,0021701000,515,2,1,4,10:55 PM,9:32,,,MISS Calderon 27' 3PT Jump Shot,,,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+364,0021701000,516,4,0,4,10:55 PM,9:31,Caruso REBOUND (Off:0 Def:2),,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+365,0021701000,517,1,79,4,10:55 PM,9:26,Thomas 22' Pullup Jump Shot (20 PTS),,,87 - 106,19,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+366,0021701000,518,9,1,4,10:56 PM,9:25,,,Cavaliers Timeout: Regular (Reg.4 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+367,0021701000,519,8,0,4,10:58 PM,9:25,,,SUB: G. Hill FOR Clarkson,,,5,203903,Jordan Clarkson,1610612739.0,Cleveland,Cavaliers,CLE,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+368,0021701000,520,8,0,4,10:58 PM,9:25,,,SUB: James FOR Zizic,,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+369,0021701000,521,8,0,4,10:58 PM,9:25,,,SUB: Nance Jr. FOR Calderon,,,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+370,0021701000,525,1,1,4,10:59 PM,9:13,,,Korver 25' 3PT Jump Shot (9 PTS) (G. Hill 3 AST),90 - 106,16,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+371,0021701000,527,2,1,4,10:59 PM,8:51,MISS Caruso 26' 3PT Jump Shot,,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+372,0021701000,528,4,0,4,10:59 PM,8:49,,,Holland REBOUND (Off:0 Def:2),,,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+373,0021701000,529,2,5,4,11:00 PM,8:43,,,MISS James 2' Layup,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+374,0021701000,531,4,0,4,11:00 PM,8:40,,,James REBOUND (Off:2 Def:7),,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+375,0021701000,532,1,72,4,11:00 PM,8:40,,,James 2' Putback Layup (24 PTS),92 - 106,14,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+376,0021701000,533,9,1,4,11:00 PM,8:40,LAKERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+377,0021701000,534,8,0,4,11:03 PM,8:40,SUB: Caldwell-Pope FOR Caruso,,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+378,0021701000,535,8,0,4,11:03 PM,8:40,SUB: Lopez FOR Wear,,,,,4,204037,Travis Wear,1610612747.0,Los Angeles,Lakers,LAL,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+379,0021701000,536,8,0,4,11:03 PM,8:40,SUB: Randle FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612747.0,Los Angeles,Lakers,LAL,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+380,0021701000,540,1,5,4,11:03 PM,8:26,Randle 1' Layup (25 PTS) (Thomas 6 AST),,,92 - 108,16,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+381,0021701000,542,6,2,4,11:03 PM,8:26,,,Nance Jr. S.FOUL (P4.T3) (T.Brown),,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+382,0021701000,544,3,10,4,11:04 PM,8:26,MISS Randle Free Throw 1 of 1,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+383,0021701000,545,4,0,4,11:04 PM,8:23,,,James REBOUND (Off:2 Def:8),,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+384,0021701000,546,1,108,4,11:04 PM,8:10,,,Nance Jr. 3' Cutting Dunk Shot (16 PTS) (James 7 AST),94 - 108,14,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+385,0021701000,548,1,58,4,11:04 PM,7:48,Lopez 8' Turnaround Hook Shot (22 PTS),,,94 - 110,16,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+386,0021701000,549,2,80,4,11:05 PM,7:24,,,MISS G. Hill 21' Step Back Jump Shot,,,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+387,0021701000,550,4,0,4,11:05 PM,7:22,Lopez REBOUND (Off:2 Def:6),,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+388,0021701000,551,6,1,4,11:05 PM,7:16,,,Nance Jr. P.FOUL (P5.T4) (J.Capers),,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+389,0021701000,553,8,0,4,11:05 PM,7:16,SUB: Kuzma FOR Ball,,,,,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+390,0021701000,555,1,98,4,11:05 PM,7:05,Randle 3' Cutting Layup Shot (27 PTS) (Thomas 7 AST),,,94 - 112,18,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+391,0021701000,557,6,2,4,11:05 PM,7:05,,,Korver S.FOUL (P2.PN) (T.Brown),,,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+392,0021701000,559,3,10,4,11:06 PM,7:05,Randle Free Throw 1 of 1 (28 PTS),,,94 - 113,19,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+393,0021701000,560,2,1,4,11:06 PM,6:58,,,MISS James 26' 3PT Jump Shot,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+394,0021701000,561,4,0,4,11:06 PM,6:54,Randle REBOUND (Off:5 Def:8),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+395,0021701000,562,5,1,4,11:06 PM,6:41,Thomas Bad Pass Turnover (P4.T10),,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+396,0021701000,563,6,3,4,11:06 PM,6:41,Randle L.B.FOUL (P3.T2) (T.Brown),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+397,0021701000,565,5,1,4,11:07 PM,6:32,Thomas STEAL (1 STL),,James Bad Pass Turnover (P2.T10),,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+398,0021701000,567,1,108,4,11:07 PM,6:25,Randle 2' Cutting Dunk Shot (30 PTS) (Thomas 8 AST),,,94 - 115,21,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+399,0021701000,569,9,1,4,11:07 PM,6:24,,,Cavaliers Timeout: Regular (Reg.5 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+400,0021701000,570,8,0,4,11:08 PM,6:24,,,SUB: Calderon FOR G. Hill,,,5,201588,George Hill,1610612739.0,Cleveland,Cavaliers,CLE,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+401,0021701000,571,8,0,4,11:08 PM,6:24,,,SUB: Perrantes FOR Nance Jr.,,,5,1626204,Larry Nance Jr.,1610612739.0,Cleveland,Cavaliers,CLE,5,1628506,London Perrantes,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+402,0021701000,572,8,0,4,11:08 PM,6:24,,,SUB: Zizic FOR James,,,5,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+403,0021701000,576,2,1,4,11:09 PM,6:01,,,MISS Zizic 13' Jump Shot,,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+404,0021701000,577,4,0,4,11:09 PM,5:57,Caldwell-Pope REBOUND (Off:2 Def:3),,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+405,0021701000,578,2,1,4,11:09 PM,5:39,MISS Lopez 26' 3PT Jump Shot,,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+406,0021701000,579,4,0,4,11:09 PM,5:37,,,Korver REBOUND (Off:0 Def:4),,,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+407,0021701000,580,6,2,4,11:09 PM,5:27,Thomas S.FOUL (P3.T3) (S.Twardoski),,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+408,0021701000,582,3,11,4,11:10 PM,5:27,,,MISS Zizic Free Throw 1 of 2,,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+409,0021701000,583,4,1,4,11:10 PM,5:27,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+410,0021701000,584,3,12,4,11:10 PM,5:27,,,Zizic Free Throw 2 of 2 (9 PTS),95 - 115,20,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+411,0021701000,585,2,1,4,11:10 PM,5:14,MISS Kuzma 6' Jump Shot,,Korver BLOCK (1 BLK),,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,1
+412,0021701000,587,4,0,4,11:10 PM,5:05,Randle REBOUND (Off:6 Def:8),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+413,0021701000,588,1,72,4,11:10 PM,5:05,Randle 1' Putback Layup (32 PTS),,,95 - 117,22,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+414,0021701000,589,1,75,4,11:11 PM,4:54,,,Calderon 2' Driving Finger Roll Layup (12 PTS),97 - 117,20,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+415,0021701000,590,2,1,4,11:11 PM,4:38,MISS Thomas  3PT Jump Shot,,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+416,0021701000,591,4,0,4,11:11 PM,4:35,,,Zizic REBOUND (Off:0 Def:4),,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+417,0021701000,592,6,1,4,11:11 PM,4:25,Lopez P.FOUL (P2.T4) (T.Brown),,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+418,0021701000,594,2,1,4,11:11 PM,4:22,,,MISS Holland 14' Jump Shot,,,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+419,0021701000,595,4,0,4,11:11 PM,4:21,Caldwell-Pope REBOUND (Off:2 Def:4),,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+420,0021701000,596,5,1,4,11:12 PM,4:12,Caldwell-Pope Bad Pass Turnover (P1.T11),,Calderon STEAL (1 STL),,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+421,0021701000,598,6,1,4,11:12 PM,4:12,Lopez P.FOUL (P3.PN) (J.Capers),,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+422,0021701000,600,3,11,4,11:12 PM,4:12,,,Calderon Free Throw 1 of 2 (13 PTS),98 - 117,19,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+423,0021701000,601,3,12,4,11:12 PM,4:12,,,Calderon Free Throw 2 of 2 (14 PTS),99 - 117,18,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+424,0021701000,602,5,45,4,11:13 PM,4:03,Thomas Out of Bounds - Bad Pass Turnover Turnover (P5.T12),,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+425,0021701000,603,1,1,4,11:13 PM,3:53,,,Korver  3PT Jump Shot (12 PTS) (Perrantes 1 AST),102 - 117,15,5,2594,Kyle Korver,1610612739.0,Cleveland,Cavaliers,CLE,5,1628506,London Perrantes,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+426,0021701000,605,9,1,4,11:13 PM,3:52,LAKERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+427,0021701000,606,8,0,4,11:14 PM,3:52,SUB: Ball FOR Lopez,,,,,4,201572,Brook Lopez,1610612747.0,Los Angeles,Lakers,LAL,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+428,0021701000,609,1,1,4,11:15 PM,3:35,Caldwell-Pope 24' 3PT Jump Shot (20 PTS) (Randle 7 AST),,,102 - 120,18,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+429,0021701000,611,1,43,4,11:15 PM,3:21,,,Zizic 2' Alley Oop Layup (11 PTS) (Holland 1 AST),104 - 120,16,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+430,0021701000,613,1,7,4,11:15 PM,2:58,Randle 3' Dunk (34 PTS) (Thomas 9 AST),,,104 - 122,18,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+431,0021701000,615,1,5,4,11:16 PM,2:41,,,Zizic 3' Layup (13 PTS) (Holland 2 AST),106 - 122,16,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+432,0021701000,617,2,1,4,11:16 PM,2:18,MISS Thomas 25' 3PT Jump Shot,,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+433,0021701000,618,4,0,4,11:16 PM,2:14,Kuzma REBOUND (Off:1 Def:9),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+434,0021701000,619,5,4,4,11:16 PM,2:12,Caldwell-Pope Traveling Turnover (P2.T13),,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+435,0021701000,620,5,1,4,11:16 PM,2:02,Ball STEAL (1 STL),,Calderon Bad Pass Turnover (P1.T11),,,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+436,0021701000,623,2,1,4,11:17 PM,1:39,MISS Thomas 18' Jump Shot,,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+437,0021701000,625,4,0,4,11:17 PM,1:35,,,Zizic REBOUND (Off:0 Def:5),,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+438,0021701000,626,6,2,4,11:17 PM,1:33,Caldwell-Pope S.FOUL (P2.PN) (S.Twardoski),,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+439,0021701000,628,3,11,4,11:18 PM,1:33,,,Holland Free Throw 1 of 2 (5 PTS),107 - 122,15,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+440,0021701000,629,8,0,4,11:18 PM,1:33,SUB: Caruso FOR Thomas,,,,,4,202738,Isaiah Thomas,1610612747.0,Los Angeles,Lakers,LAL,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+441,0021701000,631,3,12,4,11:18 PM,1:33,,,Holland Free Throw 2 of 2 (6 PTS),108 - 122,14,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+442,0021701000,632,1,6,4,11:18 PM,1:17,Randle 2' Driving Layup (36 PTS),,,108 - 124,16,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+443,0021701000,633,2,43,4,11:18 PM,1:07,,,MISS Zizic 1' Alley Oop Layup,,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+444,0021701000,634,4,0,4,11:18 PM,1:05,,,Zizic REBOUND (Off:1 Def:5),,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+445,0021701000,636,8,0,4,11:19 PM,1:05,SUB: Wear FOR Randle,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,204037,Travis Wear,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+446,0021701000,638,5,1,4,11:19 PM,1:01,Caruso STEAL (1 STL),,Calderon Bad Pass Turnover (P2.T12),,,5,101181,Jose Calderon,1610612739.0,Cleveland,Cavaliers,CLE,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+447,0021701000,640,2,1,4,11:19 PM,0:41,MISS Kuzma 26' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+448,0021701000,641,4,0,4,11:19 PM,0:39,,,Holland REBOUND (Off:0 Def:3),,,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+449,0021701000,642,2,41,4,11:19 PM,0:35,,,MISS Holland 1' Running Layup,,,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+450,0021701000,643,4,0,4,11:19 PM,0:34,,,Zizic REBOUND (Off:2 Def:5),,,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+451,0021701000,644,1,97,4,11:19 PM,0:34,,,Zizic 1' Tip Layup Shot (15 PTS),110 - 124,14,5,1627790,Ante Zizic,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+452,0021701000,645,1,1,4,11:20 PM,0:13,Wear 25' 3PT Jump Shot (6 PTS) (Ball 7 AST),,,110 - 127,17,4,204037,Travis Wear,1610612747.0,Los Angeles,Lakers,LAL,4,1628366,Lonzo Ball,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+453,0021701000,647,1,1,4,11:20 PM,0:07,,,Holland 27' 3PT Jump Shot (9 PTS),113 - 127,14,5,204066,John Holland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+454,0021701000,648,13,0,4,11:20 PM,0:00,,,,113 - 127,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

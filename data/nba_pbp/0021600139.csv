@@ -1,0 +1,509 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021600139,0,12,0,1,9:11 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021600139,1,10,0,1,9:11 PM,12:00,Jump Ball Len vs. Lopez: Tip to Chriss,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,1
+2,0021600139,2,2,5,1,9:11 PM,11:50,MISS Len 2' Layup,,Booker BLOCK (1 BLK),,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,1
+3,0021600139,3,4,0,1,9:11 PM,11:49,Len REBOUND (Off:1 Def:0),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+4,0021600139,4,2,5,1,9:11 PM,11:47,MISS Len 2' Layup,,Lopez BLOCK (1 BLK),,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1
+5,0021600139,5,4,0,1,9:11 PM,11:46,Warren REBOUND (Off:1 Def:0),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+6,0021600139,6,2,42,1,9:11 PM,11:39,MISS Chriss 1' Driving Layup,,Lopez BLOCK (2 BLK),,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1
+7,0021600139,7,4,0,1,9:11 PM,11:37,,,Kilpatrick REBOUND (Off:0 Def:1),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+8,0021600139,8,2,101,1,9:12 PM,11:22,,,MISS Lopez 3' Driving Floating Jump Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+9,0021600139,9,4,0,1,9:12 PM,11:21,Chriss REBOUND (Off:0 Def:1),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+10,0021600139,10,6,2,1,9:12 PM,11:16,,,Hollis-Jefferson S.FOUL (P1.T1) (C.Washington),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+11,0021600139,11,3,11,1,9:12 PM,11:16,Bledsoe Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+12,0021600139,13,3,12,1,9:12 PM,11:16,Bledsoe Free Throw 2 of 2 (2 PTS),,,0 - 2,2,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+13,0021600139,15,2,80,1,9:13 PM,11:05,,,MISS Lopez 27' 3PT Step Back Jump Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+14,0021600139,16,4,0,1,9:13 PM,11:03,Bledsoe REBOUND (Off:0 Def:1),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+15,0021600139,17,1,5,1,9:13 PM,10:55,Len 1' Layup (2 PTS) (Booker 1 AST),,,0 - 4,4,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+16,0021600139,18,6,2,1,9:13 PM,10:55,,,Lopez S.FOUL (P1.T2) (K.Scott),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+17,0021600139,19,3,10,1,9:13 PM,10:55,Len Free Throw 1 of 1 (3 PTS),,,0 - 5,5,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+18,0021600139,21,1,98,1,9:13 PM,10:37,,,Hollis-Jefferson 3' Cutting Layup Shot (2 PTS) (Lopez 1 AST),2 - 5,3,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+19,0021600139,22,2,57,1,9:14 PM,10:20,MISS Len 3' Driving Hook Shot,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+20,0021600139,23,4,0,1,9:14 PM,10:19,,,Hollis-Jefferson REBOUND (Off:0 Def:1),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+21,0021600139,24,1,42,1,9:14 PM,10:08,,,Kilpatrick 3' Driving Layup (2 PTS),4 - 5,1,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+22,0021600139,25,5,1,1,9:14 PM,10:00,Bledsoe Bad Pass Turnover (P1.T1),,Kilpatrick STEAL (1 STL),,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+23,0021600139,26,6,9,1,9:14 PM,9:58,Bledsoe C.P.FOUL (P1.T1) (K.Scott),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+24,0021600139,27,3,25,1,9:15 PM,9:58,,,Kilpatrick Free Throw Clear Path 1 of 2 (3 PTS),5 - 5,TIE,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+25,0021600139,29,3,26,1,9:15 PM,9:58,,,Kilpatrick Free Throw Clear Path 2 of 2 (4 PTS),6 - 5,-1,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+26,0021600139,31,2,1,1,9:15 PM,9:55,,,MISS Kilpatrick 27' 3PT Jump Shot,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+27,0021600139,32,4,0,1,9:15 PM,9:53,Len REBOUND (Off:1 Def:1),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+28,0021600139,33,7,5,1,9:15 PM,9:43,,,Booker Violation:Kicked Ball (K.Scott),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+29,0021600139,34,2,1,1,9:16 PM,9:37,MISS Booker 18' Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+30,0021600139,35,4,0,1,9:16 PM,9:35,,,Bogdanovic REBOUND (Off:0 Def:1),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+31,0021600139,36,1,1,1,9:16 PM,9:27,,,Booker 26' 3PT Jump Shot (3 PTS) (Bogdanovic 1 AST),9 - 5,-4,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+32,0021600139,37,1,101,1,9:16 PM,9:11,Warren 9' Driving Floating Jump Shot (2 PTS),,,9 - 7,-2,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+33,0021600139,38,2,79,1,9:17 PM,8:52,,,MISS Hollis-Jefferson 15' Pullup Jump Shot,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+34,0021600139,39,4,0,1,9:17 PM,8:50,Bledsoe REBOUND (Off:0 Def:2),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+35,0021600139,40,2,1,1,9:17 PM,8:44,MISS Booker 28' 3PT Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+36,0021600139,41,4,0,1,9:17 PM,8:42,,,Lopez REBOUND (Off:0 Def:1),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+37,0021600139,42,2,1,1,9:17 PM,8:35,,,MISS Lopez 26' 3PT Jump Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+38,0021600139,43,4,0,1,9:17 PM,8:33,Len REBOUND (Off:1 Def:2),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+39,0021600139,44,2,51,1,9:17 PM,8:25,MISS Len  Reverse Dunk,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+40,0021600139,45,4,0,1,9:17 PM,8:24,,,Hollis-Jefferson REBOUND (Off:0 Def:2),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+41,0021600139,46,1,1,1,9:17 PM,8:16,,,Kilpatrick 26' 3PT Jump Shot (7 PTS) (Hollis-Jefferson 1 AST),12 - 7,-5,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+42,0021600139,47,9,1,1,9:17 PM,8:12,SUNS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+43,0021600139,50,8,0,1,9:19 PM,8:12,,,SUB: Hamilton FOR Booker,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,5,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+44,0021600139,51,2,42,1,9:20 PM,7:59,MISS Chriss 1' Driving Layup,,Lopez BLOCK (3 BLK),,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1
+45,0021600139,52,4,0,1,9:20 PM,7:56,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+46,0021600139,53,2,79,1,9:20 PM,7:51,MISS Bledsoe 16' Pullup Jump Shot,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+47,0021600139,54,4,0,1,9:20 PM,7:50,,,Hollis-Jefferson REBOUND (Off:0 Def:3),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+48,0021600139,55,10,0,1,9:21 PM,7:42,Jump Ball Chriss vs. Hollis-Jefferson: Tip to Len,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,1
+49,0021600139,56,5,2,1,9:21 PM,7:42,Chriss STEAL (1 STL),,Hollis-Jefferson Lost Ball Turnover (P1.T1),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+50,0021600139,57,1,42,1,9:21 PM,7:27,Chriss 1' Driving Layup (2 PTS),,,12 - 9,-3,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+51,0021600139,58,2,85,1,9:21 PM,7:14,,,MISS Lopez 14' Turnaround Bank Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+52,0021600139,59,4,0,1,9:21 PM,7:13,Booker REBOUND (Off:0 Def:1),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+53,0021600139,60,5,1,1,9:21 PM,7:03,Chriss Bad Pass Turnover (P1.T2),,Hamilton STEAL (1 STL),,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+54,0021600139,61,2,1,1,9:22 PM,6:58,,,MISS Bogdanovic 24' 3PT Jump Shot,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+55,0021600139,62,4,0,1,9:22 PM,6:55,Chriss REBOUND (Off:0 Def:2),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+56,0021600139,63,2,1,1,9:22 PM,6:44,MISS Chriss 4' Jump Shot,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+57,0021600139,64,4,0,1,9:22 PM,6:42,,,Hamilton REBOUND (Off:0 Def:1),,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+58,0021600139,65,2,42,1,9:22 PM,6:32,,,MISS Hollis-Jefferson 1' Driving Layup,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+59,0021600139,66,4,0,1,9:22 PM,6:32,Len REBOUND (Off:1 Def:3),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+60,0021600139,67,2,79,1,9:22 PM,6:26,MISS Warren 21' Pullup Jump Shot,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+61,0021600139,68,4,0,1,9:22 PM,6:24,,,Bogdanovic REBOUND (Off:0 Def:2),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+62,0021600139,69,5,1,1,9:22 PM,6:20,Bledsoe STEAL (1 STL),,Kilpatrick Bad Pass Turnover (P1.T2),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+63,0021600139,70,1,1,1,9:22 PM,6:05,Chriss 20' Jump Shot (4 PTS) (Bledsoe 1 AST),,,12 - 11,-1,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+64,0021600139,71,2,1,1,9:23 PM,5:45,,,MISS Kilpatrick 26' 3PT Jump Shot,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+65,0021600139,72,4,0,1,9:23 PM,5:44,Bledsoe REBOUND (Off:0 Def:3),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+66,0021600139,73,2,79,1,9:23 PM,5:39,MISS Bledsoe 28' 3PT Pullup Jump Shot,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+67,0021600139,74,4,0,1,9:23 PM,5:36,,,Kilpatrick REBOUND (Off:0 Def:2),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+68,0021600139,75,2,98,1,9:23 PM,5:27,,,MISS Kilpatrick 3' Cutting Layup Shot,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+69,0021600139,76,4,0,1,9:23 PM,5:26,Bledsoe REBOUND (Off:0 Def:4),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+70,0021600139,77,2,1,1,9:23 PM,5:16,MISS Booker 14' Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+71,0021600139,78,4,0,1,9:23 PM,5:15,Chriss REBOUND (Off:1 Def:2),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+72,0021600139,79,5,1,1,9:23 PM,5:11,Chriss Bad Pass Turnover (P2.T3),,Lopez STEAL (1 STL),,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+73,0021600139,80,5,1,1,9:23 PM,5:10,Bledsoe STEAL (2 STL),,Lopez Bad Pass Turnover (P1.T3),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+74,0021600139,81,1,108,1,9:23 PM,5:05,Chriss  Cutting Dunk Shot (6 PTS) (Bledsoe 2 AST),,,12 - 13,1,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+75,0021600139,82,2,42,1,9:24 PM,4:47,,,MISS Bogdanovic 1' Driving Layup,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+76,0021600139,83,4,0,1,9:24 PM,4:46,Booker REBOUND (Off:0 Def:2),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+77,0021600139,84,2,1,1,9:24 PM,4:42,MISS Warren 7' Jump Shot,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+78,0021600139,85,4,0,1,9:24 PM,4:40,,,Lopez REBOUND (Off:0 Def:2),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+79,0021600139,86,6,1,1,9:24 PM,4:36,Chriss P.FOUL (P1.T2) (D.Crawford),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+80,0021600139,87,8,0,1,9:24 PM,4:36,,,SUB: Harris FOR Hollis-Jefferson,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+81,0021600139,88,8,0,1,9:24 PM,4:36,,,SUB: Booker FOR Lopez,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+82,0021600139,89,8,0,1,9:24 PM,4:36,,,SUB: Hollis-Jefferson FOR Bogdanovic,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+83,0021600139,131,8,0,1,9:24 PM,4:36,SUB: Dudley FOR Chriss,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+84,0021600139,132,8,0,1,9:24 PM,4:36,SUB: Knight FOR Bledsoe,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+85,0021600139,90,1,1,1,9:25 PM,4:29,,,Hollis-Jefferson 5' Jump Shot (4 PTS),14 - 13,-1,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+86,0021600139,91,6,2,1,9:25 PM,4:29,Knight S.FOUL (P1.T3) (C.Washington),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+87,0021600139,92,8,0,1,9:25 PM,4:29,SUB: Tucker FOR Len,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+88,0021600139,95,3,10,1,9:25 PM,4:29,,,Hollis-Jefferson Free Throw 1 of 1 (5 PTS),15 - 13,-2,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+89,0021600139,97,2,42,1,9:25 PM,4:16,MISS Booker 2' Driving Layup,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+90,0021600139,98,4,0,1,9:25 PM,4:15,,,Hollis-Jefferson REBOUND (Off:0 Def:4),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+91,0021600139,99,1,3,1,9:25 PM,4:05,,,Hamilton 4' Hook Shot (2 PTS) (Hollis-Jefferson 2 AST),17 - 13,-4,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+92,0021600139,100,1,63,1,9:26 PM,3:59,Booker 12' Fadeaway Jumper (2 PTS) (Knight 1 AST),,,17 - 15,-2,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+93,0021600139,101,6,29,1,9:26 PM,3:59,,,Hollis-Jefferson Shooting Block Foul (P2.T3) (C.Washington),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+94,0021600139,102,8,0,1,9:26 PM,3:59,,,SUB: Bogdanovic FOR Hollis-Jefferson,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+95,0021600139,103,3,10,1,9:26 PM,3:59,Booker Free Throw 1 of 1 (3 PTS),,,17 - 16,-1,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+96,0021600139,105,5,1,1,9:26 PM,3:47,Booker STEAL (1 STL),,Hamilton Bad Pass Turnover (P1.T4),,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+97,0021600139,106,1,1,1,9:26 PM,3:39,Dudley 26' 3PT Jump Shot (3 PTS) (Knight 2 AST),,,17 - 19,2,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+98,0021600139,107,1,1,1,9:27 PM,3:27,,,Harris 25' 3PT Jump Shot (3 PTS) (Kilpatrick 1 AST),20 - 19,-1,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+99,0021600139,108,2,1,1,9:27 PM,3:14,MISS Knight 26' 3PT Jump Shot,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+100,0021600139,109,4,0,1,9:27 PM,3:12,,,Kilpatrick REBOUND (Off:0 Def:3),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+101,0021600139,110,2,78,1,9:27 PM,3:07,,,MISS Kilpatrick 5' Floating Jump Shot,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+102,0021600139,111,4,0,1,9:27 PM,3:03,Knight REBOUND (Off:0 Def:1),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+103,0021600139,112,2,1,1,9:27 PM,2:56,MISS Booker 24' 3PT Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+104,0021600139,113,4,0,1,9:27 PM,2:54,,,Kilpatrick REBOUND (Off:0 Def:4),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+105,0021600139,114,9,1,1,9:27 PM,2:46,,,Nets Timeout: Regular (Reg.1 Short 0),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+106,0021600139,117,8,0,1,9:29 PM,2:46,SUB: Bledsoe FOR Booker,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+107,0021600139,119,8,0,1,9:30 PM,2:46,,,SUB: Foye FOR Kilpatrick,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,5,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+108,0021600139,120,8,0,1,9:30 PM,2:46,,,SUB: Scola FOR Hamilton,,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,5,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+109,0021600139,121,2,1,1,9:30 PM,2:45,,,MISS Harris 21' Jump Shot,,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+110,0021600139,122,4,0,1,9:30 PM,2:45,Knight REBOUND (Off:0 Def:2),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+111,0021600139,125,2,1,1,9:30 PM,2:33,MISS Dudley 19' Jump Shot,,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+112,0021600139,126,4,0,1,9:30 PM,2:33,,,Bogdanovic REBOUND (Off:0 Def:3),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+113,0021600139,127,5,41,1,9:31 PM,2:14,,,Scola Poss Lost Ball Turnover (P1.T5),,,5.0,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+114,0021600139,129,2,1,1,9:31 PM,2:03,MISS Tucker 24' 3PT Jump Shot,,,,,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+115,0021600139,130,4,0,1,9:31 PM,2:01,,,Foye REBOUND (Off:0 Def:1),,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+116,0021600139,133,1,1,1,9:31 PM,1:41,,,Harris 27' 3PT Jump Shot (6 PTS) (Booker 1 AST),23 - 19,-4,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+117,0021600139,134,6,3,1,9:31 PM,1:35,,,Booker L.B.FOUL (P1.T4) (D.Crawford),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+118,0021600139,135,2,1,1,9:32 PM,1:23,MISS Warren  3PT Jump Shot,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+119,0021600139,136,4,0,1,9:32 PM,1:23,Tucker REBOUND (Off:1 Def:0),,,,,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+120,0021600139,137,2,1,1,9:32 PM,1:18,MISS Dudley 26' 3PT Jump Shot,,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+121,0021600139,138,4,0,1,9:32 PM,1:18,,,Booker REBOUND (Off:0 Def:1),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+122,0021600139,140,5,41,1,9:32 PM,1:10,,,Bogdanovic Poss Lost Ball Turnover (P1.T6),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+123,0021600139,141,2,1,1,9:33 PM,0:54,MISS Knight 24' 3PT Jump Shot,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+124,0021600139,142,4,0,1,9:33 PM,0:51,,,Scola REBOUND (Off:0 Def:1),,,5.0,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+125,0021600139,143,2,1,1,9:33 PM,0:36,,,MISS Foye 27' 3PT Jump Shot,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+126,0021600139,144,4,0,1,9:33 PM,0:36,Knight REBOUND (Off:0 Def:3),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+127,0021600139,145,6,1,1,9:33 PM,0:32,,,Foye P.FOUL (P1.PN) (K.Scott),,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,4,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+128,0021600139,146,3,11,1,9:34 PM,0:32,Tucker Free Throw 1 of 2 (1 PTS),,,23 - 20,-3,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+129,0021600139,148,3,12,1,9:34 PM,0:32,Tucker Free Throw 2 of 2 (2 PTS),,,23 - 21,-2,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+130,0021600139,150,5,2,1,9:35 PM,0:32,Warren STEAL (1 STL),,Bogdanovic Lost Ball Turnover (P2.T7),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+131,0021600139,151,2,79,1,9:35 PM,0:03,MISS Bledsoe 17' Pullup Jump Shot,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+132,0021600139,152,4,0,1,9:35 PM,0:02,,,Bogdanovic REBOUND (Off:0 Def:4),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+133,0021600139,153,13,0,1,9:35 PM,0:00,,,,23 - 21,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+134,0021600139,155,12,0,2,9:38 PM,12:00,,,,23 - 21,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+135,0021600139,156,1,101,2,9:38 PM,11:44,,,Foye 9' Driving Floating Jump Shot (2 PTS),25 - 21,-4,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+136,0021600139,157,1,102,2,9:38 PM,11:29,Knight 15' Driving Floating Bank Jump Shot (2 PTS),,,25 - 23,-2,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+137,0021600139,158,2,1,2,9:39 PM,11:06,,,MISS Bogdanovic 26' 3PT Jump Shot,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+138,0021600139,159,4,0,2,9:39 PM,11:06,Tucker REBOUND (Off:1 Def:1),,,,,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+139,0021600139,161,7,2,2,9:39 PM,11:00,,,Bogdanovic Violation:Defensive Goaltending (K.Scott),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+140,0021600139,160,1,5,2,9:39 PM,11:00,Bender 1' Layup (2 PTS) (Tucker 1 AST),,,25 - 25,TIE,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,4,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+141,0021600139,162,2,1,2,9:39 PM,10:33,,,MISS Foye 28' 3PT Jump Shot,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+142,0021600139,163,4,0,2,9:39 PM,10:33,Tucker REBOUND (Off:1 Def:2),,,,,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+143,0021600139,164,2,42,2,9:39 PM,10:23,MISS Knight 3' Driving Layup,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+144,0021600139,165,4,0,2,9:39 PM,10:22,Knight REBOUND (Off:1 Def:3),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+145,0021600139,166,2,72,2,9:39 PM,10:21,MISS Knight 2' Putback Layup,,Hamilton BLOCK (1 BLK),,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,1
+146,0021600139,167,4,0,2,9:39 PM,10:20,,,Hamilton REBOUND (Off:0 Def:2),,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+147,0021600139,168,6,2,2,9:40 PM,10:11,Tucker S.FOUL (P1.T1) (D.Crawford),,,,,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,5,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+148,0021600139,169,3,13,2,9:40 PM,10:11,,,Hamilton Free Throw 1 of 3 (3 PTS),26 - 25,-1,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+149,0021600139,171,3,14,2,9:40 PM,10:11,,,Hamilton Free Throw 2 of 3 (4 PTS),27 - 25,-2,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+150,0021600139,173,3,15,2,9:41 PM,10:11,,,MISS Hamilton Free Throw 3 of 3,,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+151,0021600139,175,4,0,2,9:41 PM,10:11,Bender REBOUND (Off:0 Def:1),,,,,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+152,0021600139,176,2,1,2,9:41 PM,9:54,MISS Barbosa 26' 3PT Jump Shot,,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+153,0021600139,177,4,0,2,9:41 PM,9:54,,,Hamilton REBOUND (Off:0 Def:3),,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+154,0021600139,178,1,98,2,9:41 PM,9:40,,,Scola 1' Cutting Layup Shot (2 PTS) (Foye 1 AST),29 - 25,-4,5.0,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,5,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+155,0021600139,179,2,42,2,9:41 PM,9:18,MISS Knight 3' Driving Layup,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+156,0021600139,180,4,0,2,9:41 PM,9:17,,,Scola REBOUND (Off:0 Def:2),,,5.0,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+157,0021600139,181,1,1,2,9:42 PM,9:05,,,Scola 26' 3PT Jump Shot (5 PTS) (Ferrell 1 AST),32 - 25,-7,5.0,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,5,1627812,Yogi Ferrell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+158,0021600139,182,1,1,2,9:42 PM,8:50,Bender  3PT Jump Shot (5 PTS) (Barbosa 1 AST),,,32 - 28,-4,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,4,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+159,0021600139,183,1,42,2,9:42 PM,8:36,,,Ferrell 1' Driving Layup (2 PTS),34 - 28,-6,5.0,1627812,Yogi Ferrell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+160,0021600139,184,2,1,2,9:42 PM,8:23,MISS Knight 27' 3PT Jump Shot,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+161,0021600139,185,4,0,2,9:42 PM,8:23,,,Foye REBOUND (Off:0 Def:2),,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+162,0021600139,186,2,5,2,9:42 PM,8:17,,,MISS Scola 2' Layup,,,5.0,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+163,0021600139,187,4,0,2,9:42 PM,8:16,Tucker REBOUND (Off:1 Def:3),,,,,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+164,0021600139,188,1,98,2,9:43 PM,8:06,Dudley 2' Cutting Layup Shot (5 PTS) (Tucker 2 AST),,,34 - 30,-4,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,4,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+165,0021600139,189,1,1,2,9:43 PM,7:42,,,Foye 27' 3PT Jump Shot (5 PTS) (Ferrell 2 AST),37 - 30,-7,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,5,1627812,Yogi Ferrell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+166,0021600139,190,6,2,2,9:43 PM,7:20,,,Foye S.FOUL (P2.T1) (K.Scott),,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,4,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+167,0021600139,191,9,4,2,9:44 PM,7:20,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+168,0021600139,194,8,0,2,9:46 PM,7:20,,,SUB: Lopez FOR Bogdanovic,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+169,0021600139,195,8,0,2,9:46 PM,7:20,,,SUB: Hollis-Jefferson FOR Scola,,,5.0,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+170,0021600139,196,3,11,2,9:46 PM,7:20,Tucker Free Throw 1 of 2 (3 PTS),,,37 - 31,-6,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+171,0021600139,198,3,12,2,9:46 PM,7:20,Tucker Free Throw 2 of 2 (4 PTS),,,37 - 32,-5,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+172,0021600139,200,1,80,2,9:47 PM,7:03,,,Hollis-Jefferson 15' Step Back Jump Shot (7 PTS),39 - 32,-7,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+173,0021600139,201,5,1,2,9:47 PM,6:45,Knight Bad Pass Turnover (P1.T4),,Foye STEAL (1 STL),,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,5,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+174,0021600139,202,6,26,2,9:47 PM,6:34,,,Lopez Offensive Charge Foul (P2.T2) (K.Scott),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+175,0021600139,203,5,5,2,9:47 PM,6:34,,,Lopez Foul Turnover (P2.T8),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+176,0021600139,204,8,0,2,9:47 PM,6:34,SUB: Bledsoe FOR Knight,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+177,0021600139,205,2,1,2,9:48 PM,6:18,MISS Bender 27' 3PT Jump Shot,,,,,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+178,0021600139,206,4,0,2,9:48 PM,6:18,Tucker REBOUND (Off:2 Def:3),,,,,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+179,0021600139,207,1,72,2,9:48 PM,6:15,Tucker 2' Putback Layup (6 PTS),,,39 - 34,-5,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+180,0021600139,208,6,2,2,9:48 PM,5:54,Bender S.FOUL (P1.T2) (D.Crawford),,,,,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+181,0021600139,209,9,1,2,9:48 PM,5:54,SUNS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+182,0021600139,211,8,0,2,9:51 PM,5:54,SUB: Booker FOR Dudley,,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+183,0021600139,212,8,0,2,9:51 PM,5:54,SUB: Warren FOR Barbosa,,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+184,0021600139,213,8,0,2,9:51 PM,5:54,SUB: Len FOR Bender,,,,,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+185,0021600139,214,8,0,2,9:51 PM,5:54,,,SUB: Harris FOR Hamilton,,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+186,0021600139,215,8,0,2,9:51 PM,5:54,,,SUB: Kilpatrick FOR Foye,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+187,0021600139,216,8,0,2,9:51 PM,5:54,,,SUB: Booker FOR Ferrell,,,5.0,1627812,Yogi Ferrell,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+188,0021600139,217,3,11,2,9:51 PM,5:54,,,Hollis-Jefferson Free Throw 1 of 2 (8 PTS),40 - 34,-6,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+189,0021600139,219,3,12,2,9:51 PM,5:54,,,Hollis-Jefferson Free Throw 2 of 2 (9 PTS),41 - 34,-7,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+190,0021600139,221,2,1,2,9:52 PM,5:42,MISS Booker 19' Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+191,0021600139,222,4,0,2,9:52 PM,5:42,,,Hollis-Jefferson REBOUND (Off:0 Def:5),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+192,0021600139,223,2,1,2,9:52 PM,5:24,,,MISS Harris 28' 3PT Jump Shot,,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+193,0021600139,224,4,0,2,9:52 PM,5:24,,,Booker REBOUND (Off:1 Def:1),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+194,0021600139,225,1,1,2,9:52 PM,5:19,,,Harris 26' 3PT Jump Shot (9 PTS) (Booker 2 AST),44 - 34,-10,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+195,0021600139,226,2,42,2,9:52 PM,5:03,MISS Bledsoe 2' Driving Layup,,Hollis-Jefferson BLOCK (1 BLK),,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,1
+196,0021600139,227,4,0,2,9:52 PM,5:02,,,Hollis-Jefferson REBOUND (Off:0 Def:6),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+197,0021600139,228,2,41,2,9:52 PM,4:58,,,MISS Booker 1' Running Layup,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+198,0021600139,229,4,0,2,9:52 PM,4:58,,,Nets Rebound,,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+199,0021600139,230,2,41,2,9:53 PM,4:52,,,MISS Hollis-Jefferson 1' Running Layup,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+200,0021600139,232,4,0,2,9:53 PM,4:49,,,Booker REBOUND (Off:2 Def:1),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+201,0021600139,233,1,97,2,9:53 PM,4:46,,,Booker 1' Tip Layup Shot (5 PTS),46 - 34,-12,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+202,0021600139,234,2,1,2,9:53 PM,4:26,MISS Tucker  3PT Jump Shot,,,,,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+203,0021600139,235,4,0,2,9:53 PM,4:26,,,Kilpatrick REBOUND (Off:0 Def:5),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+204,0021600139,236,6,1,2,9:53 PM,4:21,Bledsoe P.FOUL (P2.T3) (D.Crawford),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+205,0021600139,237,8,0,2,9:54 PM,4:21,SUB: Chriss FOR Tucker,,,,,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,4,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+206,0021600139,238,5,4,2,9:54 PM,4:12,,,Lopez Traveling Turnover (P3.T9),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+207,0021600139,239,2,79,2,9:54 PM,3:58,MISS Booker 24' 3PT Pullup Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+208,0021600139,240,4,0,2,9:54 PM,3:57,,,Hollis-Jefferson REBOUND (Off:0 Def:7),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+209,0021600139,241,5,39,2,9:54 PM,3:47,,,Harris Step Out of Bounds Turnover (P1.T10),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+210,0021600139,242,2,63,2,9:55 PM,3:39,MISS Booker 7' Fadeaway Jumper,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+211,0021600139,243,4,0,2,9:55 PM,3:39,Booker REBOUND (Off:1 Def:2),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+212,0021600139,244,1,1,2,9:55 PM,3:37,Booker 9' Jump Shot (5 PTS),,,46 - 36,-10,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+213,0021600139,245,2,1,2,9:55 PM,3:26,,,MISS Lopez 27' 3PT Jump Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+214,0021600139,246,4,0,2,9:55 PM,3:25,,,Harris REBOUND (Off:1 Def:0),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+215,0021600139,247,2,1,2,9:55 PM,3:21,,,MISS Kilpatrick 25' 3PT Jump Shot,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+216,0021600139,248,4,0,2,9:55 PM,3:20,Bledsoe REBOUND (Off:0 Def:5),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+217,0021600139,250,1,108,2,9:56 PM,3:06,Chriss  Cutting Dunk Shot (8 PTS) (Bledsoe 3 AST),,,46 - 38,-8,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+218,0021600139,251,1,1,2,9:56 PM,2:50,,,Lopez 13' Jump Shot (2 PTS) (Harris 1 AST),48 - 38,-10,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+219,0021600139,252,2,80,2,9:56 PM,2:40,MISS Warren 16' Step Back Jump Shot,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+220,0021600139,253,4,0,2,9:56 PM,2:38,,,Booker REBOUND (Off:2 Def:2),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+221,0021600139,254,1,101,2,9:56 PM,2:32,,,Booker 4' Driving Floating Jump Shot (7 PTS),50 - 38,-12,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+222,0021600139,256,9,2,2,9:56 PM,2:25,SUNS Timeout: Short (Full 2 Short 1),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+223,0021600139,260,9,1,2,9:59 PM,2:25,,,Nets Timeout: Regular (Reg.2 Short 0),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+224,0021600139,261,1,1,2,10:00 PM,2:25,Chriss 24' 3PT Jump Shot (11 PTS) (Warren 1 AST),,,50 - 41,-9,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+225,0021600139,262,1,1,2,10:00 PM,2:11,,,Kilpatrick 27' 3PT Jump Shot (10 PTS) (Booker 3 AST),53 - 41,-12,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+226,0021600139,263,2,1,2,10:00 PM,1:55,MISS Chriss 24' 3PT Jump Shot,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+227,0021600139,264,4,0,2,10:00 PM,1:55,,,Hollis-Jefferson REBOUND (Off:0 Def:8),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+228,0021600139,265,1,79,2,10:00 PM,1:41,,,Hollis-Jefferson 10' Pullup Jump Shot (11 PTS),55 - 41,-14,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+229,0021600139,266,6,4,2,10:01 PM,1:16,Warren OFF.Foul (P1) (C.Washington),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+230,0021600139,267,5,5,2,10:01 PM,1:16,Warren Foul Turnover (P1.T5),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+231,0021600139,268,6,2,2,10:01 PM,1:08,Len S.FOUL (P1.T4) (D.Crawford),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+232,0021600139,269,3,11,2,10:02 PM,1:08,,,Harris Free Throw 1 of 2 (10 PTS),56 - 41,-15,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+233,0021600139,271,8,0,2,10:02 PM,1:08,,,SUB: Hamilton FOR Lopez,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+234,0021600139,272,3,12,2,10:02 PM,1:08,,,Harris Free Throw 2 of 2 (11 PTS),57 - 41,-16,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+235,0021600139,274,1,108,2,10:02 PM,0:55,Warren  Cutting Dunk Shot (4 PTS) (Bledsoe 4 AST),,,57 - 43,-14,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+236,0021600139,275,5,1,2,10:02 PM,0:47,,,Kilpatrick Bad Pass Turnover (P2.T11),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+237,0021600139,276,2,1,2,10:03 PM,0:31,MISS Chriss 15' Jump Shot,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+238,0021600139,277,4,0,2,10:03 PM,0:31,Bledsoe REBOUND (Off:1 Def:5),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+239,0021600139,278,2,101,2,10:03 PM,0:07,MISS Booker 8' Driving Floating Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+240,0021600139,280,4,0,2,10:03 PM,0:07,Warren REBOUND (Off:2 Def:0),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+241,0021600139,279,1,107,2,10:03 PM,0:07,Warren 3' Tip Dunk Shot (6 PTS),,,57 - 45,-12,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+242,0021600139,281,6,2,2,10:03 PM,0:03,Booker S.FOUL (P1.PN) (C.Washington),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+243,0021600139,282,3,11,2,10:04 PM,0:03,,,Hollis-Jefferson Free Throw 1 of 2 (12 PTS),58 - 45,-13,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+244,0021600139,286,3,12,2,10:05 PM,0:03,,,MISS Hollis-Jefferson Free Throw 2 of 2,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+245,0021600139,288,4,0,2,10:05 PM,0:03,Chriss REBOUND (Off:1 Def:3),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+246,0021600139,289,2,1,2,10:05 PM,0:02,MISS Warren 49' 3PT Jump Shot,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+247,0021600139,291,4,0,2,10:05 PM,0:00,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+248,0021600139,290,13,0,2,10:05 PM,0:00,,,,58 - 45,-13,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+249,0021600139,292,12,0,3,10:22 PM,12:00,,,,58 - 45,-13,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+250,0021600139,294,2,1,3,10:23 PM,11:40,,,MISS Kilpatrick 26' 3PT Jump Shot,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+251,0021600139,295,4,0,3,10:23 PM,11:39,Booker REBOUND (Off:1 Def:3),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+252,0021600139,296,1,5,3,10:23 PM,11:33,Len 2' Layup (5 PTS),,,58 - 47,-11,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+253,0021600139,297,6,2,3,10:23 PM,11:33,,,Kilpatrick S.FOUL (P1.T1) (C.Washington),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+254,0021600139,298,3,10,3,10:23 PM,11:33,MISS Len Free Throw 1 of 1,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+255,0021600139,300,4,0,3,10:23 PM,11:32,,,Kilpatrick REBOUND (Off:0 Def:6),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+256,0021600139,301,1,101,3,10:23 PM,11:20,,,Bogdanovic 12' Driving Floating Jump Shot (2 PTS),60 - 47,-13,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+257,0021600139,302,1,1,3,10:24 PM,11:00,Chriss 26' 3PT Jump Shot (14 PTS) (Bledsoe 5 AST),,,60 - 50,-10,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+258,0021600139,303,2,1,3,10:24 PM,10:50,,,MISS Lopez 26' 3PT Jump Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+259,0021600139,304,4,0,3,10:24 PM,10:49,Bledsoe REBOUND (Off:1 Def:6),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+260,0021600139,305,1,7,3,10:24 PM,10:37,Len  Dunk (7 PTS) (Bledsoe 6 AST),,,60 - 52,-8,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+261,0021600139,306,6,2,3,10:24 PM,10:24,Warren S.FOUL (P2.T1) (D.Crawford),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+262,0021600139,307,3,11,3,10:25 PM,10:24,,,MISS Bogdanovic Free Throw 1 of 2,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+263,0021600139,308,4,1,3,10:25 PM,10:24,,,Nets Rebound,,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+264,0021600139,309,3,12,3,10:25 PM,10:24,,,Bogdanovic Free Throw 2 of 2 (3 PTS),61 - 52,-9,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+265,0021600139,311,2,98,3,10:25 PM,10:15,MISS Chriss 1' Cutting Layup Shot,,Lopez BLOCK (4 BLK),,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1
+266,0021600139,312,4,0,3,10:25 PM,10:14,,,Lopez REBOUND (Off:0 Def:3),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+267,0021600139,313,6,2,3,10:26 PM,10:00,Chriss S.FOUL (P2.T2) (K.Scott),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+268,0021600139,314,3,11,3,10:26 PM,10:00,,,Lopez Free Throw 1 of 2 (3 PTS),62 - 52,-10,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+269,0021600139,316,3,12,3,10:26 PM,10:00,,,Lopez Free Throw 2 of 2 (4 PTS),63 - 52,-11,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+270,0021600139,318,6,1,3,10:27 PM,9:45,,,Lopez P.FOUL (P3.T2) (C.Washington),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+271,0021600139,319,1,1,3,10:27 PM,9:35,Bledsoe 26' 3PT Jump Shot (5 PTS) (Booker 2 AST),,,63 - 55,-8,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+272,0021600139,320,2,1,3,10:27 PM,9:14,,,MISS Kilpatrick 17' Jump Shot,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+273,0021600139,321,4,0,3,10:27 PM,9:14,,,Booker REBOUND (Off:3 Def:2),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+274,0021600139,322,2,3,3,10:27 PM,9:09,,,MISS Booker 12' Hook Shot,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+275,0021600139,323,4,0,3,10:27 PM,9:08,Len REBOUND (Off:1 Def:4),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+276,0021600139,324,1,78,3,10:28 PM,9:00,Warren 11' Floating Jump Shot (8 PTS) (Bledsoe 7 AST),,,63 - 57,-6,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+277,0021600139,325,9,1,3,10:28 PM,8:59,,,Nets Timeout: Regular (Reg.3 Short 0),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+278,0021600139,329,2,42,3,10:30 PM,8:44,Len BLOCK (1 BLK),,MISS Hollis-Jefferson 1' Driving Layup,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,1
+279,0021600139,330,4,0,3,10:30 PM,8:43,,,Nets Rebound,,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+280,0021600139,331,1,101,3,10:31 PM,8:37,,,Kilpatrick 10' Driving Floating Jump Shot (12 PTS),65 - 57,-8,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+281,0021600139,332,1,79,3,10:31 PM,8:23,Warren 18' Pullup Jump Shot (10 PTS),,,65 - 59,-6,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+282,0021600139,334,6,2,3,10:31 PM,8:11,Warren S.FOUL (P3.T3) (C.Washington),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+283,0021600139,335,3,11,3,10:32 PM,8:11,,,Hollis-Jefferson Free Throw 1 of 2 (13 PTS),66 - 59,-7,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+284,0021600139,337,8,0,3,10:32 PM,8:11,,,SUB: Hamilton FOR Booker,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,5,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+285,0021600139,338,3,12,3,10:32 PM,8:11,,,Hollis-Jefferson Free Throw 2 of 2 (14 PTS),67 - 59,-8,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+286,0021600139,340,2,79,3,10:32 PM,8:01,MISS Warren 15' Pullup Jump Shot,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+287,0021600139,341,4,0,3,10:32 PM,8:01,,,Kilpatrick REBOUND (Off:0 Def:7),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+288,0021600139,342,6,29,3,10:32 PM,7:56,Booker Shooting Block Foul (P2.T4) (K.Scott),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+289,0021600139,343,3,11,3,10:33 PM,7:56,,,Hollis-Jefferson Free Throw 1 of 2 (15 PTS),68 - 59,-9,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+290,0021600139,345,8,0,3,10:33 PM,7:56,SUB: Knight FOR Booker,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+291,0021600139,346,3,12,3,10:33 PM,7:56,,,Hollis-Jefferson Free Throw 2 of 2 (16 PTS),69 - 59,-10,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+292,0021600139,348,5,1,3,10:33 PM,7:42,Bledsoe Bad Pass Turnover (P2.T6),,Hollis-Jefferson STEAL (1 STL),,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+293,0021600139,349,5,2,3,10:33 PM,7:38,Warren STEAL (2 STL),,Hollis-Jefferson Lost Ball Turnover (P2.T12),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+294,0021600139,350,1,42,3,10:33 PM,7:34,Warren 1' Driving Layup (12 PTS),,,69 - 61,-8,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+295,0021600139,351,2,1,3,10:34 PM,7:16,,,MISS Bogdanovic 26' 3PT Jump Shot,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+296,0021600139,352,4,0,3,10:34 PM,7:16,Len REBOUND (Off:1 Def:5),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+297,0021600139,353,2,1,3,10:34 PM,7:02,MISS Chriss 27' 3PT Jump Shot,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+298,0021600139,354,4,0,3,10:34 PM,7:01,Len REBOUND (Off:2 Def:5),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+299,0021600139,355,5,1,3,10:34 PM,6:59,Len Bad Pass Turnover (P1.T7),,Hamilton STEAL (2 STL),,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+300,0021600139,356,1,1,3,10:34 PM,6:50,,,Bogdanovic 24' 3PT Jump Shot (6 PTS) (Kilpatrick 2 AST),72 - 61,-11,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+301,0021600139,357,9,1,3,10:35 PM,6:48,SUNS Timeout: Regular (Full 3 Short 1),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+302,0021600139,359,8,0,3,10:37 PM,6:48,SUB: Dudley FOR Chriss,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+303,0021600139,360,8,0,3,10:37 PM,6:48,,,SUB: Harris FOR Bogdanovic,,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+304,0021600139,361,6,2,3,10:37 PM,6:32,,,Kilpatrick S.FOUL (P2.T3) (K.Scott),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+305,0021600139,362,3,11,3,10:37 PM,6:32,Bledsoe Free Throw 1 of 2 (6 PTS),,,72 - 62,-10,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+306,0021600139,364,3,12,3,10:37 PM,6:32,MISS Bledsoe Free Throw 2 of 2,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+307,0021600139,366,4,0,3,10:38 PM,6:32,,,Lopez REBOUND (Off:0 Def:4),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+308,0021600139,367,1,108,3,10:38 PM,6:20,,,Kilpatrick  Cutting Dunk Shot (14 PTS) (Lopez 2 AST),74 - 62,-12,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+309,0021600139,368,2,79,3,10:38 PM,6:10,MISS Knight 15' Pullup Jump Shot,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+310,0021600139,370,4,0,3,10:38 PM,6:08,Len REBOUND (Off:3 Def:5),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+311,0021600139,369,1,97,3,10:38 PM,6:08,Len 2' Tip Layup Shot (9 PTS),,,74 - 64,-10,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+312,0021600139,371,1,63,3,10:38 PM,5:54,,,Lopez 14' Fadeaway Jumper (6 PTS),76 - 64,-12,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+313,0021600139,372,2,1,3,10:38 PM,5:44,MISS Warren 27' 3PT Jump Shot,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+314,0021600139,373,4,0,3,10:38 PM,5:44,Bledsoe REBOUND (Off:2 Def:6),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+315,0021600139,374,6,2,3,10:38 PM,5:41,,,Harris S.FOUL (P1.T4) (D.Crawford),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+316,0021600139,375,3,11,3,10:39 PM,5:41,Len Free Throw 1 of 2 (10 PTS),,,76 - 65,-11,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+317,0021600139,377,8,0,3,10:39 PM,5:41,SUB: Ulis FOR Bledsoe,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+318,0021600139,378,3,12,3,10:39 PM,5:41,MISS Len Free Throw 2 of 2,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+319,0021600139,380,4,0,3,10:39 PM,5:41,,,Kilpatrick REBOUND (Off:0 Def:8),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+320,0021600139,381,2,42,3,10:40 PM,5:25,,,MISS Hollis-Jefferson 1' Driving Layup,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+321,0021600139,382,4,0,3,10:40 PM,5:24,Dudley REBOUND (Off:0 Def:1),,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+322,0021600139,383,1,42,3,10:40 PM,5:12,Knight 1' Driving Layup (4 PTS),,,76 - 67,-9,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+323,0021600139,384,2,5,3,10:40 PM,4:52,Warren BLOCK (1 BLK),,MISS Hollis-Jefferson 1' Layup,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,1
+324,0021600139,385,4,0,3,10:40 PM,4:51,Knight REBOUND (Off:1 Def:4),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+325,0021600139,386,5,41,3,10:40 PM,4:50,Knight Poss Lost Ball Turnover (P2.T8),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+326,0021600139,390,1,5,3,10:40 PM,4:44,,,Kilpatrick 1' Layup (16 PTS),78 - 67,-11,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+327,0021600139,387,6,2,3,10:40 PM,4:44,Ulis S.FOUL (P1.PN) (K.Scott),,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+328,0021600139,388,3,10,3,10:41 PM,4:44,,,MISS Kilpatrick Free Throw 1 of 1,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+329,0021600139,389,4,1,3,10:41 PM,4:44,Len REBOUND (Off:3 Def:6),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+330,0021600139,392,8,0,3,10:42 PM,4:33,,,SUB: Booker FOR Lopez,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+331,0021600139,393,6,1,3,10:42 PM,4:33,,,Booker P.FOUL (P2.PN) (K.Scott),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,4,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+332,0021600139,394,3,11,3,10:42 PM,4:33,Dudley Free Throw 1 of 2 (6 PTS),,,78 - 68,-10,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+333,0021600139,396,3,12,3,10:42 PM,4:33,MISS Dudley Free Throw 2 of 2,,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+334,0021600139,398,4,0,3,10:42 PM,4:32,Dudley REBOUND (Off:1 Def:1),,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+335,0021600139,399,1,42,3,10:43 PM,4:21,Dudley 1' Driving Layup (8 PTS),,,78 - 70,-8,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+336,0021600139,400,1,1,3,10:43 PM,4:03,,,Booker 16' Jump Shot (9 PTS),80 - 70,-10,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+337,0021600139,401,2,101,3,10:43 PM,3:50,MISS Ulis 12' Driving Floating Jump Shot,,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+338,0021600139,402,4,0,3,10:43 PM,3:49,,,Hollis-Jefferson REBOUND (Off:0 Def:9),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+339,0021600139,404,2,79,3,10:43 PM,3:41,,,MISS Hollis-Jefferson 5' Pullup Jump Shot,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+340,0021600139,405,4,0,3,10:43 PM,3:39,Knight REBOUND (Off:1 Def:5),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+341,0021600139,406,5,1,3,10:43 PM,3:30,Ulis Bad Pass Turnover (P1.T9),,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+342,0021600139,407,2,1,3,10:44 PM,3:20,,,MISS Harris 25' 3PT Jump Shot,,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+343,0021600139,408,4,0,3,10:44 PM,3:20,,,Booker REBOUND (Off:4 Def:2),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+344,0021600139,409,2,1,3,10:44 PM,3:00,,,MISS Booker 20' Jump Shot,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+345,0021600139,410,4,0,3,10:44 PM,3:00,,,Harris REBOUND (Off:2 Def:0),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+346,0021600139,411,1,72,3,10:44 PM,2:57,,,Harris 2' Putback Layup (13 PTS),82 - 70,-12,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+347,0021600139,412,1,42,3,10:44 PM,2:46,Warren 3' Driving Layup (14 PTS),,,82 - 72,-10,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+348,0021600139,413,5,1,3,10:45 PM,2:26,Ulis STEAL (1 STL),,Hollis-Jefferson Bad Pass Turnover (P3.T13),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+349,0021600139,414,6,29,3,10:45 PM,2:21,,,Harris Shooting Block Foul (P2.PN) (C.Washington),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+350,0021600139,415,3,11,3,10:45 PM,2:21,Knight Free Throw 1 of 2 (5 PTS),,,82 - 73,-9,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+351,0021600139,417,8,0,3,10:45 PM,2:21,SUB: Booker FOR Warren,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+352,0021600139,418,8,0,3,10:45 PM,2:21,SUB: Tucker FOR Len,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+353,0021600139,419,8,0,3,10:45 PM,2:21,,,SUB: Scola FOR Hollis-Jefferson,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+354,0021600139,420,8,0,3,10:45 PM,2:21,,,SUB: Foye FOR Kilpatrick,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,5,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+355,0021600139,421,8,0,3,10:45 PM,2:21,,,SUB: Ferrell FOR Hamilton,,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,5,1627812,Yogi Ferrell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+356,0021600139,422,3,12,3,10:46 PM,2:21,Knight Free Throw 2 of 2 (6 PTS),,,82 - 74,-8,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+357,0021600139,425,2,1,3,10:46 PM,2:08,,,MISS Ferrell 29' 3PT Jump Shot,,,5.0,1627812,Yogi Ferrell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+358,0021600139,426,4,0,3,10:46 PM,2:07,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+359,0021600139,427,2,98,3,10:46 PM,1:59,MISS Dudley 1' Cutting Layup Shot,,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+360,0021600139,428,4,0,3,10:46 PM,1:58,,,Scola REBOUND (Off:0 Def:3),,,5.0,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+361,0021600139,429,2,79,3,10:46 PM,1:48,,,MISS Foye 25' 3PT Pullup Jump Shot,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+362,0021600139,430,4,0,3,10:46 PM,1:47,Booker REBOUND (Off:1 Def:4),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+363,0021600139,431,1,1,3,10:47 PM,1:38,Dudley  3PT Jump Shot (11 PTS) (Knight 3 AST),,,82 - 77,-5,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+364,0021600139,432,9,2,3,10:47 PM,1:32,,,Nets Timeout: Short (Reg.3 Short 1),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+365,0021600139,436,1,82,3,10:48 PM,1:27,,,Booker 5' Driving Bank Shot (11 PTS),84 - 77,-7,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+366,0021600139,438,2,73,3,10:48 PM,1:14,MISS Ulis 1' Driving Reverse Layup,,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+367,0021600139,439,4,0,3,10:48 PM,1:12,,,Scola REBOUND (Off:0 Def:4),,,5.0,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+368,0021600139,441,1,1,3,10:48 PM,1:03,,,Foye 27' 3PT Jump Shot (8 PTS) (Booker 4 AST),87 - 77,-10,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+369,0021600139,443,1,1,3,10:49 PM,0:43,Dudley 26' 3PT Jump Shot (14 PTS) (Booker 3 AST),,,87 - 80,-7,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+370,0021600139,444,1,1,3,10:49 PM,0:33,,,Scola 25' 3PT Jump Shot (8 PTS) (Foye 2 AST),90 - 80,-10,5.0,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,5,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+371,0021600139,445,2,1,3,10:49 PM,0:14,MISS Tucker  3PT Jump Shot,,,,,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+372,0021600139,446,4,0,3,10:49 PM,0:13,,,Booker REBOUND (Off:4 Def:3),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+373,0021600139,447,6,26,3,10:50 PM,0:06,,,Harris Offensive Charge Foul (P3.PN) (C.Washington),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+374,0021600139,448,5,5,3,10:50 PM,0:06,,,Harris Foul Turnover (P2.T14),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+375,0021600139,449,1,1,3,10:50 PM,0:00,Dudley 26' 3PT Jump Shot (17 PTS) (Knight 4 AST),,,90 - 83,-7,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+376,0021600139,453,18,0,3,10:50 PM,0:00,,,,,,,449,,,,,,0,0,,,,,,1,0,,,,,,0
+377,0021600139,450,13,0,3,10:50 PM,0:00,,,,90 - 83,-7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+378,0021600139,454,12,0,4,10:53 PM,12:00,,,,90 - 83,-7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+379,0021600139,455,2,42,4,10:53 PM,11:43,MISS Knight 1' Driving Layup,,Scola BLOCK (1 BLK),,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,1
+380,0021600139,456,4,0,4,10:53 PM,11:42,Knight REBOUND (Off:2 Def:5),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+381,0021600139,457,2,1,4,10:53 PM,11:35,MISS Knight  3PT Jump Shot,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+382,0021600139,458,4,0,4,10:53 PM,11:35,,,Foye REBOUND (Off:0 Def:3),,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+383,0021600139,459,2,1,4,10:53 PM,11:27,,,MISS Foye 27' 3PT Jump Shot,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+384,0021600139,460,4,0,4,10:53 PM,11:26,Tucker REBOUND (Off:2 Def:4),,,,,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+385,0021600139,461,1,98,4,10:54 PM,11:10,Tucker 2' Cutting Layup Shot (8 PTS) (Dudley 1 AST),,,90 - 85,-5,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,4,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+386,0021600139,462,6,2,4,10:54 PM,11:10,,,Scola S.FOUL (P1.T1) (C.Washington),,,5.0,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,4,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+387,0021600139,463,3,10,4,10:54 PM,11:10,Tucker Free Throw 1 of 1 (9 PTS),,,90 - 86,-4,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+388,0021600139,465,2,42,4,10:54 PM,10:57,,,MISS Foye 2' Driving Layup,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+389,0021600139,466,4,0,4,10:54 PM,10:56,Dudley REBOUND (Off:1 Def:2),,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+390,0021600139,467,2,1,4,10:55 PM,10:50,MISS Booker 27' 3PT Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+391,0021600139,468,4,0,4,10:55 PM,10:49,Dudley REBOUND (Off:2 Def:2),,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+392,0021600139,469,6,4,4,10:55 PM,10:42,Dudley OFF.Foul (P1) (C.Washington),,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+393,0021600139,470,5,5,4,10:55 PM,10:42,Dudley Foul Turnover (P1.T10),,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+394,0021600139,471,6,3,4,10:55 PM,10:22,,,Harris L.B.FOUL (P4.T2) (K.Scott),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+395,0021600139,472,5,5,4,10:55 PM,10:22,,,Harris Foul Turnover (P3.T15),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+396,0021600139,474,6,1,4,10:56 PM,10:14,,,Hamilton P.FOUL (P1.T3) (C.Washington),,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+397,0021600139,475,2,42,4,10:56 PM,10:09,MISS Knight 2' Driving Layup,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+398,0021600139,477,4,0,4,10:57 PM,10:09,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+399,0021600139,476,6,3,4,10:57 PM,10:09,,,Ferrell L.B.FOUL (P1.T4) (D.Crawford),,,5.0,1627812,Yogi Ferrell,1610612751.0,Brooklyn,Nets,BKN,4,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+400,0021600139,478,2,1,4,10:57 PM,9:59,MISS Booker 7' Jump Shot,,Ferrell BLOCK (1 BLK),,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1627812,Yogi Ferrell,1610612751.0,Brooklyn,Nets,BKN,1
+401,0021600139,479,4,0,4,10:57 PM,9:52,,,Ferrell REBOUND (Off:0 Def:1),,,5.0,1627812,Yogi Ferrell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+402,0021600139,480,2,1,4,10:57 PM,9:48,,,MISS Ferrell 25' 3PT Jump Shot,,,5.0,1627812,Yogi Ferrell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+403,0021600139,481,4,0,4,10:57 PM,9:47,Knight REBOUND (Off:2 Def:6),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+404,0021600139,482,1,79,4,10:57 PM,9:37,Ulis 13' Pullup Jump Shot (2 PTS),,,90 - 88,-2,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+405,0021600139,483,6,1,4,10:57 PM,9:24,Tucker P.FOUL (P2.T1) (C.Washington),,,,,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,5,1627812,Yogi Ferrell,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+406,0021600139,484,8,0,4,10:58 PM,9:24,,,SUB: Bogdanovic FOR Ferrell,,,5.0,1627812,Yogi Ferrell,1610612751.0,Brooklyn,Nets,BKN,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+407,0021600139,485,2,1,4,10:58 PM,9:12,,,MISS Harris 26' 3PT Jump Shot,,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+408,0021600139,486,4,0,4,10:58 PM,9:12,Knight REBOUND (Off:2 Def:7),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+409,0021600139,487,5,40,4,10:58 PM,9:04,Tucker Out of Bounds Lost Ball Turnover (P1.T11),,,,,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+410,0021600139,488,1,47,4,10:58 PM,8:49,,,Scola 4' Turnaround Jump Shot (10 PTS) (Foye 3 AST),92 - 88,-4,5.0,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,5,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+411,0021600139,489,2,79,4,10:59 PM,8:31,MISS Knight 19' Pullup Jump Shot,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+412,0021600139,490,4,0,4,10:59 PM,8:29,,,Scola REBOUND (Off:0 Def:5),,,5.0,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+413,0021600139,491,1,1,4,10:59 PM,8:16,,,Harris 27' 3PT Jump Shot (16 PTS) (Bogdanovic 2 AST),95 - 88,-7,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+414,0021600139,492,9,1,4,10:59 PM,8:15,SUNS Timeout: Regular (Full 4 Short 1),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+415,0021600139,494,8,0,4,11:01 PM,8:15,SUB: Bledsoe FOR Ulis,,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+416,0021600139,496,8,0,4,11:02 PM,8:15,,,SUB: Lopez FOR Scola,,,5.0,2449,Luis Scola,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+417,0021600139,497,2,1,4,11:02 PM,8:02,MISS Booker 13' Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+418,0021600139,498,4,0,4,11:02 PM,8:02,,,Nets Rebound,,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+419,0021600139,499,6,2,4,11:02 PM,7:50,Tucker S.FOUL (P3.T2) (K.Scott),,,,,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+420,0021600139,500,3,11,4,11:03 PM,7:50,,,Lopez Free Throw 1 of 2 (7 PTS),96 - 88,-8,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+421,0021600139,502,8,0,4,11:03 PM,7:50,SUB: Len FOR Tucker,,,,,4.0,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+422,0021600139,503,3,12,4,11:03 PM,7:50,,,Lopez Free Throw 2 of 2 (8 PTS),97 - 88,-9,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+423,0021600139,505,6,2,4,11:03 PM,7:40,,,Foye S.FOUL (P3.PN) (D.Crawford),,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+424,0021600139,506,3,13,4,11:04 PM,7:40,MISS Bledsoe Free Throw 1 of 3,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+425,0021600139,507,4,1,4,11:04 PM,7:40,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+426,0021600139,508,3,14,4,11:04 PM,7:40,Bledsoe Free Throw 2 of 3 (7 PTS),,,97 - 89,-8,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+427,0021600139,510,8,0,4,11:04 PM,7:40,SUB: Warren FOR Knight,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+428,0021600139,511,3,15,4,11:04 PM,7:40,Bledsoe Free Throw 3 of 3 (8 PTS),,,97 - 90,-7,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+429,0021600139,513,2,42,4,11:04 PM,7:28,,,MISS Foye 1' Driving Layup,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+430,0021600139,514,4,0,4,11:04 PM,7:26,Len REBOUND (Off:3 Def:7),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+431,0021600139,515,2,42,4,11:05 PM,7:16,MISS Len 2' Driving Layup,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+432,0021600139,517,4,0,4,11:05 PM,7:14,Warren REBOUND (Off:3 Def:0),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+433,0021600139,516,1,97,4,11:05 PM,7:14,Warren 2' Tip Layup Shot (16 PTS),,,97 - 92,-5,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+434,0021600139,518,2,58,4,11:05 PM,7:01,Len BLOCK (2 BLK),,MISS Lopez 4' Turnaround Hook Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,1
+435,0021600139,519,4,0,4,11:05 PM,7:00,Dudley REBOUND (Off:2 Def:3),,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+436,0021600139,520,2,98,4,11:05 PM,6:53,MISS Len 2' Cutting Layup Shot,,Lopez BLOCK (5 BLK),,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1
+437,0021600139,521,4,0,4,11:05 PM,6:53,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+438,0021600139,522,8,0,4,11:05 PM,6:53,,,SUB: Kilpatrick FOR Foye,,,5.0,200751,Randy Foye,1610612751.0,Brooklyn,Nets,BKN,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+439,0021600139,523,1,1,4,11:05 PM,6:48,Warren 18' Jump Shot (18 PTS) (Dudley 2 AST),,,97 - 94,-3,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+440,0021600139,524,8,0,4,11:06 PM,6:33,,,SUB: Hollis-Jefferson FOR Harris,,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+441,0021600139,525,10,0,4,11:06 PM,6:33,Jump Ball Booker vs. Bogdanovic: Tip to Hamilton,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,5,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,1
+442,0021600139,526,1,86,4,11:06 PM,6:22,,,Hollis-Jefferson 7' Turnaround Fadeaway (18 PTS),99 - 94,-5,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+443,0021600139,527,2,1,4,11:06 PM,6:15,MISS Dudley 24' 3PT Jump Shot,,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+444,0021600139,528,4,0,4,11:06 PM,6:14,,,Kilpatrick REBOUND (Off:0 Def:9),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+445,0021600139,529,1,46,4,11:07 PM,6:08,,,Hamilton 24' 3PT Running Jump Shot (7 PTS) (Kilpatrick 3 AST),102 - 94,-8,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+446,0021600139,530,2,79,4,11:07 PM,5:49,MISS Bledsoe 18' Pullup Jump Shot,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+447,0021600139,531,4,0,4,11:07 PM,5:47,,,Lopez REBOUND (Off:0 Def:5),,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+448,0021600139,532,5,2,4,11:07 PM,5:37,Warren STEAL (3 STL),,Kilpatrick Lost Ball Turnover (P3.T16),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+449,0021600139,533,2,41,4,11:07 PM,5:32,MISS Warren 1' Running Layup,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+450,0021600139,536,4,0,4,11:07 PM,5:29,,,Hollis-Jefferson REBOUND (Off:0 Def:10),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+451,0021600139,537,2,1,4,11:07 PM,5:22,,,MISS Kilpatrick 24' 3PT Jump Shot,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+452,0021600139,538,4,0,4,11:07 PM,5:21,Len REBOUND (Off:3 Def:8),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+453,0021600139,539,1,1,4,11:08 PM,5:00,Booker 12' Jump Shot (7 PTS) (Bledsoe 8 AST),,,102 - 96,-6,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+454,0021600139,540,5,1,4,11:08 PM,4:46,Bledsoe STEAL (3 STL),,Kilpatrick Bad Pass Turnover (P4.T17),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+455,0021600139,541,1,41,4,11:08 PM,4:41,Booker 1' Running Layup (9 PTS) (Warren 2 AST),,,102 - 98,-4,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+456,0021600139,542,9,1,4,11:08 PM,4:41,,,Nets Timeout: Regular (Reg.4 Short 1),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+457,0021600139,544,8,0,4,11:10 PM,4:41,,,SUB: Booker FOR Hamilton,,,5.0,203120,Justin Hamilton,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+458,0021600139,545,2,3,4,11:11 PM,4:25,,,MISS Lopez 5' Hook Shot,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+459,0021600139,546,4,0,4,11:11 PM,4:24,Dudley REBOUND (Off:2 Def:4),,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+460,0021600139,547,1,79,4,11:11 PM,4:16,Booker 9' Pullup Jump Shot (11 PTS),,,102 - 100,-2,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+461,0021600139,548,2,102,4,11:11 PM,4:04,,,MISS Kilpatrick 13' Driving Floating Bank Jump Shot,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+462,0021600139,549,4,0,4,11:11 PM,4:02,Booker REBOUND (Off:1 Def:5),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+463,0021600139,550,2,79,4,11:11 PM,3:56,MISS Booker 20' Pullup Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+464,0021600139,551,4,0,4,11:11 PM,3:55,,,Booker REBOUND (Off:4 Def:4),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+465,0021600139,552,1,42,4,11:11 PM,3:48,,,Booker  Driving Layup (13 PTS),104 - 100,-4,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+466,0021600139,553,2,1,4,11:12 PM,3:30,MISS Bledsoe 26' 3PT Jump Shot,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+467,0021600139,554,4,0,4,11:12 PM,3:30,,,Hollis-Jefferson REBOUND (Off:0 Def:11),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+468,0021600139,555,6,2,4,11:12 PM,3:18,Dudley S.FOUL (P2.T3) (C.Washington),,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+469,0021600139,556,3,11,4,11:13 PM,3:18,,,Booker Free Throw 1 of 2 (14 PTS),105 - 100,-5,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+470,0021600139,558,3,12,4,11:13 PM,3:18,,,Booker Free Throw 2 of 2 (15 PTS),106 - 100,-6,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+471,0021600139,560,2,1,4,11:13 PM,3:02,MISS Dudley 25' 3PT Jump Shot,,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+472,0021600139,561,4,0,4,11:13 PM,3:01,,,Hollis-Jefferson REBOUND (Off:0 Def:12),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+473,0021600139,562,6,2,4,11:14 PM,2:49,Dudley S.FOUL (P3.T4) (K.Scott),,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+474,0021600139,563,9,4,4,11:14 PM,2:49,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+475,0021600139,567,3,11,4,11:16 PM,2:49,,,Hollis-Jefferson Free Throw 1 of 2 (19 PTS),107 - 100,-7,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+476,0021600139,569,3,12,4,11:16 PM,2:49,,,Hollis-Jefferson Free Throw 2 of 2 (20 PTS),108 - 100,-8,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+477,0021600139,571,2,101,4,11:17 PM,2:40,MISS Bledsoe 12' Driving Floating Jump Shot,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+478,0021600139,572,4,0,4,11:17 PM,2:39,,,Bogdanovic REBOUND (Off:0 Def:5),,,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+479,0021600139,574,1,98,4,11:17 PM,2:25,,,Booker 3' Cutting Layup Shot (17 PTS) (Hollis-Jefferson 3 AST),110 - 100,-10,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+480,0021600139,575,5,1,4,11:17 PM,2:09,Bledsoe Bad Pass Turnover (P3.T12),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+481,0021600139,576,1,1,4,11:18 PM,1:47,,,Lopez 28' 3PT Jump Shot (11 PTS) (Hollis-Jefferson 4 AST),113 - 100,-13,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+482,0021600139,577,9,1,4,11:18 PM,1:47,SUNS Timeout: Regular (Full 5 Short 1),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+483,0021600139,580,2,1,4,11:20 PM,1:43,MISS Dudley 26' 3PT Jump Shot,,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+484,0021600139,581,4,0,4,11:20 PM,1:43,,,Hollis-Jefferson REBOUND (Off:0 Def:13),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+485,0021600139,582,6,2,4,11:20 PM,1:33,Len S.FOUL (P2.PN) (C.Washington),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+486,0021600139,583,6,11,4,11:20 PM,1:33,Len T.FOUL (P2.PN) (D.Crawford),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+487,0021600139,584,3,16,4,11:20 PM,1:33,,,Bogdanovic Free Throw Technical (7 PTS),114 - 100,-14,5.0,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+488,0021600139,586,3,11,4,11:21 PM,1:33,,,Booker Free Throw 1 of 2 (18 PTS),115 - 100,-15,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+489,0021600139,588,8,0,4,11:21 PM,1:33,,,SUB: Harris FOR Lopez,,,5.0,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+490,0021600139,589,3,12,4,11:21 PM,1:33,,,Booker Free Throw 2 of 2 (19 PTS),116 - 100,-16,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+491,0021600139,591,9,2,4,11:21 PM,1:32,SUNS Timeout: Short (Full 5 Short 2),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+492,0021600139,592,8,0,4,11:22 PM,1:32,SUB: Chriss FOR Warren,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+493,0021600139,593,8,0,4,11:22 PM,1:32,SUB: Ulis FOR Len,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+494,0021600139,594,8,0,4,11:22 PM,1:32,SUB: Bender FOR Booker,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+495,0021600139,595,8,0,4,11:22 PM,1:32,SUB: Jenkins FOR Bledsoe,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,203098,John Jenkins,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+496,0021600139,596,8,0,4,11:22 PM,1:32,SUB: Williams FOR Dudley,,,,,4.0,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,4,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+497,0021600139,597,8,0,4,11:22 PM,1:32,,,SUB: Bennett FOR Hollis-Jefferson,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,203461,Anthony Bennett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+498,0021600139,598,8,0,4,11:22 PM,1:32,,,SUB: Ferrell FOR Booker,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,5,1627812,Yogi Ferrell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+499,0021600139,599,2,80,4,11:23 PM,1:17,MISS Chriss 19' Step Back Jump Shot,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+500,0021600139,600,4,0,4,11:23 PM,1:16,,,Bennett REBOUND (Off:0 Def:1),,,5.0,203461,Anthony Bennett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+501,0021600139,601,1,79,4,11:23 PM,0:57,,,Kilpatrick 27' 3PT Pullup Jump Shot (19 PTS),119 - 100,-19,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+502,0021600139,602,2,1,4,11:23 PM,0:47,MISS Jenkins 24' 3PT Jump Shot,,,,,4.0,203098,John Jenkins,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+503,0021600139,604,4,0,4,11:23 PM,0:47,Chriss REBOUND (Off:2 Def:3),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+504,0021600139,603,1,107,4,11:23 PM,0:47,Chriss  Tip Dunk Shot (16 PTS),,,119 - 102,-17,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+505,0021600139,605,1,1,4,11:24 PM,0:27,,,Harris 27' 3PT Jump Shot (19 PTS) (Kilpatrick 4 AST),122 - 102,-20,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+506,0021600139,606,1,3,4,11:24 PM,0:19,Williams 6' Hook Shot (2 PTS) (Ulis 1 AST),,,122 - 104,-18,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+507,0021600139,607,13,0,4,11:24 PM,0:00,,,,122 - 104,-18,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

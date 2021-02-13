@@ -1,0 +1,484 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021900614,2,12,0,1,7:42 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021900614,4,10,0,1,7:42 PM,12:00,Jump Ball Gibson vs. Ayton: Tip to Saric,,,,,4,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,1
+2,0021900614,7,2,1,1,7:42 PM,11:43,,,MISS Saric 25' 3PT Jump Shot,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+3,0021900614,8,4,0,1,7:42 PM,11:41,Payton REBOUND (Off:0 Def:1),,,,,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+4,0021900614,9,2,47,1,7:43 PM,11:33,MISS Randle 11' Turnaround Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+5,0021900614,10,4,0,1,7:43 PM,11:30,,,Ayton REBOUND (Off:0 Def:1),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+6,0021900614,11,5,1,1,7:43 PM,11:22,Payton STEAL (1 STL),,Rubio Bad Pass Turnover (P1.T1),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+7,0021900614,13,2,6,1,7:43 PM,11:17,MISS Barrett 2' Driving Layup,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+8,0021900614,14,4,0,1,7:43 PM,11:16,Barrett REBOUND (Off:1 Def:0),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+9,0021900614,15,2,97,1,7:43 PM,11:16,MISS Barrett 1' Tip Layup Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+10,0021900614,16,4,0,1,7:43 PM,11:14,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+11,0021900614,18,6,2,1,7:43 PM,11:00,Barrett S.FOUL (P1.T1) (T.Maddox),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+12,0021900614,20,3,11,1,7:44 PM,11:00,,,MISS Booker Free Throw 1 of 2,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+13,0021900614,21,4,1,1,7:44 PM,11:00,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+14,0021900614,22,3,12,1,7:44 PM,11:00,,,Booker Free Throw 2 of 2 (1 PTS),1 - 0,-1,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+15,0021900614,23,1,7,1,7:44 PM,10:48,Gibson 1' Dunk (2 PTS) (Barrett 1 AST),,,1 - 2,1,4,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+16,0021900614,25,1,52,1,7:44 PM,10:31,,,Ayton 1' Alley Oop Dunk (2 PTS) (Rubio 1 AST),3 - 2,-1,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+17,0021900614,27,1,6,1,7:45 PM,10:16,Randle 1' Driving Layup (2 PTS),,,3 - 4,1,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+18,0021900614,28,6,1,1,7:45 PM,10:05,Randle P.FOUL (P1.T2) (E.Malloy),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+19,0021900614,30,6,4,1,7:45 PM,10:05,,,Booker OFF.Foul (P1) (T.Maddox),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+20,0021900614,32,5,37,1,7:45 PM,10:05,,,Booker Offensive Foul Turnover (P1.T2),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+21,0021900614,33,1,98,1,7:46 PM,9:50,Payton 1' Cutting Layup Shot (2 PTS) (Barrett 2 AST),,,3 - 6,3,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+22,0021900614,35,2,1,1,7:46 PM,9:30,,,MISS Bridges 24' 3PT Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+23,0021900614,36,4,0,1,7:46 PM,9:28,,,Saric REBOUND (Off:1 Def:0),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+24,0021900614,37,1,72,1,7:46 PM,9:28,,,Saric 1' Putback Layup (2 PTS),5 - 6,1,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+25,0021900614,38,2,5,1,7:46 PM,9:15,MISS Randle 1' Layup,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+26,0021900614,39,4,0,1,7:46 PM,9:13,Randle REBOUND (Off:1 Def:0),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+27,0021900614,40,2,1,1,7:47 PM,9:07,MISS Barrett  3PT Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+28,0021900614,41,4,0,1,7:47 PM,9:05,,,Rubio REBOUND (Off:0 Def:1),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+29,0021900614,42,2,79,1,7:47 PM,9:02,,,MISS Rubio 8' Pullup Jump Shot,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+30,0021900614,43,4,0,1,7:47 PM,9:00,Barrett REBOUND (Off:1 Def:1),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+31,0021900614,44,6,2,1,7:47 PM,8:55,,,Saric S.FOUL (P1.T1) (D.Richardson),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+32,0021900614,46,3,11,1,7:47 PM,8:55,Barrett Free Throw 1 of 2 (1 PTS),,,5 - 7,2,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+33,0021900614,47,3,12,1,7:47 PM,8:55,MISS Barrett Free Throw 2 of 2,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+34,0021900614,48,4,0,1,7:47 PM,8:54,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+35,0021900614,50,1,73,1,7:48 PM,8:42,,,Rubio 1' Driving Reverse Layup (2 PTS) (Saric 1 AST),7 - 7,TIE,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+36,0021900614,52,1,6,1,7:48 PM,8:31,Gibson 2' Driving Layup (4 PTS) (Payton 1 AST),,,7 - 9,2,4,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+37,0021900614,54,6,2,1,7:48 PM,8:31,,,Booker S.FOUL (P2.T2) (T.Maddox),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+38,0021900614,56,3,10,1,7:49 PM,8:31,Gibson Free Throw 1 of 1 (5 PTS),,,7 - 10,3,4,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+39,0021900614,57,1,47,1,7:49 PM,8:17,,,Ayton 13' Turnaround Jump Shot (4 PTS) (Rubio 2 AST),9 - 10,1,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+40,0021900614,59,2,101,1,7:49 PM,8:00,MISS Barrett 4' Driving Floating Jump Shot,,Ayton BLOCK (1 BLK),,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1
+41,0021900614,61,4,0,1,7:49 PM,7:58,,,Ayton REBOUND (Off:0 Def:2),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+42,0021900614,62,2,66,1,7:49 PM,7:50,,,MISS Rubio 8' Jump Bank Shot,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+43,0021900614,63,4,0,1,7:49 PM,7:48,Barrett REBOUND (Off:1 Def:2),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+44,0021900614,64,1,1,1,7:49 PM,7:43,Morris Sr. 25' 3PT Jump Shot (3 PTS) (Payton 2 AST),,,9 - 13,4,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+45,0021900614,66,1,75,1,7:50 PM,7:25,,,Booker 1' Driving Finger Roll Layup (3 PTS),11 - 13,2,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+46,0021900614,68,6,2,1,7:50 PM,7:25,Barrett S.FOUL (P2.T3) (T.Maddox),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+47,0021900614,70,8,0,1,7:50 PM,7:25,SUB: Dotson FOR Barrett,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+48,0021900614,72,3,10,1,7:50 PM,7:25,,,MISS Booker Free Throw 1 of 1,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+49,0021900614,73,4,0,1,7:50 PM,7:23,Gibson REBOUND (Off:0 Def:1),,,,,4,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+50,0021900614,74,1,44,1,7:50 PM,7:13,Payton 3' Reverse Layup (4 PTS),,,11 - 15,4,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+51,0021900614,75,2,101,1,7:51 PM,7:06,,,MISS Booker 3' Driving Floating Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+52,0021900614,76,4,0,1,7:51 PM,7:05,Morris Sr. REBOUND (Off:0 Def:1),,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+53,0021900614,77,2,1,1,7:51 PM,6:50,MISS Payton 24' 3PT Jump Shot,,,,,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+54,0021900614,78,4,0,1,7:51 PM,6:48,,,Saric REBOUND (Off:1 Def:1),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+55,0021900614,79,6,2,1,7:51 PM,6:41,Gibson S.FOUL (P1.T4) (E.Malloy),,,,,4,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+56,0021900614,81,9,1,1,7:52 PM,6:41,KNICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+57,0021900614,82,3,11,1,7:54 PM,6:41,,,Ayton Free Throw 1 of 2 (5 PTS),12 - 15,3,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+58,0021900614,83,3,12,1,7:54 PM,6:41,,,Ayton Free Throw 2 of 2 (6 PTS),13 - 15,2,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+59,0021900614,84,6,2,1,7:55 PM,6:29,,,Saric S.FOUL (P2.T3) (E.Malloy),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+60,0021900614,88,8,0,1,7:55 PM,6:29,,,SUB: Baynes FOR Saric,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+61,0021900614,86,3,13,1,7:55 PM,6:29,Morris Sr. Free Throw 1 of 3 (4 PTS),,,13 - 16,3,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+62,0021900614,87,3,14,1,7:55 PM,6:29,Morris Sr. Free Throw 2 of 3 (5 PTS),,,13 - 17,4,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+63,0021900614,90,3,15,1,7:56 PM,6:29,Morris Sr. Free Throw 3 of 3 (6 PTS),,,13 - 18,5,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+64,0021900614,91,5,1,1,7:56 PM,6:12,Randle STEAL (1 STL),,Baynes Bad Pass Turnover (P1.T3),,,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+65,0021900614,93,1,3,1,7:56 PM,6:08,Randle 2' Hook Shot (4 PTS),,,13 - 20,7,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+66,0021900614,94,6,2,1,7:56 PM,6:08,,,Baynes S.FOUL (P1.T4) (T.Maddox),,,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+67,0021900614,96,8,0,1,7:56 PM,6:08,SUB: Robinson FOR Gibson,,,,,4,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+68,0021900614,98,3,10,1,7:57 PM,6:08,Randle Free Throw 1 of 1 (5 PTS),,,13 - 21,8,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+69,0021900614,99,5,4,1,7:57 PM,5:59,,,Ayton Traveling Turnover (P1.T4),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+70,0021900614,100,2,80,1,7:57 PM,5:49,MISS Morris Sr. 25' 3PT Step Back Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+71,0021900614,101,4,0,1,7:57 PM,5:47,,,Booker REBOUND (Off:0 Def:1),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+72,0021900614,102,2,1,1,7:58 PM,5:37,,,MISS Booker 24' 3PT Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+73,0021900614,103,4,0,1,7:58 PM,5:35,,,Rubio REBOUND (Off:1 Def:1),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+74,0021900614,104,2,6,1,7:58 PM,5:24,,,MISS Ayton 2' Driving Layup,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+75,0021900614,105,4,0,1,7:58 PM,5:22,,,Ayton REBOUND (Off:1 Def:2),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+76,0021900614,106,1,58,1,7:58 PM,5:21,,,Ayton 5' Turnaround Hook Shot (8 PTS),15 - 21,6,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+77,0021900614,107,1,6,1,7:58 PM,5:11,Randle 2' Driving Layup (7 PTS),,,15 - 23,8,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+78,0021900614,108,1,1,1,7:58 PM,4:50,,,Rubio  3PT Jump Shot (5 PTS) (Bridges 1 AST),18 - 23,5,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+79,0021900614,110,1,79,1,7:59 PM,4:38,Randle 26' 3PT Pullup Jump Shot (10 PTS) (Payton 3 AST),,,18 - 26,8,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+80,0021900614,112,5,45,1,7:59 PM,4:28,,,Rubio Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+81,0021900614,113,8,0,1,7:59 PM,4:28,SUB: Ntilikina FOR Payton,,,,,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+82,0021900614,115,5,40,1,7:59 PM,4:11,Morris Sr. Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+83,0021900614,116,8,0,1,7:59 PM,4:11,,,SUB: Okobo FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+84,0021900614,117,8,0,1,7:59 PM,4:11,,,SUB: Johnson FOR Rubio,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+85,0021900614,120,6,2,1,8:00 PM,3:57,Ntilikina S.FOUL (P1.PN) (D.Richardson),,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+86,0021900614,122,3,11,1,8:00 PM,3:57,,,Booker Free Throw 1 of 2 (4 PTS),19 - 26,7,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+87,0021900614,123,3,12,1,8:00 PM,3:57,,,Booker Free Throw 2 of 2 (5 PTS),20 - 26,6,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+88,0021900614,124,2,101,1,8:01 PM,3:44,MISS Ntilikina 7' Driving Floating Jump Shot,,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+89,0021900614,125,4,0,1,8:01 PM,3:42,,,Ayton REBOUND (Off:1 Def:3),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+90,0021900614,126,1,79,1,8:01 PM,3:38,,,Booker 25' 3PT Pullup Jump Shot (8 PTS),23 - 26,3,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+91,0021900614,127,2,80,1,8:01 PM,3:22,MISS Randle 16' Step Back Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+92,0021900614,128,4,0,1,8:01 PM,3:20,,,Booker REBOUND (Off:0 Def:2),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+93,0021900614,129,2,79,1,8:01 PM,3:15,,,MISS Booker 27' 3PT Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+94,0021900614,130,4,0,1,8:01 PM,3:12,,,Johnson REBOUND (Off:1 Def:0),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+95,0021900614,131,2,1,1,8:01 PM,3:11,,,MISS Booker 25' 3PT Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+96,0021900614,132,4,0,1,8:01 PM,3:08,Robinson REBOUND (Off:0 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+97,0021900614,133,2,1,1,8:01 PM,2:59,MISS Ntilikina 26' 3PT Jump Shot,,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+98,0021900614,134,4,0,1,8:01 PM,2:57,,,Booker REBOUND (Off:0 Def:3),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+99,0021900614,135,9,1,1,8:03 PM,2:47,,,Suns Timeout: Regular (Reg.1 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+100,0021900614,136,8,0,1,8:03 PM,2:47,SUB: Portis FOR Morris Sr.,,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+101,0021900614,137,8,0,1,8:03 PM,2:47,SUB: Knox II FOR Randle,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+102,0021900614,138,8,0,1,8:03 PM,2:47,,,SUB: Diallo FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+103,0021900614,139,8,0,1,8:03 PM,2:47,,,SUB: Carter FOR Booker,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+104,0021900614,703,5,2,1,8:03 PM,2:47,Morris Sr. STEAL (1 STL),,Booker Lost Ball Turnover (P2.T6),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+105,0021900614,144,10,0,1,8:05 PM,2:47,Jump Ball Robinson vs. Okobo: Tip to Knox II,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,1
+106,0021900614,149,1,6,1,8:05 PM,2:31,Ntilikina 3' Driving Layup (2 PTS),,,23 - 28,5,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+107,0021900614,150,2,1,1,8:05 PM,2:13,,,MISS Okobo 26' 3PT Jump Shot,,,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+108,0021900614,151,4,0,1,8:05 PM,2:11,Knox II REBOUND (Off:0 Def:1),,,,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+109,0021900614,152,2,6,1,8:06 PM,2:03,MISS Knox II 5' Driving Layup,,Johnson BLOCK (1 BLK),,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,1
+110,0021900614,154,4,0,1,8:06 PM,2:02,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+111,0021900614,156,2,1,1,8:06 PM,2:00,MISS Knox II 16' Jump Shot,,,,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+112,0021900614,157,4,0,1,8:06 PM,1:59,,,Carter REBOUND (Off:0 Def:1),,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+113,0021900614,158,2,1,1,8:06 PM,1:41,,,MISS Baynes  3PT Jump Shot,,,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+114,0021900614,159,4,0,1,8:06 PM,1:39,,,Okobo REBOUND (Off:1 Def:0),,,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+115,0021900614,160,2,1,1,8:06 PM,1:37,,,MISS Baynes 26' 3PT Jump Shot,,,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+116,0021900614,161,4,0,1,8:06 PM,1:36,Portis REBOUND (Off:0 Def:1),,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+117,0021900614,162,5,2,1,8:06 PM,1:20,Portis Lost Ball Turnover (P1.T2),,Diallo STEAL (1 STL),,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+118,0021900614,164,2,6,1,8:07 PM,1:16,,,MISS Johnson 2' Driving Layup,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+119,0021900614,165,4,0,1,8:07 PM,1:14,Portis REBOUND (Off:0 Def:2),,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+120,0021900614,166,1,80,1,8:07 PM,1:03,Dotson 19' Step Back Jump Shot (2 PTS),,,23 - 30,7,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+121,0021900614,167,1,6,1,8:07 PM,0:51,,,Diallo 1' Driving Layup (2 PTS),25 - 30,5,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+122,0021900614,168,1,52,1,8:07 PM,0:44,Robinson 1' Alley Oop Dunk (2 PTS) (Ntilikina 1 AST),,,25 - 32,7,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+123,0021900614,170,2,79,1,8:07 PM,0:31,,,MISS Carter 19' Pullup Jump Shot,,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+124,0021900614,171,4,0,1,8:07 PM,0:28,Dotson REBOUND (Off:0 Def:1),,,,,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+125,0021900614,172,2,79,1,8:08 PM,0:10,MISS Ntilikina 14' Pullup Jump Shot,,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+126,0021900614,173,4,0,1,8:08 PM,0:08,Portis REBOUND (Off:1 Def:2),,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+127,0021900614,174,2,72,1,8:08 PM,0:07,MISS Portis 1' Putback Layup,,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+128,0021900614,175,4,0,1,8:08 PM,0:06,,,Johnson REBOUND (Off:1 Def:1),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+129,0021900614,176,2,98,1,8:08 PM,0:00,,,MISS Diallo 2' Cutting Layup Shot,,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+130,0021900614,177,4,0,1,8:08 PM,0:00,Portis REBOUND (Off:1 Def:3),,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+131,0021900614,178,13,0,1,8:08 PM,0:00,,,,25 - 32,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+132,0021900614,187,12,0,2,8:11 PM,12:00,,,,25 - 32,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+133,0021900614,188,2,1,2,8:11 PM,11:49,MISS Knox II  3PT Jump Shot,,,,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+134,0021900614,189,4,0,2,8:11 PM,11:47,,,Rubio REBOUND (Off:1 Def:2),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+135,0021900614,190,1,1,2,8:11 PM,11:37,,,Ayton 19' Jump Shot (10 PTS) (Bridges 2 AST),27 - 32,5,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+136,0021900614,192,1,1,2,8:11 PM,11:20,Portis 26' 3PT Jump Shot (3 PTS) (Ntilikina 2 AST),,,27 - 35,8,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+137,0021900614,194,2,5,2,8:12 PM,11:00,,,MISS Ayton 2' Layup,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+138,0021900614,195,4,0,2,8:12 PM,10:58,Knox II REBOUND (Off:0 Def:2),,,,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+139,0021900614,196,5,2,2,8:12 PM,10:50,Barrett Lost Ball Turnover (P1.T3),,Diallo STEAL (2 STL),,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+140,0021900614,198,2,47,2,8:12 PM,10:38,,,MISS Ayton 8' Turnaround Jump Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+141,0021900614,199,4,0,2,8:12 PM,10:35,Knox II REBOUND (Off:0 Def:3),,,,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+142,0021900614,200,2,75,2,8:12 PM,10:31,MISS Ntilikina 2' Driving Finger Roll Layup,,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+143,0021900614,201,4,0,2,8:12 PM,10:29,Robinson REBOUND (Off:1 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+144,0021900614,202,2,87,2,8:12 PM,10:28,MISS Robinson 1' Putback Dunk,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+145,0021900614,203,4,0,2,8:12 PM,10:26,,,Ayton REBOUND (Off:1 Def:4),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+146,0021900614,204,1,6,2,8:12 PM,10:21,,,Bridges 2' Driving Layup (2 PTS) (Rubio 3 AST),29 - 35,6,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+147,0021900614,206,2,58,2,8:13 PM,10:07,MISS Knox II 3' Turnaround Hook Shot,,,,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+148,0021900614,207,4,0,2,8:13 PM,10:05,,,Bridges REBOUND (Off:0 Def:1),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+149,0021900614,208,1,1,2,8:13 PM,10:00,,,Johnson 26' 3PT Jump Shot (3 PTS) (Rubio 4 AST),32 - 35,3,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+150,0021900614,210,2,1,2,8:13 PM,9:42,MISS Barrett 6' Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+151,0021900614,211,4,0,2,8:13 PM,9:41,,,Diallo REBOUND (Off:0 Def:1),,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+152,0021900614,212,6,1,2,8:13 PM,9:31,Barrett P.FOUL (P3.T1) (E.Malloy),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+153,0021900614,214,8,0,2,8:13 PM,9:31,SUB: Dotson FOR Barrett,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+154,0021900614,216,5,1,2,8:14 PM,9:22,Robinson STEAL (1 STL),,Rubio Bad Pass Turnover (P3.T7),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+155,0021900614,218,9,1,2,8:14 PM,9:20,KNICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+156,0021900614,219,2,78,2,8:17 PM,9:02,MISS Portis 11' Floating Jump Shot,,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+157,0021900614,220,4,0,2,8:17 PM,9:00,,,Rubio REBOUND (Off:1 Def:3),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+158,0021900614,221,2,79,2,8:17 PM,8:54,,,MISS Rubio 18' Pullup Jump Shot,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+159,0021900614,222,4,0,2,8:17 PM,8:52,,,Rubio REBOUND (Off:2 Def:3),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+160,0021900614,223,2,66,2,8:17 PM,8:51,,,MISS Rubio 18' Jump Bank Shot,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+161,0021900614,224,4,0,2,8:17 PM,8:49,Portis REBOUND (Off:1 Def:4),,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+162,0021900614,225,1,6,2,8:18 PM,8:35,Knox II 3' Driving Layup (2 PTS),,,32 - 37,5,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+163,0021900614,226,2,78,2,8:18 PM,8:21,,,MISS Johnson 8' Floating Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+164,0021900614,227,4,0,2,8:18 PM,8:18,,,Ayton REBOUND (Off:2 Def:4),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+165,0021900614,228,1,79,2,8:18 PM,8:13,,,Rubio 18' Pullup Jump Shot (7 PTS),34 - 37,3,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+166,0021900614,229,1,80,2,8:18 PM,7:59,Dotson 21' Step Back Jump Shot (4 PTS) (Portis 1 AST),,,34 - 39,5,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+167,0021900614,231,1,1,2,8:19 PM,7:43,,,Johnson 19' Jump Shot (5 PTS) (Rubio 5 AST),36 - 39,3,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+168,0021900614,233,2,1,2,8:19 PM,7:33,MISS Knox II 21' Jump Shot,,,,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+169,0021900614,234,4,0,2,8:19 PM,7:31,,,Ayton REBOUND (Off:2 Def:5),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+170,0021900614,235,5,1,2,8:19 PM,7:27,Robinson STEAL (2 STL),,Rubio Bad Pass Turnover (P4.T8),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+171,0021900614,237,6,2,2,8:19 PM,7:24,,,Ayton S.FOUL (P1.T1) (D.Richardson),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+172,0021900614,239,3,11,2,8:19 PM,7:24,MISS Knox II Free Throw 1 of 2,,,,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+173,0021900614,240,4,1,2,8:19 PM,7:24,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+174,0021900614,241,9,1,2,8:20 PM,7:24,,,Suns Timeout: Regular (Reg.2 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+175,0021900614,242,8,0,2,8:20 PM,7:24,SUB: Randle FOR Ntilikina,,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+176,0021900614,243,8,0,2,8:20 PM,7:24,SUB: Payton FOR Robinson,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+177,0021900614,244,8,0,2,8:20 PM,7:24,,,SUB: Booker FOR Diallo,,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+178,0021900614,245,8,0,2,8:20 PM,7:24,,,SUB: Saric FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+179,0021900614,250,3,12,2,8:23 PM,7:24,Knox II Free Throw 2 of 2 (3 PTS),,,36 - 40,4,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+180,0021900614,251,1,1,2,8:23 PM,7:02,,,Rubio 25' 3PT Jump Shot (10 PTS) (Bridges 3 AST),39 - 40,1,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+181,0021900614,253,2,57,2,8:23 PM,6:46,MISS Randle 4' Driving Hook Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+182,0021900614,254,4,0,2,8:23 PM,6:44,Randle REBOUND (Off:2 Def:0),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+183,0021900614,255,1,72,2,8:23 PM,6:41,Randle 1' Putback Layup (12 PTS),,,39 - 42,3,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+184,0021900614,256,2,6,2,8:24 PM,6:28,,,MISS Saric 1' Driving Layup,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+185,0021900614,257,4,0,2,8:24 PM,6:26,Portis REBOUND (Off:1 Def:5),,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+186,0021900614,258,2,80,2,8:24 PM,6:12,MISS Dotson 19' Step Back Jump Shot,,,,,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+187,0021900614,259,4,0,2,8:24 PM,6:10,,,Bridges REBOUND (Off:0 Def:2),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+188,0021900614,260,1,44,2,8:24 PM,6:03,,,Saric 1' Reverse Layup (4 PTS) (Rubio 6 AST),41 - 42,1,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+189,0021900614,262,5,1,2,8:24 PM,5:53,Payton Bad Pass Turnover (P1.T4),,Booker STEAL (1 STL),,,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+190,0021900614,264,1,76,2,8:24 PM,5:51,,,Booker 1' Running Finger Roll Layup (10 PTS),43 - 42,-1,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+191,0021900614,265,1,98,2,8:24 PM,5:34,Dotson 2' Cutting Layup Shot (6 PTS) (Randle 1 AST),,,43 - 44,1,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+192,0021900614,267,1,73,2,8:25 PM,5:20,,,Rubio 2' Driving Reverse Layup (12 PTS),45 - 44,-1,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+193,0021900614,268,2,1,2,8:25 PM,5:08,MISS Portis 25' 3PT Jump Shot,,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+194,0021900614,269,4,0,2,8:25 PM,5:06,,,Ayton REBOUND (Off:2 Def:6),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+195,0021900614,270,1,79,2,8:25 PM,5:01,,,Rubio 17' Pullup Jump Shot (14 PTS),47 - 44,-3,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+196,0021900614,271,9,1,2,8:25 PM,5:00,KNICKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+197,0021900614,272,8,0,2,8:25 PM,5:00,SUB: Gibson FOR Portis,,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,4,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+198,0021900614,273,8,0,2,8:25 PM,5:00,SUB: Morris Sr. FOR Knox II,,,,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+199,0021900614,276,5,1,2,8:27 PM,4:49,Gibson Bad Pass Turnover (P1.T5),,Rubio STEAL (1 STL),,,4,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+200,0021900614,278,2,1,2,8:27 PM,4:46,,,MISS Rubio 26' 3PT Jump Shot,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+201,0021900614,279,4,0,2,8:27 PM,4:44,,,Ayton REBOUND (Off:3 Def:6),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+202,0021900614,280,1,1,2,8:27 PM,4:43,,,Ayton 10' Jump Shot (12 PTS),49 - 44,-5,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+203,0021900614,281,6,1,2,8:27 PM,4:34,,,Rubio P.FOUL (P1.T2) (D.Richardson),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+204,0021900614,283,6,4,2,8:28 PM,4:30,Gibson OFF.Foul (P2) (D.Richardson),,,,,4,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+205,0021900614,285,5,37,2,8:28 PM,4:30,Gibson Offensive Foul Turnover (P2.T6),,,,,4,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+206,0021900614,286,2,6,2,8:28 PM,4:14,,,MISS Saric 4' Driving Layup,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+207,0021900614,287,4,0,2,8:28 PM,4:12,Morris Sr. REBOUND (Off:0 Def:2),,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+208,0021900614,288,5,40,2,8:28 PM,4:11,Dotson Out of Bounds Lost Ball Turnover (P1.T7),,,,,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+209,0021900614,289,8,0,2,8:28 PM,4:11,,,SUB: Okobo FOR Rubio,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+210,0021900614,291,5,45,2,8:29 PM,4:01,,,Bridges Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+211,0021900614,292,2,80,2,8:29 PM,3:41,MISS Morris Sr. 13' Step Back Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+212,0021900614,293,4,0,2,8:29 PM,3:39,,,Ayton REBOUND (Off:3 Def:7),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+213,0021900614,294,2,1,2,8:29 PM,3:31,,,MISS Saric  3PT Jump Shot,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+214,0021900614,295,4,0,2,8:29 PM,3:29,,,Ayton REBOUND (Off:4 Def:7),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+215,0021900614,296,1,5,2,8:29 PM,3:27,,,Ayton 4' Layup (14 PTS),51 - 44,-7,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+216,0021900614,297,5,1,2,8:29 PM,3:16,Payton Bad Pass Turnover (P2.T8),,Okobo STEAL (1 STL),,,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+217,0021900614,299,1,6,2,8:30 PM,3:13,,,Bridges 1' Driving Layup (4 PTS) (Booker 1 AST),53 - 44,-9,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+218,0021900614,301,6,2,2,8:30 PM,3:13,Dotson S.FOUL (P1.T2) (D.Richardson),,,,,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+219,0021900614,303,8,0,2,8:30 PM,3:13,SUB: Knox II FOR Dotson,,,,,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+220,0021900614,304,8,0,2,8:30 PM,3:13,SUB: Robinson FOR Gibson,,,,,4,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+221,0021900614,307,3,10,2,8:30 PM,3:13,,,MISS Bridges Free Throw 1 of 1,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+222,0021900614,308,4,0,2,8:30 PM,3:11,,,Saric REBOUND (Off:2 Def:1),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+223,0021900614,309,1,6,2,8:30 PM,3:04,,,Booker  Driving Layup (12 PTS) (Ayton 1 AST),55 - 44,-11,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+224,0021900614,311,1,6,2,8:31 PM,2:42,Payton 1' Driving Layup (6 PTS),,,55 - 46,-9,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+225,0021900614,312,2,1,2,8:31 PM,2:21,,,MISS Booker 27' 3PT Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+226,0021900614,313,4,0,2,8:31 PM,2:19,Payton REBOUND (Off:0 Def:2),,,,,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+227,0021900614,314,6,2,2,8:31 PM,2:16,,,Booker S.FOUL (P3.T3) (T.Maddox),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+228,0021900614,317,8,0,2,8:31 PM,2:16,,,SUB: Johnson FOR Booker,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+229,0021900614,318,8,0,2,8:31 PM,2:16,,,SUB: Rubio FOR Okobo,,,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+230,0021900614,316,3,11,2,8:31 PM,2:16,Knox II Free Throw 1 of 2 (4 PTS),,,55 - 47,-8,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+231,0021900614,321,3,12,2,8:31 PM,2:16,MISS Knox II Free Throw 2 of 2,,,,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+232,0021900614,322,4,0,2,8:32 PM,2:14,,,Johnson REBOUND (Off:1 Def:2),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+233,0021900614,323,5,1,2,8:32 PM,2:04,Robinson STEAL (3 STL),,Saric Bad Pass Turnover (P1.T10),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+234,0021900614,325,2,6,2,8:32 PM,1:57,MISS Randle 2' Driving Layup,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+235,0021900614,326,4,0,2,8:32 PM,1:55,,,Rubio REBOUND (Off:2 Def:4),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+236,0021900614,327,5,2,2,8:32 PM,1:48,Knox II STEAL (1 STL),,Bridges Lost Ball Turnover (P2.T11),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+237,0021900614,329,1,1,2,8:33 PM,1:41,Knox II 25' 3PT Jump Shot (7 PTS) (Morris Sr. 1 AST),,,55 - 50,-5,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+238,0021900614,331,2,1,2,8:33 PM,1:20,Robinson BLOCK (1 BLK),,MISS Ayton 17' Jump Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1
+239,0021900614,333,4,0,2,8:33 PM,1:18,Randle REBOUND (Off:2 Def:1),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+240,0021900614,334,1,7,2,8:33 PM,1:14,Robinson 1' Dunk (4 PTS) (Payton 4 AST),,,55 - 52,-3,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+241,0021900614,336,2,1,2,8:33 PM,0:57,,,MISS Rubio 26' 3PT Jump Shot,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+242,0021900614,337,4,0,2,8:33 PM,0:55,Knox II REBOUND (Off:0 Def:4),,,,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+243,0021900614,338,6,1,2,8:34 PM,0:47,,,Rubio P.FOUL (P2.T4) (E.Malloy),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+244,0021900614,340,2,6,2,8:34 PM,0:35,MISS Randle 1' Driving Layup,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+245,0021900614,341,4,0,2,8:34 PM,0:33,,,Rubio REBOUND (Off:2 Def:5),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+246,0021900614,342,6,1,2,8:34 PM,0:32,Payton P.FOUL (P1.T3) (T.Maddox),,,,,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+247,0021900614,344,8,0,2,8:34 PM,0:32,,,SUB: Booker FOR Saric,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+248,0021900614,346,1,1,2,8:35 PM,0:20,,,Bridges  3PT Jump Shot (7 PTS) (Rubio 7 AST),58 - 52,-6,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+249,0021900614,348,2,73,2,8:35 PM,0:03,MISS Payton 2' Driving Reverse Layup,,Ayton BLOCK (2 BLK),,,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1
+250,0021900614,350,4,0,2,8:35 PM,0:01,,,Ayton REBOUND (Off:4 Def:8),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+251,0021900614,376,2,41,2,8:35 PM,0:00,,,MISS Bridges 14' Running Layup,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+252,0021900614,377,4,0,2,8:35 PM,0:00,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+253,0021900614,351,13,0,2,8:35 PM,0:00,,,,58 - 52,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+254,0021900614,358,12,0,3,8:51 PM,12:00,,,,58 - 52,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+255,0021900614,359,1,1,3,8:51 PM,11:50,Morris Sr. 21' Jump Shot (8 PTS) (Payton 5 AST),,,58 - 54,-4,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+256,0021900614,361,1,1,3,8:51 PM,11:28,,,Rubio  3PT Jump Shot (17 PTS) (Booker 2 AST),61 - 54,-7,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+257,0021900614,363,1,75,3,8:52 PM,11:06,Payton 1' Driving Finger Roll Layup (8 PTS),,,61 - 56,-5,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+258,0021900614,364,6,2,3,8:52 PM,11:00,Randle S.FOUL (P2.T1) (D.Richardson),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+259,0021900614,366,3,11,3,8:52 PM,11:00,,,Rubio Free Throw 1 of 2 (18 PTS),62 - 56,-6,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+260,0021900614,367,3,12,3,8:52 PM,11:00,,,Rubio Free Throw 2 of 2 (19 PTS),63 - 56,-7,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+261,0021900614,368,1,6,3,8:53 PM,10:50,Barrett 1' Driving Layup (3 PTS),,,63 - 58,-5,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+262,0021900614,369,1,99,3,8:53 PM,10:39,,,Booker  Cutting Finger Roll Layup Shot (14 PTS) (Saric 2 AST),65 - 58,-7,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+263,0021900614,371,2,79,3,8:53 PM,10:18,MISS Randle 26' 3PT Pullup Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+264,0021900614,372,4,0,3,8:53 PM,10:18,,,Bridges REBOUND (Off:0 Def:3),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+265,0021900614,373,1,108,3,8:53 PM,10:09,,,Ayton 1' Cutting Dunk Shot (16 PTS) (Rubio 8 AST),67 - 58,-9,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+266,0021900614,375,9,1,3,8:53 PM,10:02,KNICKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+267,0021900614,378,2,5,3,8:56 PM,9:56,MISS Randle 4' Layup,,Rubio BLOCK (1 BLK),,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,1
+268,0021900614,380,4,0,3,8:56 PM,9:55,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+269,0021900614,383,1,1,3,8:57 PM,9:47,Randle  3PT Jump Shot (15 PTS) (Payton 6 AST),,,67 - 61,-6,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+270,0021900614,385,1,1,3,8:57 PM,9:27,,,Booker 13' Jump Shot (16 PTS) (Ayton 2 AST),69 - 61,-8,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+271,0021900614,387,6,1,3,8:58 PM,9:12,,,Bridges P.FOUL (P1.T1) (T.Maddox),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+272,0021900614,389,6,1,3,8:58 PM,9:07,,,Bridges P.FOUL (P2.T2) (E.Malloy),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+273,0021900614,391,1,79,3,8:58 PM,8:57,Morris Sr. 19' Pullup Jump Shot (10 PTS) (Randle 2 AST),,,69 - 63,-6,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+274,0021900614,393,6,2,3,8:59 PM,8:57,,,Ayton S.FOUL (P2.T3) (E.Malloy),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+275,0021900614,395,3,10,3,8:59 PM,8:57,MISS Morris Sr. Free Throw 1 of 1,,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+276,0021900614,396,4,0,3,8:59 PM,8:55,,,Booker REBOUND (Off:0 Def:4),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+277,0021900614,397,6,2,3,8:59 PM,8:47,Gibson S.FOUL (P3.T2) (D.Richardson),,,,,4,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+278,0021900614,399,3,11,3,9:00 PM,8:47,,,Booker Free Throw 1 of 2 (17 PTS),70 - 63,-7,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+279,0021900614,400,3,12,3,9:00 PM,8:47,,,Booker Free Throw 2 of 2 (18 PTS),71 - 63,-8,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+280,0021900614,401,2,6,3,9:00 PM,8:30,MISS Randle 1' Driving Layup,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+281,0021900614,402,4,0,3,9:00 PM,8:28,,,Saric REBOUND (Off:2 Def:2),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+282,0021900614,403,1,7,3,9:00 PM,8:19,,,Ayton 1' Dunk (18 PTS) (Saric 3 AST),73 - 63,-10,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+283,0021900614,405,2,79,3,9:01 PM,7:54,MISS Morris Sr. 14' Pullup Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+284,0021900614,406,4,0,3,9:01 PM,7:52,,,Saric REBOUND (Off:2 Def:3),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+285,0021900614,407,6,2,3,9:01 PM,7:36,Payton S.FOUL (P2.T3) (T.Maddox),,,,,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+286,0021900614,409,3,11,3,9:01 PM,7:36,,,Booker Free Throw 1 of 2 (19 PTS),74 - 63,-11,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+287,0021900614,410,3,12,3,9:02 PM,7:36,,,Booker Free Throw 2 of 2 (20 PTS),75 - 63,-12,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+288,0021900614,411,1,1,3,9:02 PM,7:23,Barrett 25' 3PT Jump Shot (6 PTS) (Randle 3 AST),,,75 - 66,-9,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+289,0021900614,413,1,79,3,9:02 PM,7:05,,,Booker 18' Pullup Jump Shot (22 PTS),77 - 66,-11,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+290,0021900614,414,5,2,3,9:02 PM,6:45,Payton Lost Ball Turnover (P3.T9),,Rubio STEAL (2 STL),,,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+291,0021900614,416,1,6,3,9:03 PM,6:40,,,Saric 1' Driving Layup (6 PTS) (Rubio 9 AST),79 - 66,-13,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+292,0021900614,418,9,1,3,9:03 PM,6:40,KNICKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+293,0021900614,419,8,0,3,9:03 PM,6:40,SUB: Ntilikina FOR Payton,,,,,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+294,0021900614,420,8,0,3,9:03 PM,6:40,SUB: Robinson FOR Gibson,,,,,4,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+295,0021900614,423,2,6,3,9:06 PM,6:27,MISS Barrett 2' Driving Layup,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+296,0021900614,424,4,0,3,9:06 PM,6:25,,,Ayton REBOUND (Off:4 Def:9),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+297,0021900614,425,2,101,3,9:06 PM,6:18,,,MISS Saric 4' Driving Floating Jump Shot,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+298,0021900614,426,4,0,3,9:06 PM,6:16,,,Ayton REBOUND (Off:5 Def:9),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+299,0021900614,427,5,1,3,9:06 PM,6:13,Ntilikina STEAL (1 STL),,Ayton Bad Pass Turnover (P2.T12),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+300,0021900614,429,1,9,3,9:06 PM,6:09,Randle 1' Driving Dunk (17 PTS) (Ntilikina 3 AST),,,79 - 68,-11,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+301,0021900614,431,6,1,3,9:06 PM,5:51,Ntilikina P.FOUL (P2.T4) (T.Maddox),,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+302,0021900614,433,2,79,3,9:07 PM,5:45,,,MISS Booker 25' 3PT Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+303,0021900614,434,4,0,3,9:07 PM,5:43,Robinson REBOUND (Off:1 Def:2),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+304,0021900614,435,6,2,3,9:07 PM,5:38,,,Rubio S.FOUL (P3.T4) (E.Malloy),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+305,0021900614,440,8,0,3,9:08 PM,5:38,,,SUB: Okobo FOR Rubio,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+306,0021900614,437,18,0,3,9:08 PM,5:38,,,,79 - 68,-11,0,435,Carlos Rogers,,,,,0,0,,,,,,1,0,,,,,,0
+307,0021900614,438,3,11,3,9:09 PM,5:38,MISS Barrett Free Throw 1 of 2,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+308,0021900614,439,4,1,3,9:09 PM,5:38,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+309,0021900614,442,3,12,3,9:09 PM,5:38,Barrett Free Throw 2 of 2 (7 PTS),,,79 - 69,-10,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+310,0021900614,443,1,1,3,9:09 PM,5:22,,,Saric 25' 3PT Jump Shot (9 PTS) (Booker 3 AST),82 - 69,-13,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+311,0021900614,445,2,47,3,9:10 PM,4:57,MISS Morris Sr. 15' Turnaround Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+312,0021900614,446,4,0,3,9:10 PM,4:55,Robinson REBOUND (Off:2 Def:2),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+313,0021900614,447,5,15,3,9:10 PM,4:54,Robinson Offensive Goaltending Turnover (P1.T10),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+314,0021900614,448,8,0,3,9:10 PM,4:54,SUB: Dotson FOR Barrett,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+315,0021900614,450,2,1,3,9:10 PM,4:39,,,MISS Saric 25' 3PT Jump Shot,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+316,0021900614,451,4,0,3,9:10 PM,4:37,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+317,0021900614,453,8,0,3,9:10 PM,4:37,,,SUB: Baynes FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+318,0021900614,455,6,2,3,9:11 PM,4:21,,,Okobo S.FOUL (P1.PN) (D.Richardson),,,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+319,0021900614,457,3,11,3,9:11 PM,4:21,MISS Morris Sr. Free Throw 1 of 2,,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+320,0021900614,458,4,1,3,9:11 PM,4:21,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+321,0021900614,459,3,12,3,9:12 PM,4:21,Morris Sr. Free Throw 2 of 2 (11 PTS),,,82 - 70,-12,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+322,0021900614,460,2,98,3,9:12 PM,4:11,Ntilikina BLOCK (1 BLK),,MISS Okobo 2' Cutting Layup Shot,,,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,1
+323,0021900614,462,4,0,3,9:12 PM,4:09,Randle REBOUND (Off:2 Def:2),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+324,0021900614,463,1,5,3,9:12 PM,4:03,Randle 3' Layup (19 PTS),,,82 - 72,-10,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+325,0021900614,464,5,1,3,9:12 PM,3:51,Ntilikina STEAL (2 STL),,Booker Bad Pass Turnover (P3.T13),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+326,0021900614,466,2,1,3,9:12 PM,3:45,MISS Dotson 26' 3PT Jump Shot,,,,,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+327,0021900614,467,4,0,3,9:12 PM,3:43,Morris Sr. REBOUND (Off:1 Def:2),,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+328,0021900614,468,6,4,3,9:12 PM,3:39,Randle OFF.Foul (P3) (T.Maddox),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+329,0021900614,470,5,37,3,9:12 PM,3:39,Randle Offensive Foul Turnover (P1.T11),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+330,0021900614,471,8,0,3,9:12 PM,3:39,,,SUB: Johnson FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+331,0021900614,474,2,6,3,9:13 PM,3:23,Robinson BLOCK (2 BLK),,MISS Okobo 2' Driving Layup,,,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1
+332,0021900614,476,4,0,3,9:13 PM,3:22,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+333,0021900614,478,6,4,3,9:14 PM,3:22,,,Booker OFF.Foul (P4) (D.Richardson),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+334,0021900614,480,8,0,3,9:14 PM,3:22,,,SUB: Carter FOR Booker,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+335,0021900614,482,5,37,3,9:14 PM,3:22,,,Booker Offensive Foul Turnover (P4.T14),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+336,0021900614,483,5,2,3,9:14 PM,3:05,Randle Lost Ball Turnover (P2.T12),,Saric STEAL (1 STL),,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+337,0021900614,485,1,50,3,9:15 PM,3:01,,,Johnson 1' Running Dunk (7 PTS) (Carter 1 AST),84 - 72,-12,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+338,0021900614,487,6,1,3,9:15 PM,2:47,,,Okobo P.FOUL (P2.PN) (T.Maddox),,,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+339,0021900614,489,3,11,3,9:15 PM,2:47,MISS Morris Sr. Free Throw 1 of 2,,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+340,0021900614,490,4,1,3,9:15 PM,2:47,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+341,0021900614,493,3,12,3,9:15 PM,2:47,Morris Sr. Free Throw 2 of 2 (12 PTS),,,84 - 73,-11,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+342,0021900614,528,8,0,3,9:15 PM,2:47,SUB: Portis FOR Randle,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+343,0021900614,494,2,1,3,9:16 PM,2:28,,,MISS Johnson 25' 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+344,0021900614,495,4,0,3,9:16 PM,2:26,Robinson REBOUND (Off:2 Def:3),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+345,0021900614,496,6,2,3,9:16 PM,2:13,,,Baynes S.FOUL (P2.PN) (D.Richardson),,,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+346,0021900614,498,3,11,3,9:17 PM,2:13,Robinson Free Throw 1 of 2 (5 PTS),,,84 - 74,-10,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+347,0021900614,501,3,12,3,9:17 PM,2:13,Robinson Free Throw 2 of 2 (6 PTS),,,84 - 75,-9,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+348,0021900614,542,8,0,3,9:17 PM,2:13,,,SUB: Diallo FOR Saric,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+349,0021900614,502,1,1,3,9:17 PM,2:01,,,Johnson 26' 3PT Jump Shot (10 PTS) (Okobo 1 AST),87 - 75,-12,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+350,0021900614,504,6,26,3,9:18 PM,1:48,Ntilikina Offensive Charge Foul (P3.PN) (E.Malloy),,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+351,0021900614,506,5,37,3,9:18 PM,1:48,Ntilikina Offensive Foul Turnover (P1.T13),,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+352,0021900614,507,2,3,3,9:18 PM,1:26,,,MISS Baynes 4' Hook Shot,,,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+353,0021900614,508,4,0,3,9:18 PM,1:24,Portis REBOUND (Off:1 Def:6),,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+354,0021900614,509,6,1,3,9:18 PM,1:17,,,Johnson P.FOUL (P1.PN) (T.Maddox),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+355,0021900614,511,3,11,3,9:19 PM,1:17,Morris Sr. Free Throw 1 of 2 (13 PTS),,,87 - 76,-11,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+356,0021900614,514,3,12,3,9:19 PM,1:17,Morris Sr. Free Throw 2 of 2 (14 PTS),,,87 - 77,-10,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+357,0021900614,547,8,0,3,9:19 PM,1:17,,,SUB: Rubio FOR Carter,,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+358,0021900614,515,2,1,3,9:20 PM,0:58,,,MISS Baynes  3PT Jump Shot,,,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+359,0021900614,516,4,0,3,9:20 PM,0:57,Portis REBOUND (Off:1 Def:7),,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+360,0021900614,517,5,1,3,9:20 PM,0:52,Ntilikina Bad Pass Turnover (P2.T14),,Rubio STEAL (3 STL),,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+361,0021900614,519,1,1,3,9:20 PM,0:38,,,Okobo 25' 3PT Jump Shot (3 PTS) (Baynes 1 AST),90 - 77,-13,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+362,0021900614,521,1,52,3,9:20 PM,0:31,Robinson 1' Alley Oop Dunk (8 PTS) (Ntilikina 4 AST),,,90 - 79,-11,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+363,0021900614,523,2,63,3,9:21 PM,0:13,,,MISS Rubio 10' Fadeaway Jumper,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+364,0021900614,524,4,0,3,9:21 PM,0:11,Portis REBOUND (Off:1 Def:8),,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+365,0021900614,525,2,63,3,9:21 PM,0:01,MISS Morris Sr. 11' Fadeaway Jumper,,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+366,0021900614,526,4,0,3,9:21 PM,0:01,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+367,0021900614,527,13,0,3,9:21 PM,0:00,,,,90 - 79,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+368,0021900614,534,12,0,4,9:24 PM,12:00,,,,90 - 79,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+369,0021900614,535,2,101,4,9:24 PM,11:46,,,MISS Johnson 4' Driving Floating Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+370,0021900614,536,4,0,4,9:24 PM,11:44,,,Johnson REBOUND (Off:2 Def:2),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+371,0021900614,552,2,97,4,9:24 PM,11:44,,,MISS Johnson 1' Tip Layup Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+372,0021900614,553,4,0,4,9:24 PM,11:43,,,Baynes REBOUND (Off:1 Def:0),,,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+373,0021900614,537,1,97,4,9:24 PM,11:41,,,Baynes 1' Tip Layup Shot (2 PTS),92 - 79,-13,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+374,0021900614,538,5,1,4,9:24 PM,11:29,Dotson Bad Pass Turnover (P2.T15),,Diallo STEAL (3 STL),,,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+375,0021900614,540,5,1,4,9:24 PM,11:19,Knox II STEAL (2 STL),,Bridges Bad Pass Turnover (P3.T15),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+376,0021900614,544,1,3,4,9:24 PM,11:04,Portis 8' Hook Shot (5 PTS) (Ntilikina 5 AST),,,92 - 81,-11,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+377,0021900614,546,5,4,4,9:25 PM,10:51,,,Bridges Traveling Turnover (P4.T16),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+378,0021900614,549,6,4,4,9:25 PM,10:36,Knox II OFF.Foul (P1) (E.Malloy),,,,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+379,0021900614,551,5,37,4,9:25 PM,10:36,Knox II Offensive Foul Turnover (P1.T16),,,,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+380,0021900614,554,1,1,4,9:26 PM,10:25,,,Rubio 21' Jump Shot (21 PTS) (Diallo 1 AST),94 - 81,-13,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+381,0021900614,556,2,1,4,9:26 PM,10:07,MISS Portis 24' 3PT Jump Shot,,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+382,0021900614,557,4,0,4,9:26 PM,10:05,,,Baynes REBOUND (Off:1 Def:1),,,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+383,0021900614,558,6,1,4,9:26 PM,9:59,Ntilikina P.FOUL (P4.T1) (D.Richardson),,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+384,0021900614,560,1,1,4,9:27 PM,9:51,,,Baynes 26' 3PT Jump Shot (5 PTS) (Rubio 10 AST),97 - 81,-16,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+385,0021900614,562,9,1,4,9:27 PM,9:43,KNICKS Timeout: Regular (Full 6 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+386,0021900614,563,8,0,4,9:27 PM,9:43,SUB: Payton FOR Ntilikina,,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+387,0021900614,564,8,0,4,9:27 PM,9:43,SUB: Randle FOR Robinson,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+388,0021900614,567,2,1,4,9:30 PM,9:32,MISS Knox II  3PT Jump Shot,,,,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+389,0021900614,568,4,0,4,9:30 PM,9:31,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+390,0021900614,570,1,1,4,9:30 PM,9:16,Randle 21' Jump Shot (21 PTS),,,97 - 83,-14,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+391,0021900614,571,2,79,4,9:31 PM,8:55,,,MISS Rubio 18' Pullup Jump Shot,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+392,0021900614,572,4,0,4,9:31 PM,8:53,Portis REBOUND (Off:1 Def:9),,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+393,0021900614,573,2,1,4,9:31 PM,8:45,MISS Randle 25' 3PT Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+394,0021900614,574,4,0,4,9:31 PM,8:43,,,Rubio REBOUND (Off:2 Def:6),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+395,0021900614,575,5,2,4,9:31 PM,8:36,Randle STEAL (2 STL),,Diallo Lost Ball Turnover (P1.T17),,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+396,0021900614,577,2,1,4,9:31 PM,8:30,MISS Portis 26' 3PT Jump Shot,,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+397,0021900614,578,4,0,4,9:31 PM,8:28,,,Bridges REBOUND (Off:0 Def:4),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+398,0021900614,579,9,1,4,9:31 PM,8:22,,,Suns Timeout: Regular (Reg.3 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+399,0021900614,580,8,0,4,9:31 PM,8:22,SUB: Morris Sr. FOR Knox II,,,,,4,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+400,0021900614,581,8,0,4,9:31 PM,8:22,,,SUB: Booker FOR Diallo,,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+401,0021900614,582,8,0,4,9:31 PM,8:22,,,SUB: Saric FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+402,0021900614,583,8,0,4,9:31 PM,8:22,,,SUB: Ayton FOR Baynes,,,5,203382,Aron Baynes,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+403,0021900614,588,1,52,4,9:36 PM,8:15,,,Ayton 1' Alley Oop Dunk (20 PTS) (Rubio 11 AST),99 - 83,-16,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+404,0021900614,590,2,1,4,9:36 PM,7:57,MISS Dotson  3PT Jump Shot,,,,,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+405,0021900614,591,4,0,4,9:36 PM,7:55,,,Ayton REBOUND (Off:5 Def:10),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+406,0021900614,592,1,1,4,9:36 PM,7:46,,,Booker 25' 3PT Jump Shot (25 PTS) (Bridges 4 AST),102 - 83,-19,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+407,0021900614,594,2,1,4,9:36 PM,7:33,MISS Randle 26' 3PT Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+408,0021900614,595,4,0,4,9:36 PM,7:31,,,Bridges REBOUND (Off:0 Def:5),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+409,0021900614,596,2,1,4,9:37 PM,7:15,,,MISS Booker  3PT Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+410,0021900614,597,4,0,4,9:37 PM,7:14,Dotson REBOUND (Off:0 Def:2),,,,,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+411,0021900614,598,6,1,4,9:37 PM,7:13,,,Booker P.FOUL (P5.T1) (D.Richardson),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+412,0021900614,600,8,0,4,9:37 PM,7:13,SUB: Robinson FOR Portis,,,,,4,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+413,0021900614,601,8,0,4,9:37 PM,7:13,,,SUB: Johnson FOR Booker,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+414,0021900614,605,1,52,4,9:38 PM,6:57,Robinson 2' Alley Oop Dunk (10 PTS) (Payton 7 AST),,,102 - 85,-17,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+415,0021900614,607,1,79,4,9:38 PM,6:42,,,Rubio 16' Pullup Jump Shot (23 PTS),104 - 85,-19,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+416,0021900614,608,2,6,4,9:38 PM,6:32,MISS Payton 2' Driving Layup,,,,,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+417,0021900614,609,4,0,4,9:38 PM,6:31,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+418,0021900614,611,1,66,4,9:38 PM,6:16,,,Rubio 8' Jump Bank Shot (25 PTS),106 - 85,-21,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+419,0021900614,612,1,79,4,9:39 PM,6:00,Morris Sr. 26' 3PT Pullup Jump Shot (17 PTS),,,106 - 88,-18,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+420,0021900614,613,6,2,4,9:39 PM,5:47,Robinson S.FOUL (P1.T2) (T.Maddox),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+421,0021900614,615,3,11,4,9:39 PM,5:47,,,Ayton Free Throw 1 of 2 (21 PTS),107 - 88,-19,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+422,0021900614,616,8,0,4,9:39 PM,5:47,SUB: Allen FOR Dotson,,,,,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,4,1628443,Kadeem Allen,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+423,0021900614,617,8,0,4,9:39 PM,5:47,SUB: Ntilikina FOR Payton,,,,,4,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+424,0021900614,620,3,12,4,9:40 PM,5:47,,,Ayton Free Throw 2 of 2 (22 PTS),108 - 88,-20,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+425,0021900614,621,2,1,4,9:40 PM,5:35,MISS Allen 25' 3PT Jump Shot,,,,,4,1628443,Kadeem Allen,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+426,0021900614,622,4,0,4,9:40 PM,5:33,Ntilikina REBOUND (Off:1 Def:0),,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+427,0021900614,623,2,6,4,9:40 PM,5:28,MISS Randle 2' Driving Layup,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+428,0021900614,624,4,0,4,9:40 PM,5:27,Robinson REBOUND (Off:3 Def:3),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+429,0021900614,625,2,97,4,9:40 PM,5:27,MISS Robinson 1' Tip Layup Shot,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+430,0021900614,626,4,0,4,9:40 PM,5:25,Robinson REBOUND (Off:4 Def:3),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+431,0021900614,627,1,72,4,9:40 PM,5:25,Robinson 1' Putback Layup (12 PTS),,,108 - 90,-18,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+432,0021900614,628,6,2,4,9:40 PM,5:25,,,Johnson S.FOUL (P2.T2) (T.Maddox),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+433,0021900614,630,8,0,4,9:40 PM,5:25,,,SUB: Booker FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+434,0021900614,632,3,10,4,9:41 PM,5:25,MISS Robinson Free Throw 1 of 1,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+435,0021900614,633,4,0,4,9:41 PM,5:22,,,Ayton REBOUND (Off:5 Def:11),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+436,0021900614,634,6,1,4,9:41 PM,5:15,Ntilikina P.FOUL (P5.T3) (T.Maddox),,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+437,0021900614,636,6,1,4,9:41 PM,5:06,Allen P.FOUL (P1.T4) (D.Richardson),,,,,4,1628443,Kadeem Allen,1610612752.0,New York,Knicks,NYK,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+438,0021900614,638,1,52,4,9:42 PM,4:57,,,Ayton 1' Alley Oop Dunk (24 PTS) (Booker 4 AST),110 - 90,-20,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+439,0021900614,640,2,1,4,9:42 PM,4:43,MISS Ntilikina 23' Jump Shot,,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+440,0021900614,641,4,0,4,9:42 PM,4:41,,,Ayton REBOUND (Off:5 Def:12),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+441,0021900614,642,2,1,4,9:42 PM,4:23,,,MISS Saric 24' 3PT Jump Shot,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+442,0021900614,643,4,0,4,9:42 PM,4:21,Randle REBOUND (Off:2 Def:3),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+443,0021900614,644,5,1,4,9:43 PM,4:05,Allen Bad Pass Turnover (P1.T17),,Rubio STEAL (4 STL),,,4,1628443,Kadeem Allen,1610612752.0,New York,Knicks,NYK,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+444,0021900614,646,6,1,4,9:43 PM,3:59,Robinson P.FOUL (P2.PN) (T.Maddox),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+445,0021900614,648,3,11,4,9:43 PM,3:59,,,Booker Free Throw 1 of 2 (26 PTS),111 - 90,-21,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+446,0021900614,649,3,12,4,9:43 PM,3:59,,,Booker Free Throw 2 of 2 (27 PTS),112 - 90,-22,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+447,0021900614,650,2,66,4,9:44 PM,3:48,MISS Ntilikina 12' Jump Bank Shot,,,,,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+448,0021900614,651,4,0,4,9:44 PM,3:46,,,Ayton REBOUND (Off:5 Def:13),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+449,0021900614,652,5,1,4,9:44 PM,3:34,Randle STEAL (3 STL),,Johnson Bad Pass Turnover (P1.T18),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+450,0021900614,654,2,1,4,9:44 PM,3:22,MISS Morris Sr. 27' 3PT Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+451,0021900614,655,4,0,4,9:44 PM,3:20,,,Ayton REBOUND (Off:5 Def:14),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+452,0021900614,656,1,98,4,9:44 PM,3:13,,,Booker 1' Cutting Layup Shot (29 PTS) (Rubio 12 AST),114 - 90,-24,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+453,0021900614,658,2,1,4,9:44 PM,2:59,MISS Allen 21' Jump Shot,,,,,4,1628443,Kadeem Allen,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+454,0021900614,659,4,0,4,9:44 PM,2:57,,,Ayton REBOUND (Off:5 Def:15),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+455,0021900614,660,2,47,4,9:45 PM,2:42,,,MISS Booker 12' Turnaround Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+456,0021900614,661,4,0,4,9:45 PM,2:40,,,Ayton REBOUND (Off:6 Def:15),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+457,0021900614,662,1,1,4,9:45 PM,2:37,,,Saric 12' Jump Shot (11 PTS),116 - 90,-26,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+458,0021900614,663,2,80,4,9:45 PM,2:22,MISS Morris Sr. 25' 3PT Step Back Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+459,0021900614,664,4,0,4,9:45 PM,2:20,,,Saric REBOUND (Off:2 Def:4),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+460,0021900614,665,1,52,4,9:45 PM,2:15,,,Ayton 1' Alley Oop Dunk (26 PTS) (Rubio 13 AST),118 - 90,-28,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+461,0021900614,667,6,28,4,9:45 PM,2:10,,,Rubio Personal Take Foul (P4.T3) (E.Malloy),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+462,0021900614,669,8,0,4,9:45 PM,2:10,,,SUB: Diallo FOR Rubio,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+463,0021900614,670,8,0,4,9:45 PM,2:10,,,SUB: Jerome FOR Saric,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+464,0021900614,671,8,0,4,9:45 PM,2:10,,,SUB: Carter FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+465,0021900614,672,8,0,4,9:45 PM,2:10,,,SUB: Lecque FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1629665,Jalen Lecque,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+466,0021900614,673,8,0,4,9:45 PM,2:10,,,SUB: Okobo FOR Booker,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+467,0021900614,679,1,9,4,9:46 PM,1:56,Randle 1' Driving Dunk (23 PTS) (Allen 1 AST),,,118 - 92,-26,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628443,Kadeem Allen,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+468,0021900614,681,1,66,4,9:46 PM,1:34,,,Carter 25' 3PT Jump Bank Shot (3 PTS) (Jerome 1 AST),121 - 92,-29,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+469,0021900614,683,2,1,4,9:47 PM,1:18,MISS Allen 24' 3PT Jump Shot,,,,,4,1628443,Kadeem Allen,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+470,0021900614,684,4,0,4,9:47 PM,1:15,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+471,0021900614,686,8,0,4,9:47 PM,1:15,SUB: Dotson FOR Morris Sr.,,,,,4,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+472,0021900614,688,2,79,4,9:47 PM,0:53,,,MISS Carter 21' Pullup Jump Shot,,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+473,0021900614,689,4,0,4,9:47 PM,0:50,Randle REBOUND (Off:2 Def:4),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+474,0021900614,690,1,6,4,9:48 PM,0:43,Randle 1' Driving Layup (25 PTS),,,121 - 94,-27,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+475,0021900614,691,6,2,4,9:48 PM,0:43,,,Jerome S.FOUL (P1.T4) (E.Malloy),,,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+476,0021900614,693,3,10,4,9:48 PM,0:43,Randle Free Throw 1 of 1 (26 PTS),,,121 - 95,-26,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+477,0021900614,694,2,6,4,9:48 PM,0:34,,,MISS Lecque 1' Driving Layup,,,5,1629665,Jalen Lecque,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+478,0021900614,695,4,0,4,9:48 PM,0:32,Robinson REBOUND (Off:4 Def:4),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+479,0021900614,696,1,1,4,9:48 PM,0:22,Allen  3PT Jump Shot (3 PTS) (Ntilikina 6 AST),,,121 - 98,-23,4,1628443,Kadeem Allen,1610612752.0,New York,Knicks,NYK,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+480,0021900614,698,5,39,4,9:49 PM,0:01,,,Carter Step Out of Bounds Turnover (P1.T19),,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+481,0021900614,699,5,1,4,9:50 PM,0:00,Randle Bad Pass Turnover (P3.T18),,Okobo STEAL (2 STL),,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629059,Elie Okobo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+482,0021900614,701,13,0,4,9:50 PM,0:00,,,,121 - 98,-23,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

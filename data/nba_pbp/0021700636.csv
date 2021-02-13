@@ -1,0 +1,427 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021700636,2,12,0,1,8:10 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021700636,4,10,0,1,8:10 PM,12:00,Jump Ball Chandler vs. Sabonis: Tip to Bender,,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,1
+2,0021700636,7,2,1,1,8:10 PM,11:33,MISS Bender 22' Jump Shot,,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+3,0021700636,8,4,0,1,8:10 PM,11:30,,,Sabonis REBOUND (Off:0 Def:1),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+4,0021700636,9,1,1,1,8:11 PM,11:13,,,Sabonis 20' Jump Shot (2 PTS) (Collison 1 AST),2 - 0,-2,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+5,0021700636,11,2,98,1,8:11 PM,10:56,MISS Chandler 2' Cutting Layup Shot,,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+6,0021700636,12,4,0,1,8:11 PM,10:55,,,Sabonis REBOUND (Off:0 Def:2),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+7,0021700636,13,6,2,1,8:11 PM,10:46,Booker S.FOUL (P1.T1) (M.Ayotte),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+8,0021700636,15,3,11,1,8:12 PM,10:46,,,Oladipo Free Throw 1 of 2 (1 PTS),3 - 0,-3,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+9,0021700636,16,3,12,1,8:12 PM,10:46,,,MISS Oladipo Free Throw 2 of 2,,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+10,0021700636,17,4,0,1,8:12 PM,10:44,Bender REBOUND (Off:0 Def:1),,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+11,0021700636,18,5,2,1,8:12 PM,10:33,Booker Lost Ball Turnover (P1.T1),,Oladipo STEAL (1 STL),,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+12,0021700636,20,1,41,1,8:12 PM,10:29,,,Oladipo 1' Running Layup (3 PTS),5 - 0,-5,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+13,0021700636,21,1,1,1,8:12 PM,10:22,Jackson 24' 3PT Jump Shot (3 PTS) (Ulis 1 AST),,,5 - 3,-2,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+14,0021700636,23,2,79,1,8:13 PM,10:06,,,MISS Collison 21' Pullup Jump Shot,,,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+15,0021700636,24,4,0,1,8:13 PM,10:02,Booker REBOUND (Off:0 Def:1),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+16,0021700636,25,1,41,1,8:13 PM,10:00,Jackson 1' Running Layup (5 PTS) (Booker 1 AST),,,5 - 5,TIE,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+17,0021700636,27,6,2,1,8:13 PM,10:00,,,Oladipo S.FOUL (P1.T1) (M.Ayotte),,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+18,0021700636,29,3,10,1,8:13 PM,10:00,Jackson Free Throw 1 of 1 (6 PTS),,,5 - 6,1,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+19,0021700636,30,2,80,1,8:13 PM,9:38,,,MISS Oladipo 25' 3PT Step Back Jump Shot,,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+20,0021700636,31,4,0,1,8:13 PM,9:33,,,Collison REBOUND (Off:1 Def:0),,,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+21,0021700636,32,5,1,1,8:14 PM,9:31,Ulis STEAL (1 STL),,Collison Bad Pass Turnover (P1.T1),,,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+22,0021700636,34,2,1,1,8:14 PM,9:27,MISS Bender  3PT Jump Shot,,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+23,0021700636,35,4,0,1,8:14 PM,9:22,Bender REBOUND (Off:1 Def:1),,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+24,0021700636,36,2,80,1,8:14 PM,9:11,MISS Booker 27' 3PT Step Back Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+25,0021700636,37,4,0,1,8:14 PM,9:09,Chandler REBOUND (Off:1 Def:0),,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+26,0021700636,38,6,2,1,8:14 PM,9:08,,,Bogdanovic S.FOUL (P1.T2) (K.Fitzgerald),,,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+27,0021700636,40,3,11,1,8:14 PM,9:08,Chandler Free Throw 1 of 2 (1 PTS),,,5 - 7,2,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+28,0021700636,41,3,12,1,8:15 PM,9:08,MISS Chandler Free Throw 2 of 2,,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+29,0021700636,42,4,0,1,8:15 PM,9:06,,,Young REBOUND (Off:0 Def:1),,,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+30,0021700636,43,2,1,1,8:15 PM,8:55,,,MISS Bogdanovic 12' Jump Shot,,,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+31,0021700636,44,4,0,1,8:15 PM,8:52,,,Sabonis REBOUND (Off:1 Def:2),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+32,0021700636,45,1,1,1,8:15 PM,8:51,,,Oladipo 27' 3PT Jump Shot (6 PTS) (Sabonis 1 AST),8 - 7,-1,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+33,0021700636,47,5,45,1,8:15 PM,8:36,Bender Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+34,0021700636,48,2,6,1,8:15 PM,8:23,,,MISS Young 2' Driving Layup,,,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+35,0021700636,49,4,0,1,8:15 PM,8:21,Chandler REBOUND (Off:1 Def:1),,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+36,0021700636,50,2,1,1,8:16 PM,8:15,MISS Booker 26' 3PT Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+37,0021700636,51,4,0,1,8:16 PM,8:13,,,Sabonis REBOUND (Off:1 Def:3),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+38,0021700636,52,1,1,1,8:16 PM,8:03,,,Young  3PT Jump Shot (3 PTS),11 - 7,-4,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+39,0021700636,54,2,1,1,8:16 PM,7:40,MISS Booker 27' 3PT Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+40,0021700636,55,4,0,1,8:16 PM,7:37,Jackson REBOUND (Off:1 Def:0),,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+41,0021700636,56,1,72,1,8:16 PM,7:36,Jackson 1' Putback Layup (8 PTS),,,11 - 9,-2,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+42,0021700636,57,1,58,1,8:17 PM,7:25,,,Sabonis 2' Turnaround Hook Shot (4 PTS),13 - 9,-4,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+43,0021700636,58,5,1,1,8:17 PM,7:11,Jackson Bad Pass Turnover (P1.T3),,Oladipo STEAL (2 STL),,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+44,0021700636,60,2,41,1,8:17 PM,7:05,,,MISS Sabonis 1' Running Layup,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+45,0021700636,61,4,0,1,8:17 PM,7:02,Chandler REBOUND (Off:1 Def:2),,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+46,0021700636,62,1,41,1,8:17 PM,6:59,Jackson 1' Running Layup (10 PTS) (Booker 2 AST),,,13 - 11,-2,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+47,0021700636,64,1,79,1,8:17 PM,6:44,,,Oladipo 12' Pullup Jump Shot (8 PTS),15 - 11,-4,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+48,0021700636,65,2,1,1,8:17 PM,6:33,MISS Jackson 24' 3PT Jump Shot,,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+49,0021700636,66,4,0,1,8:18 PM,6:31,Chandler REBOUND (Off:2 Def:2),,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+50,0021700636,67,2,1,1,8:18 PM,6:29,MISS Bender 26' 3PT Jump Shot,,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+51,0021700636,68,4,0,1,8:18 PM,6:27,,,Oladipo REBOUND (Off:0 Def:1),,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+52,0021700636,69,1,1,1,8:18 PM,6:15,,,Oladipo 25' 3PT Jump Shot (11 PTS),18 - 11,-7,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+53,0021700636,70,9,1,1,8:18 PM,6:12,SUNS Timeout: Regular (Full 1 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+54,0021700636,71,8,0,1,8:20 PM,6:12,SUB: House FOR Jackson,,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,4,1627863,Danuel House Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+55,0021700636,73,2,1,1,8:21 PM,6:04,MISS Booker 27' 3PT Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+56,0021700636,74,4,0,1,8:21 PM,6:01,,,Young REBOUND (Off:0 Def:2),,,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+57,0021700636,75,2,1,1,8:21 PM,5:47,,,MISS Bogdanovic 28' 3PT Jump Shot,,,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+58,0021700636,76,4,0,1,8:21 PM,5:42,,,Sabonis REBOUND (Off:2 Def:3),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+59,0021700636,77,6,1,1,8:22 PM,5:31,House P.FOUL (P1.T2) (K.Fitzgerald),,,,,4,1627863,Danuel House Jr.,1610612756.0,Phoenix,Suns,PHX,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+60,0021700636,79,1,1,1,8:22 PM,5:26,,,Bogdanovic 25' 3PT Jump Shot (3 PTS) (Young 1 AST),21 - 11,-10,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+61,0021700636,81,2,1,1,8:22 PM,5:00,MISS Ulis 28' 3PT Jump Shot,,,,,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+62,0021700636,82,4,0,1,8:22 PM,4:57,,,Oladipo REBOUND (Off:0 Def:2),,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+63,0021700636,83,1,80,1,8:23 PM,4:48,,,Collison 22' Step Back Jump Shot (2 PTS),23 - 11,-12,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+64,0021700636,84,2,101,1,8:23 PM,4:30,MISS Booker 13' Driving Floating Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+65,0021700636,85,4,0,1,8:23 PM,4:29,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+66,0021700636,86,8,0,1,8:23 PM,4:29,SUB: Canaan FOR Chandler,,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+67,0021700636,87,8,0,1,8:23 PM,4:29,SUB: Len FOR Ulis,,,,,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+68,0021700636,88,8,0,1,8:23 PM,4:29,SUB: Peters FOR Bender,,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,4,1628409,Alec Peters,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+69,0021700636,92,8,0,1,8:23 PM,4:29,,,SUB: Joseph FOR Bogdanovic,,,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+70,0021700636,94,1,1,1,8:23 PM,4:17,Booker 25' 3PT Jump Shot (3 PTS) (Len 1 AST),,,23 - 14,-9,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+71,0021700636,96,2,79,1,8:24 PM,4:02,,,MISS Collison 20' Pullup Jump Shot,,,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+72,0021700636,97,4,0,1,8:24 PM,3:59,Booker REBOUND (Off:0 Def:2),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+73,0021700636,98,2,6,1,8:24 PM,3:44,MISS Booker 9' Driving Layup,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+74,0021700636,99,4,0,1,8:24 PM,3:40,Len REBOUND (Off:1 Def:0),,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+75,0021700636,100,2,107,1,8:24 PM,3:40,MISS Len 1' Tip Dunk Shot,,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+76,0021700636,101,4,0,1,8:24 PM,3:39,,,Sabonis REBOUND (Off:2 Def:4),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+77,0021700636,102,5,45,1,8:24 PM,3:29,,,Oladipo Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+78,0021700636,103,8,0,1,8:24 PM,3:29,,,SUB: Jefferson FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+79,0021700636,105,2,1,1,8:25 PM,3:18,MISS House 26' 3PT Jump Shot,,,,,4,1627863,Danuel House Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+80,0021700636,106,4,0,1,8:25 PM,3:14,,,Jefferson REBOUND (Off:0 Def:1),,,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+81,0021700636,107,2,79,1,8:25 PM,3:04,,,MISS Joseph 15' Pullup Jump Shot,,,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+82,0021700636,108,4,0,1,8:25 PM,3:00,Canaan REBOUND (Off:0 Def:1),,,,,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+83,0021700636,109,6,1,1,8:25 PM,2:53,,,Young P.FOUL (P1.T3) (K.Fitzgerald),,,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+84,0021700636,111,9,1,1,8:25 PM,2:53,,,Pacers Timeout: Regular (Reg.1 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+85,0021700636,112,8,0,1,8:27 PM,2:53,,,SUB: Stephenson FOR Oladipo,,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+86,0021700636,113,8,0,1,8:27 PM,2:53,,,SUB: Leaf FOR Young,,,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+87,0021700636,116,2,1,1,8:28 PM,2:43,MISS Peters 27' 3PT Jump Shot,,,,,4,1628409,Alec Peters,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+88,0021700636,117,4,0,1,8:28 PM,2:41,,,Stephenson REBOUND (Off:0 Def:1),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+89,0021700636,118,1,79,1,8:28 PM,2:35,,,Stephenson 17' Pullup Jump Shot (2 PTS),25 - 14,-11,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+90,0021700636,119,2,101,1,8:29 PM,2:08,MISS Canaan 9' Driving Floating Jump Shot,,,,,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+91,0021700636,120,4,0,1,8:29 PM,2:05,Len REBOUND (Off:2 Def:0),,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+92,0021700636,121,2,1,1,8:29 PM,1:57,MISS Peters 25' 3PT Jump Shot,,,,,4,1628409,Alec Peters,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+93,0021700636,122,4,0,1,8:29 PM,1:55,,,Stephenson REBOUND (Off:0 Def:2),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+94,0021700636,123,1,1,1,8:29 PM,1:37,,,Collison  3PT Jump Shot (5 PTS) (Stephenson 1 AST),28 - 14,-14,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+95,0021700636,125,1,98,1,8:29 PM,1:23,Len 1' Cutting Layup Shot (2 PTS) (Booker 3 AST),,,28 - 16,-12,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+96,0021700636,127,2,1,1,8:30 PM,1:07,,,MISS Collison 24' 3PT Jump Shot,,,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+97,0021700636,128,4,0,1,8:30 PM,1:03,Len REBOUND (Off:2 Def:1),,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+98,0021700636,129,6,1,1,8:30 PM,1:02,,,Stephenson P.FOUL (P1.T4) (K.Fitzgerald),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+99,0021700636,131,8,0,1,8:30 PM,1:02,SUB: Daniels FOR Booker,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+100,0021700636,133,5,1,1,8:30 PM,0:52,Canaan Bad Pass Turnover (P1.T4),,Jefferson STEAL (1 STL),,,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+101,0021700636,135,2,6,1,8:31 PM,0:32,Len BLOCK (1 BLK),,MISS Jefferson 1' Driving Layup,,,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,1
+102,0021700636,137,4,0,1,8:31 PM,0:29,Len REBOUND (Off:2 Def:2),,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+103,0021700636,138,2,2,1,8:31 PM,0:26,MISS House 27' 3PT Running Jump Shot,,,,,4,1627863,Danuel House Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+104,0021700636,139,4,0,1,8:31 PM,0:26,,,Leaf REBOUND (Off:0 Def:1),,,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+105,0021700636,140,1,78,1,8:31 PM,0:02,,,Jefferson 6' Floating Jump Shot (2 PTS) (Stephenson 2 AST),30 - 16,-14,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+106,0021700636,142,2,2,1,8:31 PM,0:00,MISS Canaan 49' 3PT Running Jump Shot,,,,,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+107,0021700636,143,4,0,1,8:31 PM,0:00,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+108,0021700636,144,13,0,1,8:31 PM,0:00,,,,30 - 16,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+109,0021700636,149,12,0,2,8:34 PM,12:00,,,,30 - 16,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+110,0021700636,150,2,79,2,8:34 PM,11:48,,,MISS Stephenson 14' Pullup Jump Shot,,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+111,0021700636,151,4,0,2,8:34 PM,11:45,Canaan REBOUND (Off:0 Def:2),,,,,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+112,0021700636,152,2,6,2,8:35 PM,11:30,MISS Daniels 8' Driving Layup,,,,,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+113,0021700636,153,4,0,2,8:35 PM,11:28,,,Stephenson REBOUND (Off:0 Def:3),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+114,0021700636,154,2,79,2,8:35 PM,11:16,,,MISS Leaf 18' Pullup Jump Shot,,,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+115,0021700636,155,4,0,2,8:35 PM,11:13,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+116,0021700636,156,1,1,2,8:35 PM,10:56,Daniels 17' Jump Shot (2 PTS) (Len 2 AST),,,30 - 18,-12,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+117,0021700636,158,1,1,2,8:36 PM,10:35,,,Jefferson 17' Jump Shot (4 PTS) (Joseph 1 AST),32 - 18,-14,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+118,0021700636,160,6,2,2,8:36 PM,10:29,,,Jefferson S.FOUL (P1.T1) (B.Nansel),,,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,4,1627863,Danuel House Jr.,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+119,0021700636,162,3,11,2,8:36 PM,10:29,MISS House Free Throw 1 of 2,,,,,4,1627863,Danuel House Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+120,0021700636,163,4,1,2,8:36 PM,10:29,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+121,0021700636,164,3,12,2,8:36 PM,10:29,House Free Throw 2 of 2 (1 PTS),,,32 - 19,-13,4,1627863,Danuel House Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+122,0021700636,165,2,6,2,8:37 PM,10:13,,,MISS Stephenson 1' Driving Layup,,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+123,0021700636,166,4,0,2,8:37 PM,10:12,Len REBOUND (Off:2 Def:3),,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+124,0021700636,167,5,1,2,8:37 PM,10:09,Len Bad Pass Turnover (P1.T5),,Jefferson STEAL (2 STL),,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+125,0021700636,169,1,6,2,8:37 PM,9:56,,,Young 7' Driving Layup (2 PTS) (Joseph 2 AST),34 - 19,-15,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+126,0021700636,171,5,2,2,8:37 PM,9:42,Daniels Lost Ball Turnover (P1.T6),,Joseph STEAL (1 STL),,,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+127,0021700636,173,1,74,2,8:37 PM,9:38,,,Young  Running Reverse Layup (4 PTS) (Joseph 3 AST),36 - 19,-17,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+128,0021700636,175,9,1,2,8:37 PM,9:37,SUNS Timeout: Regular (Full 2 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+129,0021700636,176,8,0,2,8:39 PM,9:37,SUB: Booker FOR Len,,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+130,0021700636,177,8,0,2,8:39 PM,9:37,SUB: Monroe FOR House,,,,,4,1627863,Danuel House Jr.,1610612756.0,Phoenix,Suns,PHX,4,202328,Greg Monroe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+131,0021700636,178,8,0,2,8:39 PM,9:37,SUB: Jackson FOR Daniels,,,,,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+132,0021700636,182,5,1,2,8:40 PM,9:20,Canaan Bad Pass Turnover (P2.T7),,Stephenson STEAL (1 STL),,,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+133,0021700636,184,6,2,2,8:40 PM,9:18,Jackson S.FOUL (P1.T1) (B.Nansel),,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+134,0021700636,186,3,11,2,8:41 PM,9:18,,,Stephenson Free Throw 1 of 2 (3 PTS),37 - 19,-18,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+135,0021700636,187,3,12,2,8:41 PM,9:18,,,Stephenson Free Throw 2 of 2 (4 PTS),38 - 19,-19,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+136,0021700636,188,1,57,2,8:41 PM,9:04,Jackson 5' Driving Hook Shot (12 PTS),,,38 - 21,-17,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+137,0021700636,189,1,58,2,8:42 PM,8:44,,,Jefferson 7' Turnaround Hook Shot (6 PTS),40 - 21,-19,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+138,0021700636,190,2,1,2,8:42 PM,8:25,MISS Bender 25' 3PT Jump Shot,,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+139,0021700636,191,4,0,2,8:42 PM,8:22,,,Stephenson REBOUND (Off:0 Def:4),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+140,0021700636,192,1,50,2,8:42 PM,8:20,,,Leaf 1' Running Dunk (2 PTS) (Stephenson 3 AST),42 - 21,-21,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+141,0021700636,194,1,80,2,8:43 PM,7:56,Canaan  3PT Step Back Jump Shot (3 PTS),,,42 - 24,-18,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+142,0021700636,196,8,0,2,8:43 PM,7:49,SUB: Ulis FOR Canaan,,,,,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+143,0021700636,198,1,6,2,8:43 PM,7:42,,,Joseph 3' Driving Layup (2 PTS),44 - 24,-20,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+144,0021700636,199,6,4,2,8:43 PM,7:27,Bender OFF.Foul (P1) (B.Nansel),,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+145,0021700636,201,5,37,2,8:43 PM,7:27,Bender Offensive Foul Turnover (P2.T8),,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+146,0021700636,202,1,5,2,8:44 PM,7:09,,,Jefferson 1' Layup (8 PTS),46 - 24,-22,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+147,0021700636,203,1,98,2,8:44 PM,6:56,Ulis 2' Cutting Layup Shot (2 PTS) (Monroe 1 AST),,,46 - 26,-20,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,4,202328,Greg Monroe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+148,0021700636,205,2,6,2,8:44 PM,6:47,,,MISS Young 3' Driving Layup,,,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+149,0021700636,206,4,0,2,8:44 PM,6:45,Booker REBOUND (Off:0 Def:3),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+150,0021700636,207,1,79,2,8:45 PM,6:28,Ulis 20' Pullup Jump Shot (4 PTS),,,46 - 28,-18,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+151,0021700636,208,9,1,2,8:45 PM,6:21,,,Pacers Timeout: Regular (Reg.2 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+152,0021700636,209,8,0,2,8:47 PM,6:21,SUB: Chandler FOR Monroe,,,,,4,202328,Greg Monroe,1610612756.0,Phoenix,Suns,PHX,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+153,0021700636,210,8,0,2,8:47 PM,6:21,,,SUB: Young FOR Young,,,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+154,0021700636,211,8,0,2,8:47 PM,6:21,,,SUB: Sabonis FOR Leaf,,,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+155,0021700636,212,8,0,2,8:47 PM,6:21,,,SUB: Bogdanovic FOR Jefferson,,,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+156,0021700636,217,6,1,2,8:48 PM,6:21,Ulis P.FOUL (P1.T2) (M.Ayotte),,,,,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+157,0021700636,219,2,1,2,8:48 PM,6:10,,,MISS Bogdanovic 27' 3PT Jump Shot,,,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+158,0021700636,220,4,0,2,8:48 PM,6:07,Jackson REBOUND (Off:1 Def:1),,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+159,0021700636,221,1,50,2,8:48 PM,6:05,Booker 1' Running Dunk (5 PTS) (Jackson 1 AST),,,46 - 30,-16,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+160,0021700636,223,1,1,2,8:48 PM,5:47,,,Stephenson 26' 3PT Jump Shot (7 PTS) (Joseph 4 AST),49 - 30,-19,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+161,0021700636,225,6,1,2,8:49 PM,5:34,,,Stephenson P.FOUL (P2.T2) (K.Fitzgerald),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+162,0021700636,227,8,0,2,8:49 PM,5:34,,,SUB: Oladipo FOR Stephenson,,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+163,0021700636,229,1,80,2,8:49 PM,5:25,Jackson 19' Step Back Jump Shot (14 PTS),,,49 - 32,-17,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+164,0021700636,230,6,1,2,8:49 PM,5:14,Bender P.FOUL (P2.T3) (K.Fitzgerald),,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+165,0021700636,232,1,79,2,8:50 PM,5:08,,,Joseph 18' Pullup Jump Shot (4 PTS),51 - 32,-19,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+166,0021700636,233,2,52,2,8:50 PM,4:59,MISS Chandler 1' Alley Oop Dunk,,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+167,0021700636,234,4,0,2,8:50 PM,4:56,,,Sabonis REBOUND (Off:2 Def:5),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+168,0021700636,235,2,41,2,8:50 PM,4:54,,,MISS Bogdanovic 3' Running Layup,,,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+169,0021700636,236,4,0,2,8:50 PM,4:51,Jackson REBOUND (Off:1 Def:2),,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+170,0021700636,237,2,79,2,8:50 PM,4:48,MISS Ulis 15' Pullup Jump Shot,,,,,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+171,0021700636,238,4,0,2,8:50 PM,4:44,,,Oladipo REBOUND (Off:0 Def:3),,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+172,0021700636,240,2,1,2,8:51 PM,4:23,,,MISS Oladipo 19' Jump Shot,,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+173,0021700636,241,4,0,2,8:51 PM,4:19,Bender REBOUND (Off:1 Def:2),,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+174,0021700636,242,6,2,2,8:51 PM,4:10,,,Joseph S.FOUL (P1.T3) (K.Fitzgerald),,,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+175,0021700636,244,3,11,2,8:51 PM,4:10,Chandler Free Throw 1 of 2 (2 PTS),,,51 - 33,-18,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+176,0021700636,245,3,12,2,8:52 PM,4:10,Chandler Free Throw 2 of 2 (3 PTS),,,51 - 34,-17,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+177,0021700636,246,2,1,2,8:52 PM,3:58,,,MISS Young 13' Jump Shot,,,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+178,0021700636,247,4,0,2,8:52 PM,3:56,Chandler REBOUND (Off:2 Def:3),,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+179,0021700636,248,2,79,2,8:52 PM,3:47,MISS Booker 16' Pullup Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+180,0021700636,249,4,0,2,8:52 PM,3:43,Chandler REBOUND (Off:3 Def:3),,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+181,0021700636,250,2,1,2,8:52 PM,3:34,MISS Jackson 27' 3PT Jump Shot,,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+182,0021700636,251,4,0,2,8:52 PM,3:30,,,Oladipo REBOUND (Off:0 Def:4),,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+183,0021700636,252,6,29,2,8:52 PM,3:28,Ulis Shooting Block Foul (P2.T4) (M.Ayotte),,,,,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+184,0021700636,254,3,11,2,8:53 PM,3:28,,,Oladipo Free Throw 1 of 2 (12 PTS),52 - 34,-18,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+185,0021700636,255,8,0,2,8:53 PM,3:28,,,SUB: Collison FOR Joseph,,,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+186,0021700636,257,3,12,2,8:53 PM,3:28,,,Oladipo Free Throw 2 of 2 (13 PTS),53 - 34,-19,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+187,0021700636,258,5,1,2,8:53 PM,3:26,Bender Bad Pass Turnover (P3.T9),,Oladipo STEAL (3 STL),,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+188,0021700636,260,6,2,2,8:53 PM,3:25,Booker S.FOUL (P2.PN) (B.Nansel),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+189,0021700636,262,3,11,2,8:54 PM,3:25,,,Collison Free Throw 1 of 2 (6 PTS),54 - 34,-20,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+190,0021700636,263,8,0,2,8:54 PM,3:25,SUB: Daniels FOR Ulis,,,,,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+191,0021700636,265,3,12,2,8:54 PM,3:25,,,Collison Free Throw 2 of 2 (7 PTS),55 - 34,-21,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+192,0021700636,266,5,1,2,8:54 PM,3:08,Jackson Bad Pass Turnover (P2.T10),,Collison STEAL (1 STL),,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+193,0021700636,268,2,2,2,8:55 PM,3:04,,,MISS Oladipo 26' 3PT Running Jump Shot,,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+194,0021700636,269,4,0,2,8:55 PM,3:00,,,Young REBOUND (Off:1 Def:2),,,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+195,0021700636,270,1,72,2,8:55 PM,2:59,,,Young 1' Putback Layup (5 PTS),57 - 34,-23,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+196,0021700636,271,9,1,2,8:55 PM,2:59,SUNS Timeout: Regular (Full 3 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+197,0021700636,272,8,0,2,8:56 PM,2:59,SUB: Dudley FOR Bender,,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,4,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+198,0021700636,274,2,1,2,8:57 PM,2:36,MISS Dudley 28' 3PT Jump Shot,,,,,4,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+199,0021700636,275,4,0,2,8:57 PM,2:36,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+200,0021700636,276,5,11,2,8:57 PM,2:36,SUNS Turnover: Shot Clock (T#11),,,,,2,1610612756,,,,,,0,0,,,,,,1,0,,,,,,0
+201,0021700636,277,6,2,2,8:57 PM,2:23,Daniels S.FOUL (P1.PN) (M.Ayotte),,,,,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+202,0021700636,279,3,11,2,8:58 PM,2:23,,,Bogdanovic Free Throw 1 of 2 (4 PTS),58 - 34,-24,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+203,0021700636,280,3,12,2,8:58 PM,2:23,,,Bogdanovic Free Throw 2 of 2 (5 PTS),59 - 34,-25,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+204,0021700636,281,6,1,2,8:58 PM,2:10,,,Oladipo P.FOUL (P2.T4) (B.Nansel),,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+205,0021700636,283,8,0,2,8:58 PM,2:10,,,SUB: Joseph FOR Oladipo,,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+206,0021700636,285,1,1,2,8:59 PM,1:56,Daniels  3PT Jump Shot (5 PTS) (Dudley 1 AST),,,59 - 37,-22,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,4,201162,Jared Dudley,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+207,0021700636,287,1,6,2,8:59 PM,1:42,,,Bogdanovic 6' Driving Layup (7 PTS),61 - 37,-24,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+208,0021700636,288,6,2,2,8:59 PM,1:42,Chandler S.FOUL (P1.PN) (M.Ayotte),,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+209,0021700636,290,3,10,2,9:00 PM,1:42,,,Bogdanovic Free Throw 1 of 1 (8 PTS),62 - 37,-25,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+210,0021700636,291,1,79,2,9:00 PM,1:24,Booker 15' Pullup Jump Shot (7 PTS),,,62 - 39,-23,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+211,0021700636,292,5,4,2,9:00 PM,1:05,,,Bogdanovic Traveling Turnover (P1.T3),,,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+212,0021700636,293,6,2,2,9:01 PM,0:50,,,Young S.FOUL (P2.PN) (B.Nansel),,,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+213,0021700636,295,3,11,2,9:01 PM,0:50,Booker Free Throw 1 of 2 (8 PTS),,,62 - 40,-22,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+214,0021700636,296,3,12,2,9:01 PM,0:50,Booker Free Throw 2 of 2 (9 PTS),,,62 - 41,-21,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+215,0021700636,297,2,79,2,9:02 PM,0:35,,,MISS Collison 20' Pullup Jump Shot,,,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+216,0021700636,298,4,0,2,9:02 PM,0:31,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+217,0021700636,299,1,1,2,9:02 PM,0:09,Daniels  3PT Jump Shot (8 PTS) (Jackson 2 AST),,,62 - 44,-18,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+218,0021700636,301,1,101,2,9:02 PM,0:00,,,Collison 10' Driving Floating Jump Shot (9 PTS) (Joseph 5 AST),64 - 44,-20,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+219,0021700636,303,13,0,2,9:02 PM,0:00,,,,64 - 44,-20,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+220,0021700636,311,12,0,3,9:17 PM,12:00,,,,64 - 44,-20,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+221,0021700636,312,2,79,3,9:18 PM,11:45,,,MISS Bogdanovic 13' Pullup Jump Shot,,,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+222,0021700636,313,4,0,3,9:18 PM,11:42,Booker REBOUND (Off:0 Def:4),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+223,0021700636,314,2,6,3,9:18 PM,11:22,MISS Booker 3' Driving Layup,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+224,0021700636,315,4,0,3,9:18 PM,11:20,,,Collison REBOUND (Off:1 Def:1),,,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+225,0021700636,316,1,41,3,9:18 PM,11:17,,,Collison  Running Layup (11 PTS),66 - 44,-22,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+226,0021700636,317,1,1,3,9:18 PM,10:59,Jackson 27' 3PT Jump Shot (17 PTS) (Booker 4 AST),,,66 - 47,-19,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+227,0021700636,319,6,4,3,9:19 PM,10:44,,,Oladipo OFF.Foul (P3) (K.Fitzgerald),,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+228,0021700636,321,5,37,3,9:19 PM,10:44,,,Oladipo Offensive Foul Turnover (P2.T4),,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+229,0021700636,322,2,1,3,9:19 PM,10:25,MISS Bender 26' 3PT Jump Shot,,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+230,0021700636,323,4,0,3,9:19 PM,10:22,,,Sabonis REBOUND (Off:2 Def:6),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+231,0021700636,324,1,1,3,9:20 PM,10:07,,,Bogdanovic 26' 3PT Jump Shot (11 PTS) (Collison 2 AST),69 - 47,-22,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+232,0021700636,326,1,43,3,9:20 PM,9:53,Chandler 1' Alley Oop Layup (5 PTS) (Booker 5 AST),,,69 - 49,-20,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+233,0021700636,328,2,78,3,9:20 PM,9:40,,,MISS Oladipo 14' Floating Jump Shot,,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+234,0021700636,329,4,0,3,9:20 PM,9:37,Chandler REBOUND (Off:3 Def:4),,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+235,0021700636,330,6,2,3,9:20 PM,9:31,,,Sabonis S.FOUL (P1.T1) (K.Fitzgerald),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+236,0021700636,332,3,11,3,9:21 PM,9:31,Booker Free Throw 1 of 2 (10 PTS),,,69 - 50,-19,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+237,0021700636,333,3,12,3,9:21 PM,9:31,Booker Free Throw 2 of 2 (11 PTS),,,69 - 51,-18,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+238,0021700636,334,2,1,3,9:21 PM,9:19,,,MISS Young 26' 3PT Jump Shot,,,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+239,0021700636,335,4,0,3,9:21 PM,9:15,Chandler REBOUND (Off:3 Def:5),,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+240,0021700636,336,2,1,3,9:21 PM,9:00,MISS Bender 26' 3PT Jump Shot,,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+241,0021700636,337,4,0,3,9:21 PM,8:57,,,Sabonis REBOUND (Off:2 Def:7),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+242,0021700636,338,1,80,3,9:22 PM,8:48,,,Young 21' Step Back Jump Shot (7 PTS),71 - 51,-20,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+243,0021700636,339,2,1,3,9:22 PM,8:27,MISS Bender 27' 3PT Jump Shot,,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+244,0021700636,340,4,0,3,9:22 PM,8:25,,,Sabonis REBOUND (Off:2 Def:8),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+245,0021700636,341,1,47,3,9:22 PM,8:07,,,Collison 15' Turnaround Jump Shot (13 PTS),73 - 51,-22,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+246,0021700636,344,2,1,3,9:23 PM,7:52,MISS Booker 26' 3PT Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+247,0021700636,345,4,0,3,9:23 PM,7:50,,,Young REBOUND (Off:1 Def:3),,,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+248,0021700636,346,2,1,3,9:23 PM,7:41,,,MISS Sabonis 21' Jump Shot,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+249,0021700636,347,4,0,3,9:23 PM,7:38,Booker REBOUND (Off:0 Def:5),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+250,0021700636,348,2,41,3,9:23 PM,7:33,MISS Jackson 1' Running Layup,,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+251,0021700636,349,4,0,3,9:23 PM,7:31,Jackson REBOUND (Off:2 Def:2),,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+252,0021700636,350,2,87,3,9:23 PM,7:30,MISS Jackson 2' Putback Dunk,,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+253,0021700636,351,4,0,3,9:23 PM,7:30,Jackson REBOUND (Off:3 Def:2),,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+254,0021700636,352,1,108,3,9:23 PM,7:25,Chandler 1' Cutting Dunk Shot (7 PTS) (Jackson 3 AST),,,73 - 53,-20,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+255,0021700636,354,1,80,3,9:24 PM,7:05,,,Oladipo 21' Step Back Jump Shot (15 PTS),75 - 53,-22,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+256,0021700636,356,6,4,3,9:24 PM,7:00,Booker OFF.Foul (P3) (M.Ayotte),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+257,0021700636,361,5,37,3,9:24 PM,7:00,Booker Offensive Foul Turnover (P2.T12),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+258,0021700636,362,8,0,3,9:24 PM,7:00,SUB: Peters FOR Bender,,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,4,1628409,Alec Peters,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+259,0021700636,364,6,1,3,9:25 PM,6:44,Booker P.FOUL (P4.T1) (M.Ayotte),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+260,0021700636,366,6,11,3,9:25 PM,6:44,Booker T.FOUL (P4.T1) (M.Ayotte),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+261,0021700636,367,9,1,3,9:25 PM,6:44,SUNS Timeout: Regular (Full 4 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+262,0021700636,368,8,0,3,9:27 PM,6:44,SUB: Canaan FOR Booker,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+263,0021700636,369,8,0,3,9:27 PM,6:44,SUB: Daniels FOR Ulis,,,,,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+264,0021700636,372,3,16,3,9:28 PM,6:44,,,Bogdanovic Free Throw Technical (12 PTS),76 - 53,-23,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+265,0021700636,374,1,80,3,9:28 PM,6:30,,,Young 25' 3PT Step Back Jump Shot (10 PTS),79 - 53,-26,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+266,0021700636,441,18,0,3,9:28 PM,6:30,,,,79 - 53,-26,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+267,0021700636,375,1,1,3,9:29 PM,6:11,Daniels 26' 3PT Jump Shot (11 PTS) (Canaan 1 AST),,,79 - 56,-23,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+268,0021700636,377,2,1,3,9:29 PM,5:58,,,MISS Bogdanovic 26' 3PT Jump Shot,,,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+269,0021700636,378,4,0,3,9:29 PM,5:55,Chandler REBOUND (Off:3 Def:6),,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+270,0021700636,379,2,73,3,9:29 PM,5:49,MISS Jackson 1' Driving Reverse Layup,,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+271,0021700636,380,4,0,3,9:29 PM,5:49,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+272,0021700636,381,1,79,3,9:29 PM,5:37,,,Collison 16' Pullup Jump Shot (15 PTS),81 - 56,-25,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+273,0021700636,382,1,101,3,9:30 PM,5:16,Canaan 10' Driving Floating Jump Shot (5 PTS),,,81 - 58,-23,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+274,0021700636,383,1,98,3,9:30 PM,5:00,,,Bogdanovic 1' Cutting Layup Shot (14 PTS) (Oladipo 1 AST),83 - 58,-25,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+275,0021700636,385,2,1,3,9:30 PM,4:42,MISS Peters 25' 3PT Jump Shot,,,,,4,1628409,Alec Peters,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+276,0021700636,386,4,0,3,9:30 PM,4:39,,,Sabonis REBOUND (Off:2 Def:9),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+277,0021700636,388,8,0,3,9:30 PM,4:31,SUB: Len FOR Chandler,,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+278,0021700636,389,8,0,3,9:30 PM,4:31,,,SUB: Joseph FOR Bogdanovic,,,5,202711,Bojan Bogdanovic,1610612754.0,Indiana,Pacers,IND,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+279,0021700636,392,2,79,3,9:31 PM,4:26,,,MISS Oladipo 17' Pullup Jump Shot,,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+280,0021700636,393,4,0,3,9:31 PM,4:20,,,Sabonis REBOUND (Off:4 Def:9),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+281,0021700636,394,2,97,3,9:31 PM,4:20,,,MISS Sabonis 1' Tip Layup Shot,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+282,0021700636,395,4,0,3,9:31 PM,4:20,,,Sabonis REBOUND (Off:4 Def:9),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+283,0021700636,396,2,1,3,9:31 PM,4:18,,,MISS Collison 24' 3PT Jump Shot,,,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+284,0021700636,397,4,0,3,9:31 PM,4:16,Jackson REBOUND (Off:3 Def:3),,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+285,0021700636,398,6,27,3,9:31 PM,4:04,,,Young Personal Block Foul (P3.T2) (M.Ayotte),,,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+286,0021700636,400,5,1,3,9:32 PM,3:56,Canaan Bad Pass Turnover (P3.T13),,Oladipo STEAL (4 STL),,,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+287,0021700636,402,1,106,3,9:32 PM,3:49,,,Oladipo 2' Running Alley Oop Dunk Shot (17 PTS) (Young 2 AST),85 - 58,-27,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+288,0021700636,404,2,2,3,9:32 PM,3:43,MISS Jackson 28' 3PT Running Jump Shot,,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+289,0021700636,405,4,0,3,9:32 PM,3:38,,,Oladipo REBOUND (Off:0 Def:5),,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+290,0021700636,406,1,79,3,9:32 PM,3:31,,,Collison 18' Pullup Jump Shot (17 PTS),87 - 58,-29,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+291,0021700636,407,2,1,3,9:32 PM,3:18,MISS Daniels 26' 3PT Jump Shot,,,,,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+292,0021700636,408,4,0,3,9:32 PM,3:14,,,Sabonis REBOUND (Off:4 Def:10),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+293,0021700636,409,6,4,3,9:33 PM,3:05,,,Sabonis OFF.Foul (P2) (B.Nansel),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+294,0021700636,411,5,37,3,9:33 PM,3:05,,,Sabonis Offensive Foul Turnover (P1.T5),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+295,0021700636,412,8,0,3,9:33 PM,3:05,SUB: House FOR Jackson,,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,4,1627863,Danuel House Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+296,0021700636,413,8,0,3,9:33 PM,3:05,,,SUB: Jefferson FOR Oladipo,,,5,203506,Victor Oladipo,1610612754.0,Indiana,Pacers,IND,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+297,0021700636,414,8,0,3,9:33 PM,3:05,,,SUB: Stephenson FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+298,0021700636,418,6,2,3,9:33 PM,2:47,,,Young S.FOUL (P4.T3) (B.Nansel),,,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+299,0021700636,420,9,1,3,9:33 PM,2:47,,,Pacers Timeout: Regular (Reg.3 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+300,0021700636,421,8,0,3,9:35 PM,2:47,,,SUB: Leaf FOR Young,,,5,201152,Thaddeus Young,1610612754.0,Indiana,Pacers,IND,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+301,0021700636,423,3,11,3,9:36 PM,2:47,Canaan Free Throw 1 of 2 (6 PTS),,,87 - 59,-28,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+302,0021700636,424,3,12,3,9:37 PM,2:47,MISS Canaan Free Throw 2 of 2,,,,,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+303,0021700636,425,4,0,3,9:37 PM,2:45,,,Jefferson REBOUND (Off:0 Def:2),,,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+304,0021700636,426,2,1,3,9:37 PM,2:23,,,MISS Jefferson 10' Jump Shot,,,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+305,0021700636,427,4,0,3,9:37 PM,2:19,,,Collison REBOUND (Off:2 Def:1),,,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+306,0021700636,428,1,97,3,9:37 PM,2:19,,,Collison 1' Tip Layup Shot (19 PTS),89 - 59,-30,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+307,0021700636,429,2,1,3,9:37 PM,2:08,MISS Daniels 26' 3PT Jump Shot,,,,,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+308,0021700636,430,4,0,3,9:37 PM,2:04,,,Leaf REBOUND (Off:0 Def:2),,,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+309,0021700636,431,1,1,3,9:37 PM,1:55,,,Leaf 26' 3PT Jump Shot (5 PTS) (Stephenson 4 AST),92 - 59,-33,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+310,0021700636,433,1,1,3,9:38 PM,1:38,Peters 25' 3PT Jump Shot (3 PTS) (Canaan 2 AST),,,92 - 62,-30,4,1628409,Alec Peters,1610612756.0,Phoenix,Suns,PHX,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+311,0021700636,435,2,80,3,9:38 PM,1:21,,,MISS Collison  3PT Step Back Jump Shot,,,5,201954,Darren Collison,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+312,0021700636,436,4,0,3,9:38 PM,1:17,House REBOUND (Off:0 Def:1),,,,,4,1627863,Danuel House Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+313,0021700636,437,1,78,3,9:38 PM,1:06,Daniels 14' Floating Jump Shot (13 PTS),,,92 - 64,-28,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+314,0021700636,438,1,1,3,9:38 PM,0:53,,,Jefferson 14' Jump Shot (10 PTS) (Joseph 6 AST),94 - 64,-30,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+315,0021700636,440,2,6,3,9:39 PM,0:30,MISS House 8' Driving Layup,,,,,4,1627863,Danuel House Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+316,0021700636,442,4,0,3,9:39 PM,0:28,,,Jefferson REBOUND (Off:0 Def:3),,,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+317,0021700636,443,1,63,3,9:39 PM,0:10,,,Joseph 11' Fadeaway Jumper (6 PTS),96 - 64,-32,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+318,0021700636,444,6,2,3,9:39 PM,0:00,,,Leaf S.FOUL (P1.T4) (B.Nansel),,,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+319,0021700636,446,3,11,3,9:40 PM,0:00,Canaan Free Throw 1 of 2 (7 PTS),,,96 - 65,-31,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+320,0021700636,447,3,12,3,9:40 PM,0:00,Canaan Free Throw 2 of 2 (8 PTS),,,96 - 66,-30,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+321,0021700636,448,13,0,3,9:40 PM,0:00,,,,96 - 66,-30,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+322,0021700636,453,12,0,4,9:43 PM,12:00,,,,96 - 66,-30,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+323,0021700636,454,1,47,4,9:43 PM,11:45,Booker 8' Turnaround Jump Shot (13 PTS) (Peters 1 AST),,,96 - 68,-28,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628409,Alec Peters,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+324,0021700636,456,1,98,4,9:43 PM,11:29,,,Leaf 2' Cutting Layup Shot (7 PTS) (Stephenson 5 AST),98 - 68,-30,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+325,0021700636,458,1,1,4,9:44 PM,11:06,Canaan 24' 3PT Jump Shot (11 PTS) (Len 3 AST),,,98 - 71,-27,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+326,0021700636,460,2,98,4,9:44 PM,10:52,,,MISS Jefferson  Cutting Layup Shot,,,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+327,0021700636,461,4,0,4,9:44 PM,10:51,Len REBOUND (Off:2 Def:4),,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+328,0021700636,462,2,98,4,9:44 PM,10:42,MISS Daniels 1' Cutting Layup Shot,,,,,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+329,0021700636,463,4,0,4,9:44 PM,10:41,,,Jefferson REBOUND (Off:0 Def:4),,,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+330,0021700636,464,6,1,4,9:44 PM,10:41,Daniels P.FOUL (P2.T1) (M.Ayotte),,,,,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+331,0021700636,466,8,0,4,9:45 PM,10:41,SUB: Chandler FOR Len,,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+332,0021700636,468,1,6,4,9:45 PM,10:25,,,Leaf 1' Driving Layup (9 PTS),100 - 71,-29,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+333,0021700636,474,8,0,4,9:46 PM,10:11,SUB: Bender FOR Peters,,,,,4,1628409,Alec Peters,1610612756.0,Phoenix,Suns,PHX,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+334,0021700636,469,6,2,4,9:45 PM,10:10,,,Young S.FOUL (P1.T1) (B.Nansel),,,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+335,0021700636,471,3,13,4,9:46 PM,10:10,MISS Canaan Free Throw 1 of 3,,,,,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+336,0021700636,472,4,1,4,9:46 PM,10:10,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+337,0021700636,473,3,14,4,9:46 PM,10:10,Canaan Free Throw 2 of 3 (12 PTS),,,100 - 72,-28,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+338,0021700636,476,3,15,4,9:46 PM,10:10,Canaan Free Throw 3 of 3 (13 PTS),,,100 - 73,-27,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+339,0021700636,477,2,58,4,9:47 PM,9:49,,,MISS Jefferson 7' Turnaround Hook Shot,,,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+340,0021700636,478,4,0,4,9:47 PM,9:47,Chandler REBOUND (Off:3 Def:7),,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+341,0021700636,479,6,1,4,9:47 PM,9:47,,,Stephenson P.FOUL (P3.T2) (B.Nansel),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+342,0021700636,481,1,43,4,9:47 PM,9:32,Chandler  Alley Oop Layup (9 PTS) (Booker 6 AST),,,100 - 75,-25,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+343,0021700636,483,6,1,4,9:47 PM,9:22,Canaan P.FOUL (P1.T2) (M.Ayotte),,,,,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+344,0021700636,485,2,79,4,9:48 PM,9:11,,,MISS Joseph 18' Pullup Jump Shot,,,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+345,0021700636,486,4,0,4,9:48 PM,9:08,,,Jefferson REBOUND (Off:1 Def:4),,,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+346,0021700636,487,1,1,4,9:48 PM,9:06,,,Joseph 27' 3PT Jump Shot (9 PTS) (Jefferson 1 AST),103 - 75,-28,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+347,0021700636,489,2,6,4,9:48 PM,8:50,MISS Booker 14' Driving Layup,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+348,0021700636,490,4,0,4,9:48 PM,8:48,Chandler REBOUND (Off:4 Def:7),,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+349,0021700636,491,2,1,4,9:48 PM,8:44,MISS Canaan 26' 3PT Jump Shot,,,,,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+350,0021700636,492,4,0,4,9:48 PM,8:43,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+351,0021700636,493,8,0,4,9:48 PM,8:43,SUB: Jackson FOR Daniels,,,,,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+352,0021700636,495,2,6,4,9:49 PM,8:26,,,MISS Young 1' Driving Layup,,,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+353,0021700636,496,4,0,4,9:49 PM,8:23,Bender REBOUND (Off:1 Def:3),,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+354,0021700636,497,2,1,4,9:49 PM,8:17,MISS Jackson 25' 3PT Jump Shot,,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+355,0021700636,498,4,0,4,9:49 PM,8:14,Chandler REBOUND (Off:5 Def:7),,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+356,0021700636,499,2,98,4,9:49 PM,8:08,MISS Jackson 1' Cutting Layup Shot,,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+357,0021700636,500,4,0,4,9:49 PM,8:06,Chandler REBOUND (Off:6 Def:7),,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+358,0021700636,501,6,1,4,9:49 PM,8:01,,,Stephenson P.FOUL (P4.T3) (B.Nansel),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+359,0021700636,503,6,1,4,9:50 PM,7:56,,,Leaf P.FOUL (P2.T4) (K.Fitzgerald),,,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+360,0021700636,505,1,75,4,9:50 PM,7:47,Booker 1' Driving Finger Roll Layup (15 PTS),,,103 - 77,-26,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+361,0021700636,506,2,1,4,9:50 PM,7:26,,,MISS Joseph 26' 3PT Jump Shot,,,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+362,0021700636,507,4,0,4,9:50 PM,7:24,Bender REBOUND (Off:1 Def:4),,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+363,0021700636,509,8,0,4,9:51 PM,7:15,SUB: Ulis FOR Canaan,,,,,4,203477,Isaiah Canaan,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+364,0021700636,511,2,78,4,9:51 PM,7:08,MISS Ulis 14' Floating Jump Shot,,,,,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+365,0021700636,512,4,0,4,9:51 PM,7:05,,,Jefferson REBOUND (Off:1 Def:5),,,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+366,0021700636,513,2,1,4,9:51 PM,6:58,,,MISS Stephenson 28' 3PT Jump Shot,,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+367,0021700636,514,4,0,4,9:51 PM,6:54,Chandler REBOUND (Off:6 Def:8),,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+368,0021700636,515,2,79,4,9:51 PM,6:49,MISS Booker 11' Pullup Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+369,0021700636,516,4,0,4,9:51 PM,6:45,,,Joseph REBOUND (Off:0 Def:1),,,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+370,0021700636,517,1,79,4,9:52 PM,6:30,,,Joseph 21' Pullup Jump Shot (11 PTS),105 - 77,-28,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+371,0021700636,518,9,1,4,9:52 PM,6:29,SUNS Timeout: Regular (Full 5 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+372,0021700636,519,8,0,4,9:54 PM,6:29,SUB: Len FOR Chandler,,,,,4,2199,Tyson Chandler,1610612756.0,Phoenix,Suns,PHX,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+373,0021700636,521,6,1,4,9:55 PM,6:20,,,Stephenson P.FOUL (P5.PN) (B.Nansel),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+374,0021700636,523,3,11,4,9:56 PM,6:20,Jackson Free Throw 1 of 2 (18 PTS),,,105 - 78,-27,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+375,0021700636,524,3,12,4,9:56 PM,6:20,Jackson Free Throw 2 of 2 (19 PTS),,,105 - 79,-26,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+376,0021700636,525,1,79,4,9:56 PM,5:57,,,Joseph 22' Pullup Jump Shot (13 PTS),107 - 79,-28,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+377,0021700636,526,1,1,4,9:57 PM,5:37,Len 10' Jump Shot (4 PTS) (Booker 7 AST),,,107 - 81,-26,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+378,0021700636,528,1,79,4,9:57 PM,5:21,,,Stephenson 21' Pullup Jump Shot (9 PTS),109 - 81,-28,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+379,0021700636,529,2,79,4,9:57 PM,5:01,MISS Jackson 18' Pullup Jump Shot,,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+380,0021700636,530,4,0,4,9:57 PM,4:58,,,Jefferson REBOUND (Off:1 Def:6),,,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+381,0021700636,531,1,79,4,9:57 PM,4:53,,,Young 20' Pullup Jump Shot (6 PTS),111 - 81,-30,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+382,0021700636,532,9,1,4,9:57 PM,4:50,SUNS Timeout: Regular (Full 6 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+383,0021700636,533,8,0,4,9:59 PM,4:50,SUB: Reed FOR Booker,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628432,Davon Reed,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+384,0021700636,534,8,0,4,9:59 PM,4:50,,,SUB: Anigbogu FOR Stephenson,,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,1628387,Ike Anigbogu,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+385,0021700636,535,8,0,4,9:59 PM,4:50,,,SUB: Poythress FOR Jefferson,,,5,2744,Al Jefferson,1610612754.0,Indiana,Pacers,IND,5,1627816,Alex Poythress,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+386,0021700636,540,1,78,4,10:00 PM,4:35,Ulis 10' Floating Jump Shot (6 PTS),,,111 - 83,-28,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+387,0021700636,541,1,1,4,10:01 PM,4:14,,,Joseph  3PT Jump Shot (16 PTS) (Leaf 1 AST),114 - 83,-31,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+388,0021700636,543,2,80,4,10:01 PM,3:49,MISS Reed 25' 3PT Step Back Jump Shot,,,,,4,1628432,Davon Reed,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+389,0021700636,544,4,0,4,10:01 PM,3:46,,,Young REBOUND (Off:0 Def:1),,,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+390,0021700636,545,2,1,4,10:01 PM,3:36,,,MISS Young 26' 3PT Jump Shot,,,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+391,0021700636,546,4,0,4,10:01 PM,3:33,Len REBOUND (Off:2 Def:5),,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+392,0021700636,547,6,1,4,10:02 PM,3:26,,,Young P.FOUL (P2.PN) (K.Fitzgerald),,,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+393,0021700636,549,3,11,4,10:02 PM,3:26,MISS Len Free Throw 1 of 2,,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+394,0021700636,550,4,1,4,10:02 PM,3:26,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+395,0021700636,551,3,12,4,10:02 PM,3:26,MISS Len Free Throw 2 of 2,,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+396,0021700636,552,4,0,4,10:02 PM,3:24,,,Anigbogu REBOUND (Off:0 Def:1),,,5,1628387,Ike Anigbogu,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+397,0021700636,553,2,3,4,10:03 PM,3:06,,,MISS Leaf 1' Hook Shot,,,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+398,0021700636,554,4,0,4,10:03 PM,3:03,Reed REBOUND (Off:0 Def:1),,,,,4,1628432,Davon Reed,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+399,0021700636,555,6,2,4,10:03 PM,2:59,,,Leaf S.FOUL (P3.PN) (B.Nansel),,,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+400,0021700636,557,3,11,4,10:03 PM,2:59,Jackson Free Throw 1 of 2 (20 PTS),,,114 - 84,-30,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+401,0021700636,558,3,12,4,10:03 PM,2:59,Jackson Free Throw 2 of 2 (21 PTS),,,114 - 85,-29,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+402,0021700636,559,6,28,4,10:03 PM,2:57,Ulis Personal Take Foul (P3.T3) (M.Ayotte),,,,,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+403,0021700636,561,8,0,4,10:03 PM,2:57,SUB: Peters FOR Jackson,,,,,4,1628367,Josh Jackson,1610612756.0,Phoenix,Suns,PHX,4,1628409,Alec Peters,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+404,0021700636,563,1,6,4,10:04 PM,2:49,,,Young 1' Driving Layup (8 PTS),116 - 85,-31,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+405,0021700636,564,1,78,4,10:04 PM,2:39,Ulis 11' Floating Jump Shot (8 PTS),,,116 - 87,-29,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+406,0021700636,565,6,2,4,10:04 PM,2:32,Reed S.FOUL (P1.T4) (B.Nansel),,,,,4,1628432,Davon Reed,1610612756.0,Phoenix,Suns,PHX,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+407,0021700636,567,3,11,4,10:04 PM,2:32,,,Young Free Throw 1 of 2 (9 PTS),117 - 87,-30,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+408,0021700636,568,3,12,4,10:05 PM,2:32,,,Young Free Throw 2 of 2 (10 PTS),118 - 87,-31,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+409,0021700636,569,1,98,4,10:05 PM,2:11,Len  Cutting Layup Shot (6 PTS),,,118 - 89,-29,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+410,0021700636,571,2,6,4,10:05 PM,1:57,,,MISS Poythress 8' Driving Layup,,,5,1627816,Alex Poythress,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+411,0021700636,572,4,0,4,10:05 PM,1:55,Len REBOUND (Off:2 Def:6),,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+412,0021700636,573,1,78,4,10:05 PM,1:49,Ulis 8' Floating Jump Shot (10 PTS),,,118 - 91,-27,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+413,0021700636,574,5,1,4,10:06 PM,1:28,Ulis STEAL (2 STL),,Leaf Bad Pass Turnover (P1.T6),,,5,1628388,T.J. Leaf,1610612754.0,Indiana,Pacers,IND,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+414,0021700636,577,8,0,4,10:06 PM,1:25,SUB: Daniels FOR Bender,,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,4,203584,Troy Daniels,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+415,0021700636,579,1,52,4,10:06 PM,1:16,Len 1' Alley Oop Dunk (8 PTS) (Ulis 2 AST),,,118 - 93,-25,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+416,0021700636,581,2,86,4,10:07 PM,0:58,,,MISS Joseph 10' Turnaround Fadeaway Shot,,,5,202709,Cory Joseph,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+417,0021700636,582,4,0,4,10:07 PM,0:54,Peters REBOUND (Off:0 Def:1),,,,,4,1628409,Alec Peters,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+418,0021700636,583,2,6,4,10:07 PM,0:42,MISS Reed 8' Driving Layup,,Anigbogu BLOCK (1 BLK),,,4,1628432,Davon Reed,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1628387,Ike Anigbogu,1610612754.0,Indiana,Pacers,IND,1
+419,0021700636,585,4,0,4,10:07 PM,0:38,Len REBOUND (Off:3 Def:6),,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+420,0021700636,586,1,87,4,10:07 PM,0:38,Len 1' Putback Dunk (10 PTS),,,118 - 95,-23,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+421,0021700636,587,1,1,4,10:07 PM,0:24,,,Anigbogu 11' Jump Shot (2 PTS) (Young 1 AST),120 - 95,-25,5,1628387,Ike Anigbogu,1610612754.0,Indiana,Pacers,IND,5,1626202,Joe Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+422,0021700636,589,2,79,4,10:07 PM,0:17,MISS Ulis 26' 3PT Pullup Jump Shot,,,,,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+423,0021700636,590,4,0,4,10:08 PM,0:14,Len REBOUND (Off:4 Def:6),,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+424,0021700636,591,1,87,4,10:08 PM,0:14,Len 1' Putback Dunk (12 PTS),,,120 - 97,-23,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+425,0021700636,592,13,0,4,10:08 PM,0:00,,,,120 - 97,-23,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

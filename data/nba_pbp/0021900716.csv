@@ -1,0 +1,510 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021900716,2,12,0,1,7:41 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021900716,4,10,0,1,7:41 PM,12:00,Jump Ball Jones vs. Embiid: Tip to Milton,,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1
+2,0021900716,7,2,43,1,7:41 PM,11:46,,,MISS Harris 1' Alley Oop Layup,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+3,0021900716,8,4,0,1,7:41 PM,11:43,Jones REBOUND (Off:0 Def:1),,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+4,0021900716,9,1,50,1,7:41 PM,11:41,Collins 1' Running Dunk (2 PTS) (Young 1 AST),,,0 - 2,2,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+5,0021900716,11,1,79,1,7:41 PM,11:24,,,Harris 16' Pullup Jump Shot (2 PTS) (Milton 1 AST),2 - 2,TIE,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+6,0021900716,14,6,2,1,7:42 PM,11:04,,,Thybulle S.FOUL (P1.T1) (B.Barnaky),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+7,0021900716,16,3,13,1,7:42 PM,11:04,Young Free Throw 1 of 3 (1 PTS),,,2 - 3,1,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+8,0021900716,17,3,14,1,7:42 PM,11:04,Young Free Throw 2 of 3 (2 PTS),,,2 - 4,2,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+9,0021900716,18,3,15,1,7:42 PM,11:04,MISS Young Free Throw 3 of 3,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+10,0021900716,19,4,0,1,7:42 PM,11:01,,,Embiid REBOUND (Off:0 Def:1),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+11,0021900716,20,1,9,1,7:43 PM,10:53,,,Simmons 1' Driving Dunk (2 PTS),4 - 4,TIE,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+12,0021900716,21,5,2,1,7:43 PM,10:36,Hunter Lost Ball Turnover (P1.T1),,Simmons STEAL (1 STL),,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+13,0021900716,23,1,50,1,7:43 PM,10:33,,,Simmons 1' Running Dunk (4 PTS),6 - 4,-2,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+14,0021900716,24,1,79,1,7:43 PM,10:24,Young 19' Pullup Jump Shot (4 PTS),,,6 - 6,TIE,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+15,0021900716,25,1,101,1,7:44 PM,10:14,,,Thybulle 7' Driving Floating Jump Shot (2 PTS) (Simmons 1 AST),8 - 6,-2,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+16,0021900716,27,2,80,1,7:44 PM,10:05,MISS Young 25' 3PT Step Back Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+17,0021900716,28,4,0,1,7:44 PM,10:02,,,Embiid REBOUND (Off:0 Def:2),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+18,0021900716,29,1,6,1,7:44 PM,9:58,,,Simmons 2' Driving Layup (6 PTS) (Embiid 1 AST),10 - 6,-4,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+19,0021900716,30,1,101,1,7:44 PM,9:39,Huerter 8' Driving Floating Jump Shot (2 PTS) (Young 2 AST),,,10 - 8,-2,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+20,0021900716,31,6,2,1,7:44 PM,9:25,Huerter S.FOUL (P1.T1) (P.Fraher),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+21,0021900716,33,3,13,1,7:45 PM,9:25,,,MISS Thybulle Free Throw 1 of 3,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+22,0021900716,34,4,1,1,7:45 PM,9:25,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+23,0021900716,35,3,14,1,7:45 PM,9:25,,,Thybulle Free Throw 2 of 3 (3 PTS),11 - 8,-3,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+24,0021900716,36,3,15,1,7:45 PM,9:25,,,MISS Thybulle Free Throw 3 of 3,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+25,0021900716,37,4,0,1,7:45 PM,9:24,Young REBOUND (Off:0 Def:1),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+26,0021900716,38,1,1,1,7:45 PM,9:11,Hunter 25' 3PT Jump Shot (3 PTS) (Young 3 AST),,,11 - 11,TIE,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+27,0021900716,40,2,80,1,7:46 PM,8:55,,,MISS Harris 20' Step Back Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+28,0021900716,41,4,0,1,7:46 PM,8:52,Young REBOUND (Off:0 Def:2),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+29,0021900716,42,5,2,1,7:46 PM,8:44,Young Lost Ball Turnover (P1.T2),,Thybulle STEAL (1 STL),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+30,0021900716,44,2,1,1,7:46 PM,8:37,,,MISS Thybulle  3PT Jump Shot,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+31,0021900716,45,4,0,1,7:46 PM,8:33,Collins REBOUND (Off:0 Def:1),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+32,0021900716,46,2,101,1,7:46 PM,8:24,MISS Young 8' Driving Floating Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+33,0021900716,47,4,0,1,7:46 PM,8:20,,,Harris REBOUND (Off:0 Def:1),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+34,0021900716,48,2,1,1,7:46 PM,8:04,,,MISS Milton 26' 3PT Jump Shot,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+35,0021900716,49,4,0,1,7:47 PM,8:00,Collins REBOUND (Off:0 Def:2),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+36,0021900716,50,2,1,1,7:47 PM,7:49,MISS Hunter 13' Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+37,0021900716,51,4,0,1,7:47 PM,7:45,,,Simmons REBOUND (Off:0 Def:1),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+38,0021900716,52,1,6,1,7:47 PM,7:39,,,Simmons 3' Driving Layup (8 PTS),13 - 11,-2,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+39,0021900716,54,6,1,1,7:47 PM,7:27,,,Simmons P.FOUL (P1.T2) (J.Van Duyne),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+40,0021900716,56,6,2,1,7:48 PM,7:24,,,Thybulle S.FOUL (P2.T3) (J.Van Duyne),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+41,0021900716,58,3,13,1,7:48 PM,7:24,Young Free Throw 1 of 3 (5 PTS),,,13 - 12,-1,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+42,0021900716,59,3,14,1,7:48 PM,7:24,Young Free Throw 2 of 3 (6 PTS),,,13 - 13,TIE,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+43,0021900716,60,8,0,1,7:48 PM,7:24,,,SUB: Korkmaz FOR Thybulle,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+44,0021900716,62,3,15,1,7:48 PM,7:24,Young Free Throw 3 of 3 (7 PTS),,,13 - 14,1,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+45,0021900716,63,1,3,1,7:49 PM,7:11,,,Embiid 4' Hook Shot (2 PTS),15 - 14,-1,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+46,0021900716,64,1,7,1,7:49 PM,6:57,Jones 1' Dunk (2 PTS) (Young 4 AST),,,15 - 16,1,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+47,0021900716,66,1,52,1,7:49 PM,6:40,,,Simmons 1' Alley Oop Dunk (10 PTS) (Korkmaz 1 AST),17 - 16,-1,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+48,0021900716,68,1,101,1,7:49 PM,6:20,Young 11' Driving Floating Jump Shot (9 PTS),,,17 - 18,1,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+49,0021900716,69,6,2,1,7:50 PM,6:15,Young S.FOUL (P1.T2) (J.Van Duyne),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+50,0021900716,71,9,1,1,7:50 PM,6:15,HAWKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+51,0021900716,73,8,0,1,7:52 PM,6:15,SUB: Reddish FOR Jones,,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+52,0021900716,75,3,11,1,7:53 PM,6:15,,,Milton Free Throw 1 of 2 (1 PTS),18 - 18,TIE,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+53,0021900716,76,3,12,1,7:53 PM,6:15,,,Milton Free Throw 2 of 2 (2 PTS),19 - 18,-1,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+54,0021900716,77,6,1,1,7:53 PM,6:09,,,Milton P.FOUL (P1.T4) (P.Fraher),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+55,0021900716,79,8,0,1,7:53 PM,6:09,,,SUB: Neto FOR Milton,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+56,0021900716,81,2,6,1,7:54 PM,6:03,MISS Young 2' Driving Layup,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+57,0021900716,82,4,0,1,7:54 PM,6:00,,,Embiid REBOUND (Off:0 Def:3),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+58,0021900716,83,5,4,1,7:54 PM,5:53,,,Embiid Traveling Turnover (P1.T1),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+59,0021900716,84,8,0,1,7:54 PM,5:53,,,SUB: Smith FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629015,Zhaire Smith,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+60,0021900716,86,1,6,1,7:54 PM,5:39,Huerter 1' Driving Layup (4 PTS) (Young 5 AST),,,19 - 20,1,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+61,0021900716,88,5,2,1,7:55 PM,5:18,Young STEAL (1 STL),,Harris Lost Ball Turnover (P1.T2),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+62,0021900716,90,2,6,1,7:55 PM,5:10,MISS Hunter 2' Driving Layup,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+63,0021900716,91,4,0,1,7:55 PM,5:07,,,Harris REBOUND (Off:0 Def:2),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+64,0021900716,92,5,4,1,7:55 PM,5:03,,,Simmons Traveling Turnover (P1.T3),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+65,0021900716,93,2,79,1,7:55 PM,4:56,MISS Young 29' 3PT Pullup Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+66,0021900716,94,4,0,1,7:55 PM,4:53,,,Harris REBOUND (Off:0 Def:3),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+67,0021900716,95,6,2,1,7:55 PM,4:49,Collins S.FOUL (P1.T3) (P.Fraher),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+68,0021900716,97,3,11,1,7:56 PM,4:49,,,Simmons Free Throw 1 of 2 (11 PTS),20 - 20,TIE,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+69,0021900716,98,3,12,1,7:56 PM,4:49,,,Simmons Free Throw 2 of 2 (12 PTS),21 - 20,-1,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+70,0021900716,99,1,1,1,7:56 PM,4:37,Hunter 25' 3PT Jump Shot (6 PTS) (Young 6 AST),,,21 - 23,2,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+71,0021900716,101,9,1,1,7:56 PM,4:34,,,76ers Timeout: Regular (Reg.1 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+72,0021900716,102,8,0,1,7:58 PM,4:34,,,SUB: Scott FOR Harris,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+73,0021900716,104,2,6,1,8:00 PM,4:19,,,MISS Korkmaz 4' Driving Layup,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+74,0021900716,105,4,0,1,8:00 PM,4:16,Reddish REBOUND (Off:0 Def:1),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+75,0021900716,106,1,1,1,8:00 PM,4:00,Reddish 26' 3PT Jump Shot (3 PTS) (Young 7 AST),,,21 - 26,5,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+76,0021900716,108,2,5,1,8:00 PM,3:44,,,MISS Korkmaz 3' Layup,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+77,0021900716,109,4,0,1,8:00 PM,3:41,,,Simmons REBOUND (Off:1 Def:1),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+78,0021900716,110,2,72,1,8:00 PM,3:41,,,MISS Simmons 3' Putback Layup,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+79,0021900716,111,4,0,1,8:00 PM,3:41,,,Simmons REBOUND (Off:2 Def:1),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+80,0021900716,112,1,72,1,8:00 PM,3:38,,,Simmons 2' Putback Layup (14 PTS),23 - 26,3,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+81,0021900716,113,1,5,1,8:01 PM,3:23,Collins 4' Layup (4 PTS) (Young 8 AST),,,23 - 28,5,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+82,0021900716,115,2,6,1,8:01 PM,3:07,,,MISS Simmons 4' Driving Layup,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+83,0021900716,116,4,0,1,8:01 PM,3:05,Collins REBOUND (Off:0 Def:3),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+84,0021900716,117,1,108,1,8:01 PM,2:57,Hunter  Cutting Dunk Shot (8 PTS) (Young 9 AST),,,23 - 30,7,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+85,0021900716,119,2,79,1,8:01 PM,2:44,,,MISS Neto 26' 3PT Pullup Jump Shot,,,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+86,0021900716,120,4,0,1,8:01 PM,2:41,Huerter REBOUND (Off:0 Def:1),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+87,0021900716,121,2,80,1,8:01 PM,2:35,MISS Huerter 26' 3PT Step Back Jump Shot,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+88,0021900716,122,4,0,1,8:01 PM,2:32,,,Smith REBOUND (Off:0 Def:1),,,5,1629015,Zhaire Smith,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+89,0021900716,123,6,2,1,8:01 PM,2:30,Hunter S.FOUL (P1.T4) (J.Van Duyne),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+90,0021900716,125,3,11,1,8:02 PM,2:30,,,MISS Simmons Free Throw 1 of 2,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+91,0021900716,126,4,1,1,8:02 PM,2:30,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+92,0021900716,127,8,0,1,8:02 PM,2:30,SUB: Graham FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1626203,Treveon Graham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+93,0021900716,128,8,0,1,8:02 PM,2:30,SUB: Jones FOR Collins,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+94,0021900716,131,3,12,1,8:02 PM,2:30,,,Simmons Free Throw 2 of 2 (15 PTS),24 - 30,6,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+95,0021900716,132,1,108,1,8:03 PM,2:16,Jones 1' Cutting Dunk Shot (4 PTS) (Reddish 1 AST),,,24 - 32,8,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+96,0021900716,134,5,1,1,8:03 PM,1:52,Young STEAL (2 STL),,Simmons Bad Pass Turnover (P2.T4),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+97,0021900716,136,1,44,1,8:03 PM,1:44,Hunter 1' Reverse Layup (10 PTS) (Young 10 AST),,,24 - 34,10,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+98,0021900716,138,1,1,1,8:03 PM,1:34,,,Scott 27' 3PT Jump Shot (3 PTS) (Smith 1 AST),27 - 34,7,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,5,1629015,Zhaire Smith,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+99,0021900716,140,2,6,1,8:03 PM,1:16,MISS Reddish 1' Driving Layup,,Scott BLOCK (1 BLK),,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,1
+100,0021900716,142,4,0,1,8:04 PM,1:13,,,Scott REBOUND (Off:0 Def:1),,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+101,0021900716,143,2,79,1,8:04 PM,1:05,,,MISS Korkmaz 20' Pullup Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+102,0021900716,144,4,0,1,8:04 PM,1:01,,,Scott REBOUND (Off:1 Def:1),,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+103,0021900716,145,1,107,1,8:04 PM,1:01,,,Scott 1' Tip Dunk Shot (5 PTS),29 - 34,5,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+104,0021900716,146,1,1,1,8:04 PM,0:49,Young 25' 3PT Jump Shot (12 PTS),,,29 - 37,8,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+105,0021900716,147,2,6,1,8:04 PM,0:30,Jones BLOCK (1 BLK),,MISS Neto 1' Driving Layup,,,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,1
+106,0021900716,149,4,0,1,8:04 PM,0:30,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+107,0021900716,151,8,0,1,8:04 PM,0:30,SUB: Teague FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+108,0021900716,153,1,86,1,8:05 PM,0:25,,,Scott 12' Turnaround Fadeaway (7 PTS),31 - 37,6,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+109,0021900716,154,6,2,1,8:05 PM,0:02,,,Neto S.FOUL (P1.PN) (B.Barnaky),,,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+110,0021900716,156,3,11,1,8:06 PM,0:02,Young Free Throw 1 of 2 (13 PTS),,,31 - 38,7,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+111,0021900716,157,3,12,1,8:06 PM,0:02,Young Free Throw 2 of 2 (14 PTS),,,31 - 39,8,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+112,0021900716,158,13,0,1,8:06 PM,0:00,,,,31 - 39,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+113,0021900716,167,12,0,2,8:09 PM,12:00,,,,31 - 39,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+114,0021900716,168,1,86,2,8:09 PM,11:35,Carter 17' Turnaround Fadeaway (2 PTS),,,31 - 41,10,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+115,0021900716,169,2,86,2,8:10 PM,11:12,,,MISS Embiid 13' Turnaround Fadeaway Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+116,0021900716,170,4,0,2,8:10 PM,11:10,Graham REBOUND (Off:0 Def:1),,,,,4,1626203,Treveon Graham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+117,0021900716,171,5,1,2,8:10 PM,11:03,Teague Bad Pass Turnover (P1.T3),,Ennis III STEAL (1 STL),,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,203516,James Ennis III,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+118,0021900716,173,2,6,2,8:10 PM,10:53,Jones BLOCK (2 BLK),,MISS Milton 2' Driving Layup,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,1
+119,0021900716,174,4,0,2,8:10 PM,10:47,,,Embiid REBOUND (Off:1 Def:3),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+120,0021900716,175,1,97,2,8:10 PM,10:47,,,Embiid 1' Tip Layup Shot (4 PTS),33 - 41,8,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+121,0021900716,176,2,6,2,8:10 PM,10:39,MISS Teague 1' Driving Layup,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+122,0021900716,177,4,0,2,8:10 PM,10:38,,,Scott REBOUND (Off:1 Def:2),,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+123,0021900716,178,2,1,2,8:10 PM,10:32,,,MISS Neto 26' 3PT Jump Shot,,,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+124,0021900716,179,4,0,2,8:10 PM,10:28,Jones REBOUND (Off:0 Def:2),,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+125,0021900716,180,2,79,2,8:11 PM,10:18,MISS Reddish 26' 3PT Pullup Jump Shot,,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+126,0021900716,181,4,0,2,8:11 PM,10:16,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+127,0021900716,183,1,98,2,8:11 PM,10:08,Reddish 1' Cutting Layup Shot (5 PTS) (Jones 1 AST),,,33 - 43,10,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+128,0021900716,185,6,2,2,8:11 PM,9:50,Graham S.FOUL (P1.T1) (B.Barnaky),,,,,4,1626203,Treveon Graham,1610612737.0,Atlanta,Hawks,ATL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+129,0021900716,187,3,11,2,8:12 PM,9:50,,,Embiid Free Throw 1 of 2 (5 PTS),34 - 43,9,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+130,0021900716,188,3,12,2,8:12 PM,9:50,,,MISS Embiid Free Throw 2 of 2,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+131,0021900716,189,4,0,2,8:12 PM,9:48,Graham REBOUND (Off:0 Def:2),,,,,4,1626203,Treveon Graham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+132,0021900716,190,2,101,2,8:12 PM,9:31,MISS Graham 10' Driving Floating Jump Shot,,,,,4,1626203,Treveon Graham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+133,0021900716,191,4,0,2,8:12 PM,9:27,Jones REBOUND (Off:1 Def:2),,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+134,0021900716,192,2,107,2,8:13 PM,9:27,MISS Jones 1' Tip Dunk Shot,,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+135,0021900716,193,4,0,2,8:13 PM,9:27,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+136,0021900716,195,1,1,2,8:13 PM,9:12,,,Embiid 15' Jump Shot (7 PTS) (Milton 2 AST),36 - 43,7,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+137,0021900716,197,2,1,2,8:13 PM,9:03,MISS Graham 26' 3PT Jump Shot,,,,,4,1626203,Treveon Graham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+138,0021900716,198,4,0,2,8:13 PM,9:00,Jones REBOUND (Off:2 Def:2),,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+139,0021900716,200,2,1,2,8:14 PM,8:50,MISS Teague 26' 3PT Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+140,0021900716,201,4,0,2,8:14 PM,8:45,Teague REBOUND (Off:1 Def:0),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+141,0021900716,286,5,1,2,8:14 PM,8:44,Teague Bad Pass Turnover (P2.T4),,Neto STEAL (1 STL),,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+142,0021900716,204,6,2,2,8:14 PM,8:42,Reddish S.FOUL (P1.T2) (P.Fraher),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+143,0021900716,206,3,11,2,8:15 PM,8:42,,,MISS Milton Free Throw 1 of 2,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+144,0021900716,207,4,1,2,8:15 PM,8:42,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+145,0021900716,208,8,0,2,8:15 PM,8:42,SUB: Huerter FOR Graham,,,,,4,1626203,Treveon Graham,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+146,0021900716,209,8,0,2,8:15 PM,8:42,,,SUB: Simmons FOR Neto,,,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+147,0021900716,212,3,12,2,8:15 PM,8:42,,,Milton Free Throw 2 of 2 (3 PTS),37 - 43,6,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+148,0021900716,213,1,1,2,8:15 PM,8:21,Carter 26' 3PT Jump Shot (5 PTS) (Huerter 1 AST),,,37 - 46,9,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+149,0021900716,215,9,1,2,8:15 PM,8:19,,,76ers Timeout: Regular (Reg.2 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+150,0021900716,217,8,0,2,8:18 PM,8:19,SUB: Collins FOR Reddish,,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+151,0021900716,218,8,0,2,8:18 PM,8:19,SUB: Hunter FOR Jones,,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+152,0021900716,219,8,0,2,8:18 PM,8:19,,,SUB: Harris FOR Scott,,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+153,0021900716,223,6,1,2,8:19 PM,8:08,Carter P.FOUL (P1.T3) (J.Van Duyne),,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+154,0021900716,225,6,4,2,8:19 PM,8:01,,,Harris OFF.Foul (P1) (P.Fraher),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+155,0021900716,227,5,37,2,8:19 PM,8:01,,,Harris Offensive Foul Turnover (P2.T5),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+156,0021900716,228,1,79,2,8:19 PM,7:49,Huerter 20' Pullup Jump Shot (6 PTS),,,37 - 48,11,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+157,0021900716,229,6,2,2,8:20 PM,7:36,Teague S.FOUL (P1.T4) (J.Van Duyne),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+158,0021900716,231,3,11,2,8:20 PM,7:36,,,Milton Free Throw 1 of 2 (4 PTS),38 - 48,10,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+159,0021900716,232,3,12,2,8:20 PM,7:36,,,Milton Free Throw 2 of 2 (5 PTS),39 - 48,9,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+160,0021900716,233,2,101,2,8:20 PM,7:20,MISS Teague 9' Driving Floating Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+161,0021900716,234,4,0,2,8:20 PM,7:17,,,Embiid REBOUND (Off:1 Def:4),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+162,0021900716,235,1,1,2,8:21 PM,7:10,,,Embiid 26' 3PT Jump Shot (10 PTS) (Ennis III 1 AST),42 - 48,6,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203516,James Ennis III,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+163,0021900716,237,2,79,2,8:21 PM,7:01,MISS Carter 27' 3PT Pullup Jump Shot,,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+164,0021900716,238,4,0,2,8:21 PM,6:58,,,Embiid REBOUND (Off:1 Def:5),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+165,0021900716,239,2,1,2,8:21 PM,6:53,,,MISS Embiid 26' 3PT Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+166,0021900716,240,4,0,2,8:21 PM,6:49,Hunter REBOUND (Off:0 Def:1),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+167,0021900716,241,1,1,2,8:21 PM,6:42,Carter 26' 3PT Jump Shot (8 PTS) (Hunter 1 AST),,,42 - 51,9,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+168,0021900716,243,1,102,2,8:22 PM,6:13,,,Ennis III 4' Driving Floating Bank Jump Shot (2 PTS) (Harris 1 AST),44 - 51,7,5,203516,James Ennis III,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+169,0021900716,245,2,1,2,8:22 PM,6:02,MISS Hunter 26' 3PT Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+170,0021900716,246,4,0,2,8:22 PM,5:59,,,Simmons REBOUND (Off:2 Def:2),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+171,0021900716,247,6,2,2,8:22 PM,5:55,Collins S.FOUL (P2.PN) (P.Fraher),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+172,0021900716,249,3,11,2,8:22 PM,5:55,,,Simmons Free Throw 1 of 2 (16 PTS),45 - 51,6,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+173,0021900716,256,3,12,2,8:22 PM,5:55,,,MISS Simmons Free Throw 2 of 2,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+174,0021900716,250,8,0,2,8:22 PM,5:55,SUB: Young FOR Teague,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+175,0021900716,251,8,0,2,8:22 PM,5:55,,,SUB: Smith FOR Ennis III,,,5,203516,James Ennis III,1610612755.0,Philadelphia,76ers,PHI,5,1629015,Zhaire Smith,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+176,0021900716,252,8,0,2,8:22 PM,5:55,,,SUB: Korkmaz FOR Milton,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+177,0021900716,257,4,0,2,8:22 PM,5:53,Collins REBOUND (Off:0 Def:4),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+178,0021900716,258,1,63,2,8:23 PM,5:42,Carter 9' Fadeaway Jumper (10 PTS) (Hunter 2 AST),,,45 - 53,8,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+179,0021900716,260,5,45,2,8:23 PM,5:28,,,Smith Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1629015,Zhaire Smith,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+180,0021900716,261,5,1,2,8:23 PM,5:21,Carter Bad Pass Turnover (P1.T5),,Smith STEAL (1 STL),,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,5,1629015,Zhaire Smith,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+181,0021900716,263,6,1,2,8:23 PM,5:20,Huerter P.FOUL (P2.PN) (P.Fraher),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,1629015,Zhaire Smith,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+182,0021900716,265,3,11,2,8:24 PM,5:20,,,Smith Free Throw 1 of 2 (1 PTS),46 - 53,7,5,1629015,Zhaire Smith,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+183,0021900716,266,3,12,2,8:24 PM,5:20,,,MISS Smith Free Throw 2 of 2,,,5,1629015,Zhaire Smith,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+184,0021900716,267,4,0,2,8:24 PM,5:18,Collins REBOUND (Off:0 Def:5),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+185,0021900716,268,1,101,2,8:24 PM,5:02,Young 3' Driving Floating Jump Shot (16 PTS),,,46 - 55,9,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+186,0021900716,269,2,79,2,8:25 PM,4:46,,,MISS Smith 17' Pullup Jump Shot,,,5,1629015,Zhaire Smith,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+187,0021900716,270,4,0,2,8:25 PM,4:44,Hunter REBOUND (Off:0 Def:2),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+188,0021900716,271,2,1,2,8:25 PM,4:33,MISS Carter  3PT Jump Shot,,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+189,0021900716,272,4,0,2,8:25 PM,4:32,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+190,0021900716,274,8,0,2,8:25 PM,4:32,,,SUB: Neto FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+191,0021900716,276,1,52,2,8:25 PM,4:20,,,Simmons 2' Alley Oop Dunk (18 PTS) (Neto 1 AST),48 - 55,7,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+192,0021900716,278,2,101,2,8:26 PM,4:12,MISS Young 14' Driving Floating Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+193,0021900716,279,4,0,2,8:26 PM,4:10,,,Harris REBOUND (Off:0 Def:4),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+194,0021900716,280,2,6,2,8:26 PM,4:06,,,MISS Simmons 4' Driving Layup,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+195,0021900716,281,4,0,2,8:26 PM,4:02,Collins REBOUND (Off:0 Def:6),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+196,0021900716,282,5,1,2,8:26 PM,3:59,Young Bad Pass Turnover (P2.T6),,Korkmaz STEAL (1 STL),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+197,0021900716,284,1,41,2,8:26 PM,3:55,,,Harris 2' Running Layup (4 PTS),50 - 55,5,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+198,0021900716,285,9,1,2,8:26 PM,3:54,HAWKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+199,0021900716,288,8,0,2,8:28 PM,3:54,SUB: Reddish FOR Carter,,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+200,0021900716,290,2,43,2,8:29 PM,3:34,MISS Collins 1' Alley Oop Layup,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+201,0021900716,291,4,0,2,8:29 PM,3:32,Collins REBOUND (Off:1 Def:6),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+202,0021900716,292,1,87,2,8:29 PM,3:31,Collins 1' Putback Dunk (6 PTS),,,50 - 57,7,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+203,0021900716,293,2,1,2,8:29 PM,3:25,,,MISS Korkmaz  3PT Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+204,0021900716,294,4,0,2,8:29 PM,3:23,Huerter REBOUND (Off:0 Def:2),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+205,0021900716,295,2,1,2,8:30 PM,3:17,MISS Collins 25' 3PT Jump Shot,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+206,0021900716,296,4,0,2,8:30 PM,3:14,Young REBOUND (Off:1 Def:2),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+207,0021900716,297,1,6,2,8:30 PM,3:11,Young 4' Driving Layup (18 PTS),,,50 - 59,9,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+208,0021900716,298,6,2,2,8:30 PM,3:11,,,Smith S.FOUL (P1.T1) (P.Fraher),,,5,1629015,Zhaire Smith,1610612755.0,Philadelphia,76ers,PHI,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+209,0021900716,300,8,0,2,8:30 PM,3:11,SUB: Jones FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+210,0021900716,301,8,0,2,8:30 PM,3:11,,,SUB: Embiid FOR Smith,,,5,1629015,Zhaire Smith,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+211,0021900716,304,3,10,2,8:30 PM,3:11,Young Free Throw 1 of 1 (19 PTS),,,50 - 60,10,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+212,0021900716,305,2,101,2,8:31 PM,2:57,,,MISS Neto 11' Driving Floating Jump Shot,,,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+213,0021900716,306,4,0,2,8:31 PM,2:54,Collins REBOUND (Off:1 Def:7),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+214,0021900716,307,1,52,2,8:31 PM,2:47,Jones  Alley Oop Dunk (6 PTS) (Young 11 AST),,,50 - 62,12,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+215,0021900716,309,6,2,2,8:31 PM,2:31,Jones S.FOUL (P1.PN) (B.Barnaky),,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+216,0021900716,311,3,11,2,8:32 PM,2:31,,,Harris Free Throw 1 of 2 (5 PTS),51 - 62,11,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+217,0021900716,312,8,0,2,8:32 PM,2:31,,,SUB: Thybulle FOR Neto,,,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+218,0021900716,314,3,12,2,8:32 PM,2:31,,,Harris Free Throw 2 of 2 (6 PTS),52 - 62,10,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+219,0021900716,315,6,26,2,8:32 PM,2:20,Reddish Offensive Charge Foul (P2.PN) (B.Barnaky),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+220,0021900716,317,5,37,2,8:32 PM,2:20,Reddish Offensive Foul Turnover (P1.T7),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+221,0021900716,318,6,1,2,8:33 PM,2:10,Hunter P.FOUL (P2.PN) (J.Van Duyne),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+222,0021900716,320,3,11,2,8:33 PM,2:10,,,Harris Free Throw 1 of 2 (7 PTS),53 - 62,9,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+223,0021900716,321,8,0,2,8:33 PM,2:10,SUB: Carter FOR Collins,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+224,0021900716,323,3,12,2,8:33 PM,2:10,,,Harris Free Throw 2 of 2 (8 PTS),54 - 62,8,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+225,0021900716,324,6,2,2,8:34 PM,1:59,,,Thybulle S.FOUL (P3.T2) (B.Barnaky),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+226,0021900716,326,3,11,2,8:34 PM,1:59,Young Free Throw 1 of 2 (20 PTS),,,54 - 63,9,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+227,0021900716,327,8,0,2,8:34 PM,1:59,SUB: Huerter FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+228,0021900716,328,8,0,2,8:34 PM,1:59,,,SUB: Milton FOR Thybulle,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+229,0021900716,331,3,12,2,8:34 PM,1:59,Young Free Throw 2 of 2 (21 PTS),,,54 - 64,10,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+230,0021900716,332,1,5,2,8:35 PM,1:48,,,Embiid 4' Layup (12 PTS),56 - 64,8,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+231,0021900716,333,6,2,2,8:35 PM,1:48,Carter S.FOUL (P2.PN) (J.Van Duyne),,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+232,0021900716,335,3,10,2,8:35 PM,1:48,,,MISS Embiid Free Throw 1 of 1,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+233,0021900716,336,4,0,2,8:35 PM,1:46,Jones REBOUND (Off:2 Def:3),,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+234,0021900716,337,2,6,2,8:36 PM,1:25,MISS Young 6' Driving Layup,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+235,0021900716,338,4,0,2,8:36 PM,1:22,,,Embiid REBOUND (Off:1 Def:6),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+236,0021900716,339,1,1,2,8:36 PM,1:16,,,Milton  3PT Jump Shot (8 PTS) (Harris 2 AST),59 - 64,5,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+237,0021900716,343,6,1,2,8:37 PM,0:58,,,Milton P.FOUL (P2.PN) (J.Van Duyne),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+238,0021900716,345,3,11,2,8:38 PM,0:58,Carter Free Throw 1 of 2 (11 PTS),,,59 - 65,6,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+239,0021900716,346,3,12,2,8:38 PM,0:58,Carter Free Throw 2 of 2 (12 PTS),,,59 - 66,7,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+240,0021900716,347,1,6,2,8:38 PM,0:48,,,Milton 1' Driving Layup (10 PTS),61 - 66,5,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+241,0021900716,348,1,79,2,8:39 PM,0:36,Young 27' 3PT Pullup Jump Shot (24 PTS),,,61 - 69,8,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+242,0021900716,349,1,1,2,8:39 PM,0:32,,,Milton 30' 3PT Jump Shot (13 PTS) (Simmons 2 AST),64 - 69,5,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+243,0021900716,351,2,79,2,8:39 PM,0:28,MISS Young 29' 3PT Pullup Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+244,0021900716,352,4,0,2,8:39 PM,0:25,,,Korkmaz REBOUND (Off:0 Def:1),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+245,0021900716,353,1,1,2,8:39 PM,0:03,,,Milton 27' 3PT Jump Shot (16 PTS) (Simmons 3 AST),67 - 69,2,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+246,0021900716,355,6,2,2,8:40 PM,0:00,,,Harris S.FOUL (P2.PN) (P.Fraher),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+247,0021900716,357,6,11,2,8:40 PM,0:00,,,Harris T.FOUL (P2.PN) (P.Fraher),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+248,0021900716,358,3,16,2,8:40 PM,0:00,Young Free Throw Technical (25 PTS),,,67 - 70,3,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+249,0021900716,361,6,11,2,8:42 PM,0:00,,,,,,7,2719,,,,,,0,0,,,,,,1,0,,,,,,0
+250,0021900716,362,3,16,2,8:43 PM,0:00,Young Free Throw Technical (26 PTS),,,67 - 71,4,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+251,0021900716,363,3,13,2,8:43 PM,0:00,Young Free Throw 1 of 3 (27 PTS),,,67 - 72,5,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+252,0021900716,364,3,14,2,8:43 PM,0:00,Young Free Throw 2 of 3 (28 PTS),,,67 - 73,6,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+253,0021900716,365,3,15,2,8:44 PM,0:00,Young Free Throw 3 of 3 (29 PTS),,,67 - 74,7,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+254,0021900716,366,13,0,2,8:44 PM,0:00,,,,67 - 74,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+255,0021900716,373,12,0,3,8:59 PM,12:00,,,,67 - 74,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+256,0021900716,374,5,15,3,9:00 PM,11:48,Jones Offensive Goaltending Turnover (P1.T8),,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+257,0021900716,375,2,79,3,9:00 PM,11:25,,,MISS Harris 18' Pullup Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+258,0021900716,376,4,0,3,9:00 PM,11:20,,,Simmons REBOUND (Off:3 Def:2),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+259,0021900716,377,1,7,3,9:00 PM,11:18,,,Simmons 1' Dunk (20 PTS) (Milton 3 AST),69 - 74,5,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+260,0021900716,379,2,1,3,9:01 PM,11:02,MISS Collins 26' 3PT Jump Shot,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+261,0021900716,380,4,0,3,9:01 PM,11:00,,,Milton REBOUND (Off:0 Def:1),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+262,0021900716,381,2,6,3,9:01 PM,10:54,,,MISS Simmons 1' Driving Layup,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+263,0021900716,382,4,0,3,9:01 PM,10:51,Young REBOUND (Off:1 Def:3),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+264,0021900716,383,1,1,3,9:01 PM,10:46,Huerter  3PT Jump Shot (9 PTS) (Young 12 AST),,,69 - 77,8,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+265,0021900716,385,2,1,3,9:01 PM,10:23,,,MISS Embiid 25' 3PT Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+266,0021900716,386,4,0,3,9:01 PM,10:20,Collins REBOUND (Off:1 Def:8),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+267,0021900716,387,2,80,3,9:01 PM,10:11,MISS Young 26' 3PT Step Back Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+268,0021900716,388,4,0,3,9:02 PM,10:08,,,Embiid REBOUND (Off:1 Def:7),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+269,0021900716,389,5,45,3,9:02 PM,10:00,,,Milton Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+270,0021900716,390,2,80,3,9:02 PM,9:39,MISS Hunter 10' Step Back Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+271,0021900716,391,4,0,3,9:02 PM,9:37,,,Embiid REBOUND (Off:1 Def:8),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+272,0021900716,392,1,102,3,9:02 PM,9:31,,,Harris 4' Driving Floating Bank Jump Shot (10 PTS),71 - 77,6,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+273,0021900716,393,6,2,3,9:03 PM,9:16,,,Harris S.FOUL (P3.T1) (P.Fraher),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+274,0021900716,395,3,11,3,9:03 PM,9:16,MISS Young Free Throw 1 of 2,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+275,0021900716,396,4,1,3,9:03 PM,9:16,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+276,0021900716,397,3,12,3,9:03 PM,9:16,Young Free Throw 2 of 2 (30 PTS),,,71 - 78,7,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+277,0021900716,399,1,101,3,9:04 PM,9:06,,,Harris 11' Driving Floating Jump Shot (12 PTS),73 - 78,5,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+278,0021900716,400,1,52,3,9:04 PM,8:55,Jones 7' Alley Oop Dunk (8 PTS) (Young 13 AST),,,73 - 80,7,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+279,0021900716,403,2,1,3,9:04 PM,8:42,,,MISS Embiid 27' 3PT Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+280,0021900716,404,4,0,3,9:04 PM,8:39,Young REBOUND (Off:1 Def:4),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+281,0021900716,405,6,2,3,9:04 PM,8:32,,,Embiid S.FOUL (P1.T2) (J.Van Duyne),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+282,0021900716,407,3,11,3,9:05 PM,8:32,Jones Free Throw 1 of 2 (9 PTS),,,73 - 81,8,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+283,0021900716,408,3,12,3,9:05 PM,8:32,Jones Free Throw 2 of 2 (10 PTS),,,73 - 82,9,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+284,0021900716,410,5,1,3,9:05 PM,8:22,Jones STEAL (1 STL),,Simmons Bad Pass Turnover (P3.T8),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+285,0021900716,412,5,1,3,9:05 PM,8:19,Young Bad Pass Turnover (P3.T9),,Milton STEAL (1 STL),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+286,0021900716,414,1,50,3,9:06 PM,8:15,,,Harris 1' Running Dunk (14 PTS) (Simmons 4 AST),75 - 82,7,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+287,0021900716,416,2,1,3,9:06 PM,8:04,MISS Collins 26' 3PT Jump Shot,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+288,0021900716,417,4,0,3,9:06 PM,8:01,,,Harris REBOUND (Off:0 Def:5),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+289,0021900716,418,5,4,3,9:06 PM,7:56,,,Harris Traveling Turnover (P3.T9),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+290,0021900716,419,2,1,3,9:06 PM,7:42,MISS Huerter 26' 3PT Jump Shot,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+291,0021900716,420,4,0,3,9:06 PM,7:39,,,Harris REBOUND (Off:0 Def:6),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+292,0021900716,421,2,1,3,9:06 PM,7:34,,,MISS Harris 26' 3PT Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+293,0021900716,422,4,0,3,9:06 PM,7:30,Collins REBOUND (Off:1 Def:9),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+294,0021900716,423,1,98,3,9:07 PM,7:23,Collins 1' Cutting Layup Shot (8 PTS) (Young 14 AST),,,75 - 84,9,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+295,0021900716,425,6,2,3,9:07 PM,7:23,,,Thybulle S.FOUL (P4.T3) (B.Barnaky),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+296,0021900716,427,3,10,3,9:07 PM,7:23,Collins Free Throw 1 of 1 (9 PTS),,,75 - 85,10,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+297,0021900716,428,2,80,3,9:07 PM,7:13,,,MISS Harris 26' 3PT Step Back Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+298,0021900716,429,4,0,3,9:07 PM,7:10,Collins REBOUND (Off:1 Def:10),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+299,0021900716,430,2,1,3,9:07 PM,7:04,MISS Hunter  3PT Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+300,0021900716,431,4,0,3,9:07 PM,7:02,,,Harris REBOUND (Off:0 Def:7),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+301,0021900716,432,2,1,3,9:08 PM,6:57,,,MISS Milton  3PT Jump Shot,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+302,0021900716,433,4,0,3,9:08 PM,6:53,,,Thybulle REBOUND (Off:1 Def:0),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+303,0021900716,435,9,1,3,9:08 PM,6:52,HAWKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+304,0021900716,437,8,0,3,9:10 PM,6:52,SUB: Reddish FOR Jones,,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+305,0021900716,438,8,0,3,9:10 PM,6:52,,,SUB: Korkmaz FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+306,0021900716,439,8,0,3,9:10 PM,6:52,,,SUB: Neto FOR Thybulle,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+307,0021900716,443,6,2,3,9:11 PM,6:49,Collins S.FOUL (P3.T1) (B.Barnaky),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+308,0021900716,445,3,11,3,9:11 PM,6:49,,,Simmons Free Throw 1 of 2 (21 PTS),76 - 85,9,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+309,0021900716,446,3,12,3,9:12 PM,6:49,,,Simmons Free Throw 2 of 2 (22 PTS),77 - 85,8,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+310,0021900716,447,1,7,3,9:12 PM,6:32,Collins 1' Dunk (11 PTS) (Huerter 2 AST),,,77 - 87,10,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+311,0021900716,449,2,6,3,9:12 PM,6:17,,,MISS Neto 5' Driving Layup,,,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+312,0021900716,450,4,0,3,9:12 PM,6:15,Collins REBOUND (Off:1 Def:11),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+313,0021900716,451,1,1,3,9:12 PM,6:09,Huerter 26' 3PT Jump Shot (12 PTS) (Hunter 3 AST),,,77 - 90,13,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+314,0021900716,453,9,1,3,9:12 PM,6:07,,,76ers Timeout: Regular (Reg.3 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+315,0021900716,454,8,0,3,9:14 PM,6:07,SUB: Carter FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+316,0021900716,456,6,2,3,9:16 PM,5:47,Huerter S.FOUL (P3.T2) (P.Fraher),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+317,0021900716,458,3,11,3,9:16 PM,5:47,,,Harris Free Throw 1 of 2 (15 PTS),78 - 90,12,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+318,0021900716,459,3,12,3,9:16 PM,5:47,,,MISS Harris Free Throw 2 of 2,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+319,0021900716,460,4,0,3,9:16 PM,5:45,Carter REBOUND (Off:0 Def:1),,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+320,0021900716,461,2,1,3,9:17 PM,5:25,MISS Reddish 26' 3PT Jump Shot,,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+321,0021900716,462,4,0,3,9:17 PM,5:20,,,Harris REBOUND (Off:0 Def:8),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+322,0021900716,463,6,2,3,9:17 PM,5:17,Huerter S.FOUL (P4.T3) (J.Van Duyne),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+323,0021900716,465,3,11,3,9:18 PM,5:17,,,Harris Free Throw 1 of 2 (16 PTS),79 - 90,11,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+324,0021900716,466,8,0,3,9:18 PM,5:17,SUB: Hunter FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+325,0021900716,468,3,12,3,9:18 PM,5:17,,,Harris Free Throw 2 of 2 (17 PTS),80 - 90,10,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+326,0021900716,469,5,1,3,9:18 PM,5:03,Young Bad Pass Turnover (P4.T10),,Simmons STEAL (2 STL),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+327,0021900716,471,2,6,3,9:18 PM,4:50,,,MISS Harris 6' Driving Layup,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+328,0021900716,472,4,0,3,9:18 PM,4:47,Collins REBOUND (Off:1 Def:12),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+329,0021900716,473,1,5,3,9:19 PM,4:40,Hunter 1' Layup (12 PTS) (Young 15 AST),,,80 - 92,12,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+330,0021900716,475,2,80,3,9:19 PM,4:23,,,MISS Neto 25' 3PT Step Back Jump Shot,,,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+331,0021900716,476,4,0,3,9:19 PM,4:20,Collins REBOUND (Off:1 Def:13),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+332,0021900716,477,2,80,3,9:19 PM,4:11,MISS Young 29' 3PT Step Back Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+333,0021900716,478,4,0,3,9:19 PM,4:07,,,Milton REBOUND (Off:0 Def:2),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+334,0021900716,479,2,1,3,9:19 PM,3:57,,,MISS Korkmaz  3PT Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+335,0021900716,480,4,0,3,9:19 PM,3:55,Young REBOUND (Off:1 Def:5),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+336,0021900716,481,9,1,3,9:19 PM,3:48,HAWKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+337,0021900716,482,8,0,3,9:21 PM,3:48,SUB: Teague FOR Young,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+338,0021900716,483,8,0,3,9:21 PM,3:48,SUB: Jones FOR Collins,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+339,0021900716,486,6,4,3,9:22 PM,3:38,Hunter OFF.Foul (P3) (P.Fraher),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+340,0021900716,488,5,37,3,9:22 PM,3:38,Hunter Offensive Foul Turnover (P2.T11),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+341,0021900716,489,1,1,3,9:22 PM,3:27,,,Milton 26' 3PT Jump Shot (19 PTS) (Harris 3 AST),83 - 92,9,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+342,0021900716,491,2,1,3,9:22 PM,3:05,MISS Hunter 26' 3PT Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+343,0021900716,492,4,0,3,9:22 PM,3:01,,,Harris REBOUND (Off:0 Def:9),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+344,0021900716,493,1,1,3,9:23 PM,2:56,,,Milton 26' 3PT Jump Shot (22 PTS) (Simmons 5 AST),86 - 92,6,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+345,0021900716,495,2,6,3,9:23 PM,2:35,MISS Reddish 1' Driving Layup,,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+346,0021900716,496,4,0,3,9:23 PM,2:34,,,Milton REBOUND (Off:0 Def:3),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+347,0021900716,497,2,1,3,9:23 PM,2:29,,,MISS Korkmaz 26' 3PT Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+348,0021900716,498,4,0,3,9:23 PM,2:26,Carter REBOUND (Off:0 Def:2),,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+349,0021900716,499,6,2,3,9:23 PM,2:22,,,Neto S.FOUL (P2.T4) (P.Fraher),,,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+350,0021900716,501,3,11,3,9:24 PM,2:22,Teague Free Throw 1 of 2 (1 PTS),,,86 - 93,7,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+351,0021900716,502,8,0,3,9:24 PM,2:22,,,SUB: Scott FOR Harris,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+352,0021900716,503,8,0,3,9:24 PM,2:22,,,SUB: Embiid FOR Simmons,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+353,0021900716,506,3,12,3,9:24 PM,2:22,Teague Free Throw 2 of 2 (2 PTS),,,86 - 94,8,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+354,0021900716,507,1,6,3,9:24 PM,2:08,,,Milton 1' Driving Layup (24 PTS),88 - 94,6,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+355,0021900716,508,2,101,3,9:24 PM,1:56,MISS Teague 9' Driving Floating Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+356,0021900716,509,4,0,3,9:24 PM,1:53,Jones REBOUND (Off:3 Def:3),,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+357,0021900716,510,2,6,3,9:24 PM,1:47,MISS Reddish 3' Driving Layup,,Embiid BLOCK (1 BLK),,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+358,0021900716,512,4,0,3,9:25 PM,1:44,,,Scott REBOUND (Off:1 Def:3),,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+359,0021900716,513,5,1,3,9:25 PM,1:34,Carter STEAL (1 STL),,Neto Bad Pass Turnover (P1.T10),,,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+360,0021900716,515,6,1,3,9:25 PM,1:29,,,Milton P.FOUL (P3.PN) (B.Barnaky),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+361,0021900716,517,3,11,3,9:25 PM,1:29,MISS Hunter Free Throw 1 of 2,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+362,0021900716,518,4,1,3,9:25 PM,1:29,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+363,0021900716,519,8,0,3,9:25 PM,1:29,,,SUB: Thybulle FOR Korkmaz,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+364,0021900716,521,3,12,3,9:26 PM,1:29,Hunter Free Throw 2 of 2 (13 PTS),,,88 - 95,7,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+365,0021900716,522,5,45,3,9:26 PM,1:09,,,Embiid Out of Bounds - Bad Pass Turnover Turnover (P2.T11),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+366,0021900716,523,2,1,3,9:26 PM,1:00,MISS Jones 18' Jump Shot,,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+367,0021900716,524,4,0,3,9:26 PM,0:57,,,Embiid REBOUND (Off:1 Def:9),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+368,0021900716,525,1,6,3,9:27 PM,0:38,,,Scott 1' Driving Layup (9 PTS) (Milton 4 AST),90 - 95,5,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+369,0021900716,527,6,2,3,9:27 PM,0:33,,,Neto S.FOUL (P3.PN) (P.Fraher),,,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+370,0021900716,529,3,11,3,9:27 PM,0:33,Teague Free Throw 1 of 2 (3 PTS),,,90 - 96,6,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+371,0021900716,530,3,12,3,9:27 PM,0:33,Teague Free Throw 2 of 2 (4 PTS),,,90 - 97,7,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+372,0021900716,531,1,52,3,9:28 PM,0:09,,,Embiid 1' Alley Oop Dunk (14 PTS) (Milton 5 AST),92 - 97,5,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+373,0021900716,533,2,1,3,9:28 PM,0:01,MISS Carter 26' 3PT Jump Shot,,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+374,0021900716,534,4,0,3,9:28 PM,0:01,Jones REBOUND (Off:4 Def:3),,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+375,0021900716,535,1,97,3,9:28 PM,0:00,Jones 1' Tip Layup Shot (12 PTS),,,92 - 99,7,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+376,0021900716,536,13,0,3,9:28 PM,0:00,,,,92 - 99,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+377,0021900716,537,18,0,3,9:28 PM,0:00,,,,92 - 99,7,0,535,,,,,,0,0,,,,,,1,0,,,,,,0
+378,0021900716,546,12,0,4,9:31 PM,12:00,,,,92 - 99,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+379,0021900716,547,1,5,4,9:31 PM,11:38,,,Scott 1' Layup (11 PTS) (Embiid 2 AST),94 - 99,5,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+380,0021900716,548,1,5,4,9:32 PM,11:18,Hunter 8' Layup (15 PTS) (Young 16 AST),,,94 - 101,7,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+381,0021900716,550,2,1,4,9:32 PM,11:05,,,MISS Scott 26' 3PT Jump Shot,,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+382,0021900716,551,4,0,4,9:32 PM,11:03,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+383,0021900716,553,1,43,4,9:32 PM,10:49,Collins 1' Alley Oop Layup (13 PTS) (Teague 1 AST),,,94 - 103,9,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+384,0021900716,555,2,1,4,9:32 PM,10:28,,,MISS Korkmaz 18' Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+385,0021900716,556,4,0,4,9:32 PM,10:28,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+386,0021900716,560,2,6,4,9:33 PM,10:08,MISS Young 1' Driving Layup,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+387,0021900716,561,4,0,4,9:33 PM,10:06,,,Thybulle REBOUND (Off:1 Def:1),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+388,0021900716,562,2,1,4,9:33 PM,10:01,,,MISS Scott 26' 3PT Jump Shot,,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+389,0021900716,563,4,0,4,9:33 PM,9:57,Carter REBOUND (Off:0 Def:3),,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+390,0021900716,564,1,79,4,9:34 PM,9:50,Young 25' 3PT Pullup Jump Shot (33 PTS) (Teague 2 AST),,,94 - 106,12,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+391,0021900716,566,9,1,4,9:34 PM,9:48,,,76ers Timeout: Regular (Reg.4 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+392,0021900716,567,8,0,4,9:36 PM,9:48,,,SUB: Harris FOR Scott,,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+393,0021900716,569,8,0,4,9:38 PM,9:31,,,SUB: Milton FOR Korkmaz,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+394,0021900716,571,10,0,4,9:38 PM,9:27,Jump Ball Hunter vs. Embiid: Tip to Thybulle,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,1
+395,0021900716,574,2,79,4,9:38 PM,9:22,,,MISS Milton 26' 3PT Pullup Jump Shot,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+396,0021900716,575,4,0,4,9:38 PM,9:18,Collins REBOUND (Off:1 Def:14),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+397,0021900716,576,6,4,4,9:38 PM,9:13,Teague OFF.Foul (P2) (J.Van Duyne),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+398,0021900716,578,5,37,4,9:38 PM,9:13,Teague Offensive Foul Turnover (P3.T12),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+399,0021900716,579,8,0,4,9:39 PM,9:13,SUB: Reddish FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+400,0021900716,581,2,6,4,9:39 PM,8:57,Carter BLOCK (1 BLK),,MISS Embiid 2' Driving Layup,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,1
+401,0021900716,583,4,0,4,9:39 PM,8:57,,,Embiid REBOUND (Off:2 Def:9),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+402,0021900716,584,6,2,4,9:39 PM,8:57,Collins S.FOUL (P4.T1) (J.Van Duyne),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+403,0021900716,586,3,11,4,9:40 PM,8:57,,,MISS Embiid Free Throw 1 of 2,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+404,0021900716,587,4,1,4,9:40 PM,8:57,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+405,0021900716,592,3,12,4,9:40 PM,8:57,,,MISS Embiid Free Throw 2 of 2,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+406,0021900716,588,8,0,4,9:40 PM,8:57,SUB: Huerter FOR Teague,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+407,0021900716,590,8,0,4,9:40 PM,8:57,SUB: Jones FOR Collins,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+408,0021900716,593,4,0,4,9:40 PM,8:55,Carter REBOUND (Off:0 Def:4),,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+409,0021900716,594,1,101,4,9:40 PM,8:43,Young 12' Driving Floating Jump Shot (35 PTS),,,94 - 108,14,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+410,0021900716,595,9,1,4,9:40 PM,8:43,,,76ers Timeout: Regular (Reg.5 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+411,0021900716,597,8,0,4,9:43 PM,8:43,,,SUB: Neto FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+412,0021900716,600,6,1,4,9:44 PM,8:31,Reddish P.FOUL (P3.T2) (P.Fraher),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+413,0021900716,602,2,6,4,9:44 PM,8:17,Carter BLOCK (2 BLK),,MISS Harris 7' Driving Layup,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,1
+414,0021900716,604,4,0,4,9:44 PM,8:17,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+415,0021900716,606,1,52,4,9:45 PM,8:04,Jones 1' Alley Oop Dunk (14 PTS) (Young 17 AST),,,94 - 110,16,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+416,0021900716,608,5,1,4,9:45 PM,7:40,Huerter STEAL (1 STL),,Neto Bad Pass Turnover (P2.T12),,,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+417,0021900716,610,6,2,4,9:45 PM,7:37,,,Simmons S.FOUL (P2.T1) (J.Van Duyne),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+418,0021900716,613,3,11,4,9:46 PM,7:37,MISS Jones Free Throw 1 of 2,,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+419,0021900716,614,4,1,4,9:46 PM,7:37,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+420,0021900716,615,3,12,4,9:46 PM,7:37,MISS Jones Free Throw 2 of 2,,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+421,0021900716,616,4,0,4,9:46 PM,7:35,,,Milton REBOUND (Off:0 Def:4),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+422,0021900716,617,1,80,4,9:47 PM,7:23,,,Harris 14' Step Back Jump Shot (19 PTS),96 - 110,14,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+423,0021900716,618,5,2,4,9:47 PM,6:59,Huerter Lost Ball Turnover (P1.T13),,Thybulle STEAL (2 STL),,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+424,0021900716,620,6,1,4,9:47 PM,6:57,Young P.FOUL (P2.T3) (J.Van Duyne),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+425,0021900716,622,8,0,4,9:47 PM,6:57,SUB: Collins FOR Carter,,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+426,0021900716,623,8,0,4,9:47 PM,6:57,SUB: Hunter FOR Jones,,,,,4,1627745,Damian Jones,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+427,0021900716,624,8,0,4,9:47 PM,6:57,,,SUB: Embiid FOR Neto,,,5,203526,Raul Neto,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+428,0021900716,628,2,1,4,9:48 PM,6:44,,,MISS Harris 25' 3PT Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+429,0021900716,629,4,0,4,9:48 PM,6:41,Collins REBOUND (Off:1 Def:15),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+430,0021900716,630,1,101,4,9:48 PM,6:29,Young 13' Driving Floating Jump Shot (37 PTS),,,96 - 112,16,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+431,0021900716,631,1,5,4,9:48 PM,6:16,,,Simmons 1' Layup (24 PTS),98 - 112,14,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+432,0021900716,632,6,2,4,9:48 PM,6:16,Reddish S.FOUL (P4.T4) (B.Barnaky),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+433,0021900716,634,8,0,4,9:49 PM,6:16,,,SUB: Scott FOR Thybulle,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+434,0021900716,636,3,10,4,9:49 PM,6:16,,,Simmons Free Throw 1 of 1 (25 PTS),99 - 112,13,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+435,0021900716,637,2,1,4,9:49 PM,6:06,MISS Young 31' 3PT Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+436,0021900716,638,4,0,4,9:49 PM,6:02,,,Embiid REBOUND (Off:2 Def:10),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+437,0021900716,639,2,1,4,9:49 PM,5:50,,,MISS Embiid 19' Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+438,0021900716,640,4,0,4,9:49 PM,5:47,Collins REBOUND (Off:1 Def:16),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+439,0021900716,641,5,1,4,9:49 PM,5:35,Young Bad Pass Turnover (P5.T14),,Simmons STEAL (3 STL),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+440,0021900716,643,1,41,4,9:50 PM,5:30,,,Simmons 1' Running Layup (27 PTS) (Embiid 3 AST),101 - 112,11,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+441,0021900716,645,9,1,4,9:50 PM,5:29,HAWKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+442,0021900716,646,2,79,4,9:51 PM,5:14,MISS Huerter 26' 3PT Pullup Jump Shot,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+443,0021900716,647,4,0,4,9:51 PM,5:12,Collins REBOUND (Off:2 Def:16),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+444,0021900716,648,1,1,4,9:52 PM,5:01,Reddish  3PT Jump Shot (8 PTS) (Young 18 AST),,,101 - 115,14,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+445,0021900716,650,1,1,4,9:52 PM,4:41,,,Embiid  3PT Jump Shot (17 PTS) (Milton 6 AST),104 - 115,11,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+446,0021900716,652,2,3,4,9:52 PM,4:16,MISS Collins 9' Hook Shot,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+447,0021900716,653,4,0,4,9:52 PM,4:14,,,Embiid REBOUND (Off:2 Def:11),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+448,0021900716,654,6,2,4,9:53 PM,4:00,Collins S.FOUL (P5.PN) (P.Fraher),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+449,0021900716,656,3,11,4,9:53 PM,4:00,,,Harris Free Throw 1 of 2 (20 PTS),105 - 115,10,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+450,0021900716,657,3,12,4,9:53 PM,4:00,,,Harris Free Throw 2 of 2 (21 PTS),106 - 115,9,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+451,0021900716,658,5,1,4,9:54 PM,3:43,Young Bad Pass Turnover (P6.T15),,Simmons STEAL (4 STL),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+452,0021900716,660,6,2,4,9:54 PM,3:41,Hunter S.FOUL (P4.PN) (J.Van Duyne),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+453,0021900716,662,3,11,4,9:54 PM,3:41,,,Simmons Free Throw 1 of 2 (28 PTS),107 - 115,8,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+454,0021900716,663,3,12,4,9:54 PM,3:41,,,Simmons Free Throw 2 of 2 (29 PTS),108 - 115,7,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+455,0021900716,664,1,6,4,9:55 PM,3:27,Reddish 1' Driving Layup (10 PTS) (Hunter 4 AST),,,108 - 117,9,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+456,0021900716,666,1,1,4,9:55 PM,3:13,,,Embiid 26' 3PT Jump Shot (20 PTS) (Harris 4 AST),111 - 117,6,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+457,0021900716,668,2,101,4,9:55 PM,2:54,MISS Young 7' Driving Floating Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+458,0021900716,669,4,0,4,9:55 PM,2:50,Collins REBOUND (Off:3 Def:16),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+459,0021900716,670,1,97,4,9:55 PM,2:50,Collins 1' Tip Layup Shot (15 PTS),,,111 - 119,8,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+460,0021900716,671,2,6,4,9:55 PM,2:38,,,MISS Simmons 1' Driving Layup,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+461,0021900716,672,4,0,4,9:56 PM,2:36,Reddish REBOUND (Off:0 Def:2),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+462,0021900716,673,2,6,4,9:56 PM,2:26,MISS Young 3' Driving Layup,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+463,0021900716,674,4,0,4,9:56 PM,2:24,,,Embiid REBOUND (Off:2 Def:12),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+464,0021900716,675,6,28,4,9:56 PM,2:23,Huerter Personal Take Foul (P5.PN) (B.Barnaky),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+465,0021900716,677,3,11,4,9:56 PM,2:23,,,Simmons Free Throw 1 of 2 (30 PTS),112 - 119,7,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+466,0021900716,678,8,0,4,9:56 PM,2:23,SUB: Carter FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+467,0021900716,680,3,12,4,9:56 PM,2:23,,,Simmons Free Throw 2 of 2 (31 PTS),113 - 119,6,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+468,0021900716,681,2,1,4,9:57 PM,2:07,MISS Carter 24' 3PT Jump Shot,,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+469,0021900716,682,4,0,4,9:57 PM,2:02,Collins REBOUND (Off:4 Def:16),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+470,0021900716,683,2,1,4,9:57 PM,1:48,MISS Reddish 24' 3PT Jump Shot,,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+471,0021900716,684,4,0,4,9:57 PM,1:46,,,Milton REBOUND (Off:0 Def:5),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+472,0021900716,686,6,2,4,9:58 PM,1:41,Carter S.FOUL (P3.PN) (B.Barnaky),,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+473,0021900716,688,3,11,4,9:58 PM,1:41,,,MISS Embiid Free Throw 1 of 2,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+474,0021900716,689,4,1,4,9:58 PM,1:41,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+475,0021900716,690,3,12,4,9:58 PM,1:41,,,Embiid Free Throw 2 of 2 (21 PTS),114 - 119,5,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+476,0021900716,691,1,7,4,9:59 PM,1:22,Collins 1' Dunk (17 PTS) (Reddish 2 AST),,,114 - 121,7,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+477,0021900716,693,6,2,4,9:59 PM,1:11,Carter S.FOUL (P4.PN) (P.Fraher),,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+478,0021900716,695,3,11,4,9:59 PM,1:11,,,Milton Free Throw 1 of 2 (25 PTS),115 - 121,6,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+479,0021900716,696,3,12,4,10:00 PM,1:11,,,Milton Free Throw 2 of 2 (26 PTS),116 - 121,5,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+480,0021900716,697,6,1,4,10:00 PM,1:04,,,Harris P.FOUL (P4.T2) (B.Barnaky),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+481,0021900716,699,6,28,4,10:00 PM,1:01,,,Embiid Personal Take Foul (P2.PN) (B.Barnaky),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+482,0021900716,701,3,11,4,10:01 PM,1:01,Carter Free Throw 1 of 2 (13 PTS),,,116 - 122,6,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+483,0021900716,702,3,12,4,10:01 PM,1:01,Carter Free Throw 2 of 2 (14 PTS),,,116 - 123,7,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+484,0021900716,703,9,1,4,10:01 PM,1:01,,,76ers Timeout: Regular (Reg.6 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+485,0021900716,704,6,2,4,10:03 PM,0:55,Reddish S.FOUL (P5.PN) (J.Van Duyne),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+486,0021900716,706,3,11,4,10:03 PM,0:55,,,MISS Milton Free Throw 1 of 2,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+487,0021900716,707,4,1,4,10:03 PM,0:55,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+488,0021900716,708,3,12,4,10:03 PM,0:55,,,Milton Free Throw 2 of 2 (27 PTS),117 - 123,6,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+489,0021900716,710,18,1,4,10:04 PM,0:54,,,,117 - 123,6,0,709,Ed O'Bannon,,,,,0,0,,,,,,1,0,,,,,,0
+490,0021900716,711,5,40,4,10:06 PM,0:54,Young Out of Bounds Lost Ball Turnover (P7.T16),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+491,0021900716,712,8,0,4,10:06 PM,0:54,SUB: Hunter FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+492,0021900716,714,2,63,4,10:07 PM,0:52,,,MISS Harris  3PT Fadeaway Jumper,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+493,0021900716,715,4,0,4,10:07 PM,0:51,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+494,0021900716,717,9,1,4,10:07 PM,0:47,HAWKS Timeout: Regular (Full 6 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+495,0021900716,718,8,0,4,10:08 PM,0:47,SUB: Huerter FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+496,0021900716,720,6,1,4,10:09 PM,0:41,,,Embiid P.FOUL (P3.PN) (B.Barnaky),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+497,0021900716,722,3,11,4,10:09 PM,0:41,Reddish Free Throw 1 of 2 (11 PTS),,,117 - 124,7,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+498,0021900716,723,3,12,4,10:09 PM,0:41,Reddish Free Throw 2 of 2 (12 PTS),,,117 - 125,8,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+499,0021900716,724,2,1,4,10:10 PM,0:36,,,MISS Scott 24' 3PT Jump Shot,,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+500,0021900716,725,4,0,4,10:10 PM,0:32,Carter REBOUND (Off:0 Def:5),,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+501,0021900716,726,6,28,4,10:10 PM,0:24,,,Milton Personal Take Foul (P4.PN) (B.Barnaky),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+502,0021900716,728,3,11,4,10:10 PM,0:24,Young Free Throw 1 of 2 (38 PTS),,,117 - 126,9,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+503,0021900716,729,3,12,4,10:10 PM,0:24,Young Free Throw 2 of 2 (39 PTS),,,117 - 127,10,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+504,0021900716,730,2,79,4,10:11 PM,0:19,,,MISS Milton 25' 3PT Pullup Jump Shot,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+505,0021900716,731,4,0,4,10:11 PM,0:16,,,Simmons REBOUND (Off:4 Def:2),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+506,0021900716,732,2,1,4,10:11 PM,0:13,,,MISS Scott  3PT Jump Shot,,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+507,0021900716,733,4,0,4,10:11 PM,0:09,Carter REBOUND (Off:0 Def:6),,,,,4,1713,Vince Carter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+508,0021900716,734,13,0,4,10:11 PM,0:00,,,,117 - 127,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,463 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021600093,0,12,0,1,7:11 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021600093,1,10,0,1,7:11 PM,12:00,Jump Ball Embiid vs. Gobert: Tip to Favors,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1
+2,0021600093,2,1,79,1,7:11 PM,11:34,,,Hayward 16' Pullup Jump Shot (2 PTS),2 - 0,-2,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+3,0021600093,3,1,1,1,7:12 PM,11:18,Covington 25' 3PT Jump Shot (3 PTS) (Rodriguez 1 AST),,,2 - 3,1,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+4,0021600093,4,1,42,1,7:12 PM,11:03,,,Gobert 3' Driving Layup (2 PTS) (Hood 1 AST),4 - 3,-1,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+5,0021600093,5,2,5,1,7:12 PM,10:41,MISS Embiid 1' Layup,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+6,0021600093,6,4,0,1,7:12 PM,10:39,,,Favors REBOUND (Off:0 Def:1),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+7,0021600093,7,5,1,1,7:13 PM,10:31,Embiid STEAL (1 STL),,Favors Bad Pass Turnover (P1.T1),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+8,0021600093,8,2,1,1,7:13 PM,10:25,MISS Rodriguez 25' 3PT Jump Shot,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+9,0021600093,9,4,0,1,7:13 PM,10:24,,,Gobert REBOUND (Off:0 Def:1),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+10,0021600093,10,6,1,1,7:13 PM,10:18,Henderson P.FOUL (P1.T1) (L.Holtkamp),,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+11,0021600093,32,2,45,1,7:13 PM,10:14,,,MISS Hood 19' Jump Shot,,,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+12,0021600093,42,4,0,1,7:13 PM,10:12,Embiid REBOUND (Off:0 Def:1),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+13,0021600093,18,1,45,1,7:14 PM,9:52,Saric 20' Jump Shot (2 PTS),,,4 - 5,1,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+14,0021600093,11,1,1,1,7:14 PM,9:35,,,Mack 25' 3PT Jump Shot (3 PTS) (Favors 1 AST),7 - 5,-2,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+15,0021600093,12,5,45,1,7:14 PM,9:31,Rodriguez Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+16,0021600093,13,2,1,1,7:14 PM,9:12,,,MISS Hayward 20' Jump Shot,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+17,0021600093,14,4,0,1,7:14 PM,9:11,,,Favors REBOUND (Off:1 Def:1),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+18,0021600093,16,2,1,1,7:14 PM,9:09,Embiid BLOCK (1 BLK),,MISS Favors 3' Jump Shot,,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+19,0021600093,17,4,0,1,7:14 PM,9:08,Rodriguez REBOUND (Off:0 Def:1),,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+20,0021600093,19,10,0,1,7:15 PM,9:07,Jump Ball Saric vs. Hood: Tip to Hayward,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1
+21,0021600093,20,5,2,1,7:15 PM,9:07,Saric Lost Ball Turnover (P1.T2),,Hood STEAL (1 STL),,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+22,0021600093,21,2,5,1,7:15 PM,8:36,,,MISS Gobert  Layup,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+23,0021600093,22,4,0,1,7:15 PM,8:34,Henderson REBOUND (Off:0 Def:1),,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+24,0021600093,23,2,1,1,7:15 PM,8:30,MISS Henderson 15' Jump Shot,,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+25,0021600093,24,4,0,1,7:15 PM,8:26,,,Hood REBOUND (Off:0 Def:1),,,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+26,0021600093,25,6,26,1,7:16 PM,8:25,,,Hood Offensive Charge Foul (P1.T1) (M.Smith),,,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,4,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+27,0021600093,26,5,5,1,7:16 PM,8:25,,,Hood Foul Turnover (P1.T2),,,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+28,0021600093,28,2,1,1,7:16 PM,8:08,MISS Embiid 4' Jump Shot,,Gobert BLOCK (1 BLK),,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1
+29,0021600093,29,4,0,1,7:16 PM,8:06,Rodriguez REBOUND (Off:1 Def:1),,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+30,0021600093,30,1,1,1,7:16 PM,8:00,Henderson 25' 3PT Jump Shot (3 PTS) (Rodriguez 2 AST),,,7 - 8,1,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+31,0021600093,31,2,1,1,7:17 PM,7:44,,,MISS Mack 8' Jump Shot,,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+32,0021600093,33,4,0,1,7:17 PM,7:41,,,Favors REBOUND (Off:2 Def:1),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+33,0021600093,34,5,2,1,7:17 PM,7:32,Henderson STEAL (1 STL),,Hayward Lost Ball Turnover (P1.T3),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+34,0021600093,35,2,5,1,7:17 PM,7:27,MISS Henderson 3' Layup,,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+35,0021600093,36,4,0,1,7:17 PM,7:24,,,Favors REBOUND (Off:2 Def:2),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+36,0021600093,37,6,2,1,7:17 PM,7:24,Embiid S.FOUL (P1.T2) (L.Holtkamp),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+37,0021600093,38,8,0,1,7:17 PM,7:24,SUB: Okafor FOR Embiid,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+38,0021600093,39,3,11,1,7:17 PM,7:24,,,Gobert Free Throw 1 of 2 (3 PTS),8 - 8,TIE,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+39,0021600093,41,3,12,1,7:18 PM,7:24,,,Gobert Free Throw 2 of 2 (4 PTS),9 - 8,-1,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+40,0021600093,45,1,1,1,7:18 PM,7:10,Covington 25' 3PT Jump Shot (6 PTS) (Rodriguez 3 AST),,,9 - 11,2,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+41,0021600093,46,1,47,1,7:18 PM,6:42,,,Favors 6' Turnaround Jump Shot (2 PTS) (Mack 1 AST),11 - 11,TIE,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+42,0021600093,47,2,1,1,7:19 PM,6:27,MISS Rodriguez 26' 3PT Jump Shot,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+43,0021600093,48,4,0,1,7:19 PM,6:25,,,Gobert REBOUND (Off:0 Def:2),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+44,0021600093,49,2,1,1,7:19 PM,6:17,,,MISS Hayward 3' Jump Shot,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+45,0021600093,50,4,0,1,7:19 PM,6:15,Covington REBOUND (Off:0 Def:1),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+46,0021600093,51,1,47,1,7:19 PM,6:04,Okafor 4' Turnaround Jump Shot (2 PTS),,,11 - 13,2,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+47,0021600093,52,9,1,1,7:19 PM,6:04,,,Jazz Timeout: Regular (Reg.1 Short 0),,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+48,0021600093,54,8,0,1,7:21 PM,6:04,SUB: Ilyasova FOR Henderson,,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+49,0021600093,56,8,0,1,7:22 PM,6:04,SUB: Stauskas FOR Saric,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+50,0021600093,58,5,2,1,7:22 PM,5:58,Rodriguez STEAL (1 STL),,Mack Lost Ball Turnover (P1.T4),,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+51,0021600093,60,6,2,1,7:22 PM,5:53,,,Favors S.FOUL (P1.T2) (L.Holtkamp),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+52,0021600093,61,3,11,1,7:22 PM,5:53,Covington Free Throw 1 of 2 (7 PTS),,,11 - 14,3,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+53,0021600093,64,8,0,1,7:23 PM,5:53,,,SUB: Ingles FOR Hood,,,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+54,0021600093,65,3,12,1,7:23 PM,5:53,MISS Covington Free Throw 2 of 2,,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+55,0021600093,68,4,0,1,7:23 PM,5:51,,,Gobert REBOUND (Off:0 Def:3),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+56,0021600093,70,1,1,1,7:23 PM,5:36,,,Favors 17' Jump Shot (4 PTS) (Ingles 1 AST),13 - 14,1,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+57,0021600093,72,1,1,1,7:23 PM,5:18,Rodriguez 17' Jump Shot (2 PTS),,,13 - 16,3,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+58,0021600093,73,6,1,1,7:24 PM,5:04,Covington P.FOUL (P1.T3) (B.Kennedy),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+59,0021600093,74,8,0,1,7:24 PM,5:04,SUB: McConnell FOR Rodriguez,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+60,0021600093,75,8,0,1,7:24 PM,5:04,,,SUB: Exum FOR Favors,,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+61,0021600093,76,8,0,1,7:24 PM,5:04,,,SUB: Lyles FOR Mack,,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+62,0021600093,77,8,0,1,7:24 PM,5:03,SUB: Thompson FOR Covington,,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+63,0021600093,79,1,49,1,7:24 PM,4:55,,,Gobert  Driving Dunk (6 PTS) (Hayward 1 AST),15 - 16,1,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+64,0021600093,80,5,1,1,7:24 PM,4:45,Ilyasova Bad Pass Turnover (P1.T3),,Ingles STEAL (1 STL),,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+65,0021600093,82,1,79,1,7:25 PM,4:29,,,Hayward 17' Pullup Jump Shot (4 PTS),17 - 16,-1,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+66,0021600093,83,6,2,1,7:25 PM,4:17,,,Lyles S.FOUL (P1.T3) (L.Holtkamp),,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,4,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+67,0021600093,84,3,11,1,7:25 PM,4:17,MISS Okafor Free Throw 1 of 2,,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+68,0021600093,86,4,1,1,7:25 PM,4:17,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+69,0021600093,87,3,12,1,7:26 PM,4:17,Okafor Free Throw 2 of 2 (3 PTS),,,17 - 17,TIE,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+70,0021600093,90,1,7,1,7:26 PM,4:02,,,Gobert  Dunk (8 PTS) (Hayward 2 AST),19 - 17,-2,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+71,0021600093,91,6,2,1,7:26 PM,4:02,Stauskas S.FOUL (P1.T4) (B.Kennedy),,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+72,0021600093,93,3,10,1,7:27 PM,4:02,,,MISS Gobert Free Throw 1 of 1,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+73,0021600093,95,4,0,1,7:27 PM,4:01,Okafor REBOUND (Off:0 Def:1),,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+74,0021600093,97,2,1,1,7:27 PM,3:49,MISS McConnell 6' Jump Shot,,Exum BLOCK (1 BLK),,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,1
+75,0021600093,98,4,0,1,7:27 PM,3:46,,,Gobert REBOUND (Off:0 Def:4),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+76,0021600093,100,2,42,1,7:27 PM,3:39,,,MISS Ingles 3' Driving Layup,,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+77,0021600093,102,4,0,1,7:27 PM,3:36,,,Ingles REBOUND (Off:1 Def:0),,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+78,0021600093,101,1,72,1,7:27 PM,3:36,,,Ingles 1' Putback Layup (2 PTS),21 - 17,-4,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+79,0021600093,104,2,1,1,7:27 PM,3:13,MISS Okafor 19' Jump Shot,,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+80,0021600093,105,4,0,1,7:27 PM,3:13,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+81,0021600093,106,6,3,1,7:27 PM,3:13,,,Lyles L.B.FOUL (P2.T4) (M.Smith),,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+82,0021600093,107,9,1,1,7:28 PM,3:13,76ERS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+83,0021600093,109,8,0,1,7:30 PM,3:13,SUB: Embiid FOR Okafor,,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+84,0021600093,111,1,80,1,7:30 PM,2:59,Ilyasova 24' 3PT Step Back Jump Shot (3 PTS) (McConnell 1 AST),,,21 - 20,-1,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+85,0021600093,113,6,4,1,7:31 PM,2:39,,,Gobert OFF.Foul (P1) (B.Kennedy),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+86,0021600093,114,5,5,1,7:31 PM,2:39,,,Gobert Foul Turnover (P1.T5),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+87,0021600093,115,2,1,1,7:32 PM,2:26,MISS Stauskas 26' 3PT Jump Shot,,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+88,0021600093,116,4,0,1,7:32 PM,2:24,,,Hayward REBOUND (Off:0 Def:1),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+89,0021600093,117,1,47,1,7:32 PM,2:16,,,Hayward 6' Turnaround Jump Shot (6 PTS),23 - 20,-3,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+90,0021600093,118,5,2,1,7:32 PM,2:03,Embiid Lost Ball Turnover (P1.T4),,Ingles STEAL (2 STL),,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+91,0021600093,119,1,41,1,7:32 PM,2:00,,,Ingles 3' Running Layup (4 PTS),25 - 20,-5,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+92,0021600093,120,6,2,1,7:32 PM,2:00,McConnell S.FOUL (P1.PN) (L.Holtkamp),,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+93,0021600093,121,8,0,1,7:32 PM,2:00,,,SUB: Johnson FOR Hayward,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+94,0021600093,122,8,0,1,7:32 PM,2:00,,,SUB: Favors FOR Gobert,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+95,0021600093,123,3,10,1,7:32 PM,2:00,,,Ingles Free Throw 1 of 1 (5 PTS),26 - 20,-6,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+96,0021600093,125,6,1,1,7:33 PM,1:55,,,Exum P.FOUL (P1.PN) (M.Smith),,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+97,0021600093,126,2,1,1,7:33 PM,1:44,MISS McConnell 15' Jump Shot,,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+98,0021600093,127,4,0,1,7:33 PM,1:42,,,Ingles REBOUND (Off:1 Def:1),,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+99,0021600093,128,2,1,1,7:33 PM,1:33,,,MISS Lyles 25' 3PT Jump Shot,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+100,0021600093,129,4,0,1,7:33 PM,1:32,,,Exum REBOUND (Off:1 Def:0),,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+101,0021600093,130,2,1,1,7:34 PM,1:19,,,MISS Ingles 19' Jump Shot,,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+102,0021600093,131,4,0,1,7:34 PM,1:19,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+103,0021600093,132,6,1,1,7:34 PM,1:08,,,Favors P.FOUL (P2.PN) (M.Smith),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+104,0021600093,133,3,11,1,7:34 PM,1:08,Embiid Free Throw 1 of 2 (1 PTS),,,26 - 21,-5,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+105,0021600093,135,3,12,1,7:34 PM,1:08,MISS Embiid Free Throw 2 of 2,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+106,0021600093,137,4,0,1,7:35 PM,1:06,,,Favors REBOUND (Off:2 Def:3),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+107,0021600093,138,2,1,1,7:35 PM,0:50,,,MISS Lyles 6' Jump Shot,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+108,0021600093,140,4,0,1,7:35 PM,0:50,,,Favors REBOUND (Off:3 Def:3),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+109,0021600093,139,1,72,1,7:35 PM,0:50,,,Favors 1' Putback Layup (6 PTS),28 - 21,-7,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+110,0021600093,141,5,1,1,7:35 PM,0:40,Ilyasova Bad Pass Turnover (P2.T5),,Ingles STEAL (3 STL),,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+111,0021600093,142,1,76,1,7:35 PM,0:38,,,Ingles 1' Running Finger Roll Layup (7 PTS),30 - 21,-9,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+112,0021600093,143,1,42,1,7:36 PM,0:25,Stauskas 2' Driving Layup (2 PTS) (McConnell 2 AST),,,30 - 23,-7,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+113,0021600093,145,6,6,1,7:36 PM,0:25,,,Exum AWAY.FROM.PLAY.FOUL (P2.PN) (B.Kennedy),,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+114,0021600093,146,18,0,1,7:37 PM,0:25,,,,,,,143,Terry Dehere,,,,,0,0,,,,,,1,0,,,,,,0
+115,0021600093,147,8,0,1,7:37 PM,0:25,,,SUB: Hayward FOR Ingles,,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+116,0021600093,148,3,10,1,7:37 PM,0:25,Embiid Free Throw 1 of 1 (2 PTS),,,30 - 24,-6,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+117,0021600093,150,8,0,1,7:38 PM,0:25,,,SUB: Hood FOR Lyles,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+118,0021600093,151,2,1,1,7:38 PM,0:02,,,MISS Exum 25' 3PT Jump Shot,,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+119,0021600093,152,4,0,1,7:38 PM,0:01,Stauskas REBOUND (Off:0 Def:1),,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+120,0021600093,153,13,0,1,7:38 PM,0:00,,,,30 - 24,-6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+121,0021600093,156,12,0,2,7:41 PM,12:00,,,,30 - 24,-6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+122,0021600093,159,2,5,2,7:41 PM,11:39,MISS Ilyasova 2' Layup,,Ingles BLOCK (1 BLK),,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,1
+123,0021600093,160,4,0,2,7:41 PM,11:39,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+124,0021600093,161,1,1,2,7:42 PM,11:36,Ilyasova 20' Jump Shot (5 PTS) (McConnell 3 AST),,,30 - 26,-4,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+125,0021600093,162,1,79,2,7:42 PM,11:10,,,Hood 18' Pullup Jump Shot (2 PTS),32 - 26,-6,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+126,0021600093,163,2,1,2,7:42 PM,10:59,MISS Ilyasova 25' 3PT Jump Shot,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+127,0021600093,164,4,0,2,7:42 PM,10:57,,,Favors REBOUND (Off:3 Def:4),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+128,0021600093,165,6,2,2,7:43 PM,10:41,Okafor S.FOUL (P1.T1) (B.Kennedy),,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+129,0021600093,166,3,11,2,7:43 PM,10:41,,,MISS Favors Free Throw 1 of 2,,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+130,0021600093,167,4,1,2,7:43 PM,10:41,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+131,0021600093,168,3,12,2,7:43 PM,10:41,,,Favors Free Throw 2 of 2 (7 PTS),33 - 26,-7,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+132,0021600093,170,1,1,2,7:44 PM,10:25,Stauskas 25' 3PT Jump Shot (5 PTS),,,33 - 29,-4,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+133,0021600093,171,1,79,2,7:44 PM,10:09,,,Favors 12' Pullup Jump Shot (9 PTS) (Ingles 2 AST),35 - 29,-6,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+134,0021600093,172,1,42,2,7:44 PM,9:53,Okafor 3' Driving Layup (5 PTS),,,35 - 31,-4,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+135,0021600093,173,1,79,2,7:44 PM,9:32,,,Hood 18' Pullup Jump Shot (4 PTS),37 - 31,-6,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+136,0021600093,174,1,98,2,7:45 PM,9:21,Thompson 2' Cutting Layup Shot (2 PTS) (Ilyasova 1 AST),,,37 - 33,-4,4.0,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+137,0021600093,175,6,2,2,7:45 PM,9:06,Okafor S.FOUL (P2.T2) (M.Smith),,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+138,0021600093,176,3,11,2,7:45 PM,9:06,,,MISS Favors Free Throw 1 of 2,,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+139,0021600093,177,4,1,2,7:45 PM,9:06,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+140,0021600093,178,8,0,2,7:45 PM,9:06,,,SUB: Mack FOR Exum,,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+141,0021600093,179,8,0,2,7:46 PM,9:06,SUB: Saric FOR Ilyasova,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+142,0021600093,180,8,0,2,7:46 PM,9:06,SUB: Henderson FOR Thompson,,,,,4.0,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,4,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+143,0021600093,181,3,12,2,7:46 PM,9:06,,,Favors Free Throw 2 of 2 (10 PTS),38 - 33,-5,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+144,0021600093,183,2,5,2,7:46 PM,8:43,MISS Okafor 3' Layup,,Favors BLOCK (1 BLK),,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1
+145,0021600093,184,4,0,2,7:46 PM,8:40,Stauskas REBOUND (Off:1 Def:1),,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+146,0021600093,185,1,7,2,7:46 PM,8:39,Stauskas  Dunk (7 PTS),,,38 - 35,-3,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+147,0021600093,186,2,1,2,7:47 PM,8:31,Okafor BLOCK (1 BLK),,MISS Favors 3' Jump Shot,,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,1
+148,0021600093,187,4,0,2,7:47 PM,8:29,Henderson REBOUND (Off:0 Def:2),,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+149,0021600093,188,6,1,2,7:47 PM,8:28,,,Mack P.FOUL (P1.T1) (L.Holtkamp),,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,4,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+150,0021600093,189,9,4,2,7:47 PM,8:28,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+151,0021600093,190,18,0,2,7:48 PM,8:28,,,,,,,161,,,,,,0,0,,,,,,1,0,,,,,,0
+152,0021600093,191,8,0,2,7:49 PM,8:28,SUB: Rodriguez FOR McConnell,,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+153,0021600093,192,8,0,2,7:49 PM,8:28,SUB: Covington FOR Stauskas,,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+154,0021600093,193,8,0,2,7:49 PM,8:28,,,SUB: Lyles FOR Ingles,,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+155,0021600093,194,8,0,2,7:49 PM,8:28,,,SUB: Gobert FOR Favors,,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+156,0021600093,195,6,4,2,7:50 PM,8:22,Okafor OFF.Foul (P3) (M.Smith),,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+157,0021600093,196,5,5,2,7:50 PM,8:22,Okafor Foul Turnover (P1.T6),,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+158,0021600093,197,2,80,2,7:50 PM,8:04,,,MISS Johnson 7' Step Back Jump Shot,,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+159,0021600093,198,4,0,2,7:50 PM,8:02,Saric REBOUND (Off:0 Def:1),,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+160,0021600093,199,2,44,2,7:50 PM,7:47,MISS Okafor 2' Reverse Layup,,Gobert BLOCK (2 BLK),,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1
+161,0021600093,200,4,0,2,7:50 PM,7:44,,,Gobert REBOUND (Off:0 Def:5),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+162,0021600093,201,2,1,2,7:51 PM,7:30,,,MISS Mack 18' Jump Shot,,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+163,0021600093,202,4,0,2,7:51 PM,7:29,Covington REBOUND (Off:0 Def:2),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+164,0021600093,203,2,5,2,7:51 PM,7:18,MISS Saric 1' Layup,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+165,0021600093,204,4,0,2,7:51 PM,7:16,,,Johnson REBOUND (Off:0 Def:1),,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+166,0021600093,205,1,42,2,7:51 PM,7:07,,,Hood 2' Driving Layup (6 PTS),40 - 35,-5,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+167,0021600093,206,2,1,2,7:51 PM,6:47,MISS Henderson 27' 3PT Jump Shot,,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+168,0021600093,207,4,0,2,7:51 PM,6:46,,,Gobert REBOUND (Off:0 Def:6),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+169,0021600093,208,1,1,2,7:52 PM,6:31,,,Lyles 26' 3PT Jump Shot (3 PTS) (Johnson 1 AST),43 - 35,-8,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,5,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+170,0021600093,209,9,1,2,7:52 PM,6:30,76ERS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+171,0021600093,210,8,0,2,7:54 PM,6:30,SUB: Embiid FOR Okafor,,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+172,0021600093,211,6,2,2,7:54 PM,6:18,,,Gobert S.FOUL (P2.T2) (B.Kennedy),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+173,0021600093,212,3,11,2,7:54 PM,6:18,MISS Embiid Free Throw 1 of 2,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+174,0021600093,213,4,1,2,7:54 PM,6:18,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+175,0021600093,214,3,12,2,7:55 PM,6:18,Embiid Free Throw 2 of 2 (3 PTS),,,43 - 36,-7,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+176,0021600093,217,1,1,2,7:55 PM,6:05,,,Hood 27' 3PT Jump Shot (9 PTS) (Mack 2 AST),46 - 36,-10,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+177,0021600093,218,2,1,2,7:55 PM,5:44,MISS Henderson 19' Jump Shot,,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+178,0021600093,219,4,0,2,7:55 PM,5:42,Embiid REBOUND (Off:1 Def:1),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+179,0021600093,220,5,2,2,7:56 PM,5:34,Embiid Lost Ball Turnover (P2.T7),,Gobert STEAL (1 STL),,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+180,0021600093,221,6,2,2,7:56 PM,5:27,Embiid S.FOUL (P2.T3) (L.Holtkamp),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+181,0021600093,222,3,11,2,7:56 PM,5:27,,,MISS Gobert Free Throw 1 of 2,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+182,0021600093,223,4,1,2,7:56 PM,5:27,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+183,0021600093,224,8,0,2,7:56 PM,5:27,,,SUB: Hayward FOR Johnson,,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+184,0021600093,225,3,12,2,7:56 PM,5:27,,,MISS Gobert Free Throw 2 of 2,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+185,0021600093,227,4,0,2,7:56 PM,5:25,Embiid REBOUND (Off:1 Def:2),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+186,0021600093,228,2,75,2,7:57 PM,5:10,MISS Rodriguez 2' Driving Finger Roll Layup,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+187,0021600093,229,4,0,2,7:57 PM,5:09,Embiid REBOUND (Off:2 Def:2),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+188,0021600093,230,2,5,2,7:57 PM,5:09,MISS Embiid 1' Layup,,Lyles BLOCK (1 BLK),,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,1
+189,0021600093,231,4,0,2,7:57 PM,5:09,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+190,0021600093,232,2,42,2,7:57 PM,4:53,,,MISS Hood 4' Driving Layup,,,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+191,0021600093,233,4,0,2,7:57 PM,4:50,Embiid REBOUND (Off:2 Def:3),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+192,0021600093,235,2,3,2,7:58 PM,4:34,MISS Embiid 3' Hook Shot,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+193,0021600093,236,4,0,2,7:58 PM,4:32,Embiid REBOUND (Off:3 Def:3),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+194,0021600093,237,1,72,2,7:58 PM,4:31,Embiid 2' Putback Layup (5 PTS),,,46 - 38,-8,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+195,0021600093,238,6,4,2,7:58 PM,4:23,,,Gobert OFF.Foul (P3) (M.Smith),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+196,0021600093,239,5,5,2,7:58 PM,4:23,,,Gobert Foul Turnover (P2.T6),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+197,0021600093,240,8,0,2,7:58 PM,4:23,,,SUB: Johnson FOR Mack,,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,5,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+198,0021600093,241,8,0,2,7:58 PM,4:23,,,SUB: Exum FOR Gobert,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+199,0021600093,243,8,0,2,7:58 PM,4:23,,,SUB: Favors FOR Hood,,,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+200,0021600093,244,6,2,2,7:59 PM,4:12,,,Exum S.FOUL (P3.T3) (B.Kennedy),,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+201,0021600093,245,3,11,2,7:59 PM,4:12,MISS Embiid Free Throw 1 of 2,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+202,0021600093,246,4,1,2,7:59 PM,4:12,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+203,0021600093,247,8,0,2,7:59 PM,4:12,,,SUB: Mack FOR Exum,,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+204,0021600093,248,3,12,2,7:59 PM,4:12,Embiid Free Throw 2 of 2 (6 PTS),,,46 - 39,-7,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+205,0021600093,251,2,1,2,8:00 PM,3:59,,,MISS Mack 12' Jump Shot,,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+206,0021600093,252,4,0,2,8:00 PM,3:57,,,Johnson REBOUND (Off:1 Def:1),,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+207,0021600093,253,2,1,2,8:00 PM,3:52,,,MISS Lyles 26' 3PT Jump Shot,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+208,0021600093,254,4,0,2,8:00 PM,3:51,Embiid REBOUND (Off:3 Def:4),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+209,0021600093,255,5,4,2,8:00 PM,3:49,Embiid Traveling Turnover (P3.T8),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+210,0021600093,256,9,1,2,8:00 PM,3:49,,,Jazz Timeout: Regular (Reg.2 Short 0),,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+211,0021600093,258,1,49,2,8:03 PM,3:42,,,Hayward  Driving Dunk (8 PTS),48 - 39,-9,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+212,0021600093,259,1,1,2,8:03 PM,3:25,Saric 22' Jump Shot (4 PTS) (Rodriguez 4 AST),,,48 - 41,-7,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+213,0021600093,260,2,1,2,8:03 PM,3:08,,,MISS Favors 18' Jump Shot,,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+214,0021600093,261,4,0,2,8:04 PM,3:07,Rodriguez REBOUND (Off:1 Def:2),,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+215,0021600093,262,5,1,2,8:04 PM,2:53,Saric Bad Pass Turnover (P2.T9),,Favors STEAL (1 STL),,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+216,0021600093,263,1,101,2,8:04 PM,2:45,,,Mack 7' Driving Floating Jump Shot (5 PTS),50 - 41,-9,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+217,0021600093,265,8,0,2,8:04 PM,2:26,SUB: Okafor FOR Embiid,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+218,0021600093,266,8,0,2,8:04 PM,2:26,SUB: Ilyasova FOR Saric,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+219,0021600093,267,8,0,2,8:04 PM,2:26,,,SUB: Hood FOR Johnson,,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+220,0021600093,268,2,1,2,8:05 PM,2:22,MISS Rodriguez 24' 3PT Jump Shot,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+221,0021600093,269,4,0,2,8:05 PM,2:20,,,Favors REBOUND (Off:3 Def:5),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+222,0021600093,270,2,1,2,8:05 PM,2:08,,,MISS Lyles 13' Jump Shot,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+223,0021600093,271,4,0,2,8:05 PM,2:06,Rodriguez REBOUND (Off:1 Def:3),,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+224,0021600093,272,2,5,2,8:05 PM,2:00,MISS Ilyasova 2' Layup,,Favors BLOCK (2 BLK),,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1
+225,0021600093,273,4,0,2,8:05 PM,1:58,Ilyasova REBOUND (Off:1 Def:0),,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+226,0021600093,274,2,5,2,8:05 PM,1:57,MISS Ilyasova 1' Layup,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+227,0021600093,275,4,0,2,8:05 PM,1:55,,,Hood REBOUND (Off:0 Def:2),,,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+228,0021600093,276,5,15,2,8:05 PM,1:51,,,Lyles Offensive Goaltending Turnover (P1.T7),,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+229,0021600093,277,8,0,2,8:05 PM,1:51,SUB: Stauskas FOR Henderson,,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,4,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+230,0021600093,278,2,1,2,8:06 PM,1:39,MISS Rodriguez 11' Jump Shot,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+231,0021600093,279,4,0,2,8:06 PM,1:38,,,Favors REBOUND (Off:3 Def:6),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+232,0021600093,280,1,44,2,8:06 PM,1:29,,,Hayward 1' Reverse Layup (10 PTS) (Mack 3 AST),52 - 41,-11,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+233,0021600093,281,2,1,2,8:06 PM,1:15,MISS Ilyasova 4' Jump Shot,,Favors BLOCK (3 BLK),,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1
+234,0021600093,282,4,0,2,8:06 PM,1:13,Okafor REBOUND (Off:1 Def:1),,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+235,0021600093,283,1,72,2,8:06 PM,1:12,Okafor 1' Putback Layup (7 PTS),,,52 - 43,-9,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+236,0021600093,284,9,2,2,8:06 PM,1:05,,,Jazz Timeout: Short (Reg.2 Short 1),,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+237,0021600093,286,8,0,2,8:07 PM,1:05,SUB: Saric FOR Okafor,,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+238,0021600093,287,8,0,2,8:07 PM,1:05,,,SUB: Ingles FOR Lyles,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+239,0021600093,289,6,1,2,8:08 PM,1:00,Stauskas P.FOUL (P2.T4) (B.Kennedy),,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+240,0021600093,290,2,5,2,8:08 PM,0:56,,,MISS Hayward 3' Layup,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+241,0021600093,291,4,0,2,8:08 PM,0:54,Covington REBOUND (Off:0 Def:3),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+242,0021600093,292,5,1,2,8:08 PM,0:43,Rodriguez Bad Pass Turnover (P2.T10),,Mack STEAL (1 STL),,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+243,0021600093,293,2,1,2,8:09 PM,0:31,,,MISS Hood 24' Jump Shot,,,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+244,0021600093,294,4,0,2,8:09 PM,0:30,Covington REBOUND (Off:0 Def:4),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+245,0021600093,295,2,1,2,8:09 PM,0:12,MISS Rodriguez 25' 3PT Jump Shot,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+246,0021600093,296,4,0,2,8:09 PM,0:11,,,Favors REBOUND (Off:3 Def:7),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+247,0021600093,297,5,2,2,8:10 PM,0:00,Rodriguez STEAL (2 STL),,Hayward Lost Ball Turnover (P2.T8),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+248,0021600093,298,13,0,2,8:10 PM,0:00,,,,52 - 43,-9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+249,0021600093,300,12,0,3,8:25 PM,12:00,,,,52 - 43,-9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+250,0021600093,301,2,1,3,8:25 PM,11:46,MISS Saric 21' Jump Shot,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+251,0021600093,302,4,0,3,8:25 PM,11:46,Embiid REBOUND (Off:4 Def:4),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+252,0021600093,303,6,3,3,8:25 PM,11:46,,,Gobert L.B.FOUL (P4.T1) (M.Smith),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+253,0021600093,304,8,0,3,8:26 PM,11:46,,,SUB: Lyles FOR Gobert,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+254,0021600093,305,1,5,3,8:26 PM,11:33,Covington 2' Layup (9 PTS) (Saric 1 AST),,,52 - 45,-7,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+255,0021600093,306,2,1,3,8:27 PM,11:09,,,MISS Hayward 25' 3PT Jump Shot,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+256,0021600093,307,4,0,3,8:27 PM,11:07,Henderson REBOUND (Off:0 Def:3),,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+257,0021600093,308,2,1,3,8:27 PM,11:00,MISS Henderson 17' Jump Shot,,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+258,0021600093,309,4,0,3,8:27 PM,10:59,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+259,0021600093,310,6,3,3,8:27 PM,10:59,,,Mack L.B.FOUL (P2.T2) (B.Kennedy),,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+260,0021600093,311,6,2,3,8:27 PM,10:46,,,Favors S.FOUL (P3.T3) (L.Holtkamp),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+261,0021600093,312,3,11,3,8:27 PM,10:46,Embiid Free Throw 1 of 2 (7 PTS),,,52 - 46,-6,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+262,0021600093,314,3,12,3,8:28 PM,10:46,Embiid Free Throw 2 of 2 (8 PTS),,,52 - 47,-5,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+263,0021600093,316,1,76,3,8:28 PM,10:41,,,Lyles 2' Running Finger Roll Layup (5 PTS),54 - 47,-7,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+264,0021600093,317,6,4,3,8:28 PM,10:32,Embiid OFF.Foul (P3) (M.Smith),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+265,0021600093,318,5,5,3,8:28 PM,10:32,Embiid Foul Turnover (P4.T11),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+266,0021600093,319,6,1,3,8:29 PM,10:24,Covington P.FOUL (P2.T1) (B.Kennedy),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+267,0021600093,320,2,1,3,8:29 PM,10:11,,,MISS Hayward 20' Jump Shot,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+268,0021600093,321,4,0,3,8:29 PM,10:10,Saric REBOUND (Off:0 Def:2),,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+269,0021600093,325,2,5,3,8:29 PM,9:54,MISS Saric 1' Layup,,Hood BLOCK (1 BLK),,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,1
+270,0021600093,327,4,0,3,8:30 PM,9:50,,,Favors REBOUND (Off:3 Def:8),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+271,0021600093,326,1,1,3,8:30 PM,9:50,,,Favors 8' Jump Shot (12 PTS) (Lyles 1 AST),56 - 47,-9,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+272,0021600093,328,1,47,3,8:30 PM,9:24,Rodriguez 20' Turnaround Jump Shot (4 PTS),,,56 - 49,-7,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+273,0021600093,329,6,2,3,8:30 PM,9:15,Embiid S.FOUL (P4.T2) (L.Holtkamp),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+274,0021600093,330,3,11,3,8:31 PM,9:15,,,MISS Favors Free Throw 1 of 2,,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+275,0021600093,331,4,1,3,8:31 PM,9:15,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+276,0021600093,332,8,0,3,8:31 PM,9:15,SUB: Okafor FOR Embiid,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+277,0021600093,333,3,12,3,8:31 PM,9:15,,,Favors Free Throw 2 of 2 (13 PTS),57 - 49,-8,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+278,0021600093,335,1,5,3,8:31 PM,9:00,Okafor 2' Layup (9 PTS) (Rodriguez 5 AST),,,57 - 51,-6,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,4,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+279,0021600093,336,1,1,3,8:32 PM,8:41,,,Hood 27' 3PT Jump Shot (12 PTS) (Hayward 3 AST),60 - 51,-9,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+280,0021600093,337,6,26,3,8:32 PM,8:22,Henderson Offensive Charge Foul (P2.T3) (L.Holtkamp),,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+281,0021600093,338,5,5,3,8:32 PM,8:22,Henderson Foul Turnover (P1.T12),,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+282,0021600093,339,8,0,3,8:32 PM,8:22,SUB: Ilyasova FOR Saric,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+283,0021600093,340,2,1,3,8:33 PM,8:05,,,MISS Lyles 19' Jump Shot,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+284,0021600093,341,4,0,3,8:33 PM,8:03,Covington REBOUND (Off:0 Def:5),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+285,0021600093,342,1,1,3,8:33 PM,7:56,Covington 26' 3PT Jump Shot (12 PTS) (Ilyasova 2 AST),,,60 - 54,-6,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+286,0021600093,343,1,47,3,8:33 PM,7:42,,,Favors 6' Turnaround Jump Shot (15 PTS) (Mack 4 AST),62 - 54,-8,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+287,0021600093,344,2,80,3,8:33 PM,7:32,MISS Ilyasova 25' 3PT Step Back Jump Shot,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+288,0021600093,345,4,0,3,8:33 PM,7:31,,,Hayward REBOUND (Off:0 Def:2),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+289,0021600093,346,2,44,3,8:34 PM,7:15,,,MISS Favors 1' Reverse Layup,,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+290,0021600093,347,4,0,3,8:34 PM,7:13,Ilyasova REBOUND (Off:1 Def:1),,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+291,0021600093,348,2,47,3,8:34 PM,7:02,MISS Okafor 3' Turnaround Jump Shot,,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+292,0021600093,349,4,0,3,8:34 PM,7:00,,,Favors REBOUND (Off:3 Def:9),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+293,0021600093,350,1,79,3,8:34 PM,6:52,,,Mack 26' 3PT Pullup Jump Shot (8 PTS),65 - 54,-11,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+294,0021600093,351,9,1,3,8:34 PM,6:51,76ERS Timeout: Regular (Full 3 Short 0),,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+295,0021600093,352,8,0,3,8:36 PM,6:51,SUB: Thompson FOR Henderson,,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+296,0021600093,353,8,0,3,8:37 PM,6:51,,,SUB: Ingles FOR Hood,,,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+297,0021600093,355,5,4,3,8:37 PM,6:36,Okafor Traveling Turnover (P2.T13),,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+298,0021600093,356,2,1,3,8:37 PM,6:18,,,MISS Favors 14' Jump Shot,,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+299,0021600093,357,4,0,3,8:37 PM,6:17,Okafor REBOUND (Off:1 Def:2),,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+300,0021600093,358,2,1,3,8:38 PM,6:06,MISS Covington 27' 3PT Jump Shot,,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+301,0021600093,359,4,0,3,8:38 PM,6:04,,,Favors REBOUND (Off:3 Def:10),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+302,0021600093,360,1,79,3,8:38 PM,5:54,,,Hayward 19' Pullup Jump Shot (12 PTS),67 - 54,-13,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+303,0021600093,361,2,5,3,8:38 PM,5:39,MISS Okafor 2' Layup,,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+304,0021600093,362,4,0,3,8:38 PM,5:38,,,Hayward REBOUND (Off:0 Def:3),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+305,0021600093,363,6,26,3,8:38 PM,5:28,,,Hayward Offensive Charge Foul (P1.T4) (B.Kennedy),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+306,0021600093,364,5,5,3,8:38 PM,5:28,,,Hayward Foul Turnover (P3.T9),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+307,0021600093,365,8,0,3,8:38 PM,5:28,SUB: McConnell FOR Rodriguez,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+308,0021600093,366,8,0,3,8:38 PM,5:28,SUB: Stauskas FOR Covington,,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+309,0021600093,367,2,1,3,8:39 PM,5:14,MISS Ilyasova 13' Jump Shot,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+310,0021600093,368,4,0,3,8:39 PM,5:12,Okafor REBOUND (Off:2 Def:2),,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+311,0021600093,369,2,5,3,8:39 PM,5:10,MISS Okafor 2' Layup,,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+312,0021600093,370,4,0,3,8:39 PM,5:08,,,Ingles REBOUND (Off:1 Def:2),,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+313,0021600093,371,2,1,3,8:39 PM,5:01,,,MISS Ingles 24' 3PT Jump Shot,,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+314,0021600093,372,4,0,3,8:39 PM,4:59,McConnell REBOUND (Off:0 Def:1),,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+315,0021600093,373,5,1,3,8:39 PM,4:41,McConnell Bad Pass Turnover (P1.T14),,Mack STEAL (2 STL),,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+316,0021600093,374,1,5,3,8:40 PM,4:24,,,Hayward 3' Layup (14 PTS) (Mack 5 AST),69 - 54,-15,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+317,0021600093,375,2,1,3,8:40 PM,4:02,MISS Thompson 17' Jump Shot,,,,,4.0,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+318,0021600093,376,4,0,3,8:40 PM,4:01,,,Hayward REBOUND (Off:0 Def:4),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+319,0021600093,377,6,2,3,8:40 PM,3:49,Thompson S.FOUL (P1.T4) (L.Holtkamp),,,,,4.0,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+320,0021600093,378,3,11,3,8:40 PM,3:49,,,Favors Free Throw 1 of 2 (16 PTS),70 - 54,-16,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+321,0021600093,380,8,0,3,8:41 PM,3:49,,,SUB: Exum FOR Mack,,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+322,0021600093,381,8,0,3,8:41 PM,3:49,SUB: Holmes FOR Okafor,,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,4,1626158,Richaun Holmes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+323,0021600093,382,3,12,3,8:41 PM,3:49,,,MISS Favors Free Throw 2 of 2,,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+324,0021600093,384,4,0,3,8:41 PM,3:49,Ilyasova REBOUND (Off:1 Def:2),,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+325,0021600093,385,6,1,3,8:42 PM,3:31,,,Exum P.FOUL (P4.PN) (M.Smith),,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,4,1626158,Richaun Holmes,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+326,0021600093,386,8,0,3,8:42 PM,3:31,,,SUB: Withey FOR Favors,,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+327,0021600093,387,5,45,3,8:42 PM,3:29,Stauskas Out of Bounds - Bad Pass Turnover Turnover (P1.T15),,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+328,0021600093,388,2,42,3,8:42 PM,3:17,,,MISS Lyles 3' Driving Layup,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+329,0021600093,389,4,0,3,8:42 PM,3:15,Thompson REBOUND (Off:0 Def:1),,,,,4.0,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+330,0021600093,390,6,29,3,8:42 PM,3:04,,,Withey Shooting Block Foul (P1.PN) (B.Kennedy),,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+331,0021600093,391,3,11,3,8:43 PM,3:04,Ilyasova Free Throw 1 of 2 (6 PTS),,,70 - 55,-15,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+332,0021600093,392,3,12,3,8:43 PM,3:04,Ilyasova Free Throw 2 of 2 (7 PTS),,,70 - 56,-14,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+333,0021600093,394,2,5,3,8:43 PM,2:54,,,MISS Exum 2' Layup,,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+334,0021600093,396,4,0,3,8:44 PM,2:52,,,Withey REBOUND (Off:1 Def:0),,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+335,0021600093,395,1,97,3,8:44 PM,2:52,,,Withey 1' Tip Layup Shot (2 PTS),72 - 56,-16,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+336,0021600093,397,2,1,3,8:44 PM,2:43,MISS Ilyasova 25' 3PT Jump Shot,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+337,0021600093,398,4,0,3,8:44 PM,2:41,,,Exum REBOUND (Off:1 Def:1),,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+338,0021600093,399,2,1,3,8:44 PM,2:29,,,MISS Hayward 26' 3PT Jump Shot,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+339,0021600093,400,4,0,3,8:44 PM,2:28,Thompson REBOUND (Off:0 Def:2),,,,,4.0,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+340,0021600093,401,2,1,3,8:44 PM,2:08,MISS Stauskas 24' 3PT Jump Shot,,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+341,0021600093,402,4,0,3,8:44 PM,2:06,,,Hayward REBOUND (Off:0 Def:5),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+342,0021600093,403,2,42,3,8:45 PM,1:48,,,MISS Hayward 6' Driving Layup,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+343,0021600093,404,4,0,3,8:45 PM,1:47,,,Hayward REBOUND (Off:1 Def:5),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+344,0021600093,405,2,63,3,8:45 PM,1:44,,,MISS Hayward 13' Fadeaway Jumper,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+345,0021600093,406,4,0,3,8:45 PM,1:42,Holmes REBOUND (Off:0 Def:1),,,,,4.0,1626158,Richaun Holmes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+346,0021600093,407,6,2,3,8:45 PM,1:37,,,Hayward S.FOUL (P2.PN) (L.Holtkamp),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+347,0021600093,408,9,1,3,8:45 PM,1:37,,,Jazz Timeout: Regular (Reg.3 Short 1),,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+348,0021600093,409,3,13,3,8:46 PM,1:37,Ilyasova Free Throw 1 of 3 (8 PTS),,,72 - 57,-15,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+349,0021600093,410,8,0,3,8:47 PM,1:37,SUB: Embiid FOR Holmes,,,,,4.0,1626158,Richaun Holmes,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+350,0021600093,411,8,0,3,8:47 PM,1:37,,,SUB: Hood FOR Ingles,,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+351,0021600093,412,8,0,3,8:47 PM,1:37,,,SUB: Johnson FOR Hayward,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+352,0021600093,413,3,14,3,8:48 PM,1:37,Ilyasova Free Throw 2 of 3 (9 PTS),,,72 - 58,-14,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+353,0021600093,415,3,15,3,8:48 PM,1:37,Ilyasova Free Throw 3 of 3 (10 PTS),,,72 - 59,-13,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+354,0021600093,417,2,1,3,8:48 PM,1:19,,,MISS Lyles 10' Jump Shot,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+355,0021600093,418,4,0,3,8:48 PM,1:18,,,Johnson REBOUND (Off:2 Def:1),,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+356,0021600093,419,2,40,3,8:48 PM,1:12,,,MISS Johnson 5' Layup,,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+357,0021600093,420,4,0,3,8:48 PM,1:09,Embiid REBOUND (Off:4 Def:5),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+358,0021600093,421,1,58,3,8:49 PM,1:00,Embiid 6' Turnaround Hook Shot (10 PTS),,,72 - 61,-11,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+359,0021600093,422,2,1,3,8:49 PM,0:44,,,MISS Hood 8' Jump Shot,,,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+360,0021600093,424,4,0,3,8:49 PM,0:43,,,Withey REBOUND (Off:2 Def:0),,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+361,0021600093,423,1,44,3,8:49 PM,0:43,,,Withey 1' Reverse Layup (4 PTS),74 - 61,-13,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+362,0021600093,425,2,1,3,8:49 PM,0:28,MISS Ilyasova 26' 3PT Jump Shot,,,,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+363,0021600093,426,4,0,3,8:49 PM,0:26,,,Lyles REBOUND (Off:0 Def:1),,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+364,0021600093,428,6,1,3,8:50 PM,0:09,Stauskas P.FOUL (P3.PN) (M.Smith),,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+365,0021600093,430,1,1,3,8:50 PM,0:04,,,Exum 25' 3PT Jump Shot (3 PTS) (Withey 1 AST),77 - 61,-16,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+366,0021600093,431,13,0,3,8:50 PM,0:00,,,,77 - 61,-16,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+367,0021600093,432,12,0,4,8:53 PM,12:00,,,,77 - 61,-16,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+368,0021600093,433,2,86,4,8:53 PM,11:39,,,MISS Hood 5' Turnaround Fadeaway Shot,,,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+369,0021600093,434,4,0,4,8:53 PM,11:38,Covington REBOUND (Off:0 Def:6),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+370,0021600093,435,1,96,4,8:54 PM,11:19,Embiid 8' Turnaround Bank Hook Shot (12 PTS),,,77 - 63,-14,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+371,0021600093,436,1,1,4,8:54 PM,10:57,,,Hood 26' 3PT Jump Shot (15 PTS) (Lyles 2 AST),80 - 63,-17,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+372,0021600093,437,1,1,4,8:54 PM,10:36,Embiid 17' Jump Shot (14 PTS) (Saric 2 AST),,,80 - 65,-15,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+373,0021600093,438,1,75,4,8:55 PM,10:18,,,Exum 2' Driving Finger Roll Layup (5 PTS),82 - 65,-17,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+374,0021600093,439,6,1,4,8:55 PM,10:05,,,Gobert P.FOUL (P5.T1) (L.Holtkamp),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+375,0021600093,440,8,0,4,8:55 PM,10:05,,,SUB: Favors FOR Gobert,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+376,0021600093,441,5,4,4,8:56 PM,9:52,Embiid Traveling Turnover (P5.T16),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+377,0021600093,442,2,1,4,8:56 PM,9:33,,,MISS Hood 24' 3PT Jump Shot,,,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+378,0021600093,443,4,0,4,8:56 PM,9:31,Covington REBOUND (Off:0 Def:7),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+379,0021600093,444,1,42,4,8:57 PM,9:24,Rodriguez 2' Driving Layup (6 PTS),,,82 - 67,-15,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+380,0021600093,445,6,2,4,8:57 PM,9:03,Embiid S.FOUL (P5.T1) (M.Smith),,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+381,0021600093,446,3,11,4,8:57 PM,9:03,,,Lyles Free Throw 1 of 2 (6 PTS),83 - 67,-16,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+382,0021600093,448,8,0,4,8:58 PM,9:03,,,SUB: Mack FOR Exum,,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+383,0021600093,449,8,0,4,8:58 PM,9:03,SUB: Okafor FOR Embiid,,,,,4.0,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+384,0021600093,450,3,12,4,8:58 PM,9:03,,,Lyles Free Throw 2 of 2 (7 PTS),84 - 67,-17,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+385,0021600093,452,5,1,4,8:58 PM,8:52,Rodriguez Bad Pass Turnover (P3.T17),,Lyles STEAL (1 STL),,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+386,0021600093,453,1,1,4,8:58 PM,8:36,,,Johnson 17' Jump Shot (2 PTS),86 - 67,-19,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+387,0021600093,454,9,1,4,8:58 PM,8:35,76ERS Timeout: Regular (Full 4 Short 0),,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+388,0021600093,455,2,1,4,9:01 PM,8:17,MISS Saric 18' Jump Shot,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+389,0021600093,456,4,0,4,9:01 PM,8:16,,,Favors REBOUND (Off:3 Def:11),,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+390,0021600093,457,1,1,4,9:02 PM,7:59,,,Hood  3PT Jump Shot (18 PTS) (Lyles 3 AST),89 - 67,-22,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+391,0021600093,458,1,79,4,9:02 PM,7:41,Henderson 16' Pullup Jump Shot (5 PTS) (Okafor 1 AST),,,89 - 69,-20,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,4,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+392,0021600093,459,1,47,4,9:02 PM,7:22,,,Johnson 11' Turnaround Jump Shot (4 PTS),91 - 69,-22,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+393,0021600093,460,1,44,4,9:03 PM,7:05,Henderson  Reverse Layup (7 PTS) (Covington 1 AST),,,91 - 71,-20,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+394,0021600093,461,2,1,4,9:03 PM,6:42,,,MISS Johnson 17' Jump Shot,,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+395,0021600093,462,4,0,4,9:03 PM,6:40,Covington REBOUND (Off:0 Def:8),,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+396,0021600093,463,1,42,4,9:03 PM,6:19,Okafor 3' Driving Layup (11 PTS),,,91 - 73,-18,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+397,0021600093,464,9,1,4,9:03 PM,6:14,,,Jazz Timeout: Regular (Reg.4 Short 1),,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+398,0021600093,465,8,0,4,9:06 PM,6:14,SUB: Ilyasova FOR Saric,,,,,4.0,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+399,0021600093,466,8,0,4,9:06 PM,6:14,SUB: McConnell FOR Rodriguez,,,,,4.0,200771,Sergio Rodriguez,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+400,0021600093,467,8,0,4,9:06 PM,6:14,SUB: Stauskas FOR Henderson,,,,,4.0,201945,Gerald Henderson,1610612755.0,Philadelphia,76ers,PHI,4,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+401,0021600093,468,8,0,4,9:06 PM,6:14,,,SUB: Hayward FOR Favors,,,5.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+402,0021600093,470,8,0,4,9:06 PM,6:14,,,SUB: Gobert FOR Hood,,,5.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+403,0021600093,469,1,49,4,9:06 PM,6:06,,,Hayward  Driving Dunk (16 PTS),93 - 73,-20,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+404,0021600093,471,1,49,4,9:06 PM,5:51,Okafor  Driving Dunk (13 PTS),,,93 - 75,-18,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+405,0021600093,473,1,101,4,9:07 PM,5:31,,,Johnson 11' Driving Floating Jump Shot (6 PTS),95 - 75,-20,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+406,0021600093,474,5,2,4,9:07 PM,5:20,Stauskas Lost Ball Turnover (P2.T18),,Hayward STEAL (1 STL),,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+407,0021600093,475,1,41,4,9:07 PM,5:17,,,Hayward 2' Running Layup (18 PTS),97 - 75,-22,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+408,0021600093,476,9,2,4,9:07 PM,5:15,76ERS Timeout: Short (Full 4 Short 1),,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+409,0021600093,477,8,0,4,9:08 PM,5:15,SUB: Thompson FOR Covington,,,,,4.0,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+410,0021600093,478,8,0,4,9:08 PM,5:15,,,SUB: Ingles FOR Lyles,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+411,0021600093,479,1,49,4,9:08 PM,5:00,Okafor  Driving Dunk (15 PTS),,,97 - 77,-20,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+412,0021600093,480,2,1,4,9:09 PM,4:43,,,MISS Johnson 27' 3PT Jump Shot,,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+413,0021600093,481,4,0,4,9:09 PM,4:41,McConnell REBOUND (Off:0 Def:2),,,,,4.0,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+414,0021600093,482,6,2,4,9:09 PM,4:36,,,Ingles S.FOUL (P1.T2) (B.Kennedy),,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,4,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+415,0021600093,483,3,11,4,9:09 PM,4:36,Stauskas Free Throw 1 of 2 (8 PTS),,,97 - 78,-19,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+416,0021600093,485,8,0,4,9:09 PM,4:36,,,SUB: Exum FOR Mack,,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+417,0021600093,486,3,12,4,9:09 PM,4:36,Stauskas Free Throw 2 of 2 (9 PTS),,,97 - 79,-18,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+418,0021600093,488,1,1,4,9:10 PM,4:17,,,Johnson 25' 3PT Jump Shot (9 PTS) (Hayward 4 AST),100 - 79,-21,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+419,0021600093,489,2,40,4,9:10 PM,3:59,MISS Okafor 4' Layup,,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+420,0021600093,490,4,0,4,9:10 PM,3:58,,,Johnson REBOUND (Off:2 Def:2),,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+421,0021600093,491,5,1,4,9:10 PM,3:46,McConnell STEAL (1 STL),,Ingles Bad Pass Turnover (P1.T10),,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+422,0021600093,492,2,1,4,9:10 PM,3:40,MISS Stauskas 6' Jump Shot,,Gobert BLOCK (3 BLK),,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1
+423,0021600093,493,4,0,4,9:11 PM,3:39,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+424,0021600093,494,2,1,4,9:11 PM,3:37,MISS Thompson 26' 3PT Jump Shot,,,,,4.0,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+425,0021600093,495,4,0,4,9:11 PM,3:35,,,Johnson REBOUND (Off:2 Def:3),,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+426,0021600093,496,6,2,4,9:11 PM,3:32,Okafor S.FOUL (P4.T2) (M.Smith),,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+427,0021600093,497,3,11,4,9:11 PM,3:32,,,Hayward Free Throw 1 of 2 (19 PTS),101 - 79,-22,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+428,0021600093,499,8,0,4,9:11 PM,3:32,SUB: Luwawu-Cabarrot FOR Stauskas,,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,4,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+429,0021600093,500,3,12,4,9:11 PM,3:32,,,Hayward Free Throw 2 of 2 (20 PTS),102 - 79,-23,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+430,0021600093,502,2,1,4,9:12 PM,3:23,MISS Thompson 26' 3PT Jump Shot,,,,,4.0,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+431,0021600093,503,4,0,4,9:12 PM,3:21,,,Hayward REBOUND (Off:1 Def:6),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+432,0021600093,504,2,1,4,9:12 PM,3:04,,,MISS Ingles 14' Jump Shot,,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+433,0021600093,505,4,0,4,9:12 PM,3:02,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+434,0021600093,506,8,0,4,9:12 PM,3:02,SUB: Holmes FOR Okafor,,,,,4.0,1626143,Jahlil Okafor,1610612755.0,Philadelphia,76ers,PHI,4,1626158,Richaun Holmes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+435,0021600093,507,1,1,4,9:13 PM,2:43,,,Exum 24' 3PT Jump Shot (8 PTS) (Hayward 5 AST),105 - 79,-26,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+436,0021600093,509,6,2,4,9:13 PM,2:18,,,Gobert S.FOUL (P6.T3) (B.Kennedy),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+437,0021600093,510,9,4,4,9:14 PM,2:18,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+438,0021600093,511,3,11,4,9:14 PM,2:18,MISS Luwawu-Cabarrot Free Throw 1 of 2,,,,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+439,0021600093,516,4,1,4,9:14 PM,2:18,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+440,0021600093,512,8,0,4,9:16 PM,2:18,,,SUB: Withey FOR Hayward,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+441,0021600093,513,8,0,4,9:16 PM,2:18,,,SUB: Neto FOR Gobert,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,203526,Raul Neto,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+442,0021600093,514,8,0,4,9:16 PM,2:18,,,SUB: Bolomboy FOR Johnson,,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,5,1627762,Joel Bolomboy,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+443,0021600093,515,8,0,4,9:16 PM,2:18,SUB: Stauskas FOR Thompson,,,,,4.0,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,4,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+444,0021600093,517,3,12,4,9:16 PM,2:18,MISS Luwawu-Cabarrot Free Throw 2 of 2,,,,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+445,0021600093,519,4,0,4,9:16 PM,2:16,,,Bolomboy REBOUND (Off:0 Def:1),,,5.0,1627762,Joel Bolomboy,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+446,0021600093,520,6,2,4,9:17 PM,2:03,Luwawu-Cabarrot S.FOUL (P1.T3) (B.Kennedy),,,,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+447,0021600093,521,3,11,4,9:17 PM,2:03,,,Ingles Free Throw 1 of 2 (8 PTS),106 - 79,-27,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+448,0021600093,523,3,12,4,9:17 PM,2:03,,,MISS Ingles Free Throw 2 of 2,,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+449,0021600093,525,4,0,4,9:17 PM,2:02,76ERS Rebound,,,,,2.0,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+450,0021600093,527,1,49,4,9:18 PM,1:44,Luwawu-Cabarrot  Driving Dunk (2 PTS) (Stauskas 1 AST),,,106 - 81,-25,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,4,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+451,0021600093,528,2,1,4,9:18 PM,1:24,,,MISS Ingles 16' Jump Shot,,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+452,0021600093,529,4,0,4,9:18 PM,1:23,Luwawu-Cabarrot REBOUND (Off:0 Def:1),,,,,4.0,1627789,Timothe Luwawu-Cabarrot,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+453,0021600093,530,2,63,4,9:18 PM,1:11,MISS Ilyasova 3' Fadeaway Jumper,,Bolomboy BLOCK (1 BLK),,,4.0,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1627762,Joel Bolomboy,1610612762.0,Utah,Jazz,UTA,1
+454,0021600093,531,4,0,4,9:18 PM,1:08,,,Bolomboy REBOUND (Off:0 Def:2),,,5.0,1627762,Joel Bolomboy,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+455,0021600093,533,2,1,4,9:19 PM,0:45,,,MISS Neto 19' Jump Shot,,,5.0,203526,Raul Neto,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+456,0021600093,534,4,0,4,9:19 PM,0:44,Stauskas REBOUND (Off:1 Def:2),,,,,4.0,203917,Nik Stauskas,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+457,0021600093,535,2,1,4,9:19 PM,0:35,MISS Holmes 8' Jump Shot,,,,,4.0,1626158,Richaun Holmes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+458,0021600093,536,4,0,4,9:19 PM,0:34,,,Bolomboy REBOUND (Off:0 Def:3),,,5.0,1627762,Joel Bolomboy,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+459,0021600093,537,1,1,4,9:19 PM,0:26,,,Exum 26' 3PT Jump Shot (11 PTS) (Neto 1 AST),109 - 81,-28,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,203526,Raul Neto,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+460,0021600093,538,1,1,4,9:19 PM,0:13,Holmes 24' 3PT Jump Shot (3 PTS) (McConnell 4 AST),,,109 - 84,-25,4.0,1626158,Richaun Holmes,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+461,0021600093,540,13,0,4,9:20 PM,0:00,,,,109 - 84,-25,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0

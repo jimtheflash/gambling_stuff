@@ -1,0 +1,406 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021600600,0,12,0,1,10:41 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021600600,1,10,0,1,10:41 PM,12:00,Jump Ball Gobert vs. Drummond: Tip to G. Hill,,,,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,201588,George Hill,1610612762.0,Utah,Jazz,UTA,1
+2,0021600600,2,2,1,1,10:41 PM,11:37,MISS Favors 14' Jump Shot,,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+3,0021600600,3,4,0,1,10:41 PM,11:37,Gobert REBOUND (Off:1 Def:0),,,,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+4,0021600600,4,5,2,1,10:41 PM,11:34,Gobert Lost Ball Turnover (P1.T1),,Drummond STEAL (1 STL),,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+5,0021600600,5,2,1,1,10:42 PM,11:26,,,MISS Marc Morris 19' Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+6,0021600600,6,4,0,1,10:42 PM,11:25,Gobert REBOUND (Off:1 Def:1),,,,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+7,0021600600,7,2,79,1,10:42 PM,11:15,MISS G. Hill 17' Pullup Jump Shot,,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+8,0021600600,8,4,0,1,10:42 PM,11:14,,,Jackson REBOUND (Off:0 Def:1),,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+9,0021600600,9,2,1,1,10:42 PM,10:56,,,MISS Drummond 10' Jump Shot,,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+10,0021600600,10,4,0,1,10:42 PM,10:56,G. Hill REBOUND (Off:0 Def:1),,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+11,0021600600,11,2,1,1,10:42 PM,10:47,MISS Favors 14' Jump Shot,,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+12,0021600600,12,4,0,1,10:42 PM,10:46,,,Drummond REBOUND (Off:0 Def:1),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+13,0021600600,13,5,45,1,10:42 PM,10:40,,,Jackson Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+14,0021600600,14,2,1,1,10:43 PM,10:25,MISS Hayward 25' 3PT Jump Shot,,,,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+15,0021600600,15,4,0,1,10:43 PM,10:25,,,Drummond REBOUND (Off:0 Def:2),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+16,0021600600,16,2,63,1,10:43 PM,10:01,,,MISS Jackson 18' Fadeaway Jumper,,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+17,0021600600,17,4,0,1,10:43 PM,10:00,Hayward REBOUND (Off:0 Def:1),,,,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+18,0021600600,18,1,101,1,10:43 PM,9:45,G. Hill 11' Driving Floating Jump Shot (2 PTS),,,0 - 2,2,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+19,0021600600,19,6,2,1,10:43 PM,9:45,,,Marc Morris S.FOUL (P1.T1) (A.Smith),,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,4,201588,George Hill,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+20,0021600600,20,3,10,1,10:44 PM,9:45,MISS G. Hill Free Throw 1 of 1,,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+21,0021600600,22,4,0,1,10:44 PM,9:45,Gobert REBOUND (Off:2 Def:1),,,,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+22,0021600600,23,2,1,1,10:44 PM,9:30,MISS Hayward 24' 3PT Jump Shot,,,,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+23,0021600600,24,4,0,1,10:44 PM,9:29,,,Marc Morris REBOUND (Off:0 Def:1),,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+24,0021600600,25,5,1,1,10:44 PM,9:21,Hayward STEAL (1 STL),,Marc Morris Bad Pass Turnover (P1.T2),,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,4,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+25,0021600600,26,1,50,1,10:44 PM,9:18,Hayward  Running Dunk (2 PTS),,,0 - 4,4,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+26,0021600600,27,2,1,1,10:45 PM,8:59,,,MISS Jackson 20' Jump Shot,,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+27,0021600600,28,4,0,1,10:45 PM,8:59,Gobert REBOUND (Off:2 Def:2),,,,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+28,0021600600,29,1,1,1,10:45 PM,8:48,Hood 24' 3PT Jump Shot (3 PTS),,,0 - 7,7,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+29,0021600600,30,2,63,1,10:45 PM,8:24,,,MISS Jackson 18' Fadeaway Jumper,,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+30,0021600600,31,4,0,1,10:45 PM,8:24,JAZZ Rebound,,,,,2.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+31,0021600600,32,1,1,1,10:46 PM,8:03,G. Hill 25' 3PT Jump Shot (5 PTS) (Gobert 1 AST),,,0 - 10,10,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+32,0021600600,33,9,1,1,10:46 PM,7:56,,,Pistons Timeout: Regular (Reg.1 Short 0),,,3.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+33,0021600600,35,1,1,1,10:49 PM,7:49,,,Marc Morris 14' Jump Shot (2 PTS) (Drummond 1 AST),2 - 10,8,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+34,0021600600,36,5,45,1,10:49 PM,7:35,G. Hill Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+35,0021600600,37,2,5,1,10:50 PM,7:23,Gobert BLOCK (1 BLK),,MISS Drummond 3' Layup,,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1
+36,0021600600,38,4,0,1,10:50 PM,7:23,G. Hill REBOUND (Off:0 Def:2),,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+37,0021600600,39,2,1,1,10:50 PM,7:15,MISS Hood 26' 3PT Jump Shot,,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+38,0021600600,40,4,0,1,10:50 PM,7:15,,,Drummond REBOUND (Off:0 Def:3),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+39,0021600600,41,2,78,1,10:50 PM,6:57,,,MISS Harris 4' Floating Jump Shot,,,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+40,0021600600,42,4,0,1,10:50 PM,6:56,Gobert REBOUND (Off:2 Def:3),,,,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+41,0021600600,43,2,1,1,10:50 PM,6:46,MISS Favors 17' Jump Shot,,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+42,0021600600,44,4,0,1,10:50 PM,6:45,,,Drummond REBOUND (Off:0 Def:4),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+43,0021600600,45,1,1,1,10:50 PM,6:37,,,Harris 25' 3PT Jump Shot (3 PTS) (Jackson 1 AST),5 - 10,5,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,5,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+44,0021600600,46,2,1,1,10:51 PM,6:10,MISS Favors 4' Jump Shot,,Baynes BLOCK (1 BLK),,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,203382,Aron Baynes,1610612765.0,Detroit,Pistons,DET,1
+45,0021600600,47,4,0,1,10:51 PM,6:09,,,Marc Morris REBOUND (Off:0 Def:2),,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+46,0021600600,48,1,3,1,10:51 PM,5:55,,,Drummond 7' Hook Shot (2 PTS),7 - 10,3,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+47,0021600600,49,2,1,1,10:51 PM,5:39,MISS Hayward 25' 3PT Jump Shot,,,,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+48,0021600600,50,4,0,1,10:51 PM,5:38,,,Drummond REBOUND (Off:0 Def:5),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+49,0021600600,51,2,42,1,10:51 PM,5:29,,,MISS Jackson 3' Driving Layup,,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+50,0021600600,52,4,0,1,10:51 PM,5:28,Favors REBOUND (Off:0 Def:1),,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+51,0021600600,53,2,78,1,10:52 PM,5:17,MISS Gobert 10' Floating Jump Shot,,,,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+52,0021600600,54,4,0,1,10:52 PM,5:16,Favors REBOUND (Off:1 Def:1),,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+53,0021600600,55,2,1,1,10:52 PM,5:09,MISS G. Hill 22' Jump Shot,,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+54,0021600600,56,4,0,1,10:52 PM,5:08,Favors REBOUND (Off:2 Def:1),,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+55,0021600600,57,1,42,1,10:52 PM,4:52,G. Hill 3' Driving Layup (7 PTS),,,7 - 12,5,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+56,0021600600,58,6,2,1,10:52 PM,4:38,Hayward S.FOUL (P1.T1) (J.Tiven),,,,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+57,0021600600,59,3,11,1,10:53 PM,4:38,,,Harris Free Throw 1 of 2 (4 PTS),8 - 12,4,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+58,0021600600,61,8,0,1,10:53 PM,4:38,SUB: Mack FOR G. Hill,,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,4,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+59,0021600600,62,8,0,1,10:53 PM,4:38,SUB: Lyles FOR Favors,,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+60,0021600600,63,8,0,1,10:53 PM,4:38,SUB: Ingles FOR Hood,,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+61,0021600600,64,8,0,1,10:53 PM,4:38,,,SUB: Johnson FOR Baynes,,,5.0,203382,Aron Baynes,1610612765.0,Detroit,Pistons,DET,5,1626169,Stanley Johnson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+62,0021600600,65,3,12,1,10:53 PM,4:38,,,Harris Free Throw 2 of 2 (5 PTS),9 - 12,3,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+63,0021600600,67,2,1,1,10:54 PM,4:18,MISS Lyles 25' 3PT Jump Shot,,,,,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+64,0021600600,68,4,0,1,10:54 PM,4:18,,,Marc Morris REBOUND (Off:0 Def:3),,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+65,0021600600,69,1,102,1,10:54 PM,4:07,,,Harris 4' Driving Floating Bank Jump Shot (7 PTS),11 - 12,1,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+66,0021600600,70,6,2,1,10:54 PM,4:07,Lyles S.FOUL (P1.T2) (D.Stafford),,,,,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,5,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+67,0021600600,71,3,10,1,10:54 PM,4:07,,,MISS Harris Free Throw 1 of 1,,,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+68,0021600600,73,4,0,1,10:54 PM,4:06,,,Drummond REBOUND (Off:1 Def:5),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+69,0021600600,74,2,1,1,10:55 PM,3:57,,,MISS Marc Morris 19' Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+70,0021600600,75,4,0,1,10:55 PM,3:57,Mack REBOUND (Off:0 Def:1),,,,,4.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+71,0021600600,76,6,1,1,10:55 PM,3:50,,,Drummond P.FOUL (P1.T2) (A.Smith),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+72,0021600600,77,8,0,1,10:55 PM,3:50,SUB: Johnson FOR Hayward,,,,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+73,0021600600,78,2,101,1,10:55 PM,3:38,MISS Mack 14' Driving Floating Jump Shot,,,,,4.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+74,0021600600,79,4,0,1,10:55 PM,3:38,,,Harris REBOUND (Off:0 Def:1),,,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+75,0021600600,80,1,7,1,10:56 PM,3:23,,,Drummond  Dunk (4 PTS) (Marc Morris 1 AST),13 - 12,-1,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+76,0021600600,81,9,1,1,10:56 PM,3:19,JAZZ Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+77,0021600600,83,8,0,1,10:58 PM,3:19,,,SUB: Bullock FOR Marc Morris,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,5,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+78,0021600600,84,8,0,1,10:59 PM,3:19,,,SUB: Udrih FOR Jackson,,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,5,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+79,0021600600,85,5,45,1,10:59 PM,3:10,Mack Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+80,0021600600,86,6,2,1,10:59 PM,2:57,Johnson S.FOUL (P1.T3) (J.Tiven),,,,,4.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,5,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+81,0021600600,87,3,11,1,11:00 PM,2:57,,,Harris Free Throw 1 of 2 (8 PTS),14 - 12,-2,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+82,0021600600,89,3,12,1,11:00 PM,2:57,,,Harris Free Throw 2 of 2 (9 PTS),15 - 12,-3,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+83,0021600600,91,1,102,1,11:00 PM,2:45,Mack 11' Driving Floating Bank Jump Shot (2 PTS),,,15 - 14,-1,4.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+84,0021600600,92,5,1,1,11:01 PM,2:33,Ingles STEAL (1 STL),,Bullock Bad Pass Turnover (P1.T3),,,5.0,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+85,0021600600,93,2,83,1,11:01 PM,2:14,MISS Ingles 9' Fadeaway Bank Shot,,,,,4.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+86,0021600600,94,4,0,1,11:01 PM,2:13,,,Drummond REBOUND (Off:1 Def:6),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+87,0021600600,95,1,42,1,11:01 PM,2:02,,,Udrih 3' Driving Layup (2 PTS),17 - 14,-3,5.0,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+88,0021600600,96,2,5,1,11:01 PM,1:55,MISS Johnson 2' Layup,,,,,4.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+89,0021600600,97,4,0,1,11:01 PM,1:54,,,Drummond REBOUND (Off:1 Def:7),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+90,0021600600,98,2,1,1,11:01 PM,1:39,,,MISS Bullock  3PT Jump Shot,,,5.0,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+91,0021600600,99,4,0,1,11:01 PM,1:39,Mack REBOUND (Off:0 Def:2),,,,,4.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+92,0021600600,100,2,1,1,11:02 PM,1:28,MISS Johnson  3PT Jump Shot,,,,,4.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+93,0021600600,101,4,0,1,11:02 PM,1:28,,,Drummond REBOUND (Off:1 Def:8),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+94,0021600600,102,2,1,1,11:02 PM,1:15,,,MISS Harris 24' 3PT Jump Shot,,,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+95,0021600600,103,4,0,1,11:02 PM,1:14,Johnson REBOUND (Off:0 Def:1),,,,,4.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+96,0021600600,104,2,1,1,11:02 PM,0:55,MISS Lyles  3PT Jump Shot,,,,,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+97,0021600600,105,4,0,1,11:02 PM,0:55,,,Drummond REBOUND (Off:1 Def:9),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+98,0021600600,106,2,3,1,11:02 PM,0:44,,,MISS Drummond 4' Hook Shot,,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+99,0021600600,107,4,0,1,11:02 PM,0:43,Gobert REBOUND (Off:2 Def:4),,,,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+100,0021600600,108,2,1,1,11:03 PM,0:35,MISS Mack 25' 3PT Jump Shot,,,,,4.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+101,0021600600,109,4,0,1,11:03 PM,0:35,,,Bullock REBOUND (Off:0 Def:1),,,5.0,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+102,0021600600,110,1,79,1,11:03 PM,0:18,,,Udrih 22' Pullup Jump Shot (4 PTS),19 - 14,-5,5.0,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+103,0021600600,111,13,0,1,11:03 PM,0:00,,,,19 - 14,-5,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+104,0021600600,113,12,0,2,11:07 PM,12:00,,,,19 - 14,-5,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+105,0021600600,114,1,7,2,11:07 PM,11:45,,,Marjanovic  Dunk (2 PTS) (Udrih 1 AST),21 - 14,-7,5.0,1626246,Boban Marjanovic,1610612765.0,Detroit,Pistons,DET,5,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+106,0021600600,115,1,101,2,11:08 PM,11:25,G. Hill 15' Driving Floating Jump Shot (9 PTS),,,21 - 16,-5,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+107,0021600600,116,2,86,2,11:08 PM,11:06,,,MISS Marc Morris 12' Turnaround Fadeaway Shot,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+108,0021600600,117,4,0,2,11:08 PM,11:05,Lyles REBOUND (Off:0 Def:1),,,,,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+109,0021600600,118,2,1,2,11:08 PM,10:43,MISS Johnson 22' Jump Shot,,,,,4.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+110,0021600600,119,4,0,2,11:08 PM,10:42,JAZZ Rebound,,,,,2.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+111,0021600600,120,5,11,2,11:08 PM,10:42,JAZZ Turnover: Shot Clock (T#4),,,,,2.0,1610612762,,,,,,0,0,,,,,,1,0,,,,,,0
+112,0021600600,121,2,5,2,11:09 PM,10:32,,,MISS Marc Morris 3' Layup,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+113,0021600600,122,4,0,2,11:09 PM,10:32,Lyles REBOUND (Off:0 Def:2),,,,,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+114,0021600600,123,1,1,2,11:09 PM,10:25,Hood 25' 3PT Jump Shot (6 PTS) (Lyles 1 AST),,,21 - 19,-2,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,4,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+115,0021600600,124,6,2,2,11:09 PM,10:11,Lyles S.FOUL (P2.T1) (A.Smith),,,,,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,5,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+116,0021600600,125,3,11,2,11:10 PM,10:11,,,Marc Morris Free Throw 1 of 2 (3 PTS),22 - 19,-3,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+117,0021600600,127,8,0,2,11:10 PM,10:11,SUB: Diaw FOR Lyles,,,,,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,4,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+118,0021600600,128,3,12,2,11:10 PM,10:11,,,Marc Morris Free Throw 2 of 2 (4 PTS),23 - 19,-4,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+119,0021600600,130,1,1,2,11:11 PM,9:57,Hood 26' 3PT Jump Shot (9 PTS) (Diaw 1 AST),,,23 - 22,-1,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,4,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+120,0021600600,131,2,79,2,11:11 PM,9:43,,,MISS Udrih 16' Pullup Jump Shot,,,5.0,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+121,0021600600,132,4,0,2,11:11 PM,9:42,Johnson REBOUND (Off:0 Def:2),,,,,4.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+122,0021600600,133,5,45,2,11:11 PM,9:32,Johnson Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+123,0021600600,134,2,1,2,11:11 PM,9:16,Favors BLOCK (1 BLK),,MISS Bullock 3' Jump Shot,,,5.0,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1
+124,0021600600,135,4,0,2,11:11 PM,9:15,Favors REBOUND (Off:2 Def:2),,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+125,0021600600,136,2,63,2,11:12 PM,9:07,MISS Hood 10' Fadeaway Jumper,,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+126,0021600600,137,4,0,2,11:12 PM,9:07,,,Marjanovic REBOUND (Off:0 Def:1),,,5.0,1626246,Boban Marjanovic,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+127,0021600600,138,2,78,2,11:12 PM,8:59,,,MISS Udrih 11' Floating Jump Shot,,,5.0,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+128,0021600600,139,4,0,2,11:12 PM,8:58,Hood REBOUND (Off:0 Def:1),,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+129,0021600600,140,1,79,2,11:12 PM,8:37,Hood 18' Pullup Jump Shot (11 PTS),,,23 - 24,1,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+130,0021600600,141,9,1,2,11:12 PM,8:27,,,Pistons Timeout: Regular (Reg.2 Short 0),,,3.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+131,0021600600,143,8,0,2,11:15 PM,8:27,SUB: Exum FOR G. Hill,,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,4,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+132,0021600600,144,1,3,2,11:15 PM,8:20,,,Marjanovic 4' Hook Shot (4 PTS) (Udrih 2 AST),25 - 24,-1,5.0,1626246,Boban Marjanovic,1610612765.0,Detroit,Pistons,DET,5,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+133,0021600600,145,1,1,2,11:16 PM,8:03,Hood 24' 3PT Jump Shot (14 PTS) (Johnson 1 AST),,,25 - 27,2,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,4,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+134,0021600600,146,6,1,2,11:16 PM,7:45,Favors P.FOUL (P1.T2) (D.Stafford),,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,1626246,Boban Marjanovic,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+135,0021600600,147,2,1,2,11:17 PM,7:29,,,MISS Marc Morris 26' 3PT Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+136,0021600600,148,4,0,2,11:17 PM,7:29,Favors REBOUND (Off:2 Def:3),,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+137,0021600600,149,1,42,2,11:17 PM,7:16,Exum 3' Driving Layup (2 PTS),,,25 - 29,4,4.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+138,0021600600,150,5,2,2,11:17 PM,7:07,Exum STEAL (1 STL),,Udrih Lost Ball Turnover (P1.T4),,,5.0,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,4,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+139,0021600600,151,5,40,2,11:17 PM,7:03,Hood Out of Bounds Lost Ball Turnover (P1.T6),,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+140,0021600600,152,8,0,2,11:17 PM,7:03,,,SUB: Harris FOR Bullock,,,5.0,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,5,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+141,0021600600,153,8,0,2,11:17 PM,7:03,,,SUB: Jackson FOR Udrih,,,5.0,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,5,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+142,0021600600,154,2,1,2,11:18 PM,6:43,,,MISS Marc Morris 8' Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+143,0021600600,155,4,0,2,11:18 PM,6:42,,,Marjanovic REBOUND (Off:1 Def:1),,,5.0,1626246,Boban Marjanovic,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+144,0021600600,156,1,97,2,11:18 PM,6:40,,,Marjanovic 2' Tip Layup Shot (6 PTS),27 - 29,2,5.0,1626246,Boban Marjanovic,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+145,0021600600,157,5,45,2,11:18 PM,6:31,Hood Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+146,0021600600,158,8,0,2,11:18 PM,6:31,SUB: Hayward FOR Johnson,,,,,4.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,4,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+147,0021600600,159,8,0,2,11:18 PM,6:31,,,SUB: Drummond FOR Marjanovic,,,5.0,1626246,Boban Marjanovic,1610612765.0,Detroit,Pistons,DET,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+148,0021600600,160,1,101,2,11:19 PM,6:14,,,Jackson 4' Driving Floating Jump Shot (2 PTS),29 - 29,TIE,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+149,0021600600,161,6,2,2,11:19 PM,5:59,,,Harris S.FOUL (P1.T1) (D.Stafford),,,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,4,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+150,0021600600,162,9,4,2,11:19 PM,5:59,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+151,0021600600,164,8,0,2,11:21 PM,5:59,SUB: Ingles FOR Hood,,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+152,0021600600,165,8,0,2,11:22 PM,5:59,SUB: Gobert FOR Favors,,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+153,0021600600,166,3,11,2,11:22 PM,5:59,Diaw Free Throw 1 of 2 (1 PTS),,,29 - 30,1,4.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+154,0021600600,168,3,12,2,11:22 PM,5:59,Diaw Free Throw 2 of 2 (2 PTS),,,29 - 31,2,4.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+155,0021600600,170,2,1,2,11:23 PM,5:36,,,MISS Jackson 18' Jump Shot,,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+156,0021600600,171,4,0,2,11:23 PM,5:36,,,Drummond REBOUND (Off:2 Def:9),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+157,0021600600,172,1,42,2,11:23 PM,5:28,,,Jackson 2' Driving Layup (4 PTS),31 - 31,TIE,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+158,0021600600,173,6,2,2,11:23 PM,5:28,Diaw S.FOUL (P1.T3) (D.Stafford),,,,,4.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,5,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+159,0021600600,174,3,10,2,11:23 PM,5:28,,,MISS Jackson Free Throw 1 of 1,,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+160,0021600600,176,4,0,2,11:23 PM,5:28,Gobert REBOUND (Off:2 Def:5),,,,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+161,0021600600,178,5,1,2,11:24 PM,5:09,Diaw Bad Pass Turnover (P1.T8),,Jackson STEAL (1 STL),,,4.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,5,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+162,0021600600,179,1,1,2,11:24 PM,5:02,,,Marc Morris 25' 3PT Jump Shot (7 PTS) (Jackson 2 AST),34 - 31,-3,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,5,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+163,0021600600,180,6,1,2,11:24 PM,4:44,,,Marc Morris P.FOUL (P2.T2) (J.Tiven),,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,4,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+164,0021600600,181,8,0,2,11:24 PM,4:44,SUB: G. Hill FOR Exum,,,,,4.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,4,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+165,0021600600,182,8,0,2,11:24 PM,4:44,,,SUB: Baynes FOR Marc Morris,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,5,203382,Aron Baynes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+166,0021600600,183,1,101,2,11:25 PM,4:37,Hayward 7' Driving Floating Jump Shot (4 PTS),,,34 - 33,-1,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+167,0021600600,184,1,1,2,11:25 PM,4:16,,,Johnson 16' Jump Shot (2 PTS),36 - 33,-3,5.0,1626169,Stanley Johnson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+168,0021600600,185,2,1,2,11:25 PM,3:57,MISS Diaw 13' Jump Shot,,,,,4.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+169,0021600600,186,4,0,2,11:25 PM,3:57,,,Drummond REBOUND (Off:2 Def:10),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+170,0021600600,187,1,44,2,11:26 PM,3:47,,,Baynes 1' Reverse Layup (2 PTS) (Harris 1 AST),38 - 33,-5,5.0,203382,Aron Baynes,1610612765.0,Detroit,Pistons,DET,5,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+171,0021600600,188,1,1,2,11:26 PM,3:24,Hayward 25' 3PT Jump Shot (7 PTS) (Ingles 1 AST),,,38 - 36,-2,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+172,0021600600,189,1,79,2,11:26 PM,3:10,,,Harris 16' Pullup Jump Shot (11 PTS),40 - 36,-4,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+173,0021600600,190,9,1,2,11:26 PM,3:03,JAZZ Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+174,0021600600,192,2,78,2,11:30 PM,2:52,MISS G. Hill 11' Floating Jump Shot,,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+175,0021600600,193,4,0,2,11:30 PM,2:51,Gobert REBOUND (Off:3 Def:5),,,,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+176,0021600600,194,6,1,2,11:30 PM,2:50,,,Jackson P.FOUL (P1.T3) (J.Tiven),,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+177,0021600600,195,8,0,2,11:30 PM,2:50,SUB: Hood FOR Ingles,,,,,4.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,4,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+178,0021600600,196,1,63,2,11:30 PM,2:37,Diaw 11' Fadeaway Jumper (4 PTS),,,40 - 38,-2,4.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+179,0021600600,197,2,78,2,11:31 PM,2:16,,,MISS Harris 7' Floating Jump Shot,,,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+180,0021600600,198,4,0,2,11:31 PM,2:16,JAZZ Rebound,,,,,2.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+181,0021600600,199,1,108,2,11:31 PM,1:56,Hood  Cutting Dunk Shot (16 PTS) (Diaw 2 AST),,,40 - 40,TIE,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,4,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+182,0021600600,200,5,1,2,11:31 PM,1:31,Hayward STEAL (2 STL),,Johnson Bad Pass Turnover (P1.T5),,,5.0,1626169,Stanley Johnson,1610612765.0,Detroit,Pistons,DET,4,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+183,0021600600,201,1,50,2,11:32 PM,1:27,Hayward  Running Dunk (9 PTS),,,40 - 42,2,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+184,0021600600,202,9,2,2,11:32 PM,1:26,,,Pistons Timeout: Short (Reg.2 Short 1),,,3.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+185,0021600600,204,2,86,2,11:33 PM,1:07,,,MISS Harris 9' Turnaround Fadeaway Shot,,,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+186,0021600600,205,4,0,2,11:33 PM,1:06,,,Pistons Rebound,,,3.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+187,0021600600,207,2,5,2,11:34 PM,0:57,Gobert BLOCK (2 BLK),,MISS Baynes 3' Layup,,,5.0,203382,Aron Baynes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1
+188,0021600600,208,4,0,2,11:34 PM,0:56,Hood REBOUND (Off:0 Def:2),,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+189,0021600600,209,6,1,2,11:34 PM,0:56,,,Baynes P.FOUL (P1.T4) (A.Smith),,,5.0,203382,Aron Baynes,1610612765.0,Detroit,Pistons,DET,4,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+190,0021600600,210,9,2,2,11:34 PM,0:39,JAZZ Timeout: Short (Full 2 Short 1),,,,,2.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+191,0021600600,213,1,1,2,11:36 PM,0:31,Hayward  3PT Jump Shot (12 PTS) (Diaw 3 AST),,,40 - 45,5,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+192,0021600600,214,2,78,2,11:36 PM,0:10,,,MISS Jackson 9' Floating Jump Shot,,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+193,0021600600,215,4,0,2,11:36 PM,0:09,,,Pistons Rebound,,,3.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+194,0021600600,217,8,0,2,11:37 PM,0:08,,,SUB: Bullock FOR Baynes,,,5.0,203382,Aron Baynes,1610612765.0,Detroit,Pistons,DET,5,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+195,0021600600,218,1,1,2,11:37 PM,0:00,,,Jackson 25' 3PT Jump Shot (7 PTS),43 - 45,2,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+196,0021600600,219,5,1,2,11:37 PM,0:00,Gobert Bad Pass Turnover (P2.T9),,Johnson STEAL (1 STL),,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,1626169,Stanley Johnson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+197,0021600600,220,2,1,2,11:37 PM,0:00,,,MISS Johnson 28' 3PT Jump Shot,,,5.0,1626169,Stanley Johnson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+198,0021600600,223,4,0,2,11:37 PM,0:00,,,Pistons Rebound,,,3.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+199,0021600600,222,13,0,2,11:37 PM,0:00,,,,43 - 45,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+200,0021600600,225,12,0,3,11:54 PM,12:00,,,,43 - 45,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+201,0021600600,226,5,1,3,11:54 PM,11:43,Favors STEAL (1 STL),,Jackson Bad Pass Turnover (P2.T6),,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+202,0021600600,227,6,2,3,11:55 PM,11:22,,,Drummond S.FOUL (P2.T1) (J.Tiven),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+203,0021600600,228,3,11,3,11:55 PM,11:22,MISS Favors Free Throw 1 of 2,,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+204,0021600600,230,4,0,3,11:55 PM,11:22,JAZZ Rebound,,,,,2.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+205,0021600600,229,3,12,3,11:55 PM,11:22,MISS Favors Free Throw 2 of 2,,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+206,0021600600,232,4,0,3,11:55 PM,11:21,,,Drummond REBOUND (Off:2 Def:11),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+207,0021600600,233,1,63,3,11:56 PM,11:00,,,Harris 7' Fadeaway Jumper (13 PTS),45 - 45,TIE,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+208,0021600600,234,1,78,3,11:56 PM,10:37,Favors 7' Floating Jump Shot (2 PTS) (Hood 1 AST),,,45 - 47,2,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+209,0021600600,235,2,1,3,11:57 PM,10:15,,,MISS Baynes 13' Jump Shot,,,5.0,203382,Aron Baynes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+210,0021600600,236,4,0,3,11:57 PM,10:14,Hayward REBOUND (Off:0 Def:2),,,,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+211,0021600600,237,2,5,3,11:57 PM,9:58,MISS Favors 3' Layup,,Baynes BLOCK (2 BLK),,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,203382,Aron Baynes,1610612765.0,Detroit,Pistons,DET,1
+212,0021600600,238,4,0,3,11:57 PM,9:57,,,Drummond REBOUND (Off:2 Def:12),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+213,0021600600,239,2,1,3,11:57 PM,9:46,,,MISS Harris 24' 3PT Jump Shot,,,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+214,0021600600,240,4,0,3,11:57 PM,9:45,Hood REBOUND (Off:0 Def:3),,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+215,0021600600,241,6,2,3,11:57 PM,9:35,,,Harris S.FOUL (P2.T2) (D.Stafford),,,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,4,201588,George Hill,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+216,0021600600,242,3,11,3,11:57 PM,9:35,G. Hill Free Throw 1 of 2 (10 PTS),,,45 - 48,3,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+217,0021600600,243,3,12,3,11:58 PM,9:35,MISS G. Hill Free Throw 2 of 2,,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+218,0021600600,245,4,0,3,11:58 PM,9:35,,,Drummond REBOUND (Off:2 Def:13),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+219,0021600600,246,2,1,3,11:58 PM,9:20,Hood BLOCK (1 BLK),,MISS Marc Morris 3' Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,1
+220,0021600600,247,4,0,3,11:58 PM,9:19,G. Hill REBOUND (Off:0 Def:3),,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+221,0021600600,248,2,7,3,11:58 PM,9:09,MISS Favors  Dunk,,Baynes BLOCK (3 BLK),,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,203382,Aron Baynes,1610612765.0,Detroit,Pistons,DET,1
+222,0021600600,249,4,0,3,11:58 PM,9:08,G. Hill REBOUND (Off:1 Def:3),,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+223,0021600600,250,2,78,3,11:59 PM,9:07,MISS G. Hill 5' Floating Jump Shot,,Baynes BLOCK (4 BLK),,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,203382,Aron Baynes,1610612765.0,Detroit,Pistons,DET,1
+224,0021600600,251,4,0,3,11:59 PM,9:07,,,Harris REBOUND (Off:0 Def:2),,,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+225,0021600600,252,2,101,3,11:59 PM,8:46,,,MISS Marc Morris 16' Driving Floating Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+226,0021600600,253,4,0,3,11:59 PM,8:43,Favors REBOUND (Off:2 Def:4),,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+227,0021600600,254,1,101,3,11:59 PM,8:30,Hayward 15' Driving Floating Jump Shot (14 PTS),,,45 - 50,5,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+228,0021600600,256,9,1,3,11:59 PM,8:29,,,Pistons Timeout: Regular (Reg.3 Short 1),,,3.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+229,0021600600,258,1,3,3,12:02 AM,8:05,,,Drummond 11' Hook Shot (6 PTS),47 - 50,3,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+230,0021600600,259,1,5,3,12:03 AM,7:40,Gobert 1' Layup (2 PTS) (Favors 1 AST),,,47 - 52,5,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+231,0021600600,260,6,4,3,12:03 AM,7:30,,,Drummond OFF.Foul (P3) (J.Tiven),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,201588,George Hill,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+232,0021600600,261,5,5,3,12:03 AM,7:30,,,Drummond Foul Turnover (P1.T7),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+233,0021600600,262,1,1,3,12:03 AM,7:18,Hayward 25' 3PT Jump Shot (17 PTS) (G. Hill 1 AST),,,47 - 55,8,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+234,0021600600,263,1,79,3,12:04 AM,7:02,,,Marc Morris 18' Pullup Jump Shot (9 PTS),49 - 55,6,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+235,0021600600,265,2,1,3,12:04 AM,6:43,MISS Hood 21' Jump Shot,,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+236,0021600600,266,4,0,3,12:04 AM,6:43,,,Drummond REBOUND (Off:2 Def:14),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+237,0021600600,267,2,1,3,12:05 AM,6:35,,,MISS Jackson 20' Jump Shot,,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+238,0021600600,268,4,0,3,12:05 AM,6:35,Hayward REBOUND (Off:0 Def:3),,,,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+239,0021600600,269,5,45,3,12:05 AM,6:23,Hayward Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,,,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+240,0021600600,270,2,1,3,12:05 AM,6:14,,,MISS Marc Morris 7' Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+241,0021600600,271,4,0,3,12:05 AM,6:13,Favors REBOUND (Off:2 Def:5),,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+242,0021600600,272,1,1,3,12:05 AM,6:04,G. Hill 25' 3PT Jump Shot (13 PTS),,,49 - 58,9,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+243,0021600600,273,6,1,3,12:06 AM,5:51,G. Hill P.FOUL (P1.T1) (J.Tiven),,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,5,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+244,0021600600,274,8,0,3,12:06 AM,5:51,SUB: Lyles FOR Favors,,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+245,0021600600,275,8,0,3,12:06 AM,5:51,SUB: Ingles FOR Hood,,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+246,0021600600,276,8,0,3,12:06 AM,5:51,,,SUB: Bullock FOR Baynes,,,5.0,203382,Aron Baynes,1610612765.0,Detroit,Pistons,DET,5,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+247,0021600600,277,6,2,3,12:06 AM,5:43,Lyles S.FOUL (P3.T2) (D.Stafford),,,,,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,5,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+248,0021600600,278,3,11,3,12:06 AM,5:43,,,Marc Morris Free Throw 1 of 2 (10 PTS),50 - 58,8,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+249,0021600600,280,3,12,3,12:07 AM,5:43,,,Marc Morris Free Throw 2 of 2 (11 PTS),51 - 58,7,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+250,0021600600,282,6,1,3,12:07 AM,5:31,,,Jackson P.FOUL (P2.T3) (J.Tiven),,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,4,201588,George Hill,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+251,0021600600,283,2,1,3,12:08 AM,5:21,MISS Hayward 24' 3PT Jump Shot,,,,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+252,0021600600,284,4,0,3,12:08 AM,5:21,,,Drummond REBOUND (Off:2 Def:15),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+253,0021600600,285,5,1,3,12:08 AM,5:11,Hayward STEAL (3 STL),,Marc Morris Bad Pass Turnover (P2.T8),,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,4,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+254,0021600600,286,1,1,3,12:08 AM,5:07,G. Hill 25' 3PT Jump Shot (16 PTS) (Hayward 1 AST),,,51 - 61,10,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,4,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+255,0021600600,287,9,1,3,12:08 AM,4:53,,,Pistons Timeout: Regular (Reg.4 Short 1),,,3.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+256,0021600600,289,8,0,3,12:11 AM,4:53,,,SUB: Johnson FOR Marc Morris,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,5,1626169,Stanley Johnson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+257,0021600600,290,2,42,3,12:12 AM,4:37,,,MISS Harris 2' Driving Layup,,,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+258,0021600600,291,4,0,3,12:12 AM,4:37,Ingles REBOUND (Off:0 Def:1),,,,,4.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+259,0021600600,292,6,11,3,12:12 AM,4:34,,,Harris T.FOUL (P2.T3) (A.Smith),,,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+260,0021600600,293,3,16,3,12:12 AM,4:34,MISS Hayward Free Throw Technical,,,,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+261,0021600600,294,4,1,3,12:12 AM,4:34,JAZZ Rebound,,,,,2.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+262,0021600600,295,5,4,3,12:12 AM,4:24,Hayward Traveling Turnover (P2.T11),,,,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+263,0021600600,296,2,44,3,12:13 AM,4:14,,,MISS Jackson 3' Reverse Layup,,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+264,0021600600,297,4,0,3,12:13 AM,4:14,Ingles REBOUND (Off:0 Def:2),,,,,4.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+265,0021600600,298,1,1,3,12:13 AM,3:59,G. Hill 24' 3PT Jump Shot (19 PTS) (Hayward 2 AST),,,51 - 64,13,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,4,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+266,0021600600,299,6,2,3,12:14 AM,3:32,Gobert S.FOUL (P1.T3) (A.Smith),,,,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+267,0021600600,300,3,11,3,12:14 AM,3:32,,,MISS Drummond Free Throw 1 of 2,,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+268,0021600600,301,4,1,3,12:14 AM,3:32,,,Pistons Rebound,,,3.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+269,0021600600,302,8,0,3,12:14 AM,3:32,,,SUB: Udrih FOR Jackson,,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,5,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+270,0021600600,303,8,0,3,12:14 AM,3:32,SUB: Exum FOR G. Hill,,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,4,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+271,0021600600,304,3,12,3,12:14 AM,3:32,,,MISS Drummond Free Throw 2 of 2,,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+272,0021600600,306,4,0,3,12:14 AM,3:32,Lyles REBOUND (Off:0 Def:3),,,,,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+273,0021600600,307,1,42,3,12:15 AM,3:22,Hayward 2' Driving Layup (19 PTS),,,51 - 66,15,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+274,0021600600,308,6,2,3,12:15 AM,3:22,,,Johnson S.FOUL (P1.T4) (J.Tiven),,,5.0,1626169,Stanley Johnson,1610612765.0,Detroit,Pistons,DET,4,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+275,0021600600,309,3,10,3,12:15 AM,3:22,Hayward Free Throw 1 of 1 (20 PTS),,,51 - 67,16,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+276,0021600600,311,5,1,3,12:16 AM,3:03,Exum STEAL (2 STL),,Johnson Bad Pass Turnover (P2.T9),,,5.0,1626169,Stanley Johnson,1610612765.0,Detroit,Pistons,DET,4,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+277,0021600600,312,5,1,3,12:16 AM,3:00,Hayward Bad Pass Turnover (P3.T12),,Bullock STEAL (1 STL),,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+278,0021600600,313,1,1,3,12:16 AM,2:54,,,Johnson 24' 3PT Jump Shot (5 PTS) (Bullock 1 AST),54 - 67,13,5.0,1626169,Stanley Johnson,1610612765.0,Detroit,Pistons,DET,5,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+279,0021600600,314,2,1,3,12:16 AM,2:41,MISS Lyles 25' 3PT Jump Shot,,,,,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+280,0021600600,315,4,0,3,12:16 AM,2:40,,,Drummond REBOUND (Off:2 Def:16),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+281,0021600600,316,2,44,3,12:16 AM,2:28,Gobert BLOCK (3 BLK),,MISS Harris 1' Reverse Layup,,,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1
+282,0021600600,317,4,0,3,12:16 AM,2:27,Hayward REBOUND (Off:0 Def:4),,,,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+283,0021600600,318,1,7,3,12:17 AM,2:23,Lyles  Dunk (2 PTS) (Hayward 3 AST),,,54 - 69,15,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,4,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+284,0021600600,319,1,1,3,12:17 AM,2:01,,,Udrih  3PT Jump Shot (7 PTS) (Bullock 2 AST),57 - 69,12,5.0,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,5,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+285,0021600600,321,9,1,3,12:17 AM,2:00,JAZZ Timeout: Regular (Full 3 Short 1),,,,,2.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+286,0021600600,322,8,0,3,12:19 AM,2:00,SUB: Hood FOR Ingles,,,,,4.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,4,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+287,0021600600,323,8,0,3,12:19 AM,2:00,SUB: Johnson FOR Hayward,,,,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+288,0021600600,324,8,0,3,12:19 AM,2:00,SUB: Favors FOR Gobert,,,,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+289,0021600600,325,1,5,3,12:19 AM,1:49,Lyles 2' Layup (4 PTS) (Exum 1 AST),,,57 - 71,14,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,4,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+290,0021600600,326,5,40,3,12:19 AM,1:32,,,Udrih Out of Bounds Lost Ball Turnover (P2.T10),,,5.0,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+291,0021600600,327,1,42,3,12:20 AM,1:19,Exum 3' Driving Layup (4 PTS),,,57 - 73,16,4.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+292,0021600600,328,1,5,3,12:20 AM,1:00,,,Drummond 2' Layup (8 PTS) (Udrih 3 AST),59 - 73,14,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+293,0021600600,329,1,79,3,12:20 AM,0:43,Hood 12' Pullup Jump Shot (18 PTS),,,59 - 75,16,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+294,0021600600,330,1,1,3,12:21 AM,0:33,,,Bullock 15' Jump Shot (2 PTS),61 - 75,14,5.0,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+295,0021600600,331,6,2,3,12:21 AM,0:33,Hood S.FOUL (P1.T4) (D.Stafford),,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+296,0021600600,332,3,10,3,12:21 AM,0:33,,,Bullock Free Throw 1 of 1 (3 PTS),62 - 75,13,5.0,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+297,0021600600,334,2,1,3,12:21 AM,0:10,MISS Hood 16' Jump Shot,,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+298,0021600600,335,4,0,3,12:21 AM,0:09,,,Drummond REBOUND (Off:2 Def:17),,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+299,0021600600,336,6,2,3,12:22 AM,0:02,Hood S.FOUL (P2.PN) (A.Smith),,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+300,0021600600,337,3,11,3,12:22 AM,0:02,,,MISS Drummond Free Throw 1 of 2,,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+301,0021600600,338,4,1,3,12:22 AM,0:02,,,Pistons Rebound,,,3.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+302,0021600600,339,3,12,3,12:22 AM,0:02,,,Drummond Free Throw 2 of 2 (9 PTS),63 - 75,12,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+303,0021600600,341,1,1,3,12:23 AM,0:00,Johnson 59' 3PT Jump Shot (3 PTS),,,63 - 78,15,4.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+304,0021600600,345,18,0,3,12:23 AM,0:00,,,,,,,341,Joe Wolf,,,,,0,0,,,,,,1,0,,,,,,0
+305,0021600600,343,13,0,3,12:23 AM,0:00,,,,63 - 78,15,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+306,0021600600,346,12,0,4,12:27 AM,12:00,,,,63 - 78,15,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+307,0021600600,347,2,63,4,12:27 AM,11:43,MISS Johnson 6' Fadeaway Jumper,,,,,4.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+308,0021600600,348,4,0,4,12:27 AM,11:42,,,Marc Morris REBOUND (Off:0 Def:4),,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+309,0021600600,349,1,1,4,12:27 AM,11:34,,,Johnson 24' 3PT Jump Shot (8 PTS) (Udrih 4 AST),66 - 78,12,5.0,1626169,Stanley Johnson,1610612765.0,Detroit,Pistons,DET,5,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+310,0021600600,350,1,1,4,12:27 AM,11:18,Hood 25' 3PT Jump Shot (21 PTS) (Lyles 2 AST),,,66 - 81,15,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,4,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+311,0021600600,351,2,1,4,12:28 AM,10:52,,,MISS Udrih 24' 3PT Jump Shot,,,5.0,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+312,0021600600,352,4,0,4,12:28 AM,10:52,Hood REBOUND (Off:0 Def:4),,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+313,0021600600,353,1,79,4,12:28 AM,10:43,Hood 25' 3PT Pullup Jump Shot (24 PTS),,,66 - 84,18,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+314,0021600600,354,9,2,4,12:28 AM,10:37,,,Pistons Timeout: Short (Reg.4 Short 2),,,3.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+315,0021600600,356,1,44,4,12:29 AM,10:24,,,Bullock 2' Reverse Layup (5 PTS) (Udrih 5 AST),68 - 84,16,5.0,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,5,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+316,0021600600,357,5,1,4,12:30 AM,10:13,Exum Bad Pass Turnover (P1.T13),,Bullock STEAL (2 STL),,,4.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+317,0021600600,358,1,50,4,12:30 AM,10:09,,,Johnson  Running Dunk (10 PTS) (Bullock 3 AST),70 - 84,14,5.0,1626169,Stanley Johnson,1610612765.0,Detroit,Pistons,DET,5,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+318,0021600600,359,1,5,4,12:30 AM,9:50,Favors 2' Layup (4 PTS) (Exum 2 AST),,,70 - 86,16,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+319,0021600600,360,6,2,4,12:30 AM,9:50,,,Marc Morris S.FOUL (P3.T1) (J.Tiven),,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+320,0021600600,361,3,10,4,12:30 AM,9:50,Favors Free Throw 1 of 1 (5 PTS),,,70 - 87,17,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+321,0021600600,363,6,1,4,12:31 AM,9:43,Lyles P.FOUL (P4.T1) (J.Tiven),,,,,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,5,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+322,0021600600,364,5,1,4,12:31 AM,9:37,Lyles STEAL (1 STL),,Udrih Bad Pass Turnover (P3.T11),,,5.0,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,4,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+323,0021600600,365,6,1,4,12:31 AM,9:36,,,Udrih P.FOUL (P1.T2) (A.Smith),,,5.0,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,4,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+324,0021600600,366,8,0,4,12:31 AM,9:36,SUB: Diaw FOR Lyles,,,,,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,4,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+325,0021600600,367,1,44,4,12:32 AM,9:17,Favors 2' Reverse Layup (7 PTS) (Hood 2 AST),,,70 - 89,19,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+326,0021600600,368,2,1,4,12:32 AM,9:01,,,MISS Marc Morris 24' 3PT Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+327,0021600600,369,4,0,4,12:32 AM,9:00,Favors REBOUND (Off:2 Def:6),,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+328,0021600600,370,1,80,4,12:32 AM,8:37,Hood 25' 3PT Step Back Jump Shot (27 PTS),,,70 - 92,22,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+329,0021600600,371,1,5,4,12:33 AM,8:17,,,Bullock 2' Layup (7 PTS) (Udrih 6 AST),72 - 92,20,5.0,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,5,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+330,0021600600,372,1,1,4,12:33 AM,7:53,Favors 10' Jump Shot (9 PTS) (Exum 3 AST),,,72 - 94,22,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+331,0021600600,373,6,1,4,12:33 AM,7:42,Hood P.FOUL (P3.T2) (A.Smith),,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+332,0021600600,375,9,1,4,12:34 AM,7:42,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+333,0021600600,459,7,1,4,12:34 AM,7:42,,,Pistons Violation: Delay of game Violation,,,3.0,1610612765,,,,,,0,0,,,,,,1,0,,,,,,0
+334,0021600600,377,8,0,4,12:36 AM,7:42,SUB: Ingles FOR Hood,,,,,4.0,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+335,0021600600,378,8,0,4,12:36 AM,7:42,SUB: Gobert FOR Favors,,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+336,0021600600,379,8,0,4,12:36 AM,7:42,,,SUB: Harris FOR Udrih,,,5.0,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,5,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+337,0021600600,380,8,0,4,12:36 AM,7:42,,,SUB: Drummond FOR Marjanovic,,,5.0,1626246,Boban Marjanovic,1610612765.0,Detroit,Pistons,DET,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+338,0021600600,381,8,0,4,12:37 AM,7:42,,,SUB: Jackson FOR Johnson,,,5.0,1626169,Stanley Johnson,1610612765.0,Detroit,Pistons,DET,5,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+339,0021600600,382,2,1,4,12:37 AM,7:29,,,MISS Bullock 16' Jump Shot,,,5.0,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+340,0021600600,383,4,0,4,12:37 AM,7:29,Diaw REBOUND (Off:0 Def:1),,,,,4.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+341,0021600600,384,1,5,4,12:37 AM,7:09,Gobert 1' Layup (4 PTS) (Exum 4 AST),,,72 - 96,24,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+342,0021600600,385,5,1,4,12:37 AM,6:51,Gobert STEAL (1 STL),,Jackson Bad Pass Turnover (P3.T12),,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+343,0021600600,386,2,1,4,12:38 AM,6:41,MISS Exum 25' 3PT Jump Shot,,,,,4.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+344,0021600600,387,4,0,4,12:38 AM,6:41,,,Bullock REBOUND (Off:0 Def:2),,,5.0,203493,Reggie Bullock,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+345,0021600600,388,2,1,4,12:38 AM,6:24,,,MISS Harris 13' Jump Shot,,,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+346,0021600600,389,4,0,4,12:38 AM,6:24,JAZZ Rebound,,,,,2.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+347,0021600600,390,6,3,4,12:38 AM,6:23,,,Marc Morris L.B.FOUL (P4.T3) (J.Tiven),,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+348,0021600600,391,8,0,4,12:38 AM,6:23,SUB: G. Hill FOR Exum,,,,,4.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,4,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+349,0021600600,392,8,0,4,12:38 AM,6:23,SUB: Hayward FOR Johnson,,,,,4.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,4,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+350,0021600600,394,2,1,4,12:39 AM,6:04,MISS G. Hill  3PT Jump Shot,,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+351,0021600600,395,4,0,4,12:39 AM,6:03,,,Marc Morris REBOUND (Off:0 Def:5),,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+352,0021600600,396,2,1,4,12:39 AM,5:55,,,MISS Marc Morris 12' Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+353,0021600600,397,4,0,4,12:39 AM,5:54,Gobert REBOUND (Off:3 Def:6),,,,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+354,0021600600,398,1,86,4,12:39 AM,5:30,Diaw 13' Turnaround Fadeaway (6 PTS),,,72 - 98,26,4.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+355,0021600600,399,2,1,4,12:40 AM,5:05,,,MISS Marc Morris 25' 3PT Jump Shot,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+356,0021600600,400,4,0,4,12:40 AM,5:04,Gobert REBOUND (Off:3 Def:7),,,,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+357,0021600600,401,1,7,4,12:40 AM,4:46,Gobert  Dunk (6 PTS) (Diaw 4 AST),,,72 - 100,28,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+358,0021600600,402,9,1,4,12:40 AM,4:44,,,Pistons Timeout: Regular (Reg.5 Short 2),,,3.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+359,0021600600,404,8,0,4,12:43 AM,4:44,,,SUB: Ellenson FOR Harris,,,5.0,202699,Tobias Harris,1610612765.0,Detroit,Pistons,DET,5,1627740,Henry Ellenson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+360,0021600600,405,8,0,4,12:43 AM,4:44,,,SUB: Udrih FOR Drummond,,,5.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+361,0021600600,406,8,0,4,12:43 AM,4:44,,,SUB: Marjanovic FOR Marc Morris,,,5.0,202694,Marcus Morris Sr.,1610612765.0,Detroit,Pistons,DET,5,1626246,Boban Marjanovic,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+362,0021600600,407,8,0,4,12:43 AM,4:44,,,SUB: Hilliard FOR Jackson,,,5.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,5,1626199,Darrun Hilliard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+363,0021600600,408,8,0,4,12:43 AM,4:44,SUB: Burks FOR Hayward,,,,,4.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+364,0021600600,409,8,0,4,12:43 AM,4:42,SUB: Favors FOR Gobert,,,,,4.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+365,0021600600,410,2,1,4,12:44 AM,4:26,,,MISS Marjanovic 6' Jump Shot,,,5.0,1626246,Boban Marjanovic,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+366,0021600600,411,4,0,4,12:44 AM,4:25,Favors REBOUND (Off:2 Def:7),,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+367,0021600600,412,1,1,4,12:44 AM,4:04,G. Hill 24' 3PT Jump Shot (22 PTS),,,72 - 103,31,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+368,0021600600,413,2,1,4,12:44 AM,3:35,,,MISS Udrih 24' 3PT Jump Shot,,,5.0,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+369,0021600600,414,4,0,4,12:44 AM,3:35,Ingles REBOUND (Off:0 Def:3),,,,,4.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+370,0021600600,415,9,1,4,12:45 AM,3:23,JAZZ Timeout: Regular (Full 4 Short 1),,,,,2.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+371,0021600600,417,8,0,4,12:47 AM,3:23,SUB: Withey FOR Favors,,,,,4.0,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+372,0021600600,418,8,0,4,12:47 AM,3:23,SUB: Exum FOR G. Hill,,,,,4.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,4,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+373,0021600600,419,2,73,4,12:48 AM,3:18,MISS Burks 2' Driving Reverse Layup,,,,,4.0,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+374,0021600600,420,4,0,4,12:48 AM,3:17,,,Marjanovic REBOUND (Off:1 Def:2),,,5.0,1626246,Boban Marjanovic,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+375,0021600600,421,1,5,4,12:48 AM,3:13,,,Ellenson 1' Layup (2 PTS) (Udrih 7 AST),74 - 103,29,5.0,1627740,Henry Ellenson,1610612765.0,Detroit,Pistons,DET,5,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+376,0021600600,422,6,2,4,12:48 AM,3:13,Ingles S.FOUL (P1.T3) (A.Smith),,,,,4.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,5,1627740,Henry Ellenson,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+377,0021600600,423,3,10,4,12:48 AM,3:13,,,Ellenson Free Throw 1 of 1 (3 PTS),75 - 103,28,5.0,1627740,Henry Ellenson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+378,0021600600,425,2,1,4,12:49 AM,2:54,MISS Burks 25' 3PT Jump Shot,,,,,4.0,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+379,0021600600,426,4,0,4,12:49 AM,2:54,,,Udrih REBOUND (Off:0 Def:1),,,5.0,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+380,0021600600,427,5,2,4,12:49 AM,2:37,Ingles STEAL (2 STL),,Ellenson Lost Ball Turnover (P1.T13),,,5.0,1627740,Henry Ellenson,1610612765.0,Detroit,Pistons,DET,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+381,0021600600,428,1,48,4,12:49 AM,2:32,Burks  Dunk (2 PTS) (Ingles 2 AST),,,75 - 105,30,4.0,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+382,0021600600,429,2,1,4,12:49 AM,2:11,,,MISS Ellenson 26' 3PT Jump Shot,,,5.0,1627740,Henry Ellenson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+383,0021600600,430,4,0,4,12:49 AM,2:11,Exum REBOUND (Off:0 Def:1),,,,,4.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+384,0021600600,431,1,5,4,12:50 AM,2:01,Withey 2' Layup (2 PTS) (Diaw 5 AST),,,75 - 107,32,4.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,4,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+385,0021600600,432,6,2,4,12:50 AM,2:01,,,Marjanovic S.FOUL (P1.T4) (A.Smith),,,5.0,1626246,Boban Marjanovic,1610612765.0,Detroit,Pistons,DET,4,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+386,0021600600,433,8,0,4,12:50 AM,2:01,SUB: Lyles FOR Diaw,,,,,4.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,4,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+387,0021600600,434,3,10,4,12:50 AM,2:01,Withey Free Throw 1 of 1 (3 PTS),,,75 - 108,33,4.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+388,0021600600,436,1,42,4,12:50 AM,1:44,,,Udrih 2' Driving Layup (9 PTS),77 - 108,31,5.0,2757,Beno Udrih,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+389,0021600600,437,2,1,4,12:51 AM,1:28,MISS Exum  3PT Jump Shot,,,,,4.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+390,0021600600,438,4,0,4,12:51 AM,1:27,,,Hilliard REBOUND (Off:0 Def:1),,,5.0,1626199,Darrun Hilliard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+391,0021600600,439,2,1,4,12:51 AM,1:15,,,MISS Ellenson 13' Jump Shot,,,5.0,1627740,Henry Ellenson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+392,0021600600,440,4,0,4,12:51 AM,1:13,Exum REBOUND (Off:0 Def:2),,,,,4.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+393,0021600600,442,2,1,4,12:51 AM,0:58,MISS Ingles 27' 3PT Jump Shot,,,,,4.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+394,0021600600,443,4,0,4,12:51 AM,0:58,,,Marjanovic REBOUND (Off:1 Def:3),,,5.0,1626246,Boban Marjanovic,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+395,0021600600,444,2,1,4,12:52 AM,0:48,,,MISS Ellenson 25' 3PT Jump Shot,,,5.0,1627740,Henry Ellenson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+396,0021600600,445,4,0,4,12:52 AM,0:47,Lyles REBOUND (Off:0 Def:4),,,,,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+397,0021600600,446,2,49,4,12:52 AM,0:34,MISS Burks  Driving Dunk,,,,,4.0,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+398,0021600600,447,4,0,4,12:52 AM,0:34,Withey REBOUND (Off:1 Def:0),,,,,4.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+399,0021600600,448,6,2,4,12:52 AM,0:34,,,Ellenson S.FOUL (P1.PN) (D.Stafford),,,5.0,1627740,Henry Ellenson,1610612765.0,Detroit,Pistons,DET,4,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+400,0021600600,449,3,11,4,12:52 AM,0:34,Withey Free Throw 1 of 2 (4 PTS),,,77 - 109,32,4.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+401,0021600600,451,3,12,4,12:52 AM,0:34,Withey Free Throw 2 of 2 (5 PTS),,,77 - 110,33,4.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+402,0021600600,453,2,5,4,12:53 AM,0:19,Lyles BLOCK (1 BLK),,MISS Marjanovic 1' Layup,,,5.0,1626246,Boban Marjanovic,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,1
+403,0021600600,454,4,0,4,12:53 AM,0:17,Lyles REBOUND (Off:0 Def:5),,,,,4.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+404,0021600600,456,13,0,4,12:53 AM,0:00,,,,77 - 110,33,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

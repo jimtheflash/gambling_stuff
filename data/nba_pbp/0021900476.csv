@@ -1,0 +1,520 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0021900476,2,12,0,1,8:12 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0021900476,4,10,0,1,8:12 PM,12:00,Jump Ball Mahinmi vs. Gibson: Tip to Randle,,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1
+2,0021900476,8,5,2,1,8:13 PM,11:40,Thomas STEAL (1 STL),,Randle Lost Ball Turnover (P1.T1),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+3,0021900476,10,5,4,1,8:13 PM,11:34,Payton II Traveling Turnover (P1.T1),,,,,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+4,0021900476,11,2,1,1,8:14 PM,11:18,,,MISS Barrett 19' Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+5,0021900476,12,4,0,1,8:14 PM,11:15,Brown Jr. REBOUND (Off:0 Def:1),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+6,0021900476,13,2,1,1,8:14 PM,11:09,MISS Brown Jr. 15' Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+7,0021900476,14,4,0,1,8:14 PM,11:07,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+8,0021900476,16,2,58,1,8:14 PM,11:01,MISS Mahinmi 7' Turnaround Hook Shot,,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+9,0021900476,17,4,0,1,8:14 PM,10:58,Mahinmi REBOUND (Off:1 Def:0),,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+10,0021900476,18,2,3,1,8:14 PM,10:57,MISS Mahinmi 9' Hook Shot,,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+11,0021900476,19,4,0,1,8:14 PM,10:55,,,Randle REBOUND (Off:0 Def:1),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+12,0021900476,20,5,1,1,8:14 PM,10:49,Brown Jr. STEAL (1 STL),,Payton Bad Pass Turnover (P1.T2),,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+13,0021900476,22,1,73,1,8:14 PM,10:44,Payton II 1' Driving Reverse Layup (2 PTS) (Brown Jr. 1 AST),,,0 - 2,2,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+14,0021900476,24,1,1,1,8:15 PM,10:29,,,Randle 24' 3PT Jump Shot (3 PTS) (Payton 1 AST),3 - 2,-1,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+15,0021900476,26,2,79,1,8:15 PM,10:13,MISS Thomas 17' Pullup Jump Shot,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+16,0021900476,27,4,0,1,8:15 PM,10:10,,,Gibson REBOUND (Off:0 Def:1),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+17,0021900476,28,5,2,1,8:15 PM,10:01,Payton II STEAL (1 STL),,Randle Lost Ball Turnover (P2.T3),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+18,0021900476,30,1,41,1,8:15 PM,9:57,Payton II 1' Running Layup (4 PTS),,,3 - 4,1,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+19,0021900476,31,5,45,1,8:15 PM,9:46,,,Payton Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+20,0021900476,34,2,102,1,8:16 PM,9:23,MISS Thomas 20' Driving Floating Bank Jump Shot,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+21,0021900476,35,4,0,1,8:16 PM,9:21,Williams REBOUND (Off:1 Def:0),,,,,4,1629140,Johnathan Williams,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+22,0021900476,36,6,2,1,8:16 PM,9:21,,,Randle S.FOUL (P1.T1) (K.Lane),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1629140,Johnathan Williams,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+23,0021900476,38,3,11,1,8:17 PM,9:21,Williams Free Throw 1 of 2 (1 PTS),,,3 - 5,2,4,1629140,Johnathan Williams,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+24,0021900476,39,3,12,1,8:17 PM,9:21,Williams Free Throw 2 of 2 (2 PTS),,,3 - 6,3,4,1629140,Johnathan Williams,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+25,0021900476,40,9,1,1,8:17 PM,9:18,,,Knicks Timeout: Regular (Reg.1 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+26,0021900476,41,1,86,1,8:20 PM,9:09,,,Randle 16' Turnaround Fadeaway (5 PTS),5 - 6,1,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+27,0021900476,42,2,78,1,8:20 PM,8:51,MISS Brown Jr. 13' Floating Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+28,0021900476,43,4,0,1,8:20 PM,8:48,,,Randle REBOUND (Off:0 Def:2),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+29,0021900476,44,2,1,1,8:21 PM,8:32,,,MISS Randle 27' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+30,0021900476,45,4,0,1,8:21 PM,8:30,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+31,0021900476,46,6,3,1,8:21 PM,8:30,,,Gibson L.B.FOUL (P1.T2) (B.Taylor),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+32,0021900476,48,1,79,1,8:21 PM,8:17,Payton II 16' Pullup Jump Shot (6 PTS) (Williams 1 AST),,,5 - 8,3,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,4,1629140,Johnathan Williams,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+33,0021900476,50,2,1,1,8:22 PM,7:58,,,MISS Barrett 28' 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+34,0021900476,51,4,0,1,8:22 PM,7:56,Mahinmi REBOUND (Off:1 Def:1),,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+35,0021900476,52,2,63,1,8:22 PM,7:46,MISS Thomas 15' Fadeaway Jumper,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+36,0021900476,53,4,0,1,8:22 PM,7:42,,,Randle REBOUND (Off:0 Def:3),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+37,0021900476,54,1,5,1,8:22 PM,7:33,,,Gibson 2' Layup (2 PTS) (Randle 1 AST),7 - 8,1,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+38,0021900476,56,5,4,1,8:22 PM,7:18,Mahinmi Traveling Turnover (P1.T2),,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+39,0021900476,57,2,1,1,8:23 PM,7:04,,,MISS Payton 25' 3PT Jump Shot,,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+40,0021900476,58,4,0,1,8:23 PM,7:01,Payton II REBOUND (Off:0 Def:1),,,,,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+41,0021900476,59,2,1,1,8:23 PM,6:57,MISS Thomas 18' Jump Shot,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+42,0021900476,60,4,0,1,8:23 PM,6:57,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+43,0021900476,62,2,5,1,8:23 PM,6:41,Mahinmi BLOCK (1 BLK),,MISS Payton 11' Layup,,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,1
+44,0021900476,64,4,0,1,8:23 PM,6:40,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+45,0021900476,66,8,0,1,8:23 PM,6:40,,,SUB: Dotson FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+46,0021900476,67,8,0,1,8:23 PM,6:40,,,SUB: Robinson FOR Gibson,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+47,0021900476,70,1,43,1,8:24 PM,6:34,,,Robinson 9' Alley Oop Layup (2 PTS) (Payton 2 AST),9 - 8,-1,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+48,0021900476,72,6,1,1,8:24 PM,6:22,,,Morris Sr. P.FOUL (P1.T3) (B.Taylor),,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+49,0021900476,74,1,98,1,8:24 PM,6:15,Mahinmi 6' Cutting Layup Shot (2 PTS) (Williams 2 AST),,,9 - 10,1,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,4,1629140,Johnathan Williams,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+50,0021900476,76,6,2,1,8:24 PM,6:15,,,Robinson S.FOUL (P1.T4) (K.Lane),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+51,0021900476,78,8,0,1,8:25 PM,6:15,SUB: McRae FOR Payton II,,,,,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+52,0021900476,80,3,10,1,8:25 PM,6:15,MISS Mahinmi Free Throw 1 of 1,,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+53,0021900476,81,4,0,1,8:25 PM,6:12,,,Morris Sr. REBOUND (Off:0 Def:1),,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+54,0021900476,82,2,63,1,8:25 PM,5:54,,,MISS Randle 14' Fadeaway Jumper,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+55,0021900476,83,4,0,1,8:25 PM,5:51,Williams REBOUND (Off:1 Def:1),,,,,4,1629140,Johnathan Williams,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+56,0021900476,84,1,78,1,8:25 PM,5:45,Thomas 11' Floating Jump Shot (2 PTS),,,9 - 12,3,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+57,0021900476,85,1,6,1,8:26 PM,5:35,,,Payton 8' Driving Layup (2 PTS),11 - 12,1,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+58,0021900476,86,2,79,1,8:26 PM,5:23,MISS McRae 17' Pullup Jump Shot,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+59,0021900476,87,4,0,1,8:26 PM,5:21,,,Robinson REBOUND (Off:0 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+60,0021900476,88,1,108,1,8:26 PM,5:10,,,Robinson 8' Cutting Dunk Shot (4 PTS) (Morris Sr. 1 AST),13 - 12,-1,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+61,0021900476,90,9,1,1,8:26 PM,5:10,WIZARDS Timeout: Regular (Full 1 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+62,0021900476,91,8,0,1,8:28 PM,5:10,SUB: Bonga FOR Williams,,,,,4,1629140,Johnathan Williams,1610612764.0,Washington,Wizards,WAS,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+63,0021900476,93,2,6,1,8:29 PM,4:55,MISS Brown Jr. 9' Driving Layup,,Payton BLOCK (1 BLK),,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,1
+64,0021900476,94,4,0,1,8:29 PM,4:53,,,Payton REBOUND (Off:0 Def:1),,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+65,0021900476,95,2,1,1,8:29 PM,4:50,,,MISS Morris Sr. 27' 3PT Jump Shot,,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+66,0021900476,96,4,0,1,8:29 PM,4:47,McRae REBOUND (Off:0 Def:1),,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+67,0021900476,97,1,50,1,8:29 PM,4:46,Bonga 7' Running Dunk (2 PTS) (McRae 1 AST),,,13 - 14,1,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+68,0021900476,99,2,1,1,8:30 PM,4:27,,,MISS Morris Sr. 16' Jump Shot,,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+69,0021900476,100,4,0,1,8:30 PM,4:25,Thomas REBOUND (Off:0 Def:1),,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+70,0021900476,101,1,98,1,8:30 PM,4:18,Brown Jr. 2' Cutting Layup Shot (2 PTS) (Thomas 1 AST),,,13 - 16,3,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+71,0021900476,103,6,2,1,8:30 PM,4:18,,,Robinson S.FOUL (P2.PN) (B.Taylor),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+72,0021900476,105,8,0,1,8:30 PM,4:18,SUB: Smith FOR Thomas,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+73,0021900476,106,8,0,1,8:30 PM,4:18,,,SUB: Portis FOR Randle,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+74,0021900476,109,8,0,1,8:30 PM,4:18,,,SUB: Randle FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+75,0021900476,111,3,10,1,8:31 PM,4:18,Brown Jr. Free Throw 1 of 1 (3 PTS),,,13 - 17,4,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+76,0021900476,112,2,5,1,8:31 PM,4:03,,,MISS Randle 7' Layup,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+77,0021900476,113,4,0,1,8:31 PM,4:01,,,Randle REBOUND (Off:1 Def:3),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+78,0021900476,114,6,2,1,8:31 PM,4:01,Brown Jr. S.FOUL (P1.T1) (B.Taylor),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+79,0021900476,116,3,11,1,8:31 PM,4:01,,,Randle Free Throw 1 of 2 (6 PTS),14 - 17,3,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+80,0021900476,118,8,0,1,8:31 PM,4:01,SUB: Mathews FOR Brown Jr.,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+81,0021900476,119,8,0,1,8:31 PM,4:01,SUB: Pasecniks FOR Mahinmi,,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+82,0021900476,120,8,0,1,8:31 PM,4:01,,,SUB: Ntilikina FOR Payton,,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+83,0021900476,124,3,12,1,8:31 PM,4:01,,,MISS Randle Free Throw 2 of 2,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+84,0021900476,125,4,0,1,8:31 PM,3:59,Pasecniks REBOUND (Off:0 Def:1),,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+85,0021900476,126,6,1,1,8:32 PM,3:51,,,Morris Sr. P.FOUL (P2.PN) (K.Lane),,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+86,0021900476,128,3,11,1,8:32 PM,3:51,Pasecniks Free Throw 1 of 2 (1 PTS),,,14 - 18,4,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+87,0021900476,129,8,0,1,8:32 PM,3:51,,,SUB: Knox II FOR Morris Sr.,,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+88,0021900476,131,3,12,1,8:33 PM,3:51,Pasecniks Free Throw 2 of 2 (2 PTS),,,14 - 19,5,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+89,0021900476,132,1,1,1,8:33 PM,3:38,,,Dotson 27' 3PT Jump Shot (3 PTS) (Randle 2 AST),17 - 19,2,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+90,0021900476,134,2,80,1,8:33 PM,3:12,MISS McRae 17' Step Back Jump Shot,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+91,0021900476,135,4,0,1,8:33 PM,3:10,,,Ntilikina REBOUND (Off:0 Def:1),,,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+92,0021900476,136,1,6,1,8:33 PM,3:05,,,Randle 6' Driving Layup (8 PTS) (Ntilikina 1 AST),19 - 19,TIE,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+93,0021900476,138,5,1,1,8:34 PM,2:50,Pasecniks Bad Pass Turnover (P1.T3),,Dotson STEAL (1 STL),,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+94,0021900476,140,1,41,1,8:34 PM,2:47,,,Portis 3' Running Layup (2 PTS) (Ntilikina 2 AST),21 - 19,-2,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+95,0021900476,142,6,2,1,8:34 PM,2:47,Smith S.FOUL (P1.T2) (K.Lane),,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+96,0021900476,144,3,10,1,8:34 PM,2:47,,,MISS Portis Free Throw 1 of 1,,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+97,0021900476,145,4,0,1,8:34 PM,2:46,McRae REBOUND (Off:0 Def:2),,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+98,0021900476,146,2,78,1,8:34 PM,2:32,MISS Pasecniks 7' Floating Jump Shot,,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+99,0021900476,147,4,0,1,8:34 PM,2:32,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+100,0021900476,148,6,1,1,8:35 PM,2:32,Pasecniks P.FOUL (P1.T3) (B.Taylor),,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+101,0021900476,151,2,47,1,8:35 PM,2:21,,,MISS Portis 16' Turnaround Jump Shot,,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+102,0021900476,152,4,0,1,8:35 PM,2:19,Mathews REBOUND (Off:0 Def:1),,,,,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+103,0021900476,153,2,47,1,8:35 PM,2:11,MISS Smith 14' Turnaround Jump Shot,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+104,0021900476,154,4,0,1,8:35 PM,2:09,,,Randle REBOUND (Off:1 Def:4),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+105,0021900476,155,6,1,1,8:35 PM,1:55,Mathews P.FOUL (P1.T4) (K.Lane),,,,,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+106,0021900476,157,8,0,1,8:36 PM,1:55,,,SUB: Barrett FOR Randle,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+107,0021900476,159,6,1,1,8:36 PM,1:51,Mathews P.FOUL (P2.PN) (B.Taylor),,,,,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+108,0021900476,161,3,11,1,8:36 PM,1:51,,,Ntilikina Free Throw 1 of 2 (1 PTS),22 - 19,-3,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+109,0021900476,162,3,12,1,8:37 PM,1:51,,,Ntilikina Free Throw 2 of 2 (2 PTS),23 - 19,-4,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+110,0021900476,163,2,79,1,8:37 PM,1:42,MISS McRae 22' Pullup Jump Shot,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+111,0021900476,164,4,0,1,8:37 PM,1:40,,,Dotson REBOUND (Off:0 Def:1),,,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+112,0021900476,165,1,1,1,8:37 PM,1:31,,,Portis 19' Jump Shot (4 PTS) (Ntilikina 3 AST),25 - 19,-6,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+113,0021900476,167,2,75,1,8:37 PM,1:20,MISS Smith 7' Driving Finger Roll Layup,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+114,0021900476,168,4,0,1,8:37 PM,1:17,,,Knox II REBOUND (Off:0 Def:1),,,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+115,0021900476,169,1,5,1,8:37 PM,1:16,,,Barrett 3' Layup (2 PTS),27 - 19,-8,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+116,0021900476,170,6,2,1,8:37 PM,1:16,Bonga S.FOUL (P1.PN) (J.DeRosa),,,,,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+117,0021900476,172,3,10,1,8:38 PM,1:16,,,Barrett Free Throw 1 of 1 (3 PTS),28 - 19,-9,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+118,0021900476,173,2,57,1,8:38 PM,0:54,MISS Bonga 12' Driving Hook Shot,,,,,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+119,0021900476,174,4,0,1,8:38 PM,0:51,,,Ntilikina REBOUND (Off:0 Def:2),,,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+120,0021900476,175,1,1,1,8:38 PM,0:46,,,Portis 28' 3PT Jump Shot (7 PTS) (Dotson 1 AST),31 - 19,-12,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+121,0021900476,177,2,1,1,8:39 PM,0:31,MISS Pasecniks 16' Jump Shot,,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+122,0021900476,178,4,0,1,8:39 PM,0:29,Bonga REBOUND (Off:1 Def:0),,,,,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+123,0021900476,179,6,2,1,8:39 PM,0:28,,,Portis S.FOUL (P1.PN) (J.DeRosa),,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+124,0021900476,181,6,11,1,8:39 PM,0:28,,,Portis T.FOUL (P1.PN) (B.Taylor),,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+125,0021900476,182,3,16,1,8:39 PM,0:28,MISS McRae Free Throw Technical,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+126,0021900476,183,4,1,1,8:39 PM,0:28,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+127,0021900476,184,3,11,1,8:40 PM,0:28,Bonga Free Throw 1 of 2 (3 PTS),,,31 - 20,-11,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+128,0021900476,185,3,12,1,8:40 PM,0:28,Bonga Free Throw 2 of 2 (4 PTS),,,31 - 21,-10,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+129,0021900476,186,1,6,1,8:40 PM,0:04,,,Barrett 9' Driving Layup (5 PTS),33 - 21,-12,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+130,0021900476,187,6,1,1,8:40 PM,0:00,,,Ntilikina P.FOUL (P1.PN) (K.Lane),,,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+131,0021900476,189,3,11,1,8:41 PM,0:00,Smith Free Throw 1 of 2 (1 PTS),,,33 - 22,-11,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+132,0021900476,190,3,12,1,8:41 PM,0:00,Smith Free Throw 2 of 2 (2 PTS),,,33 - 23,-10,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+133,0021900476,191,13,0,1,8:41 PM,0:00,,,,33 - 23,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+134,0021900476,192,12,0,2,8:44 PM,12:00,,,,33 - 23,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+135,0021900476,193,2,1,2,8:44 PM,11:48,MISS Smith 25' 3PT Jump Shot,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+136,0021900476,194,4,0,2,8:44 PM,11:42,,,Barrett REBOUND (Off:0 Def:1),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+137,0021900476,195,6,17,2,8:44 PM,11:36,WIZARDS T.Foul (Def. 3 Sec Pasecniks ) (B.Taylor),,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+138,0021900476,196,3,16,2,8:45 PM,11:36,,,Ntilikina Free Throw Technical (3 PTS),34 - 23,-11,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+139,0021900476,197,2,1,2,8:45 PM,11:21,,,MISS Dotson 26' 3PT Jump Shot,,,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+140,0021900476,198,4,0,2,8:45 PM,11:21,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+141,0021900476,199,5,11,2,8:45 PM,11:21,,,Knicks Turnover: Shot Clock (T#5),,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+142,0021900476,200,5,2,2,8:45 PM,11:10,McRae Lost Ball Turnover (P1.T4),,Portis STEAL (1 STL),,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+143,0021900476,245,2,41,2,8:46 PM,11:07,,,MISS Dotson 5' Running Layup,,,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+144,0021900476,246,4,0,2,8:46 PM,11:06,,,Portis REBOUND (Off:1 Def:0),,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+145,0021900476,202,1,97,2,8:46 PM,11:06,,,Portis 2' Tip Layup Shot (9 PTS),36 - 23,-13,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+146,0021900476,203,2,5,2,8:46 PM,10:46,MISS Bonga 4' Layup,,,,,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+147,0021900476,204,4,0,2,8:46 PM,10:46,Pasecniks REBOUND (Off:1 Def:1),,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+148,0021900476,235,1,72,2,8:46 PM,10:44,Pasecniks 2' Putback Layup (4 PTS),,,36 - 25,-11,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+149,0021900476,205,2,1,2,8:46 PM,10:25,,,MISS Knox II 15' Jump Shot,,,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+150,0021900476,206,4,0,2,8:46 PM,10:25,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+151,0021900476,207,8,0,2,8:46 PM,10:25,SUB: Payton II FOR McRae,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+152,0021900476,209,5,4,2,8:47 PM,10:15,,,Ntilikina Traveling Turnover (P1.T6),,,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+153,0021900476,210,2,1,2,8:47 PM,10:01,MISS Mathews 26' 3PT Jump Shot,,,,,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+154,0021900476,211,4,0,2,8:47 PM,9:57,,,Barrett REBOUND (Off:0 Def:2),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+155,0021900476,212,2,1,2,8:47 PM,9:52,,,MISS Portis 26' 3PT Jump Shot,,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+156,0021900476,213,4,0,2,8:47 PM,9:48,Smith REBOUND (Off:0 Def:1),,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+157,0021900476,214,2,6,2,8:47 PM,9:45,MISS Smith 6' Driving Layup,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+158,0021900476,215,4,0,2,8:47 PM,9:43,Bonga REBOUND (Off:2 Def:0),,,,,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+159,0021900476,276,2,97,2,8:47 PM,9:43,MISS Bonga  Tip Layup Shot,,,,,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+160,0021900476,277,4,0,2,8:47 PM,9:40,Payton II REBOUND (Off:1 Def:1),,,,,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+161,0021900476,216,1,1,2,8:47 PM,9:37,Smith  3PT Jump Shot (5 PTS) (Payton II 1 AST),,,36 - 26,-10,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+162,0021900476,218,1,5,2,8:48 PM,9:17,,,Portis 7' Layup (11 PTS) (Ntilikina 4 AST),38 - 26,-12,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+163,0021900476,220,6,2,2,8:48 PM,9:11,,,Barrett S.FOUL (P1.T1) (J.DeRosa),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+164,0021900476,222,3,11,2,8:48 PM,9:11,MISS Payton II Free Throw 1 of 2,,,,,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+165,0021900476,223,4,1,2,8:48 PM,9:11,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+166,0021900476,224,8,0,2,8:48 PM,9:11,SUB: Schofield FOR Mathews,,,,,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,4,1629678,Admiral Schofield,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+167,0021900476,225,8,0,2,8:48 PM,9:11,,,SUB: Morris Sr. FOR Portis,,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+168,0021900476,226,8,0,2,8:48 PM,9:11,,,SUB: Randle FOR Dotson,,,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+169,0021900476,230,3,12,2,8:49 PM,9:11,Payton II Free Throw 2 of 2 (7 PTS),,,38 - 27,-11,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+170,0021900476,231,2,6,2,8:49 PM,8:57,,,MISS Barrett 6' Driving Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+171,0021900476,232,4,0,2,8:49 PM,8:53,Payton II REBOUND (Off:1 Def:2),,,,,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+172,0021900476,233,5,45,2,8:49 PM,8:51,Payton II Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,,,,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+173,0021900476,234,2,75,2,8:50 PM,8:39,,,MISS Knox II 7' Driving Finger Roll Layup,,,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+174,0021900476,236,4,0,2,8:50 PM,8:34,Pasecniks REBOUND (Off:1 Def:2),,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+175,0021900476,237,6,1,2,8:50 PM,8:32,,,Ntilikina P.FOUL (P2.T2) (B.Taylor),,,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+176,0021900476,239,8,0,2,8:50 PM,8:32,,,SUB: Payton FOR Ntilikina,,,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+177,0021900476,241,2,79,2,8:50 PM,8:27,MISS Smith 9' Pullup Jump Shot,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+178,0021900476,242,4,0,2,8:50 PM,8:23,,,Morris Sr. REBOUND (Off:0 Def:2),,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+179,0021900476,243,5,2,2,8:50 PM,8:13,Payton II STEAL (2 STL),,Morris Sr. Lost Ball Turnover (P1.T7),,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+180,0021900476,256,6,1,2,8:51 PM,8:13,,,Morris Sr. P.FOUL (P3.T3) (B.Taylor),,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+181,0021900476,247,8,0,2,8:51 PM,8:13,SUB: Mahinmi FOR Bonga,,,,,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+182,0021900476,248,8,0,2,8:51 PM,8:13,SUB: Brown Jr. FOR Pasecniks,,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+183,0021900476,251,2,1,2,8:51 PM,7:52,MISS Smith 14' Jump Shot,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+184,0021900476,252,4,0,2,8:51 PM,7:49,,,Knox II REBOUND (Off:0 Def:2),,,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+185,0021900476,253,1,1,2,8:52 PM,7:36,,,Barrett  3PT Jump Shot (8 PTS) (Payton 3 AST),41 - 29,-12,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+186,0021900476,255,9,1,2,8:52 PM,7:35,WIZARDS Timeout: Regular (Full 2 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+187,0021900476,260,8,0,2,8:54 PM,7:35,,,SUB: Robinson FOR Knox II,,,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+188,0021900476,270,8,0,2,8:54 PM,7:35,SUB: McRae FOR Schofield,,,,,4,1629678,Admiral Schofield,1610612764.0,Washington,Wizards,WAS,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+189,0021900476,271,8,0,2,8:54 PM,7:35,SUB: Thomas FOR Smith,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+190,0021900476,264,1,1,2,8:55 PM,7:12,Payton II  3PT Jump Shot (10 PTS) (Brown Jr. 2 AST),,,41 - 32,-9,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+191,0021900476,266,2,1,2,8:55 PM,6:55,,,MISS Morris Sr. 26' 3PT Jump Shot,,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+192,0021900476,267,4,0,2,8:55 PM,6:54,McRae REBOUND (Off:0 Def:3),,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+193,0021900476,268,6,1,2,8:55 PM,6:54,,,Robinson P.FOUL (P3.T4) (B.Taylor),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+194,0021900476,272,8,0,2,8:56 PM,6:54,,,SUB: Gibson FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+195,0021900476,274,1,1,2,8:56 PM,6:39,Payton II 24' 3PT Jump Shot (13 PTS) (Thomas 2 AST),,,41 - 35,-6,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+196,0021900476,278,9,1,2,8:56 PM,6:30,,,Knicks Timeout: Regular (Reg.2 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+197,0021900476,279,8,0,2,8:59 PM,6:30,,,SUB: Dotson FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+198,0021900476,281,2,1,2,8:59 PM,6:18,,,MISS Morris Sr. 21' Jump Shot,,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+199,0021900476,282,4,0,2,8:59 PM,6:18,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+200,0021900476,284,6,3,2,9:00 PM,6:18,McRae L.B.FOUL (P1.T1) (K.Lane),,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+201,0021900476,287,2,1,2,9:00 PM,6:07,,,MISS Randle  3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+202,0021900476,288,4,0,2,9:00 PM,6:06,Brown Jr. REBOUND (Off:0 Def:2),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+203,0021900476,289,1,1,2,9:00 PM,5:59,Thomas 24' 3PT Jump Shot (5 PTS),,,41 - 38,-3,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+204,0021900476,290,1,1,2,9:00 PM,5:45,,,Morris Sr. 25' 3PT Jump Shot (3 PTS) (Randle 3 AST),44 - 38,-6,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+205,0021900476,292,1,44,2,9:00 PM,5:37,McRae 4' Reverse Layup (2 PTS) (Thomas 3 AST),,,44 - 40,-4,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+206,0021900476,294,2,1,2,9:01 PM,5:21,,,MISS Morris Sr. 27' 3PT Jump Shot,,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+207,0021900476,295,4,0,2,9:01 PM,5:18,Brown Jr. REBOUND (Off:0 Def:3),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+208,0021900476,296,2,1,2,9:01 PM,5:14,MISS Thomas 26' 3PT Jump Shot,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+209,0021900476,297,4,0,2,9:01 PM,5:11,,,Randle REBOUND (Off:1 Def:5),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+210,0021900476,298,5,2,2,9:01 PM,4:59,Payton II STEAL (3 STL),,Payton Lost Ball Turnover (P3.T8),,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+211,0021900476,300,1,108,2,9:01 PM,4:53,Mahinmi 4' Cutting Dunk Shot (4 PTS) (Payton II 2 AST),,,44 - 42,-2,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+212,0021900476,302,6,4,2,9:01 PM,4:38,,,Gibson OFF.Foul (P2) (K.Lane),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+213,0021900476,304,5,37,2,9:01 PM,4:38,,,Gibson Offensive Foul Turnover (P1.T9),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+214,0021900476,305,6,1,2,9:02 PM,4:31,,,Payton P.FOUL (P1.PN) (B.Taylor),,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+215,0021900476,307,3,11,2,9:02 PM,4:31,Thomas Free Throw 1 of 2 (6 PTS),,,44 - 43,-1,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+216,0021900476,308,3,12,2,9:02 PM,4:31,Thomas Free Throw 2 of 2 (7 PTS),,,44 - 44,TIE,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+217,0021900476,309,5,45,2,9:03 PM,4:24,,,Payton Out of Bounds - Bad Pass Turnover Turnover (P4.T10),,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+218,0021900476,310,1,79,2,9:03 PM,4:16,Thomas 14' Pullup Jump Shot (9 PTS),,,44 - 46,2,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+219,0021900476,311,9,1,2,9:03 PM,4:10,,,Knicks Timeout: Regular (Reg.3 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+220,0021900476,312,8,0,2,9:04 PM,4:10,,,SUB: Knox II FOR Dotson,,,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+221,0021900476,325,8,0,2,9:04 PM,4:10,,,SUB: Barrett FOR Morris Sr.,,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+222,0021900476,326,8,0,2,9:04 PM,4:10,,,SUB: Portis FOR Gibson,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+223,0021900476,314,5,2,2,9:05 PM,4:00,Payton II STEAL (4 STL),,Portis Lost Ball Turnover (P1.T11),,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+224,0021900476,316,1,50,2,9:05 PM,3:58,Brown Jr. 2' Running Dunk (5 PTS) (Thomas 4 AST),,,44 - 48,4,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+225,0021900476,317,5,1,2,9:05 PM,3:33,Payton II STEAL (5 STL),,Randle Bad Pass Turnover (P3.T12),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+226,0021900476,319,2,44,2,9:05 PM,3:27,MISS Brown Jr. 3' Reverse Layup,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+227,0021900476,320,4,0,2,9:05 PM,3:25,,,Randle REBOUND (Off:1 Def:6),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+228,0021900476,321,1,58,2,9:06 PM,3:17,,,Portis 7' Turnaround Hook Shot (13 PTS),46 - 48,2,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+229,0021900476,322,6,1,2,9:06 PM,3:01,,,Barrett P.FOUL (P2.PN) (B.Taylor),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+230,0021900476,324,3,11,2,9:06 PM,3:01,Thomas Free Throw 1 of 2 (10 PTS),,,46 - 49,3,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+231,0021900476,329,3,12,2,9:06 PM,3:01,Thomas Free Throw 2 of 2 (11 PTS),,,46 - 50,4,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+232,0021900476,330,1,98,2,9:07 PM,2:53,,,Randle 3' Cutting Layup Shot (10 PTS) (Payton 4 AST),48 - 50,2,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+233,0021900476,332,2,1,2,9:07 PM,2:37,MISS McRae 13' Jump Shot,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+234,0021900476,333,4,0,2,9:07 PM,2:29,Mahinmi REBOUND (Off:2 Def:1),,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+235,0021900476,334,1,72,2,9:07 PM,2:26,Mahinmi 3' Putback Layup (6 PTS),,,48 - 52,4,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+236,0021900476,336,1,6,2,9:07 PM,2:10,,,Randle 6' Driving Layup (12 PTS) (Barrett 1 AST),50 - 52,2,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+237,0021900476,338,1,1,2,9:08 PM,1:57,Thomas 11' Jump Shot (13 PTS),,,50 - 54,4,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+238,0021900476,339,1,75,2,9:08 PM,1:42,,,Portis 5' Driving Finger Roll Layup (15 PTS),52 - 54,2,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+239,0021900476,340,2,1,2,9:08 PM,1:28,MISS Payton II 25' 3PT Jump Shot,,,,,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+240,0021900476,341,4,0,2,9:08 PM,1:24,Thomas REBOUND (Off:1 Def:1),,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+241,0021900476,342,2,1,2,9:08 PM,1:22,MISS Thomas 16' Jump Shot,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+242,0021900476,343,4,0,2,9:08 PM,1:19,,,Payton REBOUND (Off:0 Def:2),,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+243,0021900476,344,6,2,2,9:08 PM,1:19,McRae S.FOUL (P2.T2) (B.Taylor),,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+244,0021900476,352,3,11,2,9:09 PM,1:19,,,Knox II Free Throw 1 of 2 (1 PTS),53 - 54,1,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+245,0021900476,353,3,12,2,9:09 PM,1:19,,,MISS Knox II Free Throw 2 of 2,,,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+246,0021900476,354,4,0,2,9:09 PM,1:19,McRae REBOUND (Off:0 Def:4),,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+247,0021900476,346,2,1,2,9:09 PM,1:08,MISS Thomas 9' Jump Shot,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+248,0021900476,347,4,0,2,9:09 PM,1:04,,,Knox II REBOUND (Off:0 Def:3),,,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+249,0021900476,348,1,1,2,9:09 PM,1:00,,,Knox II 27' 3PT Jump Shot (4 PTS) (Payton 5 AST),55 - 54,-1,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+250,0021900476,350,1,3,2,9:10 PM,0:43,Mahinmi 5' Hook Shot (8 PTS),,,55 - 56,1,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+251,0021900476,351,2,1,2,9:10 PM,0:31,,,MISS Barrett 26' 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+252,0021900476,355,4,0,2,9:10 PM,0:31,Brown Jr. REBOUND (Off:0 Def:4),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+253,0021900476,356,6,2,2,9:10 PM,0:23,,,Knox II S.FOUL (P1.PN) (B.Taylor),,,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+254,0021900476,358,3,11,2,9:10 PM,0:23,McRae Free Throw 1 of 2 (3 PTS),,,56 - 57,1,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+255,0021900476,359,8,0,2,9:11 PM,0:23,SUB: Schofield FOR Thomas,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,4,1629678,Admiral Schofield,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+256,0021900476,360,8,0,2,9:11 PM,0:23,SUB: Bonga FOR Mahinmi,,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+257,0021900476,363,3,12,2,9:11 PM,0:23,McRae Free Throw 2 of 2 (4 PTS),,,56 - 58,2,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+258,0021900476,364,1,1,2,9:11 PM,0:02,,,Barrett 24' 3PT Jump Shot (11 PTS) (Payton 6 AST),59 - 58,-1,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+259,0021900476,366,2,1,2,9:11 PM,0:00,MISS McRae 54' 3PT Jump Shot,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+260,0021900476,367,4,0,2,9:11 PM,0:00,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+261,0021900476,368,13,0,2,9:12 PM,0:00,,,,59 - 58,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+262,0021900476,380,12,0,3,9:27 PM,12:00,,,,59 - 58,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+263,0021900476,381,2,80,3,9:27 PM,11:43,MISS Brown Jr. 27' 3PT Step Back Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+264,0021900476,382,4,0,3,9:27 PM,11:38,Mahinmi REBOUND (Off:3 Def:1),,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+265,0021900476,383,2,1,3,9:27 PM,11:36,MISS Thomas 28' 3PT Jump Shot,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+266,0021900476,384,4,0,3,9:27 PM,11:33,,,Barrett REBOUND (Off:0 Def:3),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+267,0021900476,385,5,1,3,9:27 PM,11:28,Payton II STEAL (6 STL),,Randle Bad Pass Turnover (P4.T13),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+268,0021900476,387,6,2,3,9:27 PM,11:24,,,Payton S.FOUL (P2.T1) (J.DeRosa),,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+269,0021900476,389,3,11,3,9:28 PM,11:24,Thomas Free Throw 1 of 2 (14 PTS),,,59 - 59,TIE,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+270,0021900476,390,3,12,3,9:28 PM,11:24,Thomas Free Throw 2 of 2 (15 PTS),,,59 - 60,1,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+271,0021900476,391,1,1,3,9:28 PM,11:09,,,Morris Sr. 24' 3PT Jump Shot (6 PTS) (Randle 4 AST),62 - 60,-2,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+272,0021900476,393,6,1,3,9:28 PM,10:56,,,Morris Sr. P.FOUL (P4.T2) (J.DeRosa),,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+273,0021900476,395,2,6,3,9:29 PM,10:45,MISS Thomas 6' Driving Layup,,Gibson BLOCK (1 BLK),,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,1
+274,0021900476,397,4,0,3,9:29 PM,10:45,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+275,0021900476,398,2,1,3,9:29 PM,10:42,MISS Brown Jr. 18' Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+276,0021900476,399,4,0,3,9:29 PM,10:39,,,Gibson REBOUND (Off:0 Def:2),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+277,0021900476,400,6,1,3,9:29 PM,10:33,Williams P.FOUL (P1.T1) (K.Lane),,,,,4,1629140,Johnathan Williams,1610612764.0,Washington,Wizards,WAS,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+278,0021900476,402,1,101,3,9:30 PM,10:15,,,Payton 6' Driving Floating Jump Shot (4 PTS) (Randle 5 AST),64 - 60,-4,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+279,0021900476,404,2,78,3,9:30 PM,9:54,MISS Thomas 7' Floating Jump Shot,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+280,0021900476,405,4,0,3,9:30 PM,9:54,Mahinmi REBOUND (Off:4 Def:1),,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+281,0021900476,450,2,97,3,9:30 PM,9:53,MISS Mahinmi 3' Tip Layup Shot,,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+282,0021900476,451,4,0,3,9:30 PM,9:53,,,Morris Sr. REBOUND (Off:0 Def:3),,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+283,0021900476,407,2,78,3,9:31 PM,9:39,,,MISS Barrett 9' Floating Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+284,0021900476,408,4,0,3,9:31 PM,9:36,,,Gibson REBOUND (Off:1 Def:2),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+285,0021900476,410,5,2,3,9:31 PM,9:32,Brown Jr. STEAL (2 STL),,Gibson Lost Ball Turnover (P2.T14),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+286,0021900476,412,1,41,3,9:31 PM,9:27,Brown Jr. 4' Running Layup (7 PTS),,,64 - 62,-2,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+287,0021900476,413,1,50,3,9:31 PM,9:23,,,Randle 4' Running Dunk (14 PTS) (Payton 7 AST),66 - 62,-4,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+288,0021900476,415,1,79,3,9:31 PM,9:04,Thomas 27' 3PT Pullup Jump Shot (18 PTS),,,66 - 65,-1,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+289,0021900476,416,5,1,3,9:32 PM,8:50,Brown Jr. STEAL (3 STL),,Payton Bad Pass Turnover (P5.T15),,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+290,0021900476,418,2,3,3,9:32 PM,8:43,MISS Brown Jr. 4' Hook Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+291,0021900476,419,4,0,3,9:32 PM,8:43,Payton II REBOUND (Off:2 Def:2),,,,,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+292,0021900476,420,1,97,3,9:32 PM,8:43,Payton II 1' Tip Layup Shot (15 PTS),,,66 - 67,1,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+293,0021900476,423,1,108,3,9:33 PM,8:22,,,Gibson 3' Cutting Dunk Shot (4 PTS) (Payton 8 AST),68 - 67,-1,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+294,0021900476,425,6,2,3,9:33 PM,8:04,,,Gibson S.FOUL (P3.T3) (K.Lane),,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+295,0021900476,427,3,11,3,9:33 PM,8:04,MISS Mahinmi Free Throw 1 of 2,,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+296,0021900476,428,4,1,3,9:33 PM,8:04,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+297,0021900476,429,3,12,3,9:34 PM,8:04,Mahinmi Free Throw 2 of 2 (9 PTS),,,68 - 68,TIE,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+298,0021900476,430,2,1,3,9:34 PM,7:46,,,MISS Randle  3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+299,0021900476,431,4,0,3,9:34 PM,7:43,Thomas REBOUND (Off:1 Def:2),,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+300,0021900476,432,2,1,3,9:34 PM,7:37,MISS Brown Jr. 27' 3PT Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+301,0021900476,433,4,0,3,9:34 PM,7:33,,,Randle REBOUND (Off:1 Def:7),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+302,0021900476,434,2,1,3,9:34 PM,7:26,,,MISS Payton 28' 3PT Jump Shot,,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+303,0021900476,435,4,0,3,9:34 PM,7:23,Mahinmi REBOUND (Off:4 Def:2),,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+304,0021900476,436,2,80,3,9:35 PM,7:15,MISS Thomas 24' 3PT Step Back Jump Shot,,Gibson BLOCK (2 BLK),,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,1
+305,0021900476,438,4,0,3,9:35 PM,7:14,,,Randle REBOUND (Off:1 Def:8),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+306,0021900476,439,6,28,3,9:35 PM,7:10,Brown Jr. Personal Take Foul (P2.T2) (J.DeRosa),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+307,0021900476,441,8,0,3,9:35 PM,7:10,,,SUB: Robinson FOR Gibson,,,5,201959,Taj Gibson,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+308,0021900476,443,1,1,3,9:35 PM,6:58,,,Randle 24' 3PT Jump Shot (17 PTS) (Morris Sr. 2 AST),71 - 68,-3,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+309,0021900476,445,5,39,3,9:36 PM,6:38,Payton II Step Out of Bounds Turnover (P3.T6),,,,,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+310,0021900476,447,9,1,3,9:36 PM,6:38,WIZARDS Timeout: Regular (Full 3 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+311,0021900476,448,8,0,3,9:37 PM,6:38,SUB: McRae FOR Brown Jr.,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+312,0021900476,452,2,1,3,9:39 PM,6:27,,,MISS Morris Sr. 17' Jump Shot,,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+313,0021900476,453,4,0,3,9:39 PM,6:24,Williams REBOUND (Off:1 Def:2),,,,,4,1629140,Johnathan Williams,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+314,0021900476,454,5,1,3,9:39 PM,6:11,Thomas Bad Pass Turnover (P1.T7),,Randle STEAL (1 STL),,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+315,0021900476,456,6,1,3,9:39 PM,6:11,Thomas P.FOUL (P1.T3) (J.DeRosa),,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+316,0021900476,458,8,0,3,9:39 PM,6:11,SUB: Pasecniks FOR Payton II,,,,,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+317,0021900476,459,8,0,3,9:39 PM,6:11,SUB: Mathews FOR Mahinmi,,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+318,0021900476,460,8,0,3,9:39 PM,6:11,,,SUB: Dotson FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+319,0021900476,464,1,5,3,9:40 PM,6:00,,,Randle 8' Layup (19 PTS),73 - 68,-5,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+320,0021900476,465,6,2,3,9:40 PM,6:00,Pasecniks S.FOUL (P2.T4) (K.Lane),,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+321,0021900476,467,3,10,3,9:40 PM,6:00,,,Randle Free Throw 1 of 1 (20 PTS),74 - 68,-6,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+322,0021900476,468,2,57,3,9:40 PM,5:42,MISS McRae 7' Driving Hook Shot,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+323,0021900476,469,4,0,3,9:41 PM,5:38,,,Robinson REBOUND (Off:0 Def:2),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+324,0021900476,470,2,78,3,9:41 PM,5:32,,,MISS Payton 7' Floating Jump Shot,,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+325,0021900476,471,4,0,3,9:41 PM,5:26,,,Robinson REBOUND (Off:2 Def:2),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+326,0021900476,472,2,97,3,9:41 PM,5:26,,,MISS Robinson 1' Tip Layup Shot,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+327,0021900476,473,4,0,3,9:41 PM,5:26,,,Robinson REBOUND (Off:2 Def:2),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+328,0021900476,474,1,107,3,9:41 PM,5:23,,,Robinson 1' Tip Dunk Shot (6 PTS),76 - 68,-8,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+329,0021900476,475,6,2,3,9:41 PM,5:20,,,Morris Sr. S.FOUL (P5.T4) (B.Taylor),,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+330,0021900476,478,9,1,3,9:41 PM,5:20,,,Knicks Timeout: Regular (Reg.4 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+331,0021900476,477,18,6,3,9:41 PM,5:20,,,,76 - 68,-8,0,475,Doug Smith,,,,,0,0,,,,,,1,0,,,,,,1
+332,0021900476,479,8,0,3,9:44 PM,5:20,SUB: Bonga FOR Williams,,,,,4,1629140,Johnathan Williams,1610612764.0,Washington,Wizards,WAS,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+333,0021900476,480,8,0,3,9:44 PM,5:20,,,SUB: Knox II FOR Morris Sr.,,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+334,0021900476,483,3,11,3,9:44 PM,5:20,Thomas Free Throw 1 of 2 (19 PTS),,,76 - 69,-7,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+335,0021900476,484,3,12,3,9:44 PM,5:20,Thomas Free Throw 2 of 2 (20 PTS),,,76 - 70,-6,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+336,0021900476,485,6,1,3,9:45 PM,5:05,Thomas P.FOUL (P2.PN) (K.Lane),,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+337,0021900476,487,3,11,3,9:45 PM,5:05,,,Knox II Free Throw 1 of 2 (5 PTS),77 - 70,-7,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+338,0021900476,488,3,12,3,9:45 PM,5:05,,,Knox II Free Throw 2 of 2 (6 PTS),78 - 70,-8,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+339,0021900476,489,2,1,3,9:46 PM,4:55,MISS McRae 13' Jump Shot,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+340,0021900476,490,4,0,3,9:46 PM,4:52,Pasecniks REBOUND (Off:2 Def:2),,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+341,0021900476,491,2,1,3,9:46 PM,4:40,MISS Mathews 15' Jump Shot,,,,,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+342,0021900476,492,4,0,3,9:46 PM,4:38,,,Randle REBOUND (Off:1 Def:9),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+343,0021900476,493,1,7,3,9:46 PM,4:33,,,Robinson 5' Dunk (8 PTS) (Randle 6 AST),80 - 70,-10,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+344,0021900476,495,2,80,3,9:46 PM,4:16,MISS McRae 10' Step Back Jump Shot,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+345,0021900476,496,4,0,3,9:46 PM,4:13,,,Randle REBOUND (Off:1 Def:10),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+346,0021900476,497,6,1,3,9:46 PM,4:12,Bonga P.FOUL (P2.PN) (J.DeRosa),,,,,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+347,0021900476,499,3,11,3,9:47 PM,4:12,,,Randle Free Throw 1 of 2 (21 PTS),81 - 70,-11,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+348,0021900476,500,8,0,3,9:47 PM,4:12,SUB: Smith FOR Thomas,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+349,0021900476,501,8,0,3,9:47 PM,4:12,SUB: Brown Jr. FOR Mathews,,,,,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+350,0021900476,502,8,0,3,9:47 PM,4:12,,,SUB: Ntilikina FOR Payton,,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+351,0021900476,506,3,12,3,9:47 PM,4:12,,,Randle Free Throw 2 of 2 (22 PTS),82 - 70,-12,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+352,0021900476,507,6,1,3,9:48 PM,3:56,,,Robinson P.FOUL (P4.PN) (J.DeRosa),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+353,0021900476,509,3,11,3,9:48 PM,3:56,MISS Pasecniks Free Throw 1 of 2,,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+354,0021900476,510,4,1,3,9:48 PM,3:56,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+355,0021900476,513,3,12,3,9:48 PM,3:56,MISS Pasecniks Free Throw 2 of 2,,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+356,0021900476,511,8,0,3,9:48 PM,3:56,,,SUB: Portis FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+357,0021900476,514,4,0,3,9:48 PM,3:54,,,Randle REBOUND (Off:1 Def:11),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+358,0021900476,515,2,1,3,9:49 PM,3:39,,,MISS Dotson 28' 3PT Jump Shot,,,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+359,0021900476,516,4,0,3,9:49 PM,3:36,Smith REBOUND (Off:0 Def:2),,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+360,0021900476,517,2,6,3,9:49 PM,3:31,MISS McRae 9' Driving Layup,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+361,0021900476,518,4,0,3,9:49 PM,3:28,,,Knox II REBOUND (Off:0 Def:4),,,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+362,0021900476,519,6,26,3,9:49 PM,3:22,,,Portis Offensive Charge Foul (P2.PN) (K.Lane),,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+363,0021900476,521,5,37,3,9:49 PM,3:22,,,Portis Offensive Foul Turnover (P2.T16),,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+364,0021900476,522,8,0,3,9:49 PM,3:22,,,SUB: Barrett FOR Randle,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+365,0021900476,524,5,39,3,9:50 PM,3:07,Brown Jr. Step Out of Bounds Turnover (P1.T8),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+366,0021900476,526,1,79,3,9:50 PM,2:51,,,Portis 17' Pullup Jump Shot (17 PTS),84 - 70,-14,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+367,0021900476,527,6,2,3,9:50 PM,2:39,,,Ntilikina S.FOUL (P3.PN) (J.DeRosa),,,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+368,0021900476,529,3,11,3,9:51 PM,2:39,MISS Smith Free Throw 1 of 2,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+369,0021900476,530,4,1,3,9:51 PM,2:39,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+370,0021900476,531,3,12,3,9:51 PM,2:39,Smith Free Throw 2 of 2 (6 PTS),,,84 - 71,-13,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+371,0021900476,532,2,1,3,9:51 PM,2:30,,,MISS Portis 19' Jump Shot,,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+372,0021900476,533,4,0,3,9:51 PM,2:25,Brown Jr. REBOUND (Off:0 Def:5),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+373,0021900476,534,2,71,3,9:51 PM,2:14,MISS Smith 5' Finger Roll Layup,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+374,0021900476,535,4,0,3,9:51 PM,2:13,,,Ntilikina REBOUND (Off:0 Def:3),,,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+375,0021900476,536,1,73,3,9:51 PM,2:08,,,Dotson 1' Driving Reverse Layup (5 PTS) (Ntilikina 5 AST),86 - 71,-15,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+376,0021900476,538,1,102,3,9:52 PM,1:53,Smith 8' Driving Floating Bank Jump Shot (8 PTS) (McRae 2 AST),,,86 - 73,-13,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+377,0021900476,540,5,1,3,9:52 PM,1:38,McRae STEAL (1 STL),,Barrett Bad Pass Turnover (P1.T17),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+378,0021900476,542,2,78,3,9:52 PM,1:30,MISS Brown Jr. 7' Floating Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+379,0021900476,543,4,0,3,9:52 PM,1:26,,,Portis REBOUND (Off:1 Def:1),,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+380,0021900476,544,2,6,3,9:52 PM,1:20,,,MISS Barrett 5' Driving Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+381,0021900476,545,4,0,3,9:52 PM,1:15,,,Barrett REBOUND (Off:1 Def:3),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+382,0021900476,546,2,97,3,9:52 PM,1:15,Smith BLOCK (1 BLK),,MISS Barrett 1' Tip Layup Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,1
+383,0021900476,548,4,0,3,9:52 PM,1:15,Bonga REBOUND (Off:2 Def:1),,,,,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+384,0021900476,549,6,4,3,9:52 PM,1:12,Pasecniks OFF.Foul (P3) (B.Taylor),,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+385,0021900476,551,5,37,3,9:52 PM,1:12,Pasecniks Offensive Foul Turnover (P2.T9),,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+386,0021900476,552,2,80,3,9:53 PM,1:00,,,MISS Knox II 29' 3PT Step Back Jump Shot,,,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+387,0021900476,553,4,0,3,9:53 PM,0:57,McRae REBOUND (Off:0 Def:5),,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+388,0021900476,554,6,2,3,9:53 PM,0:54,,,Knox II S.FOUL (P2.PN) (J.DeRosa),,,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+389,0021900476,556,3,11,3,9:53 PM,0:54,Bonga Free Throw 1 of 2 (5 PTS),,,86 - 74,-12,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+390,0021900476,557,3,12,3,9:54 PM,0:54,Bonga Free Throw 2 of 2 (6 PTS),,,86 - 75,-11,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+391,0021900476,558,5,1,3,9:54 PM,0:30,Bonga STEAL (1 STL),,Barrett Bad Pass Turnover (P2.T18),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+392,0021900476,560,1,1,3,9:54 PM,0:26,Smith 25' 3PT Jump Shot (11 PTS) (Bonga 1 AST),,,86 - 78,-8,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+393,0021900476,562,2,79,3,9:55 PM,0:08,,,MISS Ntilikina 27' 3PT Pullup Jump Shot,,,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+394,0021900476,563,4,0,3,9:55 PM,0:04,Brown Jr. REBOUND (Off:0 Def:6),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+395,0021900476,564,2,79,3,9:55 PM,0:01,MISS Brown Jr. 30' 3PT Pullup Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+396,0021900476,565,4,0,3,9:55 PM,0:01,,,Barrett REBOUND (Off:1 Def:4),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+397,0021900476,566,13,0,3,9:55 PM,0:00,,,,86 - 78,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+398,0021900476,567,12,0,4,9:57 PM,12:00,,,,86 - 78,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+399,0021900476,568,6,1,4,9:58 PM,11:48,Pasecniks P.FOUL (P4.T1) (B.Taylor),,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+400,0021900476,570,2,78,4,9:58 PM,11:35,,,MISS Portis 8' Floating Jump Shot,,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+401,0021900476,571,4,0,4,9:58 PM,11:33,Bonga REBOUND (Off:2 Def:2),,,,,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+402,0021900476,572,1,6,4,9:58 PM,11:23,Smith 6' Driving Layup (13 PTS),,,86 - 80,-6,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+403,0021900476,573,2,6,4,9:59 PM,11:03,,,MISS Barrett 7' Driving Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+404,0021900476,575,4,0,4,9:59 PM,11:00,Pasecniks REBOUND (Off:2 Def:3),,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+405,0021900476,576,1,41,4,9:59 PM,10:58,Bonga 6' Running Layup (8 PTS),,,86 - 82,-4,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+406,0021900476,577,7,2,4,9:59 PM,10:58,,,Dotson Violation:Defensive Goaltending (J.DeRosa),,,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+407,0021900476,578,5,4,4,9:59 PM,10:42,,,Portis Traveling Turnover (P3.T19),,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+408,0021900476,579,8,0,4,10:00 PM,10:42,,,SUB: Randle FOR Knox II,,,5,1628995,Kevin Knox II,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+409,0021900476,581,1,1,4,10:00 PM,10:25,McRae 27' 3PT Jump Shot (7 PTS) (Smith 1 AST),,,86 - 85,-1,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+410,0021900476,583,9,1,4,10:00 PM,10:22,,,Knicks Timeout: Regular (Reg.5 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+411,0021900476,584,8,0,4,10:02 PM,10:22,,,SUB: Trier FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+412,0021900476,586,1,1,4,10:03 PM,10:05,,,Ntilikina 24' 3PT Jump Shot (6 PTS) (Dotson 2 AST),89 - 85,-4,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+413,0021900476,588,2,79,4,10:04 PM,9:43,MISS Smith 27' 3PT Pullup Jump Shot,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+414,0021900476,589,4,0,4,10:04 PM,9:40,,,Trier REBOUND (Off:0 Def:1),,,5,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+415,0021900476,590,2,1,4,10:04 PM,9:31,,,MISS Trier 27' 3PT Jump Shot,,,5,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+416,0021900476,591,4,0,4,10:04 PM,9:28,,,Portis REBOUND (Off:2 Def:1),,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+417,0021900476,592,2,1,4,10:04 PM,9:25,,,MISS Trier 28' 3PT Jump Shot,,,5,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+418,0021900476,593,4,0,4,10:04 PM,9:21,Smith REBOUND (Off:0 Def:3),,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+419,0021900476,594,1,1,4,10:04 PM,9:13,McRae 26' 3PT Jump Shot (10 PTS),,,89 - 88,-1,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+420,0021900476,595,5,2,4,10:04 PM,8:55,Smith STEAL (1 STL),,Randle Lost Ball Turnover (P5.T20),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+421,0021900476,597,1,108,4,10:04 PM,8:51,McRae 3' Cutting Dunk Shot (12 PTS) (Smith 2 AST),,,89 - 90,1,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+422,0021900476,599,6,2,4,10:05 PM,8:30,Smith S.FOUL (P2.T2) (K.Lane),,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+423,0021900476,601,3,11,4,10:05 PM,8:30,,,Ntilikina Free Throw 1 of 2 (7 PTS),90 - 90,TIE,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+424,0021900476,602,8,0,4,10:05 PM,8:30,SUB: Payton II FOR McRae,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+425,0021900476,604,3,12,4,10:06 PM,8:30,,,Ntilikina Free Throw 2 of 2 (8 PTS),91 - 90,-1,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+426,0021900476,605,1,79,4,10:06 PM,8:19,Brown Jr. 17' Pullup Jump Shot (9 PTS),,,91 - 92,1,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+427,0021900476,606,1,63,4,10:06 PM,7:56,,,Randle 18' Fadeaway Jumper (24 PTS),93 - 92,-1,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+428,0021900476,607,6,1,4,10:06 PM,7:51,,,Ntilikina P.FOUL (P4.T1) (K.Lane),,,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+429,0021900476,609,5,1,4,10:07 PM,7:44,Smith Bad Pass Turnover (P1.T10),,Ntilikina STEAL (1 STL),,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+430,0021900476,611,5,1,4,10:07 PM,7:27,Bonga STEAL (2 STL),,Trier Bad Pass Turnover (P1.T21),,,5,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+431,0021900476,613,2,57,4,10:07 PM,7:06,MISS Pasecniks 5' Driving Hook Shot,,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+432,0021900476,614,4,0,4,10:07 PM,7:03,,,Ntilikina REBOUND (Off:0 Def:4),,,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+433,0021900476,615,2,1,4,10:08 PM,6:54,,,MISS Randle 16' Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+434,0021900476,616,4,0,4,10:08 PM,6:49,Brown Jr. REBOUND (Off:0 Def:7),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+435,0021900476,617,9,1,4,10:08 PM,6:40,WIZARDS Timeout: Regular (Full 4 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+436,0021900476,618,8,0,4,10:09 PM,6:40,SUB: Mahinmi FOR Bonga,,,,,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+437,0021900476,619,8,0,4,10:09 PM,6:40,SUB: Thomas FOR Pasecniks,,,,,4,1628394,Anzejs Pasecniks,1610612764.0,Washington,Wizards,WAS,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+438,0021900476,620,8,0,4,10:09 PM,6:40,,,SUB: Robinson FOR Portis,,,5,1626171,Bobby Portis,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+439,0021900476,621,8,0,4,10:09 PM,6:40,,,SUB: Payton FOR Ntilikina,,,5,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+440,0021900476,626,2,79,4,10:11 PM,6:33,MISS Brown Jr. 14' Pullup Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+441,0021900476,627,4,0,4,10:11 PM,6:30,,,Dotson REBOUND (Off:0 Def:2),,,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+442,0021900476,628,5,1,4,10:11 PM,6:20,Mahinmi STEAL (1 STL),,Payton Bad Pass Turnover (P6.T22),,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+443,0021900476,630,2,5,4,10:11 PM,6:07,MISS Thomas 6' Layup,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+444,0021900476,631,4,0,4,10:11 PM,6:04,,,Robinson REBOUND (Off:2 Def:3),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+445,0021900476,632,2,78,4,10:12 PM,5:48,,,MISS Randle 17' Floating Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+446,0021900476,633,4,0,4,10:12 PM,5:45,,,Randle REBOUND (Off:2 Def:11),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+447,0021900476,634,2,78,4,10:12 PM,5:42,,,MISS Randle 10' Floating Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+448,0021900476,635,4,0,4,10:12 PM,5:37,,,Randle REBOUND (Off:3 Def:11),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+449,0021900476,636,1,97,4,10:12 PM,5:37,,,Randle 1' Tip Layup Shot (26 PTS),95 - 92,-3,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+450,0021900476,637,2,79,4,10:12 PM,5:25,MISS Brown Jr. 17' Pullup Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+451,0021900476,638,4,0,4,10:12 PM,5:23,,,Randle REBOUND (Off:3 Def:12),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+452,0021900476,639,2,1,4,10:12 PM,5:16,,,MISS Dotson 27' 3PT Jump Shot,,,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+453,0021900476,640,4,0,4,10:12 PM,5:11,Payton II REBOUND (Off:2 Def:3),,,,,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+454,0021900476,641,2,1,4,10:12 PM,5:06,MISS Payton II 25' 3PT Jump Shot,,,,,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+455,0021900476,642,4,0,4,10:13 PM,5:01,,,Dotson REBOUND (Off:0 Def:3),,,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+456,0021900476,643,2,1,4,10:13 PM,4:50,,,MISS Randle 25' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+457,0021900476,644,4,0,4,10:13 PM,4:47,Mahinmi REBOUND (Off:4 Def:3),,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+458,0021900476,645,2,5,4,10:13 PM,4:33,MISS Payton II 11' Layup,,Robinson BLOCK (1 BLK),,,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1
+459,0021900476,647,4,0,4,10:13 PM,4:28,,,Robinson REBOUND (Off:2 Def:4),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+460,0021900476,648,2,73,4,10:13 PM,4:24,Mahinmi BLOCK (2 BLK),,MISS Payton 3' Driving Reverse Layup,,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,1
+461,0021900476,650,4,0,4,10:13 PM,4:21,,,Payton REBOUND (Off:1 Def:2),,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+462,0021900476,651,2,1,4,10:13 PM,4:18,,,MISS Dotson 16' Jump Shot,,,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+463,0021900476,652,4,0,4,10:13 PM,4:18,Mahinmi REBOUND (Off:4 Def:4),,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+464,0021900476,653,2,1,4,10:14 PM,3:56,MISS Brown Jr. 26' 3PT Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+465,0021900476,654,4,0,4,10:14 PM,3:53,,,Payton REBOUND (Off:1 Def:3),,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+466,0021900476,655,1,86,4,10:14 PM,3:32,,,Randle 4' Turnaround Fadeaway (28 PTS),97 - 92,-5,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+467,0021900476,656,9,1,4,10:14 PM,3:32,WIZARDS Timeout: Regular (Full 5 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+468,0021900476,657,8,0,4,10:15 PM,3:32,SUB: McRae FOR Smith,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+469,0021900476,658,8,0,4,10:15 PM,3:32,,,SUB: Barrett FOR Trier,,,5,1629019,Allonzo Trier,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+470,0021900476,659,8,0,4,10:15 PM,3:32,,,SUB: Morris Sr. FOR Dotson,,,5,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+471,0021900476,663,2,80,4,10:16 PM,3:12,MISS Thomas 12' Step Back Jump Shot,,Robinson BLOCK (2 BLK),,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1
+472,0021900476,665,4,0,4,10:16 PM,3:10,Thomas REBOUND (Off:2 Def:2),,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+473,0021900476,666,5,11,4,10:16 PM,3:08,WIZARDS Turnover: Shot Clock (T#11),,,,,2,1610612764,,,,,,0,0,,,,,,1,0,,,,,,0
+474,0021900476,667,2,80,4,10:17 PM,2:46,,,MISS Morris Sr. 19' Step Back Jump Shot,,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+475,0021900476,668,4,0,4,10:17 PM,2:43,Brown Jr. REBOUND (Off:0 Def:8),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+476,0021900476,669,1,6,4,10:17 PM,2:28,McRae 3' Driving Layup (14 PTS),,,97 - 94,-3,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+477,0021900476,670,1,1,4,10:17 PM,2:14,,,Barrett 25' 3PT Jump Shot (14 PTS) (Morris Sr. 3 AST),100 - 94,-6,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+478,0021900476,672,2,101,4,10:17 PM,1:54,MISS Thomas 7' Driving Floating Jump Shot,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+479,0021900476,673,4,0,4,10:18 PM,1:54,Mahinmi REBOUND (Off:5 Def:4),,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+480,0021900476,674,2,97,4,10:18 PM,1:54,MISS Mahinmi 1' Tip Layup Shot,,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+481,0021900476,675,4,0,4,10:18 PM,1:54,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+482,0021900476,676,2,1,4,10:18 PM,1:52,MISS Thomas 17' Jump Shot,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+483,0021900476,677,4,0,4,10:18 PM,1:47,,,Randle REBOUND (Off:3 Def:13),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+484,0021900476,678,2,1,4,10:18 PM,1:28,,,MISS Payton 27' 3PT Jump Shot,,,5,203901,Elfrid Payton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+485,0021900476,679,4,0,4,10:18 PM,1:24,Payton II REBOUND (Off:2 Def:4),,,,,4,1627780,Gary Payton II,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+486,0021900476,680,2,79,4,10:18 PM,1:16,MISS Brown Jr. 28' 3PT Pullup Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+487,0021900476,681,4,0,4,10:18 PM,1:13,,,Morris Sr. REBOUND (Off:0 Def:4),,,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+488,0021900476,682,2,79,4,10:19 PM,0:54,,,MISS Randle 20' Pullup Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+489,0021900476,683,4,0,4,10:19 PM,0:51,,,Robinson REBOUND (Off:3 Def:4),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+490,0021900476,684,6,2,4,10:19 PM,0:51,Brown Jr. S.FOUL (P3.T3) (B.Taylor),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+491,0021900476,686,3,11,4,10:19 PM,0:51,,,MISS Robinson Free Throw 1 of 2,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+492,0021900476,687,4,1,4,10:19 PM,0:51,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+493,0021900476,688,3,12,4,10:19 PM,0:51,,,MISS Robinson Free Throw 2 of 2,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+494,0021900476,689,4,0,4,10:19 PM,0:49,Mahinmi REBOUND (Off:5 Def:5),,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+495,0021900476,690,2,101,4,10:20 PM,0:42,MISS Thomas 7' Driving Floating Jump Shot,,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+496,0021900476,691,4,0,4,10:20 PM,0:41,,,Robinson REBOUND (Off:3 Def:5),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+497,0021900476,692,9,1,4,10:20 PM,0:32,,,Knicks Timeout: Regular (Reg.6 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+498,0021900476,693,6,1,4,10:22 PM,0:30,Mahinmi P.FOUL (P1.PN) (K.Lane),,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+499,0021900476,695,3,11,4,10:22 PM,0:30,,,Morris Sr. Free Throw 1 of 2 (7 PTS),101 - 94,-7,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+500,0021900476,696,3,12,4,10:22 PM,0:30,,,Morris Sr. Free Throw 2 of 2 (8 PTS),102 - 94,-8,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+501,0021900476,697,9,1,4,10:22 PM,0:30,WIZARDS Timeout: Regular (Full 6 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+502,0021900476,698,1,1,4,10:24 PM,0:28,McRae  3PT Jump Shot (17 PTS) (Brown Jr. 3 AST),,,102 - 97,-5,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+503,0021900476,700,6,1,4,10:24 PM,0:26,Thomas P.FOUL (P3.PN) (K.Lane),,,,,4,202738,Isaiah Thomas,1610612764.0,Washington,Wizards,WAS,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+504,0021900476,702,3,11,4,10:25 PM,0:26,,,Randle Free Throw 1 of 2 (29 PTS),103 - 97,-6,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+505,0021900476,703,3,12,4,10:25 PM,0:26,,,Randle Free Throw 2 of 2 (30 PTS),104 - 97,-7,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+506,0021900476,704,1,1,4,10:25 PM,0:17,McRae 28' 3PT Jump Shot (20 PTS),,,104 - 100,-4,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+507,0021900476,706,6,1,4,10:25 PM,0:15,Brown Jr. P.FOUL (P4.PN) (J.DeRosa),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+508,0021900476,708,3,11,4,10:26 PM,0:15,,,Morris Sr. Free Throw 1 of 2 (9 PTS),105 - 100,-5,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+509,0021900476,709,3,12,4,10:26 PM,0:15,,,Morris Sr. Free Throw 2 of 2 (10 PTS),106 - 100,-6,5,202694,Marcus Morris Sr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+510,0021900476,710,9,1,4,10:26 PM,0:15,WIZARDS Timeout: Regular (Full 7 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+511,0021900476,712,5,1,4,10:28 PM,0:12,Brown Jr. Bad Pass Turnover (P2.T12),,Robinson STEAL (1 STL),,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+512,0021900476,714,6,28,4,10:28 PM,0:11,Mahinmi Personal Take Foul (P2.PN) (K.Lane),,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+513,0021900476,716,3,11,4,10:28 PM,0:11,,,MISS Robinson Free Throw 1 of 2,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+514,0021900476,717,4,1,4,10:28 PM,0:11,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+515,0021900476,718,3,12,4,10:29 PM,0:11,,,Robinson Free Throw 2 of 2 (9 PTS),107 - 100,-7,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+516,0021900476,719,2,1,4,10:29 PM,0:04,MISS Mahinmi 26' 3PT Jump Shot,,,,,4,101133,Ian Mahinmi,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+517,0021900476,720,4,0,4,10:29 PM,0:01,,,Robinson REBOUND (Off:3 Def:6),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+518,0021900476,721,13,0,4,10:29 PM,0:00,,,,107 - 100,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
