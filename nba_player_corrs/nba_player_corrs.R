@@ -26,7 +26,7 @@ for (team in teams) {
   wide_team_games <- team_games %>%
     left_join(team_leaders) %>%
     filter(max_score >= 10,
-           games >= 2,
+           games >= 10,
            minutes >= 20) %>%
     select(GAME_ID, PLAYER_NAME, dk) %>%
     pivot_wider(id_cols = GAME_ID, 
