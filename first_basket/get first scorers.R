@@ -19,8 +19,10 @@ for (g in unique_games) {
   csv_path <- paste0('./data/nba_pbp/', g, '.csv')
 
   pbp <- read.csv(csv_path, 
-                  colClasses = 'character') %>%
-    filter(!is.na(SCORE) & !is.na(EVENTNUM)) %>%
+                  colClasses = 'character',
+                  na.strings = c('')) %>%
+    mutate(EVENTNUM = as.numeric(EVENTNUM)) %>%
+    filter(SCORE != '' & !is.na(SCORE) & !is.na(EVENTNUM)) %>%
     filter(EVENTNUM == min(EVENTNUM))
 
   first_scorer_player_id <- as.character(pbp$PLAYER1_ID)
