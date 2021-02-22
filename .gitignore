@@ -132,3 +132,8 @@ dmypy.json
 # OS stuff
 .DS_Store
 *.DS_Store
+
+# venv stuff
+/python3
+python3/
+/python3/*
