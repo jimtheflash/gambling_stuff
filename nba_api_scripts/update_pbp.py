@@ -38,5 +38,5 @@ for gl in gamelogs:
         playbyplay = pbp.PlayByPlayV2(game_id=str(g), start_period=0, end_period=0)
         pbp_df = playbyplay.get_data_frames()
         pbp_df = pbp_df[0]
-        csv_string = pbp_path + g + ".csv"
+        csv_string = os.path.join(pbp_path, g + ".csv")
         pbp_df.to_csv(csv_string)
