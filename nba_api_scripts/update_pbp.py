@@ -21,7 +21,7 @@ pbps = [
 
 for gl in gamelogs:
     print(gl)
-    csv_path = gamelog_path + gl
+    csv_path = os.path.join(gamelog_path, gl)
     gl_df = pd.read_csv(csv_path, dtype="str")
     game_ids = list(gl_df.GAME_ID.unique())
     game_ids = list(np.setdiff1d(game_ids, pbps))
