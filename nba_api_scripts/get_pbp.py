@@ -17,7 +17,7 @@ gamelogs = [f for f in os.listdir(gamelog_path) if not f.startswith(".")]
 
 for gl in gamelogs:
     print(gl)
-    csv_path = gamelog_path + gl
+    csv_path = os.path.join(gamelog_path, gl)
     gl_df = pd.read_csv(csv_path, dtype="str")
     game_ids = list(gl_df.GAME_ID.unique())
     for g in game_ids:
