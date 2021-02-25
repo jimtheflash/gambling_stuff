@@ -1,8 +1,8 @@
-# devtools::install_github("a-i-sports/bettoR")
 library(bettoR)
-output_dir <- '/Users/jim/Desktop/nba_lines/'
+
+output_dir <- './data/nba_lines/'
 # start_date <- as.Date('2015-01-01')
-start_date <- as.Date('2020-12-24')
+start_date <- as.Date('2021-02-01')
 end_date <- Sys.Date()
 date_range <- gsub('-', '', as.character(seq.Date(start_date, end_date, by = "day")))
 bet_types <- c("spread", "total", "moneyline")
