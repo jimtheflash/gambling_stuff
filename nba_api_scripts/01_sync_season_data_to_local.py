@@ -51,11 +51,11 @@ def main(args: dict):
 
         logger.info(f"Syncing season {category} files to local")
         sync_files = glob(os.path.join(base_path, "*.csv"))
-        local_game_ids = [os.path.basename(x) for x in sync_files]
+        local_game_ids = [os.path.basename(x).split(".")[0] for x in sync_files]
         missing_game_ids = list(np.setdiff1d(game_ids, local_game_ids))
         logger.info(f"There are {len(missing_game_ids)} missing games to retrieve")
         if not args.get("dryrun"):
-            for game_id in missing_game_ids[:5]:
+            for game_id in missing_game_ids:
                 pbp_df = func(game_id)
                 pbp_file_name = os.path.join(PBP_PATH, f"{game_id}.csv")
                 pbp_df.to_csv(pbp_file_name, index=False)
