@@ -1,0 +1,540 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0022000513,2,12,0,1,7:11 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0022000513,4,10,0,1,7:11 PM,12:00,Jump Ball Embiid vs. Allen: Tip to Simmons,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1
+2,0022000513,7,2,86,1,7:11 PM,11:41,MISS Embiid 8' Turnaround Fadeaway Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+3,0022000513,8,4,0,1,7:11 PM,11:37,,,Sexton REBOUND (Off:0 Def:1),,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+4,0022000513,9,2,1,1,7:11 PM,11:18,,,MISS Sexton 26' 3PT Jump Shot,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+5,0022000513,10,4,0,1,7:11 PM,11:15,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+6,0022000513,12,7,5,1,7:12 PM,11:15,Green Violation:Kicked Ball (A.Moyer-Gleich),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+7,0022000513,13,2,78,1,7:12 PM,11:09,,,MISS Allen 8' Floating Jump Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+8,0022000513,14,4,0,1,7:12 PM,11:07,Simmons REBOUND (Off:0 Def:1),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+9,0022000513,16,2,79,1,7:12 PM,10:51,MISS Curry 13' Pullup Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+10,0022000513,17,4,0,1,7:12 PM,10:48,,,Okoro REBOUND (Off:0 Def:1),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+11,0022000513,18,1,6,1,7:13 PM,10:28,,,Sexton 1' Driving Layup (2 PTS) (Okoro 1 AST),2 - 0,-2,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+12,0022000513,19,1,75,1,7:13 PM,10:16,Simmons 1' Driving Finger Roll Layup (2 PTS),,,2 - 2,TIE,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+13,0022000513,20,1,1,1,7:13 PM,9:58,,,Okoro 26' 3PT Jump Shot (3 PTS) (Allen 1 AST),5 - 2,-3,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+14,0022000513,22,2,57,1,7:14 PM,9:38,MISS Simmons 6' Driving Hook Shot,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+15,0022000513,23,4,0,1,7:14 PM,9:36,,,Sexton REBOUND (Off:0 Def:2),,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+16,0022000513,24,1,78,1,7:14 PM,9:30,,,Sexton 2' Floating Jump Shot (4 PTS) (Garland 1 AST),7 - 2,-5,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+17,0022000513,26,6,26,1,7:14 PM,9:18,Green Offensive Charge Foul (P1.T1) (A.Moyer-Gleich),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+18,0022000513,28,5,37,1,7:14 PM,9:18,Green Offensive Foul Turnover (P1.T1),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+19,0022000513,29,5,1,1,7:14 PM,9:09,Simmons STEAL (1 STL),,Garland Bad Pass Turnover (P1.T1),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+20,0022000513,31,1,50,1,7:14 PM,9:05,Simmons 1' Running Dunk (4 PTS),,,7 - 4,-3,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+21,0022000513,32,1,71,1,7:15 PM,8:43,,,Allen 1' Finger Roll Layup (2 PTS) (Garland 2 AST),9 - 4,-5,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+22,0022000513,34,1,63,1,7:15 PM,8:25,Embiid 9' Fadeaway Jumper (2 PTS),,,9 - 6,-3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+23,0022000513,35,5,1,1,7:15 PM,8:15,Curry STEAL (1 STL),,Sexton Bad Pass Turnover (P1.T2),,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+24,0022000513,37,2,103,1,7:15 PM,8:10,MISS Curry 27' 3PT Running Pull-Up Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+25,0022000513,38,4,0,1,7:15 PM,8:06,Embiid REBOUND (Off:1 Def:0),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+26,0022000513,39,1,72,1,7:15 PM,8:06,Embiid  Putback Layup (4 PTS),,,9 - 8,-1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+27,0022000513,40,1,9,1,7:16 PM,7:50,,,Allen 1' Driving Dunk (4 PTS) (Wade 1 AST),11 - 8,-3,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+28,0022000513,42,2,1,1,7:16 PM,7:31,MISS Korkmaz 26' 3PT Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+29,0022000513,43,4,0,1,7:16 PM,7:28,Korkmaz REBOUND (Off:1 Def:0),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+30,0022000513,44,2,1,1,7:16 PM,7:25,MISS Green  3PT Jump Shot,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+31,0022000513,45,4,0,1,7:16 PM,7:23,,,Allen REBOUND (Off:0 Def:1),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+32,0022000513,46,1,41,1,7:16 PM,7:16,,,Okoro 1' Running Layup (5 PTS),13 - 8,-5,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+33,0022000513,47,5,1,1,7:16 PM,7:04,Simmons Bad Pass Turnover (P1.T2),,Okoro STEAL (1 STL),,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+34,0022000513,49,2,1,1,7:17 PM,6:57,,,MISS Sexton  3PT Jump Shot,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+35,0022000513,50,4,0,1,7:17 PM,6:52,Korkmaz REBOUND (Off:1 Def:1),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+36,0022000513,51,1,76,1,7:17 PM,6:46,Simmons 1' Running Finger Roll Layup (6 PTS) (Embiid 1 AST),,,13 - 10,-3,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+37,0022000513,53,2,5,1,7:17 PM,6:33,Green BLOCK (1 BLK),,MISS Sexton 8' Layup,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,1
+38,0022000513,55,4,0,1,7:17 PM,6:30,,,Sexton REBOUND (Off:1 Def:2),,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+39,0022000513,56,2,1,1,7:17 PM,6:28,,,MISS Sexton 11' Jump Shot,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+40,0022000513,57,4,0,1,7:17 PM,6:25,Embiid REBOUND (Off:1 Def:1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+41,0022000513,58,1,43,1,7:17 PM,6:20,Korkmaz 2' Alley Oop Layup (2 PTS) (Simmons 1 AST),,,13 - 12,-1,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+42,0022000513,60,9,1,1,7:17 PM,6:20,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+43,0022000513,61,8,0,1,7:20 PM,6:20,SUB: Scott FOR Korkmaz,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+44,0022000513,63,1,63,1,7:21 PM,6:04,,,Garland 9' Fadeaway Jumper (2 PTS) (Sexton 1 AST),15 - 12,-3,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+45,0022000513,65,1,1,1,7:21 PM,5:48,Green 26' 3PT Jump Shot (3 PTS) (Embiid 2 AST),,,15 - 15,TIE,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+46,0022000513,67,7,5,1,7:21 PM,5:31,Simmons Violation:Kicked Ball (A.Moyer-Gleich),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+47,0022000513,68,8,0,1,7:21 PM,5:31,,,SUB: Windler FOR Sexton,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+48,0022000513,70,2,102,1,7:22 PM,5:21,,,MISS Garland 5' Driving Floating Bank Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+49,0022000513,71,4,0,1,7:22 PM,5:19,Embiid REBOUND (Off:1 Def:2),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+50,0022000513,72,5,2,1,7:22 PM,5:15,Curry Lost Ball Turnover (P1.T3),,Okoro STEAL (2 STL),,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+51,0022000513,75,2,101,1,7:23 PM,4:51,,,MISS Garland 9' Driving Floating Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+52,0022000513,76,4,0,1,7:23 PM,4:49,Embiid REBOUND (Off:1 Def:3),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+53,0022000513,77,5,1,1,7:23 PM,4:40,Simmons Bad Pass Turnover (P2.T4),,Windler STEAL (1 STL),,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+54,0022000513,79,1,41,1,7:23 PM,4:36,,,Garland 2' Running Layup (4 PTS),17 - 15,-2,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+55,0022000513,80,2,101,1,7:23 PM,4:20,MISS Curry 9' Driving Floating Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+56,0022000513,81,4,0,1,7:23 PM,4:18,,,Okoro REBOUND (Off:0 Def:2),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+57,0022000513,82,1,41,1,7:23 PM,4:15,,,Okoro 2' Running Layup (7 PTS),19 - 15,-4,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+58,0022000513,83,6,2,1,7:23 PM,4:15,Scott S.FOUL (P1.T2) (A.Moyer-Gleich),,,,,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+59,0022000513,85,8,0,1,7:23 PM,4:15,,,SUB: Stevens FOR Wade,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+60,0022000513,87,3,10,1,7:24 PM,4:15,,,Okoro Free Throw 1 of 1 (8 PTS),20 - 15,-5,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+61,0022000513,88,2,1,1,7:24 PM,4:02,MISS Embiid 12' Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+62,0022000513,89,4,0,1,7:24 PM,3:59,,,Windler REBOUND (Off:0 Def:1),,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+63,0022000513,90,2,1,1,7:24 PM,3:45,,,MISS Stevens 25' 3PT Jump Shot,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+64,0022000513,91,4,0,1,7:24 PM,3:43,Embiid REBOUND (Off:1 Def:4),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+65,0022000513,92,6,2,1,7:24 PM,3:28,,,Allen S.FOUL (P1.T1) (A.Moyer-Gleich),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+66,0022000513,95,3,11,1,7:25 PM,3:28,Embiid Free Throw 1 of 2 (5 PTS),,,20 - 16,-4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+67,0022000513,96,8,0,1,7:25 PM,3:28,SUB: Thybulle FOR Simmons,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+68,0022000513,97,8,0,1,7:25 PM,3:28,SUB: Milton FOR Curry,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+69,0022000513,98,8,0,1,7:25 PM,3:28,,,SUB: Dotson FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+70,0022000513,102,3,12,1,7:25 PM,3:28,Embiid Free Throw 2 of 2 (6 PTS),,,20 - 17,-3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+71,0022000513,103,1,75,1,7:26 PM,3:11,,,Windler 2' Driving Finger Roll Layup (2 PTS) (Allen 2 AST),22 - 17,-5,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+72,0022000513,105,2,5,1,7:26 PM,2:54,MISS Embiid 1' Layup,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+73,0022000513,106,4,0,1,7:26 PM,2:49,Embiid REBOUND (Off:2 Def:4),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+74,0022000513,107,1,72,1,7:26 PM,2:49,Embiid  Putback Layup (8 PTS),,,22 - 19,-3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+75,0022000513,146,8,0,1,7:34 PM,2:33,,,SUB: Sexton FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+76,0022000513,108,6,2,1,7:34 PM,2:33,Milton S.FOUL (P1.T3) (J.Conley),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+77,0022000513,110,9,1,1,7:35 PM,2:33,76ERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+78,0022000513,111,8,0,1,7:36 PM,2:33,SUB: Korkmaz FOR Green,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+79,0022000513,113,8,0,1,7:36 PM,2:33,,,SUB: McGee FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+80,0022000513,115,3,13,1,7:36 PM,2:33,,,MISS Windler Free Throw 1 of 3,,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+81,0022000513,116,4,1,1,7:36 PM,2:33,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+82,0022000513,117,3,14,1,7:36 PM,2:33,,,Windler Free Throw 2 of 3 (3 PTS),27 - 23,-4,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+83,0022000513,118,3,15,1,7:36 PM,2:33,,,Windler Free Throw 3 of 3 (4 PTS),28 - 23,-5,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+84,0022000513,119,6,1,1,7:37 PM,2:20,,,McGee P.FOUL (P3.PN) (J.Conley),,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+85,0022000513,121,5,4,1,7:38 PM,2:14,Embiid Traveling Turnover (P1.T6),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+86,0022000513,124,1,71,1,7:31 PM,1:56,,,McGee 1' Finger Roll Layup (2 PTS),24 - 19,-5,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+87,0022000513,125,6,2,1,7:31 PM,1:45,,,McGee S.FOUL (P1.T2) (J.Goble),,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+88,0022000513,127,3,11,1,7:32 PM,1:45,Embiid Free Throw 1 of 2 (9 PTS),,,24 - 20,-4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+89,0022000513,128,3,12,1,7:32 PM,1:45,Embiid Free Throw 2 of 2 (10 PTS),,,24 - 21,-3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+90,0022000513,129,2,79,1,7:33 PM,1:22,,,MISS Dotson 20' Pullup Jump Shot,,,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+91,0022000513,130,4,0,1,7:33 PM,1:18,Scott REBOUND (Off:0 Def:1),,,,,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+92,0022000513,131,6,1,1,7:33 PM,1:12,,,McGee P.FOUL (P2.PN) (J.Conley),,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+93,0022000513,133,3,11,1,7:33 PM,1:12,Embiid Free Throw 1 of 2 (11 PTS),,,24 - 22,-2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+94,0022000513,134,3,12,1,7:34 PM,1:12,Embiid Free Throw 2 of 2 (12 PTS),,,24 - 23,-1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+95,0022000513,136,8,0,1,7:34 PM,0:59,SUB: Howard FOR Embiid,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+96,0022000513,138,2,6,1,7:34 PM,0:59,Milton BLOCK (1 BLK),,MISS Dotson 2' Driving Layup,,,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1
+97,0022000513,140,4,0,1,7:34 PM,0:59,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+98,0022000513,143,5,45,1,7:35 PM,0:56,,,Windler Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+99,0022000513,144,2,79,1,7:35 PM,0:42,MISS Korkmaz 24' 3PT Pullup Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+100,0022000513,145,4,0,1,7:35 PM,0:38,,,Sexton REBOUND (Off:1 Def:3),,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+101,0022000513,148,2,79,1,7:35 PM,0:29,Thybulle BLOCK (1 BLK),,MISS Stevens 8' Pullup Jump Shot,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,1
+102,0022000513,150,4,0,1,7:35 PM,0:26,Howard REBOUND (Off:0 Def:1),,,,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+103,0022000513,151,5,1,1,7:36 PM,0:03,Korkmaz Bad Pass Turnover (P1.T5),,Windler STEAL (2 STL),,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+104,0022000513,153,6,2,1,7:36 PM,0:00,Milton S.FOUL (P2.T4) (J.Goble),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+105,0022000513,155,3,11,1,7:36 PM,0:00,,,Sexton Free Throw 1 of 2 (5 PTS),25 - 23,-2,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+106,0022000513,156,3,12,1,7:36 PM,0:00,,,Sexton Free Throw 2 of 2 (6 PTS),26 - 23,-3,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+107,0022000513,157,13,0,1,7:37 PM,0:00,,,,28 - 23,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+108,0022000513,162,12,0,2,7:39 PM,12:00,,,,28 - 23,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+109,0022000513,163,2,1,2,7:40 PM,11:38,,,MISS Windler  3PT Jump Shot,,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+110,0022000513,164,4,0,2,7:40 PM,11:35,Simmons REBOUND (Off:0 Def:2),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+111,0022000513,165,2,1,2,7:40 PM,11:30,MISS Milton 26' 3PT Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+112,0022000513,166,4,0,2,7:40 PM,11:28,,,Windler REBOUND (Off:0 Def:2),,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+113,0022000513,169,6,2,2,7:41 PM,11:15,Howard S.FOUL (P1.T1) (J.Goble),,,,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+114,0022000513,171,3,11,2,7:41 PM,11:15,,,McGee Free Throw 1 of 2 (3 PTS),29 - 23,-6,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+115,0022000513,172,3,12,2,7:41 PM,11:15,,,McGee Free Throw 2 of 2 (4 PTS),30 - 23,-7,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+116,0022000513,173,2,5,2,7:41 PM,11:02,MISS Simmons 4' Layup,,Stevens BLOCK (1 BLK),,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,1
+117,0022000513,175,4,0,2,7:41 PM,10:58,,,Stevens REBOUND (Off:0 Def:1),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+118,0022000513,176,1,76,2,7:41 PM,10:57,,,Sexton  Running Finger Roll Layup (8 PTS) (Dotson 1 AST),32 - 23,-9,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+119,0022000513,178,2,1,2,7:41 PM,10:43,MISS Thybulle 19' Jump Shot,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+120,0022000513,179,4,0,2,7:41 PM,10:40,,,Stevens REBOUND (Off:0 Def:2),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+121,0022000513,180,5,45,2,7:42 PM,10:35,,,Stevens Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+122,0022000513,181,6,2,2,7:42 PM,10:24,,,Stevens S.FOUL (P1.T1) (J.Goble),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+123,0022000513,183,3,11,2,7:42 PM,10:24,MISS Scott Free Throw 1 of 2,,,,,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+124,0022000513,184,4,1,2,7:42 PM,10:24,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+125,0022000513,185,3,12,2,7:42 PM,10:24,MISS Scott Free Throw 2 of 2,,,,,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+126,0022000513,186,4,0,2,7:42 PM,10:22,,,Windler REBOUND (Off:0 Def:3),,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+127,0022000513,187,5,1,2,7:43 PM,10:09,Thybulle STEAL (1 STL),,Stevens Bad Pass Turnover (P2.T5),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+128,0022000513,189,1,50,2,7:43 PM,10:05,Simmons 1' Running Dunk (8 PTS) (Thybulle 1 AST),,,32 - 25,-7,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+129,0022000513,190,1,1,2,7:43 PM,9:48,,,Dotson 26' 3PT Jump Shot (3 PTS) (McGee 1 AST),35 - 25,-10,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+130,0022000513,192,6,26,2,7:43 PM,9:37,Howard Offensive Charge Foul (P2.T2) (A.Moyer-Gleich),,,,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+131,0022000513,194,5,37,2,7:43 PM,9:37,Howard Offensive Foul Turnover (P1.T7),,,,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+132,0022000513,195,8,0,2,7:44 PM,9:37,SUB: Curry FOR Scott,,,,,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+133,0022000513,196,8,0,2,7:44 PM,9:37,SUB: Korkmaz FOR Milton,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+134,0022000513,197,8,0,2,7:44 PM,9:37,,,SUB: Okoro FOR Stevens,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+135,0022000513,201,1,78,2,7:44 PM,9:25,,,Sexton 4' Floating Jump Shot (10 PTS) (Dotson 2 AST),37 - 25,-12,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+136,0022000513,203,1,66,2,7:44 PM,9:06,Simmons 6' Jump Bank Shot (10 PTS) (Howard 1 AST),,,37 - 27,-10,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+137,0022000513,205,1,75,2,7:45 PM,8:57,,,Sexton 1' Driving Finger Roll Layup (12 PTS),39 - 27,-12,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+138,0022000513,206,6,2,2,7:45 PM,8:57,Howard S.FOUL (P3.T3) (J.Goble),,,,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+139,0022000513,208,3,10,2,7:45 PM,8:57,,,MISS Sexton Free Throw 1 of 1,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+140,0022000513,209,4,0,2,7:45 PM,8:54,Howard REBOUND (Off:0 Def:2),,,,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+141,0022000513,210,1,1,2,7:45 PM,8:35,Thybulle 27' 3PT Jump Shot (3 PTS) (Simmons 2 AST),,,39 - 30,-9,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+142,0022000513,212,2,1,2,7:46 PM,8:21,,,MISS Sexton 17' Jump Shot,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+143,0022000513,213,4,0,2,7:46 PM,8:18,Korkmaz REBOUND (Off:1 Def:2),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+144,0022000513,214,2,5,2,7:46 PM,8:08,MISS Simmons 7' Layup,,McGee BLOCK (1 BLK),,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,1
+145,0022000513,216,4,0,2,7:46 PM,8:08,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+146,0022000513,219,8,0,2,7:46 PM,8:08,,,SUB: Allen FOR McGee,,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+147,0022000513,220,8,0,2,7:46 PM,8:08,,,SUB: Garland FOR Windler,,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+148,0022000513,223,1,57,2,7:47 PM,7:57,Simmons 4' Driving Hook Shot (12 PTS),,,39 - 32,-7,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+149,0022000513,224,2,78,2,7:47 PM,7:32,Howard BLOCK (1 BLK),,MISS Okoro 7' Floating Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,1
+150,0022000513,226,4,0,2,7:47 PM,7:29,Howard REBOUND (Off:0 Def:3),,,,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+151,0022000513,227,2,78,2,7:47 PM,7:20,MISS Korkmaz 4' Floating Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+152,0022000513,228,4,0,2,7:47 PM,7:18,,,Garland REBOUND (Off:0 Def:1),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+153,0022000513,229,1,76,2,7:47 PM,7:16,,,Sexton  Running Finger Roll Layup (14 PTS) (Garland 3 AST),41 - 32,-9,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+154,0022000513,231,7,1,2,7:47 PM,7:14,,,Cavaliers Violation: Delay of game Violation,,,3,1610612739,,,,,,0,0,,,,,,1,0,,,,,,0
+155,0022000513,232,5,1,2,7:48 PM,7:03,Simmons Bad Pass Turnover (P3.T8),,Garland STEAL (1 STL),,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+156,0022000513,235,9,1,2,7:48 PM,6:59,76ERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+157,0022000513,237,8,0,2,7:50 PM,6:59,SUB: Embiid FOR Howard,,,,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+158,0022000513,239,8,0,2,7:50 PM,6:59,SUB: Green FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+159,0022000513,241,1,1,2,7:51 PM,6:56,,,Garland  3PT Jump Shot (7 PTS) (Okoro 2 AST),44 - 32,-12,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+160,0022000513,243,6,2,2,7:51 PM,6:40,,,Allen S.FOUL (P2.T2) (J.Conley),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+161,0022000513,245,3,11,2,7:52 PM,6:40,Embiid Free Throw 1 of 2 (13 PTS),,,44 - 33,-11,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+162,0022000513,246,8,0,2,7:52 PM,6:40,,,SUB: Wade FOR Dotson,,,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+163,0022000513,248,3,12,2,7:52 PM,6:40,Embiid Free Throw 2 of 2 (14 PTS),,,44 - 34,-10,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+164,0022000513,249,2,6,2,7:52 PM,6:28,Embiid BLOCK (1 BLK),,MISS Sexton 7' Driving Layup,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+165,0022000513,251,4,0,2,7:52 PM,6:25,Green REBOUND (Off:0 Def:1),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+166,0022000513,252,2,1,2,7:52 PM,6:19,MISS Embiid 29' 3PT Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+167,0022000513,253,4,0,2,7:52 PM,6:17,,,Wade REBOUND (Off:0 Def:1),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+168,0022000513,254,1,1,2,7:52 PM,6:10,,,Wade 25' 3PT Jump Shot (3 PTS) (Garland 4 AST),47 - 34,-13,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+169,0022000513,256,9,1,2,7:53 PM,5:58,76ERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+170,0022000513,257,2,5,2,7:56 PM,5:42,MISS Embiid 6' Layup,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+171,0022000513,258,4,0,2,7:56 PM,5:42,Embiid REBOUND (Off:3 Def:4),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+172,0022000513,259,6,2,2,7:56 PM,5:42,,,Sexton S.FOUL (P1.T3) (A.Moyer-Gleich),,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+173,0022000513,261,3,11,2,7:56 PM,5:42,Embiid Free Throw 1 of 2 (15 PTS),,,47 - 35,-12,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+174,0022000513,262,3,12,2,7:56 PM,5:42,MISS Embiid Free Throw 2 of 2,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+175,0022000513,263,4,0,2,7:56 PM,5:40,,,Wade REBOUND (Off:0 Def:2),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+176,0022000513,264,5,11,2,7:57 PM,5:18,,,Cavaliers Turnover: Shot Clock (T#6),,,3,1610612739,,,,,,0,0,,,,,,1,0,,,,,,0
+177,0022000513,265,8,0,2,7:57 PM,5:18,SUB: Milton FOR Korkmaz,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+178,0022000513,267,1,58,2,7:57 PM,5:01,Embiid 6' Turnaround Hook Shot (17 PTS) (Curry 1 AST),,,47 - 37,-10,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+179,0022000513,269,2,79,2,7:58 PM,4:52,,,MISS Garland 26' 3PT Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+180,0022000513,270,4,0,2,7:58 PM,4:49,,,Wade REBOUND (Off:1 Def:2),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+181,0022000513,271,1,73,2,7:58 PM,4:43,,,Garland 2' Driving Reverse Layup (9 PTS),49 - 37,-12,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+182,0022000513,272,6,2,2,7:58 PM,4:30,,,Okoro S.FOUL (P1.T4) (J.Goble),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+183,0022000513,274,3,11,2,7:58 PM,4:30,MISS Simmons Free Throw 1 of 2,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+184,0022000513,275,4,1,2,7:58 PM,4:30,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+185,0022000513,276,3,12,2,7:58 PM,4:30,MISS Simmons Free Throw 2 of 2,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+186,0022000513,277,4,0,2,7:59 PM,4:25,Green REBOUND (Off:1 Def:1),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+187,0022000513,278,2,63,2,7:59 PM,4:14,MISS Curry 8' Fadeaway Jumper,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+188,0022000513,279,4,0,2,7:59 PM,4:12,,,Wade REBOUND (Off:1 Def:3),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+189,0022000513,280,6,2,2,7:59 PM,3:58,Embiid S.FOUL (P1.T4) (J.Goble),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+190,0022000513,282,3,11,2,8:00 PM,3:58,,,MISS Allen Free Throw 1 of 2,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+191,0022000513,283,4,1,2,8:00 PM,3:58,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+192,0022000513,284,3,12,2,8:00 PM,3:58,,,Allen Free Throw 2 of 2 (5 PTS),50 - 37,-13,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+193,0022000513,285,2,1,2,8:00 PM,3:43,MISS Green  3PT Jump Shot,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+194,0022000513,286,4,0,2,8:00 PM,3:39,,,Allen REBOUND (Off:0 Def:2),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+195,0022000513,287,6,1,2,8:01 PM,3:30,Simmons P.FOUL (P1.PN) (J.Conley),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+196,0022000513,289,8,0,2,8:01 PM,3:30,,,SUB: Windler FOR Wade,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+197,0022000513,291,2,5,2,8:01 PM,3:20,,,MISS Allen 2' Layup,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+198,0022000513,292,4,0,2,8:01 PM,3:18,Embiid REBOUND (Off:3 Def:5),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+199,0022000513,293,6,2,2,8:01 PM,3:12,,,Okoro S.FOUL (P2.PN) (J.Conley),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+200,0022000513,295,3,11,2,8:02 PM,3:12,Milton Free Throw 1 of 2 (1 PTS),,,50 - 38,-12,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+201,0022000513,296,3,12,2,8:02 PM,3:12,Milton Free Throw 2 of 2 (2 PTS),,,50 - 39,-11,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+202,0022000513,298,6,1,2,8:02 PM,3:03,Embiid P.FOUL (P2.PN) (A.Moyer-Gleich),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+203,0022000513,300,3,11,2,8:03 PM,3:03,,,Allen Free Throw 1 of 2 (6 PTS),51 - 39,-12,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+204,0022000513,301,3,12,2,8:03 PM,3:03,,,Allen Free Throw 2 of 2 (7 PTS),52 - 39,-13,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+205,0022000513,302,2,80,2,8:03 PM,2:47,MISS Curry 25' 3PT Step Back Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+206,0022000513,303,4,0,2,8:03 PM,2:43,,,Windler REBOUND (Off:0 Def:4),,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+207,0022000513,304,2,1,2,8:03 PM,2:37,,,MISS Okoro 27' 3PT Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+208,0022000513,305,4,0,2,8:03 PM,2:35,,,Allen REBOUND (Off:1 Def:2),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+209,0022000513,306,2,80,2,8:04 PM,2:31,,,MISS Garland 19' Step Back Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+210,0022000513,307,4,0,2,8:04 PM,2:27,,,Okoro REBOUND (Off:1 Def:2),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+211,0022000513,308,2,1,2,8:04 PM,2:25,,,MISS Garland  3PT Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+212,0022000513,309,4,0,2,8:04 PM,2:21,Embiid REBOUND (Off:3 Def:6),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+213,0022000513,310,1,1,2,8:04 PM,2:12,Curry 26' 3PT Jump Shot (3 PTS) (Simmons 3 AST),,,52 - 42,-10,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+214,0022000513,312,5,45,2,8:04 PM,1:55,,,Sexton Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+215,0022000513,313,8,0,2,8:04 PM,1:55,,,SUB: Stevens FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+216,0022000513,315,6,1,2,8:05 PM,1:42,,,Allen P.FOUL (P3.PN) (A.Moyer-Gleich),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+217,0022000513,317,3,11,2,8:05 PM,1:42,Embiid Free Throw 1 of 2 (18 PTS),,,52 - 43,-9,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+218,0022000513,318,8,0,2,8:05 PM,1:42,,,SUB: McGee FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+219,0022000513,320,3,12,2,8:06 PM,1:42,Embiid Free Throw 2 of 2 (19 PTS),,,52 - 44,-8,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+220,0022000513,321,1,57,2,8:06 PM,1:18,,,Windler 7' Driving Hook Shot (6 PTS),54 - 44,-10,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+221,0022000513,322,1,80,2,8:06 PM,0:53,Embiid 18' Step Back Jump Shot (21 PTS),,,54 - 46,-8,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+222,0022000513,323,1,101,2,8:07 PM,0:47,,,Sexton 2' Driving Floating Jump Shot (16 PTS),56 - 46,-10,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+223,0022000513,324,6,2,2,8:07 PM,0:39,,,Garland S.FOUL (P1.PN) (J.Conley),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+224,0022000513,326,3,11,2,8:07 PM,0:39,MISS Curry Free Throw 1 of 2,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+225,0022000513,327,4,1,2,8:07 PM,0:39,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+226,0022000513,328,3,12,2,8:08 PM,0:39,Curry Free Throw 2 of 2 (4 PTS),,,56 - 47,-9,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+227,0022000513,329,2,99,2,8:08 PM,0:30,,,MISS McGee 3' Cutting Finger Roll Layup Shot,,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+228,0022000513,330,4,0,2,8:08 PM,0:28,Simmons REBOUND (Off:0 Def:3),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+229,0022000513,331,2,76,2,8:08 PM,0:23,MISS Simmons 2' Running Finger Roll Layup,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+230,0022000513,332,4,0,2,8:08 PM,0:21,,,McGee REBOUND (Off:0 Def:1),,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+231,0022000513,333,2,80,2,8:08 PM,0:00,,,MISS Garland 26' 3PT Step Back Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+232,0022000513,334,4,0,2,8:08 PM,0:00,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+233,0022000513,335,13,0,2,8:09 PM,0:00,,,,56 - 47,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+234,0022000513,344,12,0,3,8:24 PM,12:00,,,,56 - 47,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+235,0022000513,345,2,1,3,8:24 PM,11:47,,,MISS Allen 19' Jump Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+236,0022000513,346,4,0,3,8:24 PM,11:43,Green REBOUND (Off:1 Def:2),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+237,0022000513,347,2,101,3,8:25 PM,11:26,MISS Curry 15' Driving Floating Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+238,0022000513,348,4,0,3,8:25 PM,11:22,,,Wade REBOUND (Off:1 Def:4),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+239,0022000513,349,2,101,3,8:25 PM,11:15,,,MISS Garland 14' Driving Floating Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+240,0022000513,350,4,0,3,8:25 PM,11:13,Scott REBOUND (Off:0 Def:2),,,,,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+241,0022000513,351,2,1,3,8:25 PM,11:03,MISS Embiid 19' Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+242,0022000513,352,4,0,3,8:25 PM,11:00,,,Okoro REBOUND (Off:1 Def:3),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+243,0022000513,353,2,86,3,8:25 PM,10:41,,,MISS Garland 18' Turnaround Fadeaway Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+244,0022000513,354,4,0,3,8:25 PM,10:37,Embiid REBOUND (Off:3 Def:7),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+245,0022000513,355,1,99,3,8:26 PM,10:27,Scott 3' Cutting Finger Roll Layup Shot (2 PTS) (Simmons 4 AST),,,56 - 49,-7,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+246,0022000513,357,2,79,3,8:26 PM,10:13,,,MISS Sexton 18' Pullup Jump Shot,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+247,0022000513,358,4,0,3,8:26 PM,10:10,Simmons REBOUND (Off:0 Def:4),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+248,0022000513,359,2,1,3,8:26 PM,10:03,MISS Curry 24' 3PT Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+249,0022000513,360,4,0,3,8:26 PM,10:00,,,Allen REBOUND (Off:1 Def:3),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+250,0022000513,361,2,75,3,8:26 PM,9:47,,,MISS Garland 2' Driving Finger Roll Layup,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+251,0022000513,362,4,0,3,8:26 PM,9:45,Scott REBOUND (Off:0 Def:3),,,,,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+252,0022000513,363,6,26,3,8:27 PM,9:33,Embiid Offensive Charge Foul (P3.T1) (J.Conley),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+253,0022000513,365,5,37,3,8:27 PM,9:33,Embiid Offensive Foul Turnover (P2.T9),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+254,0022000513,366,2,79,3,8:27 PM,9:18,,,MISS Sexton 18' Pullup Jump Shot,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+255,0022000513,367,4,0,3,8:27 PM,9:14,Scott REBOUND (Off:0 Def:4),,,,,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+256,0022000513,368,2,103,3,8:27 PM,9:09,MISS Green 27' 3PT Running Pull-Up Jump Shot,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+257,0022000513,369,4,0,3,8:27 PM,9:07,Simmons REBOUND (Off:1 Def:4),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+258,0022000513,370,1,72,3,8:27 PM,9:07,Simmons  Putback Layup (14 PTS),,,56 - 51,-5,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+259,0022000513,371,9,1,3,8:27 PM,9:07,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+260,0022000513,372,2,1,3,8:30 PM,8:54,,,MISS Wade  3PT Jump Shot,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+261,0022000513,373,4,0,3,8:30 PM,8:50,Embiid REBOUND (Off:3 Def:8),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+262,0022000513,374,6,1,3,8:31 PM,8:41,,,Okoro P.FOUL (P3.T1) (J.Goble),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+263,0022000513,376,1,3,3,8:31 PM,8:28,Simmons 16' Hook Shot (16 PTS),,,56 - 53,-3,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+264,0022000513,377,2,75,3,8:31 PM,8:09,,,MISS Garland 3' Driving Finger Roll Layup,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+265,0022000513,378,4,0,3,8:31 PM,8:06,,,Okoro REBOUND (Off:2 Def:3),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+266,0022000513,379,1,72,3,8:31 PM,8:05,,,Okoro 1' Putback Layup (10 PTS),58 - 53,-5,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+267,0022000513,380,5,1,3,8:32 PM,7:50,Simmons Bad Pass Turnover (P4.T10),,Okoro STEAL (3 STL),,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+268,0022000513,382,5,1,3,8:32 PM,7:48,Scott STEAL (1 STL),,Allen Bad Pass Turnover (P1.T8),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+269,0022000513,384,1,1,3,8:32 PM,7:43,Green  3PT Jump Shot (6 PTS) (Embiid 3 AST),,,58 - 56,-2,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+270,0022000513,386,2,101,3,8:32 PM,7:29,,,MISS Garland 3' Driving Floating Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+271,0022000513,387,4,0,3,8:32 PM,7:25,Curry REBOUND (Off:0 Def:1),,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+272,0022000513,388,5,1,3,8:32 PM,7:16,Simmons Bad Pass Turnover (P5.T11),,Sexton STEAL (1 STL),,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+273,0022000513,390,5,1,3,8:32 PM,7:01,Green STEAL (1 STL),,Allen Bad Pass Turnover (P2.T9),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+274,0022000513,392,2,1,3,8:33 PM,6:53,MISS Curry 27' 3PT Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+275,0022000513,393,4,0,3,8:33 PM,6:49,,,Wade REBOUND (Off:1 Def:5),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+276,0022000513,394,1,43,3,8:33 PM,6:44,,,Allen 2' Alley Oop Layup (9 PTS) (Garland 5 AST),60 - 56,-4,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+277,0022000513,396,2,1,3,8:33 PM,6:26,MISS Green 26' 3PT Jump Shot,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+278,0022000513,397,4,0,3,8:33 PM,6:23,,,Wade REBOUND (Off:1 Def:6),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+279,0022000513,398,5,45,3,8:33 PM,6:17,,,Garland Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+280,0022000513,399,8,0,3,8:33 PM,6:17,,,SUB: Windler FOR Wade,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+281,0022000513,401,1,1,3,8:34 PM,6:07,Scott 26' 3PT Jump Shot (5 PTS) (Embiid 4 AST),,,60 - 59,-1,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+282,0022000513,407,6,6,3,8:35 PM,5:42,Green AWAY.FROM.PLAY.FOUL (P2.T2) (J.Conley),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+283,0022000513,438,3,10,3,8:35 PM,5:42,,,MISS Garland Free Throw 1 of 1,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+284,0022000513,439,4,0,3,8:35 PM,5:42,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+285,0022000513,409,1,1,3,8:35 PM,5:31,,,Allen 28' 3PT Jump Shot (12 PTS) (Garland 6 AST),63 - 59,-4,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+286,0022000513,411,2,1,3,8:35 PM,5:27,MISS Green 26' 3PT Jump Shot,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+287,0022000513,412,4,0,3,8:35 PM,5:23,,,Sexton REBOUND (Off:1 Def:4),,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+288,0022000513,413,2,76,3,8:35 PM,5:21,Green BLOCK (2 BLK),,MISS Sexton 19' Running Finger Roll Layup,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,1
+289,0022000513,415,4,0,3,8:35 PM,5:21,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+290,0022000513,416,2,1,3,8:36 PM,5:18,,,MISS Allen 26' 3PT Jump Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+291,0022000513,417,4,0,3,8:36 PM,5:14,,,Okoro REBOUND (Off:3 Def:3),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+292,0022000513,418,2,1,3,8:36 PM,5:07,,,MISS Windler 24' 3PT Jump Shot,,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+293,0022000513,419,4,0,3,8:36 PM,5:04,Embiid REBOUND (Off:3 Def:9),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+294,0022000513,420,1,93,3,8:36 PM,4:52,Simmons 5' Driving Bank Hook Shot (18 PTS) (Embiid 5 AST),,,63 - 61,-2,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+295,0022000513,422,2,5,3,8:36 PM,4:43,,,MISS Allen 7' Layup,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+296,0022000513,423,4,0,3,8:36 PM,4:41,,,Okoro REBOUND (Off:4 Def:3),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+297,0022000513,436,2,72,3,8:36 PM,4:41,,,MISS Okoro 3' Putback Layup,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+298,0022000513,437,4,0,3,8:36 PM,4:41,,,Okoro REBOUND (Off:5 Def:3),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+299,0022000513,424,1,97,3,8:36 PM,4:39,,,Okoro  Tip Layup Shot (12 PTS),65 - 61,-4,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+300,0022000513,425,1,57,3,8:36 PM,4:28,Simmons 7' Driving Hook Shot (20 PTS),,,65 - 63,-2,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+301,0022000513,426,2,1,3,8:37 PM,4:03,,,MISS Garland 19' Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+302,0022000513,427,4,0,3,8:37 PM,3:59,,,Garland REBOUND (Off:1 Def:1),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+303,0022000513,428,2,1,3,8:37 PM,3:58,,,MISS Windler 27' 3PT Jump Shot,,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+304,0022000513,429,4,0,3,8:37 PM,3:54,Curry REBOUND (Off:0 Def:2),,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+305,0022000513,430,2,47,3,8:37 PM,3:38,MISS Embiid 14' Turnaround Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+306,0022000513,431,4,0,3,8:37 PM,3:36,,,Windler REBOUND (Off:0 Def:5),,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+307,0022000513,432,6,26,3,8:37 PM,3:32,,,Windler Offensive Charge Foul (P1.T2) (J.Conley),,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+308,0022000513,434,5,37,3,8:37 PM,3:32,,,Windler Offensive Foul Turnover (P2.T11),,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+309,0022000513,435,9,1,3,8:38 PM,3:32,76ERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+310,0022000513,440,8,0,3,8:40 PM,3:32,,,SUB: Dotson FOR Sexton,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+311,0022000513,441,8,0,3,8:40 PM,3:32,,,SUB: McGee FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+312,0022000513,444,8,0,3,8:40 PM,3:32,SUB: Milton FOR Curry,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+313,0022000513,446,1,101,3,8:41 PM,3:16,Milton 15' Driving Floating Jump Shot (4 PTS) (Scott 1 AST),,,65 - 65,TIE,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+314,0022000513,448,1,1,3,8:41 PM,2:52,,,Dotson 30' 3PT Jump Shot (6 PTS) (Garland 7 AST),68 - 65,-3,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+315,0022000513,450,2,108,3,8:41 PM,2:35,MISS Simmons 1' Cutting Dunk Shot,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+316,0022000513,451,4,0,3,8:41 PM,2:33,,,Dotson REBOUND (Off:0 Def:1),,,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+317,0022000513,453,8,0,3,8:42 PM,2:28,SUB: Thybulle FOR Green,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+318,0022000513,454,8,0,3,8:42 PM,2:28,SUB: Korkmaz FOR Simmons,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+319,0022000513,455,8,0,3,8:42 PM,2:28,,,SUB: Stevens FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+320,0022000513,459,6,1,3,8:42 PM,2:17,Thybulle P.FOUL (P1.T3) (A.Moyer-Gleich),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+321,0022000513,461,6,1,3,8:43 PM,2:09,Korkmaz P.FOUL (P1.T4) (A.Moyer-Gleich),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+322,0022000513,463,5,2,3,8:43 PM,2:02,Milton STEAL (1 STL),,McGee Lost Ball Turnover (P1.T12),,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+323,0022000513,465,6,1,3,8:43 PM,1:58,,,Dotson P.FOUL (P1.T3) (A.Moyer-Gleich),,,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+324,0022000513,467,5,2,3,8:44 PM,1:49,Scott Lost Ball Turnover (P1.T12),,Windler STEAL (3 STL),,,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+325,0022000513,469,5,1,3,8:44 PM,1:45,Embiid STEAL (1 STL),,Garland Bad Pass Turnover (P3.T13),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+326,0022000513,471,6,2,3,8:44 PM,1:40,,,Garland S.FOUL (P2.PN) (J.Goble),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+327,0022000513,473,8,0,3,8:44 PM,1:40,SUB: Howard FOR Embiid,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+328,0022000513,475,3,11,3,8:45 PM,1:40,Milton Free Throw 1 of 2 (5 PTS),,,68 - 66,-2,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+329,0022000513,476,8,0,3,8:45 PM,1:40,SUB: Maxey FOR Scott,,,,,4,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+330,0022000513,477,8,0,3,8:45 PM,1:40,,,SUB: Sexton FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+331,0022000513,480,3,12,3,8:45 PM,1:40,Milton Free Throw 2 of 2 (6 PTS),,,68 - 67,-1,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+332,0022000513,481,1,99,3,8:45 PM,1:27,,,Sexton 1' Cutting Finger Roll Layup Shot (18 PTS) (Dotson 3 AST),70 - 67,-3,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+333,0022000513,483,1,80,3,8:45 PM,1:12,Milton 9' Step Back Jump Shot (8 PTS),,,70 - 69,-1,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+334,0022000513,484,2,79,3,8:46 PM,0:54,,,MISS McGee 14' Pullup Jump Shot,,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+335,0022000513,485,4,0,3,8:46 PM,0:52,Maxey REBOUND (Off:0 Def:1),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+336,0022000513,486,2,80,3,8:46 PM,0:39,MISS Korkmaz 20' Step Back Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+337,0022000513,487,4,0,3,8:46 PM,0:36,,,Dotson REBOUND (Off:0 Def:2),,,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+338,0022000513,488,2,6,3,8:46 PM,0:30,,,MISS Dotson 4' Driving Layup,,,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+339,0022000513,489,4,0,3,8:46 PM,0:28,Milton REBOUND (Off:0 Def:1),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+340,0022000513,490,6,2,3,8:47 PM,0:06,,,McGee S.FOUL (P4.PN) (J.Conley),,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+341,0022000513,492,3,13,3,8:47 PM,0:06,MISS Korkmaz Free Throw 1 of 3,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+342,0022000513,493,4,1,3,8:47 PM,0:06,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+343,0022000513,494,3,14,3,8:47 PM,0:06,Korkmaz Free Throw 2 of 3 (3 PTS),,,70 - 70,TIE,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+344,0022000513,499,3,15,3,8:47 PM,0:06,MISS Korkmaz Free Throw 3 of 3,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+345,0022000513,495,8,0,3,8:47 PM,0:06,,,SUB: Wade FOR McGee,,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+346,0022000513,496,8,0,3,8:47 PM,0:06,,,SUB: Garland FOR Stevens,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+347,0022000513,500,4,0,3,8:47 PM,0:04,,,Dotson REBOUND (Off:0 Def:3),,,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+348,0022000513,501,1,41,3,8:48 PM,0:01,,,Sexton 1' Running Layup (20 PTS) (Dotson 4 AST),72 - 70,-2,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+349,0022000513,503,2,2,3,8:48 PM,0:00,MISS Korkmaz 49' 3PT Running Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+350,0022000513,504,4,0,3,8:48 PM,0:00,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+351,0022000513,505,13,0,3,8:48 PM,0:00,,,,72 - 70,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+352,0022000513,510,12,0,4,8:51 PM,12:00,,,,72 - 70,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+353,0022000513,511,6,1,4,8:51 PM,11:47,,,Sexton P.FOUL (P2.T1) (J.Conley),,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+354,0022000513,513,2,101,4,8:52 PM,11:42,MISS Milton 17' Driving Floating Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+355,0022000513,514,4,0,4,8:52 PM,11:40,Milton REBOUND (Off:1 Def:1),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+356,0022000513,515,1,1,4,8:52 PM,11:38,Korkmaz 27' 3PT Jump Shot (6 PTS) (Milton 1 AST),,,72 - 73,1,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+357,0022000513,517,2,75,4,8:52 PM,11:18,,,MISS Sexton 1' Driving Finger Roll Layup,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+358,0022000513,518,4,0,4,8:52 PM,11:14,Milton REBOUND (Off:1 Def:2),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+359,0022000513,519,2,1,4,8:52 PM,11:07,MISS Korkmaz 24' 3PT Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+360,0022000513,520,4,0,4,8:52 PM,11:03,Howard REBOUND (Off:1 Def:3),,,,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+361,0022000513,521,2,3,4,8:52 PM,11:02,MISS Howard 1' Hook Shot,,McGee BLOCK (2 BLK),,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,1
+362,0022000513,523,4,0,4,8:52 PM,10:58,,,McGee REBOUND (Off:0 Def:2),,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+363,0022000513,524,2,41,4,8:52 PM,10:58,Maxey BLOCK (1 BLK),,MISS Stevens 7' Running Layup,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1
+364,0022000513,526,4,0,4,8:52 PM,10:58,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+365,0022000513,528,1,75,4,8:53 PM,10:51,,,Windler 1' Driving Finger Roll Layup (8 PTS) (Sexton 2 AST),74 - 73,-1,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+366,0022000513,530,1,98,4,8:53 PM,10:34,Korkmaz 2' Cutting Layup Shot (8 PTS) (Howard 2 AST),,,74 - 75,1,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+367,0022000513,532,5,2,4,8:53 PM,10:24,Thybulle STEAL (2 STL),,Sexton Lost Ball Turnover (P3.T14),,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+368,0022000513,534,5,2,4,8:53 PM,10:15,Howard Lost Ball Turnover (P2.T13),,Sexton STEAL (2 STL),,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+369,0022000513,536,2,3,4,8:54 PM,9:58,,,MISS McGee 8' Hook Shot,,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+370,0022000513,537,4,0,4,8:54 PM,9:58,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+371,0022000513,538,6,3,4,8:54 PM,9:58,,,Stevens L.B.FOUL (P2.T2) (J.Conley),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+372,0022000513,540,2,101,4,8:54 PM,9:35,MISS Milton 10' Driving Floating Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+373,0022000513,541,4,0,4,8:54 PM,9:31,,,Stevens REBOUND (Off:0 Def:3),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+374,0022000513,542,1,5,4,8:54 PM,9:28,,,Dotson 1' Layup (8 PTS),76 - 75,-1,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+375,0022000513,543,5,8,4,8:55 PM,9:07,Howard 3 Second Violation Turnover (P3.T14),,,,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+376,0022000513,544,8,0,4,8:55 PM,9:07,,,SUB: Garland FOR Sexton,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+377,0022000513,546,1,108,4,8:55 PM,8:58,,,McGee  Cutting Dunk Shot (6 PTS) (Garland 8 AST),78 - 75,-3,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+378,0022000513,548,9,1,4,8:55 PM,8:58,76ERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+379,0022000513,549,1,79,4,8:58 PM,8:45,Milton 19' Pullup Jump Shot (10 PTS) (Korkmaz 1 AST),,,78 - 77,-1,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+380,0022000513,551,6,1,4,8:59 PM,8:25,Howard P.FOUL (P4.T1) (J.Goble),,,,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+381,0022000513,553,1,80,4,8:59 PM,8:12,,,Garland 28' 3PT Step Back Jump Shot (12 PTS),81 - 77,-4,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+382,0022000513,554,6,1,4,9:00 PM,7:56,,,Windler P.FOUL (P2.T3) (J.Goble),,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+383,0022000513,556,2,79,4,9:00 PM,7:48,MISS Milton 18' Pullup Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+384,0022000513,557,4,0,4,9:00 PM,7:44,,,McGee REBOUND (Off:0 Def:3),,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+385,0022000513,558,2,1,4,9:00 PM,7:35,,,MISS Windler 24' 3PT Jump Shot,,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+386,0022000513,559,4,0,4,9:00 PM,7:32,Korkmaz REBOUND (Off:1 Def:3),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+387,0022000513,560,6,2,4,9:00 PM,7:26,,,Stevens S.FOUL (P3.T4) (J.Conley),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+388,0022000513,562,3,11,4,9:01 PM,7:26,Howard Free Throw 1 of 2 (1 PTS),,,81 - 78,-3,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+389,0022000513,563,8,0,4,9:01 PM,7:26,SUB: Curry FOR Korkmaz,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+390,0022000513,565,3,12,4,9:01 PM,7:26,MISS Howard Free Throw 2 of 2,,,,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+391,0022000513,566,4,0,4,9:01 PM,7:24,,,Windler REBOUND (Off:0 Def:6),,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+392,0022000513,567,6,1,4,9:02 PM,7:09,Milton P.FOUL (P3.T2) (J.Goble),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+393,0022000513,569,8,0,4,9:02 PM,7:09,SUB: Embiid FOR Howard,,,,,4,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+394,0022000513,570,8,0,4,9:02 PM,7:09,,,SUB: Allen FOR McGee,,,5,201580,JaVale McGee,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+395,0022000513,573,2,73,4,9:02 PM,6:59,Milton BLOCK (2 BLK),,MISS Allen 2' Driving Reverse Layup,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1
+396,0022000513,575,4,0,4,9:02 PM,6:59,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+397,0022000513,577,1,80,4,9:03 PM,6:40,Embiid 18' Step Back Jump Shot (23 PTS),,,81 - 80,-1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+398,0022000513,578,1,80,4,9:03 PM,6:22,,,Dotson 17' Step Back Jump Shot (10 PTS),83 - 80,-3,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+399,0022000513,579,1,75,4,9:03 PM,6:05,Thybulle 1' Driving Finger Roll Layup (5 PTS) (Maxey 1 AST),,,83 - 82,-1,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+400,0022000513,582,8,0,4,9:04 PM,5:43,SUB: Simmons FOR Maxey,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+401,0022000513,583,8,0,4,9:04 PM,5:43,SUB: Green FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+402,0022000513,586,8,0,4,9:04 PM,5:43,,,SUB: Okoro FOR Stevens,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+403,0022000513,587,8,0,4,9:04 PM,5:43,,,SUB: Wade FOR Windler,,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+404,0022000513,588,8,0,4,9:04 PM,5:43,,,SUB: Sexton FOR Dotson,,,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+405,0022000513,592,2,101,4,9:04 PM,5:39,,,MISS Garland 17' Driving Floating Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+406,0022000513,593,4,0,4,9:04 PM,5:35,Simmons REBOUND (Off:1 Def:5),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+407,0022000513,594,1,71,4,9:04 PM,5:26,Embiid 2' Finger Roll Layup (25 PTS) (Simmons 5 AST),,,83 - 84,1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+408,0022000513,596,2,101,4,9:05 PM,5:10,,,MISS Sexton 14' Driving Floating Jump Shot,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+409,0022000513,597,4,0,4,9:05 PM,5:07,Embiid REBOUND (Off:3 Def:10),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+410,0022000513,598,2,79,4,9:05 PM,4:52,MISS Curry 26' 3PT Pullup Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+411,0022000513,599,4,0,4,9:05 PM,4:50,,,Allen REBOUND (Off:1 Def:4),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+412,0022000513,600,1,101,4,9:05 PM,4:41,,,Garland 8' Driving Floating Jump Shot (14 PTS),85 - 84,-1,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+413,0022000513,601,1,1,4,9:05 PM,4:25,Green 25' 3PT Jump Shot (9 PTS) (Curry 2 AST),,,85 - 87,2,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+414,0022000513,603,1,7,4,9:06 PM,4:08,,,Allen 1' Dunk (14 PTS) (Garland 9 AST),87 - 87,TIE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+415,0022000513,605,1,9,4,9:06 PM,3:45,Embiid 1' Driving Dunk (27 PTS),,,87 - 89,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+416,0022000513,606,2,79,4,9:06 PM,3:17,,,MISS Sexton 21' Pullup Jump Shot,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+417,0022000513,607,4,0,4,9:07 PM,3:15,Milton REBOUND (Off:1 Def:3),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+418,0022000513,608,2,57,4,9:07 PM,3:07,MISS Simmons 1' Driving Hook Shot,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+419,0022000513,609,4,0,4,9:07 PM,3:05,,,Allen REBOUND (Off:1 Def:5),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+420,0022000513,610,6,4,4,9:07 PM,2:49,,,Sexton OFF.Foul (P3) (J.Goble),,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+421,0022000513,612,5,37,4,9:07 PM,2:49,,,Sexton Offensive Foul Turnover (P4.T15),,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+422,0022000513,613,9,1,4,9:07 PM,2:49,,,Cavaliers Timeout: Regular (Reg.3 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+423,0022000513,614,2,101,4,9:10 PM,2:34,MISS Curry 11' Driving Floating Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+424,0022000513,615,4,0,4,9:11 PM,2:30,,,Wade REBOUND (Off:1 Def:7),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+425,0022000513,616,6,2,4,9:11 PM,2:29,Milton S.FOUL (P4.T3) (J.Goble),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+426,0022000513,618,3,11,4,9:11 PM,2:29,,,Sexton Free Throw 1 of 2 (21 PTS),88 - 89,1,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+427,0022000513,619,3,12,4,9:11 PM,2:29,,,Sexton Free Throw 2 of 2 (22 PTS),89 - 89,TIE,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+428,0022000513,621,6,17,4,9:12 PM,2:18,,,Cavaliers T.Foul (Def. 3 Sec Okoro ) (J.Conley),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+429,0022000513,622,3,16,4,9:12 PM,2:18,Embiid Free Throw Technical (28 PTS),,,89 - 90,1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+430,0022000513,623,2,1,4,9:12 PM,2:06,MISS Curry 28' 3PT Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+431,0022000513,624,4,0,4,9:12 PM,2:02,,,Allen REBOUND (Off:1 Def:6),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+432,0022000513,625,1,1,4,9:13 PM,1:46,,,Sexton 27' 3PT Jump Shot (25 PTS) (Okoro 3 AST),92 - 90,-2,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+433,0022000513,627,1,9,4,9:13 PM,1:38,Embiid 1' Driving Dunk (30 PTS) (Simmons 6 AST),,,92 - 92,TIE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+434,0022000513,629,2,1,4,9:13 PM,1:22,,,MISS Wade 26' 3PT Jump Shot,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+435,0022000513,630,4,0,4,9:13 PM,1:18,,,Allen REBOUND (Off:2 Def:6),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+436,0022000513,631,2,79,4,9:13 PM,1:10,,,MISS Sexton 26' 3PT Pullup Jump Shot,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+437,0022000513,632,4,0,4,9:14 PM,1:06,Milton REBOUND (Off:1 Def:4),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+438,0022000513,633,2,6,4,9:14 PM,0:46,MISS Green 8' Driving Layup,,Allen BLOCK (1 BLK),,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1
+439,0022000513,635,4,0,4,9:14 PM,0:43,,,Allen REBOUND (Off:2 Def:7),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+440,0022000513,636,2,101,4,9:14 PM,0:27,Green BLOCK (3 BLK),,MISS Garland 1' Driving Floating Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,1
+441,0022000513,638,4,0,4,9:14 PM,0:27,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+442,0022000513,640,9,1,4,9:14 PM,0:27,,,Cavaliers Timeout: Regular (Reg.4 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+443,0022000513,641,8,0,4,9:15 PM,0:27,SUB: Thybulle FOR Curry,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+444,0022000513,643,2,1,4,9:16 PM,0:22,,,MISS Sexton 30' 3PT Jump Shot,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+445,0022000513,644,4,0,4,9:16 PM,0:18,Thybulle REBOUND (Off:0 Def:1),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+446,0022000513,645,9,1,4,9:16 PM,0:16,76ERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+447,0022000513,646,8,0,4,9:17 PM,0:16,SUB: Curry FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+448,0022000513,648,8,0,4,9:18 PM,0:16,,,SUB: Stevens FOR Sexton,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+449,0022000513,650,2,1,4,9:18 PM,0:01,MISS Embiid 15' Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+450,0022000513,651,4,0,4,9:18 PM,0:01,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+451,0022000513,652,13,0,4,9:18 PM,0:00,,,,92 - 92,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+452,0022000513,655,12,0,5,9:21 PM,5:00,,,,92 - 92,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+453,0022000513,657,10,0,5,9:21 PM,5:00,Jump Ball Embiid vs. Allen: Tip to Wade,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,1
+454,0022000513,660,1,44,5,9:22 PM,4:38,,,Okoro 2' Reverse Layup (14 PTS) (Sexton 3 AST),94 - 92,-2,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+455,0022000513,662,5,1,5,9:22 PM,4:25,Milton Bad Pass Turnover (P1.T15),,Sexton STEAL (3 STL),,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+456,0022000513,664,6,2,5,9:22 PM,4:21,Simmons S.FOUL (P2.T1) (J.Conley),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+457,0022000513,666,3,11,5,9:22 PM,4:21,,,Okoro Free Throw 1 of 2 (15 PTS),95 - 92,-3,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+458,0022000513,667,3,12,5,9:22 PM,4:21,,,MISS Okoro Free Throw 2 of 2,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+459,0022000513,668,4,0,5,9:22 PM,4:19,Simmons REBOUND (Off:1 Def:6),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+460,0022000513,669,5,1,5,9:23 PM,4:11,Simmons Bad Pass Turnover (P6.T16),,Garland STEAL (2 STL),,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+461,0022000513,671,1,75,5,9:23 PM,3:58,,,Sexton 1' Driving Finger Roll Layup (27 PTS),97 - 92,-5,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+462,0022000513,672,9,1,5,9:23 PM,3:58,76ERS Timeout: Regular (Full 7 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+463,0022000513,673,2,1,5,9:25 PM,3:37,MISS Embiid 18' Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+464,0022000513,674,4,0,5,9:25 PM,3:33,,,Wade REBOUND (Off:1 Def:8),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+465,0022000513,675,2,6,5,9:25 PM,3:13,Embiid BLOCK (2 BLK),,MISS Sexton 1' Driving Layup,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+466,0022000513,677,4,0,5,9:26 PM,3:10,Milton REBOUND (Off:1 Def:5),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+467,0022000513,678,1,99,5,9:26 PM,3:08,Embiid 2' Cutting Finger Roll Layup Shot (32 PTS) (Simmons 7 AST),,,97 - 94,-3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+468,0022000513,680,6,2,5,9:26 PM,3:08,,,Okoro S.FOUL (P4.T1) (A.Moyer-Gleich),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+469,0022000513,682,3,10,5,9:26 PM,3:08,Embiid Free Throw 1 of 1 (33 PTS),,,97 - 95,-2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+470,0022000513,683,1,6,5,9:26 PM,2:56,,,Garland 3' Driving Layup (16 PTS),99 - 95,-4,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+471,0022000513,684,5,13,5,9:27 PM,2:39,Embiid Backcourt Turnover (P3.T17),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+472,0022000513,685,2,101,5,9:27 PM,2:24,,,MISS Garland 18' Driving Floating Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+473,0022000513,687,2,97,5,9:27 PM,2:18,,,MISS Wade  Tip Layup Shot,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+474,0022000513,688,4,0,5,9:27 PM,2:18,Green REBOUND (Off:1 Def:3),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+475,0022000513,686,4,0,5,9:27 PM,2:18,,,Wade REBOUND (Off:2 Def:8),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+476,0022000513,689,2,79,5,9:27 PM,2:13,MISS Curry 20' Pullup Jump Shot,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+477,0022000513,690,4,0,5,9:27 PM,2:12,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+478,0022000513,691,6,3,5,9:27 PM,2:12,,,Okoro L.B.FOUL (P5.T2) (J.Goble),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+479,0022000513,693,6,2,5,9:28 PM,2:05,,,Okoro S.FOUL (P6.T3) (J.Conley),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+480,0022000513,695,8,0,5,9:28 PM,2:05,,,SUB: Stevens FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+481,0022000513,697,3,11,5,9:29 PM,2:05,MISS Simmons Free Throw 1 of 2,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+482,0022000513,698,4,1,5,9:29 PM,2:05,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+483,0022000513,699,3,12,5,9:29 PM,2:05,Simmons Free Throw 2 of 2 (21 PTS),,,99 - 96,-3,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+484,0022000513,700,5,1,5,9:30 PM,1:50,Green STEAL (2 STL),,Garland Bad Pass Turnover (P4.T16),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+485,0022000513,702,6,4,5,9:30 PM,1:44,Simmons OFF.Foul (P3) (J.Conley),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+486,0022000513,704,5,37,5,9:30 PM,1:44,Simmons Offensive Foul Turnover (P7.T18),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+487,0022000513,705,6,1,5,9:31 PM,1:27,Embiid P.FOUL (P4.T2) (J.Goble),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+488,0022000513,707,1,101,5,9:31 PM,1:17,,,Garland 2' Driving Floating Jump Shot (18 PTS) (Allen 3 AST),101 - 96,-5,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+489,0022000513,709,9,1,5,9:31 PM,1:17,76ERS Timeout: Regular (Full 8 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+490,0022000513,710,6,1,5,9:33 PM,1:12,,,Sexton P.FOUL (P4.PN) (A.Moyer-Gleich),,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+491,0022000513,712,3,11,5,9:33 PM,1:12,MISS Milton Free Throw 1 of 2,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+492,0022000513,713,4,1,5,9:33 PM,1:12,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+493,0022000513,714,3,12,5,9:34 PM,1:12,Milton Free Throw 2 of 2 (11 PTS),,,101 - 97,-4,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+494,0022000513,715,2,101,5,9:34 PM,0:54,,,MISS Sexton 18' Driving Floating Jump Shot,,,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+495,0022000513,716,4,0,5,9:34 PM,0:52,,,Stevens REBOUND (Off:1 Def:3),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+496,0022000513,717,1,102,5,9:34 PM,0:42,,,Garland 1' Driving Floating Bank Jump Shot (20 PTS),103 - 97,-6,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+497,0022000513,718,1,1,5,9:34 PM,0:38,Embiid 26' 3PT Jump Shot (36 PTS) (Simmons 8 AST),,,103 - 100,-3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+498,0022000513,720,6,1,5,9:35 PM,0:35,Green P.FOUL (P3.PN) (J.Goble),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+499,0022000513,722,3,11,5,9:35 PM,0:35,,,Garland Free Throw 1 of 2 (21 PTS),104 - 100,-4,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+500,0022000513,723,3,12,5,9:36 PM,0:35,,,Garland Free Throw 2 of 2 (22 PTS),105 - 100,-5,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+501,0022000513,724,2,1,5,9:36 PM,0:29,MISS Milton 30' 3PT Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+502,0022000513,725,4,0,5,9:36 PM,0:27,,,Wade REBOUND (Off:2 Def:9),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+503,0022000513,726,6,28,5,9:36 PM,0:27,Curry Personal Take Foul (P1.PN) (J.Goble),,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+504,0022000513,728,3,11,5,9:37 PM,0:27,,,Wade Free Throw 1 of 2 (4 PTS),106 - 100,-6,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+505,0022000513,729,3,12,5,9:37 PM,0:27,,,Wade Free Throw 2 of 2 (5 PTS),107 - 100,-7,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+506,0022000513,730,1,2,5,9:37 PM,0:23,Embiid 28' 3PT Running Jump Shot (39 PTS) (Milton 2 AST),,,107 - 103,-4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+507,0022000513,732,6,6,5,9:37 PM,0:23,Simmons AWAY.FROM.PLAY.FOUL (P4.PN) (J.Goble),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+508,0022000513,734,3,10,5,9:38 PM,0:23,,,Sexton Free Throw 1 of 1 (28 PTS),108 - 103,-5,5,1629012,Collin Sexton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+509,0022000513,735,8,0,5,9:38 PM,0:23,,,SUB: Windler FOR Stevens,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+510,0022000513,737,8,0,5,9:38 PM,0:23,SUB: Thybulle FOR Curry,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+511,0022000513,740,18,0,5,9:39 PM,0:22,,,,108 - 103,-5,0,739,Rasheed Wallace,,,,,0,0,,,,,,1,0,,,,,,0
+512,0022000513,741,8,0,5,9:40 PM,0:22,SUB: Curry FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+513,0022000513,739,5,45,5,9:38 PM,0:22,,,Allen Out of Bounds - Bad Pass Turnover Turnover (P3.T17),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+514,0022000513,743,1,75,5,9:40 PM,0:18,Embiid 3' Driving Finger Roll Layup (41 PTS) (Green 1 AST),,,108 - 105,-3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+515,0022000513,745,9,1,5,9:41 PM,0:18,,,Cavaliers Timeout: Regular (Reg.5 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+516,0022000513,746,8,0,5,9:42 PM,0:18,SUB: Thybulle FOR Curry,,,,,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+517,0022000513,748,8,0,5,9:42 PM,0:18,,,SUB: Dotson FOR Windler,,,5,1629685,Dylan Windler,1610612739.0,Cleveland,Cavaliers,CLE,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+518,0022000513,750,6,28,5,9:42 PM,0:16,Thybulle Personal Take Foul (P2.PN) (J.Goble),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+519,0022000513,752,3,11,5,9:43 PM,0:16,,,Garland Free Throw 1 of 2 (23 PTS),109 - 105,-4,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+520,0022000513,753,8,0,5,9:43 PM,0:16,SUB: Curry FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+521,0022000513,754,8,0,5,9:43 PM,0:16,,,SUB: Stevens FOR Dotson,,,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+522,0022000513,757,3,12,5,9:43 PM,0:16,,,Garland Free Throw 2 of 2 (24 PTS),110 - 105,-5,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+523,0022000513,758,6,2,5,9:44 PM,0:10,,,Allen S.FOUL (P4.PN) (J.Conley),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+524,0022000513,760,3,11,5,9:44 PM,0:10,Embiid Free Throw 1 of 2 (42 PTS),,,110 - 106,-4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+525,0022000513,763,3,12,5,9:44 PM,0:10,MISS Embiid Free Throw 2 of 2,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+526,0022000513,764,4,0,5,9:44 PM,0:10,,,Wade REBOUND (Off:2 Def:10),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+527,0022000513,761,8,0,5,9:44 PM,0:10,,,SUB: Dotson FOR Stevens,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+528,0022000513,765,6,28,5,9:45 PM,0:09,Green Personal Take Foul (P4.PN) (J.Goble),,,,,4,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+529,0022000513,767,3,11,5,9:46 PM,0:09,,,Wade Free Throw 1 of 2 (6 PTS),111 - 106,-5,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+530,0022000513,768,8,0,5,9:46 PM,0:09,,,SUB: Stevens FOR Dotson,,,5,1628422,Damyean Dotson,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+531,0022000513,770,3,12,5,9:46 PM,0:09,,,MISS Wade Free Throw 2 of 2,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+532,0022000513,771,4,0,5,9:46 PM,0:07,,,Allen REBOUND (Off:3 Def:7),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+533,0022000513,772,6,28,5,9:46 PM,0:05,Milton Personal Take Foul (P5.PN) (A.Moyer-Gleich),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+534,0022000513,774,3,11,5,9:46 PM,0:05,,,MISS Garland Free Throw 1 of 2,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+535,0022000513,775,4,1,5,9:46 PM,0:05,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+536,0022000513,776,3,12,5,9:47 PM,0:05,,,Garland Free Throw 2 of 2 (25 PTS),112 - 106,-6,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+537,0022000513,777,1,103,5,9:47 PM,0:02,Simmons 27' 3PT Running Pull-Up Jump Shot (24 PTS) (Embiid 6 AST),,,112 - 109,-3,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+538,0022000513,779,13,0,5,9:47 PM,0:00,,,,112 - 109,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
