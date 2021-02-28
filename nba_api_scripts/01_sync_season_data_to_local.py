@@ -56,9 +56,9 @@ def main(args: dict):
         logger.info(f"There are {len(missing_game_ids)} missing games to retrieve")
         if not args.get("dryrun"):
             for game_id in missing_game_ids:
-                pbp_df = func(game_id)
-                pbp_file_name = os.path.join(PBP_PATH, f"{game_id}.csv")
-                pbp_df.to_csv(pbp_file_name, index=False)
+                sync_df = func(game_id)
+                sync_file_name = os.path.join(PBP_PATH, f"{game_id}.csv")
+                sync_df.to_csv(sync_file_name, index=False)
                 time.sleep(2)
 
 
