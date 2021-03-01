@@ -1,10 +1,11 @@
 # lets build some simple models to predict fanduel fantasy points,
 # using a tidy framework
 library(tidyverse)
+library(data.table)
 
 # first we import the data
 # (easier to do as character with base read.csv)
-gamelogs <- read.csv('./data/nba_gamelogs/nba_gamelogs_2018-19.csv', 
+gamelogs <- fread('./data/nba_gamelogs/nba_gamelogs_2018-19.csv.gz',
                      colClasses = 'character')
 
 # next we SHOULD tidy up the data

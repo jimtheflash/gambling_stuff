@@ -1,6 +1,7 @@
 library(tidyverse)
+library(data.table)
 
-gamelogs <- read.csv('./data/nba_gamelogs/nba_gamelogs_2020-21.csv', 
+gamelogs <- fread('./data/nba_gamelogs/nba_gamelogs_2020-21.csv.gz', 
                      colClasses = 'character')
 
 unique_games <- unique(gamelogs$GAME_ID)
@@ -16,9 +17,9 @@ for (g in unique_games) {
   matchup <- as.character(gamelog$MATCHUP[[1]])
   gamedate <- as.Date(gamelog$GAME_DATE[[1]])
 
-  csv_path <- paste0('./data/nba_pbp/', g, '.csv')
+  csv_path <- paste0('./data/nba_pbp/', g, '.csv.gz')
 
-  pbp <- read.csv(csv_path, 
+  pbp <- fread(csv_path, 
                   colClasses = 'character',
                   na.strings = c('')) %>%
     mutate(EVENTNUM = as.numeric(EVENTNUM)) %>%

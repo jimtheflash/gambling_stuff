@@ -40,8 +40,8 @@ def main(args: dict):
     season = format_season_string(season_year)
 
     gamelog_df = get_season_gamelog(season)
-    source_file_name = os.path.join(GAMELOG_PATH, f"nba_gamelogs_{season}.csv")
-    gamelog_df.to_csv(source_file_name, index=False)
+    source_file_name = os.path.join(GAMELOG_PATH, f"nba_gamelogs_{season}.csv.gz")
+    gamelog_df.to_csv(source_file_name, index=False, compression="gzip")
     game_ids = list(gamelog_df.GAME_ID.unique())
 
     for sync in SYNC_CATEGORIES:
@@ -50,15 +50,15 @@ def main(args: dict):
         func = sync["function"]
 
         logger.info(f"Syncing season {category} files to local")
-        sync_files = glob(os.path.join(base_path, "*.csv"))
+        sync_files = glob(os.path.join(base_path, "*.csv.gz"))
         local_game_ids = [os.path.basename(x).split(".")[0] for x in sync_files]
         missing_game_ids = list(np.setdiff1d(game_ids, local_game_ids))
         logger.info(f"There are {len(missing_game_ids)} missing games to retrieve")
         if not args.get("dryrun"):
             for game_id in missing_game_ids:
                 sync_df = func(game_id)
-                sync_file_name = os.path.join(PBP_PATH, f"{game_id}.csv")
-                sync_df.to_csv(sync_file_name, index=False)
+                sync_file_name = os.path.join(base_path, f"{game_id}.csv.gz")
+                sync_df.to_csv(sync_file_name, index=False, compression="gzip")
                 time.sleep(2)
 
 
