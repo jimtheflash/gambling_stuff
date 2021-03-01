@@ -105,9 +105,10 @@ shots_df <-
 # Joining first shots by team and starts to get percentage of first shots by start by player
 # Adds the observed odds of a player shooting a first shot given they are a starter
 first_shot_odds_df <-
-  shots_df %>%
-  left_join(starters_df) %>%
-  mutate(percentage = shots/starts,
+  starters_df %>%
+  left_join(shots_df) %>%
+  mutate(shots = if_else(is.na(shots), as.integer(0), shots),
+         percentage = shots/starts,
          odds = case_when(percentage > .5 ~ (percentage / (1 - (percentage))) * -100,
                           TRUE ~ (100/percentage) - 100)) %>%
   arrange(team_abbrev, odds)
