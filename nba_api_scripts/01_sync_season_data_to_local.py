@@ -57,7 +57,7 @@ def main(args: dict):
         if not args.get("dryrun"):
             for game_id in missing_game_ids:
                 sync_df = func(game_id)
-                sync_file_name = os.path.join(PBP_PATH, f"{game_id}.csv")
+                sync_file_name = os.path.join(base_path, f"{game_id}.csv")
                 sync_df.to_csv(sync_file_name, index=False)
                 time.sleep(2)
 
