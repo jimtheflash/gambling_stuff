@@ -16,7 +16,8 @@ starters_list <- list()
 for (g in unique_games) {
   
   # Unique game in loops
-  gamelog <- gamelogs %>%
+  gamelog <- 
+    gamelogs %>%
     filter(GAME_ID == g)
   
   # Relevant info of game

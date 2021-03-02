@@ -25,11 +25,14 @@ for (g in unique_games) {
   csv_path <- paste0('./data/nba_pbp/', g, '.csv')
   
   # Finding all opening tips in game
-  pbp <- read.csv(csv_path, 
+  pbp <- 
+    read.csv(csv_path, 
                   colClasses = 'character',
                   na.strings = c('')) %>%
     mutate(EVENTNUM = as.numeric(EVENTNUM)) %>%
-    filter(row_number() == 2)
+    filter(grepl("jump ball", tolower(HOMEDESCRIPTION)),
+           PERIOD == "1",
+           PCTIMESTRING == "12:00")
   
   home_team_abbrev <- as.character(pbp$PLAYER1_TEAM_ABBREVIATION)
   home_team_jumper <- as.character(pbp$PLAYER1_NAME)
