@@ -1,0 +1,511 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0041800146,2,12,0,1,10:09 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,4,10,0,1,10:09 PM,12:00,Jump Ball Green vs. Durant: Tip to Green,,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0041800146,7,2,1,1,10:10 PM,11:49,,,MISS Curry 25' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,8,4,0,1,10:10 PM,11:44,,,Green REBOUND (Off:1 Def:0),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,9,2,97,1,10:10 PM,11:44,,,MISS Green 1' Tip Layup Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,10,4,0,1,10:10 PM,11:43,,,Green REBOUND (Off:2 Def:0),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,11,1,97,1,10:10 PM,11:43,,,Green 1' Tip Layup Shot (2 PTS),2 - 0,-2,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,12,1,63,1,10:10 PM,11:25,Gallinari 11' Fadeaway Jumper (2 PTS) (Beverley 1 AST),,,2 - 2,TIE,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,14,2,6,1,10:10 PM,11:15,,,MISS Livingston 2' Driving Layup,,,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,15,4,0,1,10:10 PM,11:12,Gilgeous-Alexander REBOUND (Off:0 Def:1),,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,16,1,6,1,10:11 PM,10:56,Beverley 1' Driving Layup (2 PTS),,,2 - 4,2,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,17,2,3,1,10:11 PM,10:41,Beverley BLOCK (1 BLK),,MISS Green 7' Hook Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1
+0041800146,19,4,0,1,10:11 PM,10:39,Gallinari REBOUND (Off:0 Def:1),,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,20,6,2,1,10:11 PM,10:31,,,Livingston S.FOUL (P1.T1) (K.Scott),,,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,22,3,13,1,10:11 PM,10:31,Shamet Free Throw 1 of 3 (1 PTS),,,2 - 5,3,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,23,3,14,1,10:12 PM,10:31,Shamet Free Throw 2 of 3 (2 PTS),,,2 - 6,4,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,24,3,15,1,10:12 PM,10:31,Shamet Free Throw 3 of 3 (3 PTS),,,2 - 7,5,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,25,1,1,1,10:12 PM,10:21,,,Durant 17' Jump Shot (2 PTS) (Livingston 1 AST),4 - 7,3,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,27,1,102,1,10:12 PM,10:12,Gilgeous-Alexander 3' Driving Floating Bank Jump Shot (2 PTS),,,4 - 9,5,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,28,2,6,1,10:13 PM,10:00,,,MISS Curry 2' Driving Layup,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,29,4,0,1,10:13 PM,9:58,,,Green REBOUND (Off:3 Def:0),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,30,2,97,1,10:13 PM,9:58,,,MISS Green 1' Tip Layup Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,31,4,0,1,10:13 PM,9:57,,,Livingston REBOUND (Off:1 Def:0),,,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,32,2,97,1,10:13 PM,9:57,,,MISS Livingston 1' Tip Layup Shot,,,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,33,4,0,1,10:13 PM,9:57,,,Green REBOUND (Off:4 Def:0),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,34,1,97,1,10:13 PM,9:52,,,Green 1' Tip Layup Shot (4 PTS),6 - 9,3,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,35,2,1,1,10:13 PM,9:46,MISS Shamet 25' 3PT Jump Shot,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,36,4,0,1,10:13 PM,9:44,,,Green REBOUND (Off:4 Def:1),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,37,2,1,1,10:13 PM,9:37,,,MISS Thompson 26' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,38,4,0,1,10:13 PM,9:35,Beverley REBOUND (Off:0 Def:1),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,39,2,71,1,10:13 PM,9:15,MISS Gallinari 3' Finger Roll Layup,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,40,4,0,1,10:13 PM,9:14,,,Thompson REBOUND (Off:0 Def:1),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,41,2,1,1,10:14 PM,9:01,Beverley BLOCK (2 BLK),,MISS Livingston 15' Jump Shot,,,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1
+0041800146,43,4,0,1,10:14 PM,8:57,Shamet REBOUND (Off:0 Def:1),,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,44,2,41,1,10:14 PM,8:57,MISS Shamet 2' Running Layup,,Green BLOCK (1 BLK),,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0041800146,46,4,0,1,10:14 PM,8:50,,,Thompson REBOUND (Off:0 Def:2),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,47,1,103,1,10:14 PM,8:46,,,Durant 12' Running Pull-Up Jump Shot (4 PTS),8 - 9,1,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,49,6,1,1,10:14 PM,8:33,,,Green P.FOUL (P1.T2) (M.Callahan),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,51,1,101,1,10:14 PM,8:22,Beverley 3' Driving Floating Jump Shot (4 PTS),,,8 - 11,3,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,52,2,1,1,10:15 PM,8:09,,,MISS Durant 24' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,53,4,0,1,10:15 PM,8:07,Gilgeous-Alexander REBOUND (Off:0 Def:2),,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,54,2,6,1,10:15 PM,8:01,MISS Gilgeous-Alexander 2' Driving Layup,,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,55,4,0,1,10:15 PM,7:58,Gallinari REBOUND (Off:1 Def:1),,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,56,2,97,1,10:15 PM,7:58,MISS Gallinari 1' Tip Layup Shot,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,57,4,0,1,10:15 PM,7:56,Gallinari REBOUND (Off:2 Def:1),,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,58,1,97,1,10:15 PM,7:56,Gallinari 1' Tip Layup Shot (4 PTS),,,8 - 13,5,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,59,9,1,1,10:15 PM,7:53,,,Warriors Timeout: Regular (Reg.1 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,60,2,5,1,10:19 PM,7:45,Gallinari BLOCK (1 BLK),,MISS Thompson 3' Layup,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,1
+0041800146,62,4,0,1,10:19 PM,7:42,Green REBOUND (Off:0 Def:1),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,63,1,103,1,10:19 PM,7:39,Gilgeous-Alexander 16' Running Pull-Up Jump Shot (4 PTS) (Beverley 2 AST),,,8 - 15,7,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,65,2,1,1,10:19 PM,7:20,,,MISS Green 27' 3PT Jump Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,66,4,0,1,10:19 PM,7:16,Beverley REBOUND (Off:0 Def:2),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,67,6,4,1,10:19 PM,7:13,Beverley OFF.Foul (P1) (D.Guthrie),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,69,5,37,1,10:19 PM,7:13,Beverley Offensive Foul Turnover (P1.T1),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0041800146,70,2,1,1,10:20 PM,7:03,,,MISS Durant 28' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,71,4,0,1,10:20 PM,7:00,Beverley REBOUND (Off:0 Def:3),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,72,1,1,1,10:20 PM,6:55,Gilgeous-Alexander 26' 3PT Jump Shot (7 PTS) (Beverley 3 AST),,,8 - 18,10,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,74,1,6,1,10:20 PM,6:43,,,Curry 1' Driving Layup (2 PTS),10 - 18,8,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,75,6,1,1,10:20 PM,6:31,,,Curry P.FOUL (P1.T3) (K.Scott),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,77,2,80,1,10:21 PM,6:16,MISS Gallinari 19' Step Back Jump Shot,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,78,4,0,1,10:21 PM,6:14,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,80,2,5,1,10:21 PM,6:02,MISS Green 3' Layup,,Thompson BLOCK (1 BLK),,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1
+0041800146,82,4,0,1,10:21 PM,6:00,,,Durant REBOUND (Off:0 Def:1),,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,83,6,2,1,10:22 PM,6:00,Gilgeous-Alexander S.FOUL (P1.T1) (K.Scott),,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,85,3,11,1,10:22 PM,6:00,,,Durant Free Throw 1 of 2 (5 PTS),11 - 18,7,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,86,3,12,1,10:22 PM,6:00,,,Durant Free Throw 2 of 2 (6 PTS),12 - 18,6,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,87,1,1,1,10:23 PM,5:42,Gallinari 25' 3PT Jump Shot (7 PTS) (Gilgeous-Alexander 1 AST),,,12 - 21,9,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,89,1,102,1,10:23 PM,5:33,,,Curry 3' Driving Floating Bank Jump Shot (4 PTS),14 - 21,7,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,90,6,2,1,10:23 PM,5:33,Gallinari S.FOUL (P1.T2) (M.Callahan),,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,92,3,10,1,10:23 PM,5:33,,,Curry Free Throw 1 of 1 (5 PTS),15 - 21,6,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,93,2,5,1,10:23 PM,5:22,MISS Gilgeous-Alexander 2' Layup,,Thompson BLOCK (2 BLK),,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1
+0041800146,95,4,0,1,10:24 PM,5:20,,,Green REBOUND (Off:4 Def:2),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,96,1,110,1,10:24 PM,5:18,,,Durant 1' Running Reverse Dunk Shot (8 PTS) (Green 1 AST),17 - 21,4,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,98,9,1,1,10:24 PM,5:18,CLIPPERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,99,8,0,1,10:27 PM,5:18,SUB: Williams FOR Gilgeous-Alexander,,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,100,8,0,1,10:27 PM,5:18,,,SUB: Looney FOR Livingston,,,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,103,5,2,1,10:28 PM,5:02,Williams Lost Ball Turnover (P1.T2),,Durant STEAL (1 STL),,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,105,1,5,1,10:28 PM,4:56,,,Thompson 2' Layup (2 PTS) (Durant 1 AST),19 - 21,2,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,130,7,2,1,10:28 PM,4:56,Green Violation:Defensive Goaltending (.),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,109,1,9,1,10:28 PM,4:43,Gallinari 2' Driving Dunk (9 PTS) (Shamet 1 AST),,,19 - 23,4,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,111,1,6,1,10:28 PM,4:23,,,Durant 2' Driving Layup (10 PTS),21 - 23,2,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,112,2,1,1,10:29 PM,4:10,MISS Gallinari  3PT Jump Shot,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,113,4,0,1,10:29 PM,4:08,,,Green REBOUND (Off:4 Def:3),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,114,2,63,1,10:29 PM,4:05,,,MISS Thompson 7' Fadeaway Jumper,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,115,4,0,1,10:29 PM,4:05,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,117,8,0,1,10:29 PM,4:05,SUB: Harrell FOR Green,,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,118,8,0,1,10:29 PM,4:05,,,SUB: Iguodala FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,121,1,1,1,10:29 PM,3:55,,,Curry 26' 3PT Jump Shot (8 PTS) (Durant 2 AST),24 - 23,-1,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,123,8,0,1,10:30 PM,3:41,SUB: Temple FOR Shamet,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,4,202066,Garrett Temple,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,125,10,0,1,10:30 PM,3:41,Jump Ball Harrell vs. Curry: Tip to Temple,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,202066,Garrett Temple,1610612746.0,LA,Clippers,LAC,1
+0041800146,128,2,80,1,10:30 PM,3:31,MISS Gallinari 17' Step Back Jump Shot,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,129,4,0,1,10:30 PM,3:28,,,Curry REBOUND (Off:0 Def:1),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,131,1,50,1,10:31 PM,3:22,,,Durant 1' Running Dunk (12 PTS) (Curry 1 AST),26 - 23,-3,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,133,2,63,1,10:31 PM,3:06,MISS Beverley 12' Fadeaway Jumper,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,134,4,0,1,10:31 PM,3:03,,,Green REBOUND (Off:4 Def:4),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,135,2,79,1,10:31 PM,2:43,,,MISS Iguodala 20' Pullup Jump Shot,,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,136,4,0,1,10:31 PM,2:39,Temple REBOUND (Off:0 Def:1),,,,,4,202066,Garrett Temple,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,137,2,1,1,10:31 PM,2:32,MISS Temple  3PT Jump Shot,,,,,4,202066,Garrett Temple,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,138,4,0,1,10:31 PM,2:27,Harrell REBOUND (Off:1 Def:0),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,139,2,97,1,10:31 PM,2:27,MISS Harrell 1' Tip Layup Shot,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,140,4,0,1,10:31 PM,2:27,,,Durant REBOUND (Off:0 Def:2),,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,141,1,103,1,10:32 PM,2:23,,,Durant 27' 3PT Running Pull-Up Jump Shot (15 PTS),29 - 23,-6,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,142,6,2,1,10:32 PM,2:05,,,Looney S.FOUL (P1.T4) (K.Scott),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,144,3,11,1,10:32 PM,2:05,Harrell Free Throw 1 of 2 (1 PTS),,,29 - 24,-5,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,145,8,0,1,10:33 PM,2:05,SUB: Green FOR Gallinari,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,146,8,0,1,10:33 PM,2:05,SUB: Gilgeous-Alexander FOR Beverley,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,149,3,12,1,10:33 PM,2:05,Harrell Free Throw 2 of 2 (2 PTS),,,29 - 25,-4,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,150,1,52,1,10:33 PM,1:53,,,Iguodala 3' Alley Oop Dunk (2 PTS) (Green 2 AST),31 - 25,-6,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,152,2,1,1,10:33 PM,1:37,MISS Williams 26' 3PT Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,153,4,0,1,10:34 PM,1:34,,,Green REBOUND (Off:4 Def:5),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,154,2,6,1,10:34 PM,1:30,Gilgeous-Alexander BLOCK (1 BLK),,MISS Green 2' Driving Layup,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,1
+0041800146,156,4,0,1,10:34 PM,1:30,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,158,8,0,1,10:34 PM,1:30,,,SUB: McKinnie FOR Durant,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,1628035,Alfonzo McKinnie,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,161,2,80,1,10:34 PM,1:15,,,MISS Iguodala 18' Step Back Jump Shot,,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,162,4,0,1,10:34 PM,1:12,Green REBOUND (Off:0 Def:2),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,163,1,108,1,10:35 PM,1:04,Harrell 2' Cutting Dunk Shot (4 PTS) (Williams 1 AST),,,31 - 27,-4,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,165,1,52,1,10:35 PM,0:43,,,Looney 1' Alley Oop Dunk (2 PTS) (Green 3 AST),33 - 27,-6,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,168,1,102,1,10:35 PM,0:37,Williams 2' Driving Floating Bank Jump Shot (2 PTS),,,33 - 29,-4,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,169,1,6,1,10:35 PM,0:29,,,Green  Driving Layup (6 PTS) (Curry 2 AST),35 - 29,-6,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,171,6,2,1,10:35 PM,0:29,Harrell S.FOUL (P1.T3) (D.Guthrie),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,173,8,0,1,10:36 PM,0:29,,,SUB: Thompson FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,175,3,10,1,10:36 PM,0:29,,,MISS Green Free Throw 1 of 1,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,176,4,0,1,10:36 PM,0:25,Green REBOUND (Off:0 Def:3),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,177,6,2,1,10:37 PM,0:06,,,Thompson S.FOUL (P1.PN) (D.Guthrie),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,202066,Garrett Temple,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,179,3,11,1,10:37 PM,0:06,Temple Free Throw 1 of 2 (1 PTS),,,35 - 30,-5,4,202066,Garrett Temple,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,180,8,0,1,10:37 PM,0:06,SUB: Thornwell FOR Williams,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,1628414,Sindarius Thornwell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,181,8,0,1,10:37 PM,0:06,,,SUB: Durant FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,182,8,0,1,10:37 PM,0:06,,,SUB: Cook FOR McKinnie,,,5,1628035,Alfonzo McKinnie,1610612744.0,Golden State,Warriors,GSW,5,1626188,Quinn Cook,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,186,3,12,1,10:38 PM,0:06,Temple Free Throw 2 of 2 (2 PTS),,,35 - 31,-4,4,202066,Garrett Temple,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,187,2,78,1,10:38 PM,0:01,,,MISS Durant 7' Floating Jump Shot,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,188,4,0,1,10:38 PM,0:01,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0041800146,189,13,0,1,10:38 PM,0:00,,,,35 - 31,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0041800146,194,12,0,2,10:42 PM,12:00,,,,35 - 31,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,195,5,1,2,10:42 PM,11:48,Williams Bad Pass Turnover (P2.T3),,Iguodala STEAL (1 STL),,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,197,2,1,2,10:42 PM,11:43,,,MISS Durant  3PT Jump Shot,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,198,4,0,2,10:42 PM,11:39,,,Iguodala REBOUND (Off:1 Def:0),,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,199,1,47,2,10:42 PM,11:26,,,Durant 11' Turnaround Jump Shot (17 PTS),37 - 31,-6,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,200,6,2,2,10:42 PM,11:26,Temple S.FOUL (P1.T1) (D.Guthrie),,,,,4,202066,Garrett Temple,1610612746.0,LA,Clippers,LAC,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,202,3,10,2,10:43 PM,11:26,,,Durant Free Throw 1 of 1 (18 PTS),38 - 31,-7,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,204,2,1,2,10:43 PM,11:02,MISS Green 24' 3PT Jump Shot,,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,205,4,0,2,10:43 PM,11:01,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,207,1,79,2,10:44 PM,10:43,,,Durant 8' Pullup Jump Shot (20 PTS),40 - 31,-9,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,208,9,1,2,10:44 PM,10:41,CLIPPERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,209,8,0,2,10:47 PM,10:41,SUB: Shamet FOR Gilgeous-Alexander,,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,210,8,0,2,10:47 PM,10:41,SUB: Beverley FOR Temple,,,,,4,202066,Garrett Temple,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,213,2,101,2,10:48 PM,10:25,MISS Williams 8' Driving Floating Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,214,4,0,2,10:48 PM,10:22,,,Bogut REBOUND (Off:0 Def:1),,,5,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,215,5,2,2,10:48 PM,10:20,Green STEAL (1 STL),,Durant Lost Ball Turnover (P1.T1),,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,217,1,41,2,10:48 PM,10:13,Green 2' Running Layup (2 PTS),,,40 - 33,-7,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,218,6,1,2,10:48 PM,9:59,Shamet P.FOUL (P1.T2) (D.Guthrie),,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,220,2,1,2,10:49 PM,9:50,,,MISS Iguodala  3PT Jump Shot,,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,221,4,0,2,10:49 PM,9:47,Green REBOUND (Off:0 Def:4),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,222,1,79,2,10:49 PM,9:38,Williams 17' Pullup Jump Shot (4 PTS),,,40 - 35,-5,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,223,9,1,2,10:49 PM,9:29,,,Warriors Timeout: Regular (Reg.2 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,224,8,0,2,10:52 PM,9:29,,,SUB: Livingston FOR Cook,,,5,1626188,Quinn Cook,1610612744.0,Golden State,Warriors,GSW,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,226,2,47,2,10:53 PM,9:17,,,MISS Livingston 12' Turnaround Jump Shot,,,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,227,4,0,2,10:53 PM,9:14,Williams REBOUND (Off:0 Def:1),,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,228,1,103,2,10:53 PM,9:07,Green 27' 3PT Running Pull-Up Jump Shot (5 PTS) (Beverley 4 AST),,,40 - 38,-2,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,230,6,2,2,10:53 PM,8:57,Green S.FOUL (P1.T3) (K.Scott),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,232,3,13,2,10:54 PM,8:57,,,Durant Free Throw 1 of 3 (21 PTS),41 - 38,-3,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,233,3,14,2,10:54 PM,8:57,,,Durant Free Throw 2 of 3 (22 PTS),42 - 38,-4,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,234,3,15,2,10:54 PM,8:57,,,Durant Free Throw 3 of 3 (23 PTS),43 - 38,-5,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,235,6,1,2,10:55 PM,8:44,,,Bogut P.FOUL (P1.T1) (K.Scott),,,5,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,237,2,63,2,10:55 PM,8:31,MISS Williams 16' Fadeaway Jumper,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,238,4,0,2,10:55 PM,8:29,,,Iguodala REBOUND (Off:1 Def:1),,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,239,1,1,2,10:55 PM,8:20,,,Durant 20' Jump Shot (25 PTS) (Iguodala 1 AST),45 - 38,-7,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,241,2,1,2,10:55 PM,8:12,MISS Green 26' 3PT Jump Shot,,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,242,4,0,2,10:55 PM,8:09,,,Thompson REBOUND (Off:0 Def:3),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,243,6,4,2,10:56 PM,8:06,,,Bogut OFF.Foul (P2) (M.Callahan),,,5,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,245,5,37,2,10:56 PM,8:06,,,Bogut Offensive Foul Turnover (P1.T2),,,5,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0041800146,246,8,0,2,10:56 PM,8:06,SUB: Gallinari FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,247,8,0,2,10:56 PM,8:06,,,SUB: Curry FOR Iguodala,,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,250,8,0,2,10:56 PM,8:06,,,SUB: Looney FOR Bogut,,,5,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,253,8,0,2,10:57 PM,7:53,,,SUB: Green FOR Livingston,,,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,255,5,2,2,10:57 PM,7:49,Green Lost Ball Turnover (P1.T4),,Thompson STEAL (1 STL),,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,257,1,1,2,10:57 PM,7:41,,,Durant 29' 3PT Jump Shot (28 PTS) (Green 4 AST),48 - 38,-10,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,259,9,1,2,10:57 PM,7:39,CLIPPERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,260,8,0,2,10:58 PM,7:39,SUB: Gilgeous-Alexander FOR Williams,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,262,1,47,2,10:59 PM,7:19,Shamet 10' Turnaround Jump Shot (5 PTS),,,48 - 40,-8,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,263,2,1,2,10:59 PM,7:02,,,MISS Thompson 25' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,264,4,0,2,10:59 PM,7:00,Green REBOUND (Off:0 Def:5),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,265,6,26,2,11:00 PM,6:42,Green Offensive Charge Foul (P2.T4) (M.Callahan),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,267,5,37,2,11:00 PM,6:42,Green Offensive Foul Turnover (P2.T5),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0041800146,268,5,1,2,11:00 PM,6:27,Beverley STEAL (1 STL),,Green Bad Pass Turnover (P1.T3),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,271,1,63,2,11:01 PM,6:10,Gallinari 14' Fadeaway Jumper (11 PTS) (Gilgeous-Alexander 2 AST),,,48 - 42,-6,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,273,5,45,2,11:01 PM,5:57,,,Curry Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0041800146,274,2,1,2,11:01 PM,5:44,MISS Green 27' 3PT Jump Shot,,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,275,4,0,2,11:01 PM,5:40,,,Durant REBOUND (Off:0 Def:3),,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,276,1,1,2,11:02 PM,5:30,,,Durant 28' 3PT Jump Shot (31 PTS),51 - 42,-9,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,277,2,80,2,11:02 PM,5:11,MISS Gallinari 21' Step Back Jump Shot,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,278,4,0,2,11:02 PM,5:09,,,Green REBOUND (Off:4 Def:6),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,279,2,1,2,11:02 PM,5:04,,,MISS Durant 27' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,280,4,0,2,11:02 PM,5:01,Beverley REBOUND (Off:0 Def:4),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,281,6,2,2,11:02 PM,4:55,,,Durant S.FOUL (P1.T2) (M.Callahan),,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,283,3,11,2,11:03 PM,4:55,Gallinari Free Throw 1 of 2 (12 PTS),,,51 - 43,-8,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,284,3,12,2,11:03 PM,4:55,Gallinari Free Throw 2 of 2 (13 PTS),,,51 - 44,-7,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,285,1,6,2,11:03 PM,4:45,,,Green 2' Driving Layup (8 PTS) (Looney 1 AST),53 - 44,-9,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,287,2,1,2,11:03 PM,4:35,MISS Shamet 26' 3PT Jump Shot,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,288,4,0,2,11:04 PM,4:31,,,Thompson REBOUND (Off:0 Def:4),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,289,1,71,2,11:04 PM,4:16,,,Green 2' Finger Roll Layup (10 PTS) (Durant 3 AST),55 - 44,-11,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,291,1,1,2,11:04 PM,3:55,Beverley 26' 3PT Jump Shot (7 PTS) (Gilgeous-Alexander 3 AST),,,55 - 47,-8,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,293,1,6,2,11:04 PM,3:39,,,Curry 1' Driving Layup (10 PTS),57 - 47,-10,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,294,5,8,2,11:05 PM,3:23,Gallinari 3 Second Violation Turnover (P1.T6),,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0041800146,295,8,0,2,11:05 PM,3:23,SUB: Harrell FOR Green,,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,296,8,0,2,11:05 PM,3:23,SUB: Williams FOR Gilgeous-Alexander,,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,297,8,0,2,11:05 PM,3:23,,,SUB: Iguodala FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,301,6,2,2,11:05 PM,3:15,Shamet S.FOUL (P2.PN) (K.Scott),,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,303,3,11,2,11:06 PM,3:15,,,Curry Free Throw 1 of 2 (11 PTS),58 - 47,-11,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,304,3,12,2,11:06 PM,3:15,,,Curry Free Throw 2 of 2 (12 PTS),59 - 47,-12,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,305,6,1,2,11:06 PM,3:09,,,Curry P.FOUL (P2.T3) (D.Guthrie),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,308,2,6,2,11:07 PM,3:00,MISS Williams 3' Driving Layup,,Green BLOCK (2 BLK),,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0041800146,310,4,0,2,11:07 PM,3:00,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,346,5,2,2,11:07 PM,2:57,Shamet Lost Ball Turnover (P1.T7),,Iguodala STEAL (2 STL),,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,315,6,1,2,11:07 PM,2:56,Harrell P.FOUL (P2.PN) (D.Guthrie),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,317,3,11,2,11:07 PM,2:56,,,Durant Free Throw 1 of 2 (32 PTS),60 - 47,-13,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,318,3,12,2,11:08 PM,2:56,,,Durant Free Throw 2 of 2 (33 PTS),61 - 47,-14,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,319,2,79,2,11:08 PM,2:45,MISS Williams 18' Pullup Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,320,4,0,2,11:08 PM,2:43,,,Thompson REBOUND (Off:0 Def:5),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,321,2,1,2,11:08 PM,2:35,,,MISS Curry 27' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,322,4,0,2,11:08 PM,2:32,Beverley REBOUND (Off:0 Def:5),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,323,1,79,2,11:08 PM,2:27,Gallinari 16' Pullup Jump Shot (15 PTS) (Beverley 5 AST),,,61 - 49,-12,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,325,1,52,2,11:09 PM,2:12,,,Iguodala 1' Alley Oop Dunk (4 PTS) (Green 5 AST),63 - 49,-14,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,327,2,3,2,11:09 PM,1:50,MISS Harrell 4' Hook Shot,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,328,4,0,2,11:09 PM,1:48,Harrell REBOUND (Off:2 Def:0),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,329,6,26,2,11:09 PM,1:48,Harrell Offensive Charge Foul (P3.PN) (M.Callahan),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,331,5,37,2,11:09 PM,1:48,Harrell Offensive Foul Turnover (P1.T8),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0041800146,332,8,0,2,11:09 PM,1:48,SUB: Gilgeous-Alexander FOR Shamet,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,334,8,0,2,11:09 PM,1:48,SUB: Green FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,336,1,6,2,11:10 PM,1:37,,,Green 1' Driving Layup (12 PTS) (Iguodala 2 AST),65 - 49,-16,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,338,6,1,2,11:10 PM,1:30,,,Iguodala P.FOUL (P1.T4) (M.Callahan),,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,341,6,2,2,11:11 PM,1:26,,,Green S.FOUL (P2.PN) (K.Scott),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,343,3,11,2,11:11 PM,1:26,Williams Free Throw 1 of 2 (5 PTS),,,65 - 50,-15,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,344,3,12,2,11:11 PM,1:26,Williams Free Throw 2 of 2 (6 PTS),,,65 - 51,-14,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,345,1,108,2,11:12 PM,1:15,,,Iguodala 1' Cutting Dunk Shot (6 PTS) (Green 6 AST),67 - 51,-16,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,349,2,1,2,11:12 PM,0:54,MISS Beverley 26' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,350,4,0,2,11:12 PM,0:52,Gilgeous-Alexander REBOUND (Off:1 Def:2),,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,352,8,0,2,11:12 PM,0:52,,,SUB: Livingston FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,354,2,101,2,11:13 PM,0:41,MISS Williams 5' Driving Floating Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,355,4,0,2,11:13 PM,0:39,,,Durant REBOUND (Off:0 Def:4),,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,356,1,79,2,11:13 PM,0:34,,,Durant 28' 3PT Pullup Jump Shot (36 PTS),70 - 51,-19,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,357,1,6,2,11:13 PM,0:20,Gilgeous-Alexander 1' Driving Layup (9 PTS) (Williams 2 AST),,,70 - 53,-17,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,358,6,1,2,11:13 PM,0:14,Green P.FOUL (P3.PN) (K.Scott),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,361,3,11,2,11:14 PM,0:14,,,Durant Free Throw 1 of 2 (37 PTS),71 - 53,-18,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,362,8,0,2,11:14 PM,0:14,SUB: Shamet FOR Gilgeous-Alexander,,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,363,8,0,2,11:14 PM,0:14,,,SUB: Looney FOR Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,366,3,12,2,11:14 PM,0:14,,,Durant Free Throw 2 of 2 (38 PTS),72 - 53,-19,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,367,2,5,2,11:14 PM,0:05,MISS Williams 2' Layup,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,369,4,0,2,11:14 PM,0:02,Green REBOUND (Off:1 Def:5),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,370,2,5,2,11:14 PM,0:02,MISS Green 1' Layup,,Iguodala BLOCK (1 BLK),,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,1
+0041800146,372,4,0,2,11:14 PM,0:02,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,374,2,63,2,11:15 PM,0:01,MISS Gallinari 15' Fadeaway Jumper,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,375,4,0,2,11:15 PM,0:01,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,376,13,0,2,11:15 PM,0:00,,,,72 - 53,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0041800146,383,12,0,3,11:30 PM,12:00,,,,72 - 53,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,384,5,11,3,11:31 PM,11:36,CLIPPERS Turnover: Shot Clock (T#9),,,,,2,1610612746,,,,,,0,0,,,,,,1,0,,,,,,0
+0041800146,385,1,1,3,11:31 PM,11:20,,,Green 14' Jump Shot (14 PTS) (Livingston 2 AST),74 - 53,-21,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,387,5,39,3,11:32 PM,10:53,Beverley Step Out of Bounds Turnover (P2.T10),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0041800146,388,2,1,3,11:32 PM,10:36,,,MISS Thompson 17' Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,389,4,0,3,11:32 PM,10:34,Beverley REBOUND (Off:0 Def:6),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,390,2,80,3,11:32 PM,10:28,MISS Gilgeous-Alexander 11' Step Back Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,391,4,0,3,11:32 PM,10:25,Gallinari REBOUND (Off:3 Def:1),,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,392,1,72,3,11:32 PM,10:24,Gallinari 1' Putback Layup (17 PTS),,,74 - 55,-19,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,393,2,86,3,11:33 PM,10:12,,,MISS Durant 13' Turnaround Fadeaway Shot,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,394,4,0,3,11:33 PM,10:09,Beverley REBOUND (Off:0 Def:7),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,395,6,1,3,11:33 PM,9:56,,,Thompson P.FOUL (P2.T1) (K.Scott),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,397,1,1,3,11:33 PM,9:43,Gilgeous-Alexander 28' 3PT Jump Shot (12 PTS) (Beverley 6 AST),,,74 - 58,-16,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,399,1,52,3,11:34 PM,9:28,,,Livingston 1' Alley Oop Dunk (2 PTS) (Green 7 AST),76 - 58,-18,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,401,2,1,3,11:34 PM,9:06,MISS Gallinari 25' 3PT Jump Shot,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,402,4,0,3,11:34 PM,9:05,Beverley REBOUND (Off:1 Def:7),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,403,2,1,3,11:34 PM,9:04,MISS Gallinari 27' 3PT Jump Shot,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,404,4,0,3,11:34 PM,8:58,,,Green REBOUND (Off:4 Def:7),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,405,6,1,3,11:34 PM,8:50,Beverley P.FOUL (P2.T1) (M.Callahan),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,407,2,1,3,11:35 PM,8:38,,,MISS Green 25' 3PT Jump Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,408,4,0,3,11:35 PM,8:35,Beverley REBOUND (Off:1 Def:8),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,409,6,2,3,11:35 PM,8:34,,,Thompson S.FOUL (P3.T2) (K.Scott),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,411,3,11,3,11:35 PM,8:34,MISS Gilgeous-Alexander Free Throw 1 of 2,,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,412,4,1,3,11:35 PM,8:34,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,413,3,12,3,11:36 PM,8:34,Gilgeous-Alexander Free Throw 2 of 2 (13 PTS),,,76 - 59,-17,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,414,2,1,3,11:36 PM,8:21,,,MISS Durant 27' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,415,4,0,3,11:36 PM,8:17,Green REBOUND (Off:1 Def:6),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,416,1,75,3,11:36 PM,8:09,Gilgeous-Alexander 3' Driving Finger Roll Layup (15 PTS),,,76 - 61,-15,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,417,5,1,3,11:36 PM,7:49,Shamet STEAL (1 STL),,Green Bad Pass Turnover (P2.T5),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,419,1,1,3,11:36 PM,7:46,Shamet 26' 3PT Jump Shot (8 PTS) (Gilgeous-Alexander 4 AST),,,76 - 64,-12,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,421,9,1,3,11:37 PM,7:44,,,Warriors Timeout: Regular (Reg.3 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,422,1,1,3,11:40 PM,7:33,,,Durant 25' 3PT Jump Shot (41 PTS) (Green 8 AST),79 - 64,-15,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,424,1,1,3,11:41 PM,7:18,Gallinari 26' 3PT Jump Shot (20 PTS) (Gilgeous-Alexander 5 AST),,,79 - 67,-12,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,426,1,1,3,11:41 PM,7:01,,,Durant 27' 3PT Jump Shot (44 PTS) (Livingston 3 AST),82 - 67,-15,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,428,2,6,3,11:41 PM,6:37,MISS Gilgeous-Alexander 2' Driving Layup,,Green BLOCK (3 BLK),,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0041800146,430,4,0,3,11:41 PM,6:34,,,Thompson REBOUND (Off:0 Def:6),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,431,2,79,3,11:41 PM,6:29,,,MISS Durant 27' 3PT Pullup Jump Shot,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,432,4,0,3,11:41 PM,6:27,Shamet REBOUND (Off:0 Def:2),,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,433,2,1,3,11:42 PM,6:21,MISS Gilgeous-Alexander 27' 3PT Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,434,4,0,3,11:42 PM,6:18,,,Curry REBOUND (Off:0 Def:2),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,435,2,1,3,11:42 PM,6:13,,,MISS Curry 27' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,436,4,0,3,11:42 PM,6:10,Green REBOUND (Off:1 Def:7),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,437,1,6,3,11:42 PM,6:04,Gallinari 2' Driving Layup (22 PTS) (Beverley 7 AST),,,82 - 69,-13,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,439,6,2,3,11:42 PM,6:04,,,Green S.FOUL (P3.T3) (D.Guthrie),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,441,8,0,3,11:42 PM,6:04,,,SUB: Iguodala FOR Livingston,,,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,443,3,10,3,11:43 PM,6:04,MISS Gallinari Free Throw 1 of 1,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,444,4,0,3,11:43 PM,6:02,,,Green REBOUND (Off:4 Def:8),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,445,2,1,3,11:43 PM,5:40,,,MISS Iguodala 27' 3PT Jump Shot,,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,446,4,0,3,11:43 PM,5:38,Beverley REBOUND (Off:1 Def:9),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,447,2,80,3,11:43 PM,5:17,MISS Gallinari 15' Step Back Jump Shot,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,448,4,0,3,11:44 PM,5:16,Beverley REBOUND (Off:2 Def:9),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,449,6,1,3,11:44 PM,5:16,,,Durant P.FOUL (P2.T4) (D.Guthrie),,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,452,1,101,3,11:44 PM,5:03,Shamet 13' Driving Floating Jump Shot (10 PTS) (Gilgeous-Alexander 6 AST),,,82 - 71,-11,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,454,6,1,3,11:45 PM,4:49,Shamet P.FOUL (P3.T2) (D.Guthrie),,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,456,1,6,3,11:45 PM,4:46,,,Thompson 2' Driving Layup (4 PTS) (Curry 3 AST),84 - 71,-13,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,458,6,2,3,11:45 PM,4:46,Green S.FOUL (P4.T3) (M.Callahan),,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,460,3,10,3,11:45 PM,4:46,,,Thompson Free Throw 1 of 1 (5 PTS),85 - 71,-14,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,461,5,39,3,11:46 PM,4:30,Beverley Step Out of Bounds Turnover (P3.T11),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0041800146,462,6,1,3,11:46 PM,4:14,Gallinari P.FOUL (P2.T4) (K.Scott),,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,464,8,0,3,11:46 PM,4:14,SUB: Williams FOR Gilgeous-Alexander,,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,466,2,1,3,11:47 PM,4:07,,,MISS Thompson  3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,467,4,0,3,11:47 PM,4:02,Beverley REBOUND (Off:2 Def:10),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,468,5,45,3,11:47 PM,3:56,Williams Out of Bounds - Bad Pass Turnover Turnover (P3.T12),,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0041800146,469,8,0,3,11:47 PM,3:56,,,SUB: Looney FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,471,1,98,3,11:47 PM,3:46,,,Curry 2' Cutting Layup Shot (14 PTS) (Iguodala 3 AST),87 - 71,-16,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,473,2,5,3,11:48 PM,3:34,MISS Gallinari 2' Layup,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,474,4,0,3,11:48 PM,3:32,,,Looney REBOUND (Off:0 Def:1),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,475,1,108,3,11:48 PM,3:21,,,Iguodala 2' Cutting Dunk Shot (8 PTS) (Durant 4 AST),89 - 71,-18,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,477,9,1,3,11:48 PM,3:21,CLIPPERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,478,8,0,3,11:51 PM,3:21,SUB: Harrell FOR Green,,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,480,2,1,3,11:52 PM,3:03,MISS Shamet 27' 3PT Jump Shot,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,481,4,0,3,11:52 PM,3:03,Beverley REBOUND (Off:3 Def:10),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,482,6,1,3,11:52 PM,3:03,,,Looney P.FOUL (P2.PN) (K.Scott),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,484,3,11,3,11:52 PM,3:03,Beverley Free Throw 1 of 2 (8 PTS),,,89 - 72,-17,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,485,3,12,3,11:53 PM,3:03,MISS Beverley Free Throw 2 of 2,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,486,4,0,3,11:53 PM,3:01,,,Green REBOUND (Off:4 Def:9),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,487,6,2,3,11:53 PM,2:48,Beverley S.FOUL (P3.PN) (D.Guthrie),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,489,3,11,3,11:53 PM,2:48,,,Durant Free Throw 1 of 2 (45 PTS),90 - 72,-18,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,490,3,12,3,11:54 PM,2:48,,,Durant Free Throw 2 of 2 (46 PTS),91 - 72,-19,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,491,5,2,3,11:54 PM,2:36,Shamet Lost Ball Turnover (P2.T13),,Iguodala STEAL (3 STL),,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,493,1,43,3,11:54 PM,2:31,,,Iguodala 2' Alley Oop Layup (10 PTS) (Curry 4 AST),93 - 72,-21,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,495,2,1,3,11:54 PM,2:16,MISS Williams 27' 3PT Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,496,4,0,3,11:54 PM,2:13,,,Iguodala REBOUND (Off:1 Def:2),,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,497,2,1,3,11:54 PM,2:08,,,MISS Curry 3' Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,498,4,0,3,11:54 PM,2:08,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,500,8,0,3,11:54 PM,2:08,SUB: Robinson FOR Gallinari,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,501,8,0,3,11:54 PM,2:08,SUB: Temple FOR Shamet,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,4,202066,Garrett Temple,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,502,8,0,3,11:54 PM,2:08,SUB: Green FOR Beverley,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,506,9,1,3,11:55 PM,2:08,,,Warriors Timeout: Regular (Reg.4 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,507,8,0,3,11:56 PM,2:08,,,SUB: Thompson FOR Durant,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,509,2,78,3,11:57 PM,1:58,MISS Williams 8' Floating Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,510,4,0,3,11:57 PM,1:56,Williams REBOUND (Off:1 Def:1),,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,511,2,97,3,11:57 PM,1:56,MISS Williams 1' Tip Layup Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,512,4,0,3,11:57 PM,1:55,,,Curry REBOUND (Off:0 Def:3),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,514,1,1,3,11:57 PM,1:40,,,Thompson 24' 3PT Jump Shot (8 PTS) (Green 9 AST),96 - 72,-24,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,516,6,1,3,11:57 PM,1:26,,,Green P.FOUL (P4.PN) (D.Guthrie),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,518,3,11,3,11:58 PM,1:26,Green Free Throw 1 of 2 (6 PTS),,,96 - 73,-23,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,519,8,0,3,11:58 PM,1:26,,,SUB: McKinnie FOR Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1628035,Alfonzo McKinnie,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,521,3,12,3,11:58 PM,1:26,Green Free Throw 2 of 2 (7 PTS),,,96 - 74,-22,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,522,2,1,3,11:58 PM,1:14,,,MISS Thompson 13' Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,523,4,0,3,11:58 PM,1:11,Harrell REBOUND (Off:2 Def:1),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,524,2,1,3,11:58 PM,1:05,MISS Robinson 27' 3PT Jump Shot,,,,,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,525,4,0,3,11:58 PM,1:01,,,Looney REBOUND (Off:0 Def:2),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,526,1,6,3,11:59 PM,0:55,,,Curry 2' Driving Layup (16 PTS),98 - 74,-24,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,527,5,1,3,11:59 PM,0:44,Green Bad Pass Turnover (P3.T14),,Curry STEAL (1 STL),,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,529,6,1,3,11:59 PM,0:42,Robinson P.FOUL (P1.PN) (K.Scott),,,,,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,5,1628035,Alfonzo McKinnie,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,531,3,11,3,11:59 PM,0:42,,,McKinnie Free Throw 1 of 2 (1 PTS),99 - 74,-25,5,1628035,Alfonzo McKinnie,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,532,8,0,3,11:59 PM,0:42,SUB: Beverley FOR Green,,,,,4,203210,JaMychal Green,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,534,3,12,3,12:00 AM,0:42,,,MISS McKinnie Free Throw 2 of 2,,,5,1628035,Alfonzo McKinnie,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,535,4,0,3,12:00 AM,0:40,Temple REBOUND (Off:0 Def:2),,,,,4,202066,Garrett Temple,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,536,2,101,3,12:00 AM,0:30,MISS Williams 2' Driving Floating Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,537,4,0,3,12:01 AM,0:30,Harrell REBOUND (Off:3 Def:1),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,538,2,97,3,12:01 AM,0:30,MISS Harrell 1' Tip Layup Shot,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,539,4,0,3,12:01 AM,0:30,Harrell REBOUND (Off:4 Def:1),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,540,1,97,3,12:01 AM,0:30,Harrell 1' Tip Layup Shot (6 PTS),,,99 - 76,-23,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,541,1,1,3,12:01 AM,0:11,,,Iguodala  3PT Jump Shot (13 PTS) (Curry 5 AST),102 - 76,-26,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,543,2,6,3,12:01 AM,0:04,MISS Williams 2' Driving Layup,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,544,4,0,3,12:01 AM,0:03,Harrell REBOUND (Off:5 Def:1),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,545,1,72,3,12:01 AM,0:02,Harrell 2' Putback Layup (8 PTS),,,102 - 78,-24,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,546,13,0,3,12:01 AM,0:00,,,,102 - 78,-24,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0041800146,553,12,0,4,12:05 AM,12:00,,,,102 - 78,-24,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,554,2,1,4,12:05 AM,11:37,,,MISS McKinnie 24' 3PT Jump Shot,,,5,1628035,Alfonzo McKinnie,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,555,4,0,4,12:05 AM,11:34,Robinson REBOUND (Off:0 Def:1),,,,,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,556,6,1,4,12:05 AM,11:28,,,Livingston P.FOUL (P2.T1) (M.Callahan),,,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,558,8,0,4,12:06 AM,11:28,SUB: Gilgeous-Alexander FOR Temple,,,,,4,202066,Garrett Temple,1610612746.0,LA,Clippers,LAC,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,560,1,1,4,12:06 AM,11:20,Robinson 27' 3PT Jump Shot (3 PTS) (Harrell 1 AST),,,102 - 81,-21,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,562,5,1,4,12:06 AM,11:03,Harrell STEAL (1 STL),,Durant Bad Pass Turnover (P2.T6),,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,564,6,26,4,12:06 AM,11:01,Harrell Offensive Charge Foul (P4.T1) (K.Scott),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,5,1628035,Alfonzo McKinnie,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,566,5,37,4,12:06 AM,11:01,Harrell Offensive Foul Turnover (P2.T15),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0041800146,567,1,78,4,12:07 AM,10:46,,,Bogut 6' Floating Jump Shot (2 PTS) (Livingston 4 AST),104 - 81,-23,5,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,569,1,79,4,12:07 AM,10:33,Gilgeous-Alexander 15' Pullup Jump Shot (17 PTS),,,104 - 83,-21,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,570,6,2,4,12:07 AM,10:20,Gilgeous-Alexander S.FOUL (P2.T2) (M.Callahan),,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,5,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,572,3,11,4,12:08 AM,10:20,,,Bogut Free Throw 1 of 2 (3 PTS),105 - 83,-22,5,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,573,3,12,4,12:08 AM,10:20,,,Bogut Free Throw 2 of 2 (4 PTS),106 - 83,-23,5,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,574,2,79,4,12:08 AM,10:13,MISS Williams 16' Pullup Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,575,4,0,4,12:08 AM,10:10,,,McKinnie REBOUND (Off:0 Def:1),,,5,1628035,Alfonzo McKinnie,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,576,2,1,4,12:08 AM,9:55,,,MISS Durant 27' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,577,4,0,4,12:08 AM,9:53,Gilgeous-Alexander REBOUND (Off:1 Def:3),,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,579,6,28,4,12:09 AM,9:53,,,Durant Personal Take Foul (P3.T2) (M.Callahan),,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,581,8,0,4,12:09 AM,9:53,SUB: Gallinari FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,583,8,0,4,12:09 AM,9:53,,,SUB: Looney FOR Bogut,,,5,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,585,6,2,4,12:09 AM,9:46,,,Looney S.FOUL (P3.T3) (K.Scott),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,587,3,11,4,12:10 AM,9:46,Gallinari Free Throw 1 of 2 (23 PTS),,,106 - 84,-22,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,593,8,0,4,12:10 AM,9:46,,,SUB: Thompson FOR Livingston,,,5,2733,Shaun Livingston,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,590,3,12,4,12:10 AM,9:46,MISS Gallinari Free Throw 2 of 2,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,591,4,0,4,12:10 AM,9:43,Gilgeous-Alexander REBOUND (Off:2 Def:3),,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,592,1,80,4,12:10 AM,9:39,Williams 17' Step Back Jump Shot (8 PTS),,,106 - 86,-20,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,594,1,5,4,12:10 AM,9:20,,,McKinnie 3' Layup (3 PTS) (Iguodala 4 AST),108 - 86,-22,5,1628035,Alfonzo McKinnie,1610612744.0,Golden State,Warriors,GSW,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,596,1,6,4,12:11 AM,9:10,Beverley 1' Driving Layup (10 PTS),,,108 - 88,-20,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,597,6,2,4,12:11 AM,9:10,,,Looney S.FOUL (P4.T4) (M.Callahan),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,599,3,10,4,12:11 AM,9:10,Beverley Free Throw 1 of 1 (11 PTS),,,108 - 89,-19,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,600,9,1,4,12:11 AM,9:10,,,Warriors Timeout: Regular (Reg.5 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,601,8,0,4,12:15 AM,9:10,,,SUB: Green FOR McKinnie,,,5,1628035,Alfonzo McKinnie,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,602,8,0,4,12:15 AM,9:10,,,SUB: Curry FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,605,5,1,4,12:15 AM,8:59,Gallinari STEAL (1 STL),,Iguodala Bad Pass Turnover (P1.T7),,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,608,2,1,4,12:16 AM,8:47,MISS Williams 10' Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,609,4,0,4,12:16 AM,8:45,,,Durant REBOUND (Off:0 Def:5),,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,610,5,2,4,12:16 AM,8:37,Gallinari STEAL (2 STL),,Durant Lost Ball Turnover (P3.T8),,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,612,1,41,4,12:16 AM,8:33,Gilgeous-Alexander 1' Running Layup (19 PTS) (Williams 3 AST),,,108 - 91,-17,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,614,6,2,4,12:16 AM,8:12,Gallinari S.FOUL (P3.T3) (K.Scott),,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,616,3,11,4,12:17 AM,8:12,,,MISS Durant Free Throw 1 of 2,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,617,4,1,4,12:17 AM,8:12,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,618,3,12,4,12:17 AM,8:12,,,Durant Free Throw 2 of 2 (47 PTS),109 - 91,-18,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,619,2,6,4,12:17 AM,8:04,MISS Williams 2' Driving Layup,,Green BLOCK (4 BLK),,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0041800146,621,4,0,4,12:17 AM,8:04,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,624,6,2,4,12:17 AM,8:01,,,Durant S.FOUL (P4.PN) (K.Scott),,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,626,3,11,4,12:18 AM,8:01,Robinson Free Throw 1 of 2 (4 PTS),,,109 - 92,-17,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,638,7,3,4,12:18 AM,8:01,,,Curry Violation:Lane (.),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,627,3,12,4,12:18 AM,8:01,Robinson Free Throw 2 of 2 (5 PTS),,,109 - 93,-16,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,629,5,1,4,12:19 AM,7:45,Williams STEAL (1 STL),,Durant Bad Pass Turnover (P4.T9),,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,631,2,6,4,12:19 AM,7:36,MISS Gallinari 1' Driving Layup,,Durant BLOCK (1 BLK),,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1
+0041800146,633,4,0,4,12:19 AM,7:35,,,Iguodala REBOUND (Off:1 Def:3),,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,634,6,28,4,12:19 AM,7:35,Williams Personal Take Foul (P1.T4) (M.Callahan),,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,636,2,6,4,12:20 AM,7:26,,,MISS Curry 3' Driving Layup,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,637,4,0,4,12:20 AM,7:24,Gallinari REBOUND (Off:3 Def:2),,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,639,1,50,4,12:20 AM,7:19,Gallinari 1' Running Dunk (25 PTS) (Williams 4 AST),,,109 - 95,-14,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,641,1,79,4,12:20 AM,7:01,,,Durant 10' Pullup Jump Shot (49 PTS) (Thompson 1 AST),111 - 95,-16,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,643,6,2,4,12:20 AM,7:01,Beverley S.FOUL (P4.PN) (K.Scott),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,645,3,10,4,12:20 AM,7:01,,,Durant Free Throw 1 of 1 (50 PTS),112 - 95,-17,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,647,2,1,4,12:21 AM,6:50,MISS Williams 13' Jump Shot,,Thompson BLOCK (3 BLK),,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1
+0041800146,649,4,0,4,12:21 AM,6:50,,,Thompson REBOUND (Off:0 Def:7),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,650,6,28,4,12:21 AM,6:50,Williams Personal Take Foul (P2.PN) (D.Guthrie),,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,652,3,11,4,12:21 AM,6:50,,,MISS Thompson Free Throw 1 of 2,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,653,4,1,4,12:21 AM,6:50,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,655,6,11,4,12:21 AM,6:50,Williams T.FOUL (P2.PN) (D.Guthrie),,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0041800146,656,3,16,4,12:22 AM,6:50,,,Curry Free Throw Technical (17 PTS),113 - 95,-18,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,657,9,1,4,12:22 AM,6:50,CLIPPERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,658,3,12,4,12:26 AM,6:50,,,Thompson Free Throw 2 of 2 (9 PTS),114 - 95,-19,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,659,1,1,4,12:26 AM,6:38,Gallinari 26' 3PT Jump Shot (28 PTS) (Williams 5 AST),,,114 - 98,-16,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,661,2,1,4,12:27 AM,6:12,,,MISS Durant 27' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,662,4,0,4,12:27 AM,6:10,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,664,6,2,4,12:27 AM,6:02,,,Green S.FOUL (P5.PN) (D.Guthrie),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,666,6,11,4,12:27 AM,6:02,,,Green T.FOUL (P5.PN) (D.Guthrie),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0041800146,667,3,16,4,12:27 AM,6:02,Gallinari Free Throw Technical (29 PTS),,,114 - 99,-15,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,668,3,11,4,12:28 AM,6:02,Gilgeous-Alexander Free Throw 1 of 2 (20 PTS),,,114 - 100,-14,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,669,3,12,4,12:28 AM,6:02,Gilgeous-Alexander Free Throw 2 of 2 (21 PTS),,,114 - 101,-13,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,670,1,80,4,12:28 AM,5:51,,,Curry 26' 3PT Step Back Jump Shot (20 PTS),117 - 101,-16,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,671,2,1,4,12:29 AM,5:35,MISS Williams 26' 3PT Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,672,4,0,4,12:29 AM,5:32,,,Curry REBOUND (Off:0 Def:4),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,673,2,47,4,12:29 AM,5:10,,,MISS Durant 17' Turnaround Jump Shot,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,674,4,0,4,12:29 AM,5:07,Beverley REBOUND (Off:3 Def:11),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,675,2,1,4,12:29 AM,5:03,MISS Gallinari 28' 3PT Jump Shot,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,676,4,0,4,12:29 AM,4:58,,,Green REBOUND (Off:4 Def:10),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,677,1,52,4,12:29 AM,4:49,,,Iguodala 2' Alley Oop Dunk (15 PTS) (Green 10 AST),119 - 101,-18,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,679,9,1,4,12:30 AM,4:49,CLIPPERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,680,8,0,4,12:31 AM,4:49,SUB: Harrell FOR Gallinari,,,,,4,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,682,1,98,4,12:32 AM,4:38,Harrell 1' Cutting Layup Shot (10 PTS) (Williams 6 AST),,,119 - 103,-16,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,684,1,98,4,12:32 AM,4:22,,,Green 2' Cutting Layup Shot (16 PTS) (Curry 6 AST),121 - 103,-18,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,686,1,1,4,12:32 AM,4:10,Robinson  3PT Jump Shot (8 PTS) (Williams 7 AST),,,121 - 106,-15,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0041800146,688,1,6,4,12:32 AM,3:51,,,Curry 2' Driving Layup (22 PTS) (Durant 5 AST),123 - 106,-17,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,690,2,1,4,12:33 AM,3:31,MISS Gilgeous-Alexander 26' 3PT Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,691,4,0,4,12:33 AM,3:28,,,Curry REBOUND (Off:0 Def:5),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,752,5,40,4,12:33 AM,3:21,,,Green Out of Bounds Lost Ball Turnover (P3.T10),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0041800146,693,8,0,4,12:33 AM,3:21,SUB: Shamet FOR Gilgeous-Alexander,,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,695,2,6,4,12:33 AM,3:10,MISS Williams 1' Driving Layup,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,696,4,0,4,12:33 AM,3:08,,,Durant REBOUND (Off:0 Def:6),,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,697,6,2,4,12:34 AM,2:52,Beverley S.FOUL (P5.PN) (M.Callahan),,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,699,3,11,4,12:34 AM,2:52,,,Curry Free Throw 1 of 2 (23 PTS),124 - 106,-18,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,700,8,0,4,12:34 AM,2:52,,,SUB: McKinnie FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1628035,Alfonzo McKinnie,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,702,3,12,4,12:35 AM,2:52,,,Curry Free Throw 2 of 2 (24 PTS),125 - 106,-19,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,703,2,1,4,12:35 AM,2:39,MISS Robinson 26' 3PT Jump Shot,,,,,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,704,4,0,4,12:35 AM,2:37,,,Curry REBOUND (Off:0 Def:6),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,705,6,1,4,12:35 AM,2:25,Harrell P.FOUL (P5.PN) (K.Scott),,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0041800146,707,3,11,4,12:36 AM,2:25,,,MISS Iguodala Free Throw 1 of 2,,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,708,4,1,4,12:36 AM,2:25,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,709,8,0,4,12:36 AM,2:25,SUB: Thornwell FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,4,1628414,Sindarius Thornwell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,710,8,0,4,12:36 AM,2:25,SUB: Zubac FOR Beverley,,,,,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,711,8,0,4,12:36 AM,2:25,SUB: Gilgeous-Alexander FOR Williams,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0041800146,715,8,0,4,12:36 AM,2:25,,,SUB: Cook FOR Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1626188,Quinn Cook,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,716,8,0,4,12:36 AM,2:25,,,SUB: Jerebko FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,201973,Jonas Jerebko,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,717,8,0,4,12:36 AM,2:25,,,SUB: Evans FOR Durant,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,1628980,Jacob Evans,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,721,3,12,4,12:36 AM,2:25,,,MISS Iguodala Free Throw 2 of 2,,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0041800146,722,4,0,4,12:36 AM,2:25,Thornwell REBOUND (Off:0 Def:1),,,,,4,1628414,Sindarius Thornwell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,723,6,28,4,12:36 AM,2:22,,,Cook Personal Take Foul (P1.PN) (K.Scott),,,5,1626188,Quinn Cook,1610612744.0,Golden State,Warriors,GSW,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0041800146,725,8,0,4,12:37 AM,2:22,,,SUB: Bell FOR Iguodala,,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0041800146,727,3,11,4,12:37 AM,2:22,MISS Gilgeous-Alexander Free Throw 1 of 2,,,,,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,728,4,1,4,12:37 AM,2:22,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0041800146,729,3,12,4,12:37 AM,2:22,Gilgeous-Alexander Free Throw 2 of 2 (22 PTS),,,125 - 107,-18,4,1628983,Shai Gilgeous-Alexander,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0041800146,730,2,1,4,12:38 AM,2:04,,,MISS Cook 11' Jump Shot,,,5,1626188,Quinn Cook,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,731,4,0,4,12:38 AM,2:01,Robinson REBOUND (Off:0 Def:2),,,,,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,732,7,5,4,12:38 AM,1:57,,,Bell Violation:Kicked Ball (K.Scott),,,5,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0041800146,733,2,1,4,12:38 AM,1:51,MISS Shamet 27' 3PT Jump Shot,,,,,4,1629013,Landry Shamet,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,734,4,0,4,12:38 AM,1:47,,,Jerebko REBOUND (Off:0 Def:1),,,5,201973,Jonas Jerebko,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,735,1,1,4,12:38 AM,1:32,,,Bell 16' Jump Shot (2 PTS) (Jerebko 1 AST),127 - 107,-20,5,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,5,201973,Jonas Jerebko,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0041800146,737,2,1,4,12:39 AM,1:08,MISS Robinson 26' 3PT Jump Shot,,,,,4,1629010,Jerome Robinson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,738,4,0,4,12:39 AM,1:04,Zubac REBOUND (Off:1 Def:0),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,739,2,97,4,12:39 AM,1:04,MISS Zubac 1' Tip Layup Shot,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,740,4,0,4,12:39 AM,1:03,,,Jerebko REBOUND (Off:0 Def:2),,,5,201973,Jonas Jerebko,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,741,2,1,4,12:39 AM,0:51,,,MISS Jerebko 25' 3PT Jump Shot,,,5,201973,Jonas Jerebko,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,742,4,0,4,12:39 AM,0:48,,,Bell REBOUND (Off:1 Def:0),,,5,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,743,2,3,4,12:39 AM,0:45,Zubac BLOCK (1 BLK),,MISS Bell 2' Hook Shot,,,5,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1
+0041800146,745,4,0,4,12:39 AM,0:42,Thornwell REBOUND (Off:0 Def:2),,,,,4,1628414,Sindarius Thornwell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,746,2,3,4,12:39 AM,0:35,MISS Zubac 7' Hook Shot,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,747,4,0,4,12:39 AM,0:33,,,Cook REBOUND (Off:0 Def:1),,,5,1626188,Quinn Cook,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,748,1,44,4,12:40 AM,0:26,,,Cook 2' Reverse Layup (2 PTS),129 - 107,-22,5,1626188,Quinn Cook,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0041800146,749,1,79,4,12:40 AM,0:19,Thornwell 28' 3PT Pullup Jump Shot (3 PTS),,,129 - 110,-19,4,1628414,Sindarius Thornwell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0041800146,750,13,0,4,12:40 AM,0:00,,,,129 - 110,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,525 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011800028,2,12,0,1,7:42 AM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,4,10,0,1,7:42 AM,12:00,Jump Ball Powell vs. Embiid: Tip to Simmons,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0
+0011800028,7,1,5,1,7:43 AM,11:47,,,Simmons 2' Layup (2 PTS) (Saric 1 AST),2 - 0,-2,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,9,2,1,1,7:43 AM,11:30,MISS Matthews 26' 3PT Jump Shot,,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,10,4,0,1,7:43 AM,11:24,,,Embiid REBOUND (Off:0 Def:1),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,11,5,21,1,7:43 AM,11:20,,,Fultz Palming Turnover (P1.T1),,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011800028,12,6,1,1,7:43 AM,11:03,,,Fultz P.FOUL (P1.T1) (T.Ford),,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,14,2,79,1,7:44 AM,10:59,MISS Smith Jr. 21' Pullup Jump Shot,,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,15,4,0,1,7:44 AM,10:55,,,Covington REBOUND (Off:0 Def:1),,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,16,2,47,1,7:44 AM,10:47,Doncic BLOCK (1 BLK),,MISS Saric 7' Turnaround Jump Shot,,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0
+0011800028,18,4,0,1,7:44 AM,10:46,,,Saric REBOUND (Off:1 Def:0),,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,19,2,5,1,7:44 AM,10:46,Doncic BLOCK (2 BLK),,MISS Saric 11' Layup,,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0
+0011800028,21,4,0,1,7:44 AM,10:46,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,22,1,3,1,7:44 AM,10:44,,,Covington 5' Hook Shot (2 PTS) (Simmons 1 AST),4 - 0,-4,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,24,2,1,1,7:44 AM,10:33,MISS Doncic 26' 3PT Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,25,4,0,1,7:45 AM,10:30,,,Embiid REBOUND (Off:0 Def:2),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,26,2,1,1,7:45 AM,10:23,,,MISS Embiid 27' 3PT Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,27,4,0,1,7:45 AM,10:19,Smith Jr. REBOUND (Off:0 Def:1),,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,28,1,6,1,7:45 AM,10:06,Smith Jr. 3' Driving Layup (2 PTS) (Matthews 1 AST),,,4 - 2,-2,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,30,5,2,1,7:45 AM,9:52,Doncic STEAL (1 STL),,Embiid Lost Ball Turnover (P1.T2),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,32,1,1,1,7:45 AM,9:46,Matthews 25' 3PT Jump Shot (3 PTS) (Finney-Smith 1 AST),,,4 - 5,1,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,34,6,1,1,7:46 AM,9:32,Finney-Smith P.FOUL (P1.T1) (K.Cutler),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,36,2,63,1,7:46 AM,9:21,,,MISS Fultz 8' Fadeaway Jumper,,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,37,4,0,1,7:46 AM,9:17,Powell REBOUND (Off:0 Def:1),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,38,1,1,1,7:46 AM,9:11,Smith Jr. 25' 3PT Jump Shot (5 PTS) (Finney-Smith 2 AST),,,4 - 8,4,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,40,2,1,1,7:46 AM,8:58,,,MISS Saric 16' Jump Shot,,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,41,4,0,1,7:46 AM,8:55,Smith Jr. REBOUND (Off:0 Def:2),,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,42,1,6,1,7:46 AM,8:52,Matthews 4' Driving Layup (5 PTS) (Smith Jr. 1 AST),,,4 - 10,6,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,44,9,1,1,7:47 AM,8:50,,,76ers Timeout: Regular (Reg.1 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,45,5,40,1,7:50 AM,8:38,,,Saric Out of Bounds Lost Ball Turnover (P1.T3),,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011800028,46,1,52,1,7:50 AM,8:27,Powell 3' Alley Oop Dunk (2 PTS) (Doncic 1 AST),,,4 - 12,8,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,48,2,3,1,7:51 AM,8:09,,,MISS Embiid 5' Hook Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,49,4,0,1,7:51 AM,8:03,,,Embiid REBOUND (Off:1 Def:2),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,50,2,97,1,7:51 AM,8:03,,,MISS Embiid 1' Tip Layup Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,51,4,0,1,7:51 AM,8:01,,,Embiid REBOUND (Off:2 Def:2),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,52,2,97,1,7:51 AM,8:01,,,MISS Embiid 1' Tip Layup Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,53,4,0,1,7:51 AM,8:00,Powell REBOUND (Off:0 Def:2),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,54,2,1,1,7:51 AM,7:51,MISS Finney-Smith  3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,55,4,0,1,7:51 AM,7:51,,,Fultz REBOUND (Off:0 Def:1),,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,56,1,50,1,7:51 AM,7:44,,,Embiid 1' Running Dunk (2 PTS) (Simmons 2 AST),6 - 12,6,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,58,2,1,1,7:51 AM,7:18,MISS Doncic 29' 3PT Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,59,4,0,1,7:51 AM,7:16,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,60,8,0,1,7:51 AM,7:16,SUB: Mejri FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,62,5,11,1,7:52 AM,7:15,MAVERICKS Turnover: Shot Clock (T#1),,,,,2,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
+0011800028,63,5,45,1,7:52 AM,7:02,,,Covington Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011800028,64,8,0,1,7:52 AM,7:02,,,SUB: Muscala FOR Fultz,,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,65,8,0,1,7:52 AM,7:02,,,SUB: Shamet FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,66,8,0,1,7:52 AM,7:02,,,SUB: Redick FOR Covington,,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,70,1,78,1,7:53 AM,6:53,Smith Jr. 16' Floating Jump Shot (7 PTS),,,6 - 14,8,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,71,2,1,1,7:53 AM,6:42,,,MISS Muscala 26' 3PT Jump Shot,,,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,72,4,0,1,7:53 AM,6:38,Matthews REBOUND (Off:0 Def:1),,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,73,1,1,1,7:53 AM,6:35,Smith Jr. 26' 3PT Jump Shot (10 PTS) (Matthews 2 AST),,,6 - 17,11,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,75,9,1,1,7:53 AM,6:33,,,76ers Timeout: Regular (Reg.2 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,76,2,3,1,7:56 AM,6:17,Mejri BLOCK (1 BLK),,MISS Saric 4' Hook Shot,,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,0
+0011800028,78,4,0,1,7:57 AM,6:12,,,Shamet REBOUND (Off:1 Def:0),,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,79,1,5,1,7:57 AM,6:12,,,Shamet 2' Layup (2 PTS),8 - 17,9,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,80,2,1,1,7:57 AM,5:52,MISS Doncic 26' 3PT Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,81,4,0,1,7:57 AM,5:51,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,82,6,3,1,7:57 AM,5:51,,,Muscala L.B.FOUL (P1.T2) (T.Ford),,,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,84,2,1,1,7:57 AM,5:45,MISS Matthews 25' 3PT Jump Shot,,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,85,4,0,1,7:57 AM,5:41,,,Simmons REBOUND (Off:0 Def:1),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,86,1,79,1,7:58 AM,5:32,,,Redick 21' Pullup Jump Shot (2 PTS) (Saric 2 AST),10 - 17,7,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,88,1,79,1,7:58 AM,5:20,Smith Jr. 22' Pullup Jump Shot (12 PTS),,,10 - 19,9,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,89,2,1,1,7:58 AM,5:02,,,MISS Shamet 26' 3PT Jump Shot,,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,90,4,0,1,7:58 AM,4:58,Finney-Smith REBOUND (Off:0 Def:1),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,91,6,1,1,7:58 AM,4:54,,,Shamet P.FOUL (P1.T3) (T.Brothers),,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,93,2,5,1,7:59 AM,4:45,MISS Finney-Smith 3' Layup,,Saric BLOCK (1 BLK),,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0
+0011800028,95,4,0,1,7:59 AM,4:41,,,Shamet REBOUND (Off:1 Def:1),,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,96,6,4,1,7:59 AM,4:41,,,Simmons OFF.Foul (P1) (T.Brothers),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,98,5,37,1,7:59 AM,4:41,,,Simmons Offensive Foul Turnover (P1.T5),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011800028,99,1,1,1,7:59 AM,4:28,Smith Jr. 26' 3PT Jump Shot (15 PTS) (Matthews 3 AST),,,10 - 22,12,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,101,1,1,1,8:00 AM,4:10,,,Shamet 25' 3PT Jump Shot (5 PTS) (Saric 3 AST),13 - 22,9,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,103,6,2,1,8:00 AM,3:51,,,Muscala S.FOUL (P2.T4) (K.Cutler),,,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,105,3,11,1,8:00 AM,3:51,MISS Mejri Free Throw 1 of 2,,,,,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,106,4,1,1,8:00 AM,3:51,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,107,8,0,1,8:01 AM,3:51,SUB: Broekhoff FOR Smith Jr.,,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,108,8,0,1,8:01 AM,3:51,SUB: Harris FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,109,8,0,1,8:01 AM,3:51,SUB: Barea FOR Matthews,,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,110,8,0,1,8:01 AM,3:51,SUB: Kleber FOR Doncic,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,111,8,0,1,8:01 AM,3:51,,,SUB: Embiid FOR Saric,,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,117,3,12,1,8:01 AM,3:51,Mejri Free Throw 2 of 2 (1 PTS),,,13 - 23,10,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,118,2,63,1,8:01 AM,3:37,,,MISS Embiid 14' Fadeaway Jumper,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,119,4,0,1,8:01 AM,3:33,Kleber REBOUND (Off:0 Def:1),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,120,1,1,1,8:01 AM,3:29,Harris 26' 3PT Jump Shot (3 PTS) (Barea 1 AST),,,13 - 26,13,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,122,6,1,1,8:02 AM,3:15,Harris P.FOUL (P1.T2) (T.Brothers),,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,124,1,44,1,8:02 AM,3:13,,,Shamet 2' Reverse Layup (7 PTS) (Muscala 1 AST),15 - 26,11,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,126,1,108,1,8:02 AM,2:54,Mejri 4' Cutting Dunk Shot (3 PTS) (Barea 2 AST),,,15 - 28,13,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,128,6,1,1,8:03 AM,2:38,Mejri P.FOUL (P1.T3) (K.Cutler),,,,,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,130,8,0,1,8:03 AM,2:38,,,SUB: Covington FOR Shamet,,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,131,8,0,1,8:03 AM,2:38,,,SUB: Fultz FOR Simmons,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,134,1,1,1,8:03 AM,2:30,,,Redick 26' 3PT Jump Shot (5 PTS) (Muscala 2 AST),18 - 28,10,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,136,1,1,1,8:03 AM,2:15,Harris 25' 3PT Jump Shot (6 PTS),,,18 - 31,13,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,137,1,79,1,8:04 AM,1:59,,,Redick 19' Pullup Jump Shot (7 PTS) (Embiid 1 AST),20 - 31,11,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,139,6,2,1,8:04 AM,1:45,,,Fultz S.FOUL (P2.PN) (T.Ford),,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,141,3,11,1,8:04 AM,1:45,Kleber Free Throw 1 of 2 (1 PTS),,,20 - 32,12,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,142,3,12,1,8:04 AM,1:45,Kleber Free Throw 2 of 2 (2 PTS),,,20 - 33,13,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,143,6,1,1,8:05 AM,1:38,Mejri P.FOUL (P2.T4) (T.Ford),,,,,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,145,8,0,1,8:05 AM,1:38,SUB: Powell FOR Mejri,,,,,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,147,2,6,1,8:05 AM,1:31,,,MISS Covington 2' Driving Layup,,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,148,4,0,1,8:05 AM,1:30,Kleber REBOUND (Off:0 Def:2),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,149,6,1,1,8:05 AM,1:30,,,Covington P.FOUL (P1.PN) (K.Cutler),,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,151,3,11,1,8:06 AM,1:30,Kleber Free Throw 1 of 2 (3 PTS),,,20 - 34,14,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,152,3,12,1,8:06 AM,1:30,Kleber Free Throw 2 of 2 (4 PTS),,,20 - 35,15,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,153,1,79,1,8:06 AM,1:20,,,Redick 25' 3PT Pullup Jump Shot (10 PTS) (Covington 1 AST),23 - 35,12,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,155,5,40,1,8:06 AM,1:07,Powell Out of Bounds Lost Ball Turnover (P1.T2),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011800028,156,5,1,1,8:07 AM,0:56,Powell STEAL (1 STL),,Covington Bad Pass Turnover (P2.T6),,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,158,2,66,1,8:07 AM,0:47,MISS Barea 11' Jump Bank Shot,,,,,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,159,4,0,1,8:07 AM,0:44,,,Embiid REBOUND (Off:2 Def:3),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,160,2,1,1,8:07 AM,0:39,Kleber BLOCK (1 BLK),,MISS Fultz 2' Jump Shot,,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0
+0011800028,162,4,0,1,8:07 AM,0:31,Kleber REBOUND (Off:0 Def:3),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,163,2,1,1,8:07 AM,0:20,MISS Harris 24' 3PT Jump Shot,,Fultz BLOCK (1 BLK),,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0
+0011800028,165,4,0,1,8:07 AM,0:16,Powell REBOUND (Off:1 Def:2),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,166,2,1,1,8:07 AM,0:16,MISS Powell 24' 3PT Jump Shot,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,167,4,0,1,8:07 AM,0:14,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,168,5,11,1,8:08 AM,0:14,MAVERICKS Turnover: Shot Clock (T#3),,,,,2,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
+0011800028,169,1,9,1,8:08 AM,0:05,,,Embiid 1' Driving Dunk (4 PTS) (Redick 1 AST),25 - 35,10,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,171,6,2,1,8:08 AM,0:05,Barea S.FOUL (P1.PN) (T.Brothers),,,,,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,173,3,10,1,8:08 AM,0:05,,,Embiid Free Throw 1 of 1 (5 PTS),26 - 35,9,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,174,5,1,1,8:08 AM,0:02,Barea Bad Pass Turnover (P1.T4),,Embiid STEAL (1 STL),,,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,176,5,4,1,8:08 AM,0:01,,,Embiid Traveling Turnover (P2.T7),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011800028,177,2,1,1,8:09 AM,0:00,MISS Harris 39' 3PT Jump Shot,,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,178,4,0,1,8:09 AM,0:00,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,179,13,0,1,8:09 AM,0:00,,,,26 - 35,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,180,12,0,2,8:12 AM,12:00,,,,26 - 35,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,181,2,5,2,8:12 AM,11:46,MISS Powell 2' Layup,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,182,4,0,2,8:12 AM,11:41,Powell REBOUND (Off:2 Def:2),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,183,5,2,2,8:12 AM,11:40,Powell Lost Ball Turnover (P2.T5),,Fultz STEAL (1 STL),,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,185,6,2,2,8:12 AM,11:35,Powell S.FOUL (P1.T1) (T.Ford),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,187,3,11,2,8:13 AM,11:35,,,Embiid Free Throw 1 of 2 (6 PTS),27 - 35,8,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,188,3,12,2,8:13 AM,11:35,,,Embiid Free Throw 2 of 2 (7 PTS),28 - 35,7,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,189,6,1,2,8:13 AM,11:22,,,Fultz P.FOUL (P3.T1) (K.Cutler),,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,192,6,2,2,8:14 AM,11:08,,,Embiid S.FOUL (P1.T2) (K.Cutler),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,194,3,11,2,8:14 AM,11:08,MISS Powell Free Throw 1 of 2,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,195,4,1,2,8:14 AM,11:08,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,196,3,12,2,8:15 AM,11:08,Powell Free Throw 2 of 2 (3 PTS),,,28 - 36,8,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,197,1,1,2,8:15 AM,10:51,,,Covington  3PT Jump Shot (5 PTS) (Redick 2 AST),31 - 36,5,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,199,2,75,2,8:15 AM,10:34,MISS Barea 3' Driving Finger Roll Layup,,,,,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,200,4,0,2,8:15 AM,10:31,,,Muscala REBOUND (Off:0 Def:1),,,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,201,2,1,2,8:16 AM,10:19,,,MISS Fultz 24' 3PT Jump Shot,,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,202,4,0,2,8:16 AM,10:16,Kleber REBOUND (Off:0 Def:4),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,203,2,1,2,8:16 AM,10:04,MISS Kleber 27' 3PT Jump Shot,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,204,4,0,2,8:16 AM,9:59,,,Embiid REBOUND (Off:2 Def:4),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,205,2,1,2,8:16 AM,9:56,,,MISS Embiid 27' 3PT Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,206,4,0,2,8:16 AM,9:54,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,207,1,1,2,8:16 AM,9:39,Kleber 25' 3PT Jump Shot (7 PTS) (Barea 3 AST),,,31 - 39,8,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,209,2,1,2,8:17 AM,9:25,,,MISS Fultz 15' Jump Shot,,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,210,4,0,2,8:17 AM,9:21,Powell REBOUND (Off:2 Def:3),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,211,1,5,2,8:17 AM,9:16,Kleber 3' Layup (9 PTS) (Barea 4 AST),,,31 - 41,10,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,213,1,5,2,8:17 AM,9:00,,,Fultz 2' Layup (2 PTS) (Embiid 2 AST),33 - 41,8,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,215,9,1,2,8:17 AM,8:59,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,216,8,0,2,8:19 AM,8:59,SUB: Brunson FOR Harris,,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,217,8,0,2,8:19 AM,8:59,,,SUB: Shamet FOR Redick,,,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,218,8,0,2,8:19 AM,8:59,,,SUB: Simmons FOR Fultz,,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,219,8,0,2,8:19 AM,8:59,,,SUB: Saric FOR Muscala,,,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,225,2,1,2,8:20 AM,8:45,MISS Barea 26' 3PT Jump Shot,,,,,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,226,4,0,2,8:20 AM,8:41,Broekhoff REBOUND (Off:1 Def:0),,,,,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,227,2,72,2,8:20 AM,8:40,MISS Broekhoff 3' Putback Layup,,,,,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,228,4,0,2,8:20 AM,8:37,Broekhoff REBOUND (Off:2 Def:0),,,,,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,229,1,1,2,8:21 AM,8:35,Kleber 24' 3PT Jump Shot (12 PTS) (Broekhoff 1 AST),,,33 - 44,11,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,231,1,7,2,8:21 AM,8:26,,,Simmons 1' Dunk (4 PTS) (Embiid 3 AST),35 - 44,9,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,233,6,1,2,8:21 AM,8:16,,,Covington P.FOUL (P2.T3) (T.Brothers),,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,235,6,2,2,8:21 AM,8:10,,,Shamet S.FOUL (P2.T4) (K.Cutler),,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,237,3,11,2,8:22 AM,8:10,MISS Brunson Free Throw 1 of 2,,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,238,4,1,2,8:22 AM,8:10,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,239,8,0,2,8:22 AM,8:10,SUB: Mejri FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,241,3,12,2,8:22 AM,8:10,MISS Brunson Free Throw 2 of 2,,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,242,4,0,2,8:22 AM,8:08,,,Saric REBOUND (Off:1 Def:1),,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,243,1,44,2,8:22 AM,7:52,,,Embiid 1' Reverse Layup (9 PTS) (Shamet 1 AST),37 - 44,7,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,245,6,1,2,8:23 AM,7:43,,,Shamet P.FOUL (P3.PN) (T.Brothers),,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,247,3,11,2,8:23 AM,7:43,Barea Free Throw 1 of 2 (1 PTS),,,37 - 45,8,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,248,8,0,2,8:23 AM,7:43,SUB: Finney-Smith FOR Broekhoff,,,,,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,250,3,12,2,8:23 AM,7:43,Barea Free Throw 2 of 2 (2 PTS),,,37 - 46,9,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,251,6,1,2,8:24 AM,7:32,Mejri P.FOUL (P3.T2) (T.Ford),,,,,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,253,8,0,2,8:24 AM,7:32,SUB: Matthews FOR Mejri,,,,,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,255,1,79,2,8:24 AM,7:26,,,Shamet 25' 3PT Pullup Jump Shot (10 PTS) (Embiid 4 AST),40 - 46,6,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,257,1,101,2,8:24 AM,7:14,Brunson 11' Driving Floating Jump Shot (2 PTS),,,40 - 48,8,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,258,1,44,2,8:25 AM,6:58,,,Embiid 3' Reverse Layup (11 PTS) (Saric 4 AST),42 - 48,6,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,260,5,40,2,8:25 AM,6:48,Brunson Out of Bounds Lost Ball Turnover (P1.T6),,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011800028,261,9,1,2,8:25 AM,6:48,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,262,8,0,2,8:28 AM,6:48,SUB: Doncic FOR Barea,,,,,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,263,8,0,2,8:28 AM,6:48,SUB: Smith Jr. FOR Brunson,,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,264,8,0,2,8:28 AM,6:48,,,SUB: Muscala FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,268,2,1,2,8:28 AM,6:32,,,MISS Muscala 24' 3PT Jump Shot,,,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,269,4,0,2,8:28 AM,6:27,Smith Jr. REBOUND (Off:0 Def:3),,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,270,2,47,2,8:29 AM,6:11,MISS Matthews 12' Turnaround Jump Shot,,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,271,4,0,2,8:29 AM,6:07,,,Simmons REBOUND (Off:0 Def:2),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,272,6,1,2,8:29 AM,5:52,Matthews P.FOUL (P1.T3) (K.Cutler),,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,274,8,0,2,8:29 AM,5:52,SUB: Powell FOR Kleber,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,276,6,1,2,8:29 AM,5:48,Finney-Smith P.FOUL (P2.T4) (T.Ford),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,278,2,1,2,8:30 AM,5:38,,,MISS Covington 25' 3PT Jump Shot,,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,279,4,0,2,8:30 AM,5:35,,,Muscala REBOUND (Off:1 Def:1),,,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,280,2,5,2,8:30 AM,5:34,Finney-Smith BLOCK (1 BLK),,MISS Muscala 2' Layup,,,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0
+0011800028,282,4,0,2,8:30 AM,5:34,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,283,1,1,2,8:30 AM,5:32,,,Shamet 25' 3PT Jump Shot (13 PTS) (Simmons 3 AST),45 - 48,3,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,285,2,44,2,8:31 AM,5:10,MISS Matthews 1' Reverse Layup,,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,286,4,0,2,8:31 AM,5:08,,,Muscala REBOUND (Off:1 Def:2),,,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,287,6,2,2,8:31 AM,5:04,Doncic S.FOUL (P1.PN) (K.Cutler),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,289,3,13,2,8:31 AM,5:04,,,Shamet Free Throw 1 of 3 (14 PTS),46 - 48,2,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,290,3,14,2,8:31 AM,5:04,,,Shamet Free Throw 2 of 3 (15 PTS),47 - 48,1,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,291,8,0,2,8:31 AM,5:04,,,SUB: Fultz FOR Covington,,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,293,3,15,2,8:32 AM,5:04,,,Shamet Free Throw 3 of 3 (16 PTS),48 - 48,TIE,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,294,1,101,2,8:32 AM,4:52,Doncic 17' Driving Floating Jump Shot (2 PTS),,,48 - 50,2,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,295,6,1,2,8:32 AM,4:44,Finney-Smith P.FOUL (P3.PN) (T.Brothers),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,297,3,11,2,8:33 AM,4:44,,,MISS Simmons Free Throw 1 of 2,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,298,4,1,2,8:33 AM,4:44,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,299,8,0,2,8:33 AM,4:44,SUB: Kleber FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,300,8,0,2,8:33 AM,4:44,,,SUB: Redick FOR Shamet,,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,303,3,12,2,8:33 AM,4:44,,,MISS Simmons Free Throw 2 of 2,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,304,4,0,2,8:33 AM,4:41,Doncic REBOUND (Off:0 Def:1),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,305,1,5,2,8:33 AM,4:25,Smith Jr. 2' Layup (17 PTS) (Matthews 4 AST),,,48 - 52,4,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,307,7,2,2,8:33 AM,4:25,,,Fultz Violation:Defensive Goaltending (T.Brothers),,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011800028,308,2,5,2,8:34 AM,4:08,,,MISS Saric 11' Layup,,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,309,4,0,2,8:34 AM,4:06,Kleber REBOUND (Off:0 Def:5),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,310,1,41,2,8:34 AM,4:03,Powell 3' Running Layup (5 PTS) (Doncic 2 AST),,,48 - 54,6,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,312,1,3,2,8:34 AM,3:45,,,Saric 7' Hook Shot (2 PTS) (Redick 3 AST),50 - 54,4,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,314,5,1,2,8:34 AM,3:37,Doncic Bad Pass Turnover (P1.T7),,Simmons STEAL (1 STL),,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,316,2,5,2,8:34 AM,3:33,Kleber BLOCK (2 BLK),,MISS Simmons 2' Layup,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0
+0011800028,318,4,0,2,8:34 AM,3:33,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,320,5,1,2,8:35 AM,3:30,Smith Jr. STEAL (1 STL),,Simmons Bad Pass Turnover (P2.T8),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,322,6,9,2,8:35 AM,3:30,,,Redick C.P.FOUL (P1.PN) (K.Cutler),,,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,324,3,25,2,8:35 AM,3:30,Smith Jr. Free Throw Clear Path 1 of 2 (18 PTS),,,50 - 55,5,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,325,3,26,2,8:36 AM,3:30,MISS Smith Jr. Free Throw Clear Path 2 of 2,,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,326,4,0,2,8:36 AM,3:30,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,327,5,4,2,8:36 AM,3:27,Doncic Traveling Turnover (P2.T8),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011800028,328,1,1,2,8:37 AM,3:16,,,Saric 26' 3PT Jump Shot (5 PTS) (Redick 4 AST),53 - 55,2,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,330,2,1,2,8:37 AM,3:02,MISS Smith Jr. 26' 3PT Jump Shot,,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,331,4,0,2,8:37 AM,3:00,,,Simmons REBOUND (Off:0 Def:3),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,332,5,45,2,8:37 AM,2:54,,,Simmons Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011800028,333,5,1,2,8:37 AM,2:50,Doncic Bad Pass Turnover (P3.T9),,Fultz STEAL (2 STL),,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,335,1,1,2,8:37 AM,2:47,,,Redick  3PT Jump Shot (13 PTS) (Fultz 1 AST),56 - 55,-1,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,337,6,2,2,8:37 AM,2:47,Powell S.FOUL (P2.PN) (K.Cutler),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,339,3,10,2,8:38 AM,2:47,,,Redick Free Throw 1 of 1 (14 PTS),57 - 55,-2,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,340,1,6,2,8:38 AM,2:30,Doncic 1' Driving Layup (4 PTS),,,57 - 57,TIE,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,341,1,6,2,8:38 AM,2:14,,,Redick 2' Driving Layup (16 PTS) (Saric 5 AST),59 - 57,-2,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,343,6,1,2,8:38 AM,2:03,,,Saric P.FOUL (P1.PN) (T.Ford),,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,345,3,11,2,8:39 AM,2:03,Kleber Free Throw 1 of 2 (13 PTS),,,59 - 58,-1,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,346,3,12,2,8:39 AM,2:03,Kleber Free Throw 2 of 2 (14 PTS),,,59 - 59,TIE,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,347,2,6,2,8:39 AM,1:47,,,MISS Fultz 2' Driving Layup,,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,348,4,0,2,8:39 AM,1:45,Matthews REBOUND (Off:0 Def:2),,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,349,2,5,2,8:39 AM,1:36,MISS Smith Jr. 7' Layup,,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,350,4,0,2,8:40 AM,1:30,,,Simmons REBOUND (Off:0 Def:4),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,351,5,1,2,8:40 AM,1:28,Doncic STEAL (2 STL),,Simmons Bad Pass Turnover (P4.T10),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,353,2,5,2,8:40 AM,1:25,MISS Smith Jr. 3' Layup,,Simmons BLOCK (1 BLK),,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0
+0011800028,355,4,0,2,8:40 AM,1:25,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,356,6,1,2,8:40 AM,1:19,,,Saric P.FOUL (P2.PN) (K.Cutler),,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,358,3,11,2,8:41 AM,1:19,Powell Free Throw 1 of 2 (6 PTS),,,59 - 60,1,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,359,3,12,2,8:41 AM,1:19,Powell Free Throw 2 of 2 (7 PTS),,,59 - 61,2,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,360,6,1,2,8:41 AM,1:10,Powell P.FOUL (P3.PN) (T.Ford),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,362,3,11,2,8:41 AM,1:10,,,Simmons Free Throw 1 of 2 (5 PTS),60 - 61,1,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,363,8,0,2,8:42 AM,1:10,SUB: Brunson FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,365,3,12,2,8:42 AM,1:10,,,Simmons Free Throw 2 of 2 (6 PTS),61 - 61,TIE,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,366,2,1,2,8:42 AM,0:54,MISS Kleber 26' 3PT Jump Shot,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,367,4,0,2,8:42 AM,0:50,,,Simmons REBOUND (Off:0 Def:5),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,368,1,1,2,8:43 AM,0:35,,,Redick 26' 3PT Jump Shot (19 PTS) (Simmons 4 AST),64 - 61,-3,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,370,6,1,2,8:43 AM,0:18,,,Fultz P.FOUL (P4.PN) (T.Ford),,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,372,3,11,2,8:43 AM,0:18,Doncic Free Throw 1 of 2 (5 PTS),,,64 - 62,-2,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,373,8,0,2,8:43 AM,0:18,,,SUB: Shamet FOR Fultz,,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,375,3,12,2,8:44 AM,0:18,MISS Doncic Free Throw 2 of 2,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,376,4,0,2,8:44 AM,0:15,Brunson REBOUND (Off:1 Def:0),,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,377,2,6,2,8:44 AM,0:05,MISS Smith Jr. 3' Driving Layup,,Saric BLOCK (2 BLK),,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0
+0011800028,379,4,0,2,8:44 AM,0:05,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,380,2,1,2,8:45 AM,0:02,MISS Smith Jr. 26' 3PT Jump Shot,,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,381,4,0,2,8:45 AM,0:00,,,Simmons REBOUND (Off:0 Def:6),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,382,13,0,2,8:45 AM,0:00,,,,64 - 62,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,393,12,0,3,9:01 AM,12:00,,,,64 - 62,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,394,2,86,3,9:02 AM,11:48,MISS Matthews 12' Turnaround Fadeaway Shot,,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,395,4,0,3,9:02 AM,11:44,,,Embiid REBOUND (Off:2 Def:5),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,397,6,1,3,9:02 AM,11:39,Powell P.FOUL (P4.T1) (T.Ford),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,399,1,86,3,9:02 AM,11:28,,,Embiid 12' Turnaround Fadeaway (13 PTS) (Fultz 2 AST),66 - 62,-4,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,401,2,1,3,9:02 AM,11:16,MISS Powell 26' 3PT Jump Shot,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,402,4,0,3,9:02 AM,11:12,Finney-Smith REBOUND (Off:1 Def:1),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,404,6,1,3,9:03 AM,11:08,,,Simmons P.FOUL (P2.T1) (T.Ford),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,406,5,4,3,9:04 AM,11:05,Doncic Traveling Turnover (P4.T10),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011800028,407,2,1,3,9:04 AM,10:53,,,MISS Saric 7' Jump Shot,,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,408,4,0,3,9:04 AM,10:51,Matthews REBOUND (Off:0 Def:3),,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,409,1,67,3,9:04 AM,10:45,Powell 7' Hook Bank Shot (9 PTS) (Doncic 3 AST),,,66 - 64,-2,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,411,5,4,3,9:04 AM,10:38,,,Simmons Traveling Turnover (P5.T11),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011800028,412,2,1,3,9:05 AM,10:20,MISS Matthews 28' 3PT Jump Shot,,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,413,4,0,3,9:05 AM,10:16,,,Simmons REBOUND (Off:0 Def:7),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,414,5,2,3,9:05 AM,10:03,Matthews STEAL (1 STL),,Embiid Lost Ball Turnover (P3.T12),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,415,6,3,3,9:05 AM,10:03,,,Embiid L.B.FOUL (P2.T2) (T.Ford),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,418,1,1,3,9:06 AM,9:42,Matthews 27' 3PT Jump Shot (8 PTS) (Smith Jr. 2 AST),,,66 - 67,1,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,420,6,1,3,9:06 AM,9:34,Powell P.FOUL (P5.T2) (K.Cutler),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,422,8,0,3,9:06 AM,9:34,SUB: Mejri FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,424,6,4,3,9:07 AM,9:26,,,Covington OFF.Foul (P3) (T.Ford),,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,426,5,37,3,9:07 AM,9:26,,,Covington Offensive Foul Turnover (P3.T13),,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011800028,427,2,79,3,9:07 AM,9:15,MISS Smith Jr. 14' Pullup Jump Shot,,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,428,4,0,3,9:07 AM,9:13,,,Simmons REBOUND (Off:0 Def:8),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,429,2,1,3,9:07 AM,8:56,,,MISS Saric 26' 3PT Jump Shot,,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,430,4,0,3,9:07 AM,8:52,Doncic REBOUND (Off:0 Def:2),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,432,6,1,3,9:08 AM,8:49,,,Fultz P.FOUL (P5.T3) (T.Brothers),,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,434,8,0,3,9:08 AM,8:49,,,SUB: Shamet FOR Fultz,,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,436,1,1,3,9:08 AM,8:43,Doncic 20' Jump Shot (7 PTS),,,66 - 69,3,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,438,6,2,3,9:08 AM,8:43,,,Embiid S.FOUL (P3.T4) (K.Cutler),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,440,3,10,3,9:09 AM,8:43,MISS Mejri Free Throw 1 of 1,,,,,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,441,4,0,3,9:09 AM,8:43,,,Saric REBOUND (Off:1 Def:2),,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,442,1,98,3,9:09 AM,8:30,,,Embiid 2' Cutting Layup Shot (15 PTS) (Simmons 5 AST),68 - 69,1,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,444,1,79,3,9:09 AM,8:18,Finney-Smith 19' Pullup Jump Shot (2 PTS) (Mejri 1 AST),,,68 - 71,3,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,466,2,5,3,9:10 AM,7:59,Smith Jr. BLOCK (1 BLK),,MISS Embiid 3' Layup,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0
+0011800028,468,4,0,3,9:10 AM,7:59,Smith Jr. REBOUND (Off:0 Def:4),,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,448,10,0,3,9:11 AM,7:47,Jump Ball Smith Jr. vs. Simmons: Tip to Saric,,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0
+0011800028,451,5,2,3,9:11 AM,7:47,Smith Jr. Lost Ball Turnover (P1.T11),,Simmons STEAL (2 STL),,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,453,1,3,3,9:11 AM,7:39,,,Embiid 2' Hook Shot (17 PTS) (Simmons 6 AST),70 - 71,1,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,455,2,5,3,9:11 AM,7:19,MISS Mejri 2' Layup,,,,,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,456,4,0,3,9:11 AM,7:18,Finney-Smith REBOUND (Off:2 Def:1),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,457,6,2,3,9:12 AM,7:16,,,Covington S.FOUL (P4.PN) (K.Cutler),,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,459,3,11,3,9:12 AM,7:16,Finney-Smith Free Throw 1 of 2 (3 PTS),,,70 - 72,2,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,460,3,12,3,9:12 AM,7:16,Finney-Smith Free Throw 2 of 2 (4 PTS),,,70 - 73,3,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,461,1,5,3,9:12 AM,7:07,,,Embiid 2' Layup (19 PTS) (Simmons 7 AST),72 - 73,1,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,463,6,1,3,9:13 AM,6:53,,,Covington P.FOUL (P5.PN) (K.Cutler),,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,465,9,1,3,9:13 AM,6:53,MAVERICKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,469,8,0,3,9:16 AM,6:53,,,SUB: Redick FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,470,8,0,3,9:16 AM,6:53,,,SUB: Muscala FOR Covington,,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,473,3,11,3,9:16 AM,6:53,Doncic Free Throw 1 of 2 (8 PTS),,,72 - 74,2,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,474,3,12,3,9:16 AM,6:53,Doncic Free Throw 2 of 2 (9 PTS),,,72 - 75,3,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,475,1,3,3,9:17 AM,6:36,,,Saric 4' Hook Shot (7 PTS),74 - 75,1,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,476,1,1,3,9:17 AM,6:16,Matthews 27' 3PT Jump Shot (11 PTS) (Smith Jr. 3 AST),,,74 - 78,4,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,478,2,1,3,9:17 AM,5:59,,,MISS Shamet 26' 3PT Jump Shot,,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,479,4,0,3,9:17 AM,5:54,Matthews REBOUND (Off:0 Def:4),,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,480,2,1,3,9:17 AM,5:51,MISS Matthews 27' 3PT Jump Shot,,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,481,4,0,3,9:18 AM,5:47,Smith Jr. REBOUND (Off:1 Def:4),,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,482,2,6,3,9:18 AM,5:43,MISS Doncic 3' Driving Layup,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,483,4,0,3,9:18 AM,5:40,Mejri REBOUND (Off:1 Def:0),,,,,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,484,10,0,3,9:18 AM,5:38,Jump Ball Mejri vs. Redick: Tip to Simmons,,,,,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0
+0011800028,487,5,2,3,9:18 AM,5:38,Mejri Lost Ball Turnover (P1.T12),,Redick STEAL (1 STL),,,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,490,1,6,3,9:19 AM,5:32,,,Simmons 1' Driving Layup (8 PTS),76 - 78,2,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,491,6,2,3,9:19 AM,5:32,Finney-Smith S.FOUL (P4.T3) (T.Ford),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,493,8,0,3,9:19 AM,5:32,SUB: Kleber FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,495,3,10,3,9:19 AM,5:32,,,Simmons Free Throw 1 of 1 (9 PTS),77 - 78,1,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,519,6,17,3,9:20 AM,5:32,,,76ers T.Foul (Def. 3 Sec Muscala ) (K.Cutler),,,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011800028,520,3,16,3,9:20 AM,5:32,MISS Matthews Free Throw Technical,,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,521,4,1,3,9:20 AM,5:32,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,499,2,1,3,9:20 AM,5:07,MISS Doncic 13' Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,500,4,0,3,9:20 AM,5:05,Doncic REBOUND (Off:1 Def:2),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,501,6,1,3,9:21 AM,5:05,,,Muscala P.FOUL (P3.PN) (K.Cutler),,,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,503,3,11,3,9:21 AM,5:05,MISS Doncic Free Throw 1 of 2,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,504,4,1,3,9:21 AM,5:05,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,506,3,12,3,9:21 AM,5:05,MISS Doncic Free Throw 2 of 2,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,507,4,0,3,9:21 AM,5:02,,,Simmons REBOUND (Off:0 Def:9),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,508,2,1,3,9:21 AM,4:48,,,MISS Muscala 16' Jump Shot,,,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,509,4,0,3,9:22 AM,4:46,Doncic REBOUND (Off:1 Def:3),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,510,2,1,3,9:22 AM,4:43,MISS Mejri 6' Jump Shot,,Muscala BLOCK (1 BLK),,,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0
+0011800028,512,4,0,3,9:22 AM,4:36,,,Shamet REBOUND (Off:1 Def:2),,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,513,1,1,3,9:22 AM,4:29,,,Redick 27' 3PT Jump Shot (22 PTS) (Simmons 8 AST),80 - 78,-2,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,515,2,1,3,9:22 AM,4:18,MISS Smith Jr. 28' 3PT Jump Shot,,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,516,4,0,3,9:22 AM,4:18,,,Saric REBOUND (Off:1 Def:3),,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,517,1,1,3,9:22 AM,4:11,,,Muscala 25' 3PT Jump Shot (3 PTS) (Simmons 9 AST),83 - 78,-5,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,522,9,1,3,9:24 AM,4:08,MAVERICKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,523,8,0,3,9:25 AM,4:08,SUB: Harris FOR Smith Jr.,,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,524,8,0,3,9:25 AM,4:08,SUB: Barea FOR Doncic,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,527,1,5,3,9:26 AM,3:51,Kleber 2' Layup (16 PTS) (Barea 5 AST),,,83 - 80,-3,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,529,2,1,3,9:26 AM,3:41,,,MISS Saric 27' 3PT Jump Shot,,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,530,4,0,3,9:26 AM,3:38,Kleber REBOUND (Off:0 Def:6),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,531,2,1,3,9:26 AM,3:27,MISS Harris 28' 3PT Jump Shot,,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,532,4,0,3,9:26 AM,3:24,,,Saric REBOUND (Off:1 Def:4),,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,533,1,1,3,9:26 AM,3:17,,,Redick 27' 3PT Jump Shot (25 PTS) (Simmons 10 AST),86 - 80,-6,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,535,8,0,3,9:27 AM,2:53,,,SUB: Embiid FOR Saric,,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,536,8,0,3,9:27 AM,2:53,,,SUB: Fultz FOR Simmons,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,539,10,0,3,9:28 AM,2:48,Jump Ball Matthews vs. Muscala: Tip to Muscala,,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0
+0011800028,542,5,2,3,9:28 AM,2:48,Matthews Lost Ball Turnover (P1.T13),,Muscala STEAL (1 STL),,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,5,203488,Mike Muscala,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,546,6,4,3,9:28 AM,2:35,,,Embiid OFF.Foul (P4) (T.Brothers),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,548,5,37,3,9:28 AM,2:35,,,Embiid Offensive Foul Turnover (P4.T14),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011800028,549,8,0,3,9:28 AM,2:35,SUB: Broekhoff FOR Matthews,,,,,4,202083,Wesley Matthews,1610612742.0,Dallas,Mavericks,DAL,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,551,5,4,3,9:28 AM,2:22,Harris Traveling Turnover (P1.T14),,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011800028,552,5,1,3,9:29 AM,2:09,Harris STEAL (1 STL),,Embiid Bad Pass Turnover (P5.T15),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,555,5,1,3,9:29 AM,1:49,Barea Bad Pass Turnover (P2.T15),,Fultz STEAL (3 STL),,,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,557,6,1,3,9:30 AM,1:48,Harris P.FOUL (P2.T4) (T.Ford),,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,559,2,3,3,9:30 AM,1:33,Kleber BLOCK (3 BLK),,MISS Embiid 5' Hook Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0
+0011800028,560,4,0,3,9:30 AM,1:31,,,Embiid REBOUND (Off:3 Def:5),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,562,6,2,3,9:30 AM,1:31,Mejri S.FOUL (P4.PN) (K.Cutler),,,,,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,564,3,11,3,9:31 AM,1:31,,,Embiid Free Throw 1 of 2 (20 PTS),87 - 80,-7,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,565,3,12,3,9:31 AM,1:31,,,Embiid Free Throw 2 of 2 (21 PTS),88 - 80,-8,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,566,1,5,3,9:31 AM,1:19,Mejri 2' Layup (5 PTS) (Barea 6 AST),,,88 - 82,-6,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,568,6,1,3,9:31 AM,1:12,Mejri P.FOUL (P5.PN) (T.Brothers),,,,,4,1626257,Salah Mejri,1610612742.0,Dallas,Mavericks,DAL,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,570,3,11,3,9:32 AM,1:12,,,MISS Embiid Free Throw 1 of 2,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,571,4,1,3,9:32 AM,1:12,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,572,3,12,3,9:32 AM,1:12,,,Embiid Free Throw 2 of 2 (22 PTS),89 - 82,-7,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,573,2,1,3,9:32 AM,1:03,MISS Kleber 27' 3PT Jump Shot,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,574,4,0,3,9:32 AM,1:00,,,Fultz REBOUND (Off:0 Def:2),,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,575,2,1,3,9:32 AM,0:54,,,MISS Embiid 27' 3PT Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,576,4,0,3,9:32 AM,0:52,Kleber REBOUND (Off:0 Def:7),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,577,2,1,3,9:33 AM,0:35,MISS Harris 27' 3PT Jump Shot,,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,578,4,0,3,9:33 AM,0:31,,,Fultz REBOUND (Off:0 Def:3),,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,581,1,1,3,9:33 AM,0:24,,,Redick  3PT Jump Shot (28 PTS) (Fultz 3 AST),92 - 82,-10,5,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,583,1,1,3,9:33 AM,0:03,Broekhoff 26' 3PT Jump Shot (3 PTS) (Barea 7 AST),,,92 - 85,-7,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,585,13,0,3,9:34 AM,0:00,,,,92 - 85,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,592,12,0,4,9:37 AM,12:00,,,,92 - 85,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,593,2,1,4,9:37 AM,11:50,,,MISS Shamet 28' 3PT Jump Shot,,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,594,4,0,4,9:37 AM,11:47,,,Embiid REBOUND (Off:4 Def:5),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,595,1,75,4,9:37 AM,11:44,,,Fultz 1' Driving Finger Roll Layup (4 PTS),94 - 85,-9,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,597,2,1,4,9:37 AM,11:28,MISS Broekhoff 26' 3PT Jump Shot,,,,,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,598,4,0,4,9:37 AM,11:25,,,Embiid REBOUND (Off:4 Def:6),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,599,1,73,4,9:37 AM,11:15,,,Shamet 3' Driving Reverse Layup (18 PTS) (Saric 6 AST),96 - 85,-11,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,601,2,1,4,9:38 AM,10:58,MISS Broekhoff 26' 3PT Jump Shot,,,,,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,602,4,0,4,9:38 AM,10:54,,,Covington REBOUND (Off:0 Def:2),,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,605,6,3,4,9:38 AM,10:44,,,Embiid L.B.FOUL (P5.T1) (T.Brothers),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,607,5,0,4,9:38 AM,10:44,,,Embiid No Turnover (P6.T16),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011800028,608,1,6,4,9:38 AM,10:30,Doncic 2' Driving Layup (11 PTS),,,96 - 87,-9,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,609,2,1,4,9:39 AM,10:18,,,MISS Shamet 26' 3PT Jump Shot,,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,610,4,0,4,9:39 AM,10:15,Doncic REBOUND (Off:1 Def:4),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,611,1,98,4,9:39 AM,10:04,Harris 3' Cutting Layup Shot (8 PTS) (Barea 8 AST),,,96 - 89,-7,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,613,9,1,4,9:39 AM,10:03,,,76ers Timeout: Regular (Reg.3 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,614,8,0,4,9:41 AM,10:03,,,SUB: McConnell FOR Fultz,,,5,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,615,8,0,4,9:41 AM,10:03,,,SUB: Bolden FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1628413,Jonah Bolden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,616,8,0,4,9:41 AM,10:03,,,SUB: Johnson FOR Saric,,,5,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,620,5,2,4,9:42 AM,9:47,Doncic STEAL (3 STL),,Bolden Lost Ball Turnover (P1.T17),,,5,1628413,Jonah Bolden,1610612755.0,Philadelphia,76ers,PHI,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,622,6,1,4,9:42 AM,9:47,,,Bolden P.FOUL (P1.T2) (T.Ford),,,5,1628413,Jonah Bolden,1610612755.0,Philadelphia,76ers,PHI,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,624,6,2,4,9:43 AM,9:38,,,Johnson S.FOUL (P1.T3) (K.Cutler),,,5,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,626,3,11,4,9:43 AM,9:38,MISS Kleber Free Throw 1 of 2,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,627,4,1,4,9:43 AM,9:38,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,628,3,12,4,9:43 AM,9:38,Kleber Free Throw 2 of 2 (17 PTS),,,96 - 90,-6,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,629,1,47,4,9:44 AM,9:17,,,McConnell 10' Turnaround Jump Shot (2 PTS),98 - 90,-8,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,630,2,105,4,9:44 AM,9:04,MISS Doncic 7' Turnaround Fadeaway Bank Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,631,4,0,4,9:44 AM,9:02,,,Covington REBOUND (Off:0 Def:3),,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,632,2,5,4,9:44 AM,8:55,Kleber BLOCK (4 BLK),,MISS Covington 3' Layup,,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0
+0011800028,634,4,0,4,9:44 AM,8:55,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,635,8,0,4,9:44 AM,8:55,,,SUB: Korkmaz FOR Covington,,,5,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,637,8,0,4,9:44 AM,8:55,SUB: Powell FOR Kleber,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,639,6,26,4,9:45 AM,8:53,,,Shamet Offensive Charge Foul (P4.T4) (T.Ford),,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,641,5,37,4,9:45 AM,8:53,,,Shamet Offensive Foul Turnover (P1.T18),,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011800028,642,6,1,4,9:45 AM,8:45,,,Korkmaz P.FOUL (P1.PN) (T.Ford),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,644,6,1,4,9:46 AM,8:40,,,McConnell P.FOUL (P1.PN) (T.Ford),,,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,646,3,11,4,9:46 AM,8:40,Barea Free Throw 1 of 2 (3 PTS),,,98 - 91,-7,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,647,3,12,4,9:46 AM,8:40,Barea Free Throw 2 of 2 (4 PTS),,,98 - 92,-6,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,648,2,1,4,9:46 AM,8:25,,,MISS McConnell 10' Jump Shot,,,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,649,4,0,4,9:46 AM,8:24,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,650,6,3,4,9:46 AM,8:24,Powell L.B.FOUL (P6.T1) (T.Ford),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,652,8,0,4,9:47 AM,8:24,SUB: Finney-Smith FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,654,2,79,4,9:47 AM,8:14,,,MISS Shamet 15' Pullup Jump Shot,,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,655,4,0,4,9:47 AM,8:12,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,656,6,3,4,9:47 AM,8:12,Broekhoff L.B.FOUL (P1.T2) (K.Cutler),,,,,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,5,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,658,2,6,4,9:48 AM,8:04,,,MISS Johnson 5' Driving Layup,,,5,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,659,4,0,4,9:48 AM,8:02,,,Johnson REBOUND (Off:1 Def:0),,,5,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,660,1,79,4,9:48 AM,8:00,,,McConnell 10' Pullup Jump Shot (4 PTS),100 - 92,-8,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,661,2,1,4,9:48 AM,7:45,MISS Finney-Smith 28' 3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,662,4,0,4,9:48 AM,7:42,,,Bolden REBOUND (Off:0 Def:1),,,5,1628413,Jonah Bolden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,663,2,3,4,9:48 AM,7:35,,,MISS Johnson 8' Hook Shot,,,5,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,664,4,0,4,9:48 AM,7:33,Broekhoff REBOUND (Off:2 Def:1),,,,,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,665,1,1,4,9:48 AM,7:27,Harris 26' 3PT Jump Shot (11 PTS) (Barea 9 AST),,,100 - 95,-5,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,667,9,1,4,9:49 AM,7:26,,,76ers Timeout: Regular (Reg.4 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,668,2,3,4,9:52 AM,7:18,,,MISS Korkmaz 11' Hook Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,669,4,0,4,9:52 AM,7:16,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,670,6,3,4,9:52 AM,7:16,,,Johnson L.B.FOUL (P2.PN) (T.Ford),,,5,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,672,3,11,4,9:52 AM,7:16,MISS Broekhoff Free Throw 1 of 2,,,,,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,673,4,1,4,9:52 AM,7:16,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,674,3,12,4,9:53 AM,7:16,Broekhoff Free Throw 2 of 2 (4 PTS),,,100 - 96,-4,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,675,2,1,4,9:53 AM,7:09,,,MISS Bolden 26' 3PT Jump Shot,,,5,1628413,Jonah Bolden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,676,4,0,4,9:53 AM,7:05,Finney-Smith REBOUND (Off:2 Def:2),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,677,2,101,4,9:53 AM,6:53,MISS Harris 8' Driving Floating Jump Shot,,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,678,4,0,4,9:53 AM,6:52,,,Korkmaz REBOUND (Off:0 Def:1),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,679,1,47,4,9:53 AM,6:34,,,Bolden 10' Turnaround Jump Shot (2 PTS),102 - 96,-6,5,1628413,Jonah Bolden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,680,2,1,4,9:54 AM,6:20,MISS Barea 25' 3PT Jump Shot,,,,,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,681,4,0,4,9:54 AM,6:18,,,Johnson REBOUND (Off:1 Def:1),,,5,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,682,1,79,4,9:54 AM,6:09,,,McConnell 7' Pullup Jump Shot (6 PTS),104 - 96,-8,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,683,9,1,4,9:54 AM,6:09,MAVERICKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,684,8,0,4,9:55 AM,6:09,,,SUB: Milton FOR Shamet,,,5,1629013,Landry Shamet,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,686,8,0,4,9:55 AM,6:09,SUB: Smith Jr. FOR Barea,,,,,4,200826,J.J. Barea,1610612742.0,Dallas,Mavericks,DAL,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,687,8,0,4,9:55 AM,6:09,SUB: Brunson FOR Harris,,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,688,8,0,4,9:55 AM,6:09,SUB: Kleber FOR Broekhoff,,,,,4,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,692,5,1,4,9:55 AM,6:03,Finney-Smith Bad Pass Turnover (P1.T16),,McConnell STEAL (1 STL),,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,694,2,1,4,9:56 AM,5:57,,,MISS McConnell 21' Jump Shot,,,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,695,4,0,4,9:56 AM,5:55,Doncic REBOUND (Off:1 Def:5),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,696,1,6,4,9:56 AM,5:36,Brunson 2' Driving Layup (4 PTS),,,104 - 98,-6,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,697,2,1,4,9:56 AM,5:25,,,MISS Milton 26' 3PT Jump Shot,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,698,4,0,4,9:56 AM,5:23,Finney-Smith REBOUND (Off:2 Def:3),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,699,5,1,4,9:56 AM,5:08,Finney-Smith Bad Pass Turnover (P2.T17),,Korkmaz STEAL (1 STL),,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,701,2,6,4,9:57 AM,4:59,,,MISS McConnell 7' Driving Layup,,,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,702,4,0,4,9:57 AM,4:56,,,Bolden REBOUND (Off:1 Def:1),,,5,1628413,Jonah Bolden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,703,1,1,4,9:57 AM,4:55,,,Korkmaz 26' 3PT Jump Shot (3 PTS) (Bolden 1 AST),107 - 98,-9,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1628413,Jonah Bolden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,705,2,1,4,9:57 AM,4:37,MISS Doncic 28' 3PT Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,706,4,0,4,9:57 AM,4:35,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,707,8,0,4,9:57 AM,4:35,SUB: Macon FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,1629133,Daryl Macon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,709,2,1,4,9:58 AM,4:22,,,MISS Korkmaz 20' Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,710,4,0,4,9:58 AM,4:20,Brunson REBOUND (Off:1 Def:1),,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,711,9,1,4,9:58 AM,4:20,MAVERICKS Timeout: Regular (Full 6 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,712,8,0,4,9:59 AM,4:20,SUB: Antetokounmpo FOR Kleber,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1628961,Kostas Antetokounmpo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,713,8,0,4,9:59 AM,4:20,SUB: Spalding FOR Doncic,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,1629034,Ray Spalding,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,716,1,6,4,10:00 AM,4:05,Smith Jr. 1' Driving Layup (20 PTS) (Brunson 1 AST),,,107 - 100,-7,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,718,1,1,4,10:00 AM,3:50,,,Korkmaz 25' 3PT Jump Shot (6 PTS) (Milton 1 AST),110 - 100,-10,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,720,1,43,4,10:00 AM,3:37,Antetokounmpo 3' Alley Oop Layup (2 PTS) (Smith Jr. 4 AST),,,110 - 102,-8,4,1628961,Kostas Antetokounmpo,1610612742.0,Dallas,Mavericks,DAL,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,722,6,2,4,10:00 AM,3:22,Smith Jr. S.FOUL (P1.T3) (T.Ford),,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,5,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,724,3,11,4,10:01 AM,3:22,,,Johnson Free Throw 1 of 2 (1 PTS),111 - 102,-9,5,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,725,3,12,4,10:01 AM,3:22,,,Johnson Free Throw 2 of 2 (2 PTS),112 - 102,-10,5,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,726,6,1,4,10:01 AM,3:12,,,Bolden P.FOUL (P2.PN) (T.Ford),,,5,1628413,Jonah Bolden,1610612755.0,Philadelphia,76ers,PHI,4,1628961,Kostas Antetokounmpo,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,728,3,11,4,10:02 AM,3:12,MISS Antetokounmpo Free Throw 1 of 2,,,,,4,1628961,Kostas Antetokounmpo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,729,4,1,4,10:02 AM,3:12,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,730,3,12,4,10:02 AM,3:12,Antetokounmpo Free Throw 2 of 2 (3 PTS),,,112 - 103,-9,4,1628961,Kostas Antetokounmpo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,731,5,1,4,10:02 AM,3:03,Antetokounmpo STEAL (1 STL),,Bolden Bad Pass Turnover (P2.T19),,,5,1628413,Jonah Bolden,1610612755.0,Philadelphia,76ers,PHI,4,1628961,Kostas Antetokounmpo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,734,1,5,4,10:03 AM,2:57,Brunson 3' Layup (6 PTS) (Smith Jr. 5 AST),,,112 - 105,-7,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,736,2,1,4,10:03 AM,2:51,,,MISS Korkmaz 24' 3PT Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,737,4,0,4,10:03 AM,2:45,,,McConnell REBOUND (Off:1 Def:0),,,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,738,1,44,4,10:03 AM,2:41,,,Korkmaz 1' Reverse Layup (8 PTS) (McConnell 1 AST),114 - 105,-9,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,740,2,6,4,10:03 AM,2:32,MISS Brunson 3' Driving Layup,,McConnell BLOCK (1 BLK),,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0
+0011800028,742,4,0,4,10:03 AM,2:29,,,McConnell REBOUND (Off:1 Def:1),,,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,743,6,1,4,10:03 AM,2:28,Smith Jr. P.FOUL (P2.T4) (K.Cutler),,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1628413,Jonah Bolden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,745,1,1,4,10:03 AM,2:17,,,Bolden 27' 3PT Jump Shot (5 PTS) (Milton 2 AST),117 - 105,-12,5,1628413,Jonah Bolden,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011800028,747,1,1,4,10:04 AM,2:04,Macon 26' 3PT Jump Shot (3 PTS),,,117 - 108,-9,4,1629133,Daryl Macon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,748,5,2,4,10:04 AM,1:47,Brunson STEAL (1 STL),,Bolden Lost Ball Turnover (P3.T20),,,5,1628413,Jonah Bolden,1610612755.0,Philadelphia,76ers,PHI,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,750,6,2,4,10:04 AM,1:39,,,Milton S.FOUL (P1.PN) (K.Cutler),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1628961,Kostas Antetokounmpo,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,752,3,11,4,10:05 AM,1:39,MISS Antetokounmpo Free Throw 1 of 2,,,,,4,1628961,Kostas Antetokounmpo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,753,4,1,4,10:05 AM,1:39,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,754,8,0,4,10:05 AM,1:39,SUB: Miller-McIntyre FOR Smith Jr.,,,,,4,1628372,Dennis Smith Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629149,Codi Miller-McIntyre,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,756,3,12,4,10:05 AM,1:39,Antetokounmpo Free Throw 2 of 2 (4 PTS),,,117 - 109,-8,4,1628961,Kostas Antetokounmpo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,757,5,2,4,10:05 AM,1:29,Brunson STEAL (2 STL),,Korkmaz Lost Ball Turnover (P1.T21),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,759,1,6,4,10:05 AM,1:27,Brunson 1' Driving Layup (8 PTS),,,117 - 111,-6,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,760,6,2,4,10:05 AM,1:12,Antetokounmpo S.FOUL (P1.PN) (K.Cutler),,,,,4,1628961,Kostas Antetokounmpo,1610612742.0,Dallas,Mavericks,DAL,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011800028,762,3,11,4,10:06 AM,1:12,,,McConnell Free Throw 1 of 2 (7 PTS),118 - 111,-7,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,763,3,12,4,10:06 AM,1:12,,,MISS McConnell Free Throw 2 of 2,,,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,764,4,0,4,10:06 AM,1:09,Spalding REBOUND (Off:0 Def:1),,,,,4,1629034,Ray Spalding,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,765,1,52,4,10:06 AM,0:57,Antetokounmpo 2' Alley Oop Dunk (6 PTS) (Macon 1 AST),,,118 - 113,-5,4,1628961,Kostas Antetokounmpo,1610612742.0,Dallas,Mavericks,DAL,4,1629133,Daryl Macon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,767,5,1,4,10:07 AM,0:41,Spalding STEAL (1 STL),,McConnell Bad Pass Turnover (P1.T22),,,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,4,1629034,Ray Spalding,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011800028,769,6,1,4,10:07 AM,0:40,,,Johnson P.FOUL (P3.PN) (T.Ford),,,5,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011800028,771,3,11,4,10:07 AM,0:40,MISS Brunson Free Throw 1 of 2,,,,,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,772,4,1,4,10:07 AM,0:40,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,773,3,12,4,10:08 AM,0:40,Brunson Free Throw 2 of 2 (9 PTS),,,118 - 114,-4,4,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,774,2,6,4,10:08 AM,0:19,,,MISS McConnell 4' Driving Layup,,,5,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,775,4,0,4,10:08 AM,0:17,,,Bolden REBOUND (Off:2 Def:1),,,5,1628413,Jonah Bolden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,776,2,1,4,10:08 AM,0:14,,,MISS Milton 25' 3PT Jump Shot,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,777,4,0,4,10:08 AM,0:13,,,Johnson REBOUND (Off:2 Def:1),,,5,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,778,1,97,4,10:08 AM,0:11,,,Johnson 2' Tip Layup Shot (4 PTS),120 - 114,-6,5,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,779,9,1,4,10:08 AM,0:11,MAVERICKS Timeout: Regular (Full 7 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011800028,780,2,6,4,10:10 AM,0:04,MISS Macon 2' Driving Layup,,,,,4,1629133,Daryl Macon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011800028,781,4,0,4,10:10 AM,0:00,,,Milton REBOUND (Off:0 Def:1),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011800028,782,13,0,4,10:10 AM,0:00,,,,120 - 114,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
