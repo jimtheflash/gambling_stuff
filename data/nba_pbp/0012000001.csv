@@ -1,0 +1,542 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012000001,2,12,0,1,7:11 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,4,10,0,1,7:11 PM,12:00,Jump Ball Capela vs. Vucevic: Tip to Young,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1
+0012000001,7,5,1,1,7:11 PM,11:46,Young Bad Pass Turnover (P1.T1),,Fournier STEAL (1 STL),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,9,2,63,1,7:11 PM,11:27,,,MISS Fournier  3PT Fadeaway Jumper,,,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,10,4,0,1,7:11 PM,11:23,Capela REBOUND (Off:0 Def:1),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,11,6,2,1,7:11 PM,11:21,,,Vucevic S.FOUL (P1.T1) (K.Scott),,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,13,3,13,1,7:12 PM,11:21,Hunter Free Throw 1 of 3 (1 PTS),,,0 - 1,1,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0012000001,14,3,14,1,7:12 PM,11:21,Hunter Free Throw 2 of 3 (2 PTS),,,0 - 2,2,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,15,3,15,1,7:12 PM,11:21,Hunter Free Throw 3 of 3 (3 PTS),,,0 - 3,3,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,16,1,1,1,7:12 PM,11:05,,,Fournier 25' 3PT Jump Shot (3 PTS) (Vucevic 1 AST),3 - 3,TIE,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,18,1,47,1,7:13 PM,10:42,Bogdanovic 14' Turnaround Jump Shot (2 PTS),,,3 - 5,2,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,19,2,1,1,7:13 PM,10:29,,,MISS Vucevic 25' 3PT Jump Shot,,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,20,4,0,1,7:13 PM,10:27,Bogdanovic REBOUND (Off:0 Def:1),,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,22,1,52,1,7:14 PM,10:16,Capela 2' Alley Oop Dunk (2 PTS) (Young 1 AST),,,3 - 7,4,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,24,1,1,1,7:14 PM,10:00,,,Gordon 26' 3PT Jump Shot (3 PTS) (Vucevic 2 AST),6 - 7,1,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,26,5,1,1,7:14 PM,9:47,Capela Bad Pass Turnover (P1.T2),,Bacon STEAL (1 STL),,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,28,1,50,1,7:14 PM,9:42,,,Bacon 1' Running Dunk (2 PTS) (Gordon 1 AST),8 - 7,-1,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,31,5,1,1,7:15 PM,9:26,Young Bad Pass Turnover (P2.T3),,Fournier STEAL (2 STL),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,33,1,41,1,7:15 PM,9:23,,,Fournier 1' Running Layup (5 PTS),10 - 7,-3,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,34,6,2,1,7:15 PM,9:23,Young S.FOUL (P1.T1) (K.Scott),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,36,3,10,1,7:15 PM,9:23,,,Fournier Free Throw 1 of 1 (6 PTS),11 - 7,-4,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,37,6,1,1,7:15 PM,9:09,,,Fournier P.FOUL (P1.T2) (S.Wall),,,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,39,6,2,1,7:16 PM,9:02,,,Fultz S.FOUL (P1.T3) (S.Wall),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,41,3,11,1,7:16 PM,9:02,Young Free Throw 1 of 2 (1 PTS),,,11 - 8,-3,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,42,3,12,1,7:16 PM,9:02,Young Free Throw 2 of 2 (2 PTS),,,11 - 9,-2,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,43,6,1,1,7:17 PM,8:55,Young P.FOUL (P2.T2) (S.Wall),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,45,2,79,1,7:17 PM,8:46,,,MISS Gordon 16' Pullup Jump Shot,,,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,46,4,0,1,7:17 PM,8:42,Capela REBOUND (Off:0 Def:2),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,47,2,43,1,7:17 PM,8:33,MISS Capela 1' Alley Oop Layup,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,48,4,0,1,7:17 PM,8:30,,,Vucevic REBOUND (Off:0 Def:1),,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,49,1,79,1,7:17 PM,8:24,,,Bacon 18' Pullup Jump Shot (4 PTS) (Vucevic 3 AST),13 - 9,-4,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,51,2,1,1,7:18 PM,8:03,MISS Hunter  3PT Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,52,4,0,1,7:18 PM,8:01,,,Fultz REBOUND (Off:0 Def:1),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,53,2,1,1,7:18 PM,7:57,,,MISS Vucevic 26' 3PT Jump Shot,,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,54,4,0,1,7:18 PM,7:53,,,Gordon REBOUND (Off:1 Def:0),,,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,55,1,107,1,7:18 PM,7:53,,,Gordon  Tip Dunk Shot (5 PTS),15 - 9,-6,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,56,9,1,1,7:18 PM,7:53,HAWKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,58,2,1,1,7:22 PM,7:30,MISS Bogdanovic 25' 3PT Jump Shot,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,59,4,0,1,7:22 PM,7:26,Capela REBOUND (Off:1 Def:2),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,60,2,1,1,7:22 PM,7:23,MISS Hunter 25' 3PT Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,61,4,0,1,7:22 PM,7:20,,,Vucevic REBOUND (Off:0 Def:2),,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,62,1,41,1,7:22 PM,7:15,,,Fournier 3' Running Layup (8 PTS) (Gordon 2 AST),17 - 9,-8,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,64,2,1,1,7:22 PM,6:52,MISS Bogdanovic 25' 3PT Jump Shot,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,65,4,0,1,7:22 PM,6:49,,,Vucevic REBOUND (Off:0 Def:3),,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,66,1,79,1,7:22 PM,6:40,,,Bacon 20' Pullup Jump Shot (6 PTS) (Gordon 3 AST),19 - 9,-10,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,68,2,79,1,7:23 PM,6:23,MISS Bogdanovic 17' Pullup Jump Shot,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,69,4,0,1,7:23 PM,6:21,Capela REBOUND (Off:2 Def:2),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,70,1,44,1,7:23 PM,6:18,Capela 1' Reverse Layup (4 PTS),,,19 - 11,-8,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,71,6,1,1,7:23 PM,6:00,Hunter P.FOUL (P1.T3) (J.Schroeder),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,73,8,0,1,7:23 PM,6:00,SUB: Reddish FOR Bogdanovic,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,74,8,0,1,7:23 PM,6:00,SUB: Gallinari FOR Collins,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,77,5,1,1,7:24 PM,5:56,Gallinari STEAL (1 STL),,Fournier Bad Pass Turnover (P1.T1),,,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,79,2,101,1,7:24 PM,5:52,MISS Young 6' Driving Floating Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,80,4,0,1,7:24 PM,5:49,,,Vucevic REBOUND (Off:0 Def:4),,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,81,6,2,1,7:24 PM,5:45,Reddish S.FOUL (P1.T4) (S.Wall),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,83,3,11,1,7:24 PM,5:45,,,Gordon Free Throw 1 of 2 (6 PTS),20 - 11,-9,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,84,3,12,1,7:25 PM,5:45,,,Gordon Free Throw 2 of 2 (7 PTS),21 - 11,-10,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,85,2,101,1,7:25 PM,5:25,MISS Young 12' Driving Floating Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,86,4,0,1,7:25 PM,5:22,,,Vucevic REBOUND (Off:0 Def:5),,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,87,2,78,1,7:25 PM,5:15,,,MISS Vucevic 11' Floating Jump Shot,,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,88,4,0,1,7:25 PM,5:11,Reddish REBOUND (Off:0 Def:1),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,89,2,1,1,7:25 PM,5:05,MISS Gallinari 25' 3PT Jump Shot,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,90,4,0,1,7:25 PM,5:02,Capela REBOUND (Off:3 Def:2),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,92,8,0,1,7:25 PM,5:02,SUB: Huerter FOR Young,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,93,8,0,1,7:25 PM,5:02,SUB: Fernando FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,94,8,0,1,7:25 PM,5:02,SUB: Goodwin FOR Capela,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,95,8,0,1,7:25 PM,5:02,,,SUB: Carter-Williams FOR Bacon,,,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,100,2,102,1,7:26 PM,4:55,MISS Huerter 3' Driving Floating Bank Jump Shot,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,101,4,0,1,7:26 PM,4:51,,,Vucevic REBOUND (Off:0 Def:6),,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,102,1,41,1,7:26 PM,4:48,,,Gordon 2' Running Layup (9 PTS),23 - 11,-12,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,104,6,2,1,7:26 PM,4:48,Huerter S.FOUL (P1.PN) (J.Schroeder),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,106,3,10,1,7:27 PM,4:48,,,Gordon Free Throw 1 of 1 (10 PTS),24 - 11,-13,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,107,5,45,1,7:27 PM,4:33,Reddish Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,108,2,6,1,7:27 PM,4:16,,,MISS Carter-Williams 8' Driving Layup,,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,109,4,0,1,7:28 PM,4:12,Reddish REBOUND (Off:0 Def:2),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,110,1,79,1,7:28 PM,4:08,Reddish 19' Pullup Jump Shot (2 PTS),,,24 - 13,-11,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,111,1,78,1,7:28 PM,3:53,,,Fultz 9' Floating Jump Shot (2 PTS),26 - 13,-13,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,112,2,1,1,7:28 PM,3:35,MISS Huerter 26' 3PT Jump Shot,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,113,4,0,1,7:28 PM,3:32,Fernando REBOUND (Off:1 Def:0),,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,114,2,5,1,7:28 PM,3:31,MISS Fernando 1' Layup,,Carter-Williams BLOCK (1 BLK),,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,1
+0012000001,116,4,0,1,7:28 PM,3:31,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,117,8,0,1,7:28 PM,3:31,,,SUB: Anthony FOR Gordon,,,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,118,8,0,1,7:28 PM,3:31,,,SUB: Clark FOR Fultz,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,5,1629109,Gary Clark,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,121,2,1,1,7:29 PM,3:24,MISS Reddish 25' 3PT Jump Shot,,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,122,4,0,1,7:29 PM,3:20,,,Vucevic REBOUND (Off:0 Def:7),,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,123,2,101,1,7:29 PM,3:13,,,MISS Anthony 14' Driving Floating Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,124,4,0,1,7:29 PM,3:10,Fernando REBOUND (Off:1 Def:1),,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,125,5,4,1,7:29 PM,3:02,Huerter Traveling Turnover (P1.T5),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000001,126,9,1,1,7:29 PM,3:02,,,Magic Timeout: Regular (Reg.1 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,127,8,0,1,7:31 PM,3:02,,,SUB: Birch FOR Vucevic,,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,129,2,1,1,7:32 PM,2:49,,,MISS Fournier 26' 3PT Jump Shot,,,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,130,4,0,1,7:32 PM,2:45,Fernando REBOUND (Off:1 Def:2),,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,131,2,6,1,7:33 PM,2:30,MISS Goodwin 3' Driving Layup,,,,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,132,4,0,1,7:33 PM,2:26,,,Fournier REBOUND (Off:0 Def:1),,,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,133,5,2,1,7:33 PM,2:17,Reddish STEAL (1 STL),,Birch Lost Ball Turnover (P1.T2),,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,135,1,6,1,7:33 PM,2:13,Fernando 1' Driving Layup (2 PTS) (Huerter 1 AST),,,26 - 15,-11,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,137,5,7,1,7:33 PM,2:04,,,Anthony Discontinue Dribble Turnover (P1.T3),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012000001,138,8,0,1,7:33 PM,2:04,,,SUB: Bacon FOR Fournier,,,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,140,1,1,1,7:33 PM,1:53,Gallinari 26' 3PT Jump Shot (3 PTS) (Huerter 2 AST),,,26 - 18,-8,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,142,1,6,1,7:34 PM,1:32,,,Bacon 7' Driving Layup (8 PTS),28 - 18,-10,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,143,1,1,1,7:34 PM,1:17,Gallinari 16' Jump Shot (5 PTS) (Goodwin 1 AST),,,28 - 20,-8,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,145,2,79,1,7:34 PM,0:59,,,MISS Carter-Williams 20' Pullup Jump Shot,,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,146,4,0,1,7:34 PM,0:57,Gallinari REBOUND (Off:0 Def:1),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,147,2,1,1,7:35 PM,0:50,MISS Gallinari 25' 3PT Jump Shot,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,148,4,0,1,7:35 PM,0:46,,,Anthony REBOUND (Off:0 Def:1),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,149,1,101,1,7:35 PM,0:33,,,Bacon 13' Driving Floating Jump Shot (10 PTS),30 - 20,-10,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,150,6,2,1,7:35 PM,0:33,Fernando S.FOUL (P1.PN) (J.Schroeder),,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,152,3,10,1,7:35 PM,0:33,,,Bacon Free Throw 1 of 1 (11 PTS),31 - 20,-11,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0012000001,153,5,2,1,7:36 PM,0:18,Reddish Lost Ball Turnover (P2.T6),,Birch STEAL (1 STL),,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,155,2,1,1,7:36 PM,0:13,,,MISS Clark 25' 3PT Jump Shot,,,5,1629109,Gary Clark,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,156,4,0,1,7:36 PM,0:10,Fernando REBOUND (Off:1 Def:3),,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,157,1,1,1,7:36 PM,0:01,Goodwin 26' 3PT Jump Shot (3 PTS) (Reddish 1 AST),,,31 - 23,-8,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,159,13,0,1,7:36 PM,0:00,,,,31 - 23,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012000001,166,12,0,2,7:39 PM,12:00,,,,31 - 23,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,167,2,5,2,7:39 PM,11:48,Huerter BLOCK (1 BLK),,MISS Carter-Williams 7' Layup,,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,1
+0012000001,169,4,0,2,7:39 PM,11:47,,,Birch REBOUND (Off:1 Def:0),,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,170,2,5,2,7:39 PM,11:47,Collins BLOCK (1 BLK),,MISS Birch 3' Layup,,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1
+0012000001,172,4,0,2,7:39 PM,11:45,Gallinari REBOUND (Off:0 Def:2),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,173,7,5,2,7:39 PM,11:41,,,Carter-Williams Violation:Kicked Ball (S.Wall),,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0012000001,174,1,1,2,7:40 PM,11:29,Huerter 25' 3PT Jump Shot (3 PTS) (Bogdanovic 1 AST),,,31 - 26,-5,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,176,2,101,2,7:40 PM,11:13,,,MISS Bacon 12' Driving Floating Jump Shot,,,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,177,4,0,2,7:40 PM,11:07,Gallinari REBOUND (Off:0 Def:3),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,178,2,101,2,7:40 PM,11:03,MISS Bogdanovic 6' Driving Floating Jump Shot,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,179,4,0,2,7:40 PM,11:03,Bogdanovic REBOUND (Off:1 Def:1),,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,180,6,2,2,7:40 PM,11:03,,,Anthony S.FOUL (P1.T1) (K.Scott),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,182,3,11,2,7:40 PM,11:03,Bogdanovic Free Throw 1 of 2 (3 PTS),,,31 - 27,-4,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0012000001,183,3,12,2,7:41 PM,11:03,Bogdanovic Free Throw 2 of 2 (4 PTS),,,31 - 28,-3,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,184,2,1,2,7:41 PM,10:43,,,MISS Carter-Williams 26' 3PT Jump Shot,,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,185,4,0,2,7:41 PM,10:40,Reddish REBOUND (Off:0 Def:3),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,186,5,2,2,7:41 PM,10:28,Collins Lost Ball Turnover (P1.T7),,Bacon STEAL (2 STL),,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,188,6,28,2,7:41 PM,10:28,Collins Personal Take Foul (P1.T1) (S.Wall),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,190,6,2,2,7:42 PM,10:10,Gallinari S.FOUL (P1.T2) (J.Schroeder),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,192,3,11,2,7:42 PM,10:10,,,MISS Carter-Williams Free Throw 1 of 2,,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,193,4,1,2,7:42 PM,10:10,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,194,3,12,2,7:42 PM,10:10,,,Carter-Williams Free Throw 2 of 2 (1 PTS),32 - 28,-4,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0012000001,195,1,98,2,7:43 PM,9:58,Reddish 1' Cutting Layup Shot (4 PTS) (Collins 1 AST),,,32 - 30,-2,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,197,9,1,2,7:43 PM,9:58,,,Magic Timeout: Regular (Reg.2 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,198,8,0,2,7:45 PM,9:58,SUB: Young FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,199,8,0,2,7:45 PM,9:58,SUB: Hunter FOR Gallinari,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,202,2,79,2,7:46 PM,9:48,,,MISS Anthony 17' Pullup Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,203,4,0,2,7:46 PM,9:45,Young REBOUND (Off:0 Def:1),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,204,6,2,2,7:46 PM,9:35,,,Carter-Williams S.FOUL (P1.T2) (J.Schroeder),,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,206,3,11,2,7:47 PM,9:35,Collins Free Throw 1 of 2 (1 PTS),,,32 - 31,-1,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0012000001,207,3,12,2,7:47 PM,9:35,Collins Free Throw 2 of 2 (2 PTS),,,32 - 32,TIE,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,208,2,6,2,7:47 PM,9:24,,,MISS Anthony 1' Driving Layup,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,209,4,0,2,7:47 PM,9:19,,,Birch REBOUND (Off:2 Def:0),,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,210,1,97,2,7:47 PM,9:19,,,Birch  Tip Layup Shot (2 PTS),34 - 32,-2,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,211,2,6,2,7:47 PM,9:08,MISS Hunter 5' Driving Layup,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,212,4,0,2,7:47 PM,9:05,Hunter REBOUND (Off:1 Def:0),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,213,2,72,2,7:47 PM,9:03,MISS Hunter 3' Putback Layup,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,214,4,0,2,7:47 PM,9:01,,,Clark REBOUND (Off:0 Def:1),,,5,1629109,Gary Clark,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,215,5,1,2,7:47 PM,8:55,Bogdanovic STEAL (1 STL),,Clark Bad Pass Turnover (P1.T4),,,5,1629109,Gary Clark,1610612753.0,Orlando,Magic,ORL,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,217,6,2,2,7:48 PM,8:49,,,Anthony S.FOUL (P2.T3) (K.Scott),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,219,3,11,2,7:48 PM,8:49,MISS Hunter Free Throw 1 of 2,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,220,4,1,2,7:48 PM,8:49,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,225,3,12,2,7:48 PM,8:49,MISS Hunter Free Throw 2 of 2,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,221,8,0,2,7:48 PM,8:49,SUB: Capela FOR Collins,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,222,8,0,2,7:48 PM,8:49,SUB: S. Hill FOR Reddish,,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,226,4,0,2,7:48 PM,8:46,,,Birch REBOUND (Off:2 Def:1),,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,227,2,79,2,7:49 PM,8:27,Hunter BLOCK (1 BLK),,MISS Bacon 26' 3PT Pullup Jump Shot,,,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1
+0012000001,229,4,0,2,7:49 PM,8:24,Bogdanovic REBOUND (Off:1 Def:2),,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,230,2,78,2,7:49 PM,8:22,MISS Young 10' Floating Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,231,4,0,2,7:49 PM,8:18,,,Birch REBOUND (Off:2 Def:2),,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,232,5,2,2,7:49 PM,8:08,S. Hill STEAL (1 STL),,Birch Lost Ball Turnover (P2.T5),,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,234,2,1,2,7:49 PM,8:01,MISS S. Hill 25' 3PT Jump Shot,,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,235,4,0,2,7:49 PM,7:57,,,Birch REBOUND (Off:2 Def:3),,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,236,5,4,2,7:49 PM,7:50,,,Bacon Traveling Turnover (P1.T6),,,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012000001,237,8,0,2,7:49 PM,7:50,,,SUB: Gordon FOR Carter-Williams,,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,238,8,0,2,7:49 PM,7:50,,,SUB: Fultz FOR Clark,,,5,1629109,Gary Clark,1610612753.0,Orlando,Magic,ORL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,241,2,1,2,7:50 PM,7:36,MISS Bogdanovic 25' 3PT Jump Shot,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,242,4,0,2,7:50 PM,7:33,,,Bacon REBOUND (Off:0 Def:1),,,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,243,2,1,2,7:50 PM,7:26,,,MISS Bacon 25' 3PT Jump Shot,,,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,244,4,0,2,7:50 PM,7:23,Bogdanovic REBOUND (Off:1 Def:3),,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,245,2,80,2,7:50 PM,7:16,MISS Bogdanovic 10' Step Back Jump Shot,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,246,4,0,2,7:50 PM,7:13,Capela REBOUND (Off:4 Def:2),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,247,6,1,2,7:50 PM,7:13,,,Birch P.FOUL (P1.T4) (S.Wall),,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,249,1,102,2,7:51 PM,7:05,Hunter 10' Driving Floating Bank Jump Shot (5 PTS) (Young 2 AST),,,34 - 34,TIE,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,251,1,79,2,7:51 PM,6:50,,,Anthony 19' Pullup Jump Shot (2 PTS) (Gordon 4 AST),36 - 34,-2,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,252,1,79,2,7:51 PM,6:39,Young 17' Pullup Jump Shot (4 PTS) (S. Hill 1 AST),,,36 - 36,TIE,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,254,5,40,2,7:51 PM,6:28,,,Fultz Out of Bounds Lost Ball Turnover (P1.T7),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012000001,255,8,0,2,7:51 PM,6:28,,,SUB: Vucevic FOR Birch,,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,257,1,1,2,7:52 PM,6:13,Hunter  3PT Jump Shot (8 PTS) (Young 3 AST),,,36 - 39,3,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,259,1,9,2,7:52 PM,5:57,,,Gordon 1' Driving Dunk (12 PTS) (Anthony 1 AST),38 - 39,1,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,261,5,45,2,7:52 PM,5:48,Young Out of Bounds - Bad Pass Turnover Turnover (P3.T8),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000001,262,8,0,2,7:52 PM,5:48,,,SUB: Fournier FOR Bacon,,,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,264,2,1,2,7:53 PM,5:29,,,MISS Gordon  3PT Jump Shot,,,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,265,4,0,2,7:53 PM,5:21,,,Vucevic REBOUND (Off:1 Def:7),,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,266,1,1,2,7:53 PM,5:20,,,Fultz 27' 3PT Jump Shot (5 PTS) (Fournier 1 AST),41 - 39,-2,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,268,1,47,2,7:53 PM,5:04,Bogdanovic 7' Turnaround Jump Shot (6 PTS),,,41 - 41,TIE,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,269,2,1,2,7:53 PM,4:54,,,MISS Anthony  3PT Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,270,4,0,2,7:54 PM,4:51,Capela REBOUND (Off:4 Def:3),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,271,6,1,2,7:54 PM,4:42,,,Anthony P.FOUL (P3.PN) (S.Wall),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,273,3,11,2,7:54 PM,4:42,MISS Young Free Throw 1 of 2,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,274,4,1,2,7:54 PM,4:42,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,275,8,0,2,7:54 PM,4:42,SUB: Huerter FOR Bogdanovic,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,276,8,0,2,7:54 PM,4:42,,,SUB: Carter-Williams FOR Anthony,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,279,3,12,2,7:54 PM,4:42,Young Free Throw 2 of 2 (5 PTS),,,41 - 42,1,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,280,1,79,2,7:55 PM,4:18,,,Fournier 26' 3PT Pullup Jump Shot (11 PTS),44 - 42,-2,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,281,2,101,2,7:55 PM,4:06,MISS Young 13' Driving Floating Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,282,4,0,2,7:55 PM,4:03,,,Fultz REBOUND (Off:0 Def:2),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,283,2,1,2,7:55 PM,3:49,,,MISS Carter-Williams 26' 3PT Jump Shot,,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,284,4,0,2,7:55 PM,3:46,Capela REBOUND (Off:4 Def:4),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,285,2,79,2,7:56 PM,3:35,MISS Huerter 5' Pullup Jump Shot,,Carter-Williams BLOCK (2 BLK),,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,1
+0012000001,287,4,0,2,7:56 PM,3:35,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,289,8,0,2,7:56 PM,3:35,SUB: Gallinari FOR Young,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,290,8,0,2,7:56 PM,3:35,SUB: Reddish FOR Capela,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,291,8,0,2,7:56 PM,3:35,SUB: Collins FOR S. Hill,,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,295,2,1,2,7:56 PM,3:28,MISS Reddish 17' Jump Shot,,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,296,4,0,2,7:56 PM,3:25,,,Gordon REBOUND (Off:1 Def:1),,,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,297,1,47,2,7:56 PM,3:20,,,Vucevic 13' Turnaround Jump Shot (2 PTS) (Gordon 5 AST),46 - 42,-4,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,299,6,4,2,7:57 PM,3:10,Collins OFF.Foul (P2) (K.Scott),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,301,5,37,2,7:57 PM,3:10,Collins Offensive Foul Turnover (P2.T9),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000001,302,2,79,2,7:57 PM,2:59,,,MISS Fournier 17' Pullup Jump Shot,,,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,303,4,0,2,7:57 PM,2:55,Collins REBOUND (Off:0 Def:1),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,304,6,2,2,7:57 PM,2:50,,,Fournier S.FOUL (P2.PN) (J.Schroeder),,,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,306,9,1,2,7:58 PM,2:50,HAWKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,307,8,0,2,8:00 PM,2:50,SUB: Goodwin FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,309,3,11,2,8:01 PM,2:50,Collins Free Throw 1 of 2 (3 PTS),,,46 - 43,-3,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,310,3,12,2,8:01 PM,2:50,Collins Free Throw 2 of 2 (4 PTS),,,46 - 44,-2,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,311,6,1,2,8:01 PM,2:44,Collins P.FOUL (P3.T3) (K.Scott),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,313,2,47,2,8:01 PM,2:37,,,MISS Gordon 13' Turnaround Jump Shot,,,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,314,4,0,2,8:01 PM,2:34,Reddish REBOUND (Off:0 Def:4),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,315,2,6,2,8:02 PM,2:19,MISS Goodwin 3' Driving Layup,,,,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,316,4,0,2,8:02 PM,2:16,Goodwin REBOUND (Off:1 Def:0),,,,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,317,2,72,2,8:02 PM,2:15,MISS Goodwin 2' Putback Layup,,,,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,318,4,0,2,8:02 PM,2:15,Collins REBOUND (Off:1 Def:1),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,319,2,97,2,8:02 PM,2:11,MISS Collins  Tip Layup Shot,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,320,4,0,2,8:02 PM,2:10,,,Gordon REBOUND (Off:1 Def:2),,,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,321,1,7,2,8:02 PM,2:03,,,Vucevic 1' Dunk (4 PTS) (Fournier 2 AST),48 - 44,-4,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,323,1,1,2,8:02 PM,1:42,Collins  3PT Jump Shot (7 PTS) (Reddish 2 AST),,,48 - 47,-1,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,325,1,1,2,8:03 PM,1:29,,,Vucevic 20' Jump Shot (6 PTS) (Gordon 6 AST),50 - 47,-3,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,327,2,1,2,8:03 PM,1:14,MISS Huerter  3PT Jump Shot,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,328,4,0,2,8:03 PM,1:08,,,Vucevic REBOUND (Off:1 Def:8),,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,329,1,5,2,8:03 PM,1:07,,,Carter-Williams 1' Layup (3 PTS) (Fultz 1 AST),52 - 47,-5,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,331,1,1,2,8:03 PM,0:56,Reddish 29' 3PT Jump Shot (7 PTS) (Goodwin 2 AST),,,52 - 50,-2,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,333,2,1,2,8:03 PM,0:46,,,MISS Carter-Williams  3PT Jump Shot,,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,334,4,0,2,8:04 PM,0:40,Collins REBOUND (Off:1 Def:2),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,335,2,6,2,8:04 PM,0:32,MISS Goodwin  Driving Layup,,,,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,336,4,0,2,8:04 PM,0:28,Collins REBOUND (Off:3 Def:2),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,337,2,97,2,8:04 PM,0:28,MISS Collins  Tip Layup Shot,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,338,4,0,2,8:04 PM,0:28,Collins REBOUND (Off:3 Def:2),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,339,1,72,2,8:04 PM,0:28,Collins 1' Putback Layup (9 PTS),,,52 - 52,TIE,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,340,6,2,2,8:04 PM,0:28,,,Vucevic S.FOUL (P2.PN) (J.Schroeder),,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,342,8,0,2,8:04 PM,0:28,SUB: S. Hill FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,343,8,0,2,8:04 PM,0:28,SUB: Hunter FOR Gallinari,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,346,3,10,2,8:04 PM,0:28,MISS Collins Free Throw 1 of 1,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,347,4,0,2,8:04 PM,0:25,,,Vucevic REBOUND (Off:1 Def:9),,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,382,5,1,2,8:05 PM,0:08,Collins STEAL (1 STL),,Fultz Bad Pass Turnover (P2.T8),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,350,5,45,2,8:05 PM,0:02,Reddish Out of Bounds - Bad Pass Turnover Turnover (P3.T10),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000001,351,2,1,2,8:05 PM,0:00,,,MISS Vucevic 39' 3PT Jump Shot,,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,352,4,0,2,8:05 PM,0:00,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,353,13,0,2,8:05 PM,0:00,,,,52 - 52,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012000001,365,12,0,3,8:22 PM,12:00,,,,52 - 52,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,366,6,2,3,8:22 PM,11:49,Collins S.FOUL (P4.T1) (K.Scott),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1629109,Gary Clark,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,368,3,11,3,8:22 PM,11:49,,,Clark Free Throw 1 of 2 (1 PTS),53 - 52,-1,5,1629109,Gary Clark,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,369,3,12,3,8:22 PM,11:49,,,Clark Free Throw 2 of 2 (2 PTS),54 - 52,-2,5,1629109,Gary Clark,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,370,1,1,3,8:22 PM,11:31,Bogdanovic 26' 3PT Jump Shot (9 PTS) (Young 4 AST),,,54 - 55,1,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,372,1,79,3,8:22 PM,11:20,,,Fultz 9' Pullup Jump Shot (7 PTS),56 - 55,-1,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,373,2,101,3,8:22 PM,11:13,MISS Young 12' Driving Floating Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,374,4,0,3,8:22 PM,11:09,Young REBOUND (Off:1 Def:1),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,375,1,98,3,8:22 PM,11:06,Capela 1' Cutting Layup Shot (6 PTS) (Young 5 AST),,,56 - 57,1,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,377,2,1,3,8:23 PM,10:52,,,MISS Fultz 26' 3PT Jump Shot,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,378,4,0,3,8:23 PM,10:49,Capela REBOUND (Off:4 Def:5),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,379,2,1,3,8:23 PM,10:32,MISS Young 37' 3PT Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,380,4,0,3,8:23 PM,10:29,,,Vucevic REBOUND (Off:1 Def:10),,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,381,5,1,3,8:23 PM,10:20,Collins STEAL (2 STL),,Vucevic Bad Pass Turnover (P1.T9),,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,385,6,2,3,8:23 PM,10:17,,,Bacon S.FOUL (P1.T1) (J.Schroeder),,,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,387,3,11,3,8:24 PM,10:17,Hunter Free Throw 1 of 2 (9 PTS),,,56 - 58,2,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0012000001,388,3,12,3,8:24 PM,10:17,Hunter Free Throw 2 of 2 (10 PTS),,,56 - 59,3,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0012000001,389,1,47,3,8:24 PM,10:02,,,Vucevic 9' Turnaround Jump Shot (8 PTS),58 - 59,1,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,390,2,1,3,8:24 PM,9:46,MISS Hunter  3PT Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,391,4,0,3,8:24 PM,9:42,,,Clark REBOUND (Off:0 Def:2),,,5,1629109,Gary Clark,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,392,2,1,3,8:24 PM,9:35,,,MISS Clark 26' 3PT Jump Shot,,,5,1629109,Gary Clark,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,393,4,0,3,8:24 PM,9:33,Capela REBOUND (Off:4 Def:6),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,394,5,1,3,8:25 PM,9:30,Young Bad Pass Turnover (P4.T11),,Vucevic STEAL (1 STL),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,396,2,1,3,8:25 PM,9:23,,,MISS Vucevic 26' 3PT Jump Shot,,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,397,4,0,3,8:25 PM,9:20,Collins REBOUND (Off:3 Def:3),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,398,5,4,3,8:25 PM,9:10,Young Traveling Turnover (P5.T12),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000001,399,1,47,3,8:25 PM,8:54,,,Vucevic 9' Turnaround Jump Shot (10 PTS) (Bacon 1 AST),60 - 59,-1,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,401,5,40,3,8:26 PM,8:40,Collins Out of Bounds Lost Ball Turnover (P3.T13),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000001,402,1,44,3,8:26 PM,8:26,,,Fultz 1' Reverse Layup (9 PTS) (Vucevic 4 AST),62 - 59,-3,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,404,5,45,3,8:26 PM,8:21,Young Out of Bounds - Bad Pass Turnover Turnover (P6.T14),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000001,405,9,1,3,8:27 PM,8:21,HAWKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,406,8,0,3,8:29 PM,8:21,SUB: Fernando FOR Capela,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,407,8,0,3,8:29 PM,8:21,SUB: Reddish FOR Bogdanovic,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,410,1,1,3,8:30 PM,8:10,,,Vucevic 26' 3PT Jump Shot (13 PTS) (Fultz 2 AST),65 - 59,-6,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,412,1,6,3,8:30 PM,7:53,Young 8' Driving Layup (7 PTS),,,65 - 61,-4,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,413,2,80,3,8:30 PM,7:41,,,MISS Fultz 11' Step Back Jump Shot,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,414,4,0,3,8:30 PM,7:38,Hunter REBOUND (Off:1 Def:1),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,415,2,6,3,8:30 PM,7:37,MISS Fernando 5' Driving Layup,,Fournier BLOCK (1 BLK),,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,1
+0012000001,420,4,0,3,8:30 PM,7:37,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,417,10,0,3,8:31 PM,7:33,Jump Ball Fernando vs. Fournier: Tip to Hunter,,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1
+0012000001,421,2,1,3,8:31 PM,7:30,MISS Young 25' 3PT Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,422,4,0,3,8:31 PM,7:28,Fernando REBOUND (Off:2 Def:3),,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,423,2,5,3,8:31 PM,7:27,MISS Fernando 1' Layup,,Vucevic BLOCK (1 BLK),,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,1
+0012000001,425,4,0,3,8:31 PM,7:27,,,Clark REBOUND (Off:0 Def:3),,,5,1629109,Gary Clark,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,426,2,1,3,8:31 PM,7:20,,,MISS Fultz 25' 3PT Jump Shot,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,427,4,0,3,8:31 PM,7:17,Collins REBOUND (Off:3 Def:4),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,428,5,4,3,8:31 PM,7:15,Collins Traveling Turnover (P4.T15),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000001,429,2,1,3,8:32 PM,7:13,,,MISS Vucevic 25' 3PT Jump Shot,,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,430,4,0,3,8:32 PM,7:10,Hunter REBOUND (Off:1 Def:2),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,431,2,1,3,8:32 PM,7:02,MISS Reddish  3PT Jump Shot,,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,432,4,0,3,8:32 PM,6:57,,,Bacon REBOUND (Off:0 Def:2),,,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,433,1,1,3,8:32 PM,6:47,,,Bacon  3PT Jump Shot (14 PTS) (Fultz 3 AST),68 - 61,-7,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,435,2,101,3,8:32 PM,6:32,MISS Reddish 12' Driving Floating Jump Shot,,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,436,4,0,3,8:32 PM,6:31,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,437,6,3,3,8:32 PM,6:31,,,Clark L.B.FOUL (P1.T2) (S.Wall),,,5,1629109,Gary Clark,1610612753.0,Orlando,Magic,ORL,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,439,8,0,3,8:32 PM,6:31,SUB: Huerter FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,440,8,0,3,8:32 PM,6:31,SUB: Gallinari FOR Collins,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,443,5,45,3,8:33 PM,6:24,Reddish Out of Bounds - Bad Pass Turnover Turnover (P4.T16),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000001,444,6,2,3,8:33 PM,6:08,Fernando S.FOUL (P2.T2) (S.Wall),,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,446,3,11,3,8:34 PM,6:08,,,MISS Fultz Free Throw 1 of 2,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,447,4,1,3,8:34 PM,6:08,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,448,8,0,3,8:34 PM,6:08,SUB: Goodwin FOR Young,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,450,3,12,3,8:34 PM,6:08,,,Fultz Free Throw 2 of 2 (10 PTS),69 - 61,-8,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,451,6,1,3,8:34 PM,5:50,,,Fultz P.FOUL (P2.T3) (K.Scott),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,453,1,101,3,8:35 PM,5:43,Fernando 14' Driving Floating Jump Shot (4 PTS),,,69 - 63,-6,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,455,1,5,3,8:35 PM,5:18,,,Vucevic 3' Layup (15 PTS) (Fultz 4 AST),71 - 63,-8,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,457,6,2,3,8:35 PM,5:18,Fernando S.FOUL (P3.T3) (S.Wall),,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,459,8,0,3,8:36 PM,5:18,,,SUB: Carter-Williams FOR Bacon,,,5,1628407,Dwayne Bacon,1610612753.0,Orlando,Magic,ORL,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,461,3,10,3,8:36 PM,5:18,,,MISS Vucevic Free Throw 1 of 1,,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,462,4,0,3,8:36 PM,5:15,Reddish REBOUND (Off:0 Def:5),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,463,2,1,3,8:36 PM,5:05,MISS Gallinari 25' 3PT Jump Shot,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,464,4,0,3,8:36 PM,5:01,,,Carter-Williams REBOUND (Off:0 Def:1),,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,465,1,1,3,8:36 PM,4:56,,,Vucevic 25' 3PT Jump Shot (18 PTS) (Carter-Williams 1 AST),74 - 63,-11,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,467,2,80,3,8:36 PM,4:42,MISS Reddish 22' Step Back Jump Shot,,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,468,4,0,3,8:36 PM,4:38,,,Fultz REBOUND (Off:0 Def:3),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,469,2,1,3,8:36 PM,4:36,,,MISS Fournier 26' 3PT Jump Shot,,,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,470,4,0,3,8:36 PM,4:32,,,Carter-Williams REBOUND (Off:1 Def:1),,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,471,1,5,3,8:36 PM,4:32,,,Carter-Williams 1' Layup (5 PTS),76 - 63,-13,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,472,9,1,3,8:37 PM,4:32,HAWKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,473,2,5,3,8:40 PM,4:21,MISS Fernando 1' Layup,,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,474,4,0,3,8:40 PM,4:19,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,476,1,75,3,8:40 PM,4:03,,,Fournier  Driving Finger Roll Layup (13 PTS),78 - 63,-15,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,477,6,2,3,8:40 PM,3:54,,,Fultz S.FOUL (P3.T4) (S.Wall),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,479,3,11,3,8:41 PM,3:54,Reddish Free Throw 1 of 2 (8 PTS),,,78 - 64,-14,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0012000001,480,8,0,3,8:41 PM,3:54,SUB: Collins FOR Fernando,,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,482,3,12,3,8:41 PM,3:54,Reddish Free Throw 2 of 2 (9 PTS),,,78 - 65,-13,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,484,5,45,3,8:41 PM,3:45,,,Fultz Out of Bounds - Bad Pass Turnover Turnover (P3.T10),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012000001,485,8,0,3,8:41 PM,3:45,SUB: Bogdanovic FOR Goodwin,,,,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,487,5,1,3,8:42 PM,3:29,Bogdanovic Bad Pass Turnover (P1.T17),,Fultz STEAL (1 STL),,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,489,5,45,3,8:42 PM,3:24,,,Fultz Out of Bounds - Bad Pass Turnover Turnover (P4.T11),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012000001,490,2,1,3,8:42 PM,3:06,MISS Gallinari 24' 3PT Jump Shot,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,491,4,0,3,8:42 PM,3:03,Huerter REBOUND (Off:1 Def:0),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,492,1,79,3,8:42 PM,3:01,Huerter  3PT Pullup Jump Shot (6 PTS),,,78 - 68,-10,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,493,9,1,3,8:43 PM,2:53,,,Magic Timeout: Regular (Reg.3 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,494,8,0,3,8:44 PM,2:53,,,SUB: Cannady FOR Fournier,,,5,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,495,8,0,3,8:44 PM,2:53,,,SUB: Anthony FOR Fultz,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,498,6,2,3,8:45 PM,2:48,Reddish S.FOUL (P2.T4) (J.Schroeder),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,500,3,11,3,8:45 PM,2:48,,,MISS Carter-Williams Free Throw 1 of 2,,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,501,4,1,3,8:45 PM,2:48,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,502,3,12,3,8:45 PM,2:48,,,Carter-Williams Free Throw 2 of 2 (6 PTS),79 - 68,-11,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,503,2,79,3,8:45 PM,2:34,MISS Huerter 16' Pullup Jump Shot,,Cannady BLOCK (1 BLK),,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,1
+0012000001,505,4,0,3,8:45 PM,2:29,,,Carter-Williams REBOUND (Off:1 Def:2),,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,506,1,1,3,8:45 PM,2:28,,,Cannady 25' 3PT Jump Shot (3 PTS) (Carter-Williams 2 AST),82 - 68,-14,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,508,2,79,3,8:46 PM,2:12,MISS Reddish 4' Pullup Jump Shot,,Clark BLOCK (1 BLK),,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1629109,Gary Clark,1610612753.0,Orlando,Magic,ORL,1
+0012000001,510,4,0,3,8:46 PM,2:09,Reddish REBOUND (Off:1 Def:5),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,511,1,5,3,8:46 PM,2:06,Gallinari 5' Layup (7 PTS),,,82 - 70,-12,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,512,6,2,3,8:46 PM,2:06,,,Clark S.FOUL (P2.PN) (K.Scott),,,5,1629109,Gary Clark,1610612753.0,Orlando,Magic,ORL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,514,8,0,3,8:46 PM,2:06,,,SUB: Birch FOR Vucevic,,,5,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,515,8,0,3,8:46 PM,2:06,,,SUB: Okeke FOR Clark,,,5,1629109,Gary Clark,1610612753.0,Orlando,Magic,ORL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,518,3,10,3,8:46 PM,2:06,MISS Gallinari Free Throw 1 of 1,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,519,4,0,3,8:46 PM,2:06,,,Okeke REBOUND (Off:0 Def:1),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,520,2,79,3,8:47 PM,1:50,,,MISS Carter-Williams 21' Pullup Jump Shot,,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,521,4,0,3,8:47 PM,1:50,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,522,6,3,3,8:47 PM,1:50,,,Okeke L.B.FOUL (P1.PN) (S.Wall),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,524,3,11,3,8:47 PM,1:50,Gallinari Free Throw 1 of 2 (8 PTS),,,82 - 71,-11,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,525,8,0,3,8:47 PM,1:50,SUB: Hunter FOR Reddish,,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,527,3,12,3,8:47 PM,1:50,Gallinari Free Throw 2 of 2 (9 PTS),,,82 - 72,-10,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,528,5,2,3,8:48 PM,1:41,Huerter STEAL (1 STL),,Anthony Lost Ball Turnover (P2.T12),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,530,2,41,3,8:48 PM,1:36,MISS Huerter 2' Running Layup,,Birch BLOCK (1 BLK),,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,1
+0012000001,532,4,0,3,8:48 PM,1:36,Collins REBOUND (Off:4 Def:4),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,533,1,44,3,8:48 PM,1:36,Collins 1' Reverse Layup (11 PTS),,,82 - 74,-8,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,534,6,2,3,8:48 PM,1:36,,,Carter-Williams S.FOUL (P2.PN) (J.Schroeder),,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,536,3,10,3,8:48 PM,1:36,Collins Free Throw 1 of 1 (12 PTS),,,82 - 75,-7,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,537,2,1,3,8:49 PM,1:19,,,MISS Cannady 25' 3PT Jump Shot,,,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,538,4,0,3,8:49 PM,1:13,,,Carter-Williams REBOUND (Off:2 Def:2),,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,539,1,72,3,8:49 PM,1:13,,,Carter-Williams  Putback Layup (8 PTS),84 - 75,-9,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,540,1,52,3,8:49 PM,1:00,Collins 1' Alley Oop Dunk (14 PTS) (Huerter 3 AST),,,84 - 77,-7,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,542,2,47,3,8:49 PM,0:50,,,MISS Anthony 10' Turnaround Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,543,4,0,3,8:49 PM,0:47,Collins REBOUND (Off:4 Def:5),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,545,2,101,3,8:50 PM,0:37,MISS Huerter 9' Driving Floating Jump Shot,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,546,4,0,3,8:50 PM,0:33,,,Carter-Williams REBOUND (Off:2 Def:3),,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,547,1,6,3,8:50 PM,0:29,,,Birch 1' Driving Layup (4 PTS) (Carter-Williams 3 AST),86 - 77,-9,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,549,6,2,3,8:50 PM,0:29,Hunter S.FOUL (P2.PN) (J.Schroeder),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,551,3,10,3,8:50 PM,0:29,,,Birch Free Throw 1 of 1 (5 PTS),87 - 77,-10,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,552,6,4,3,8:51 PM,0:07,Hunter OFF.Foul (P3) (S.Wall),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,554,5,37,3,8:51 PM,0:07,Hunter Offensive Foul Turnover (P1.T18),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000001,555,6,26,3,8:51 PM,0:00,,,Anthony Offensive Charge Foul (P4.PN) (S.Wall),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,557,5,37,3,8:51 PM,0:00,,,Anthony Offensive Foul Turnover (P3.T13),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012000001,558,13,0,3,8:51 PM,0:00,,,,87 - 77,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012000001,563,12,0,4,8:54 PM,12:00,,,,87 - 77,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,564,1,1,4,8:54 PM,11:47,Hunter 25' 3PT Jump Shot (13 PTS) (Bogdanovic 2 AST),,,87 - 80,-7,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,566,2,79,4,8:55 PM,11:21,,,MISS Carter-Williams 25' 3PT Pullup Jump Shot,,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,567,4,0,4,8:55 PM,11:18,Capela REBOUND (Off:4 Def:7),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,568,6,2,4,8:55 PM,11:14,,,Okeke S.FOUL (P2.T1) (J.Schroeder),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,570,3,13,4,8:56 PM,11:14,Gallinari Free Throw 1 of 3 (10 PTS),,,87 - 81,-6,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,571,3,14,4,8:56 PM,11:14,Gallinari Free Throw 2 of 3 (11 PTS),,,87 - 82,-5,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0012000001,572,3,15,4,8:56 PM,11:14,Gallinari Free Throw 3 of 3 (12 PTS),,,87 - 83,-4,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,573,1,79,4,8:56 PM,10:59,,,Anthony 9' Pullup Jump Shot (4 PTS),89 - 83,-6,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,574,2,1,4,8:57 PM,10:43,MISS Bogdanovic 25' 3PT Jump Shot,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,575,4,0,4,8:57 PM,10:38,,,Birch REBOUND (Off:2 Def:4),,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,576,2,79,4,8:57 PM,10:26,,,MISS Cannady 21' Pullup Jump Shot,,,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,577,4,0,4,8:57 PM,10:24,,,Birch REBOUND (Off:3 Def:4),,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,578,2,1,4,8:57 PM,10:22,,,MISS Anthony 25' 3PT Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,579,4,0,4,8:57 PM,10:19,Gallinari REBOUND (Off:0 Def:4),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,580,6,1,4,8:57 PM,10:12,,,Cannady P.FOUL (P1.T2) (K.Scott),,,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,582,6,2,4,8:58 PM,10:01,,,Okeke S.FOUL (P3.T3) (J.Schroeder),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,584,3,11,4,8:58 PM,10:01,Gallinari Free Throw 1 of 2 (13 PTS),,,89 - 84,-5,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,585,3,12,4,8:58 PM,10:01,Gallinari Free Throw 2 of 2 (14 PTS),,,89 - 85,-4,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,586,2,6,4,8:59 PM,9:44,Gallinari BLOCK (1 BLK),,MISS Okeke 3' Driving Layup,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,1
+0012000001,588,4,0,4,8:59 PM,9:41,Capela REBOUND (Off:4 Def:8),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,589,5,1,4,8:59 PM,9:40,Capela Bad Pass Turnover (P2.T19),,Anthony STEAL (1 STL),,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,591,6,28,4,8:59 PM,9:40,Gallinari Personal Take Foul (P2.T1) (K.Scott),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,593,5,1,4,8:59 PM,9:29,Young STEAL (1 STL),,Carter-Williams Bad Pass Turnover (P1.T14),,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,595,1,75,4,8:59 PM,9:24,Hunter 4' Driving Finger Roll Layup (15 PTS) (Young 6 AST),,,89 - 87,-2,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,597,6,2,4,8:59 PM,9:24,,,Anthony S.FOUL (P5.T4) (S.Wall),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,599,8,0,4,9:00 PM,9:24,SUB: S. Hill FOR Gallinari,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,600,8,0,4,9:00 PM,9:24,SUB: Reddish FOR Bogdanovic,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,603,3,10,4,9:00 PM,9:24,Hunter Free Throw 1 of 1 (16 PTS),,,89 - 88,-1,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,604,1,79,4,9:00 PM,9:14,,,Anthony 25' 3PT Pullup Jump Shot (7 PTS),92 - 88,-4,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,605,2,6,4,9:00 PM,9:06,MISS Capela  Driving Layup,,Okeke BLOCK (1 BLK),,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,1
+0012000001,607,4,0,4,9:00 PM,9:05,Capela REBOUND (Off:5 Def:8),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,608,1,44,4,9:00 PM,9:03,Capela 1' Reverse Layup (8 PTS),,,92 - 90,-2,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,609,6,2,4,9:01 PM,9:03,,,Birch S.FOUL (P2.PN) (S.Wall),,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,611,8,0,4,9:01 PM,9:03,SUB: Goodwin FOR Young,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,613,3,10,4,9:01 PM,9:03,MISS Capela Free Throw 1 of 1,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,614,4,0,4,9:01 PM,8:59,,,Cannady REBOUND (Off:0 Def:1),,,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,615,2,1,4,9:01 PM,8:45,,,MISS Okeke  3PT Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,616,4,0,4,9:01 PM,8:42,Reddish REBOUND (Off:1 Def:6),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,617,1,98,4,9:01 PM,8:32,Hunter 1' Cutting Layup Shot (18 PTS) (Reddish 3 AST),,,92 - 92,TIE,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,619,1,6,4,9:02 PM,8:24,,,Carter-Williams 1' Driving Layup (10 PTS) (Cannady 1 AST),94 - 92,-2,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,621,2,1,4,9:02 PM,8:01,MISS Goodwin 26' 3PT Jump Shot,,,,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,622,4,0,4,9:02 PM,7:58,,,Okeke REBOUND (Off:0 Def:2),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,623,2,79,4,9:02 PM,7:55,,,MISS Okeke 25' 3PT Pullup Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,624,4,0,4,9:02 PM,7:51,Capela REBOUND (Off:5 Def:9),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,625,9,1,4,9:02 PM,7:46,HAWKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,626,8,0,4,9:05 PM,7:46,SUB: Huerter FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,627,8,0,4,9:05 PM,7:46,SUB: Fernando FOR Capela,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,628,8,0,4,9:05 PM,7:46,,,SUB: Franks FOR Cannady,,,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,632,6,2,4,9:05 PM,7:39,,,Franks S.FOUL (P1.PN) (K.Scott),,,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,634,3,11,4,9:06 PM,7:39,Reddish Free Throw 1 of 2 (10 PTS),,,94 - 93,-1,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,635,3,12,4,9:06 PM,7:39,Reddish Free Throw 2 of 2 (11 PTS),,,94 - 94,TIE,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,636,2,101,4,9:06 PM,7:20,,,MISS Carter-Williams 10' Driving Floating Jump Shot,,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,637,4,0,4,9:06 PM,7:16,Fernando REBOUND (Off:2 Def:4),,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,638,2,1,4,9:06 PM,7:11,MISS Huerter 25' 3PT Jump Shot,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,639,4,0,4,9:06 PM,7:06,,,Birch REBOUND (Off:3 Def:5),,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,640,1,1,4,9:07 PM,6:59,,,Okeke  3PT Jump Shot (3 PTS) (Anthony 2 AST),97 - 94,-3,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,642,1,79,4,9:07 PM,6:37,Reddish 20' Pullup Jump Shot (13 PTS) (Goodwin 3 AST),,,97 - 96,-1,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,644,1,1,4,9:07 PM,6:24,,,Birch 17' Jump Shot (7 PTS) (Anthony 3 AST),99 - 96,-3,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,646,5,4,4,9:07 PM,6:17,Reddish Traveling Turnover (P5.T20),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000001,647,8,0,4,9:07 PM,6:17,,,SUB: Mane FOR Carter-Williams,,,5,203487,Michael Carter-Williams,1610612753.0,Orlando,Magic,ORL,5,1630211,Karim Mane,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,649,2,80,4,9:08 PM,6:06,,,MISS Anthony 25' 3PT Step Back Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,650,4,0,4,9:08 PM,6:02,Reddish REBOUND (Off:1 Def:7),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,651,5,4,4,9:08 PM,5:55,Reddish Traveling Turnover (P6.T21),,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000001,652,6,2,4,9:08 PM,5:43,Fernando S.FOUL (P4.T2) (S.Wall),,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,654,3,11,4,9:09 PM,5:43,,,Birch Free Throw 1 of 2 (8 PTS),100 - 96,-4,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,659,3,12,4,9:09 PM,5:43,,,MISS Birch Free Throw 2 of 2,,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,655,8,0,4,9:09 PM,5:43,SUB: Knight FOR Reddish,,,,,4,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,656,8,0,4,9:09 PM,5:43,,,SUB: Bone FOR Anthony,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1629648,Jordan Bone,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,660,4,0,4,9:09 PM,5:40,S. Hill REBOUND (Off:0 Def:1),,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,661,6,2,4,9:09 PM,5:30,,,Birch S.FOUL (P3.PN) (S.Wall),,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,663,3,11,4,9:10 PM,5:30,Fernando Free Throw 1 of 2 (5 PTS),,,100 - 97,-3,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,664,8,0,4,9:10 PM,5:30,SUB: Mays FOR Goodwin,,,,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,666,3,12,4,9:10 PM,5:30,Fernando Free Throw 2 of 2 (6 PTS),,,100 - 98,-2,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,667,6,1,4,9:10 PM,5:17,Huerter P.FOUL (P2.T3) (J.Schroeder),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,1630211,Karim Mane,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,669,2,79,4,9:11 PM,5:11,,,MISS Bone 13' Pullup Jump Shot,,,5,1629648,Jordan Bone,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,670,4,0,4,9:11 PM,5:08,Fernando REBOUND (Off:2 Def:5),,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,671,2,1,4,9:11 PM,5:01,MISS Mays 26' 3PT Jump Shot,,,,,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,672,4,0,4,9:11 PM,4:58,,,Bone REBOUND (Off:0 Def:1),,,5,1629648,Jordan Bone,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,673,6,2,4,9:11 PM,4:44,S. Hill S.FOUL (P1.T4) (K.Scott),,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,675,3,11,4,9:12 PM,4:44,,,MISS Franks Free Throw 1 of 2,,,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,676,4,1,4,9:12 PM,4:44,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,679,3,12,4,9:12 PM,4:44,,,MISS Franks Free Throw 2 of 2,,,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,677,8,0,4,9:12 PM,4:44,,,SUB: Teske FOR Birch,,,5,203920,Khem Birch,1610612753.0,Orlando,Magic,ORL,5,1630257,Jon Teske,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012000001,680,4,0,4,9:12 PM,4:41,Fernando REBOUND (Off:2 Def:6),,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,681,1,79,4,9:12 PM,4:33,Huerter 19' Pullup Jump Shot (8 PTS) (Mays 1 AST),,,100 - 100,TIE,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000001,683,2,1,4,9:12 PM,4:19,,,MISS Okeke 26' 3PT Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,684,4,0,4,9:13 PM,4:16,,,Teske REBOUND (Off:1 Def:0),,,5,1630257,Jon Teske,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,685,6,2,4,9:13 PM,4:10,Knight S.FOUL (P1.PN) (S.Wall),,,,,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,687,3,11,4,9:13 PM,4:10,,,MISS Okeke Free Throw 1 of 2,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,688,4,1,4,9:13 PM,4:10,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,689,8,0,4,9:13 PM,4:10,SUB: Goodwin FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000001,691,3,12,4,9:13 PM,4:10,,,Okeke Free Throw 2 of 2 (4 PTS),101 - 100,-1,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,692,2,79,4,9:14 PM,3:55,MISS Knight 13' Pullup Jump Shot,,,,,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,693,4,0,4,9:14 PM,3:52,,,Teske REBOUND (Off:1 Def:1),,,5,1630257,Jon Teske,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,694,5,1,4,9:14 PM,3:43,,,Okeke Bad Pass Turnover (P1.T15),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,696,6,3,4,9:14 PM,3:43,,,Franks L.B.FOUL (P2.PN) (K.Scott),,,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,698,3,11,4,9:14 PM,3:43,Mays Free Throw 1 of 2 (1 PTS),,,101 - 101,TIE,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,699,3,12,4,9:14 PM,3:43,MISS Mays Free Throw 2 of 2,,,,,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,700,4,0,4,9:14 PM,3:40,Mays REBOUND (Off:1 Def:0),,,,,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,701,6,2,4,9:15 PM,3:40,,,Teske S.FOUL (P1.PN) (S.Wall),,,5,1630257,Jon Teske,1610612753.0,Orlando,Magic,ORL,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,703,9,1,4,9:15 PM,3:40,HAWKS Timeout: Regular (Full 6 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,709,3,11,4,9:19 PM,3:40,Mays Free Throw 1 of 2 (2 PTS),,,101 - 102,1,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,710,3,12,4,9:19 PM,3:40,Mays Free Throw 2 of 2 (3 PTS),,,101 - 103,2,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,711,1,1,4,9:19 PM,3:27,,,Okeke 26' 3PT Jump Shot (7 PTS) (Bone 1 AST),104 - 103,-1,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1629648,Jordan Bone,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,713,2,101,4,9:20 PM,3:09,MISS Goodwin 6' Driving Floating Jump Shot,,,,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,714,4,0,4,9:20 PM,3:06,,,Bone REBOUND (Off:0 Def:2),,,5,1629648,Jordan Bone,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,715,2,47,4,9:20 PM,2:55,,,MISS Okeke 11' Turnaround Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,716,4,0,4,9:20 PM,2:52,Goodwin REBOUND (Off:1 Def:1),,,,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,717,2,5,4,9:20 PM,2:39,MISS Mays 4' Layup,,,,,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,718,4,0,4,9:20 PM,2:35,,,Teske REBOUND (Off:1 Def:2),,,5,1630257,Jon Teske,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,719,2,1,4,9:20 PM,2:21,,,MISS Franks 25' 3PT Jump Shot,,,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,720,4,0,4,9:20 PM,2:19,Fernando REBOUND (Off:2 Def:7),,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,721,5,2,4,9:21 PM,2:08,Goodwin Lost Ball Turnover (P1.T22),,Franks STEAL (1 STL),,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,723,6,2,4,9:21 PM,2:04,S. Hill S.FOUL (P2.PN) (S.Wall),,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,725,3,11,4,9:21 PM,2:04,,,Franks Free Throw 1 of 2 (1 PTS),105 - 103,-2,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,726,3,12,4,9:21 PM,2:04,,,MISS Franks Free Throw 2 of 2,,,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,727,4,0,4,9:21 PM,2:00,,,Okeke REBOUND (Off:1 Def:2),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,728,1,5,4,9:21 PM,1:59,,,Okeke 2' Layup (9 PTS),107 - 103,-4,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,729,6,1,4,9:22 PM,1:52,,,Franks P.FOUL (P3.PN) (K.Scott),,,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000001,731,3,11,4,9:22 PM,1:52,Fernando Free Throw 1 of 2 (7 PTS),,,107 - 104,-3,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,732,3,12,4,9:22 PM,1:52,Fernando Free Throw 2 of 2 (8 PTS),,,107 - 105,-2,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,733,2,1,4,9:23 PM,1:41,,,MISS Franks 25' 3PT Jump Shot,,,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,734,4,0,4,9:23 PM,1:37,Knight REBOUND (Off:0 Def:1),,,,,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,735,5,1,4,9:23 PM,1:34,Goodwin Bad Pass Turnover (P2.T23),,Mane STEAL (1 STL),,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,5,1630211,Karim Mane,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,737,1,1,4,9:23 PM,1:26,,,Bone 25' 3PT Jump Shot (3 PTS) (Okeke 1 AST),110 - 105,-5,5,1629648,Jordan Bone,1610612753.0,Orlando,Magic,ORL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012000001,739,2,6,4,9:23 PM,1:11,MISS Fernando 2' Driving Layup,,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,740,4,0,4,9:23 PM,1:11,,,Mane REBOUND (Off:0 Def:1),,,5,1630211,Karim Mane,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,741,2,79,4,9:23 PM,1:03,,,MISS Mane 26' 3PT Pullup Jump Shot,,,5,1630211,Karim Mane,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,742,4,0,4,9:23 PM,0:58,,,Teske REBOUND (Off:2 Def:2),,,5,1630257,Jon Teske,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,743,6,2,4,9:24 PM,0:56,Knight S.FOUL (P2.PN) (K.Scott),,,,,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,745,3,11,4,9:24 PM,0:56,,,Franks Free Throw 1 of 2 (2 PTS),111 - 105,-6,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,746,3,12,4,9:24 PM,0:56,,,Franks Free Throw 2 of 2 (3 PTS),112 - 105,-7,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,747,2,6,4,9:24 PM,0:48,MISS Mays 2' Driving Layup,,,,,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,748,4,0,4,9:24 PM,0:45,Knight REBOUND (Off:1 Def:1),,,,,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,749,1,80,4,9:25 PM,0:41,S. Hill 25' 3PT Step Back Jump Shot (3 PTS),,,112 - 108,-4,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,751,2,1,4,9:25 PM,0:24,,,MISS Bone  3PT Jump Shot,,,5,1629648,Jordan Bone,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,752,4,0,4,9:25 PM,0:20,Knight REBOUND (Off:1 Def:2),,,,,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,753,1,41,4,9:25 PM,0:15,Goodwin 1' Running Layup (5 PTS),,,112 - 110,-2,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,754,6,28,4,9:25 PM,0:13,Mays Personal Take Foul (P1.PN) (K.Scott),,,,,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,756,3,11,4,9:26 PM,0:13,,,Franks Free Throw 1 of 2 (4 PTS),113 - 110,-3,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,757,3,12,4,9:26 PM,0:13,,,Franks Free Throw 2 of 2 (5 PTS),114 - 110,-4,5,1629606,Robert Franks,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,758,1,41,4,9:26 PM,0:08,Goodwin 2' Running Layup (7 PTS),,,114 - 112,-2,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,759,6,28,4,9:26 PM,0:07,Goodwin Personal Take Foul (P1.PN) (K.Scott),,,,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,5,1629648,Jordan Bone,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012000001,761,3,11,4,9:27 PM,0:07,,,Bone Free Throw 1 of 2 (4 PTS),115 - 112,-3,5,1629648,Jordan Bone,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,762,3,12,4,9:27 PM,0:07,,,Bone Free Throw 2 of 2 (5 PTS),116 - 112,-4,5,1629648,Jordan Bone,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,763,9,1,4,9:27 PM,0:07,HAWKS Timeout: Regular (Full 7 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000001,764,2,1,4,9:29 PM,0:04,MISS Goodwin 25' 3PT Jump Shot,,,,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000001,765,4,0,4,9:29 PM,0:01,,,Mane REBOUND (Off:0 Def:2),,,5,1630211,Karim Mane,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012000001,766,13,0,4,9:29 PM,0:00,,,,116 - 112,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
