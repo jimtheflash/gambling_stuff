@@ -1,0 +1,24 @@
+---
+title: "Time to Build Some Fucking NBA Models"
+author: "Jim Kloet"
+date: "3/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Purpose
+
+We're trying to make a lot of money betting on sports, right? Right. So the purpose of this is to build some fucking NBA models that generate a lot of revenue.
+
+So I guess to be more specific, there are a few different kinds of wagers that we can try to win using predictive modeling techniques:
+
+* Conventional Bets: Moneylines, Spread, Totals
+  + We've modeled this stuff before, and there's probably not a huge edge to be gained, but in cases where a book is running a promo or something, or in cases where it's possible to get different odds for alternative bets (e.g. better odds for larger margins of victory, or worse odds for smaller totals) then there could be some edges to be found.
+  + Per Nate Silver, these kinds of bets are best modeled using a combination of team-level and player-level models, which I think makes sense: there are macro team things happening (coaching strategy, roster composition, schedule/travel, etc.) and then micro player things happening (individual player performance, interactions between players) that get aggregated upwards.
+  
+* Game Props: First Team to Score, First FG, Make/Miss First Shots...
+
+* Player Props: Expected Points, Rebounds, Assists, Made 3's...
