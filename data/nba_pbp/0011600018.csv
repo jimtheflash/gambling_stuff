@@ -1,0 +1,505 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011600018,0,12,0,1,10:10 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,1,10,0,1,10:10 PM,12:00,Jump Ball Len vs. Gobert: Tip to G. Hill,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0
+0011600018,2,2,80,1,10:11 PM,11:37,,,MISS Hayward 18' Step Back Jump Shot,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,3,4,0,1,10:11 PM,11:36,,,Gobert REBOUND (Off:1 Def:0),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,4,1,1,1,10:11 PM,11:29,,,G. Hill 26' 3PT Jump Shot (3 PTS) (Diaw 1 AST),3 - 0,-3,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,5,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,5,5,45,1,10:11 PM,11:21,Warren Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011600018,6,6,1,1,10:11 PM,11:18,Bledsoe P.FOUL (P1.T1) (J.Phillips),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,201588,George Hill,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,7,2,78,1,10:12 PM,10:59,,,MISS G. Hill 13' Floating Jump Shot,,,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,8,4,0,1,10:12 PM,10:59,Chriss REBOUND (Off:0 Def:1),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,9,2,73,1,10:12 PM,10:48,MISS Chriss 4' Driving Reverse Layup,,Gobert BLOCK (1 BLK),,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0
+0011600018,10,4,0,1,10:12 PM,10:47,Chriss REBOUND (Off:1 Def:1),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,11,5,2,1,10:12 PM,10:34,Len Lost Ball Turnover (P1.T2),,Hayward STEAL (1 STL),,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,13,6,1,1,10:12 PM,10:29,Chriss P.FOUL (P1.T2) (L.Richardson),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,15,3,11,1,10:13 PM,10:29,,,MISS Exum Free Throw 1 of 2,,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,16,4,1,1,10:13 PM,10:29,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,17,3,12,1,10:13 PM,10:29,,,MISS Exum Free Throw 2 of 2,,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,19,4,0,1,10:13 PM,10:28,,,Gobert REBOUND (Off:2 Def:0),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,20,6,1,1,10:13 PM,10:24,Len P.FOUL (P1.T3) (J.Phillips),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,21,1,78,1,10:14 PM,10:07,,,Gobert 12' Floating Jump Shot (2 PTS) (G. Hill 1 AST),5 - 0,-5,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,22,2,98,1,10:14 PM,9:53,MISS Chriss 1' Cutting Layup Shot,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,23,4,0,1,10:14 PM,9:52,,,Diaw REBOUND (Off:0 Def:1),,,5.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,24,2,1,1,10:14 PM,9:44,,,MISS Exum 24' 3PT Jump Shot,,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,25,4,0,1,10:14 PM,9:43,Booker REBOUND (Off:0 Def:1),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,26,2,42,1,10:14 PM,9:37,MISS Booker 2' Driving Layup,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,27,4,0,1,10:14 PM,9:35,,,Gobert REBOUND (Off:2 Def:1),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,28,5,1,1,10:14 PM,9:34,Len STEAL (1 STL),,Gobert Bad Pass Turnover (P1.T1),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,29,6,2,1,10:14 PM,9:34,,,Gobert S.FOUL (P1.T1) (J.Orr),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,30,3,11,1,10:15 PM,9:34,Booker Free Throw 1 of 2 (1 PTS),,,5 - 1,-4,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,32,3,12,1,10:15 PM,9:34,Booker Free Throw 2 of 2 (2 PTS),,,5 - 2,-3,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,34,2,101,1,10:15 PM,9:16,,,MISS Hayward 5' Driving Floating Jump Shot,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,35,4,0,1,10:15 PM,9:15,,,Gobert REBOUND (Off:3 Def:1),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,36,5,4,1,10:15 PM,9:15,,,Gobert Traveling Turnover (P2.T2),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011600018,37,6,17,1,10:16 PM,8:59,,,Jazz T.Foul (Def. 3 Sec Gobert ) (L.Richardson),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011600018,38,3,16,1,10:16 PM,8:59,MISS Bledsoe Free Throw Technical,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,39,4,1,1,10:16 PM,8:59,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,40,2,63,1,10:16 PM,8:51,MISS Booker 12' Fadeaway Jumper,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,41,4,0,1,10:16 PM,8:50,Warren REBOUND (Off:1 Def:0),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,42,1,108,1,10:17 PM,8:41,Chriss  Cutting Dunk Shot (2 PTS) (Bledsoe 1 AST),,,5 - 4,-1,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,43,6,2,1,10:17 PM,8:23,Len S.FOUL (P2.T4) (J.Orr),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,44,3,11,1,10:17 PM,8:23,,,Gobert Free Throw 1 of 2 (3 PTS),6 - 4,-2,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,46,3,12,1,10:17 PM,8:23,,,Gobert Free Throw 2 of 2 (4 PTS),7 - 4,-3,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,50,1,98,1,10:18 PM,8:07,Chriss 1' Cutting Layup Shot (4 PTS) (Bledsoe 2 AST),,,7 - 6,-1,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,51,1,108,1,10:19 PM,7:49,,,Gobert  Cutting Dunk Shot (6 PTS) (Exum 1 AST),9 - 6,-3,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,52,6,1,1,10:19 PM,7:24,,,Exum P.FOUL (P1.T2) (J.Orr),,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,53,5,1,1,10:20 PM,7:19,Bledsoe Bad Pass Turnover (P1.T3),,G. Hill STEAL (1 STL),,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,54,6,6,1,10:20 PM,7:17,Warren AWAY.FROM.PLAY.FOUL (P1.PN) (J.Orr),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,55,3,11,1,10:20 PM,7:17,,,Gobert Free Throw 1 of 2 (7 PTS),10 - 6,-4,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,57,3,12,1,10:20 PM,7:17,,,Gobert Free Throw 2 of 2 (8 PTS),11 - 6,-5,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,59,1,1,1,10:21 PM,6:56,Bledsoe 24' 3PT Jump Shot (3 PTS) (Chriss 1 AST),,,11 - 9,-2,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,60,1,7,1,10:21 PM,6:37,,,Hayward  Dunk (2 PTS) (Exum 2 AST),13 - 9,-4,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,61,2,1,1,10:21 PM,6:21,MISS Bledsoe  3PT Jump Shot,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,62,4,0,1,10:21 PM,6:21,Len REBOUND (Off:1 Def:0),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,63,1,1,1,10:21 PM,6:16,Booker 27' 3PT Jump Shot (5 PTS) (Len 1 AST),,,13 - 12,-1,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,64,1,42,1,10:22 PM,6:01,,,Exum 1' Driving Layup (2 PTS),15 - 12,-3,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,65,2,1,1,10:22 PM,5:50,MISS Chriss 26' 3PT Jump Shot,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,66,4,0,1,10:22 PM,5:50,Len REBOUND (Off:2 Def:0),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,67,5,1,1,10:22 PM,5:47,Chriss Bad Pass Turnover (P1.T4),,Gobert STEAL (1 STL),,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,68,6,17,1,10:22 PM,5:39,SUNS T.Foul (Def. 3 Sec Len ) (J.Phillips),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011600018,69,9,1,1,10:22 PM,5:39,SUNS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,71,8,0,1,10:24 PM,5:39,SUB: Knight FOR Bledsoe,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,73,3,16,1,10:25 PM,5:39,,,Hayward Free Throw Technical (3 PTS),16 - 12,-4,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,76,2,1,1,10:26 PM,5:25,,,MISS G. Hill 25' 3PT Jump Shot,,,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,77,4,0,1,10:26 PM,5:24,Chriss REBOUND (Off:1 Def:2),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,78,2,3,1,10:26 PM,5:05,MISS Len  Hook Shot,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,79,4,0,1,10:26 PM,5:04,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,80,6,3,1,10:26 PM,5:04,Chriss L.B.FOUL (P2.PN) (J.Orr),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,81,3,11,1,10:26 PM,5:04,,,Gobert Free Throw 1 of 2 (9 PTS),17 - 12,-5,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,83,8,0,1,10:26 PM,5:04,,,SUB: Lyles FOR Diaw,,,5.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,84,8,0,1,10:27 PM,5:04,SUB: Bender FOR Chriss,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,85,3,12,1,10:27 PM,5:04,,,Gobert Free Throw 2 of 2 (10 PTS),18 - 12,-6,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,87,1,66,1,10:27 PM,4:51,Booker 11' Jump Bank Shot (7 PTS),,,18 - 14,-4,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,88,6,4,1,10:27 PM,4:41,,,Hayward OFF.Foul (P1) (L.Richardson),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,89,5,5,1,10:27 PM,4:41,,,Hayward Foul Turnover (P1.T3),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011600018,90,5,2,1,10:28 PM,4:34,Bender Lost Ball Turnover (P1.T5),,G. Hill STEAL (2 STL),,,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,5,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,91,1,50,1,10:28 PM,4:30,,,Hayward 2' Running Dunk (5 PTS) (G. Hill 2 AST),20 - 14,-6,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,93,2,1,1,10:28 PM,4:15,MISS Knight 22' Jump Shot,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,94,4,0,1,10:28 PM,4:15,,,Exum REBOUND (Off:0 Def:1),,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,95,2,5,1,10:28 PM,4:07,Knight BLOCK (1 BLK),,MISS Gobert 3' Layup,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0
+0011600018,96,4,0,1,10:28 PM,4:06,,,G. Hill REBOUND (Off:1 Def:0),,,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,97,1,1,1,10:28 PM,4:01,,,Lyles 26' 3PT Jump Shot (3 PTS) (Exum 3 AST),23 - 14,-9,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,98,9,1,1,10:28 PM,3:59,SUNS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,100,8,0,1,10:30 PM,3:59,SUB: Williams FOR Len,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,101,8,0,1,10:30 PM,3:59,SUB: Barbosa FOR Booker,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,102,8,0,1,10:31 PM,3:59,,,SUB: Ingles FOR Exum,,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,103,1,78,1,10:31 PM,3:49,Knight 10' Floating Jump Shot (2 PTS),,,23 - 16,-7,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,104,6,2,1,10:31 PM,3:49,,,Gobert S.FOUL (P2.T3) (J.Phillips),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,105,3,10,1,10:31 PM,3:49,Knight Free Throw 1 of 1 (3 PTS),,,23 - 17,-6,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,107,5,45,1,10:32 PM,3:42,,,Lyles Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011600018,108,2,1,1,10:32 PM,3:31,MISS Bender 24' 3PT Jump Shot,,Lyles BLOCK (1 BLK),,,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0
+0011600018,109,4,0,1,10:32 PM,3:30,,,Gobert REBOUND (Off:3 Def:2),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,110,6,1,1,10:32 PM,3:17,Williams P.FOUL (P1.PN) (J.Phillips),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,111,3,11,1,10:32 PM,3:17,,,MISS Hayward Free Throw 1 of 2,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,112,4,1,1,10:32 PM,3:17,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,113,8,0,1,10:33 PM,3:17,,,SUB: Mack FOR G. Hill,,,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,114,3,12,1,10:33 PM,3:17,,,Hayward Free Throw 2 of 2 (6 PTS),24 - 17,-7,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,116,6,11,1,10:33 PM,3:17,Williams T.FOUL (P1.PN) (J.Orr),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011600018,117,18,0,1,10:33 PM,3:17,,,,,,,116,David Wood,,,,,0,0,,,,,,1,0,,,,,,0
+0011600018,118,3,16,1,10:35 PM,3:17,,,Hayward Free Throw Technical (7 PTS),25 - 17,-8,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,120,1,79,1,10:35 PM,3:08,Knight 20' Pullup Jump Shot (5 PTS),,,25 - 19,-6,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,121,2,1,1,10:36 PM,2:46,,,MISS Lyles 26' 3PT Jump Shot,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,122,4,0,1,10:36 PM,2:45,,,Gobert REBOUND (Off:4 Def:2),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,123,1,98,1,10:36 PM,2:27,,,Ingles 2' Cutting Layup Shot (2 PTS) (Lyles 1 AST),27 - 19,-8,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,124,1,42,1,10:36 PM,2:18,Knight 1' Driving Layup (7 PTS),,,27 - 21,-6,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,125,1,79,1,10:36 PM,2:06,,,Mack 15' Pullup Jump Shot (2 PTS),29 - 21,-8,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,127,8,0,1,10:37 PM,1:55,,,SUB: Johnson FOR Hayward,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,128,8,0,1,10:37 PM,1:55,,,SUB: Withey FOR Gobert,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,129,5,1,1,10:37 PM,1:45,Barbosa Bad Pass Turnover (P1.T6),,Mack STEAL (1 STL),,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,130,1,41,1,10:37 PM,1:40,,,Mack 1' Running Layup (4 PTS),31 - 21,-10,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,131,2,42,1,10:37 PM,1:24,MISS Knight 3' Driving Layup,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,132,4,0,1,10:37 PM,1:23,,,Johnson REBOUND (Off:0 Def:1),,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,133,2,98,1,10:37 PM,1:13,,,MISS Withey 1' Cutting Layup Shot,,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,134,4,0,1,10:37 PM,1:12,Bender REBOUND (Off:0 Def:1),,,,,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,135,2,98,1,10:38 PM,1:03,MISS Williams 3' Cutting Layup Shot,,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,137,4,0,1,10:38 PM,1:01,Williams REBOUND (Off:1 Def:0),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,136,2,97,1,10:38 PM,1:01,MISS Williams 1' Tip Layup Shot,,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,139,4,0,1,10:38 PM,1:01,Williams REBOUND (Off:2 Def:0),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,138,6,3,1,10:38 PM,1:01,,,Johnson L.B.FOUL (P1.T4) (J.Phillips),,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,4,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,140,2,1,1,10:38 PM,0:56,MISS Warren 8' Jump Shot,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,141,4,0,1,10:38 PM,0:55,,,Ingles REBOUND (Off:0 Def:1),,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,142,5,45,1,10:38 PM,0:38,,,Lyles Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011600018,143,2,1,1,10:39 PM,0:29,MISS Warren 12' Jump Shot,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,144,4,0,1,10:39 PM,0:28,Williams REBOUND (Off:3 Def:0),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,145,2,97,1,10:39 PM,0:27,MISS Williams 1' Tip Layup Shot,,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,147,4,0,1,10:39 PM,0:26,Bender REBOUND (Off:1 Def:1),,,,,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,146,1,97,1,10:39 PM,0:26,Bender 2' Tip Layup Shot (2 PTS),,,31 - 23,-8,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,148,2,1,1,10:39 PM,0:03,,,MISS Johnson 18' Jump Shot,,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,149,4,0,1,10:39 PM,0:03,Knight REBOUND (Off:0 Def:1),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,150,13,0,1,10:39 PM,0:00,,,,31 - 23,-8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,152,12,0,2,10:42 PM,12:00,,,,31 - 23,-8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,153,5,1,2,10:42 PM,11:51,Barbosa Bad Pass Turnover (P2.T7),,Ingles STEAL (1 STL),,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,154,5,1,2,10:42 PM,11:47,Knight STEAL (1 STL),,Mack Bad Pass Turnover (P1.T6),,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,155,2,1,2,10:42 PM,11:36,MISS Bender 25' 3PT Jump Shot,,,,,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,156,4,0,2,10:42 PM,11:36,,,Withey REBOUND (Off:0 Def:1),,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,157,6,17,2,10:43 PM,11:19,SUNS T.Foul (Def. 3 Sec Williams ) (L.Richardson),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011600018,158,3,16,2,10:43 PM,11:19,,,MISS Johnson Free Throw Technical,,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,159,4,1,2,10:43 PM,11:19,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,160,2,101,2,10:43 PM,11:12,,,MISS Mack 11' Driving Floating Jump Shot,,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,161,4,0,2,10:43 PM,11:11,,,Withey REBOUND (Off:1 Def:1),,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,162,1,101,2,10:44 PM,11:01,,,Johnson 8' Driving Floating Jump Shot (2 PTS),33 - 23,-10,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,163,5,45,2,10:44 PM,10:53,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011600018,164,1,71,2,10:44 PM,10:39,,,Lyles 1' Finger Roll Layup (5 PTS),35 - 23,-12,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,166,2,79,2,10:45 PM,10:22,MISS Knight 20' Pullup Jump Shot,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,167,4,0,2,10:45 PM,10:22,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,168,6,4,2,10:45 PM,10:06,,,Withey OFF.Foul (P1) (L.Richardson),,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,4,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,169,5,5,2,10:45 PM,10:06,,,Withey Foul Turnover (P1.T7),,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011600018,172,5,8,2,10:46 PM,9:49,Williams 3 Second Violation Turnover (P2.T9),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011600018,173,9,1,2,10:46 PM,9:49,,,Jazz Timeout: Regular (Reg.1 Short 0),,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,178,5,1,2,10:49 PM,9:28,Bender STEAL (1 STL),,Ingles Bad Pass Turnover (P1.T8),,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,179,5,45,2,10:49 PM,9:26,Bender Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,,,,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011600018,264,5,11,2,10:49 PM,9:00,,,Jazz Turnover: Shot Clock (T#9),,,3.0,1610612762,,,,,,0,0,,,,,,1,0,,,,,,0
+0011600018,182,6,2,2,10:50 PM,8:41,,,Johnson S.FOUL (P2.T1) (L.Richardson),,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,4,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,183,3,11,2,10:50 PM,8:41,MISS Barbosa Free Throw 1 of 2,,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,184,4,1,2,10:50 PM,8:41,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,185,8,0,2,10:51 PM,8:41,,,SUB: Exum FOR Ingles,,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,186,3,12,2,10:51 PM,8:41,Barbosa Free Throw 2 of 2 (1 PTS),,,35 - 24,-11,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,188,2,1,2,10:51 PM,8:19,,,MISS Johnson 28' 3PT Jump Shot,,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,189,4,0,2,10:51 PM,8:19,Goodwin REBOUND (Off:0 Def:1),,,,,4.0,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,190,1,42,2,10:51 PM,8:10,Knight 3' Driving Layup (9 PTS),,,35 - 26,-9,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,191,6,2,2,10:51 PM,8:10,,,Withey S.FOUL (P2.T2) (J.Phillips),,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,192,8,0,2,10:52 PM,8:10,,,SUB: Gobert FOR Withey,,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,193,3,10,2,10:52 PM,8:10,Knight Free Throw 1 of 1 (10 PTS),,,35 - 27,-8,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,195,2,80,2,10:52 PM,7:47,,,MISS Exum 21' Step Back Jump Shot,,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,196,4,0,2,10:52 PM,7:47,Goodwin REBOUND (Off:0 Def:2),,,,,4.0,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,197,2,1,2,10:53 PM,7:29,MISS Barbosa  3PT Jump Shot,,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,198,4,0,2,10:53 PM,7:29,Williams REBOUND (Off:4 Def:0),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,199,1,3,2,10:53 PM,7:24,Williams 3' Hook Shot (2 PTS),,,35 - 29,-6,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,200,6,1,2,10:53 PM,7:12,Knight P.FOUL (P1.T1) (J.Phillips),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,201,5,1,2,10:53 PM,7:03,Williams STEAL (1 STL),,Johnson Bad Pass Turnover (P1.T10),,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,4,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,202,2,1,2,10:54 PM,6:58,MISS Bender 26' 3PT Jump Shot,,,,,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,203,4,0,2,10:54 PM,6:56,Williams REBOUND (Off:5 Def:0),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,204,2,72,2,10:54 PM,6:55,MISS Williams 1' Putback Layup,,Gobert BLOCK (2 BLK),,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0
+0011600018,206,4,0,2,10:54 PM,6:53,Williams REBOUND (Off:6 Def:0),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,205,2,72,2,10:54 PM,6:53,MISS Williams 2' Putback Layup,,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,207,4,0,2,10:54 PM,6:52,,,Lyles REBOUND (Off:0 Def:1),,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,208,1,5,2,10:54 PM,6:43,,,Lyles  Layup (7 PTS),37 - 29,-8,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,209,2,80,2,10:54 PM,6:27,MISS Goodwin 17' Step Back Jump Shot,,,,,4.0,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,210,4,0,2,10:54 PM,6:25,,,Mack REBOUND (Off:0 Def:1),,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,211,2,79,2,10:54 PM,6:20,,,MISS Mack 26' 3PT Pullup Jump Shot,,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,212,4,0,2,10:54 PM,6:17,Knight REBOUND (Off:0 Def:2),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,213,2,1,2,10:54 PM,6:04,MISS Barbosa 18' Jump Shot,,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,214,4,0,2,10:54 PM,6:03,,,Mack REBOUND (Off:0 Def:2),,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,215,1,44,2,10:55 PM,5:57,,,Exum 2' Reverse Layup (4 PTS) (Mack 1 AST),39 - 29,-10,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,216,9,1,2,10:55 PM,5:49,SUNS Timeout: Regular (Full 3 Short 0),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,273,18,1,2,10:55 PM,5:49,,,,,,,264,,,,,,0,0,,,,,,1,0,,,,,,0
+0011600018,218,8,0,2,10:57 PM,5:49,SUB: Bledsoe FOR Knight,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,219,8,0,2,10:57 PM,5:49,SUB: Chriss FOR Bender,,,,,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,4,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,220,8,0,2,10:57 PM,5:49,SUB: Warren FOR Barbosa,,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,221,8,0,2,10:57 PM,5:49,SUB: Len FOR Williams,,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,222,8,0,2,10:57 PM,5:49,SUB: Booker FOR Goodwin,,,,,4.0,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,223,8,0,2,10:57 PM,5:49,,,SUB: G. Hill FOR Mack,,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,5,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,224,6,1,2,10:58 PM,5:46,,,Exum P.FOUL (P2.T3) (J.Phillips),,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,225,5,39,2,10:58 PM,5:34,Chriss Step Out of Bounds Turnover (P2.T11),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011600018,226,1,7,2,10:59 PM,5:19,,,Gobert  Dunk (12 PTS) (Exum 4 AST),41 - 29,-12,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,227,1,1,2,10:59 PM,4:53,Bledsoe 16' Jump Shot (5 PTS),,,41 - 31,-10,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,228,2,1,2,10:59 PM,4:36,,,MISS Lyles 26' 3PT Jump Shot,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,229,4,0,2,10:59 PM,4:36,Chriss REBOUND (Off:1 Def:3),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,230,1,73,2,11:00 PM,4:27,Booker 1' Driving Reverse Layup (9 PTS),,,41 - 33,-8,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,231,6,1,2,11:00 PM,4:19,Booker P.FOUL (P1.T2) (J.Orr),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,201588,George Hill,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,232,8,0,2,11:00 PM,4:19,,,SUB: Diaw FOR Lyles,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,5,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,233,5,1,2,11:00 PM,4:06,Booker STEAL (1 STL),,Exum Bad Pass Turnover (P1.T11),,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,234,2,1,2,11:01 PM,3:59,MISS Booker 27' 3PT Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,235,4,0,2,11:01 PM,3:57,Bledsoe REBOUND (Off:1 Def:0),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,238,6,2,2,11:01 PM,3:53,,,Johnson S.FOUL (P3.T4) (J.Phillips),,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,239,3,11,2,11:01 PM,3:53,Warren Free Throw 1 of 2 (1 PTS),,,41 - 34,-7,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,241,3,12,2,11:01 PM,3:53,MISS Warren Free Throw 2 of 2,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,243,4,0,2,11:01 PM,3:52,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,244,6,2,2,11:02 PM,3:42,Booker S.FOUL (P2.T3) (J.Phillips),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,245,3,11,2,11:02 PM,3:42,,,MISS Exum Free Throw 1 of 2,,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,246,4,1,2,11:02 PM,3:42,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,247,3,12,2,11:02 PM,3:42,,,Exum Free Throw 2 of 2 (5 PTS),42 - 34,-8,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,249,6,28,2,11:03 PM,3:41,,,G. Hill Personal Take Foul (P1.PN) (L.Richardson),,,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,251,3,11,2,11:03 PM,3:41,MISS Bledsoe Free Throw 1 of 2,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,252,4,1,2,11:03 PM,3:41,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,253,8,0,2,11:03 PM,3:41,,,SUB: Mack FOR Johnson,,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,254,8,0,2,11:03 PM,3:41,,,SUB: Ingles FOR Exum,,,5.0,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,255,3,12,2,11:04 PM,3:41,Bledsoe Free Throw 2 of 2 (6 PTS),,,42 - 35,-7,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,257,6,2,2,11:04 PM,3:29,Chriss S.FOUL (P3.T4) (L.Richardson),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,258,3,11,2,11:04 PM,3:29,,,Diaw Free Throw 1 of 2 (1 PTS),43 - 35,-8,5.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,260,3,12,2,11:04 PM,3:29,,,MISS Diaw Free Throw 2 of 2,,,5.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,262,4,0,2,11:05 PM,3:28,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,263,1,1,2,11:05 PM,3:14,Len 20' Jump Shot (2 PTS) (Bledsoe 3 AST),,,43 - 37,-6,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,265,2,80,2,11:05 PM,2:57,,,MISS G. Hill 17' Step Back Jump Shot,,,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,266,4,0,2,11:05 PM,2:56,Booker REBOUND (Off:0 Def:2),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,267,6,4,2,11:05 PM,2:53,Chriss OFF.Foul (P4) (L.Richardson),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,268,5,5,2,11:05 PM,2:53,Chriss Foul Turnover (P3.T12),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011600018,269,9,4,2,11:05 PM,2:53,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,274,8,0,2,11:08 PM,2:53,SUB: Knight FOR Chriss,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,276,2,81,2,11:08 PM,2:39,,,MISS Gobert 16' Pullup Bank Shot,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,277,4,0,2,11:08 PM,2:38,Warren REBOUND (Off:1 Def:1),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,278,1,41,2,11:08 PM,2:33,Bledsoe 1' Running Layup (8 PTS),,,43 - 39,-4,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,280,2,1,2,11:09 PM,2:20,,,MISS G. Hill 10' Jump Shot,,,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,281,4,0,2,11:09 PM,2:20,,,Gobert REBOUND (Off:5 Def:2),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,282,6,1,2,11:09 PM,2:18,Knight P.FOUL (P2.PN) (J.Phillips),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,283,3,11,2,11:09 PM,2:18,,,Gobert Free Throw 1 of 2 (13 PTS),44 - 39,-5,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,285,3,12,2,11:09 PM,2:18,,,Gobert Free Throw 2 of 2 (14 PTS),45 - 39,-6,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,287,1,42,2,11:10 PM,2:05,Warren 2' Driving Layup (3 PTS),,,45 - 41,-4,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,288,2,1,2,11:10 PM,1:42,Warren BLOCK (1 BLK),,MISS Ingles 27' 3PT Jump Shot,,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0
+0011600018,289,4,0,2,11:10 PM,1:41,Booker REBOUND (Off:0 Def:3),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,290,1,41,2,11:10 PM,1:36,Warren 3' Running Layup (5 PTS) (Booker 1 AST),,,45 - 43,-2,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,291,6,2,2,11:11 PM,1:21,Booker S.FOUL (P3.PN) (J.Orr),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,292,3,11,2,11:11 PM,1:21,,,Gobert Free Throw 1 of 2 (15 PTS),46 - 43,-3,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,294,3,12,2,11:11 PM,1:21,,,Gobert Free Throw 2 of 2 (16 PTS),47 - 43,-4,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,297,2,80,2,11:11 PM,1:10,MISS Warren 15' Step Back Jump Shot,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,298,4,0,2,11:11 PM,1:09,,,Gobert REBOUND (Off:5 Def:3),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,299,2,101,2,11:12 PM,0:54,Len BLOCK (1 BLK),,MISS Mack 4' Driving Floating Jump Shot,,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0
+0011600018,300,4,0,2,11:12 PM,0:53,Len REBOUND (Off:2 Def:1),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,301,1,41,2,11:12 PM,0:47,Warren 1' Running Layup (7 PTS) (Knight 1 AST),,,47 - 45,-2,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,302,2,81,2,11:12 PM,0:27,,,MISS G. Hill 14' Pullup Bank Shot,,,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,303,4,0,2,11:12 PM,0:27,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,304,6,3,2,11:12 PM,0:27,,,Gobert L.B.FOUL (P3.PN) (J.Phillips),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,305,3,11,2,11:13 PM,0:27,MISS Len Free Throw 1 of 2,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,306,4,1,2,11:13 PM,0:27,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,308,3,12,2,11:13 PM,0:27,MISS Len Free Throw 2 of 2,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,310,4,0,2,11:13 PM,0:26,,,Diaw REBOUND (Off:0 Def:2),,,5.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,311,1,42,2,11:13 PM,0:03,,,Ingles 1' Driving Layup (4 PTS) (G. Hill 3 AST),49 - 45,-4,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,5,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,313,2,1,2,11:14 PM,0:00,MISS Bledsoe 53' 3PT Jump Shot,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,315,4,0,2,11:14 PM,0:00,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,314,13,0,2,11:14 PM,0:00,,,,49 - 45,-4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,317,12,0,3,11:29 PM,12:00,,,,49 - 45,-4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,318,1,1,3,11:30 PM,11:47,Len 19' Jump Shot (4 PTS) (Bledsoe 4 AST),,,49 - 47,-2,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,319,2,1,3,11:30 PM,11:31,,,MISS Ingles 24' 3PT Jump Shot,,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,320,4,0,3,11:30 PM,11:31,Bledsoe REBOUND (Off:1 Def:1),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,321,2,79,3,11:30 PM,11:22,MISS Bledsoe 21' Pullup Jump Shot,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,322,4,0,3,11:30 PM,11:22,,,Hayward REBOUND (Off:0 Def:1),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,323,5,2,3,11:30 PM,11:16,Warren STEAL (1 STL),,Hayward Lost Ball Turnover (P2.T12),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,324,1,50,3,11:30 PM,11:10,Warren  Running Dunk (9 PTS),,,49 - 49,TIE,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,325,1,101,3,11:30 PM,10:58,,,Hayward 4' Driving Floating Jump Shot (9 PTS),51 - 49,-2,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,326,2,42,3,11:31 PM,10:47,MISS Bledsoe 3' Driving Layup,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,327,4,0,3,11:31 PM,10:46,,,Ingles REBOUND (Off:0 Def:2),,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,328,5,40,3,11:31 PM,10:35,,,Gobert Out of Bounds Lost Ball Turnover (P3.T13),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011600018,329,1,73,3,11:31 PM,10:18,Warren 1' Driving Reverse Layup (11 PTS) (Booker 2 AST),,,51 - 51,TIE,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,330,2,1,3,11:31 PM,10:05,,,MISS G. Hill 26' 3PT Jump Shot,,,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,331,4,0,3,11:32 PM,10:05,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,332,1,108,3,11:32 PM,9:52,Chriss  Cutting Dunk Shot (6 PTS) (Booker 3 AST),,,51 - 53,2,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,333,1,108,3,11:32 PM,9:37,,,Gobert  Cutting Dunk Shot (18 PTS) (G. Hill 4 AST),53 - 53,TIE,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,334,2,47,3,11:32 PM,9:26,MISS Chriss 8' Turnaround Jump Shot,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,335,4,0,3,11:32 PM,9:25,,,Gobert REBOUND (Off:5 Def:4),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,336,2,1,3,11:33 PM,9:09,,,MISS Johnson 18' Jump Shot,,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,337,4,0,3,11:33 PM,9:08,Len REBOUND (Off:2 Def:2),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,338,2,1,3,11:33 PM,8:58,MISS Len 21' Jump Shot,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,339,4,0,3,11:33 PM,8:58,,,Johnson REBOUND (Off:0 Def:2),,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,340,5,8,3,11:33 PM,8:48,,,G. Hill 3 Second Violation Turnover (P1.T14),,,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011600018,341,2,1,3,11:33 PM,8:33,MISS Warren 24' 3PT Jump Shot,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,342,4,0,3,11:33 PM,8:32,Warren REBOUND (Off:2 Def:1),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,343,2,42,3,11:33 PM,8:28,MISS Len 1' Driving Layup,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,344,4,0,3,11:33 PM,8:27,,,Hayward REBOUND (Off:0 Def:2),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,345,2,1,3,11:34 PM,8:20,Warren BLOCK (2 BLK),,MISS G. Hill 20' Jump Shot,,,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0
+0011600018,346,4,0,3,11:34 PM,8:20,Bledsoe REBOUND (Off:1 Def:2),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,347,1,79,3,11:34 PM,8:14,Bledsoe 25' 3PT Pullup Jump Shot (11 PTS),,,53 - 56,3,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,348,9,1,3,11:34 PM,8:13,,,Jazz Timeout: Regular (Reg.2 Short 0),,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,351,1,42,3,11:36 PM,8:03,,,G. Hill 2' Driving Layup (5 PTS),55 - 56,1,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,353,2,1,3,11:37 PM,7:46,MISS Booker 20' Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,354,4,0,3,11:37 PM,7:45,,,Ingles REBOUND (Off:0 Def:3),,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,355,1,1,3,11:37 PM,7:35,,,Ingles 25' 3PT Jump Shot (7 PTS),58 - 56,-2,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,356,5,4,3,11:38 PM,7:20,Bledsoe Traveling Turnover (P2.T13),,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011600018,357,6,2,3,11:38 PM,7:13,Chriss S.FOUL (P5.T1) (J.Phillips),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,358,3,11,3,11:38 PM,7:13,,,Gobert Free Throw 1 of 2 (19 PTS),59 - 56,-3,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,360,3,12,3,11:38 PM,7:13,,,Gobert Free Throw 2 of 2 (20 PTS),60 - 56,-4,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,362,2,80,3,11:39 PM,6:54,MISS Booker 11' Step Back Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,363,4,0,3,11:39 PM,6:53,,,Johnson REBOUND (Off:0 Def:3),,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,364,6,2,3,11:39 PM,6:41,Booker S.FOUL (P4.T2) (L.Richardson),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,201588,George Hill,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,365,3,11,3,11:39 PM,6:41,,,MISS G. Hill Free Throw 1 of 2,,,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,366,4,1,3,11:39 PM,6:41,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,367,8,0,3,11:40 PM,6:41,SUB: Knight FOR Booker,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,368,3,12,3,11:40 PM,6:41,,,MISS G. Hill Free Throw 2 of 2,,,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,370,4,0,3,11:40 PM,6:40,Chriss REBOUND (Off:1 Def:4),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,371,2,5,3,11:40 PM,6:25,MISS Warren 2' Layup,,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,372,4,0,3,11:40 PM,6:25,Warren REBOUND (Off:3 Def:1),,,,,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,373,1,72,3,11:40 PM,6:22,Warren 2' Putback Layup (13 PTS),,,60 - 58,-2,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,374,1,78,3,11:40 PM,6:05,,,G. Hill 13' Floating Jump Shot (7 PTS),62 - 58,-4,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,375,1,1,3,11:41 PM,5:39,Chriss 10' Jump Shot (8 PTS) (Knight 2 AST),,,62 - 60,-2,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,376,6,2,3,11:41 PM,5:39,,,Ingles S.FOUL (P1.T1) (L.Richardson),,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,4,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,377,8,0,3,11:41 PM,5:39,SUB: Ulis FOR Bledsoe,,,,,4.0,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,378,3,10,3,11:41 PM,5:39,Chriss Free Throw 1 of 1 (9 PTS),,,62 - 61,-1,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,380,2,79,3,11:42 PM,5:28,,,MISS Hayward 18' Pullup Jump Shot,,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,381,4,0,3,11:42 PM,5:25,Knight REBOUND (Off:0 Def:3),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,382,2,41,3,11:42 PM,5:21,MISS Knight 2' Running Layup,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,384,4,0,3,11:42 PM,5:20,Chriss REBOUND (Off:2 Def:4),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,383,2,97,3,11:42 PM,5:20,MISS Chriss 2' Tip Layup Shot,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,385,4,0,3,11:42 PM,5:18,,,Gobert REBOUND (Off:5 Def:5),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,386,2,1,3,11:42 PM,5:13,,,MISS Ingles 24' 3PT Jump Shot,,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,387,4,0,3,11:42 PM,5:12,Ulis REBOUND (Off:0 Def:1),,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,388,2,1,3,11:42 PM,4:54,MISS Ulis 10' Jump Shot,,G. Hill BLOCK (1 BLK),,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0
+0011600018,389,4,0,3,11:42 PM,4:53,,,Ingles REBOUND (Off:0 Def:4),,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,390,1,50,3,11:42 PM,4:50,,,Hayward  Running Dunk (11 PTS) (Ingles 1 AST),64 - 61,-3,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,391,6,1,3,11:43 PM,4:35,,,Johnson P.FOUL (P4.T2) (J.Phillips),,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,392,6,1,3,11:43 PM,4:34,,,Ingles P.FOUL (P2.T3) (J.Phillips),,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,393,1,1,3,11:43 PM,4:30,Knight 24' 3PT Jump Shot (13 PTS) (Warren 1 AST),,,64 - 64,TIE,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,394,5,39,3,11:44 PM,4:16,,,Ingles Step Out of Bounds Turnover (P2.T15),,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011600018,395,5,2,3,11:44 PM,4:08,Knight Lost Ball Turnover (P1.T14),,Johnson STEAL (1 STL),,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,5,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,396,5,4,3,11:44 PM,4:07,,,Gobert Traveling Turnover (P4.T16),,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011600018,399,2,57,3,11:44 PM,3:57,MISS Len 4' Driving Hook Shot,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,400,4,0,3,11:44 PM,3:56,Knight REBOUND (Off:1 Def:3),,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,401,1,97,3,11:44 PM,3:54,Knight 2' Tip Layup Shot (15 PTS),,,64 - 66,2,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,402,1,41,3,11:44 PM,3:49,,,Ingles 2' Running Layup (9 PTS) (G. Hill 5 AST),66 - 66,TIE,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,5,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,403,2,1,3,11:44 PM,3:40,MISS Knight 26' 3PT Jump Shot,,Gobert BLOCK (3 BLK),,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0
+0011600018,404,4,0,3,11:45 PM,3:40,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,405,1,86,3,11:45 PM,3:19,,,Hayward 10' Turnaround Fadeaway (13 PTS),68 - 66,-2,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,406,1,44,3,11:45 PM,3:06,Warren 2' Reverse Layup (15 PTS) (Len 2 AST),,,68 - 68,TIE,4.0,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,407,6,2,3,11:45 PM,2:58,Len S.FOUL (P3.T3) (L.Richardson),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,408,9,1,3,11:46 PM,2:58,SUNS Timeout: Regular (Full 4 Short 0),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,409,18,1,3,11:46 PM,2:58,,,,,,,355,Vincent Askew,,,,,0,0,,,,,,1,0,,,,,,0
+0011600018,411,8,0,3,11:48 PM,2:58,SUB: Bender FOR Chriss,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,412,8,0,3,11:48 PM,2:58,,,SUB: Diaw FOR Ingles,,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,5,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,413,8,0,3,11:48 PM,2:58,,,SUB: Mack FOR Johnson,,,5.0,2207,Joe Johnson,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,414,3,11,3,11:48 PM,2:58,,,Gobert Free Throw 1 of 2 (21 PTS),69 - 68,-1,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,416,3,12,3,11:48 PM,2:58,,,MISS Gobert Free Throw 2 of 2,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,418,4,0,3,11:48 PM,2:56,Bender REBOUND (Off:1 Def:2),,,,,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,419,2,42,3,11:49 PM,2:40,MISS Len 3' Driving Layup,,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,420,4,0,3,11:49 PM,2:40,,,Hayward REBOUND (Off:0 Def:3),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,421,1,78,3,11:49 PM,2:30,,,Hayward 5' Floating Jump Shot (15 PTS),71 - 68,-3,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,422,1,78,3,11:49 PM,2:11,Ulis 13' Floating Jump Shot (2 PTS),,,71 - 70,-1,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,423,2,5,3,11:50 PM,1:51,Warren BLOCK (3 BLK),,MISS Gobert 2' Layup,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0
+0011600018,424,4,0,3,11:50 PM,1:51,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,425,8,0,3,11:50 PM,1:51,,,SUB: Withey FOR Gobert,,,5.0,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,426,2,1,3,11:50 PM,1:41,,,MISS G. Hill 21' Jump Shot,,,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,427,4,0,3,11:50 PM,1:41,Len REBOUND (Off:2 Def:3),,,,,4.0,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,428,2,80,3,11:50 PM,1:18,MISS Knight  3PT Step Back Jump Shot,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,429,4,0,3,11:50 PM,1:17,,,Hayward REBOUND (Off:0 Def:4),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,430,2,1,3,11:51 PM,1:01,Bender BLOCK (1 BLK),,MISS Withey 3' Jump Shot,,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0
+0011600018,431,4,0,3,11:51 PM,1:01,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,432,1,43,3,11:51 PM,1:00,,,G. Hill 1' Alley Oop Layup (9 PTS) (Hayward 1 AST),73 - 70,-3,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,433,5,2,3,11:51 PM,0:50,Knight Lost Ball Turnover (P2.T15),,Diaw STEAL (1 STL),,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,5,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,434,5,2,3,11:51 PM,0:46,Ulis STEAL (1 STL),,Hayward Lost Ball Turnover (P3.T17),,,5.0,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,435,1,41,3,11:51 PM,0:43,Knight 1' Running Layup (17 PTS) (Ulis 1 AST),,,73 - 72,-1,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,436,1,80,3,11:52 PM,0:26,,,G. Hill 20' Step Back Jump Shot (11 PTS),75 - 72,-3,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,437,6,1,3,11:52 PM,0:10,,,G. Hill P.FOUL (P2.T4) (L.Richardson),,,5.0,201588,George Hill,1610612762.0,Utah,Jazz,UTA,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,438,2,42,3,11:52 PM,0:01,MISS Knight 3' Driving Layup,,Withey BLOCK (1 BLK),,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0
+0011600018,439,4,0,3,11:53 PM,0:01,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,440,5,1,3,11:53 PM,0:00,Ulis Bad Pass Turnover (P1.T16),,Hayward STEAL (2 STL),,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,441,13,0,3,11:53 PM,0:00,,,,75 - 72,-3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,443,12,0,4,11:56 PM,12:00,,,,75 - 72,-3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,444,1,108,4,11:56 PM,11:44,,,Withey  Cutting Dunk Shot (2 PTS) (Mack 2 AST),77 - 72,-5,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,445,6,1,4,11:56 PM,11:36,,,Ingles P.FOUL (P3.T1) (L.Richardson),,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,446,1,42,4,11:56 PM,11:24,Bender 2' Driving Layup (4 PTS),,,77 - 74,-3,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,447,5,1,4,11:57 PM,11:03,Knight STEAL (2 STL),,Diaw Bad Pass Turnover (P1.T18),,,5.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,449,8,0,4,11:57 PM,10:59,,,SUB: Lyles FOR Withey,,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,450,2,5,4,11:57 PM,10:45,MISS Barbosa 3' Layup,,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,452,4,0,4,11:57 PM,10:43,Williams REBOUND (Off:7 Def:0),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,451,1,72,4,11:57 PM,10:43,Williams 1' Putback Layup (4 PTS),,,77 - 76,-1,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,453,6,1,4,11:58 PM,10:38,Ulis P.FOUL (P1.T1) (J.Phillips),,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,454,1,98,4,11:58 PM,10:30,,,Diaw 2' Cutting Layup Shot (3 PTS) (Mack 3 AST),79 - 76,-3,5.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,455,2,42,4,11:58 PM,10:19,MISS Knight 1' Driving Layup,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,456,4,0,4,11:58 PM,10:17,,,Diaw REBOUND (Off:0 Def:3),,,5.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,457,1,1,4,11:58 PM,10:12,,,Lyles  3PT Jump Shot (10 PTS) (Mack 4 AST),82 - 76,-6,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,458,6,1,4,11:59 PM,9:54,,,Mack P.FOUL (P1.T2) (J.Orr),,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,4,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,459,2,42,4,11:59 PM,9:40,MISS Knight 2' Driving Layup,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,460,4,0,4,11:59 PM,9:40,,,Lyles REBOUND (Off:0 Def:2),,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,461,6,2,4,11:59 PM,9:35,Williams S.FOUL (P2.T2) (J.Phillips),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,5,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,462,3,11,4,11:59 PM,9:35,,,Ingles Free Throw 1 of 2 (10 PTS),83 - 76,-7,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,464,8,0,4,12:00 AM,9:35,SUB: Chriss FOR Williams,,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,4,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,465,3,12,4,12:00 AM,9:35,,,Ingles Free Throw 2 of 2 (11 PTS),84 - 76,-8,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,467,6,1,4,12:00 AM,9:28,,,Mack P.FOUL (P2.T3) (J.Orr),,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,468,8,0,4,12:00 AM,9:28,,,SUB: Neto FOR Mack,,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,5,203526,Raul Neto,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,469,6,2,4,12:01 AM,9:22,,,Diaw S.FOUL (P1.T4) (J.Phillips),,,5.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,4,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,470,3,11,4,12:01 AM,9:22,Chriss Free Throw 1 of 2 (10 PTS),,,84 - 77,-7,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,472,3,12,4,12:01 AM,9:22,Chriss Free Throw 2 of 2 (11 PTS),,,84 - 78,-6,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,474,1,1,4,12:02 AM,8:56,,,Johnson  3PT Jump Shot (3 PTS) (Neto 1 AST),87 - 78,-9,5.0,203187,Chris Johnson,1610612762.0,Utah,Jazz,UTA,5,203526,Raul Neto,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,475,2,1,4,12:02 AM,8:42,MISS Chriss 20' Jump Shot,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,476,4,0,4,12:02 AM,8:42,,,Ingles REBOUND (Off:0 Def:5),,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,477,5,8,4,12:03 AM,8:31,,,Diaw 3 Second Violation Turnover (P2.T19),,,5.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011600018,478,9,1,4,12:03 AM,8:31,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,480,8,0,4,12:04 AM,8:31,SUB: Jenkins FOR Knight,,,,,4.0,202688,Brandon Knight,1610612756.0,Phoenix,Suns,PHX,4,203098,John Jenkins,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,481,8,0,4,12:05 AM,8:31,,,SUB: Mack FOR Diaw,,,5.0,2564,Boris Diaw,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,482,8,0,4,12:05 AM,8:31,,,SUB: Withey FOR Ingles,,,5.0,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,5,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,483,2,78,4,12:05 AM,8:14,MISS Ulis 15' Floating Jump Shot,,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,485,4,0,4,12:05 AM,8:11,Chriss REBOUND (Off:3 Def:4),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,484,2,97,4,12:05 AM,8:11,MISS Chriss 2' Tip Layup Shot,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,486,4,0,4,12:05 AM,8:10,Ulis REBOUND (Off:1 Def:1),,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,487,1,1,4,12:05 AM,8:03,Barbosa 26' 3PT Jump Shot (4 PTS) (Bender 1 AST),,,87 - 81,-6,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,488,1,78,4,12:06 AM,7:40,,,Mack 11' Floating Jump Shot (6 PTS),89 - 81,-8,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,489,2,5,4,12:06 AM,7:20,MISS Chriss 2' Layup,,Johnson BLOCK (1 BLK),,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,203187,Chris Johnson,1610612762.0,Utah,Jazz,UTA,0
+0011600018,490,4,0,4,12:06 AM,7:19,,,Lyles REBOUND (Off:0 Def:3),,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,491,2,5,4,12:06 AM,7:13,,,MISS Neto 3' Layup,,,5.0,203526,Raul Neto,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,492,4,0,4,12:06 AM,7:12,Ulis REBOUND (Off:1 Def:2),,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,493,5,45,4,12:06 AM,7:10,Jenkins Out of Bounds - Bad Pass Turnover Turnover (P1.T17),,,,,4.0,203098,John Jenkins,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011600018,494,2,1,4,12:07 AM,6:52,,,MISS Mack 13' Jump Shot,,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,495,4,0,4,12:07 AM,6:51,,,Mack REBOUND (Off:1 Def:2),,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,496,5,45,4,12:07 AM,6:51,,,Mack Out of Bounds - Bad Pass Turnover Turnover (P2.T20),,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011600018,497,2,1,4,12:07 AM,6:28,MISS Chriss 5' Jump Shot,,Withey BLOCK (2 BLK),,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0
+0011600018,498,4,0,4,12:07 AM,6:27,SUNS Rebound,,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,499,2,1,4,12:08 AM,6:23,MISS Chriss 3' Jump Shot,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,500,4,0,4,12:08 AM,6:22,Chriss REBOUND (Off:4 Def:4),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,501,2,1,4,12:08 AM,6:20,MISS Chriss 3' Jump Shot,,Lyles BLOCK (2 BLK),,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0
+0011600018,502,4,0,4,12:08 AM,6:19,,,Johnson REBOUND (Off:0 Def:1),,,5.0,203187,Chris Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,509,2,40,4,12:08 AM,6:13,Bender BLOCK (2 BLK),,MISS Withey 2' Layup,,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0
+0011600018,503,4,0,4,12:08 AM,6:10,Bender REBOUND (Off:1 Def:3),,,,,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,504,2,1,4,12:08 AM,6:05,MISS Barbosa 24' 3PT Jump Shot,,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,505,4,0,4,12:08 AM,6:04,,,Mack REBOUND (Off:1 Def:3),,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,506,2,7,4,12:08 AM,5:44,,,MISS Withey  Dunk,,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,507,4,0,4,12:08 AM,5:42,Barbosa REBOUND (Off:0 Def:1),,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,508,2,1,4,12:09 AM,5:32,MISS Barbosa 24' 3PT Jump Shot,,Johnson BLOCK (2 BLK),,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,203187,Chris Johnson,1610612762.0,Utah,Jazz,UTA,0
+0011600018,510,4,0,4,12:09 AM,5:31,,,Withey REBOUND (Off:1 Def:2),,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,511,5,1,4,12:09 AM,5:28,Chriss STEAL (1 STL),,Withey Bad Pass Turnover (P2.T21),,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,4,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,512,1,75,4,12:09 AM,5:28,Barbosa 2' Driving Finger Roll Layup (6 PTS),,,89 - 83,-6,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,513,7,1,4,12:09 AM,5:28,SUNS Violation: Delay of game Violation,,,,,2.0,1610612756,,,,,,0,0,,,,,,1,0,,,,,,0
+0011600018,514,9,1,4,12:09 AM,5:28,,,Jazz Timeout: Regular (Reg.3 Short 0),,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,516,8,0,4,12:11 AM,5:28,SUB: Booker FOR Ulis,,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,518,6,1,4,12:12 AM,5:17,Booker P.FOUL (P5.T3) (J.Orr),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,203526,Raul Neto,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,519,1,63,4,12:12 AM,5:06,,,Neto 9' Fadeaway Jumper (2 PTS),91 - 83,-8,5.0,203526,Raul Neto,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,520,6,1,4,12:12 AM,4:52,,,Johnson P.FOUL (P1.PN) (J.Phillips),,,5.0,203187,Chris Johnson,1610612762.0,Utah,Jazz,UTA,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,521,3,11,4,12:13 AM,4:52,Booker Free Throw 1 of 2 (10 PTS),,,91 - 84,-7,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,523,3,12,4,12:13 AM,4:52,Booker Free Throw 2 of 2 (11 PTS),,,91 - 85,-6,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,525,6,2,4,12:13 AM,4:41,Chriss S.FOUL (P6.T4) (L.Richardson),,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,526,8,0,4,12:13 AM,4:41,SUB: Williams FOR Chriss,,,,,4.0,1627737,Marquese Chriss,1610612756.0,Phoenix,Suns,PHX,4,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,527,3,13,4,12:14 AM,4:41,,,MISS Lyles Free Throw 1 of 3,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,528,4,1,4,12:14 AM,4:41,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,529,3,14,4,12:14 AM,4:41,,,MISS Lyles Free Throw 2 of 3,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,530,4,1,4,12:14 AM,4:41,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,533,7,3,4,12:15 AM,4:41,Barbosa Violation:Lane (J.Orr),,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011600018,535,3,15,4,12:15 AM,4:41,,,Lyles Free Throw 3 of 3 (11 PTS),92 - 85,-7,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,537,2,1,4,12:15 AM,4:32,MISS Booker 26' 3PT Jump Shot,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,538,4,0,4,12:15 AM,4:31,Booker REBOUND (Off:1 Def:3),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,539,6,2,4,12:16 AM,4:26,,,Mack S.FOUL (P3.PN) (L.Richardson),,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,540,3,11,4,12:16 AM,4:26,Booker Free Throw 1 of 2 (12 PTS),,,92 - 86,-6,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,542,3,12,4,12:16 AM,4:26,Booker Free Throw 2 of 2 (13 PTS),,,92 - 87,-5,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,544,6,2,4,12:16 AM,4:12,Williams S.FOUL (P3.PN) (L.Richardson),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,5,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,545,3,11,4,12:17 AM,4:12,,,MISS Lyles Free Throw 1 of 2,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,546,4,1,4,12:17 AM,4:12,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,547,3,12,4,12:17 AM,4:12,,,Lyles Free Throw 2 of 2 (12 PTS),93 - 87,-6,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,549,2,1,4,12:18 AM,3:52,MISS Bender 25' 3PT Jump Shot,,,,,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,550,4,0,4,12:18 AM,3:52,,,Mack REBOUND (Off:1 Def:4),,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,551,1,98,4,12:18 AM,3:44,,,Johnson 1' Cutting Layup Shot (5 PTS) (Mack 5 AST),95 - 87,-8,5.0,203187,Chris Johnson,1610612762.0,Utah,Jazz,UTA,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011600018,552,6,2,4,12:18 AM,3:44,Booker S.FOUL (P6.PN) (J.Orr),,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,203187,Chris Johnson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,553,8,0,4,12:18 AM,3:44,SUB: Ulis FOR Booker,,,,,4.0,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,554,3,10,4,12:18 AM,3:44,,,Johnson Free Throw 1 of 1 (6 PTS),96 - 87,-9,5.0,203187,Chris Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,556,2,79,4,12:19 AM,3:26,MISS Ulis 18' Pullup Jump Shot,,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,557,4,0,4,12:19 AM,3:24,,,Lyles REBOUND (Off:0 Def:4),,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,558,6,27,4,12:19 AM,3:17,Barbosa Personal Block Foul (P1.PN) (J.Orr),,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,559,3,11,4,12:19 AM,3:17,,,Mack Free Throw 1 of 2 (7 PTS),97 - 87,-10,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,561,3,12,4,12:19 AM,3:17,,,Mack Free Throw 2 of 2 (8 PTS),98 - 87,-11,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,564,1,1,4,12:20 AM,3:02,Bender 18' Jump Shot (6 PTS) (Barbosa 1 AST),,,98 - 89,-9,4.0,1627733,Dragan Bender,1610612756.0,Phoenix,Suns,PHX,4,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011600018,565,2,108,4,12:20 AM,2:45,,,MISS Withey  Cutting Dunk Shot,,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,566,4,0,4,12:20 AM,2:41,,,Lyles REBOUND (Off:1 Def:4),,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,567,2,86,4,12:20 AM,2:37,,,MISS Lyles 18' Turnaround Fadeaway Shot,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,568,4,0,4,12:20 AM,2:37,Williams REBOUND (Off:7 Def:1),,,,,4.0,1626210,Alan Williams,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,569,2,66,4,12:21 AM,2:24,MISS Jenkins 4' Jump Bank Shot,,,,,4.0,203098,John Jenkins,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,570,4,0,4,12:21 AM,2:24,,,Johnson REBOUND (Off:0 Def:2),,,5.0,203187,Chris Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,572,9,1,4,12:21 AM,2:08,SUNS Timeout: Regular (Full 5 Short 0),,,,,2.0,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,576,2,1,4,12:24 AM,2:04,,,MISS Lyles 26' 3PT Jump Shot,,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,577,4,0,4,12:24 AM,2:03,,,Jazz Rebound,,,3.0,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600018,578,6,4,4,12:24 AM,2:02,,,Johnson OFF.Foul (P2) (J.Orr),,,5.0,203187,Chris Johnson,1610612762.0,Utah,Jazz,UTA,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,579,5,5,4,12:24 AM,2:02,,,Johnson Foul Turnover (P1.T22),,,5.0,203187,Chris Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011600018,580,2,1,4,12:24 AM,1:50,MISS Barbosa 26' 3PT Jump Shot,,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,582,4,0,4,12:24 AM,1:50,Ulis REBOUND (Off:2 Def:2),,,,,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,581,1,97,4,12:24 AM,1:50,Ulis 1' Tip Layup Shot (4 PTS),,,98 - 91,-7,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,583,5,40,4,12:24 AM,1:39,,,Neto Out of Bounds Lost Ball Turnover (P1.T23),,,5.0,203526,Raul Neto,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011600018,584,2,42,4,12:25 AM,1:28,MISS Barbosa 3' Driving Layup,,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,585,4,0,4,12:25 AM,1:27,,,Lyles REBOUND (Off:1 Def:5),,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,586,6,1,4,12:25 AM,1:11,Barbosa P.FOUL (P2.PN) (J.Orr),,,,,4.0,2571,Leandro Barbosa,1610612756.0,Phoenix,Suns,PHX,5,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011600018,587,3,11,4,12:26 AM,1:11,,,Mack Free Throw 1 of 2 (9 PTS),99 - 91,-8,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,589,3,12,4,12:26 AM,1:11,,,Mack Free Throw 2 of 2 (10 PTS),100 - 91,-9,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,591,6,2,4,12:26 AM,1:01,,,Neto S.FOUL (P1.PN) (J.Orr),,,5.0,203526,Raul Neto,1610612762.0,Utah,Jazz,UTA,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,592,3,11,4,12:26 AM,1:01,Ulis Free Throw 1 of 2 (5 PTS),,,100 - 92,-8,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,594,3,12,4,12:26 AM,1:01,Ulis Free Throw 2 of 2 (6 PTS),,,100 - 93,-7,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,596,1,42,4,12:27 AM,0:46,,,Lyles 2' Driving Layup (14 PTS),102 - 93,-9,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,597,1,42,4,12:27 AM,0:34,Ulis 3' Driving Layup (8 PTS),,,102 - 95,-7,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,598,6,2,4,12:27 AM,0:34,,,Withey S.FOUL (P3.PN) (L.Richardson),,,5.0,203481,Jeff Withey,1610612762.0,Utah,Jazz,UTA,4,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011600018,599,3,10,4,12:27 AM,0:34,Ulis Free Throw 1 of 1 (9 PTS),,,102 - 96,-6,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,601,2,1,4,12:28 AM,0:11,,,MISS Mack 18' Jump Shot,,,5.0,202714,Shelvin Mack,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,603,4,0,4,12:28 AM,0:11,,,Lyles REBOUND (Off:2 Def:5),,,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,602,1,107,4,12:28 AM,0:11,,,Lyles  Tip Dunk Shot (16 PTS),104 - 96,-8,5.0,1626168,Trey Lyles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011600018,604,1,79,4,12:28 AM,0:03,Ulis 26' 3PT Pullup Jump Shot (12 PTS),,,104 - 99,-5,4.0,1627755,Tyler Ulis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011600018,605,13,0,4,12:28 AM,0:00,,,,104 - 99,-5,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0

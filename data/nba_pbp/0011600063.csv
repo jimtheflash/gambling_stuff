@@ -1,0 +1,548 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011600063,0,12,0,1,9:11 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,1,10,0,1,9:11 PM,12:00,Jump Ball Nurkic vs. Pachulia: Tip to Mudiay,,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,5,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,4,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0
+0011600063,2,2,1,1,9:11 PM,11:34,MISS Barton 25' 3PT Jump Shot,,,,,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,3,4,0,1,9:11 PM,11:32,,,Thompson REBOUND (Off:0 Def:1),,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,4,1,1,1,9:11 PM,11:26,,,Durant 25' 3PT Jump Shot (3 PTS) (Thompson 1 AST),3 - 0,-3,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,5,1,1,1,9:12 PM,11:13,Jokic 25' 3PT Jump Shot (3 PTS) (Barton 1 AST),,,3 - 3,TIE,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,6,1,98,1,9:12 PM,11:00,,,Curry 3' Cutting Layup Shot (2 PTS) (Green 1 AST),5 - 3,-2,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,7,6,2,1,9:12 PM,10:52,,,Green S.FOUL (P1.T1) (J.Orr),,,5.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,8,3,11,1,9:12 PM,10:52,Gallinari Free Throw 1 of 2 (1 PTS),,,5 - 4,-1,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,10,3,12,1,9:12 PM,10:52,MISS Gallinari Free Throw 2 of 2,,,,,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,12,4,0,1,9:13 PM,10:49,,,Thompson REBOUND (Off:0 Def:2),,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,13,1,1,1,9:13 PM,10:37,,,Thompson  3PT Jump Shot (3 PTS) (Curry 1 AST),8 - 4,-4,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,14,1,7,1,9:13 PM,10:26,Nurkic  Dunk (2 PTS) (Gallinari 1 AST),,,8 - 6,-2,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,4,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,15,1,1,1,9:13 PM,10:12,,,Thompson 27' 3PT Jump Shot (6 PTS) (Durant 1 AST),11 - 6,-5,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,16,6,1,1,9:13 PM,10:05,,,Pachulia P.FOUL (P1.T2) (N.Buchert),,,5.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,17,2,1,1,9:14 PM,9:47,MISS Nurkic 4' Jump Shot,,Curry BLOCK (1 BLK),,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0
+0011600063,18,4,0,1,9:14 PM,9:45,,,Curry REBOUND (Off:0 Def:1),,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,19,2,1,1,9:14 PM,9:40,,,MISS Curry 25' 3PT Jump Shot,,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,20,4,0,1,9:14 PM,9:39,Gallinari REBOUND (Off:0 Def:1),,,,,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,21,5,1,1,9:14 PM,9:34,Gallinari Bad Pass Turnover (P1.T1),,,,,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011600063,22,5,2,1,9:14 PM,9:22,Mudiay STEAL (1 STL),,Curry Lost Ball Turnover (P1.T1),,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,23,1,1,1,9:14 PM,9:13,Gallinari 24' 3PT Jump Shot (4 PTS) (Mudiay 1 AST),,,11 - 9,-2,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,4,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,24,1,1,1,9:15 PM,9:00,,,Thompson 17' Jump Shot (8 PTS),13 - 9,-4,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,25,6,2,1,9:15 PM,8:53,,,Curry S.FOUL (P1.T3) (N.Buchert),,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,26,3,11,1,9:15 PM,8:53,Mudiay Free Throw 1 of 2 (1 PTS),,,13 - 10,-3,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,28,3,12,1,9:15 PM,8:53,Mudiay Free Throw 2 of 2 (2 PTS),,,13 - 11,-2,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,30,2,1,1,9:16 PM,8:41,,,MISS Durant 11' Jump Shot,,,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,31,4,0,1,9:16 PM,8:40,Barton REBOUND (Off:0 Def:1),,,,,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,32,2,1,1,9:16 PM,8:31,MISS Mudiay  3PT Jump Shot,,,,,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,33,4,0,1,9:16 PM,8:30,,,Thompson REBOUND (Off:0 Def:3),,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,34,1,1,1,9:16 PM,8:25,,,Durant 25' 3PT Jump Shot (6 PTS) (Thompson 2 AST),16 - 11,-5,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,35,9,1,1,9:16 PM,8:25,NUGGETS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,39,2,3,1,9:19 PM,8:06,MISS Nurkic 4' Hook Shot,,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,40,4,0,1,9:19 PM,8:05,,,Curry REBOUND (Off:0 Def:2),,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,41,2,1,1,9:19 PM,7:57,,,MISS Durant 19' Jump Shot,,,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,42,4,0,1,9:19 PM,7:56,Nurkic REBOUND (Off:0 Def:1),,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,44,5,2,1,9:20 PM,7:42,Nurkic Lost Ball Turnover (P1.T2),,Pachulia STEAL (1 STL),,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,5,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,45,2,42,1,9:20 PM,7:32,,,MISS Green 1' Driving Layup,,,5.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,46,4,0,1,9:20 PM,7:31,Jokic REBOUND (Off:0 Def:1),,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,47,5,39,1,9:20 PM,7:28,Jokic Step Out of Bounds Turnover (P1.T3),,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011600063,48,1,5,1,9:20 PM,7:15,,,Pachulia 1' Layup (2 PTS) (Green 2 AST),18 - 11,-7,5.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,49,1,1,1,9:21 PM,6:53,Gallinari 25' 3PT Jump Shot (7 PTS) (Barton 2 AST),,,18 - 14,-4,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,50,2,1,1,9:21 PM,6:45,,,MISS Curry 18' Jump Shot,,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,51,4,0,1,9:21 PM,6:44,Gallinari REBOUND (Off:0 Def:2),,,,,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,52,6,2,1,9:21 PM,6:28,,,Thompson S.FOUL (P1.T4) (J.Phillips),,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,53,3,11,1,9:21 PM,6:28,Nurkic Free Throw 1 of 2 (3 PTS),,,18 - 15,-3,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,55,3,12,1,9:22 PM,6:28,MISS Nurkic Free Throw 2 of 2,,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,57,4,0,1,9:22 PM,6:26,,,Thompson REBOUND (Off:0 Def:4),,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,58,2,1,1,9:22 PM,6:22,,,MISS Thompson 25' 3PT Jump Shot,,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,59,4,0,1,9:22 PM,6:21,NUGGETS Rebound,,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,60,8,0,1,9:22 PM,6:21,SUB: Chandler FOR Nurkic,,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,4,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,61,5,2,1,9:22 PM,6:11,Mudiay Lost Ball Turnover (P1.T4),,Pachulia STEAL (2 STL),,,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,5,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,62,1,5,1,9:22 PM,6:06,,,Curry 2' Layup (4 PTS) (Thompson 3 AST),20 - 15,-5,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,64,2,5,1,9:23 PM,5:45,MISS Mudiay 2' Layup,,,,,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,66,4,0,1,9:23 PM,5:41,Jokic REBOUND (Off:1 Def:1),,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,65,1,97,1,9:23 PM,5:41,Jokic 1' Tip Layup Shot (5 PTS),,,20 - 17,-3,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,67,1,7,1,9:23 PM,5:31,,,Green  Dunk (2 PTS),22 - 17,-5,5.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,68,5,1,1,9:24 PM,5:08,Barton Bad Pass Turnover (P1.T5),,Green STEAL (1 STL),,,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,69,6,1,1,9:24 PM,5:08,Barton P.FOUL (P1.T1) (J.Phillips),,,,,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,70,8,0,1,9:24 PM,5:08,,,SUB: Iguodala FOR Durant,,,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,71,8,0,1,9:24 PM,5:08,,,SUB: Clark FOR Curry,,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,72,2,63,1,9:24 PM,4:56,,,MISS Thompson 6' Fadeaway Jumper,,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,73,4,0,1,9:24 PM,4:54,Jokic REBOUND (Off:1 Def:2),,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,74,1,1,1,9:25 PM,4:45,Jokic 20' Jump Shot (7 PTS) (Mudiay 2 AST),,,22 - 19,-3,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,76,2,1,1,9:25 PM,4:17,,,MISS Green 19' Jump Shot,,,5.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,77,4,0,1,9:25 PM,4:16,Mudiay REBOUND (Off:0 Def:1),,,,,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,78,1,1,1,9:25 PM,4:05,Gallinari 25' 3PT Jump Shot (10 PTS),,,22 - 22,TIE,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,79,5,40,1,9:26 PM,3:52,,,Green Out of Bounds Lost Ball Turnover (P1.T2),,,5.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0011600063,80,8,0,1,9:26 PM,3:52,,,SUB: West FOR Pachulia,,,5.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,5,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,81,8,0,1,9:26 PM,3:52,SUB: Nelson FOR Mudiay,,,,,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,4,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,82,6,2,1,9:27 PM,3:29,,,Iguodala S.FOUL (P1.PN) (N.Buchert),,,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,83,3,11,1,9:27 PM,3:29,Jokic Free Throw 1 of 2 (8 PTS),,,22 - 23,1,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,85,9,1,1,9:27 PM,3:29,,,Warriors Timeout: Regular (Reg.1 Short 0),,,3.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,88,8,0,1,9:30 PM,3:29,,,SUB: Durant FOR Green,,,5.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,89,3,12,1,9:30 PM,3:29,MISS Jokic Free Throw 2 of 2,,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,91,4,0,1,9:30 PM,3:24,,,Thompson REBOUND (Off:0 Def:5),,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,92,5,1,1,9:30 PM,3:14,Jokic STEAL (1 STL),,Thompson Bad Pass Turnover (P1.T3),,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,93,1,5,1,9:30 PM,3:08,Jokic 2' Layup (10 PTS) (Nelson 1 AST),,,22 - 25,3,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,94,1,1,1,9:31 PM,2:49,,,Thompson 20' Jump Shot (10 PTS) (West 1 AST),24 - 25,1,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,95,2,1,1,9:31 PM,2:32,MISS Barton 18' Jump Shot,,,,,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,96,4,0,1,9:31 PM,2:32,,,Durant REBOUND (Off:0 Def:1),,,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,97,1,1,1,9:31 PM,2:24,,,Iguodala 25' 3PT Jump Shot (3 PTS) (Clark 1 AST),27 - 25,-2,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,98,1,1,1,9:31 PM,2:08,Barton 17' Jump Shot (2 PTS),,,27 - 27,TIE,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,99,2,47,1,9:31 PM,1:54,,,MISS Durant 17' Turnaround Jump Shot,,,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,100,4,0,1,9:31 PM,1:52,Jokic REBOUND (Off:1 Def:3),,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,101,2,3,1,9:32 PM,1:45,MISS Barton 4' Hook Shot,,,,,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,102,4,0,1,9:32 PM,1:41,,,West REBOUND (Off:0 Def:1),,,5.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,103,6,2,1,9:32 PM,1:37,Jokic S.FOUL (P1.T2) (N.Buchert),,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,104,3,11,1,9:32 PM,1:37,,,MISS Clark Free Throw 1 of 2,,,5.0,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,105,4,1,1,9:32 PM,1:37,,,Warriors Rebound,,,3.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,106,8,0,1,9:32 PM,1:37,SUB: Faried FOR Gallinari,,,,,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,4,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,107,8,0,1,9:32 PM,1:37,SUB: Hernangomez FOR Jokic,,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,108,8,0,1,9:32 PM,1:37,SUB: Murray FOR Barton,,,,,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,109,8,0,1,9:32 PM,1:37,,,SUB: McCaw FOR Thompson,,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,110,3,12,1,9:33 PM,1:37,,,Clark Free Throw 2 of 2 (1 PTS),28 - 27,-1,5.0,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,112,2,5,1,9:33 PM,1:16,MISS Chandler 2' Layup,,,,,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,114,4,0,1,9:33 PM,1:13,Faried REBOUND (Off:1 Def:0),,,,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,113,2,5,1,9:33 PM,1:13,MISS Faried 2' Layup,,,,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,115,4,0,1,9:33 PM,1:13,,,Iguodala REBOUND (Off:0 Def:1),,,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,116,6,2,1,9:33 PM,1:13,Nelson S.FOUL (P1.PN) (J.Phillips),,,,,4.0,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,117,3,11,1,9:33 PM,1:13,,,Durant Free Throw 1 of 2 (7 PTS),29 - 27,-2,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,118,3,12,1,9:34 PM,1:13,,,Durant Free Throw 2 of 2 (8 PTS),30 - 27,-3,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,120,2,1,1,9:34 PM,0:58,MISS Murray 17' Jump Shot,,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,121,4,0,1,9:34 PM,0:58,,,McCaw REBOUND (Off:0 Def:1),,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,122,1,1,1,9:34 PM,0:54,,,Durant 4' Jump Shot (10 PTS),32 - 27,-5,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,123,1,49,1,9:34 PM,0:40,Faried  Driving Dunk (2 PTS) (Murray 1 AST),,,32 - 29,-3,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,124,1,5,1,9:35 PM,0:32,,,West 2' Layup (2 PTS) (Durant 2 AST),34 - 29,-5,5.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,125,2,1,1,9:35 PM,0:16,MISS Murray 4' Jump Shot,,Durant BLOCK (1 BLK),,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0
+0011600063,126,10,0,1,9:35 PM,0:16,Jump Ball Chandler vs. Durant: Tip to Murray,,,,,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0
+0011600063,127,4,0,1,9:35 PM,0:16,NUGGETS Rebound,,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,128,2,5,1,9:36 PM,0:05,MISS Nelson 3' Layup,,West BLOCK (1 BLK),,,4.0,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,2561,David West,1610612744.0,Golden State,Warriors,GSW,0
+0011600063,129,4,0,1,9:36 PM,0:03,Faried REBOUND (Off:2 Def:0),,,,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,130,2,5,1,9:36 PM,0:01,MISS Faried 2' Layup,,West BLOCK (2 BLK),,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,2561,David West,1610612744.0,Golden State,Warriors,GSW,0
+0011600063,131,4,0,1,9:36 PM,0:01,Faried REBOUND (Off:3 Def:0),,,,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,132,1,5,1,9:36 PM,0:00,Faried 1' Layup (4 PTS),,,34 - 31,-3,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,134,2,45,1,9:36 PM,0:00,,,MISS Durant 38' 3PT Jump Shot,,,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,167,4,0,1,9:36 PM,0:00,,,Warriors Rebound,,,3.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,133,13,0,1,9:37 PM,0:00,,,,34 - 31,-3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,136,12,0,2,9:39 PM,12:00,,,,34 - 31,-3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,137,1,5,2,9:39 PM,11:44,,,Clark 2' Layup (3 PTS) (West 2 AST),36 - 31,-5,5.0,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,5,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,138,1,1,2,9:39 PM,11:25,Murray 26' 3PT Jump Shot (3 PTS) (Hernangomez 1 AST),,,36 - 34,-2,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,139,6,1,2,9:39 PM,11:11,Faried P.FOUL (P1.T1) (J.Orr),,,,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,5,2561,David West,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,140,1,1,2,9:40 PM,11:01,,,West 19' Jump Shot (4 PTS) (Clark 2 AST),38 - 34,-4,5.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,5,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,141,5,1,2,9:40 PM,10:49,Nelson Bad Pass Turnover (P1.T6),,Durant STEAL (1 STL),,,4.0,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,142,2,1,2,9:40 PM,10:42,,,MISS McCaw 24' 3PT Jump Shot,,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,143,4,0,2,9:40 PM,10:41,Hernangomez REBOUND (Off:0 Def:1),,,,,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,144,1,7,2,9:40 PM,10:36,Chandler  Dunk (2 PTS) (Hernangomez 2 AST),,,38 - 36,-2,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,4,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,145,1,1,2,9:41 PM,10:12,,,Durant 20' Jump Shot (12 PTS),40 - 36,-4,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,146,2,1,2,9:41 PM,10:01,MISS Chandler 26' 3PT Jump Shot,,,,,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,147,4,0,2,9:41 PM,10:00,,,Iguodala REBOUND (Off:0 Def:2),,,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,148,1,41,2,9:41 PM,9:55,,,Iguodala 2' Running Layup (5 PTS),42 - 36,-6,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,149,6,2,2,9:41 PM,9:55,Hernangomez S.FOUL (P1.T2) (N.Buchert),,,,,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,150,8,0,2,9:41 PM,9:55,,,SUB: Pachulia FOR Durant,,,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,151,3,10,2,9:42 PM,9:55,,,MISS Iguodala Free Throw 1 of 1,,,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,153,4,0,2,9:42 PM,9:53,Chandler REBOUND (Off:0 Def:1),,,,,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,154,2,1,2,9:42 PM,9:43,MISS Murray 4' Jump Shot,,Pachulia BLOCK (1 BLK),,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0
+0011600063,155,4,0,2,9:42 PM,9:41,,,Pachulia REBOUND (Off:0 Def:1),,,5.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,156,2,1,2,9:42 PM,9:33,,,MISS Clark 25' 3PT Jump Shot,,,5.0,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,157,4,0,2,9:42 PM,9:32,,,West REBOUND (Off:1 Def:1),,,5.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,158,2,1,2,9:42 PM,9:28,,,MISS West 7' Jump Shot,,,5.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,159,4,0,2,9:42 PM,9:27,Faried REBOUND (Off:3 Def:1),,,,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,160,5,2,2,9:42 PM,9:17,Hernangomez Lost Ball Turnover (P1.T7),,West STEAL (1 STL),,,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,5,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,161,2,1,2,9:43 PM,8:53,,,MISS Iguodala  3PT Jump Shot,,,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,162,4,0,2,9:43 PM,8:53,Chandler REBOUND (Off:0 Def:2),,,,,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,163,1,1,2,9:43 PM,8:39,Murray 26' 3PT Jump Shot (6 PTS),,,42 - 39,-3,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,164,5,40,2,9:43 PM,8:16,,,Clark Out of Bounds Lost Ball Turnover (P1.T4),,,5.0,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0011600063,165,9,4,2,9:44 PM,8:16,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,168,7,1,2,9:46 PM,8:16,,,Warriors Violation: Delay of game Violation,,,3.0,1610612744,,,,,,0,0,,,,,,1,0,,,,,,0
+0011600063,169,8,0,2,9:46 PM,8:15,,,SUB: Thompson FOR Iguodala,,,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,170,8,0,2,9:46 PM,8:15,,,SUB: Curry FOR Clark,,,5.0,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,171,8,0,2,9:46 PM,8:15,,,SUB: Green FOR West,,,5.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,172,8,0,2,9:46 PM,8:03,SUB: Nurkic FOR Chandler,,,,,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,4,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,173,1,1,2,9:47 PM,7:45,Nelson 29' 3PT Jump Shot (3 PTS),,,42 - 42,TIE,4.0,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,174,5,1,2,9:47 PM,7:33,Nurkic STEAL (1 STL),,Curry Bad Pass Turnover (P2.T5),,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,175,6,2,2,9:47 PM,7:31,,,Pachulia S.FOUL (P2.T1) (N.Buchert),,,5.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,4,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,176,3,11,2,9:47 PM,7:31,MISS Hernangomez Free Throw 1 of 2,,,,,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,177,4,1,2,9:47 PM,7:31,NUGGETS Rebound,,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,180,7,3,2,9:48 PM,7:31,,,Green Violation:Lane (J.Orr),,,5.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0011600063,182,3,12,2,9:48 PM,7:31,Hernangomez Free Throw 2 of 2 (1 PTS),,,42 - 43,1,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,184,2,1,2,9:48 PM,7:25,,,MISS Thompson 25' 3PT Jump Shot,,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,185,4,0,2,9:48 PM,7:24,Nurkic REBOUND (Off:0 Def:2),,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,186,6,1,2,9:48 PM,7:18,,,McCaw P.FOUL (P1.T2) (J.Phillips),,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,4,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,187,6,2,2,9:49 PM,7:05,,,McCaw S.FOUL (P2.T3) (N.Buchert),,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,4,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,188,3,11,2,9:49 PM,7:05,MISS Hernangomez Free Throw 1 of 2,,,,,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,189,4,1,2,9:49 PM,7:05,NUGGETS Rebound,,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,190,3,12,2,9:50 PM,7:05,Hernangomez Free Throw 2 of 2 (2 PTS),,,42 - 44,2,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,192,1,1,2,9:50 PM,6:47,,,Curry 22' Jump Shot (6 PTS),44 - 44,TIE,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,193,2,1,2,9:50 PM,6:31,MISS Nurkic 3' Jump Shot,,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,194,4,0,2,9:50 PM,6:30,,,Green REBOUND (Off:0 Def:1),,,5.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,195,2,3,2,9:50 PM,6:22,,,MISS Pachulia  Hook Shot,,,5.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,197,4,0,2,9:50 PM,6:21,,,Pachulia REBOUND (Off:1 Def:1),,,5.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,196,1,5,2,9:50 PM,6:21,,,Pachulia 2' Layup (4 PTS),46 - 44,-2,5.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,198,7,5,2,9:51 PM,6:13,,,Pachulia Violation:Kicked Ball (J.Orr),,,5.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0011600063,199,8,0,2,9:51 PM,6:13,SUB: Barton FOR Nelson,,,,,4.0,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,200,8,0,2,9:51 PM,6:13,SUB: Gallinari FOR Hernangomez,,,,,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,4,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,201,8,0,2,9:51 PM,6:13,SUB: Mudiay FOR Murray,,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,202,1,7,2,9:51 PM,6:07,Gallinari  Dunk (12 PTS) (Nurkic 1 AST),,,46 - 46,TIE,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,4,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,203,1,1,2,9:51 PM,5:55,,,Thompson 17' Jump Shot (12 PTS) (Curry 2 AST),48 - 46,-2,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,204,2,1,2,9:51 PM,5:44,MISS Mudiay 17' Jump Shot,,,,,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,205,4,0,2,9:51 PM,5:42,,,Curry REBOUND (Off:0 Def:3),,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,206,2,1,2,9:52 PM,5:34,,,MISS Thompson  3PT Jump Shot,,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,207,4,0,2,9:52 PM,5:32,Faried REBOUND (Off:3 Def:2),,,,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,208,2,7,2,9:52 PM,5:23,MISS Faried  Dunk,,,,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,209,4,0,2,9:52 PM,5:23,,,Curry REBOUND (Off:0 Def:4),,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,210,2,1,2,9:52 PM,5:12,,,MISS Curry 22' Jump Shot,,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,211,4,0,2,9:52 PM,5:11,Faried REBOUND (Off:3 Def:3),,,,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,212,6,1,2,9:52 PM,5:07,,,Green P.FOUL (P2.T4) (N.Buchert),,,5.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,213,9,1,2,9:53 PM,5:07,NUGGETS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,215,8,0,2,9:55 PM,5:07,,,SUB: Iguodala FOR Pachulia,,,5.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,216,8,0,2,9:55 PM,5:07,,,SUB: Durant FOR McCaw,,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,217,8,0,2,9:55 PM,5:07,SUB: Jokic FOR Faried,,,,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,218,6,2,2,9:55 PM,5:05,,,Curry S.FOUL (P2.PN) (J.Orr),,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,219,3,11,2,9:55 PM,5:05,Mudiay Free Throw 1 of 2 (3 PTS),,,48 - 47,-1,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,221,3,12,2,9:55 PM,5:05,MISS Mudiay Free Throw 2 of 2,,,,,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,223,4,0,2,9:55 PM,5:00,,,Iguodala REBOUND (Off:0 Def:3),,,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,224,2,1,2,9:56 PM,4:44,,,MISS Thompson 25' 3PT Jump Shot,,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,225,4,0,2,9:56 PM,4:43,Jokic REBOUND (Off:1 Def:4),,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,226,2,1,2,9:56 PM,4:24,MISS Nurkic 12' Jump Shot,,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,227,4,0,2,9:56 PM,4:23,Jokic REBOUND (Off:2 Def:4),,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,228,1,97,2,9:56 PM,4:20,Jokic 1' Tip Layup Shot (12 PTS),,,48 - 49,1,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,229,1,71,2,9:56 PM,4:06,,,Curry 2' Finger Roll Layup (8 PTS) (Green 3 AST),50 - 49,-1,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,230,2,1,2,9:57 PM,3:44,MISS Jokic 12' Jump Shot,,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,231,4,0,2,9:57 PM,3:44,,,Iguodala REBOUND (Off:0 Def:4),,,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,232,5,4,2,9:57 PM,3:43,,,Thompson Traveling Turnover (P2.T6),,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0011600063,233,6,4,2,9:57 PM,3:30,Nurkic OFF.Foul (P1) (N.Buchert),,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,234,5,5,2,9:57 PM,3:30,Nurkic Foul Turnover (P2.T8),,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011600063,235,2,1,2,9:58 PM,3:18,,,MISS Iguodala 24' 3PT Jump Shot,,,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,236,4,0,2,9:58 PM,3:18,Barton REBOUND (Off:0 Def:2),,,,,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,237,1,42,2,9:58 PM,3:11,Barton 1' Driving Layup (4 PTS),,,50 - 51,1,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,238,2,1,2,9:58 PM,3:00,,,MISS Durant 18' Jump Shot,,,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,239,4,0,2,9:58 PM,2:59,Nurkic REBOUND (Off:0 Def:3),,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,240,1,1,2,9:58 PM,2:49,Nurkic 21' Jump Shot (5 PTS) (Barton 3 AST),,,50 - 53,3,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,241,2,66,2,9:58 PM,2:36,,,MISS Curry 4' Jump Bank Shot,,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,242,4,0,2,9:58 PM,2:34,Jokic REBOUND (Off:2 Def:5),,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,243,5,1,2,9:58 PM,2:32,Jokic Bad Pass Turnover (P2.T9),,Green STEAL (2 STL),,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,244,2,1,2,9:58 PM,2:24,,,MISS Curry 24' 3PT Jump Shot,,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,245,4,0,2,9:58 PM,2:23,Gallinari REBOUND (Off:0 Def:3),,,,,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,246,9,2,2,9:59 PM,2:19,NUGGETS Timeout: Short (Full 2 Short 1),,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,247,9,1,2,9:59 PM,2:19,,,Warriors Timeout: Regular (Reg.2 Short 0),,,3.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,251,1,5,2,10:02 PM,2:08,Mudiay 1' Layup (5 PTS),,,50 - 55,5,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,252,1,5,2,10:02 PM,1:48,,,Thompson 2' Layup (14 PTS) (Curry 3 AST),52 - 55,3,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,253,2,1,2,10:03 PM,1:25,MISS Mudiay 25' 3PT Jump Shot,,,,,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,254,4,0,2,10:03 PM,1:23,Gallinari REBOUND (Off:1 Def:3),,,,,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,255,1,1,2,10:03 PM,1:18,Gallinari 18' Jump Shot (14 PTS),,,52 - 57,5,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,256,6,1,2,10:03 PM,1:05,Nurkic P.FOUL (P2.T3) (N.Buchert),,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,257,5,1,2,10:04 PM,1:02,,,Green Bad Pass Turnover (P2.T7),,,5.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0011600063,258,2,42,2,10:04 PM,0:50,MISS Mudiay 1' Driving Layup,,,,,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,260,4,0,2,10:04 PM,0:49,Nurkic REBOUND (Off:1 Def:3),,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,259,1,97,2,10:04 PM,0:49,Nurkic 2' Tip Layup Shot (7 PTS),,,52 - 59,7,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,261,2,1,2,10:04 PM,0:34,,,MISS Iguodala 24' 3PT Jump Shot,,,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,262,4,0,2,10:04 PM,0:34,Gallinari REBOUND (Off:1 Def:4),,,,,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,263,5,1,2,10:04 PM,0:29,Nurkic Bad Pass Turnover (P3.T10),,Iguodala STEAL (1 STL),,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,264,1,108,2,10:04 PM,0:21,,,Durant  Cutting Dunk Shot (14 PTS) (Iguodala 1 AST),54 - 59,5,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,265,2,1,2,10:05 PM,0:01,MISS Barton 15' Jump Shot,,,,,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,266,4,0,2,10:05 PM,0:00,,,Thompson REBOUND (Off:0 Def:6),,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,267,13,0,2,10:05 PM,0:00,,,,54 - 59,5,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,269,12,0,3,10:21 PM,12:00,,,,54 - 59,5,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,270,2,1,3,10:21 PM,11:45,,,MISS Curry 26' 3PT Jump Shot,,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,271,4,0,3,10:21 PM,11:44,Nurkic REBOUND (Off:1 Def:4),,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,272,1,5,3,10:22 PM,11:33,Mudiay 2' Layup (7 PTS) (Jokic 1 AST),,,54 - 61,7,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,273,1,1,3,10:22 PM,11:17,,,Thompson 24' 3PT Jump Shot (17 PTS) (Durant 3 AST),57 - 61,4,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,274,6,1,3,10:22 PM,11:10,,,Pachulia P.FOUL (P3.T1) (J.Orr),,,5.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,4,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,275,5,11,3,10:23 PM,10:55,NUGGETS Turnover: Shot Clock (T#11),,,,,2.0,1610612743,,,,,,0,0,,,,,,1,0,,,,,,0
+0011600063,276,2,1,3,10:23 PM,10:43,,,MISS Curry 25' 3PT Jump Shot,,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,277,4,0,3,10:23 PM,10:41,,,Pachulia REBOUND (Off:2 Def:1),,,5.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,278,1,1,3,10:23 PM,10:28,,,Durant 25' 3PT Jump Shot (17 PTS),60 - 61,1,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,279,2,5,3,10:23 PM,10:15,MISS Jokic 1' Layup,,Pachulia BLOCK (2 BLK),,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0
+0011600063,281,4,0,3,10:23 PM,10:11,Jokic REBOUND (Off:3 Def:5),,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,280,2,5,3,10:23 PM,10:11,MISS Jokic 1' Layup,,Curry BLOCK (2 BLK),,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0
+0011600063,282,4,0,3,10:23 PM,10:09,,,Curry REBOUND (Off:0 Def:5),,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,283,1,1,3,10:24 PM,10:00,,,Pachulia 17' Jump Shot (6 PTS),62 - 61,-1,5.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,284,5,1,3,10:24 PM,9:46,Barton Bad Pass Turnover (P2.T12),,Thompson STEAL (1 STL),,,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,291,5,1,3,10:24 PM,9:44,Gallinari STEAL (1 STL),,Thompson Bad Pass Turnover (P3.T8),,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,285,1,5,3,10:24 PM,9:39,Jokic 1' Layup (14 PTS) (Gallinari 2 AST),,,62 - 63,1,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,286,2,1,3,10:24 PM,9:20,,,MISS Green 4' Jump Shot,,,5.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,287,4,0,3,10:24 PM,9:20,Gallinari REBOUND (Off:1 Def:5),,,,,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,288,1,1,3,10:24 PM,9:08,Barton 26' 3PT Jump Shot (7 PTS) (Jokic 2 AST),,,62 - 66,4,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,289,9,1,3,10:25 PM,9:06,,,Warriors Timeout: Regular (Reg.3 Short 0),,,3.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,294,1,5,3,10:27 PM,8:54,,,Pachulia 2' Layup (8 PTS),64 - 66,2,5.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,295,2,1,3,10:28 PM,8:34,MISS Mudiay 16' Jump Shot,,,,,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,297,4,0,3,10:28 PM,8:32,Nurkic REBOUND (Off:2 Def:4),,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,296,1,97,3,10:28 PM,8:32,Nurkic 1' Tip Layup Shot (9 PTS),,,64 - 68,4,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,298,6,2,3,10:28 PM,8:14,Jokic S.FOUL (P2.T1) (J.Orr),,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,299,3,11,3,10:28 PM,8:14,,,Durant Free Throw 1 of 2 (18 PTS),65 - 68,3,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,301,3,12,3,10:29 PM,8:14,,,Durant Free Throw 2 of 2 (19 PTS),66 - 68,2,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,303,1,1,3,10:29 PM,7:59,Gallinari  3PT Jump Shot (17 PTS) (Barton 4 AST),,,66 - 71,5,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,304,2,1,3,10:29 PM,7:40,,,MISS Green  3PT Jump Shot,,,5.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,305,4,0,3,10:29 PM,7:40,Gallinari REBOUND (Off:1 Def:6),,,,,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,306,2,5,3,10:29 PM,7:32,MISS Jokic 2' Layup,,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,307,4,0,3,10:29 PM,7:31,,,Durant REBOUND (Off:0 Def:2),,,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,308,2,1,3,10:30 PM,7:23,,,MISS Curry 25' 3PT Jump Shot,,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,309,4,0,3,10:30 PM,7:22,Barton REBOUND (Off:0 Def:3),,,,,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,310,1,5,3,10:30 PM,7:11,Barton 2' Layup (9 PTS) (Nurkic 2 AST),,,66 - 73,7,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,4,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,311,2,1,3,10:30 PM,6:48,,,MISS Green 24' 3PT Jump Shot,,,5.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,312,4,0,3,10:30 PM,6:48,Nurkic REBOUND (Off:2 Def:5),,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,313,1,73,3,10:30 PM,6:41,Mudiay 2' Driving Reverse Layup (9 PTS),,,66 - 75,9,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,314,6,1,3,10:31 PM,6:35,Jokic P.FOUL (P3.T2) (J.Orr),,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,315,8,0,3,10:31 PM,6:35,SUB: Nelson FOR Mudiay,,,,,4.0,1626144,Emmanuel Mudiay,1610612743.0,Denver,Nuggets,DEN,4,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,316,5,1,3,10:31 PM,6:25,Barton STEAL (1 STL),,Green Bad Pass Turnover (P3.T9),,,5.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,317,1,50,3,10:31 PM,6:19,Barton  Running Dunk (11 PTS) (Gallinari 3 AST),,,66 - 77,11,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,4,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,318,1,42,3,10:31 PM,6:06,,,Curry 2' Driving Layup (10 PTS),68 - 77,9,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,319,6,2,3,10:31 PM,6:06,Nurkic S.FOUL (P3.T3) (N.Buchert),,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,320,8,0,3,10:32 PM,6:06,,,SUB: Iguodala FOR Durant,,,5.0,201142,Kevin Durant,1610612744.0,Golden State,Warriors,GSW,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,321,8,0,3,10:32 PM,6:06,,,SUB: McCaw FOR Thompson,,,5.0,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,322,3,10,3,10:32 PM,6:06,,,Curry Free Throw 1 of 1 (11 PTS),69 - 77,8,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,324,2,1,3,10:32 PM,5:42,MISS Jokic 19' Jump Shot,,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,325,4,0,3,10:32 PM,5:41,,,McCaw REBOUND (Off:0 Def:2),,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,326,2,1,3,10:32 PM,5:34,,,MISS Curry 27' 3PT Jump Shot,,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,327,4,0,3,10:32 PM,5:34,Jokic REBOUND (Off:3 Def:6),,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,328,6,27,3,10:33 PM,5:28,,,McCaw Personal Block Foul (P3.T2) (J.Orr),,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,4,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,329,8,0,3,10:33 PM,5:28,SUB: Chandler FOR Nurkic,,,,,4.0,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,4,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,330,8,0,3,10:33 PM,5:28,,,SUB: McGee FOR Pachulia,,,5.0,2585,Zaza Pachulia,1610612744.0,Golden State,Warriors,GSW,5,201580,JaVale McGee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,331,2,1,3,10:33 PM,5:22,MISS Gallinari 19' Jump Shot,,,,,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,332,4,0,3,10:33 PM,5:20,,,McCaw REBOUND (Off:0 Def:3),,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,336,2,1,3,10:35 PM,5:04,,,MISS Curry 25' 3PT Jump Shot,,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,337,4,0,3,10:35 PM,5:03,Gallinari REBOUND (Off:1 Def:7),,,,,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,339,2,1,3,10:35 PM,4:54,MISS Chandler  3PT Jump Shot,,,,,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,340,4,0,3,10:35 PM,4:53,,,McCaw REBOUND (Off:0 Def:4),,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,341,2,1,3,10:36 PM,4:43,,,MISS Iguodala 22' Jump Shot,,,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,342,4,0,3,10:36 PM,4:43,,,Curry REBOUND (Off:1 Def:5),,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,343,6,2,3,10:36 PM,4:43,Nelson S.FOUL (P2.T4) (J.Phillips),,,,,4.0,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,344,3,11,3,10:36 PM,4:43,,,Curry Free Throw 1 of 2 (12 PTS),70 - 77,7,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,346,8,0,3,10:36 PM,4:43,,,SUB: West FOR Green,,,5.0,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,347,3,12,3,10:36 PM,4:43,,,MISS Curry Free Throw 2 of 2,,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,349,4,0,3,10:36 PM,4:41,Jokic REBOUND (Off:3 Def:7),,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,350,2,3,3,10:37 PM,4:21,MISS Jokic 4' Hook Shot,,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,351,4,0,3,10:37 PM,4:18,,,Curry REBOUND (Off:1 Def:6),,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,352,6,1,3,10:37 PM,4:18,Jokic P.FOUL (P4.PN) (J.Orr),,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,353,3,11,3,10:37 PM,4:18,,,Curry Free Throw 1 of 2 (13 PTS),71 - 77,6,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,355,8,0,3,10:37 PM,4:18,SUB: Faried FOR Jokic,,,,,4.0,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,356,3,12,3,10:37 PM,4:18,,,Curry Free Throw 2 of 2 (14 PTS),72 - 77,5,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,358,2,1,3,10:38 PM,4:09,MISS Nelson 19' Jump Shot,,,,,4.0,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,359,4,0,3,10:38 PM,4:06,Barton REBOUND (Off:1 Def:3),,,,,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,361,8,0,3,10:38 PM,4:06,SUB: Murray FOR Barton,,,,,4.0,203115,Will Barton,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,362,2,1,3,10:38 PM,3:58,MISS Chandler 27' 3PT Jump Shot,,,,,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,363,4,0,3,10:38 PM,3:57,Faried REBOUND (Off:4 Def:3),,,,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,364,6,2,3,10:38 PM,3:57,,,McGee S.FOUL (P1.T3) (J.Phillips),,,5.0,201580,JaVale McGee,1610612744.0,Golden State,Warriors,GSW,4,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,365,3,11,3,10:38 PM,3:57,MISS Faried Free Throw 1 of 2,,,,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,366,4,1,3,10:38 PM,3:57,NUGGETS Rebound,,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,367,3,12,3,10:39 PM,3:57,Faried Free Throw 2 of 2 (5 PTS),,,72 - 78,6,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,369,1,1,3,10:39 PM,3:44,,,Iguodala  3PT Jump Shot (8 PTS) (Curry 4 AST),75 - 78,3,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,370,1,41,3,10:39 PM,3:19,Gallinari 3' Running Layup (19 PTS) (Nelson 2 AST),,,75 - 80,5,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,4,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,371,5,2,3,10:40 PM,3:09,Murray STEAL (1 STL),,Iguodala Lost Ball Turnover (P1.T10),,,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,372,1,7,3,10:40 PM,3:04,Faried  Dunk (7 PTS) (Murray 2 AST),,,75 - 82,7,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,373,6,2,3,10:40 PM,2:56,Murray S.FOUL (P1.PN) (N.Buchert),,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,374,9,1,3,10:40 PM,2:56,NUGGETS Timeout: Regular (Full 3 Short 1),,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,376,8,0,3,10:42 PM,2:56,SUB: Hernangomez FOR Gallinari,,,,,4.0,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,4,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,378,3,11,3,10:43 PM,2:56,,,Curry Free Throw 1 of 2 (15 PTS),76 - 82,6,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,380,3,12,3,10:43 PM,2:56,,,Curry Free Throw 2 of 2 (16 PTS),77 - 82,5,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,382,2,1,3,10:43 PM,2:43,MISS Murray  3PT Jump Shot,,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,383,4,0,3,10:43 PM,2:40,,,West REBOUND (Off:1 Def:2),,,5.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,384,2,1,3,10:43 PM,2:25,,,MISS West 26' 3PT Jump Shot,,,5.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,385,4,0,3,10:43 PM,2:24,Chandler REBOUND (Off:0 Def:3),,,,,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,386,1,1,3,10:44 PM,2:02,Chandler 25' 3PT Jump Shot (5 PTS) (Murray 3 AST),,,77 - 85,8,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,387,2,1,3,10:44 PM,1:45,,,MISS Iguodala 20' Jump Shot,,,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,388,4,0,3,10:44 PM,1:44,Faried REBOUND (Off:4 Def:4),,,,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,389,1,44,3,10:44 PM,1:37,Hernangomez 2' Reverse Layup (4 PTS) (Faried 1 AST),,,77 - 87,10,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,4,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,390,1,1,3,10:45 PM,1:15,,,Iguodala 4' Jump Shot (10 PTS) (West 3 AST),79 - 87,8,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,391,2,3,3,10:45 PM,0:57,MISS Chandler 5' Hook Shot,,McGee BLOCK (1 BLK),,,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,201580,JaVale McGee,1610612744.0,Golden State,Warriors,GSW,0
+0011600063,392,4,0,3,10:45 PM,0:55,,,Curry REBOUND (Off:1 Def:7),,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,393,2,5,3,10:45 PM,0:48,Murray BLOCK (1 BLK),,MISS McCaw 1' Layup,,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0
+0011600063,394,4,0,3,10:45 PM,0:47,Murray REBOUND (Off:0 Def:1),,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,395,2,1,3,10:45 PM,0:43,MISS Hernangomez 24' 3PT Jump Shot,,,,,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,396,4,0,3,10:45 PM,0:42,,,McCaw REBOUND (Off:0 Def:5),,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,397,1,1,3,10:45 PM,0:37,,,Curry 25' 3PT Jump Shot (19 PTS) (McCaw 1 AST),82 - 87,5,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,398,2,1,3,10:45 PM,0:27,MISS Nelson 20' Jump Shot,,,,,4.0,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,399,4,0,3,10:45 PM,0:26,,,Curry REBOUND (Off:1 Def:8),,,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,400,1,1,3,10:46 PM,0:10,,,Curry 29' 3PT Jump Shot (22 PTS),85 - 87,2,5.0,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,401,1,1,3,10:46 PM,0:00,Faried 3' Jump Shot (9 PTS) (Murray 4 AST),,,85 - 89,4,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,402,18,0,3,10:46 PM,0:00,,,,,,,401,,,,,,0,0,,,,,,1,0,,,,,,0
+0011600063,403,13,0,3,10:46 PM,0:00,,,,85 - 89,4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,405,12,0,4,10:49 PM,12:00,,,,85 - 89,4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,407,2,1,4,10:49 PM,11:40,MISS Chandler 16' Jump Shot,,,,,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,408,4,0,4,10:50 PM,11:40,,,McGee REBOUND (Off:0 Def:1),,,5.0,201580,JaVale McGee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,409,1,1,4,10:50 PM,11:21,,,Iguodala 25' 3PT Jump Shot (13 PTS) (West 4 AST),88 - 89,1,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,410,2,5,4,10:50 PM,11:07,MISS Murray 3' Layup,,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,411,4,0,4,10:50 PM,11:06,,,West REBOUND (Off:1 Def:3),,,5.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,413,2,3,4,10:51 PM,10:48,,,MISS McGee 7' Hook Shot,,,5.0,201580,JaVale McGee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,414,4,0,4,10:51 PM,10:48,Chandler REBOUND (Off:0 Def:4),,,,,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,415,1,41,4,10:51 PM,10:39,Chandler 2' Running Layup (7 PTS),,,88 - 91,3,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,416,5,2,4,10:51 PM,10:27,Chandler STEAL (1 STL),,West Lost Ball Turnover (P1.T11),,,5.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,4,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,417,2,1,4,10:51 PM,10:20,MISS Nelson 26' 3PT Jump Shot,,,,,4.0,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,419,4,0,4,10:51 PM,10:18,Murray REBOUND (Off:1 Def:1),,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,418,1,72,4,10:51 PM,10:17,Murray 2' Putback Layup (8 PTS),,,88 - 93,5,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,420,5,1,4,10:51 PM,9:58,Chandler STEAL (2 STL),,McGee Bad Pass Turnover (P1.T12),,,5.0,201580,JaVale McGee,1610612744.0,Golden State,Warriors,GSW,4,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,421,6,1,4,10:52 PM,9:58,,,West P.FOUL (P1.T1) (N.Buchert),,,5.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,4,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,422,1,1,4,10:52 PM,9:41,Chandler 24' 3PT Jump Shot (10 PTS) (Nelson 3 AST),,,88 - 96,8,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,4,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,423,6,1,4,10:52 PM,9:33,Chandler P.FOUL (P1.T1) (N.Buchert),,,,,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,5,2561,David West,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,424,5,1,4,10:53 PM,9:24,Murray STEAL (2 STL),,West Bad Pass Turnover (P2.T13),,,5.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,425,1,7,4,10:53 PM,9:18,Hernangomez  Dunk (6 PTS) (Chandler 1 AST),,,88 - 98,10,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,4,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,426,2,5,4,10:53 PM,8:59,,,MISS McCaw 3' Layup,,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,427,4,0,4,10:53 PM,8:57,,,McCaw REBOUND (Off:1 Def:5),,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,428,2,1,4,10:53 PM,8:57,,,MISS McGee 5' Jump Shot,,,5.0,201580,JaVale McGee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,429,4,0,4,10:53 PM,8:57,,,Warriors Rebound,,,3.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,431,6,3,4,10:53 PM,8:57,Faried L.B.FOUL (P2.T2) (N.Buchert),,,,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,5,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,432,9,4,4,10:54 PM,8:57,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,434,8,0,4,10:56 PM,8:57,,,SUB: Looney FOR Iguodala,,,5.0,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,435,8,0,4,10:56 PM,8:57,,,SUB: Jones FOR West,,,5.0,2561,David West,1610612744.0,Golden State,Warriors,GSW,5,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,436,8,0,4,10:56 PM,8:57,,,SUB: McAdoo FOR McGee,,,5.0,201580,JaVale McGee,1610612744.0,Golden State,Warriors,GSW,5,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,437,8,0,4,10:56 PM,8:53,SUB: Beasley FOR Murray,,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,1627736,Malik Beasley,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,438,2,5,4,10:56 PM,8:49,Faried BLOCK (1 BLK),,MISS Clark 3' Layup,,,5.0,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0
+0011600063,439,4,0,4,10:56 PM,8:48,NUGGETS Rebound,,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,441,5,4,4,10:57 PM,8:31,Beasley Traveling Turnover (P1.T13),,,,,4.0,1627736,Malik Beasley,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011600063,442,2,1,4,10:57 PM,8:13,,,MISS Jones  3PT Jump Shot,,,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,443,4,0,4,10:57 PM,8:12,Beasley REBOUND (Off:0 Def:1),,,,,4.0,1627736,Malik Beasley,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,444,1,7,4,10:57 PM,8:06,Hernangomez  Dunk (8 PTS) (Faried 2 AST),,,88 - 100,12,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,4,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,445,5,40,4,10:58 PM,7:46,,,McCaw Out of Bounds Lost Ball Turnover (P1.T14),,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0011600063,649,8,0,4,10:58 PM,7:46,SUB: Murray FOR Chandler,,,,,4.0,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,563,5,1,4,10:58 PM,7:42,Murray Bad Pass Turnover (P1.T14),,Jones STEAL (1 STL),,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,451,6,1,4,10:58 PM,7:37,Hernangomez P.FOUL (P2.T3) (J.Phillips),,,,,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,5,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,447,8,0,4,10:58 PM,7:37,,,SUB: Pressey FOR McCaw,,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,5,203515,Phil Pressey,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,449,8,0,4,10:58 PM,7:37,SUB: Stokes FOR Nelson,,,,,4.0,2749,Jameer Nelson,1610612743.0,Denver,Nuggets,DEN,4,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,450,8,0,4,10:58 PM,7:37,SUB: Hummel FOR Faried,,,,,4.0,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,4,203133,Robbie Hummel,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,452,3,11,4,10:59 PM,7:37,,,MISS Jones Free Throw 1 of 2,,,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,455,4,0,4,10:59 PM,7:37,,,Warriors Rebound,,,3.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,454,3,12,4,10:59 PM,7:37,,,Jones Free Throw 2 of 2 (1 PTS),89 - 100,11,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,457,2,1,4,10:59 PM,7:18,MISS Beasley 12' Jump Shot,,,,,4.0,1627736,Malik Beasley,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,458,4,0,4,10:59 PM,7:18,Beasley REBOUND (Off:1 Def:1),,,,,4.0,1627736,Malik Beasley,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,459,2,1,4,10:59 PM,7:14,MISS Hummel 25' 3PT Jump Shot,,,,,4.0,203133,Robbie Hummel,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,460,4,0,4,10:59 PM,7:13,Stokes REBOUND (Off:1 Def:0),,,,,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,461,1,72,4,10:59 PM,7:09,Stokes 3' Putback Layup (2 PTS),,,89 - 102,13,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,462,2,1,4,10:59 PM,6:50,,,MISS Looney 11' Jump Shot,,,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,463,4,0,4,10:59 PM,6:49,,,Looney REBOUND (Off:1 Def:0),,,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,464,2,1,4,11:00 PM,6:49,,,MISS Looney 4' Jump Shot,,,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,465,4,0,4,11:00 PM,6:49,,,Looney REBOUND (Off:2 Def:0),,,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,466,6,2,4,11:00 PM,6:49,Stokes S.FOUL (P1.T4) (J.Phillips),,,,,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,467,3,11,4,11:00 PM,6:49,,,Looney Free Throw 1 of 2 (1 PTS),90 - 102,12,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,469,3,12,4,11:00 PM,6:49,,,MISS Looney Free Throw 2 of 2,,,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,471,4,0,4,11:00 PM,6:47,Hernangomez REBOUND (Off:0 Def:2),,,,,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,472,2,1,4,11:00 PM,6:35,MISS Murray 18' Jump Shot,,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,473,4,0,4,11:00 PM,6:34,,,Looney REBOUND (Off:2 Def:1),,,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,474,6,2,4,11:01 PM,6:20,Stokes S.FOUL (P2.PN) (N.Buchert),,,,,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,475,3,11,4,11:01 PM,6:20,,,MISS Looney Free Throw 1 of 2,,,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,476,4,1,4,11:01 PM,6:20,,,Warriors Rebound,,,3.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,477,3,12,4,11:01 PM,6:20,,,MISS Looney Free Throw 2 of 2,,,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,479,4,0,4,11:01 PM,6:17,Hernangomez REBOUND (Off:0 Def:3),,,,,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,480,2,1,4,11:02 PM,5:59,MISS Hummel 25' 3PT Jump Shot,,,,,4.0,203133,Robbie Hummel,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,481,4,0,4,11:02 PM,5:59,,,Clark REBOUND (Off:0 Def:1),,,5.0,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,482,2,80,4,11:02 PM,5:45,,,MISS Jones 24' 3PT Step Back Jump Shot,,,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,483,4,0,4,11:02 PM,5:45,Murray REBOUND (Off:1 Def:2),,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,484,2,41,4,11:02 PM,5:39,MISS Beasley 2' Running Layup,,,,,4.0,1627736,Malik Beasley,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,486,4,0,4,11:02 PM,5:39,Stokes REBOUND (Off:2 Def:0),,,,,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,485,1,72,4,11:02 PM,5:39,Stokes 3' Putback Layup (4 PTS),,,90 - 104,14,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,487,6,2,4,11:02 PM,5:39,,,Clark S.FOUL (P1.T2) (N.Buchert),,,5.0,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,4,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,488,9,1,4,11:02 PM,5:39,NUGGETS Timeout: Regular (Full 4 Short 1),,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,490,3,10,4,11:05 PM,5:39,Stokes Free Throw 1 of 1 (5 PTS),,,90 - 105,15,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,494,1,1,4,11:05 PM,5:22,,,Clark 26' 3PT Jump Shot (6 PTS) (Pressey 1 AST),93 - 105,12,5.0,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,5,203515,Phil Pressey,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,495,2,1,4,11:05 PM,5:03,MISS Beasley 25' 3PT Jump Shot,,,,,4.0,1627736,Malik Beasley,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,496,4,0,4,11:05 PM,5:03,,,Looney REBOUND (Off:2 Def:2),,,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,497,2,5,4,11:05 PM,4:58,Hernangomez BLOCK (1 BLK),,MISS Jones 2' Layup,,,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0
+0011600063,498,4,0,4,11:05 PM,4:56,Murray REBOUND (Off:1 Def:3),,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,500,9,1,4,11:06 PM,4:54,NUGGETS Timeout: Regular (Full 5 Short 1),,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,502,5,4,4,11:08 PM,4:41,Murray Traveling Turnover (P2.T15),,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011600063,503,2,1,4,11:09 PM,4:21,,,MISS McAdoo 5' Jump Shot,,,5.0,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,504,4,0,4,11:09 PM,4:20,Hernangomez REBOUND (Off:0 Def:4),,,,,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,505,2,1,4,11:09 PM,4:08,MISS Hummel 26' 3PT Jump Shot,,,,,4.0,203133,Robbie Hummel,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,506,4,0,4,11:09 PM,4:06,,,Clark REBOUND (Off:0 Def:2),,,5.0,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,507,2,1,4,11:10 PM,3:47,,,MISS Clark 18' Jump Shot,,,5.0,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,508,4,0,4,11:10 PM,3:46,,,Looney REBOUND (Off:3 Def:2),,,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,509,1,1,4,11:10 PM,3:36,,,Jones 24' 3PT Jump Shot (4 PTS),96 - 105,9,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,510,6,27,4,11:10 PM,3:23,,,Jones Personal Block Foul (P1.T3) (J.Orr),,,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,4,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,511,8,0,4,11:10 PM,3:23,,,SUB: McCaw FOR Clark,,,5.0,203546,Ian Clark,1610612744.0,Golden State,Warriors,GSW,5,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,512,2,44,4,11:11 PM,3:06,MISS Beasley 1' Reverse Layup,,,,,4.0,1627736,Malik Beasley,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,513,4,0,4,11:11 PM,3:04,,,Looney REBOUND (Off:3 Def:3),,,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,514,5,1,4,11:11 PM,3:01,,,Jones Bad Pass Turnover (P1.T15),,,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0011600063,515,2,1,4,11:11 PM,2:42,MISS Murray 26' 3PT Jump Shot,,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,516,4,0,4,11:11 PM,2:41,,,Looney REBOUND (Off:3 Def:4),,,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,517,2,1,4,11:11 PM,2:32,,,MISS McCaw 24' 3PT Jump Shot,,,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,518,4,0,4,11:11 PM,2:32,Beasley REBOUND (Off:1 Def:2),,,,,4.0,1627736,Malik Beasley,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,519,2,1,4,11:12 PM,2:26,MISS Murray 26' 3PT Jump Shot,,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,520,4,0,4,11:12 PM,2:24,,,Pressey REBOUND (Off:0 Def:1),,,5.0,203515,Phil Pressey,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,521,6,2,4,11:12 PM,2:22,Stokes S.FOUL (P3.PN) (J.Orr),,,,,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,5,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,522,3,11,4,11:12 PM,2:22,,,Jones Free Throw 1 of 2 (5 PTS),97 - 105,8,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,524,3,12,4,11:12 PM,2:22,,,Jones Free Throw 2 of 2 (6 PTS),98 - 105,7,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,526,1,49,4,11:13 PM,2:05,Beasley  Driving Dunk (2 PTS),,,98 - 107,9,4.0,1627736,Malik Beasley,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,527,6,2,4,11:13 PM,1:51,Hernangomez S.FOUL (P3.PN) (J.Orr),,,,,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,5,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,528,3,11,4,11:13 PM,1:51,,,McAdoo Free Throw 1 of 2 (1 PTS),99 - 107,8,5.0,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,530,3,12,4,11:13 PM,1:51,,,McAdoo Free Throw 2 of 2 (2 PTS),100 - 107,7,5.0,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,532,2,1,4,11:14 PM,1:34,MISS Hummel 15' Jump Shot,,,,,4.0,203133,Robbie Hummel,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,533,4,0,4,11:14 PM,1:34,,,Warriors Rebound,,,3.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,534,6,3,4,11:14 PM,1:34,Stokes L.B.FOUL (P4.PN) (N.Buchert),,,,,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,5,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,535,3,11,4,11:14 PM,1:34,,,McCaw Free Throw 1 of 2 (1 PTS),101 - 107,6,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,537,3,12,4,11:14 PM,1:34,,,McCaw Free Throw 2 of 2 (2 PTS),102 - 107,5,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,539,1,5,4,11:15 PM,1:20,Beasley 3' Layup (4 PTS) (Murray 5 AST),,,102 - 109,7,4.0,1627736,Malik Beasley,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,540,1,1,4,11:15 PM,1:12,,,McCaw 24' 3PT Jump Shot (5 PTS) (Pressey 2 AST),105 - 109,4,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,5,203515,Phil Pressey,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,541,2,1,4,11:15 PM,0:56,MISS Hernangomez 4' Jump Shot,,McAdoo BLOCK (1 BLK),,,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,0
+0011600063,542,4,0,4,11:15 PM,0:54,,,Pressey REBOUND (Off:0 Def:2),,,5.0,203515,Phil Pressey,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,543,1,5,4,11:15 PM,0:52,,,Jones 1' Layup (8 PTS) (Pressey 3 AST),107 - 109,2,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,5,203515,Phil Pressey,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,544,9,1,4,11:16 PM,0:52,NUGGETS Timeout: Regular (Full 6 Short 1),,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,548,6,1,4,11:18 PM,0:44,,,McAdoo P.FOUL (P1.T4) (J.Orr),,,5.0,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,4,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,549,2,1,4,11:18 PM,0:37,MISS Murray 26' 3PT Jump Shot,,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,550,4,0,4,11:18 PM,0:36,,,Looney REBOUND (Off:3 Def:5),,,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,551,2,1,4,11:18 PM,0:32,,,MISS Jones 25' 3PT Jump Shot,,,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,553,4,0,4,11:18 PM,0:30,,,McAdoo REBOUND (Off:1 Def:0),,,5.0,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,552,1,87,4,11:18 PM,0:30,,,McAdoo  Putback Dunk (4 PTS),109 - 109,TIE,5.0,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,554,1,1,4,11:19 PM,0:11,Murray 26' 3PT Jump Shot (11 PTS),,,109 - 112,3,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,555,9,1,4,11:19 PM,0:11,,,Warriors Timeout: Regular (Reg.4 Short 0),,,3.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,557,2,1,4,11:21 PM,0:06,,,MISS Jones 27' 3PT Jump Shot,,,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,558,4,0,4,11:21 PM,0:04,,,Jones REBOUND (Off:1 Def:0),,,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,559,1,1,4,11:21 PM,0:01,,,McCaw 26' 3PT Jump Shot (8 PTS) (Jones 1 AST),112 - 112,TIE,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,5,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,560,9,2,4,11:21 PM,0:01,NUGGETS Timeout: Short (Full 6 Short 2),,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,561,13,0,4,11:22 PM,0:00,,,,112 - 112,TIE,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,564,12,0,5,11:25 PM,5:00,,,,112 - 112,TIE,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,565,10,0,5,11:25 PM,4:58,Jump Ball Stokes vs. McAdoo: Tip to Murray,,,,,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,5,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0
+0011600063,566,5,1,5,11:26 PM,4:43,Murray Bad Pass Turnover (P3.T16),,McCaw STEAL (1 STL),,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,567,6,2,5,11:26 PM,4:40,Murray S.FOUL (P2.T1) (J.Phillips),,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,568,3,11,5,11:26 PM,4:40,,,McAdoo Free Throw 1 of 2 (5 PTS),113 - 112,-1,5.0,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,570,3,12,5,11:26 PM,4:40,,,McAdoo Free Throw 2 of 2 (6 PTS),114 - 112,-2,5.0,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,573,2,1,5,11:27 PM,4:21,MISS Murray 3' Jump Shot,,McAdoo BLOCK (2 BLK),,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,0
+0011600063,574,4,0,5,11:27 PM,4:21,Stokes REBOUND (Off:3 Def:0),,,,,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,575,6,2,5,11:27 PM,4:21,,,McAdoo S.FOUL (P2.T1) (J.Phillips),,,5.0,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,4,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,576,3,11,5,11:27 PM,4:21,Stokes Free Throw 1 of 2 (6 PTS),,,114 - 113,-1,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,578,3,12,5,11:27 PM,4:21,Stokes Free Throw 2 of 2 (7 PTS),,,114 - 114,TIE,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,580,1,1,5,11:28 PM,4:07,,,McCaw 26' 3PT Jump Shot (11 PTS) (Jones 2 AST),117 - 114,-3,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,5,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,581,6,1,5,11:28 PM,4:00,,,Pressey P.FOUL (P1.T2) (J.Phillips),,,5.0,203515,Phil Pressey,1610612744.0,Golden State,Warriors,GSW,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,582,2,1,5,11:28 PM,3:48,MISS Beasley 3' Jump Shot,,,,,4.0,1627736,Malik Beasley,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,583,4,0,5,11:28 PM,3:48,Beasley REBOUND (Off:2 Def:2),,,,,4.0,1627736,Malik Beasley,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,584,2,5,5,11:28 PM,3:48,MISS Beasley 1' Layup,,McAdoo BLOCK (3 BLK),,,4.0,1627736,Malik Beasley,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,0
+0011600063,585,4,0,5,11:28 PM,3:48,NUGGETS Rebound,,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,587,1,1,5,11:29 PM,3:38,Murray 12' Jump Shot (13 PTS),,,117 - 116,-1,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,588,6,1,5,11:29 PM,3:29,Hummel P.FOUL (P1.T2) (J.Phillips),,,,,4.0,203133,Robbie Hummel,1610612743.0,Denver,Nuggets,DEN,5,203515,Phil Pressey,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,589,2,1,5,11:29 PM,3:19,,,MISS Jones 14' Jump Shot,,,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,590,4,0,5,11:29 PM,3:17,Murray REBOUND (Off:1 Def:4),,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,591,1,7,5,11:30 PM,3:12,Stokes  Dunk (9 PTS) (Murray 6 AST),,,117 - 118,1,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,592,2,42,5,11:30 PM,2:49,,,MISS Jones 2' Driving Layup,,,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,594,4,0,5,11:30 PM,2:47,,,Looney REBOUND (Off:4 Def:5),,,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,593,1,72,5,11:30 PM,2:47,,,Looney 2' Putback Layup (3 PTS),119 - 118,-1,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,595,2,46,5,11:30 PM,2:31,MISS Beasley 5' Running Jump Shot,,,,,4.0,1627736,Malik Beasley,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,596,4,0,5,11:30 PM,2:31,,,McAdoo REBOUND (Off:1 Def:1),,,5.0,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,597,1,1,5,11:30 PM,2:18,,,McCaw 26' 3PT Jump Shot (14 PTS),122 - 118,-4,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,598,9,1,5,11:31 PM,2:18,NUGGETS Timeout: Regular (Full 7 Short 2),,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,600,1,5,5,11:33 PM,2:05,Stokes 3' Layup (11 PTS),,,122 - 120,-2,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,601,6,29,5,11:33 PM,2:05,,,McAdoo Shooting Block Foul (P3.T3) (J.Orr),,,5.0,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,4,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,602,3,10,5,11:33 PM,2:05,Stokes Free Throw 1 of 1 (12 PTS),,,122 - 121,-1,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,604,5,40,5,11:33 PM,1:51,,,Jones Out of Bounds Lost Ball Turnover (P2.T16),,,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0011600063,605,1,1,5,11:34 PM,1:42,Murray 20' Jump Shot (15 PTS),,,122 - 123,1,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,606,6,2,5,11:34 PM,1:42,,,Pressey S.FOUL (P2.PN) (J.Phillips),,,5.0,203515,Phil Pressey,1610612744.0,Golden State,Warriors,GSW,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,607,3,10,5,11:34 PM,1:42,Murray Free Throw 1 of 1 (16 PTS),,,122 - 124,2,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,609,1,7,5,11:34 PM,1:29,,,McAdoo  Dunk (8 PTS) (McCaw 2 AST),124 - 124,TIE,5.0,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,5,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0011600063,610,6,2,5,11:34 PM,1:29,Hernangomez S.FOUL (P4.T3) (N.Buchert),,,,,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,5,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,611,3,10,5,11:35 PM,1:29,,,MISS McAdoo Free Throw 1 of 1,,,5.0,203949,James Michael McAdoo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,613,4,0,5,11:35 PM,1:27,Stokes REBOUND (Off:3 Def:1),,,,,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,614,2,1,5,11:35 PM,1:09,MISS Hummel 26' 3PT Jump Shot,,,,,4.0,203133,Robbie Hummel,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,615,4,0,5,11:35 PM,1:09,,,Warriors Rebound,,,3.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,616,6,3,5,11:36 PM,1:09,Stokes L.B.FOUL (P5.PN) (J.Phillips),,,,,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,5,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,617,3,11,5,11:36 PM,1:09,,,Jones Free Throw 1 of 2 (9 PTS),125 - 124,-1,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,619,9,2,5,11:36 PM,1:09,NUGGETS Timeout: Short (Full 7 Short 3),,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,621,3,12,5,11:37 PM,1:09,,,MISS Jones Free Throw 2 of 2,,,5.0,202841,Cameron Jones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,623,4,0,5,11:37 PM,1:06,,,Warriors Rebound,,,3.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,625,1,1,5,11:38 PM,0:46,,,McCaw 17' Jump Shot (16 PTS),127 - 124,-3,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,626,5,40,5,11:38 PM,0:37,Murray Out of Bounds Lost Ball Turnover (P4.T17),,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011600063,627,2,1,5,11:38 PM,0:20,,,MISS Pressey 5' Jump Shot,,,5.0,203515,Phil Pressey,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,628,4,0,5,11:39 PM,0:20,NUGGETS Rebound,,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,629,6,1,5,11:39 PM,0:20,,,Looney P.FOUL (P1.PN) (J.Orr),,,5.0,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011600063,630,3,11,5,11:39 PM,0:20,Stokes Free Throw 1 of 2 (13 PTS),,,127 - 125,-2,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,632,3,12,5,11:39 PM,0:20,Stokes Free Throw 2 of 2 (14 PTS),,,127 - 126,-1,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,634,6,28,5,11:40 PM,0:16,Murray Personal Take Foul (P3.PN) (J.Phillips),,,,,4.0,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203515,Phil Pressey,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0011600063,635,3,11,5,11:40 PM,0:16,,,MISS Pressey Free Throw 1 of 2,,,5.0,203515,Phil Pressey,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,636,4,1,5,11:40 PM,0:16,,,Warriors Rebound,,,3.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,637,3,12,5,11:40 PM,0:16,,,MISS Pressey Free Throw 2 of 2,,,5.0,203515,Phil Pressey,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,639,4,0,5,11:40 PM,0:15,Hernangomez REBOUND (Off:0 Def:5),,,,,4.0,1627823,Juancho Hernangomez,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011600063,640,9,1,5,11:40 PM,0:15,NUGGETS Timeout: Regular (Full 8 Short 3),,,,,2.0,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,642,1,5,5,11:42 PM,0:03,Stokes 2' Layup (16 PTS) (Murray 7 AST),,,127 - 128,1,4.0,203950,Jarnell Stokes,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011600063,643,9,1,5,11:43 PM,0:03,,,Warriors Timeout: Regular (Reg.5 Short 0),,,3.0,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0011600063,645,1,1,5,11:44 PM,0:00,,,McCaw 10' Jump Shot (18 PTS),129 - 128,-1,5.0,1627775,Patrick McCaw,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0011600063,646,18,0,5,11:45 PM,0:00,,,,,,,645,,,,,,0,0,,,,,,1,0,,,,,,0
+0011600063,647,13,0,5,11:45 PM,0:00,,,,129 - 128,-1,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
