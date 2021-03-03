@@ -1,0 +1,505 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011700016,2,12,0,1,7:42 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,4,10,0,1,7:42 PM,12:00,Jump Ball Porzingis vs. Mozgov: Tip to Sessions,,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,5,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,4,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,0
+0011700016,7,2,6,1,7:43 PM,11:37,MISS Porzingis 3' Driving Layup,,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,8,4,1,1,7:43 PM,11:34,,,Carroll REBOUND (Off:0 Def:1),,,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,9,5,1,1,7:43 PM,11:28,Sessions STEAL (1 STL),,Russell Bad Pass Turnover (P1.T1),,,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,4,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,11,2,1,1,7:43 PM,11:16,MISS Porzingis 22' Jump Shot,,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,12,4,1,1,7:43 PM,11:10,,,Russell REBOUND (Off:0 Def:1),,,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,13,1,1,1,7:43 PM,10:57,,,Russell  3PT Jump Shot (3 PTS),3 - 0,-3,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,14,2,80,1,7:43 PM,10:41,MISS Porzingis 21' Step Back Jump Shot,,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,15,4,1,1,7:44 PM,10:38,,,Carroll REBOUND (Off:0 Def:2),,,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,16,2,63,1,7:44 PM,10:33,,,MISS Hollis-Jefferson 10' Fadeaway Jumper,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,17,4,1,1,7:44 PM,10:29,Porzingis REBOUND (Off:0 Def:1),,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,18,1,6,1,7:44 PM,10:26,Hardaway Jr. 1' Driving Layup (2 PTS),,,3 - 2,-1,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,19,2,1,1,7:44 PM,10:17,,,MISS Russell 26' 3PT Jump Shot,,,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,20,4,1,1,7:44 PM,10:15,Porzingis REBOUND (Off:0 Def:2),,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,21,2,1,1,7:44 PM,10:10,MISS O'Quinn 1' Jump Shot,,Russell BLOCK (1 BLK),,,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0
+0011700016,22,4,1,1,7:44 PM,10:07,O'Quinn REBOUND (Off:1 Def:0),,,,,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,23,1,5,1,7:44 PM,10:04,O'Quinn 7' Layup (2 PTS),,,3 - 4,1,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,25,6,1,1,7:44 PM,9:53,O'Quinn P.FOUL (P1.T1) (J.Capers),,,,,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,5,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,27,5,2,1,7:45 PM,9:43,Porzingis STEAL (1 STL),,Lin Lost Ball Turnover (P1.T2),,,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,4,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,29,1,75,1,7:45 PM,9:32,Sessions 2' Driving Finger Roll Layup (2 PTS),,,3 - 6,3,4.0,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,30,5,2,1,7:45 PM,9:23,Hardaway Jr. STEAL (1 STL),,Mozgov Lost Ball Turnover (P1.T3),,,5.0,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,4,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,32,1,1,1,7:45 PM,9:18,Hardaway Jr. 25' 3PT Jump Shot (5 PTS) (Sessions 1 AST),,,3 - 9,6,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,4,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,34,2,1,1,7:45 PM,9:06,,,MISS Lin 18' Jump Shot,,,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,35,4,1,1,7:45 PM,9:04,O'Quinn REBOUND (Off:1 Def:1),,,,,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,36,1,3,1,7:46 PM,8:59,Porzingis 6' Hook Shot (2 PTS) (Hardaway Jr. 1 AST),,,3 - 11,8,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,4,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,38,6,2,1,7:46 PM,8:44,Sessions S.FOUL (P1.T2) (J.Capers),,,,,4.0,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,40,3,13,1,7:46 PM,8:44,,,Russell Free Throw 1 of 3 (4 PTS),4 - 11,7,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,41,3,14,1,7:46 PM,8:44,,,Russell Free Throw 2 of 3 (5 PTS),5 - 11,6,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,42,3,15,1,7:47 PM,8:44,,,Russell Free Throw 3 of 3 (6 PTS),6 - 11,5,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,43,1,63,1,7:47 PM,8:34,Porzingis 7' Fadeaway Jumper (4 PTS) (Sessions 2 AST),,,6 - 13,7,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,4,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,45,1,5,1,7:47 PM,8:12,,,Russell 2' Layup (8 PTS) (Carroll 1 AST),8 - 13,5,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,5,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,47,1,1,1,7:47 PM,7:58,McDermott 25' 3PT Jump Shot (3 PTS) (Sessions 3 AST),,,8 - 16,8,4.0,203926,Doug McDermott,1610612752.0,New York,Knicks,NYK,4,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,49,2,1,1,7:48 PM,7:43,,,MISS Russell 21' Jump Shot,,,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,50,4,1,1,7:48 PM,7:40,Hardaway Jr. REBOUND (Off:0 Def:1),,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,51,1,73,1,7:48 PM,7:35,McDermott 1' Driving Reverse Layup (5 PTS) (Sessions 4 AST),,,8 - 18,10,4.0,203926,Doug McDermott,1610612752.0,New York,Knicks,NYK,4,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,53,9,1,1,7:48 PM,7:35,,,Nets Timeout: Regular (Reg.1 Short 0),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,54,1,2,1,7:51 PM,7:22,,,Carroll 8' Running Jump Shot (2 PTS),10 - 18,8,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,55,2,1,1,7:51 PM,7:04,MISS Porzingis 27' 3PT Jump Shot,,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,56,4,1,1,7:51 PM,7:02,,,Carroll REBOUND (Off:0 Def:3),,,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,57,2,6,1,7:52 PM,6:54,,,MISS Hollis-Jefferson 2' Driving Layup,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,58,4,1,1,7:52 PM,6:51,Hardaway Jr. REBOUND (Off:0 Def:2),,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,59,2,1,1,7:52 PM,6:48,MISS Hardaway Jr. 25' 3PT Jump Shot,,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,60,4,1,1,7:52 PM,6:45,,,Russell REBOUND (Off:0 Def:2),,,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,61,2,6,1,7:52 PM,6:39,O'Quinn BLOCK (1 BLK),,MISS Carroll 2' Driving Layup,,,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0
+0011700016,63,4,1,1,7:52 PM,6:33,Sessions REBOUND (Off:0 Def:1),,,,,4.0,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,74,8,0,1,7:52 PM,6:33,SUB: Ntilikina FOR Sessions,,,,,4.0,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,75,8,0,1,7:52 PM,6:33,,,SUB: Dinwiddie FOR Mozgov,,,5.0,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,5,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,76,8,0,1,7:52 PM,6:33,,,SUB: Acy FOR Russell,,,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,5,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,65,6,1,1,7:53 PM,6:26,,,Hollis-Jefferson P.FOUL (P1.T1) (J.Capers),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,67,2,5,1,7:53 PM,6:20,MISS McDermott 5' Layup,,,,,4.0,203926,Doug McDermott,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,68,4,1,1,7:53 PM,6:18,,,Acy REBOUND (Off:0 Def:1),,,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,77,6,2,1,7:53 PM,6:18,O'Quinn S.FOUL (P2.T3) (V.Voyard-Tadal),,,,,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,5,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,79,3,11,1,7:54 PM,6:18,,,Acy Free Throw 1 of 2 (1 PTS),11 - 18,7,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,80,3,12,1,7:54 PM,6:18,,,Acy Free Throw 2 of 2 (2 PTS),12 - 18,6,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,81,1,1,1,7:54 PM,6:04,O'Quinn 19' Jump Shot (4 PTS) (Ntilikina 1 AST),,,12 - 20,8,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,83,1,6,1,7:54 PM,5:48,,,Hollis-Jefferson 2' Driving Layup (2 PTS),14 - 20,6,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,84,1,1,1,7:54 PM,5:35,Porzingis 18' Jump Shot (6 PTS),,,14 - 22,8,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,85,2,80,1,7:54 PM,5:23,,,MISS Lin 17' Step Back Jump Shot,,,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,86,4,1,1,7:54 PM,5:19,Hardaway Jr. REBOUND (Off:0 Def:3),,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,87,5,2,1,7:54 PM,5:14,O'Quinn Lost Ball Turnover (P1.T1),,Acy STEAL (1 STL),,,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,5,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,89,2,1,1,7:55 PM,5:08,,,MISS Acy  3PT Jump Shot,,,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,90,4,1,1,7:55 PM,5:07,Porzingis REBOUND (Off:0 Def:3),,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,91,6,1,1,7:55 PM,5:07,,,Hollis-Jefferson P.FOUL (P2.T2) (M.Smith),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,97,8,0,1,7:55 PM,5:07,SUB: Lee FOR McDermott,,,,,4.0,203926,Doug McDermott,1610612752.0,New York,Knicks,NYK,4,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,98,8,0,1,7:55 PM,5:07,,,SUB: Booker FOR Carroll,,,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,707,8,0,1,7:55 PM,5:07,,,SUB: Beasley FOR Hollis-Jefferson,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,101,8,0,1,7:58 PM,5:07,SUB: Kanter FOR O'Quinn,,,,,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,4,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,96,8,0,1,10:00 PM,5:07,SUB: Harris FOR Porzingis,,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,103,5,1,1,7:55 PM,4:49,Ntilikina Bad Pass Turnover (P1.T2),,Booker STEAL (1 STL),,,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,105,1,7,1,7:55 PM,4:44,,,Booker 1' Dunk (2 PTS),16 - 22,6,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,106,1,1,1,7:56 PM,4:30,Beasley 19' Jump Shot (2 PTS) (Ntilikina 2 AST),,,16 - 24,8,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,108,1,66,1,7:56 PM,4:13,,,Acy 26' 3PT Jump Bank Shot (5 PTS) (Hollis-Jefferson 1 AST),19 - 24,5,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,110,2,5,1,7:56 PM,3:50,MISS Kanter 2' Layup,,,,,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,111,4,1,1,7:56 PM,3:43,,,Acy REBOUND (Off:0 Def:2),,,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,112,1,1,1,7:57 PM,3:35,,,Harris 26' 3PT Jump Shot (3 PTS) (Booker 1 AST),22 - 24,2,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,116,9,1,1,7:57 PM,3:31,KNICKS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,710,8,0,1,7:58 PM,3:31,,,SUB: Russell FOR Lin,,,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,124,1,1,1,7:59 PM,3:25,Hardaway Jr. 26' 3PT Jump Shot (8 PTS) (Beasley 1 AST),,,22 - 27,5,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,4,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,757,8,0,1,11:45 PM,3:10,SUB: Allen FOR Hardaway Jr.,,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,5,1628386,Jarrett Allen,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,758,8,0,1,11:49 PM,3:10,SUB: Artis FOR Ntilikina,,,,,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,4,1628503,Jamel Artis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,759,8,0,1,11:49 PM,3:10,SUB: Hernangomez FOR Beasley,,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,4,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,760,8,0,1,11:49 PM,3:10,SUB: Rathan-Mayes FOR Lee,,,,,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,4,1628504,Xavier Rathan-Mayes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,761,8,0,1,11:49 PM,3:10,SUB: Dotson FOR Kanter,,,,,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,762,8,0,1,11:49 PM,3:10,,,SUB: Hayes FOR Dinwiddie,,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,4,1628502,Nigel Hayes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,128,2,1,1,7:59 PM,2:58,,,MISS Russell 18' Jump Shot,,,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,129,4,1,1,7:59 PM,2:55,,,Booker REBOUND (Off:1 Def:0),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,130,2,6,1,7:59 PM,2:50,,,MISS Dinwiddie 4' Driving Layup,,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,131,4,1,1,7:59 PM,2:49,,,Booker REBOUND (Off:2 Def:0),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,132,6,2,1,7:59 PM,2:49,Kanter S.FOUL (P1.T4) (M.Smith),,,,,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,134,3,11,1,8:00 PM,2:49,,,Booker Free Throw 1 of 2 (3 PTS),23 - 27,4,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,136,8,0,1,8:00 PM,2:49,SUB: Thomas FOR Hardaway Jr.,,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,4,202498,Lance Thomas,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,137,3,12,1,8:00 PM,2:49,,,MISS Booker Free Throw 2 of 2,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,138,4,1,1,8:00 PM,2:46,Kanter REBOUND (Off:0 Def:1),,,,,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,139,2,5,1,8:00 PM,2:32,MISS Kanter 1' Layup,,,,,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,140,4,1,1,8:00 PM,2:28,,,Acy REBOUND (Off:0 Def:3),,,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,141,2,1,1,8:00 PM,2:25,,,MISS Harris  3PT Jump Shot,,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,142,4,1,1,8:00 PM,2:22,Beasley REBOUND (Off:0 Def:1),,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,143,6,2,1,8:01 PM,2:10,,,Acy S.FOUL (P1.T3) (M.Smith),,,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,4,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,145,3,11,1,8:01 PM,2:10,Kanter Free Throw 1 of 2 (1 PTS),,,23 - 28,5,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,146,3,12,1,8:02 PM,2:10,MISS Kanter Free Throw 2 of 2,,,,,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,147,4,1,1,8:02 PM,2:07,,,Booker REBOUND (Off:2 Def:1),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,148,5,45,1,8:02 PM,2:00,,,Booker Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,149,2,1,1,8:02 PM,1:45,MISS Ntilikina 20' Jump Shot,,,,,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,150,4,1,1,8:02 PM,1:45,,,Booker REBOUND (Off:2 Def:2),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,151,6,3,1,8:02 PM,1:45,Kanter L.B.FOUL (P2.PN) (J.Capers),,,,,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,5,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,153,3,11,1,8:03 PM,1:45,,,Acy Free Throw 1 of 2 (6 PTS),24 - 28,4,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,154,3,12,1,8:03 PM,1:45,,,Acy Free Throw 2 of 2 (7 PTS),25 - 28,3,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,155,1,1,1,8:03 PM,1:30,Ntilikina  3PT Jump Shot (3 PTS) (Kanter 1 AST),,,25 - 31,6,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,4,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,157,1,1,1,8:03 PM,1:20,,,Acy 26' 3PT Jump Shot (10 PTS) (Russell 1 AST),28 - 31,3,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,159,1,1,1,8:04 PM,0:59,Kanter 10' Jump Shot (3 PTS) (Ntilikina 3 AST),,,28 - 33,5,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,162,2,1,1,8:04 PM,0:35,,,MISS Russell 20' Jump Shot,,,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,163,4,1,1,8:04 PM,0:33,,,Booker REBOUND (Off:3 Def:2),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,164,5,40,1,8:04 PM,0:31,,,Booker Out of Bounds Lost Ball Turnover (P2.T5),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,165,5,45,1,8:05 PM,0:16,Ntilikina Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,,,,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,166,1,1,1,8:05 PM,0:01,,,Russell 22' Jump Shot (10 PTS),30 - 33,3,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,167,13,0,1,8:05 PM,0:00,,,,30 - 33,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,172,12,0,2,8:08 PM,12:00,,,,30 - 33,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,173,1,1,2,8:09 PM,11:40,,,Harris 26' 3PT Jump Shot (6 PTS) (Russell 2 AST),33 - 33,TIE,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,175,5,2,2,8:09 PM,11:27,Beasley Lost Ball Turnover (P1.T4),,Russell STEAL (1 STL),,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,177,2,6,2,8:09 PM,11:22,,,MISS Russell 3' Driving Layup,,,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,178,4,1,2,8:09 PM,11:20,Ntilikina REBOUND (Off:0 Def:1),,,,,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,179,2,44,2,8:09 PM,11:16,MISS Kanter 2' Reverse Layup,,,,,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,180,4,1,2,8:09 PM,11:13,,,Booker REBOUND (Off:3 Def:3),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,181,6,1,2,8:09 PM,11:07,Ntilikina P.FOUL (P1.T1) (V.Voyard-Tadal),,,,,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,183,2,1,2,8:10 PM,10:59,,,MISS Kilpatrick 26' 3PT Jump Shot,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,184,4,1,2,8:10 PM,10:56,,,Booker REBOUND (Off:4 Def:3),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,185,1,5,2,8:10 PM,10:51,,,Booker 3' Layup (5 PTS),35 - 33,-2,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,186,6,1,2,8:10 PM,10:46,,,Kilpatrick P.FOUL (P1.T1) (J.Capers),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,4,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,188,2,1,2,8:10 PM,10:36,MISS Ntilikina 27' 3PT Jump Shot,,,,,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,189,4,1,2,8:10 PM,10:33,,,Mozgov REBOUND (Off:0 Def:1),,,5.0,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,190,5,40,2,8:10 PM,10:24,,,Mozgov Out of Bounds Lost Ball Turnover (P2.T6),,,5.0,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,191,6,26,2,8:11 PM,10:15,Thomas Offensive Charge Foul (P1.T2) (V.Voyard-Tadal),,,,,4.0,202498,Lance Thomas,1610612752.0,New York,Knicks,NYK,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,193,5,37,2,8:11 PM,10:15,Thomas Offensive Foul Turnover (P1.T5),,,,,4.0,202498,Lance Thomas,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,194,2,1,2,8:11 PM,10:07,,,MISS Harris 26' 3PT Jump Shot,,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,195,4,1,2,8:11 PM,10:04,Beasley REBOUND (Off:0 Def:2),,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,196,1,101,2,8:11 PM,10:01,Beasley 5' Driving Floating Jump Shot (4 PTS),,,35 - 35,TIE,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,197,1,1,2,8:11 PM,9:51,,,Mozgov 19' Jump Shot (2 PTS) (Russell 3 AST),37 - 35,-2,5.0,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,199,5,2,2,8:12 PM,9:38,Thomas Lost Ball Turnover (P2.T6),,Russell STEAL (2 STL),,,4.0,202498,Lance Thomas,1610612752.0,New York,Knicks,NYK,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,201,2,1,2,8:12 PM,9:31,,,MISS Kilpatrick 19' Jump Shot,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,202,4,1,2,8:12 PM,9:28,Thomas REBOUND (Off:0 Def:1),,,,,4.0,202498,Lance Thomas,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,203,6,2,2,8:12 PM,9:14,,,Mozgov S.FOUL (P1.T2) (M.Smith),,,5.0,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,4,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,207,8,0,2,8:13 PM,9:14,SUB: Jack FOR Ntilikina,,,,,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,4,101127,Jarrett Jack,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,205,3,11,2,8:13 PM,9:14,Kanter Free Throw 1 of 2 (4 PTS),,,37 - 36,-1,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,208,3,12,2,8:13 PM,9:14,Kanter Free Throw 2 of 2 (5 PTS),,,37 - 37,TIE,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,209,5,40,2,8:13 PM,9:03,,,Harris Out of Bounds Lost Ball Turnover (P1.T7),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,211,8,0,2,8:13 PM,9:03,SUB: Hernangomez FOR Kanter,,,,,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,4,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,212,2,1,2,8:13 PM,8:52,MISS Lee 21' Jump Shot,,,,,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,213,4,1,2,8:14 PM,8:46,Lee REBOUND (Off:1 Def:0),,,,,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,214,1,6,2,8:14 PM,8:38,Lee 1' Driving Layup (2 PTS),,,37 - 39,2,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,215,2,5,2,8:14 PM,8:26,,,MISS Russell 5' Layup,,,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,216,4,1,2,8:14 PM,8:24,Hernangomez REBOUND (Off:0 Def:1),,,,,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,217,2,5,2,8:14 PM,8:18,MISS Jack 2' Layup,,,,,4.0,101127,Jarrett Jack,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,218,4,1,2,8:14 PM,8:15,,,Mozgov REBOUND (Off:0 Def:2),,,5.0,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,219,6,1,2,8:14 PM,8:11,Lee P.FOUL (P1.T3) (J.Capers),,,,,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,222,6,17,2,8:15 PM,8:07,,,,,,,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0011700016,223,3,16,2,8:15 PM,8:07,,,Harris Free Throw Technical (7 PTS),38 - 39,1,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,224,1,1,2,8:15 PM,7:59,,,Kilpatrick 26' 3PT Jump Shot (3 PTS),41 - 39,-2,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,225,2,1,2,8:15 PM,7:47,MISS Thomas 10' Jump Shot,,,,,4.0,202498,Lance Thomas,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,226,4,1,2,8:15 PM,7:47,,,Kilpatrick REBOUND (Off:0 Def:1),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,227,2,1,2,8:16 PM,7:40,,,MISS Russell 25' 3PT Jump Shot,,,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,228,4,1,2,8:16 PM,7:38,Beasley REBOUND (Off:0 Def:3),,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,230,2,6,2,8:16 PM,7:25,MISS Hernangomez 5' Driving Layup,,,,,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,231,4,1,2,8:16 PM,7:23,,,Booker REBOUND (Off:4 Def:4),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,232,1,6,2,8:16 PM,7:18,,,Russell 3' Driving Layup (12 PTS),43 - 39,-4,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,233,2,1,2,8:16 PM,7:01,MISS Beasley 10' Jump Shot,,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,234,4,1,2,8:16 PM,6:58,,,Booker REBOUND (Off:4 Def:5),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,235,1,6,2,8:16 PM,6:56,,,Kilpatrick 2' Driving Layup (5 PTS) (Booker 2 AST),45 - 39,-6,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,237,9,1,2,8:17 PM,6:50,KNICKS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,241,8,0,2,8:19 PM,6:50,SUB: Hardaway Jr. FOR Beasley,,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,4,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,242,8,0,2,8:19 PM,6:50,SUB: Porzingis FOR Thomas,,,,,4.0,202498,Lance Thomas,1610612752.0,New York,Knicks,NYK,4,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,243,8,0,2,8:19 PM,6:50,,,SUB: Lin FOR Russell,,,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,5,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,244,2,1,2,8:20 PM,6:44,MISS Lee 19' Jump Shot,,,,,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,245,4,1,2,8:20 PM,6:40,,,Harris REBOUND (Off:0 Def:1),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,246,5,1,2,8:20 PM,6:28,Hardaway Jr. STEAL (2 STL),,Lin Bad Pass Turnover (P2.T8),,,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,4,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,248,1,5,2,8:20 PM,6:23,Lee 2' Layup (4 PTS) (Hardaway Jr. 2 AST),,,45 - 41,-4,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,4,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,250,2,1,2,8:20 PM,6:10,,,MISS Lin 27' 3PT Jump Shot,,,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,251,4,1,2,8:20 PM,6:10,KNICKS Rebound,,,,,2.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,252,6,2,2,8:21 PM,5:57,,,Harris S.FOUL (P1.T3) (V.Voyard-Tadal),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,254,3,11,2,8:21 PM,5:57,Porzingis Free Throw 1 of 2 (7 PTS),,,45 - 42,-3,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,259,8,0,2,8:21 PM,5:57,,,SUB: Hollis-Jefferson FOR Mozgov,,,5.0,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,260,8,0,2,8:21 PM,5:57,,,SUB: Allen FOR Booker,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,5,1628386,Jarrett Allen,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,261,3,12,2,8:21 PM,5:57,Porzingis Free Throw 2 of 2 (8 PTS),,,45 - 43,-2,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,258,8,0,2,10:03 PM,5:57,,,SUB: Carroll FOR Harris,,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,262,5,1,2,8:22 PM,5:48,Jack STEAL (1 STL),,Kilpatrick Bad Pass Turnover (P1.T9),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,4,101127,Jarrett Jack,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,264,2,6,2,8:22 PM,5:43,MISS Lee 2' Driving Layup,,,,,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,265,4,1,2,8:22 PM,5:36,Porzingis REBOUND (Off:1 Def:3),,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,266,1,72,2,8:22 PM,5:36,Porzingis 1' Putback Layup (10 PTS),,,45 - 45,TIE,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,267,1,6,2,8:22 PM,5:20,,,Kilpatrick 2' Driving Layup (7 PTS),47 - 45,-2,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,268,2,3,2,8:22 PM,5:07,MISS Porzingis 11' Hook Shot,,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,269,4,1,2,8:22 PM,5:01,,,Lin REBOUND (Off:0 Def:1),,,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,270,6,1,2,8:23 PM,4:59,Jack P.FOUL (P1.T4) (V.Voyard-Tadal),,,,,4.0,101127,Jarrett Jack,1610612752.0,New York,Knicks,NYK,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,273,8,0,2,8:23 PM,4:59,,,SUB: Whitehead FOR Kilpatrick,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,274,1,1,2,8:23 PM,4:42,,,Carroll 26' 3PT Jump Shot (5 PTS) (Lin 1 AST),50 - 45,-5,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,5,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,276,2,47,2,8:24 PM,4:20,MISS Hernangomez 7' Turnaround Jump Shot,,,,,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,279,4,1,2,8:24 PM,4:17,,,Carroll REBOUND (Off:0 Def:4),,,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,280,2,1,2,8:24 PM,3:57,,,MISS Whitehead 26' 3PT Jump Shot,,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,281,4,1,2,8:24 PM,3:52,,,Allen REBOUND (Off:1 Def:0),,,5.0,1628386,Jarrett Allen,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,282,5,45,2,8:24 PM,3:50,,,Lin Out of Bounds - Bad Pass Turnover Turnover (P3.T10),,,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,284,8,0,2,8:24 PM,3:50,SUB: McDermott FOR Lee,,,,,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,4,203926,Doug McDermott,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,285,6,1,2,8:25 PM,3:41,,,Whitehead P.FOUL (P1.T4) (M.Smith),,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,4,101127,Jarrett Jack,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,287,2,1,2,8:25 PM,3:35,MISS Porzingis 5' Jump Shot,,Carroll BLOCK (1 BLK),,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0
+0011700016,288,4,1,2,8:25 PM,3:31,Hernangomez REBOUND (Off:1 Def:1),,,,,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,342,2,3,2,8:25 PM,3:29,MISS Hernangomez 4' Hook Shot,,Allen BLOCK (1 BLK),,,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1628386,Jarrett Allen,1610612751.0,Brooklyn,Nets,BKN,0
+0011700016,344,4,1,2,8:25 PM,3:27,Jack REBOUND (Off:1 Def:0),,,,,4.0,101127,Jarrett Jack,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,348,2,1,2,8:25 PM,3:26,MISS Jack 18' Jump Shot,,,,,4.0,101127,Jarrett Jack,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,349,4,1,2,8:25 PM,3:25,KNICKS Rebound,,,,,2.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,291,2,1,2,8:26 PM,3:19,MISS Jack 18' Jump Shot,,,,,4.0,101127,Jarrett Jack,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,292,4,1,2,8:26 PM,3:18,Hernangomez REBOUND (Off:2 Def:1),,,,,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,293,6,1,2,8:26 PM,3:18,,,Allen P.FOUL (P1.PN) (J.Capers),,,5.0,1628386,Jarrett Allen,1610612751.0,Brooklyn,Nets,BKN,4,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,295,3,11,2,8:26 PM,3:18,Hernangomez Free Throw 1 of 2 (1 PTS),,,50 - 46,-4,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,296,3,12,2,8:26 PM,3:18,Hernangomez Free Throw 2 of 2 (2 PTS),,,50 - 47,-3,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,297,2,6,2,8:26 PM,3:04,,,MISS Whitehead 12' Driving Layup,,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,298,4,1,2,8:26 PM,3:02,Hernangomez REBOUND (Off:2 Def:2),,,,,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,299,2,1,2,8:27 PM,2:59,MISS McDermott 25' 3PT Jump Shot,,,,,4.0,203926,Doug McDermott,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,300,4,1,2,8:27 PM,2:54,,,Carroll REBOUND (Off:0 Def:5),,,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,301,1,1,2,8:27 PM,2:48,,,Lin 27' 3PT Jump Shot (3 PTS) (Whitehead 1 AST),53 - 47,-6,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,303,1,1,2,8:27 PM,2:34,Hardaway Jr.  3PT Jump Shot (11 PTS) (Porzingis 1 AST),,,53 - 50,-3,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,4,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,305,1,1,2,8:27 PM,2:17,,,Carroll 16' Jump Shot (7 PTS) (Lin 2 AST),55 - 50,-5,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,5,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,307,2,1,2,8:27 PM,2:04,MISS Hardaway Jr. 20' Jump Shot,,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,308,4,1,2,8:27 PM,2:02,,,Hollis-Jefferson REBOUND (Off:0 Def:1),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,309,1,1,2,8:28 PM,1:59,,,Hollis-Jefferson 16' Jump Shot (4 PTS),57 - 50,-7,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,310,2,1,2,8:28 PM,1:47,MISS Porzingis 15' Jump Shot,,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,311,4,1,2,8:28 PM,1:44,,,Allen REBOUND (Off:1 Def:1),,,5.0,1628386,Jarrett Allen,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,312,2,1,2,8:28 PM,1:28,,,MISS Lin 26' 3PT Jump Shot,,,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,313,4,1,2,8:28 PM,1:26,Hardaway Jr. REBOUND (Off:0 Def:4),,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,314,1,1,2,8:28 PM,1:22,Jack 25' 3PT Jump Shot (3 PTS) (McDermott 1 AST),,,57 - 53,-4,4.0,101127,Jarrett Jack,1610612752.0,New York,Knicks,NYK,4,203926,Doug McDermott,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,316,9,1,2,8:29 PM,1:20,,,Nets Timeout: Regular (Reg.2 Short 0),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,317,6,2,2,8:32 PM,1:04,Porzingis S.FOUL (P1.PN) (J.Capers),,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,5,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,319,3,11,2,8:32 PM,1:04,,,Lin Free Throw 1 of 2 (4 PTS),58 - 53,-5,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,320,3,12,2,8:32 PM,1:04,,,Lin Free Throw 2 of 2 (5 PTS),59 - 53,-6,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,321,2,6,2,8:32 PM,0:51,MISS Hardaway Jr. 2' Driving Layup,,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,322,4,1,2,8:32 PM,0:48,,,Allen REBOUND (Off:1 Def:2),,,5.0,1628386,Jarrett Allen,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,323,2,1,2,8:32 PM,0:45,,,MISS Carroll 25' 3PT Jump Shot,,,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,324,4,1,2,8:32 PM,0:42,,,Allen REBOUND (Off:2 Def:2),,,5.0,1628386,Jarrett Allen,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,325,2,5,2,8:32 PM,0:41,,,MISS Allen 2' Layup,,,5.0,1628386,Jarrett Allen,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,326,4,1,2,8:33 PM,0:39,Hernangomez REBOUND (Off:2 Def:3),,,,,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,327,2,1,2,8:33 PM,0:32,MISS Jack 8' Jump Shot,,,,,4.0,101127,Jarrett Jack,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,328,4,1,2,8:33 PM,0:29,Hernangomez REBOUND (Off:3 Def:3),,,,,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,329,1,7,2,8:33 PM,0:28,McDermott 1' Dunk (7 PTS) (Hernangomez 1 AST),,,59 - 55,-4,4.0,203926,Doug McDermott,1610612752.0,New York,Knicks,NYK,4,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,331,2,1,2,8:33 PM,0:09,,,MISS Lin 25' 3PT Jump Shot,,,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,332,4,1,2,8:33 PM,0:09,KNICKS Rebound,,,,,2.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,333,6,3,2,8:33 PM,0:09,,,Carroll L.B.FOUL (P1.PN) (V.Voyard-Tadal),,,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,4,203926,Doug McDermott,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,335,3,11,2,8:34 PM,0:09,McDermott Free Throw 1 of 2 (8 PTS),,,59 - 56,-3,4.0,203926,Doug McDermott,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,337,8,0,2,8:34 PM,0:09,SUB: Thomas FOR Hernangomez,,,,,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,4,202498,Lance Thomas,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,338,3,12,2,8:34 PM,0:09,McDermott Free Throw 2 of 2 (9 PTS),,,59 - 57,-2,4.0,203926,Doug McDermott,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,339,2,73,2,8:34 PM,0:01,Porzingis BLOCK (1 BLK),,MISS Lin 3' Driving Reverse Layup,,,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0
+0011700016,341,4,1,2,8:34 PM,0:01,Hardaway Jr. REBOUND (Off:0 Def:5),,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,345,2,2,2,8:35 PM,0:00,MISS Hardaway Jr. 44' 3PT Running Jump Shot,,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,346,4,1,2,8:35 PM,0:00,KNICKS Rebound,,,,,2.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,347,13,0,2,8:35 PM,0:00,,,,59 - 57,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,358,12,0,3,8:50 PM,12:00,,,,59 - 57,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,359,2,5,3,8:50 PM,11:48,Porzingis BLOCK (2 BLK),,MISS Mozgov 1' Layup,,,5.0,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0
+0011700016,361,4,1,3,8:50 PM,11:44,Porzingis REBOUND (Off:1 Def:4),,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,362,5,1,3,8:50 PM,11:43,Hardaway Jr. Bad Pass Turnover (P1.T7),,Hollis-Jefferson STEAL (1 STL),,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,364,6,1,3,8:50 PM,11:43,Porzingis P.FOUL (P2.T1) (J.Capers),,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,366,6,1,3,8:50 PM,11:41,McDermott P.FOUL (P1.T2) (J.Capers),,,,,4.0,203926,Doug McDermott,1610612752.0,New York,Knicks,NYK,5,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,368,6,2,3,8:51 PM,11:32,O'Quinn S.FOUL (P3.T3) (V.Voyard-Tadal),,,,,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,370,3,11,3,8:51 PM,11:32,,,Hollis-Jefferson Free Throw 1 of 2 (5 PTS),60 - 57,-3,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,371,3,12,3,8:51 PM,11:32,,,Hollis-Jefferson Free Throw 2 of 2 (6 PTS),61 - 57,-4,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,372,1,6,3,8:52 PM,11:11,Porzingis 3' Driving Layup (12 PTS),,,61 - 59,-2,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,373,2,6,3,8:52 PM,10:57,,,MISS Lin 3' Driving Layup,,,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,374,4,1,3,8:52 PM,10:54,O'Quinn REBOUND (Off:1 Def:2),,,,,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,375,5,1,3,8:52 PM,10:49,Sessions Bad Pass Turnover (P1.T8),,Hollis-Jefferson STEAL (2 STL),,,4.0,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,377,2,6,3,8:52 PM,10:44,O'Quinn BLOCK (2 BLK),,MISS Carroll 2' Driving Layup,,,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0
+0011700016,379,4,1,3,8:52 PM,10:41,O'Quinn REBOUND (Off:1 Def:3),,,,,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,380,5,1,3,8:52 PM,10:38,Hardaway Jr. Bad Pass Turnover (P2.T9),,Carroll STEAL (1 STL),,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,5,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,382,1,5,3,8:52 PM,10:33,,,Hollis-Jefferson 2' Layup (8 PTS),63 - 59,-4,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,383,2,5,3,8:53 PM,10:14,MISS Hardaway Jr. 1' Layup,,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,384,4,1,3,8:53 PM,10:12,,,Lin REBOUND (Off:0 Def:2),,,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,385,2,1,3,8:53 PM,10:09,,,MISS Hollis-Jefferson 12' Jump Shot,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,386,4,1,3,8:53 PM,10:04,Sessions REBOUND (Off:0 Def:2),,,,,4.0,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,388,2,1,3,8:53 PM,9:57,MISS Porzingis 19' Jump Shot,,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,389,4,1,3,8:53 PM,9:54,,,Carroll REBOUND (Off:0 Def:6),,,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,390,1,63,3,8:54 PM,9:41,,,Russell 12' Fadeaway Jumper (14 PTS),65 - 59,-6,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,391,2,1,3,8:54 PM,9:22,MISS O'Quinn 20' Jump Shot,,,,,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,392,4,1,3,8:54 PM,9:22,,,Nets Rebound,,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,393,2,1,3,8:54 PM,9:04,,,MISS Mozgov 20' Jump Shot,,,5.0,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,394,4,1,3,8:54 PM,9:01,Hardaway Jr. REBOUND (Off:0 Def:6),,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,395,2,6,3,8:54 PM,8:59,MISS Sessions 2' Driving Layup,,,,,4.0,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,396,4,1,3,8:54 PM,8:56,,,Carroll REBOUND (Off:0 Def:7),,,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,397,1,1,3,8:54 PM,8:52,,,Russell 26' 3PT Jump Shot (17 PTS) (Carroll 2 AST),68 - 59,-9,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,5,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,399,6,2,3,8:55 PM,8:36,,,Mozgov S.FOUL (P2.T1) (V.Voyard-Tadal),,,5.0,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,4,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,401,3,11,3,8:55 PM,8:36,Sessions Free Throw 1 of 2 (3 PTS),,,68 - 60,-8,4.0,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,402,3,12,3,8:56 PM,8:36,Sessions Free Throw 2 of 2 (4 PTS),,,68 - 61,-7,4.0,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,403,1,1,3,8:56 PM,8:25,,,Russell 18' Jump Shot (19 PTS),70 - 61,-9,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,404,1,1,3,8:56 PM,8:14,Hardaway Jr. 25' 3PT Jump Shot (14 PTS) (Sessions 5 AST),,,70 - 64,-6,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,4,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,408,9,1,3,8:56 PM,8:08,KNICKS Timeout: Regular (Full 3 Short 0),,,,,2.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,406,1,5,3,8:56 PM,8:07,,,Mozgov 1' Layup (4 PTS) (Lin 3 AST),72 - 64,-8,5.0,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,5,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,409,2,78,3,8:59 PM,7:55,MISS Sessions 16' Floating Jump Shot,,Lin BLOCK (1 BLK),,,4.0,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0
+0011700016,411,4,1,3,8:59 PM,7:50,O'Quinn REBOUND (Off:2 Def:3),,,,,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,412,2,5,3,8:59 PM,7:49,MISS O'Quinn 3' Layup,,,,,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,413,4,1,3,8:59 PM,7:47,,,Lin REBOUND (Off:0 Def:3),,,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,414,1,1,3,8:59 PM,7:44,,,Carroll  3PT Jump Shot (10 PTS) (Hollis-Jefferson 2 AST),75 - 64,-11,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,416,5,45,3,9:00 PM,7:25,Sessions Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,,,,4.0,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,418,8,0,3,9:00 PM,7:25,SUB: Lee FOR O'Quinn,,,,,4.0,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,4,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,419,1,1,3,9:00 PM,7:17,,,Lin 25' 3PT Jump Shot (8 PTS),78 - 64,-14,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,420,2,1,3,9:00 PM,6:53,MISS Hardaway Jr. 25' 3PT Jump Shot,,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,421,4,1,3,9:01 PM,6:49,,,Hollis-Jefferson REBOUND (Off:0 Def:2),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,422,5,1,3,9:01 PM,6:46,Lee STEAL (1 STL),,Hollis-Jefferson Bad Pass Turnover (P1.T11),,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,424,6,1,3,9:01 PM,6:46,,,Mozgov P.FOUL (P3.T2) (M.Smith),,,5.0,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,4,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,428,8,0,3,9:01 PM,6:46,,,SUB: Acy FOR Lin,,,5.0,202391,Jeremy Lin,1610612751.0,Brooklyn,Nets,BKN,5,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,429,8,0,3,9:01 PM,6:46,,,SUB: Dinwiddie FOR Mozgov,,,5.0,202389,Timofey Mozgov,1610612751.0,Brooklyn,Nets,BKN,5,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,430,5,4,3,9:01 PM,6:35,Lee Traveling Turnover (P1.T11),,,,,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,431,1,5,3,9:02 PM,6:25,,,Hollis-Jefferson 1' Layup (10 PTS) (Russell 4 AST),80 - 64,-16,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,433,2,1,3,9:02 PM,6:11,MISS Hardaway Jr. 26' 3PT Jump Shot,,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,434,4,1,3,9:02 PM,6:09,,,Carroll REBOUND (Off:0 Def:8),,,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,435,6,2,3,9:02 PM,5:53,Porzingis S.FOUL (P3.T4) (V.Voyard-Tadal),,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,5,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,441,3,11,3,9:03 PM,5:53,,,Acy Free Throw 1 of 2 (11 PTS),81 - 64,-17,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,443,8,0,3,9:03 PM,5:53,,,SUB: Whitehead FOR Russell,,,5.0,1626156,D'Angelo Russell,1610612751.0,Brooklyn,Nets,BKN,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,444,3,12,3,9:03 PM,5:53,,,Acy Free Throw 2 of 2 (12 PTS),82 - 64,-18,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,445,1,7,3,9:03 PM,5:34,Porzingis 1' Dunk (14 PTS),,,82 - 66,-16,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,449,8,0,3,9:04 PM,5:34,SUB: Beasley FOR McDermott,,,,,4.0,203926,Doug McDermott,1610612752.0,New York,Knicks,NYK,4,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,447,6,2,3,9:04 PM,5:34,,,Acy S.FOUL (P2.T3) (M.Smith),,,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,4,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,451,3,10,3,9:04 PM,5:34,Porzingis Free Throw 1 of 1 (15 PTS),,,82 - 67,-15,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,452,1,6,3,9:04 PM,5:29,,,Hollis-Jefferson 2' Driving Layup (12 PTS),84 - 67,-17,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,453,6,2,3,9:04 PM,5:29,Beasley S.FOUL (P1.PN) (M.Smith),,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,5,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,455,3,10,3,9:04 PM,5:29,,,Hollis-Jefferson Free Throw 1 of 1 (13 PTS),85 - 67,-18,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,456,6,1,3,9:05 PM,5:12,,,Whitehead P.FOUL (P2.T4) (J.Capers),,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,4,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,461,8,0,3,9:05 PM,5:12,,,SUB: Booker FOR Hollis-Jefferson,,,5.0,1626178,Rondae Hollis-Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,467,8,0,3,9:05 PM,5:12,SUB: Harris FOR Sessions,,,,,4.0,201196,Ramon Sessions,1610612752.0,New York,Knicks,NYK,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,460,8,0,3,9:06 PM,5:12,,,SUB: Ntilikina FOR Carroll,,,5.0,201960,DeMarre Carroll,1610612751.0,Brooklyn,Nets,BKN,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,462,2,6,3,9:05 PM,5:06,MISS Ntilikina 2' Driving Layup,,,,,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,463,4,1,3,9:05 PM,5:04,,,Nets Rebound,,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,464,2,1,3,9:06 PM,4:47,,,MISS Whitehead 26' 3PT Jump Shot,,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,465,4,1,3,9:06 PM,4:45,Hardaway Jr. REBOUND (Off:0 Def:7),,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,468,6,1,3,9:06 PM,4:45,,,Whitehead P.FOUL (P3.PN) (V.Voyard-Tadal),,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,4,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,470,3,11,3,9:06 PM,4:45,Beasley Free Throw 1 of 2 (5 PTS),,,85 - 68,-17,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,471,3,12,3,9:06 PM,4:45,Beasley Free Throw 2 of 2 (6 PTS),,,85 - 69,-16,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,472,2,1,3,9:07 PM,4:25,,,MISS Whitehead 10' Jump Shot,,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,473,4,1,3,9:07 PM,4:22,Beasley REBOUND (Off:0 Def:4),,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,474,1,1,3,9:07 PM,4:18,Hardaway Jr. 25' 3PT Jump Shot (17 PTS) (Beasley 2 AST),,,85 - 72,-13,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,4,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,476,5,2,3,9:07 PM,4:06,Lee STEAL (2 STL),,Whitehead Lost Ball Turnover (P1.T12),,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,4,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,478,2,1,3,9:07 PM,4:00,MISS Hardaway Jr. 26' 3PT Jump Shot,,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,479,4,1,3,9:07 PM,3:58,,,Booker REBOUND (Off:4 Def:6),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,480,5,1,3,9:07 PM,3:56,Lee STEAL (3 STL),,Booker Bad Pass Turnover (P3.T13),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,4,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,482,2,1,3,9:07 PM,3:51,MISS Lee  3PT Jump Shot,,,,,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,483,4,1,3,9:07 PM,3:48,,,Booker REBOUND (Off:4 Def:7),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,484,6,2,3,9:08 PM,3:35,Ntilikina S.FOUL (P2.PN) (M.Smith),,,,,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,5,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,486,3,11,3,9:08 PM,3:35,,,Dinwiddie Free Throw 1 of 2 (1 PTS),86 - 72,-14,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,488,8,0,3,9:08 PM,3:35,SUB: Kanter FOR Porzingis,,,,,4.0,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,4,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,489,3,12,3,9:08 PM,3:35,,,Dinwiddie Free Throw 2 of 2 (2 PTS),87 - 72,-15,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,490,2,1,3,9:09 PM,3:21,MISS Hardaway Jr. 25' 3PT Jump Shot,,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,491,4,1,3,9:09 PM,3:18,,,Whitehead REBOUND (Off:0 Def:1),,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,492,2,63,3,9:09 PM,3:07,,,MISS Whitehead 12' Fadeaway Jumper,,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,493,4,1,3,9:09 PM,3:05,,,Nets Rebound,,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,495,8,0,3,9:09 PM,3:05,SUB: Dotson FOR Hardaway Jr.,,,,,4.0,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,496,2,3,3,9:09 PM,2:59,,,MISS Booker 9' Hook Shot,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,497,4,1,3,9:09 PM,2:57,Kanter REBOUND (Off:0 Def:2),,,,,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,498,2,1,3,9:10 PM,2:45,MISS Ntilikina 17' Jump Shot,,,,,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,499,4,1,3,9:10 PM,2:43,,,Harris REBOUND (Off:0 Def:2),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,500,2,1,3,9:10 PM,2:36,,,MISS Acy 25' 3PT Jump Shot,,,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,501,4,1,3,9:10 PM,2:31,Beasley REBOUND (Off:0 Def:5),,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,502,2,1,3,9:10 PM,2:19,MISS Lee 21' Jump Shot,,,,,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,503,4,1,3,9:10 PM,2:16,,,Harris REBOUND (Off:0 Def:3),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,504,6,26,3,9:10 PM,2:06,,,Harris Offensive Charge Foul (P2.PN) (J.Capers),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,506,5,37,3,9:10 PM,2:06,,,Harris Offensive Foul Turnover (P2.T14),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,507,9,1,3,9:10 PM,2:06,,,Nets Timeout: Regular (Reg.3 Short 0),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,508,2,1,3,9:13 PM,1:51,MISS Beasley 17' Jump Shot,,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,509,4,1,3,9:14 PM,1:51,KNICKS Rebound,,,,,2.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,510,6,3,3,9:14 PM,1:51,,,Acy L.B.FOUL (P3.PN) (J.Capers),,,5.0,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,4,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,512,3,11,3,9:14 PM,1:51,Kanter Free Throw 1 of 2 (6 PTS),,,87 - 73,-14,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,513,3,12,3,9:14 PM,1:51,Kanter Free Throw 2 of 2 (7 PTS),,,87 - 74,-13,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,514,1,1,3,9:15 PM,1:29,,,Dinwiddie 11' Jump Shot (4 PTS),89 - 74,-15,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,515,9,1,3,9:15 PM,1:29,KNICKS Timeout: Regular (Full 4 Short 0),,,,,2.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,516,2,3,3,9:16 PM,1:04,MISS Kanter 9' Hook Shot,,,,,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,517,4,1,3,9:17 PM,1:01,,,Booker REBOUND (Off:4 Def:8),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,518,1,1,3,9:17 PM,0:58,,,Harris 25' 3PT Jump Shot (10 PTS) (Acy 1 AST),92 - 74,-18,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,520,6,1,3,9:17 PM,0:41,,,Whitehead P.FOUL (P4.PN) (J.Capers),,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,4,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,522,3,11,3,9:17 PM,0:41,Kanter Free Throw 1 of 2 (8 PTS),,,92 - 75,-17,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,523,3,12,3,9:18 PM,0:41,Kanter Free Throw 2 of 2 (9 PTS),,,92 - 76,-16,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,524,6,1,3,9:18 PM,0:25,Lee P.FOUL (P2.PN) (V.Voyard-Tadal),,,,,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,526,3,11,3,9:19 PM,0:25,,,Booker Free Throw 1 of 2 (6 PTS),93 - 76,-17,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,527,3,12,3,9:19 PM,0:25,,,MISS Booker Free Throw 2 of 2,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,528,4,1,3,9:19 PM,0:21,Beasley REBOUND (Off:0 Def:6),,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,529,2,6,3,9:19 PM,0:08,MISS Ntilikina 4' Driving Layup,,Acy BLOCK (1 BLK),,,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,203112,Quincy Acy,1610612751.0,Brooklyn,Nets,BKN,0
+0011700016,531,4,1,3,9:19 PM,0:08,KNICKS Rebound,,,,,2.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,532,2,1,3,9:20 PM,0:06,MISS Beasley 13' Jump Shot,,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,533,4,1,3,9:20 PM,0:03,Dotson REBOUND (Off:1 Def:0),,,,,4.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,534,2,1,3,9:20 PM,0:01,MISS Ntilikina 26' 3PT Jump Shot,,,,,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,535,4,1,3,9:20 PM,0:01,Beasley REBOUND (Off:1 Def:6),,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,536,1,5,3,9:20 PM,0:00,Beasley 3' Layup (8 PTS),,,93 - 78,-15,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,537,18,0,3,9:20 PM,0:00,,,,93 - 78,-15,0.0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0011700016,538,13,0,3,9:21 PM,0:00,,,,93 - 78,-15,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,545,12,0,4,9:22 PM,12:00,,,,93 - 78,-15,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,546,1,1,4,9:22 PM,11:49,Lee 16' Jump Shot (6 PTS),,,93 - 80,-13,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,547,5,1,4,9:23 PM,11:33,Lee STEAL (4 STL),,Harris Bad Pass Turnover (P3.T15),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,549,6,2,4,9:23 PM,11:30,,,Booker S.FOUL (P1.T1) (V.Voyard-Tadal),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,4,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,551,3,11,4,9:23 PM,11:30,MISS Beasley Free Throw 1 of 2,,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,552,4,1,4,9:23 PM,11:30,KNICKS Rebound,,,,,2.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,553,3,12,4,9:24 PM,11:30,MISS Beasley Free Throw 2 of 2,,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,554,4,1,4,9:24 PM,11:25,,,Booker REBOUND (Off:4 Def:9),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,555,2,1,4,9:24 PM,11:21,,,MISS Kilpatrick 25' 3PT Jump Shot,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,556,4,1,4,9:24 PM,11:16,Beasley REBOUND (Off:1 Def:7),,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,557,1,1,4,9:24 PM,11:12,Lee 25' 3PT Jump Shot (9 PTS) (Dotson 1 AST),,,93 - 83,-10,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,4,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,559,5,1,4,9:24 PM,10:47,Ntilikina STEAL (1 STL),,Ouattara Bad Pass Turnover (P1.T16),,,5.0,1628473,Yakuba Ouattara,1610612751.0,Brooklyn,Nets,BKN,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,561,6,2,4,9:25 PM,10:47,,,Booker S.FOUL (P2.T2) (V.Voyard-Tadal),,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,4,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,563,3,11,4,9:25 PM,10:47,Ntilikina Free Throw 1 of 2 (4 PTS),,,93 - 84,-9,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,564,3,12,4,9:25 PM,10:47,Ntilikina Free Throw 2 of 2 (5 PTS),,,93 - 85,-8,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,565,2,1,4,9:25 PM,10:30,,,MISS Harris 24' 3PT Jump Shot,,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,566,4,1,4,9:25 PM,10:26,Beasley REBOUND (Off:1 Def:8),,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,567,1,5,4,9:25 PM,10:20,Kanter 2' Layup (11 PTS),,,93 - 87,-6,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,568,6,2,4,9:26 PM,10:20,,,Zeller S.FOUL (P1.T3) (M.Smith),,,5.0,203092,Tyler Zeller,1610612751.0,Brooklyn,Nets,BKN,4,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,570,9,1,4,9:26 PM,10:20,,,Nets Timeout: Regular (Reg.4 Short 0),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,571,3,10,4,9:29 PM,10:20,Kanter Free Throw 1 of 1 (12 PTS),,,93 - 88,-5,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,572,2,1,4,9:29 PM,10:05,,,MISS Kilpatrick 8' Jump Shot,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,573,4,1,4,9:29 PM,10:01,Beasley REBOUND (Off:1 Def:9),,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,574,5,45,4,9:29 PM,10:00,Beasley Out of Bounds - Bad Pass Turnover Turnover (P2.T12),,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,575,1,1,4,9:30 PM,9:43,,,Harris 26' 3PT Jump Shot (13 PTS) (Booker 3 AST),96 - 88,-8,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,577,1,44,4,9:30 PM,9:22,Dotson 1' Reverse Layup (2 PTS) (Beasley 3 AST),,,96 - 90,-6,4.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,4,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,579,1,5,4,9:30 PM,9:03,,,Ouattara 1' Layup (2 PTS) (Zeller 1 AST),98 - 90,-8,5.0,1628473,Yakuba Ouattara,1610612751.0,Brooklyn,Nets,BKN,5,203092,Tyler Zeller,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,581,6,1,4,9:30 PM,8:51,,,Zeller P.FOUL (P2.T4) (J.Capers),,,5.0,203092,Tyler Zeller,1610612751.0,Brooklyn,Nets,BKN,4,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,585,8,0,4,9:31 PM,8:51,SUB: Rathan-Mayes FOR Ntilikina,,,,,4.0,1628373,Frank Ntilikina,1610612752.0,New York,Knicks,NYK,4,1628504,Xavier Rathan-Mayes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,586,8,0,4,9:31 PM,8:51,,,SUB: Dinwiddie FOR Ouattara,,,5.0,1628473,Yakuba Ouattara,1610612751.0,Brooklyn,Nets,BKN,5,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,587,1,3,4,9:31 PM,8:39,Kanter 5' Hook Shot (14 PTS),,,98 - 92,-6,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,588,6,1,4,9:31 PM,8:27,Beasley P.FOUL (P2.T1) (J.Capers),,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,5,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,590,2,1,4,9:32 PM,8:19,,,MISS Booker 12' Jump Shot,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,591,4,1,4,9:32 PM,8:16,Lee REBOUND (Off:1 Def:1),,,,,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,592,2,1,4,9:32 PM,8:08,MISS Beasley 17' Jump Shot,,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,593,4,1,4,9:32 PM,8:05,,,Zeller REBOUND (Off:0 Def:1),,,5.0,203092,Tyler Zeller,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,594,1,1,4,9:32 PM,8:00,,,Dinwiddie 26' 3PT Jump Shot (7 PTS) (Harris 1 AST),101 - 92,-9,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,596,2,1,4,9:32 PM,7:48,MISS Rathan-Mayes 26' 3PT Jump Shot,,,,,4.0,1628504,Xavier Rathan-Mayes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,597,4,1,4,9:32 PM,7:46,,,Dinwiddie REBOUND (Off:0 Def:1),,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,598,2,5,4,9:32 PM,7:33,,,MISS Zeller 1' Layup,,,5.0,203092,Tyler Zeller,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,599,4,1,4,9:32 PM,7:31,Kanter REBOUND (Off:0 Def:3),,,,,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,600,1,6,4,9:33 PM,7:15,Kanter 1' Driving Layup (16 PTS),,,101 - 94,-7,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,601,6,2,4,9:33 PM,7:15,,,Zeller S.FOUL (P3.PN) (J.Capers),,,5.0,203092,Tyler Zeller,1610612751.0,Brooklyn,Nets,BKN,4,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,605,8,0,4,9:33 PM,7:15,SUB: Artis FOR Beasley,,,,,4.0,201563,Michael Beasley,1610612752.0,New York,Knicks,NYK,4,1628503,Jamel Artis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,606,8,0,4,9:33 PM,7:15,,,SUB: Allen FOR Booker,,,5.0,202344,Trevor Booker,1610612751.0,Brooklyn,Nets,BKN,5,1628386,Jarrett Allen,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,607,3,10,4,9:33 PM,7:15,Kanter Free Throw 1 of 1 (17 PTS),,,101 - 95,-6,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,609,6,17,4,9:34 PM,6:58,,,,,,,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0011700016,612,8,0,4,9:34 PM,6:58,SUB: Hernangomez FOR Kanter,,,,,4.0,202683,Enes Kanter,1610612752.0,New York,Knicks,NYK,4,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,610,3,16,4,9:34 PM,6:58,,,Kilpatrick Free Throw Technical (8 PTS),102 - 95,-7,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,613,5,1,4,9:34 PM,6:43,Hernangomez STEAL (1 STL),,Harris Bad Pass Turnover (P4.T17),,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,615,1,1,4,9:35 PM,6:36,Lee 26' 3PT Jump Shot (12 PTS) (Rathan-Mayes 1 AST),,,102 - 98,-4,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,4,1628504,Xavier Rathan-Mayes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,617,6,1,4,9:35 PM,6:29,Rathan-Mayes P.FOUL (P1.T2) (M.Smith),,,,,4.0,1628504,Xavier Rathan-Mayes,1610612752.0,New York,Knicks,NYK,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,619,8,0,4,9:35 PM,6:29,,,SUB: Whitehead FOR Harris,,,5.0,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,621,1,6,4,9:35 PM,6:20,,,Dinwiddie 1' Driving Layup (9 PTS),104 - 98,-6,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,622,5,1,4,9:35 PM,6:05,Rathan-Mayes Bad Pass Turnover (P1.T13),,Whitehead STEAL (1 STL),,,4.0,1628504,Xavier Rathan-Mayes,1610612752.0,New York,Knicks,NYK,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,624,2,5,4,9:36 PM,6:01,,,MISS Kilpatrick 3' Layup,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,625,4,1,4,9:36 PM,5:58,Artis REBOUND (Off:0 Def:1),,,,,4.0,1628503,Jamel Artis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,626,5,2,4,9:36 PM,5:55,Artis Lost Ball Turnover (P1.T14),,Dinwiddie STEAL (1 STL),,,4.0,1628503,Jamel Artis,1610612752.0,New York,Knicks,NYK,5,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,628,1,5,4,9:36 PM,5:50,,,Kilpatrick 1' Layup (10 PTS) (Dinwiddie 1 AST),106 - 98,-8,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,5,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,630,9,1,4,9:36 PM,5:50,KNICKS Timeout: Regular (Full 5 Short 0),,,,,2.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,632,8,0,4,9:38 PM,5:50,SUB: Hayes FOR Lee,,,,,4.0,201584,Courtney Lee,1610612752.0,New York,Knicks,NYK,4,1628502,Nigel Hayes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,633,2,3,4,9:39 PM,5:33,MISS Hernangomez 3' Hook Shot,,,,,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,634,4,1,4,9:39 PM,5:30,,,Kilpatrick REBOUND (Off:0 Def:2),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,635,2,1,4,9:39 PM,5:17,,,MISS Zeller  3PT Jump Shot,,,5.0,203092,Tyler Zeller,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,636,4,1,4,9:39 PM,5:14,Dotson REBOUND (Off:1 Def:1),,,,,4.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,637,2,1,4,9:39 PM,5:11,MISS Artis 25' 3PT Jump Shot,,,,,4.0,1628503,Jamel Artis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,638,4,1,4,9:40 PM,5:07,,,Zeller REBOUND (Off:0 Def:2),,,5.0,203092,Tyler Zeller,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,639,2,5,4,9:40 PM,4:59,Hayes BLOCK (1 BLK),,MISS Kilpatrick 4' Layup,,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1628502,Nigel Hayes,1610612752.0,New York,Knicks,NYK,0
+0011700016,641,4,1,4,9:40 PM,4:55,Dotson REBOUND (Off:1 Def:2),,,,,4.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,642,6,2,4,9:40 PM,4:55,,,Dinwiddie S.FOUL (P1.PN) (J.Capers),,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,4,1628503,Jamel Artis,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,644,3,11,4,9:40 PM,4:55,MISS Artis Free Throw 1 of 2,,,,,4.0,1628503,Jamel Artis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,645,4,1,4,9:40 PM,4:55,KNICKS Rebound,,,,,2.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,646,3,12,4,9:40 PM,4:55,Artis Free Throw 2 of 2 (1 PTS),,,106 - 99,-7,4.0,1628503,Jamel Artis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,647,6,2,4,9:41 PM,4:44,Hayes S.FOUL (P1.T3) (J.Capers),,,,,4.0,1628502,Nigel Hayes,1610612752.0,New York,Knicks,NYK,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,649,3,11,4,9:41 PM,4:44,,,MISS Whitehead Free Throw 1 of 2,,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,650,4,1,4,9:41 PM,4:44,,,Nets Rebound,,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,651,3,12,4,9:41 PM,4:44,,,MISS Whitehead Free Throw 2 of 2,,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,652,4,1,4,9:41 PM,4:42,Hernangomez REBOUND (Off:3 Def:4),,,,,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,653,1,3,4,9:41 PM,4:28,Hernangomez 3' Hook Shot (4 PTS) (Rathan-Mayes 2 AST),,,106 - 101,-5,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,4,1628504,Xavier Rathan-Mayes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011700016,655,6,1,4,9:42 PM,4:07,Rathan-Mayes P.FOUL (P2.T4) (M.Smith),,,,,4.0,1628504,Xavier Rathan-Mayes,1610612752.0,New York,Knicks,NYK,5,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,657,2,6,4,9:42 PM,4:01,,,MISS Whitehead 2' Driving Layup,,,5.0,1627785,Isaiah Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,658,4,1,4,9:42 PM,3:55,,,Allen REBOUND (Off:3 Def:2),,,5.0,1628386,Jarrett Allen,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,659,2,87,4,9:42 PM,3:55,,,MISS Allen 1' Putback Dunk,,,5.0,1628386,Jarrett Allen,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,660,4,1,4,9:42 PM,3:55,Hernangomez REBOUND (Off:3 Def:5),,,,,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,661,5,1,4,9:42 PM,3:52,Rathan-Mayes Bad Pass Turnover (P2.T15),,Dinwiddie STEAL (2 STL),,,4.0,1628504,Xavier Rathan-Mayes,1610612752.0,New York,Knicks,NYK,5,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,664,2,5,4,9:43 PM,3:41,,,MISS Dinwiddie 5' Layup,,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,665,4,1,4,9:43 PM,3:33,Hernangomez REBOUND (Off:3 Def:6),,,,,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,666,2,1,4,9:43 PM,3:31,MISS Dotson  3PT Jump Shot,,,,,4.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,667,4,1,4,9:43 PM,3:21,,,Kilpatrick REBOUND (Off:0 Def:3),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,668,6,1,4,9:43 PM,3:19,Artis P.FOUL (P1.PN) (J.Capers),,,,,4.0,1628503,Jamel Artis,1610612752.0,New York,Knicks,NYK,5,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,670,3,11,4,9:44 PM,3:19,,,Kilpatrick Free Throw 1 of 2 (11 PTS),107 - 101,-6,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,671,3,12,4,9:44 PM,3:19,,,Kilpatrick Free Throw 2 of 2 (12 PTS),108 - 101,-7,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,672,1,66,4,9:44 PM,3:10,Artis 3' Jump Bank Shot (3 PTS),,,108 - 103,-5,4.0,1628503,Jamel Artis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,673,2,1,4,9:44 PM,2:43,,,MISS Zeller 16' Jump Shot,,,5.0,203092,Tyler Zeller,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,674,4,1,4,9:44 PM,2:41,Hayes REBOUND (Off:0 Def:1),,,,,4.0,1628502,Nigel Hayes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,675,2,6,4,9:44 PM,2:31,MISS Hayes 2' Driving Layup,,,,,4.0,1628502,Nigel Hayes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,676,4,1,4,9:44 PM,2:29,,,Dinwiddie REBOUND (Off:0 Def:2),,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,677,1,1,4,9:45 PM,2:09,,,Dinwiddie 29' 3PT Jump Shot (12 PTS),111 - 103,-8,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,678,6,1,4,9:45 PM,1:58,,,Dinwiddie P.FOUL (P2.PN) (J.Capers),,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,4,1628504,Xavier Rathan-Mayes,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,680,3,11,4,9:45 PM,1:58,MISS Rathan-Mayes Free Throw 1 of 2,,,,,4.0,1628504,Xavier Rathan-Mayes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,681,4,1,4,9:45 PM,1:58,KNICKS Rebound,,,,,2.0,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,682,3,12,4,9:46 PM,1:58,MISS Rathan-Mayes Free Throw 2 of 2,,,,,4.0,1628504,Xavier Rathan-Mayes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,683,4,1,4,9:46 PM,1:55,,,Zeller REBOUND (Off:0 Def:3),,,5.0,203092,Tyler Zeller,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,684,6,2,4,9:46 PM,1:35,Hayes S.FOUL (P2.PN) (J.Capers),,,,,4.0,1628502,Nigel Hayes,1610612752.0,New York,Knicks,NYK,5,203092,Tyler Zeller,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011700016,686,3,11,4,9:46 PM,1:35,,,Zeller Free Throw 1 of 2 (1 PTS),112 - 103,-9,5.0,203092,Tyler Zeller,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,687,3,12,4,9:47 PM,1:35,,,MISS Zeller Free Throw 2 of 2,,,5.0,203092,Tyler Zeller,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,688,4,1,4,9:47 PM,1:33,Hernangomez REBOUND (Off:3 Def:7),,,,,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,689,6,1,4,9:47 PM,1:33,,,Allen P.FOUL (P2.PN) (V.Voyard-Tadal),,,5.0,1628386,Jarrett Allen,1610612751.0,Brooklyn,Nets,BKN,4,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011700016,691,3,11,4,9:47 PM,1:33,Hernangomez Free Throw 1 of 2 (5 PTS),,,112 - 104,-8,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,692,3,12,4,9:47 PM,1:33,Hernangomez Free Throw 2 of 2 (6 PTS),,,112 - 105,-7,4.0,1626195,Willy Hernangomez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,693,1,1,4,9:48 PM,1:11,,,Kilpatrick 26' 3PT Jump Shot (15 PTS) (Dinwiddie 2 AST),115 - 105,-10,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,5,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011700016,696,2,78,4,9:48 PM,1:00,MISS Rathan-Mayes 12' Floating Jump Shot,,,,,4.0,1628504,Xavier Rathan-Mayes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,697,4,1,4,9:48 PM,0:57,,,Zeller REBOUND (Off:0 Def:4),,,5.0,203092,Tyler Zeller,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,698,2,1,4,9:49 PM,0:39,,,MISS Dinwiddie 17' Jump Shot,,,5.0,203915,Spencer Dinwiddie,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,699,4,1,4,9:49 PM,0:36,Hayes REBOUND (Off:0 Def:2),,,,,4.0,1628502,Nigel Hayes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,700,1,78,4,9:49 PM,0:29,Artis 13' Floating Jump Shot (5 PTS),,,115 - 107,-8,4.0,1628503,Jamel Artis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,701,5,11,4,9:49 PM,0:05,,,Nets Turnover: Shot Clock (T#18),,,3.0,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700016,702,2,1,4,9:49 PM,0:00,MISS Dotson 26' 3PT Jump Shot,,,,,4.0,1628422,Damyean Dotson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011700016,703,4,1,4,9:50 PM,0:00,,,Kilpatrick REBOUND (Off:0 Def:4),,,5.0,203930,Sean Kilpatrick,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011700016,704,13,0,4,9:50 PM,0:00,,,,115 - 107,-8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0

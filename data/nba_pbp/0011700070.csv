@@ -1,0 +1,455 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011700070,2,12,0,1,8:11 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,4,10,0,1,8:11 PM,12:00,Jump Ball Lopez vs. Valanciunas: Tip to Lowry,,,,,4.0,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,5,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0
+0011700070,7,2,1,1,8:11 PM,11:45,,,MISS Powell 27' 3PT Jump Shot,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,8,4,1,1,8:11 PM,11:41,Grant REBOUND (Off:0 Def:1),,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,9,2,5,1,8:11 PM,11:32,MISS Lopez 2' Layup,,Valanciunas BLOCK (1 BLK),,,4.0,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0
+0011700070,10,4,1,1,8:11 PM,11:32,,,Valanciunas REBOUND (Off:0 Def:1),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,11,1,5,1,8:11 PM,11:17,,,Siakam 3' Layup (2 PTS) (Lowry 1 AST),2 - 0,-2,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,13,1,1,1,8:11 PM,11:06,Lopez 22' Jump Shot (2 PTS) (Holiday 1 AST),,,2 - 2,TIE,4.0,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,4,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,16,6,1,1,8:12 PM,10:55,Markkanen P.FOUL (P1.T1) (K.Lane),,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,18,1,1,1,8:12 PM,10:43,,,Lowry 26' 3PT Jump Shot (3 PTS) (Powell 1 AST),5 - 2,-3,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,21,2,1,1,8:13 PM,10:18,MISS Mirotic 26' 3PT Jump Shot,,,,,4.0,202703,Nikola Mirotic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,22,4,1,1,8:13 PM,10:14,,,Lowry REBOUND (Off:0 Def:1),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,23,2,1,1,8:13 PM,10:11,Markkanen BLOCK (1 BLK),,MISS Valanciunas 7' Jump Shot,,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0
+0011700070,25,4,1,1,8:13 PM,10:11,Grant REBOUND (Off:0 Def:2),,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,26,1,71,1,8:13 PM,10:04,Grant 2' Finger Roll Layup (2 PTS),,,5 - 4,-1,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,27,2,5,1,8:13 PM,9:39,,,MISS Powell 2' Layup,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,28,4,1,1,8:13 PM,9:36,Lopez REBOUND (Off:0 Def:1),,,,,4.0,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,29,1,1,1,8:13 PM,9:29,Markkanen 25' 3PT Jump Shot (3 PTS) (Grant 1 AST),,,5 - 7,2,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,4,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,31,1,1,1,8:14 PM,9:19,,,DeRozan 5' Jump Shot (2 PTS),7 - 7,TIE,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,33,6,2,1,8:14 PM,9:19,Holiday S.FOUL (P1.T2) (C.Blair),,,,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,35,3,10,1,8:14 PM,9:19,,,MISS DeRozan Free Throw 1 of 1,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,36,4,1,1,8:14 PM,9:14,Mirotic REBOUND (Off:0 Def:1),,,,,4.0,202703,Nikola Mirotic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,37,2,1,1,8:14 PM,9:02,MISS Holiday 4' Jump Shot,,Valanciunas BLOCK (2 BLK),,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0
+0011700070,39,4,1,1,8:14 PM,8:58,,,Valanciunas REBOUND (Off:0 Def:2),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,40,2,1,1,8:15 PM,8:49,,,MISS Siakam 25' 3PT Jump Shot,,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,41,4,1,1,8:15 PM,8:49,Grant REBOUND (Off:0 Def:3),,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,42,5,1,1,8:15 PM,8:40,Grant Bad Pass Turnover (P1.T1),,Lowry STEAL (1 STL),,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,44,1,7,1,8:15 PM,8:35,,,Siakam 1' Dunk (4 PTS) (Lowry 2 AST),9 - 7,-2,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,46,2,78,1,8:15 PM,8:19,MISS Holiday 5' Floating Jump Shot,,,,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,47,4,1,1,8:15 PM,8:19,,,Valanciunas REBOUND (Off:0 Def:3),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,48,1,5,1,8:15 PM,8:12,,,Powell 2' Layup (2 PTS),11 - 7,-4,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,49,1,1,1,8:15 PM,8:04,Lopez 6' Jump Shot (4 PTS) (Grant 2 AST),,,11 - 9,-2,4.0,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,4,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,51,1,98,1,8:16 PM,7:48,,,Lowry 3' Cutting Layup Shot (5 PTS) (Valanciunas 1 AST),13 - 9,-4,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,53,6,3,1,8:16 PM,7:39,,,Siakam L.B.FOUL (P1.T1) (K.Lane),,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,55,3,13,1,8:16 PM,7:39,Markkanen Free Throw 1 of 3 (4 PTS),,,13 - 10,-3,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,56,3,14,1,8:17 PM,7:39,MISS Markkanen Free Throw 2 of 3,,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,57,4,1,1,8:17 PM,7:39,BULLS Rebound,,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,58,3,15,1,8:17 PM,7:39,Markkanen Free Throw 3 of 3 (5 PTS),,,13 - 11,-2,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,59,1,5,1,8:17 PM,7:14,,,Valanciunas 2' Layup (2 PTS) (DeRozan 1 AST),15 - 11,-4,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,62,6,1,1,8:17 PM,7:04,,,DeRozan P.FOUL (P1.T2) (T.Brothers),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,202703,Nikola Mirotic,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,61,2,1,1,8:17 PM,7:03,MISS Holiday 26' 3PT Jump Shot,,,,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,66,4,1,1,8:17 PM,7:03,BULLS Rebound,,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,64,2,1,1,8:18 PM,6:55,MISS Grant 6' Jump Shot,,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,65,4,1,1,8:18 PM,6:55,BULLS Rebound,,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,67,9,1,1,8:18 PM,6:55,BULLS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,68,2,1,1,8:21 PM,6:49,MISS Holiday 14' Jump Shot,,,,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,69,4,1,1,8:21 PM,6:47,,,Valanciunas REBOUND (Off:0 Def:4),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,70,1,5,1,8:21 PM,6:45,,,Valanciunas 2' Layup (4 PTS) (Lowry 3 AST),17 - 11,-6,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,72,6,2,1,8:21 PM,6:45,Holiday S.FOUL (P2.T3) (K.Lane),,,,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,5,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,74,3,10,1,8:21 PM,6:45,,,Valanciunas Free Throw 1 of 1 (5 PTS),18 - 11,-7,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,75,2,1,1,8:22 PM,6:21,MISS Lopez 22' Jump Shot,,,,,4.0,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,76,4,1,1,8:22 PM,6:17,,,Powell REBOUND (Off:0 Def:1),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,77,2,1,1,8:22 PM,6:15,,,MISS Lowry 29' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,78,4,1,1,8:22 PM,6:15,Mirotic REBOUND (Off:0 Def:2),,,,,4.0,202703,Nikola Mirotic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,79,1,1,1,8:22 PM,6:06,Holiday 25' 3PT Jump Shot (3 PTS),,,18 - 14,-4,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,80,2,1,1,8:22 PM,5:51,,,MISS Siakam 24' 3PT Jump Shot,,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,81,4,1,1,8:22 PM,5:48,Grant REBOUND (Off:0 Def:4),,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,82,1,1,1,8:22 PM,5:44,Grant 26' 3PT Jump Shot (5 PTS),,,18 - 17,-1,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,83,1,1,1,8:23 PM,5:32,,,Powell 24' 3PT Jump Shot (5 PTS) (DeRozan 2 AST),21 - 17,-4,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,85,2,1,1,8:23 PM,5:22,MISS Grant 12' Jump Shot,,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,86,4,1,1,8:23 PM,5:18,,,Siakam REBOUND (Off:0 Def:1),,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,87,1,1,1,8:23 PM,5:04,,,Valanciunas 13' Jump Shot (7 PTS),23 - 17,-6,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,88,2,1,1,8:23 PM,4:50,MISS Markkanen 26' 3PT Jump Shot,,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,89,4,1,1,8:23 PM,4:50,,,Siakam REBOUND (Off:0 Def:2),,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,90,2,1,1,8:24 PM,4:40,,,MISS DeRozan 13' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,91,4,1,1,8:24 PM,4:40,Grant REBOUND (Off:0 Def:5),,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,92,1,1,1,8:24 PM,4:27,Holiday 25' 3PT Jump Shot (6 PTS) (Markkanen 1 AST),,,23 - 20,-3,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,4,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,94,6,2,1,8:24 PM,4:27,,,Powell S.FOUL (P1.T3) (T.Brothers),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,4,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,98,8,0,1,8:24 PM,4:27,SUB: Valentine FOR Markkanen,,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,4,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,99,8,0,1,8:24 PM,4:27,,,SUB: Poeltl FOR Valanciunas,,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,100,3,10,1,8:24 PM,4:27,Holiday Free Throw 1 of 1 (7 PTS),,,23 - 21,-2,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,101,2,1,1,8:25 PM,4:11,,,MISS Lowry 26' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,102,4,1,1,8:25 PM,4:08,Valentine REBOUND (Off:0 Def:1),,,,,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,103,2,1,1,8:25 PM,3:59,MISS Mirotic 25' 3PT Jump Shot,,,,,4.0,202703,Nikola Mirotic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,104,4,1,1,8:25 PM,3:55,,,Powell REBOUND (Off:0 Def:2),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,105,1,1,1,8:25 PM,3:47,,,DeRozan 10' Jump Shot (4 PTS),25 - 21,-4,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,106,1,5,1,8:25 PM,3:26,Lopez 1' Layup (6 PTS) (Holiday 2 AST),,,25 - 23,-2,4.0,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,4,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,108,1,63,1,8:26 PM,3:11,,,Lowry 24' 3PT Fadeaway Jumper (8 PTS) (DeRozan 3 AST),28 - 23,-5,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,110,1,6,1,8:26 PM,2:51,Grant 2' Driving Layup (7 PTS),,,28 - 25,-3,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,134,5,1,1,8:26 PM,2:51,Grant STEAL (1 STL),,Poeltl Bad Pass Turnover (P1.T1),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,4,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,111,6,1,1,8:26 PM,2:51,,,Lowry P.FOUL (P1.T4) (T.Brothers),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,192,9,1,1,8:28 PM,2:51,,,Raptors Timeout: Regular (Reg.1 Short 0),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,118,8,0,1,8:29 PM,2:51,SUB: Portis FOR Mirotic,,,,,4.0,202703,Nikola Mirotic,1610612741.0,Chicago,Bulls,CHI,4,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,119,8,0,1,8:29 PM,2:51,,,SUB: Wright FOR Lowry,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,120,8,0,1,8:29 PM,2:51,,,SUB: VanVleet FOR DeRozan,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,121,8,0,1,8:29 PM,2:51,,,SUB: Miles FOR Siakam,,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,122,6,1,1,8:30 PM,2:39,Valentine P.FOUL (P1.T4) (C.Blair),,,,,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,5,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,124,5,0,1,8:30 PM,2:39,Valentine No Turnover (P1.T2),,,,,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011700070,125,6,1,1,8:30 PM,2:39,Portis P.FOUL (P1.PN) (T.Brothers),,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,136,5,0,1,8:30 PM,2:39,Portis No Turnover (P1.T3),,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011700070,127,3,11,1,8:30 PM,2:39,,,Poeltl Free Throw 1 of 2 (1 PTS),29 - 25,-4,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,128,3,12,1,8:30 PM,2:39,,,Poeltl Free Throw 2 of 2 (2 PTS),30 - 25,-5,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,129,5,4,1,8:31 PM,2:19,Lopez Traveling Turnover (P1.T4),,,,,4.0,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,131,8,0,1,8:31 PM,2:19,,,SUB: Anunoby FOR Powell,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,132,1,66,1,8:31 PM,2:04,,,Miles 10' Jump Bank Shot (2 PTS) (Wright 1 AST),32 - 25,-7,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,137,1,66,1,8:32 PM,1:47,Lopez 12' Jump Bank Shot (8 PTS) (Holiday 3 AST),,,32 - 27,-5,4.0,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,4,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,139,6,2,1,8:32 PM,1:47,,,Anunoby S.FOUL (P1.PN) (K.Lane),,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,142,8,0,1,8:32 PM,1:47,SUB: Arcidiacono FOR Grant,,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,143,3,10,1,8:32 PM,1:47,MISS Lopez Free Throw 1 of 1,,,,,4.0,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,144,4,1,1,8:32 PM,1:43,,,Anunoby REBOUND (Off:0 Def:1),,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,145,2,1,1,8:32 PM,1:29,,,MISS Anunoby 27' 3PT Jump Shot,,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,146,4,1,1,8:32 PM,1:27,Valentine REBOUND (Off:0 Def:2),,,,,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,147,5,1,1,8:32 PM,1:20,Lopez Bad Pass Turnover (P2.T5),,Wright STEAL (1 STL),,,4.0,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,150,2,1,1,8:33 PM,1:10,,,MISS Miles  3PT Jump Shot,,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,151,4,1,1,8:33 PM,1:07,,,Wright REBOUND (Off:1 Def:0),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,152,2,5,1,8:33 PM,1:05,Lopez BLOCK (1 BLK),,MISS Wright 5' Layup,,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0
+0011700070,154,4,1,1,8:33 PM,1:05,Portis REBOUND (Off:0 Def:1),,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,155,1,6,1,8:33 PM,0:48,Arcidiacono 1' Driving Layup (2 PTS) (Lopez 1 AST),,,32 - 29,-3,4.0,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,4,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,157,1,1,1,8:34 PM,0:25,,,VanVleet 24' 3PT Jump Shot (3 PTS) (Wright 2 AST),35 - 29,-6,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,159,1,7,1,8:34 PM,0:04,Portis 1' Dunk (2 PTS) (Valentine 1 AST),,,35 - 31,-4,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,4,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,161,2,1,1,8:34 PM,0:00,,,MISS Wright 29' 3PT Jump Shot,,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,162,4,1,1,8:34 PM,0:00,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,163,13,0,1,8:34 PM,0:00,,,,35 - 31,-4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,168,12,0,2,8:37 PM,12:00,,,,35 - 31,-4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,169,1,5,2,8:37 PM,11:41,Portis 1' Layup (4 PTS),,,35 - 33,-2,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,171,6,2,2,8:38 PM,11:18,Valentine S.FOUL (P2.T1) (T.Brothers),,,,,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,173,3,11,2,8:38 PM,11:18,,,MISS Anunoby Free Throw 1 of 2,,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,174,4,1,2,8:38 PM,11:18,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,175,3,12,2,8:38 PM,11:18,,,MISS Anunoby Free Throw 2 of 2,,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,176,4,1,2,8:38 PM,11:15,Portis REBOUND (Off:0 Def:2),,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,178,5,39,2,8:39 PM,11:00,Felicio Step Out of Bounds Turnover (P1.T6),,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,177,2,63,2,8:39 PM,10:59,MISS Portis 17' Fadeaway Jumper,,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,179,4,1,2,8:39 PM,10:59,Felicio REBOUND (Off:1 Def:0),,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,180,5,19,2,8:39 PM,10:45,,,Miles Kicked Ball Violation Turnover (P1.T2),,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,181,2,1,2,8:40 PM,10:29,MISS Arcidiacono 9' Jump Shot,,,,,4.0,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,182,4,1,2,8:40 PM,10:24,,,Poeltl REBOUND (Off:0 Def:1),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,183,1,1,2,8:40 PM,10:20,,,Miles 26' 3PT Jump Shot (5 PTS) (VanVleet 1 AST),38 - 33,-5,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,185,1,5,2,8:40 PM,9:58,Felicio 2' Layup (2 PTS) (Arcidiacono 1 AST),,,38 - 35,-3,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,187,6,2,2,8:40 PM,9:58,,,Poeltl S.FOUL (P1.T1) (T.Brothers),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,4,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,189,3,10,2,8:41 PM,9:58,Felicio Free Throw 1 of 1 (3 PTS),,,38 - 36,-2,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,190,2,6,2,8:41 PM,9:48,,,MISS Wright  Driving Layup,,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,191,4,1,2,8:41 PM,9:45,Portis REBOUND (Off:0 Def:3),,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,193,5,2,2,8:41 PM,9:33,Portis Lost Ball Turnover (P2.T7),,VanVleet STEAL (1 STL),,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,195,2,6,2,8:41 PM,9:29,,,MISS VanVleet 2' Driving Layup,,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,196,4,1,2,8:41 PM,9:24,,,Miles REBOUND (Off:1 Def:0),,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,197,1,72,2,8:41 PM,9:22,,,Miles 1' Putback Layup (7 PTS),40 - 36,-4,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,198,6,2,2,8:41 PM,9:06,,,VanVleet S.FOUL (P1.T2) (C.Blair),,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,214,3,12,2,8:42 PM,9:06,MISS Arcidiacono Free Throw 2 of 2,,,,,4.0,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,215,4,1,2,8:42 PM,9:06,,,Wright REBOUND (Off:1 Def:1),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,213,3,11,2,8:42 PM,9:06,Arcidiacono Free Throw 1 of 2 (3 PTS),,,40 - 37,-3,4.0,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,342,9,1,2,8:42 PM,8:51,BULLS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,200,1,6,2,8:43 PM,8:30,,,Wright 3' Driving Layup (2 PTS),42 - 37,-5,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,201,2,5,2,8:43 PM,8:26,MISS Valentine 1' Layup,,,,,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,202,4,1,2,8:43 PM,8:26,,,Poeltl REBOUND (Off:0 Def:2),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,203,6,1,2,8:43 PM,8:26,Nwaba P.FOUL (P1.T2) (K.Lane),,,,,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,205,1,1,2,8:43 PM,8:11,,,Miles 24' 3PT Jump Shot (10 PTS) (Wright 3 AST),45 - 37,-8,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,207,5,4,2,8:44 PM,7:58,Arcidiacono Traveling Turnover (P1.T8),,,,,4.0,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,208,5,1,2,8:44 PM,7:47,Arcidiacono STEAL (1 STL),,Wright Bad Pass Turnover (P1.T3),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,210,6,2,2,8:44 PM,7:37,,,Anunoby S.FOUL (P2.T3) (K.Lane),,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,212,3,11,2,8:45 PM,7:37,Nwaba Free Throw 1 of 2 (1 PTS),,,45 - 38,-7,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,217,8,0,2,8:45 PM,7:37,,,SUB: Valanciunas FOR Poeltl,,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,5,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,219,8,0,2,8:45 PM,7:37,,,SUB: Lowry FOR VanVleet,,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,220,3,12,2,8:45 PM,7:37,MISS Nwaba Free Throw 2 of 2,,,,,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,221,4,1,2,8:45 PM,7:35,,,Miles REBOUND (Off:1 Def:1),,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,222,2,1,2,8:45 PM,7:22,,,MISS Anunoby 29' 3PT Jump Shot,,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,223,4,1,2,8:45 PM,7:19,Nwaba REBOUND (Off:0 Def:1),,,,,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,224,2,1,2,8:46 PM,7:13,MISS Valentine 25' 3PT Jump Shot,,,,,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,225,4,1,2,8:46 PM,7:12,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,227,8,0,2,8:46 PM,7:12,SUB: Blakeney FOR Valentine,,,,,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,4,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,228,2,63,2,8:46 PM,7:01,,,MISS Miles 27' 3PT Fadeaway Jumper,,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,229,4,1,2,8:46 PM,6:57,,,Anunoby REBOUND (Off:1 Def:1),,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,230,1,79,2,8:46 PM,6:51,,,Miles 17' Pullup Jump Shot (12 PTS),47 - 38,-9,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,231,6,2,2,8:46 PM,6:51,Blakeney S.FOUL (P1.T3) (C.Blair),,,,,4.0,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,5,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,236,8,0,2,8:48 PM,6:51,SUB: Mirotic FOR Portis,,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,4,202703,Nikola Mirotic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,237,8,0,2,8:48 PM,6:51,SUB: Grant FOR Arcidiacono,,,,,4.0,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,4,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,238,8,0,2,8:48 PM,6:51,,,SUB: DeRozan FOR Anunoby,,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,239,3,10,2,8:49 PM,6:51,,,Miles Free Throw 1 of 1 (13 PTS),48 - 38,-10,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,240,2,1,2,8:50 PM,6:34,MISS Mirotic 15' Jump Shot,,,,,4.0,202703,Nikola Mirotic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,241,4,1,2,8:50 PM,6:31,Felicio REBOUND (Off:2 Def:0),,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,242,1,5,2,8:50 PM,6:25,Felicio 3' Layup (5 PTS),,,48 - 40,-8,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,243,1,1,2,8:50 PM,6:17,,,Miles 24' 3PT Jump Shot (16 PTS) (Lowry 4 AST),51 - 40,-11,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,245,2,78,2,8:50 PM,6:01,MISS Felicio 12' Floating Jump Shot,,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,246,4,1,2,8:50 PM,5:59,,,DeRozan REBOUND (Off:0 Def:1),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,255,2,1,2,8:50 PM,5:50,,,MISS DeRozan 18' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,256,4,1,2,8:50 PM,5:50,Grant REBOUND (Off:0 Def:6),,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,250,6,2,2,8:51 PM,5:38,,,Miles S.FOUL (P1.T4) (C.Blair),,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,4,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,252,3,11,2,8:51 PM,5:38,MISS Felicio Free Throw 1 of 2,,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,253,4,1,2,8:51 PM,5:38,BULLS Rebound,,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,254,3,12,2,8:52 PM,5:38,Felicio Free Throw 2 of 2 (6 PTS),,,51 - 41,-10,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,257,6,1,2,8:52 PM,5:24,Blakeney P.FOUL (P2.T4) (T.Brothers),,,,,4.0,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,5,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,260,8,0,2,8:52 PM,5:24,,,SUB: Powell FOR Wright,,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,261,2,5,2,8:52 PM,5:14,Nwaba BLOCK (1 BLK),,MISS Lowry 4' Layup,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,0
+0011700070,263,4,1,2,8:52 PM,5:14,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,264,2,1,2,8:53 PM,5:11,,,MISS Miles  3PT Jump Shot,,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,265,4,1,2,8:53 PM,5:10,Felicio REBOUND (Off:2 Def:1),,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,267,6,1,2,8:53 PM,5:10,,,Lowry P.FOUL (P2.PN) (K.Lane),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,269,3,11,2,8:53 PM,5:10,Felicio Free Throw 1 of 2 (7 PTS),,,51 - 42,-9,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,270,3,12,2,8:54 PM,5:10,MISS Felicio Free Throw 2 of 2,,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,271,4,1,2,8:54 PM,5:05,,,Powell REBOUND (Off:0 Def:3),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,272,6,2,2,8:54 PM,4:50,Nwaba S.FOUL (P2.PN) (C.Blair),,,,,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,274,18,0,2,8:54 PM,4:50,,,,51 - 42,-9,0.0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0011700070,275,3,13,2,8:55 PM,4:50,,,Lowry Free Throw 1 of 3 (9 PTS),52 - 42,-10,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,276,3,14,2,8:55 PM,4:50,,,Lowry Free Throw 2 of 3 (10 PTS),53 - 42,-11,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,280,8,0,2,8:55 PM,4:50,SUB: Markkanen FOR Felicio,,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,4,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,281,8,0,2,8:55 PM,4:50,SUB: Holiday FOR Nwaba,,,,,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,4,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,282,8,0,2,8:55 PM,4:50,,,SUB: McKinnie FOR Miles,,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,283,3,15,2,8:56 PM,4:50,,,Lowry Free Throw 3 of 3 (11 PTS),54 - 42,-12,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,284,2,1,2,8:56 PM,4:29,MISS Blakeney 25' 3PT Jump Shot,,,,,4.0,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,285,4,1,2,8:56 PM,4:25,,,Valanciunas REBOUND (Off:0 Def:5),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,286,1,6,2,8:56 PM,4:13,,,Powell 5' Driving Layup (7 PTS),56 - 42,-14,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,287,6,1,2,8:57 PM,3:59,,,McKinnie P.FOUL (P1.PN) (T.Brothers),,,5.0,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,4,202703,Nikola Mirotic,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,289,3,11,2,8:57 PM,3:59,Mirotic Free Throw 1 of 2 (1 PTS),,,56 - 43,-13,4.0,202703,Nikola Mirotic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,290,3,12,2,8:57 PM,3:59,Mirotic Free Throw 2 of 2 (2 PTS),,,56 - 44,-12,4.0,202703,Nikola Mirotic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,291,2,1,2,8:58 PM,3:36,,,MISS Lowry 27' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,292,4,1,2,8:58 PM,3:32,,,Valanciunas REBOUND (Off:1 Def:5),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,293,2,1,2,8:58 PM,3:31,,,MISS Valanciunas 3' Jump Shot,,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,294,4,1,2,8:58 PM,3:31,,,McKinnie REBOUND (Off:1 Def:0),,,5.0,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,295,2,5,2,8:58 PM,3:31,Mirotic BLOCK (1 BLK),,MISS McKinnie 3' Layup,,,5.0,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,202703,Nikola Mirotic,1610612741.0,Chicago,Bulls,CHI,0
+0011700070,309,10,0,2,8:58 PM,3:31,Jump Ball Markkanen vs. Valanciunas: Tip to Lowry,,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,5,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0
+0011700070,306,10,0,2,8:58 PM,3:31,Jump Ball Markkanen vs. Valanciunas: Tip to Lowry,,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,5,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0
+0011700070,297,4,1,2,8:58 PM,3:31,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,298,1,1,2,8:59 PM,3:21,,,Powell 5' Jump Shot (9 PTS),58 - 44,-14,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,299,1,5,2,8:59 PM,2:59,Holiday 1' Layup (9 PTS) (Mirotic 1 AST),,,58 - 46,-12,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,4,202703,Nikola Mirotic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,301,2,1,2,8:59 PM,2:48,,,MISS Powell 26' 3PT Jump Shot,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,302,4,1,2,8:59 PM,2:43,Holiday REBOUND (Off:0 Def:1),,,,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,303,1,5,2,8:59 PM,2:40,Mirotic 1' Layup (4 PTS) (Holiday 4 AST),,,58 - 48,-10,4.0,202703,Nikola Mirotic,1610612741.0,Chicago,Bulls,CHI,4,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,305,9,1,2,9:00 PM,2:30,,,Raptors Timeout: Regular (Reg.2 Short 0),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,312,2,1,2,9:03 PM,2:14,,,MISS Powell 27' 3PT Jump Shot,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,313,4,1,2,9:03 PM,2:10,Markkanen REBOUND (Off:0 Def:1),,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,314,2,5,2,9:03 PM,2:05,MISS Markkanen 2' Layup,,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,315,4,1,2,9:03 PM,2:05,,,Powell REBOUND (Off:0 Def:4),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,316,2,5,2,9:03 PM,2:00,Holiday BLOCK (1 BLK),,MISS Powell 3' Layup,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0
+0011700070,318,4,1,2,9:03 PM,2:00,Mirotic REBOUND (Off:0 Def:3),,,,,4.0,202703,Nikola Mirotic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,319,1,1,2,9:03 PM,1:44,Blakeney 26' 3PT Jump Shot (3 PTS) (Markkanen 2 AST),,,58 - 51,-7,4.0,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,4,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,321,2,1,2,9:03 PM,1:23,,,MISS Powell 27' 3PT Jump Shot,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,322,4,1,2,9:03 PM,1:21,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,323,1,1,2,9:04 PM,1:10,,,Lowry 26' 3PT Jump Shot (14 PTS) (Powell 2 AST),61 - 51,-10,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,325,1,52,2,9:04 PM,1:01,Markkanen 1' Alley Oop Dunk (7 PTS) (Grant 3 AST),,,61 - 53,-8,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,4,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,327,2,5,2,9:04 PM,0:47,,,MISS Valanciunas 3' Layup,,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,328,4,1,2,9:04 PM,0:46,,,Valanciunas REBOUND (Off:2 Def:5),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,329,6,26,2,9:04 PM,0:46,,,Valanciunas Offensive Charge Foul (P1.PN) (C.Blair),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,331,5,37,2,9:04 PM,0:46,,,Valanciunas Offensive Foul Turnover (P1.T4),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011700070,332,1,1,2,9:05 PM,0:30,Blakeney 26' 3PT Jump Shot (6 PTS) (Grant 4 AST),,,61 - 56,-5,4.0,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,4,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,334,6,2,2,9:05 PM,0:10,Grant S.FOUL (P1.PN) (T.Brothers),,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,336,3,11,2,9:06 PM,0:10,,,Powell Free Throw 1 of 2 (10 PTS),62 - 56,-6,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,337,3,12,2,9:06 PM,0:10,,,Powell Free Throw 2 of 2 (11 PTS),63 - 56,-7,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,338,2,1,2,9:06 PM,0:02,MISS Markkanen 25' 3PT Jump Shot,,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,339,4,1,2,9:06 PM,0:02,,,Lowry REBOUND (Off:0 Def:2),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,340,13,0,2,9:06 PM,0:00,,,,63 - 56,-7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,349,12,0,3,9:22 PM,12:00,,,,63 - 56,-7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,350,2,1,3,9:22 PM,11:39,MISS Markkanen 11' Jump Shot,,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,351,4,1,3,9:22 PM,11:35,,,Valanciunas REBOUND (Off:2 Def:6),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,352,5,2,3,9:23 PM,11:27,Grant STEAL (2 STL),,DeRozan Lost Ball Turnover (P1.T5),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,354,2,5,3,9:23 PM,11:10,MISS Felicio 3' Layup,,DeRozan BLOCK (1 BLK),,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0
+0011700070,356,4,1,3,9:23 PM,11:10,BULLS Rebound,,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,466,10,0,3,9:23 PM,11:10,Jump Ball Felicio vs. DeRozan: Tip to Holiday,,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0
+0011700070,463,10,0,3,9:23 PM,11:10,Jump Ball Felicio vs. DeRozan: Tip to Holiday,,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0
+0011700070,357,2,1,3,9:24 PM,11:06,MISS Holiday 8' Jump Shot,,,,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,660,2,1,3,9:24 PM,11:06,,,MISS Powell 25' 3PT Jump Shot,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,661,4,1,3,9:24 PM,11:06,Markkanen REBOUND (Off:0 Def:2),,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,358,4,1,3,9:24 PM,11:05,,,Valanciunas REBOUND (Off:2 Def:7),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,359,2,1,3,9:24 PM,10:44,MISS Valentine 16' Jump Shot,,,,,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,360,4,1,3,9:24 PM,10:44,BULLS Rebound,,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,362,6,1,3,9:24 PM,10:44,,,Siakam P.FOUL (P2.T1) (K.Lane),,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,364,5,4,3,9:25 PM,10:35,Felicio Traveling Turnover (P2.T9),,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011700070,365,2,1,3,9:25 PM,10:25,,,MISS DeRozan 15' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,366,4,1,3,9:25 PM,10:21,Markkanen REBOUND (Off:0 Def:3),,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,367,5,1,3,9:25 PM,10:04,Holiday Bad Pass Turnover (P1.T10),,DeRozan STEAL (1 STL),,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,369,2,1,3,9:26 PM,9:51,,,MISS Powell 24' 3PT Jump Shot,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,370,4,1,3,9:26 PM,9:47,Felicio REBOUND (Off:2 Def:2),,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,371,1,98,3,9:26 PM,9:27,Felicio 3' Cutting Layup Shot (9 PTS) (Grant 5 AST),,,63 - 58,-5,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,4,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,374,6,1,3,9:27 PM,9:13,Holiday P.FOUL (P3.T1) (T.Brothers),,,,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,376,5,1,3,9:27 PM,9:05,Felicio STEAL (1 STL),,DeRozan Bad Pass Turnover (P2.T6),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,378,5,1,3,9:27 PM,9:02,Grant Bad Pass Turnover (P2.T11),,Lowry STEAL (2 STL),,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,380,1,1,3,9:27 PM,8:54,,,Powell 24' 3PT Jump Shot (14 PTS) (Siakam 1 AST),66 - 58,-8,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,382,2,1,3,9:27 PM,8:37,MISS Holiday 17' Jump Shot,,,,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,383,4,1,3,9:28 PM,8:35,,,Valanciunas REBOUND (Off:2 Def:8),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,384,1,79,3,9:28 PM,8:26,,,DeRozan 11' Pullup Jump Shot (6 PTS),68 - 58,-10,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,385,6,26,3,9:28 PM,8:04,Grant Offensive Charge Foul (P2.T2) (C.Blair),,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,387,5,37,3,9:28 PM,8:04,Grant Offensive Foul Turnover (P3.T12),,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011700070,388,2,1,3,9:28 PM,7:56,,,MISS DeRozan  3PT Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,389,4,1,3,9:29 PM,7:52,Grant REBOUND (Off:0 Def:7),,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,390,2,6,3,9:29 PM,7:49,MISS Valentine 3' Driving Layup,,,,,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,391,4,1,3,9:29 PM,7:46,Markkanen REBOUND (Off:1 Def:3),,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,392,1,1,3,9:29 PM,7:41,Valentine 24' 3PT Jump Shot (3 PTS) (Grant 6 AST),,,68 - 61,-7,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,4,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,394,1,5,3,9:29 PM,7:29,,,Valanciunas 2' Layup (9 PTS) (Lowry 5 AST),70 - 61,-9,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,396,1,5,3,9:29 PM,7:20,Grant 3' Layup (9 PTS),,,70 - 63,-7,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,397,6,2,3,9:29 PM,7:20,,,Valanciunas S.FOUL (P2.T2) (C.Blair),,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,399,3,10,3,9:30 PM,7:20,Grant Free Throw 1 of 1 (10 PTS),,,70 - 64,-6,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,400,2,1,3,9:30 PM,7:07,,,MISS Lowry 26' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,401,4,1,3,9:30 PM,7:04,Grant REBOUND (Off:0 Def:8),,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,402,6,4,3,9:30 PM,7:00,Felicio OFF.Foul (P1) (K.Lane),,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,5,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,404,5,37,3,9:30 PM,7:00,Felicio Offensive Foul Turnover (P3.T13),,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011700070,405,5,1,3,9:30 PM,6:51,Holiday STEAL (1 STL),,Lowry Bad Pass Turnover (P1.T7),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,407,1,1,3,9:30 PM,6:46,Holiday 27' 3PT Jump Shot (12 PTS),,,70 - 67,-3,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,408,1,5,3,9:31 PM,6:31,,,Powell 2' Layup (16 PTS),72 - 67,-5,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,409,6,4,3,9:31 PM,6:14,Valentine OFF.Foul (P3) (C.Blair),,,,,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,411,5,37,3,9:31 PM,6:14,Valentine Offensive Foul Turnover (P2.T14),,,,,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011700070,412,9,1,3,9:31 PM,6:14,BULLS Timeout: Regular (Full 3 Short 0),,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,413,1,5,3,9:34 PM,6:00,,,Valanciunas 3' Layup (11 PTS) (Lowry 6 AST),74 - 67,-7,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,415,1,1,3,9:34 PM,5:44,Valentine 13' Jump Shot (5 PTS),,,74 - 69,-5,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,416,6,2,3,9:35 PM,5:27,Valentine S.FOUL (P4.T3) (C.Blair),,,,,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,418,3,11,3,9:35 PM,5:27,,,DeRozan Free Throw 1 of 2 (7 PTS),75 - 69,-6,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,420,8,0,3,9:35 PM,5:27,SUB: Nwaba FOR Valentine,,,,,4.0,1627756,Denzel Valentine,1610612741.0,Chicago,Bulls,CHI,4,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,421,3,12,3,9:35 PM,5:27,,,MISS DeRozan Free Throw 2 of 2,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,422,4,1,3,9:35 PM,5:24,Markkanen REBOUND (Off:1 Def:4),,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,423,1,1,3,9:36 PM,5:05,Holiday 27' 3PT Jump Shot (15 PTS) (Markkanen 3 AST),,,75 - 72,-3,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,4,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,425,2,1,3,9:36 PM,4:40,,,MISS Siakam 25' 3PT Jump Shot,,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,426,4,1,3,9:36 PM,4:40,Markkanen REBOUND (Off:1 Def:5),,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,427,1,5,3,9:36 PM,4:30,Nwaba 1' Layup (3 PTS) (Grant 7 AST),,,75 - 74,-1,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,4,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,429,6,1,3,9:37 PM,4:19,Felicio P.FOUL (P2.T4) (T.Brothers),,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,432,8,0,3,9:37 PM,4:19,,,SUB: Miles FOR Siakam,,,5.0,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,434,8,0,3,9:37 PM,4:19,,,SUB: Poeltl FOR Valanciunas,,,5.0,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,435,1,1,3,9:37 PM,4:13,,,Miles 25' 3PT Jump Shot (19 PTS) (DeRozan 4 AST),78 - 74,-4,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,437,6,1,3,9:37 PM,3:55,,,Lowry P.FOUL (P3.T3) (K.Lane),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,440,8,0,3,9:38 PM,3:55,SUB: Portis FOR Markkanen,,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,4,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,441,2,1,3,9:38 PM,3:45,MISS Nwaba 6' Jump Shot,,,,,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,442,4,1,3,9:38 PM,3:45,BULLS Rebound,,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,443,2,1,3,9:38 PM,3:41,MISS Nwaba 3' Jump Shot,,Poeltl BLOCK (1 BLK),,,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0
+0011700070,445,4,1,3,9:38 PM,3:41,Grant REBOUND (Off:1 Def:8),,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,446,2,1,3,9:39 PM,3:35,MISS Grant 24' 3PT Jump Shot,,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,447,4,1,3,9:39 PM,3:35,,,Poeltl REBOUND (Off:0 Def:3),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,448,1,5,3,9:39 PM,3:32,,,Lowry 1' Layup (16 PTS) (Poeltl 1 AST),80 - 74,-6,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,450,6,2,3,9:39 PM,3:32,Nwaba S.FOUL (P3.PN) (K.Lane),,,,,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,452,3,10,3,9:39 PM,3:32,,,Lowry Free Throw 1 of 1 (17 PTS),81 - 74,-7,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,453,5,40,3,9:39 PM,3:23,Portis Out of Bounds Lost Ball Turnover (P3.T15),,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,454,2,1,3,9:40 PM,3:12,,,MISS Lowry 25' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,455,4,1,3,9:40 PM,3:09,Holiday REBOUND (Off:0 Def:2),,,,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,456,1,1,3,9:40 PM,2:59,Portis  3PT Jump Shot (7 PTS) (Grant 8 AST),,,81 - 77,-4,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,4,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,458,2,1,3,9:40 PM,2:45,,,MISS Miles 28' 3PT Jump Shot,,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,459,4,1,3,9:40 PM,2:45,Holiday REBOUND (Off:0 Def:3),,,,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,460,6,1,3,9:40 PM,2:32,,,Lowry P.FOUL (P4.T4) (T.Brothers),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,462,9,1,3,9:40 PM,2:32,,,Raptors Timeout: Regular (Reg.3 Short 0),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,473,8,0,3,9:41 PM,2:32,SUB: Arcidiacono FOR Grant,,,,,4.0,1626170,Jerian Grant,1610612741.0,Chicago,Bulls,CHI,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,474,8,0,3,9:41 PM,2:32,,,SUB: Wright FOR Lowry,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,475,8,0,3,9:41 PM,2:32,,,SUB: VanVleet FOR DeRozan,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,476,8,0,3,9:41 PM,2:32,,,SUB: Anunoby FOR Powell,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,477,1,1,3,9:43 PM,2:24,Portis 27' 3PT Jump Shot (10 PTS) (Arcidiacono 2 AST),,,81 - 80,-1,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,479,1,1,3,9:44 PM,2:05,,,Miles  3PT Jump Shot (22 PTS) (VanVleet 2 AST),84 - 80,-4,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,481,1,5,3,9:44 PM,1:49,Felicio 2' Layup (11 PTS) (Nwaba 1 AST),,,84 - 82,-2,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,4,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,483,2,1,3,9:44 PM,1:37,,,MISS Anunoby 26' 3PT Jump Shot,,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,484,4,1,3,9:44 PM,1:37,Nwaba REBOUND (Off:0 Def:2),,,,,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,485,1,7,3,9:44 PM,1:27,Holiday 1' Dunk (17 PTS) (Arcidiacono 3 AST),,,84 - 84,TIE,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,487,6,1,3,9:45 PM,1:15,Holiday P.FOUL (P4.PN) (K.Lane),,,,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,5,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,489,3,11,3,9:45 PM,1:15,,,Miles Free Throw 1 of 2 (23 PTS),85 - 84,-1,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,491,8,0,3,9:45 PM,1:15,SUB: Markkanen FOR Felicio,,,,,4.0,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,4,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,492,3,12,3,9:45 PM,1:15,,,Miles Free Throw 2 of 2 (24 PTS),86 - 84,-2,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,493,1,1,3,9:46 PM,1:04,Markkanen 28' 3PT Jump Shot (10 PTS) (Arcidiacono 4 AST),,,86 - 87,1,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,495,6,2,3,9:46 PM,0:46,Holiday S.FOUL (P5.PN) (C.Blair),,,,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,497,3,11,3,9:46 PM,0:46,,,Anunoby Free Throw 1 of 2 (1 PTS),87 - 87,TIE,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,499,8,0,3,9:46 PM,0:46,SUB: Blakeney FOR Holiday,,,,,4.0,203200,Justin Holiday,1610612741.0,Chicago,Bulls,CHI,4,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,500,3,12,3,9:47 PM,0:46,,,MISS Anunoby Free Throw 2 of 2,,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,501,4,1,3,9:47 PM,0:43,Portis REBOUND (Off:0 Def:4),,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,502,5,1,3,9:47 PM,0:28,Portis Bad Pass Turnover (P4.T16),,VanVleet STEAL (2 STL),,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,504,5,1,3,9:47 PM,0:20,Nwaba STEAL (1 STL),,Wright Bad Pass Turnover (P2.T8),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,4,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,506,2,1,3,9:47 PM,0:03,MISS Markkanen 10' Jump Shot,,Poeltl BLOCK (2 BLK),,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0
+0011700070,509,5,2,3,9:47 PM,0:02,Arcidiacono STEAL (2 STL),,Poeltl Lost Ball Turnover (P2.T9),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,508,4,1,3,9:47 PM,0:00,,,Poeltl REBOUND (Off:0 Def:4),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,511,2,1,3,9:48 PM,0:00,MISS Arcidiacono 55' 3PT Jump Shot,,,,,4.0,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,512,4,1,3,9:48 PM,0:00,BULLS Rebound,,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,513,13,0,3,9:48 PM,0:00,,,,87 - 87,TIE,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,514,12,0,4,9:50 PM,12:00,,,,87 - 87,TIE,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,515,2,1,4,9:50 PM,11:49,,,MISS Miles 26' 3PT Jump Shot,,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,516,4,1,4,9:50 PM,11:46,Arcidiacono REBOUND (Off:0 Def:1),,,,,4.0,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,517,1,1,4,9:51 PM,11:38,Markkanen 27' 3PT Jump Shot (13 PTS) (Arcidiacono 5 AST),,,87 - 90,3,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,519,6,26,4,9:51 PM,11:26,,,VanVleet Offensive Charge Foul (P2.T1) (C.Blair),,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,521,5,37,4,9:51 PM,11:26,,,VanVleet Offensive Foul Turnover (P1.T10),,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011700070,522,5,4,4,9:51 PM,11:05,Arcidiacono Traveling Turnover (P2.T17),,,,,4.0,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,523,7,1,4,9:52 PM,11:05,,,,,,,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0011700070,524,1,1,4,9:52 PM,10:50,,,Anunoby  3PT Jump Shot (4 PTS) (Wright 4 AST),90 - 90,TIE,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,526,2,1,4,9:52 PM,10:28,MISS Blakeney 21' Jump Shot,,,,,4.0,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,527,4,1,4,9:52 PM,10:21,Nwaba REBOUND (Off:1 Def:2),,,,,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,528,1,6,4,9:53 PM,10:18,Nwaba 3' Driving Layup (5 PTS),,,90 - 92,2,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,530,1,6,4,9:53 PM,9:52,,,VanVleet 1' Driving Layup (5 PTS),92 - 92,TIE,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,531,5,1,4,9:53 PM,9:40,Markkanen Bad Pass Turnover (P1.T18),,Wright STEAL (2 STL),,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,533,1,1,4,9:54 PM,9:36,,,Miles 24' 3PT Jump Shot (27 PTS) (VanVleet 3 AST),95 - 92,-3,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,535,2,1,4,9:54 PM,9:28,MISS Blakeney 9' Jump Shot,,,,,4.0,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,544,5,1,4,9:54 PM,9:28,Nwaba STEAL (2 STL),,Miles Bad Pass Turnover (P2.T11),,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,4,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,536,4,1,4,9:54 PM,9:24,,,Miles REBOUND (Off:1 Def:2),,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,537,2,1,4,9:54 PM,9:23,MISS Blakeney 24' 3PT Jump Shot,,,,,4.0,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,538,4,1,4,9:54 PM,9:18,,,Poeltl REBOUND (Off:0 Def:5),,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,539,1,1,4,9:54 PM,9:13,,,Anunoby  3PT Jump Shot (7 PTS) (VanVleet 4 AST),98 - 92,-6,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,541,9,1,4,9:54 PM,9:13,BULLS Timeout: Regular (Full 4 Short 0),,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,542,6,2,4,9:57 PM,8:59,,,VanVleet S.FOUL (P3.T2) (C.Blair),,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,546,3,11,4,9:57 PM,8:59,Arcidiacono Free Throw 1 of 2 (4 PTS),,,98 - 93,-5,4.0,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,547,3,12,4,9:58 PM,8:59,Arcidiacono Free Throw 2 of 2 (5 PTS),,,98 - 94,-4,4.0,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,548,6,26,4,9:58 PM,8:47,,,VanVleet Offensive Charge Foul (P4.T3) (T.Brothers),,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,550,5,37,4,9:58 PM,8:47,,,VanVleet Offensive Foul Turnover (P2.T12),,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011700070,551,5,4,4,9:58 PM,8:35,Portis Traveling Turnover (P5.T19),,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011700070,552,6,1,4,9:59 PM,8:27,Blakeney P.FOUL (P3.T1) (C.Blair),,,,,4.0,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,554,2,1,4,9:59 PM,8:18,,,MISS Anunoby  3PT Jump Shot,,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,555,4,1,4,9:59 PM,8:14,Nwaba REBOUND (Off:1 Def:3),,,,,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,556,5,1,4,9:59 PM,8:04,Portis Bad Pass Turnover (P6.T20),,Miles STEAL (1 STL),,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,5,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,558,1,5,4,10:00 PM,7:50,,,Poeltl 3' Layup (4 PTS) (Anunoby 1 AST),100 - 94,-6,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,560,6,2,4,10:00 PM,7:31,,,Miles S.FOUL (P2.T4) (T.Brothers),,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,4,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,562,3,11,4,10:00 PM,7:31,MISS Portis Free Throw 1 of 2,,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,563,4,1,4,10:00 PM,7:31,BULLS Rebound,,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,565,8,0,4,10:00 PM,7:31,,,SUB: Nogueira FOR Poeltl,,,5.0,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,5,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,566,3,12,4,10:01 PM,7:31,MISS Portis Free Throw 2 of 2,,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,567,4,1,4,10:01 PM,7:29,,,Anunoby REBOUND (Off:1 Def:2),,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,568,1,1,4,10:01 PM,7:14,,,Anunoby 25' 3PT Jump Shot (10 PTS) (VanVleet 5 AST),103 - 94,-9,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,570,1,1,4,10:01 PM,6:56,Nwaba 24' 3PT Jump Shot (8 PTS) (Arcidiacono 6 AST),,,103 - 97,-6,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,572,1,1,4,10:02 PM,6:36,,,Wright 26' 3PT Jump Shot (5 PTS) (VanVleet 6 AST),106 - 97,-9,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,574,1,1,4,10:02 PM,6:24,Portis 16' Jump Shot (12 PTS) (Arcidiacono 7 AST),,,106 - 99,-7,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,576,5,45,4,10:02 PM,6:05,,,Wright Out of Bounds - Bad Pass Turnover Turnover (P3.T13),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,577,5,45,4,10:03 PM,5:54,Portis Out of Bounds - Bad Pass Turnover Turnover (P7.T21),,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,579,8,0,4,10:03 PM,5:54,,,SUB: McKinnie FOR Miles,,,5.0,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,580,1,1,4,10:03 PM,5:35,,,VanVleet  3PT Jump Shot (8 PTS) (Nogueira 1 AST),109 - 99,-10,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,582,6,4,4,10:03 PM,5:26,Portis OFF.Foul (P2) (K.Lane),,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,5,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,584,5,37,4,10:03 PM,5:26,Portis Offensive Foul Turnover (P8.T22),,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011700070,586,8,0,4,10:04 PM,5:26,SUB: Stone FOR Portis,,,,,4.0,1626171,Bobby Portis,1610612741.0,Chicago,Bulls,CHI,4,1627754,Diamond Stone,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,587,5,1,4,10:04 PM,5:08,Stone STEAL (1 STL),,VanVleet Bad Pass Turnover (P3.T14),,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1627754,Diamond Stone,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,589,2,1,4,10:04 PM,5:01,MISS Blakeney 4' Jump Shot,,Nogueira BLOCK (1 BLK),,,4.0,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0
+0011700070,591,4,1,4,10:04 PM,4:58,,,VanVleet REBOUND (Off:0 Def:1),,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,592,2,1,4,10:04 PM,4:47,,,MISS VanVleet 9' Jump Shot,,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,593,4,1,4,10:04 PM,4:45,Markkanen REBOUND (Off:1 Def:6),,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,594,5,1,4,10:05 PM,4:36,Nwaba Bad Pass Turnover (P1.T23),,Anunoby STEAL (1 STL),,,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,596,1,7,4,10:05 PM,4:35,,,Anunoby 1' Dunk (12 PTS),111 - 99,-12,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,597,9,1,4,10:05 PM,4:35,BULLS Timeout: Regular (Full 5 Short 0),,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,600,8,0,4,10:06 PM,4:35,SUB: Eddie FOR Markkanen,,,,,4.0,1628374,Lauri Markkanen,1610612741.0,Chicago,Bulls,CHI,4,204067,Jarell Eddie,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,601,8,0,4,10:06 PM,4:35,,,SUB: Caboclo FOR Anunoby,,,5.0,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,602,1,1,4,10:08 PM,4:23,Blakeney 13' Jump Shot (8 PTS) (Arcidiacono 8 AST),,,111 - 101,-10,4.0,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,604,2,1,4,10:08 PM,3:59,Stone BLOCK (1 BLK),,MISS VanVleet 5' Jump Shot,,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1627754,Diamond Stone,1610612741.0,Chicago,Bulls,CHI,0
+0011700070,606,4,1,4,10:08 PM,3:59,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,608,5,11,4,10:09 PM,3:58,,,Raptors Turnover: Shot Clock (T#15),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,607,2,1,4,10:08 PM,3:56,,,MISS Caboclo 26' 3PT Jump Shot,,,5.0,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,614,4,1,4,10:08 PM,3:56,BULLS Rebound,,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,609,2,1,4,10:09 PM,3:35,MISS Arcidiacono 27' 3PT Jump Shot,,,,,4.0,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,610,4,1,4,10:09 PM,3:32,,,Wright REBOUND (Off:1 Def:2),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,611,6,2,4,10:09 PM,3:27,Arcidiacono S.FOUL (P1.T2) (C.Blair),,,,,4.0,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,5,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,613,1,5,4,10:10 PM,3:16,,,Wright 1' Layup (7 PTS),113 - 101,-12,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,615,2,1,4,10:10 PM,2:57,MISS Arcidiacono 17' Jump Shot,,,,,4.0,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,616,4,1,4,10:10 PM,2:57,,,Wright REBOUND (Off:1 Def:3),,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,617,2,1,4,10:10 PM,2:53,,,MISS VanVleet 24' 3PT Jump Shot,,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,618,4,1,4,10:10 PM,2:53,Nwaba REBOUND (Off:1 Def:4),,,,,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,619,2,5,4,10:10 PM,2:43,MISS Stone 3' Layup,,,,,4.0,1627754,Diamond Stone,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,620,4,1,4,10:10 PM,2:43,,,Caboclo REBOUND (Off:0 Def:1),,,5.0,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,621,1,5,4,10:11 PM,2:26,,,VanVleet 2' Layup (10 PTS),115 - 101,-14,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,622,6,26,4,10:11 PM,2:17,Stone Offensive Charge Foul (P1.T3) (C.Blair),,,,,4.0,1627754,Diamond Stone,1610612741.0,Chicago,Bulls,CHI,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700070,624,5,37,4,10:11 PM,2:17,Stone Offensive Foul Turnover (P1.T24),,,,,4.0,1627754,Diamond Stone,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011700070,627,8,0,4,10:11 PM,2:17,,,SUB: Brown FOR VanVleet,,,5.0,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,203485,Lorenzo Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,628,8,0,4,10:11 PM,2:17,,,SUB: McDaniels FOR Wright,,,5.0,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,5,203909,KJ McDaniels,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,630,8,0,4,10:11 PM,2:17,SUB: Johnson FOR Nwaba,,,,,4.0,1628021,David Nwaba,1610612741.0,Chicago,Bulls,CHI,4,1628575,Jaylen Johnson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,631,2,1,4,10:12 PM,2:08,,,MISS McKinnie 25' 3PT Jump Shot,,,5.0,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,632,4,1,4,10:12 PM,2:03,,,Brown REBOUND (Off:1 Def:0),,,5.0,203485,Lorenzo Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,633,1,7,4,10:12 PM,1:59,,,Caboclo 1' Dunk (2 PTS) (Brown 1 AST),117 - 101,-16,5.0,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,5,203485,Lorenzo Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,635,5,1,4,10:12 PM,1:46,Stone Bad Pass Turnover (P2.T25),,McKinnie STEAL (1 STL),,,4.0,1627754,Diamond Stone,1610612741.0,Chicago,Bulls,CHI,5,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,637,5,40,4,10:12 PM,1:41,,,Brown Out of Bounds Lost Ball Turnover (P1.T16),,,5.0,203485,Lorenzo Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,638,6,2,4,10:13 PM,1:22,,,Brown S.FOUL (P1.PN) (T.Brothers),,,5.0,203485,Lorenzo Brown,1610612761.0,Toronto,Raptors,TOR,4,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011700070,640,3,11,4,10:13 PM,1:22,MISS Blakeney Free Throw 1 of 2,,,,,4.0,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,641,4,1,4,10:13 PM,1:22,BULLS Rebound,,,,,2.0,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700070,642,3,12,4,10:13 PM,1:22,Blakeney Free Throw 2 of 2 (9 PTS),,,117 - 102,-15,4.0,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,643,1,1,4,10:13 PM,1:05,,,Nogueira 26' 3PT Jump Shot (3 PTS) (Brown 2 AST),120 - 102,-18,5.0,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,5,203485,Lorenzo Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,645,5,12,4,10:14 PM,1:04,Johnson Inbound Turnover (P1.T26),,,,,4.0,1628575,Jaylen Johnson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011700070,646,2,1,4,10:14 PM,0:59,,,MISS McDaniels 26' 3PT Jump Shot,,,5.0,203909,KJ McDaniels,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,647,4,1,4,10:14 PM,0:59,Eddie REBOUND (Off:0 Def:1),,,,,4.0,204067,Jarell Eddie,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,648,2,5,4,10:14 PM,0:52,MISS Blakeney 3' Layup,,,,,4.0,1628469,Antonio Blakeney,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,649,4,1,4,10:14 PM,0:52,,,Nogueira REBOUND (Off:0 Def:1),,,5.0,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,650,1,7,4,10:14 PM,0:47,,,McDaniels 1' Dunk (2 PTS) (Brown 3 AST),122 - 102,-20,5.0,203909,KJ McDaniels,1610612761.0,Toronto,Raptors,TOR,5,203485,Lorenzo Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,652,2,1,4,10:14 PM,0:36,MISS Stone 18' Jump Shot,,,,,4.0,1627754,Diamond Stone,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011700070,653,4,1,4,10:14 PM,0:36,,,McKinnie REBOUND (Off:1 Def:1),,,5.0,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700070,654,1,1,4,10:15 PM,0:27,,,McKinnie 26' 3PT Jump Shot (3 PTS) (Brown 4 AST),125 - 102,-23,5.0,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,5,203485,Lorenzo Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700070,656,1,3,4,10:15 PM,0:17,Stone 8' Hook Shot (2 PTS) (Arcidiacono 9 AST),,,125 - 104,-21,4.0,1627754,Diamond Stone,1610612741.0,Chicago,Bulls,CHI,4,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011700070,658,13,0,4,10:15 PM,0:00,,,,125 - 104,-21,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0

@@ -1,0 +1,509 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0041700121,2,12,0,1,8:11 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,4,10,0,1,8:11 PM,12:00,Jump Ball Johnson vs. Whiteside: Tip to Covington,,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,1
+0041700121,7,2,105,1,8:12 PM,11:51,MISS Simmons 4' Turnaround Fadeaway Bank Jump Shot,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,8,4,0,1,8:12 PM,11:49,,,Whiteside REBOUND (Off:0 Def:1),,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,9,1,6,1,8:12 PM,11:30,,,Johnson 2' Driving Layup (2 PTS) (Richardson 1 AST),2 - 0,-2,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,11,5,2,1,8:12 PM,11:15,Redick Lost Ball Turnover (P1.T1),,Johnson STEAL (1 STL),,,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,13,2,6,1,8:12 PM,11:10,Covington BLOCK (1 BLK),,MISS Dragic 3' Driving Layup,,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,1
+0041700121,15,4,0,1,8:12 PM,11:09,,,Dragic REBOUND (Off:1 Def:0),,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,16,6,2,1,8:12 PM,11:09,Saric S.FOUL (P1.T1) (M.Davis),,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,18,3,11,1,8:13 PM,11:09,,,Johnson Free Throw 1 of 2 (1 PTS),3 - 0,-3,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,19,8,0,1,8:13 PM,11:09,SUB: Belinelli FOR Redick,,,,,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,21,3,12,1,8:13 PM,11:09,,,Johnson Free Throw 2 of 2 (2 PTS),4 - 0,-4,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,22,1,1,1,8:13 PM,10:58,Covington 27' 3PT Jump Shot (3 PTS) (Johnson 1 AST),,,4 - 3,-1,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,26,1,1,1,8:14 PM,10:41,,,Dragic 24' 3PT Jump Shot (3 PTS) (Whiteside 1 AST),7 - 3,-4,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,28,2,75,1,8:14 PM,10:26,MISS Simmons 8' Driving Finger Roll Layup,,Whiteside BLOCK (1 BLK),,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+0041700121,30,4,0,1,8:14 PM,10:23,Simmons REBOUND (Off:1 Def:0),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,31,2,57,1,8:14 PM,10:22,MISS Simmons 3' Driving Hook Shot,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,32,4,0,1,8:14 PM,10:20,Johnson REBOUND (Off:1 Def:0),,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,33,1,1,1,8:14 PM,10:18,Belinelli 26' 3PT Jump Shot (3 PTS) (Johnson 2 AST),,,7 - 6,-1,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,35,2,6,1,8:14 PM,10:00,,,MISS Dragic 3' Driving Layup,,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,36,4,0,1,8:14 PM,9:58,Simmons REBOUND (Off:1 Def:1),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,37,2,78,1,8:14 PM,9:54,MISS Covington 19' Floating Jump Shot,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,38,4,0,1,8:15 PM,9:50,,,Johnson REBOUND (Off:0 Def:1),,,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,39,6,2,1,8:15 PM,9:39,Johnson S.FOUL (P1.T2) (M.Davis),,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,41,3,11,1,8:15 PM,9:39,,,Johnson Free Throw 1 of 2 (3 PTS),8 - 6,-2,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,42,3,12,1,8:16 PM,9:39,,,MISS Johnson Free Throw 2 of 2,,,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,43,4,0,1,8:16 PM,9:37,Simmons REBOUND (Off:1 Def:2),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,44,2,1,1,8:16 PM,9:27,MISS Belinelli 26' 3PT Jump Shot,,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,45,4,0,1,8:16 PM,9:23,,,Johnson REBOUND (Off:0 Def:1),,,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,46,2,1,1,8:16 PM,9:17,,,MISS Johnson 25' 3PT Jump Shot,,,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,47,4,0,1,8:16 PM,9:14,Covington REBOUND (Off:0 Def:1),,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,48,6,2,1,8:16 PM,9:10,,,Richardson S.FOUL (P1.T1) (B.Kennedy),,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,50,3,11,1,8:16 PM,9:10,Simmons Free Throw 1 of 2 (1 PTS),,,8 - 7,-1,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,51,3,12,1,8:17 PM,9:10,Simmons Free Throw 2 of 2 (2 PTS),,,8 - 8,TIE,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,52,5,40,1,8:17 PM,8:56,,,Johnson Out of Bounds Lost Ball Turnover (P1.T1),,,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,53,1,43,1,8:17 PM,8:47,Saric 3' Alley Oop Layup (2 PTS) (Simmons 1 AST),,,8 - 10,2,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,55,2,102,1,8:18 PM,8:32,,,MISS Johnson 3' Driving Floating Bank Jump Shot,,,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,56,4,0,1,8:18 PM,8:27,Belinelli REBOUND (Off:0 Def:1),,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,57,2,6,1,8:18 PM,8:20,MISS Saric 2' Driving Layup,,Whiteside BLOCK (2 BLK),,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+0041700121,59,4,0,1,8:18 PM,8:17,Belinelli REBOUND (Off:1 Def:1),,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,60,5,2,1,8:18 PM,8:14,Simmons Lost Ball Turnover (P1.T2),,Richardson STEAL (1 STL),,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,62,6,2,1,8:18 PM,8:12,Covington S.FOUL (P1.T3) (B.Kennedy),,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,64,3,11,1,8:19 PM,8:12,,,Richardson Free Throw 1 of 2 (1 PTS),9 - 10,1,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,65,3,12,1,8:19 PM,8:12,,,Richardson Free Throw 2 of 2 (2 PTS),10 - 10,TIE,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,66,1,1,1,8:19 PM,8:01,Belinelli 25' 3PT Jump Shot (6 PTS) (Covington 1 AST),,,10 - 13,3,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,68,6,1,1,8:20 PM,7:39,Simmons P.FOUL (P1.T4) (B.Spooner),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,70,1,79,1,8:20 PM,7:30,,,Johnson 15' Pullup Jump Shot (4 PTS) (Johnson 1 AST),12 - 13,1,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,72,1,9,1,8:20 PM,7:19,Simmons 1' Driving Dunk (4 PTS),,,12 - 15,3,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,73,2,1,1,8:21 PM,6:58,,,MISS Richardson 17' Jump Shot,,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,74,4,0,1,8:21 PM,6:56,Johnson REBOUND (Off:1 Def:1),,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,75,1,98,1,8:21 PM,6:50,Covington 2' Cutting Layup Shot (5 PTS) (Simmons 2 AST),,,12 - 17,5,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,77,9,1,1,8:21 PM,6:42,,,Heat Timeout: Regular (Reg.1 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,78,8,0,1,8:24 PM,6:42,SUB: McConnell FOR Johnson,,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,79,8,0,1,8:24 PM,6:42,SUB: Ilyasova FOR Covington,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,80,8,0,1,8:24 PM,6:42,,,SUB: Ellington FOR Johnson,,,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,84,2,78,1,8:25 PM,6:24,,,MISS Whiteside 10' Floating Jump Shot,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,85,4,0,1,8:25 PM,6:22,Ilyasova REBOUND (Off:0 Def:1),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,86,1,98,1,8:25 PM,6:06,Belinelli 1' Cutting Layup Shot (8 PTS) (Simmons 3 AST),,,12 - 19,7,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,88,2,79,1,8:25 PM,5:51,,,MISS Johnson 19' Pullup Jump Shot,,,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,89,4,0,1,8:26 PM,5:48,,,Whiteside REBOUND (Off:1 Def:1),,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,90,5,2,1,8:26 PM,5:45,Belinelli STEAL (1 STL),,Whiteside Lost Ball Turnover (P1.T2),,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,92,2,6,1,8:26 PM,5:37,MISS Ilyasova 3' Driving Layup,,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,94,4,0,1,8:26 PM,5:35,,,Richardson REBOUND (Off:0 Def:1),,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,95,1,5,1,8:26 PM,5:29,,,Whiteside 2' Layup (2 PTS) (Johnson 2 AST),14 - 19,5,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,97,5,45,1,8:26 PM,5:19,Simmons Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0041700121,98,8,0,1,8:26 PM,5:19,SUB: Redick FOR Belinelli,,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,99,8,0,1,8:26 PM,5:19,,,SUB: Winslow FOR Richardson,,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,100,8,0,1,8:26 PM,5:19,,,SUB: Olynyk FOR Whiteside,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,104,1,1,1,8:27 PM,5:02,,,Johnson  3PT Jump Shot (6 PTS) (Ellington 1 AST),17 - 19,2,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,106,2,1,1,8:27 PM,4:44,MISS Saric 27' 3PT Jump Shot,,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,107,4,0,1,8:27 PM,4:42,,,Dragic REBOUND (Off:1 Def:1),,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,108,1,73,1,8:27 PM,4:32,,,Olynyk 1' Driving Reverse Layup (2 PTS) (Dragic 1 AST),19 - 19,TIE,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,110,6,2,1,8:27 PM,4:32,Ilyasova S.FOUL (P1.PN) (B.Spooner),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,112,8,0,1,8:27 PM,4:32,SUB: Holmes FOR Saric,,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,1626158,Richaun Holmes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,114,3,10,1,8:28 PM,4:32,,,Olynyk Free Throw 1 of 1 (3 PTS),20 - 19,-1,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,115,9,1,1,8:28 PM,4:32,76ERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,116,8,0,1,8:31 PM,4:32,,,SUB: Wade FOR Johnson,,,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,118,1,1,1,8:32 PM,4:16,Redick  3PT Jump Shot (3 PTS) (Simmons 4 AST),,,20 - 22,2,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,120,1,108,1,8:32 PM,3:54,,,Wade 1' Cutting Dunk Shot (2 PTS) (Olynyk 1 AST),22 - 22,TIE,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,122,2,79,1,8:32 PM,3:41,MISS Redick 21' Pullup Jump Shot,,,,,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,123,4,0,1,8:32 PM,3:37,,,Olynyk REBOUND (Off:0 Def:1),,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,124,6,2,1,8:32 PM,3:32,Holmes S.FOUL (P1.PN) (M.Davis),,,,,4,1626158,Richaun Holmes,1610612755.0,Philadelphia,76ers,PHI,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,126,3,11,1,8:33 PM,3:32,,,Wade Free Throw 1 of 2 (3 PTS),23 - 22,-1,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,127,8,0,1,8:33 PM,3:32,SUB: Covington FOR McConnell,,,,,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,128,8,0,1,8:33 PM,3:32,,,SUB: Adebayo FOR Dragic,,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,131,3,12,1,8:33 PM,3:32,,,Wade Free Throw 2 of 2 (4 PTS),24 - 22,-2,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,132,2,58,1,8:33 PM,3:22,MISS Simmons 3' Turnaround Hook Shot,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,133,4,0,1,8:33 PM,3:19,,,Olynyk REBOUND (Off:0 Def:2),,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,134,1,1,1,8:34 PM,3:11,,,Ellington 27' 3PT Jump Shot (3 PTS) (Winslow 1 AST),27 - 22,-5,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,136,2,80,1,8:34 PM,2:56,MISS Simmons 9' Step Back Jump Shot,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,137,4,0,1,8:34 PM,2:52,,,Winslow REBOUND (Off:0 Def:1),,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,138,1,1,1,8:34 PM,2:46,,,Olynyk 27' 3PT Jump Shot (6 PTS) (Winslow 2 AST),30 - 22,-8,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,139,6,2,1,8:35 PM,2:30,,,Winslow S.FOUL (P1.T2) (B.Spooner),,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,142,3,11,1,8:35 PM,2:30,MISS Simmons Free Throw 1 of 2,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,143,4,1,1,8:35 PM,2:30,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,144,3,12,1,8:35 PM,2:30,Simmons Free Throw 2 of 2 (5 PTS),,,30 - 23,-7,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,145,1,79,1,8:36 PM,2:13,,,Wade 13' Pullup Jump Shot (6 PTS),32 - 23,-9,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,146,2,1,1,8:36 PM,2:00,MISS Ilyasova 28' 3PT Jump Shot,,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,147,4,0,1,8:36 PM,1:56,,,Wade REBOUND (Off:0 Def:1),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,148,5,1,1,8:36 PM,1:51,Simmons STEAL (1 STL),,Wade Bad Pass Turnover (P1.T3),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,150,2,41,1,8:36 PM,1:46,MISS Ilyasova 5' Running Layup,,Ellington BLOCK (1 BLK),,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,1
+0041700121,152,4,0,1,8:36 PM,1:44,,,Ellington REBOUND (Off:0 Def:1),,,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,153,1,1,1,8:36 PM,1:39,,,Olynyk  3PT Jump Shot (9 PTS) (Winslow 3 AST),35 - 23,-12,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,155,1,9,1,8:36 PM,1:21,Simmons 2' Driving Dunk (7 PTS) (Covington 2 AST),,,35 - 25,-10,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,157,6,26,1,8:37 PM,1:02,,,Olynyk Offensive Charge Foul (P1.T3) (M.Davis),,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,159,5,37,1,8:37 PM,1:02,,,Olynyk Offensive Foul Turnover (P1.T4),,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0041700121,160,8,0,1,8:37 PM,1:02,SUB: Fultz FOR Simmons,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,162,2,1,1,8:38 PM,0:48,MISS Redick 12' Jump Shot,,,,,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,163,4,0,1,8:38 PM,0:47,,,Ellington REBOUND (Off:0 Def:2),,,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,164,2,80,1,8:38 PM,0:37,,,MISS Wade 19' Step Back Jump Shot,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,165,4,0,1,8:38 PM,0:37,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,166,2,79,1,8:38 PM,0:31,MISS Fultz 15' Pullup Jump Shot,,,,,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,168,4,0,1,8:38 PM,0:28,,,Wade REBOUND (Off:0 Def:2),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,169,5,2,1,8:38 PM,0:11,Fultz STEAL (1 STL),,Winslow Lost Ball Turnover (P1.T5),,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,171,1,80,1,8:39 PM,0:04,Covington 27' 3PT Step Back Jump Shot (8 PTS) (Redick 1 AST),,,35 - 28,-7,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,174,5,1,1,8:39 PM,0:02,Fultz STEAL (2 STL),,Winslow Bad Pass Turnover (P2.T6),,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,176,6,2,1,8:39 PM,0:00,,,Winslow S.FOUL (P2.PN) (M.Davis),,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,178,3,11,1,8:39 PM,0:00,MISS Fultz Free Throw 1 of 2,,,,,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,179,4,1,1,8:39 PM,0:00,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,180,3,12,1,8:39 PM,0:00,Fultz Free Throw 2 of 2 (1 PTS),,,35 - 29,-6,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,181,13,0,1,8:40 PM,0:00,,,,35 - 29,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0041700121,188,12,0,2,8:43 PM,12:00,,,,35 - 29,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,189,2,1,2,8:43 PM,11:44,,,MISS Ellington 28' 3PT Jump Shot,,,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,190,4,0,2,8:44 PM,11:40,,,Olynyk REBOUND (Off:1 Def:2),,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,191,2,97,2,8:44 PM,11:40,,,MISS Olynyk 1' Tip Layup Shot,,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,192,4,0,2,8:44 PM,11:40,,,Olynyk REBOUND (Off:2 Def:2),,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,193,6,2,2,8:44 PM,11:40,Covington S.FOUL (P2.T1) (M.Davis),,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,195,3,11,2,8:44 PM,11:40,,,MISS Olynyk Free Throw 1 of 2,,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,196,4,1,2,8:44 PM,11:40,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,197,3,12,2,8:44 PM,11:40,,,MISS Olynyk Free Throw 2 of 2,,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,198,4,0,2,8:44 PM,11:37,Saric REBOUND (Off:0 Def:1),,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,199,2,44,2,8:45 PM,11:17,MISS Saric  Reverse Layup,,Adebayo BLOCK (1 BLK),,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1
+0041700121,200,4,0,2,8:45 PM,11:15,,,Richardson REBOUND (Off:0 Def:2),,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,201,1,50,2,8:45 PM,11:10,,,Olynyk 1' Running Dunk (11 PTS) (Richardson 2 AST),37 - 29,-8,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,203,2,1,2,8:45 PM,10:58,MISS Belinelli 28' 3PT Jump Shot,,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,204,4,0,2,8:45 PM,10:53,Covington REBOUND (Off:1 Def:1),,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,205,2,97,2,8:45 PM,10:53,MISS Covington 1' Tip Layup Shot,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,206,4,0,2,8:45 PM,10:52,,,Adebayo REBOUND (Off:0 Def:1),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,207,2,6,2,8:45 PM,10:42,,,MISS Wade 1' Driving Layup,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,208,4,0,2,8:45 PM,10:40,Ilyasova REBOUND (Off:0 Def:2),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,209,1,98,2,8:45 PM,10:32,Ilyasova 1' Cutting Layup Shot (2 PTS) (Saric 1 AST),,,37 - 31,-6,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,211,2,1,2,8:45 PM,10:20,,,MISS Richardson 28' 3PT Jump Shot,,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,212,4,0,2,8:46 PM,10:19,Ilyasova REBOUND (Off:0 Def:3),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,213,1,80,2,8:46 PM,10:13,Ilyasova 26' 3PT Step Back Jump Shot (5 PTS) (Fultz 1 AST),,,37 - 34,-3,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,215,6,1,2,8:46 PM,9:53,Belinelli P.FOUL (P1.T2) (B.Kennedy),,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,218,5,11,2,8:47 PM,9:39,,,Heat Turnover: Shot Clock (T#7),,,3,1610612748,,,,,,0,0,,,,,,1,0,,,,,,0
+0041700121,219,1,75,2,8:47 PM,9:27,Belinelli 3' Driving Finger Roll Layup (10 PTS) (Fultz 2 AST),,,37 - 36,-1,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,220,6,2,2,8:47 PM,9:08,Ilyasova S.FOUL (P2.T3) (B.Spooner),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,223,3,11,2,8:48 PM,9:08,,,MISS Wade Free Throw 1 of 2,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,224,4,1,2,8:48 PM,9:08,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,225,8,0,2,8:48 PM,9:08,SUB: Johnson FOR Ilyasova,,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,227,8,0,2,8:48 PM,9:08,,,SUB: Johnson FOR Olynyk,,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,231,3,12,2,8:48 PM,9:08,,,Wade Free Throw 2 of 2 (7 PTS),38 - 36,-2,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,232,8,0,2,8:48 PM,9:08,SUB: Redick FOR Covington,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,233,1,1,2,8:49 PM,8:53,Saric 25' 3PT Jump Shot (5 PTS) (Belinelli 1 AST),,,38 - 39,1,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,235,9,1,2,8:49 PM,8:38,,,Heat Timeout: Regular (Reg.2 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,236,8,0,2,8:51 PM,8:38,SUB: Simmons FOR Fultz,,,,,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,238,8,0,2,8:52 PM,8:38,,,SUB: Whiteside FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,240,5,9,2,8:53 PM,8:38,,,Heat Turnover: 5 Second Violation (T#8),,,3,1610612748,,,,,,0,0,,,,,,1,0,,,,,,0
+0041700121,242,6,1,2,8:53 PM,8:31,,,Wade P.FOUL (P1.T1) (B.Kennedy),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,244,2,79,2,8:53 PM,8:23,MISS Belinelli 15' Pullup Jump Shot,,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,245,4,0,2,8:53 PM,8:21,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0041700121,246,6,3,2,8:54 PM,8:21,,,Whiteside L.B.FOUL (P1.T2) (B.Spooner),,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,248,1,98,2,8:54 PM,8:14,Saric 2' Cutting Layup Shot (7 PTS) (Simmons 5 AST),,,38 - 41,3,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,250,2,1,2,8:54 PM,7:54,,,MISS Ellington 27' 3PT Jump Shot,,,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,251,4,0,2,8:54 PM,7:50,Simmons REBOUND (Off:1 Def:3),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,252,6,1,2,8:54 PM,7:48,,,Ellington P.FOUL (P1.T3) (M.Davis),,,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,254,8,0,2,8:54 PM,7:48,,,SUB: Dragic FOR Ellington,,,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,255,8,0,2,8:54 PM,7:48,,,SUB: Winslow FOR Wade,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,258,6,1,2,8:55 PM,7:46,,,Dragic P.FOUL (P1.T4) (M.Davis),,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,260,2,73,2,8:55 PM,7:37,MISS Saric 2' Driving Reverse Layup,,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,261,4,0,2,8:55 PM,7:35,,,Whiteside REBOUND (Off:1 Def:2),,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,262,5,2,2,8:55 PM,7:27,Belinelli STEAL (2 STL),,Whiteside Lost Ball Turnover (P2.T9),,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,264,2,1,2,8:56 PM,7:22,MISS Belinelli 26' 3PT Jump Shot,,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,265,4,0,2,8:56 PM,7:18,,,Richardson REBOUND (Off:0 Def:3),,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,266,1,6,2,8:56 PM,7:07,,,Johnson 1' Driving Layup (8 PTS) (Richardson 3 AST),40 - 41,1,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,268,6,1,2,8:56 PM,6:59,,,Richardson P.FOUL (P2.PN) (B.Spooner),,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,270,3,11,2,8:56 PM,6:59,Belinelli Free Throw 1 of 2 (11 PTS),,,40 - 42,2,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,271,8,0,2,8:56 PM,6:59,,,SUB: Olynyk FOR Whiteside,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,273,3,12,2,8:57 PM,6:59,MISS Belinelli Free Throw 2 of 2,,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,274,4,0,2,8:57 PM,6:56,,,Winslow REBOUND (Off:0 Def:2),,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,275,2,79,2,8:57 PM,6:51,,,MISS Dragic 25' 3PT Pullup Jump Shot,,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,276,4,0,2,8:57 PM,6:48,Saric REBOUND (Off:0 Def:2),,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,277,5,1,2,8:57 PM,6:34,Redick Bad Pass Turnover (P2.T4),,Richardson STEAL (2 STL),,,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,279,1,50,2,8:57 PM,6:30,,,Winslow 2' Running Dunk (2 PTS) (Johnson 3 AST),42 - 42,TIE,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,281,9,1,2,8:57 PM,6:30,76ERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,282,8,0,2,9:01 PM,6:30,SUB: Covington FOR Belinelli,,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,284,6,4,2,9:01 PM,6:25,Simmons OFF.Foul (P2) (B.Spooner),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,286,5,37,2,9:01 PM,6:25,Simmons Offensive Foul Turnover (P3.T5),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0041700121,287,2,75,2,9:01 PM,6:13,,,MISS Dragic 1' Driving Finger Roll Layup,,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,288,4,0,2,9:02 PM,6:13,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,289,6,3,2,9:02 PM,6:13,,,Olynyk L.B.FOUL (P2.PN) (B.Spooner),,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,291,3,11,2,9:02 PM,6:13,Covington Free Throw 1 of 2 (9 PTS),,,42 - 43,1,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,292,3,12,2,9:02 PM,6:13,MISS Covington Free Throw 2 of 2,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,293,4,0,2,9:03 PM,6:11,,,Olynyk REBOUND (Off:2 Def:3),,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,294,5,1,2,9:03 PM,6:00,Redick STEAL (1 STL),,Dragic Bad Pass Turnover (P1.T10),,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,296,2,73,2,9:03 PM,5:52,MISS Simmons 1' Driving Reverse Layup,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,297,4,0,2,9:03 PM,5:47,Simmons REBOUND (Off:2 Def:3),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,298,1,97,2,9:03 PM,5:47,Simmons 1' Tip Layup Shot (9 PTS),,,42 - 45,3,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,299,6,1,2,9:03 PM,5:43,Covington P.FOUL (P3.T4) (M.Davis),,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,301,8,0,2,9:03 PM,5:43,SUB: Belinelli FOR Covington,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,303,6,5,2,9:04 PM,5:43,Johnson IN.FOUL (P2.PN) (B.Spooner),,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,305,3,10,2,9:04 PM,5:43,,,Dragic Free Throw 1 of 1 (4 PTS),43 - 45,2,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,306,5,2,2,9:05 PM,5:35,Simmons STEAL (2 STL),,Dragic Lost Ball Turnover (P2.T11),,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,308,2,1,2,9:05 PM,5:18,MISS Saric 17' Jump Shot,,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,309,4,0,2,9:05 PM,5:14,Johnson REBOUND (Off:2 Def:1),,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,310,2,78,2,9:05 PM,5:13,MISS Redick 28' 3PT Floating Jump Shot,,,,,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,312,4,0,2,9:05 PM,5:12,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,311,5,11,2,9:05 PM,5:12,76ERS Turnover: Shot Clock (T#6),,,,,2,1610612755,,,,,,0,0,,,,,,1,0,,,,,,0
+0041700121,313,1,71,2,9:06 PM,4:56,,,Olynyk 2' Finger Roll Layup (13 PTS),45 - 45,TIE,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,314,1,98,2,9:06 PM,4:40,Redick 1' Cutting Layup Shot (5 PTS) (Johnson 3 AST),,,45 - 47,2,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,316,1,6,2,9:06 PM,4:28,,,Johnson 1' Driving Layup (10 PTS) (Dragic 2 AST),47 - 47,TIE,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,318,5,4,2,9:07 PM,4:20,Simmons Traveling Turnover (P4.T7),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0041700121,319,8,0,2,9:07 PM,4:20,SUB: Ilyasova FOR Johnson,,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,320,8,0,2,9:07 PM,4:20,SUB: McConnell FOR Redick,,,,,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,321,8,0,2,9:07 PM,4:20,,,SUB: Johnson FOR Richardson,,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,325,2,47,2,9:07 PM,4:11,,,MISS Winslow 4' Turnaround Jump Shot,,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,326,4,0,2,9:07 PM,4:08,Simmons REBOUND (Off:2 Def:4),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,327,2,6,2,9:07 PM,4:02,MISS Ilyasova 2' Driving Layup,,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,328,4,0,2,9:07 PM,4:02,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,329,5,4,2,9:07 PM,4:02,Ilyasova Traveling Turnover (P1.T8),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0041700121,330,2,1,2,9:08 PM,3:50,,,MISS Winslow 27' 3PT Jump Shot,,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,331,4,0,2,9:08 PM,3:46,,,Dragic REBOUND (Off:2 Def:1),,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,332,1,44,2,9:08 PM,3:38,,,Dragic 1' Reverse Layup (6 PTS),49 - 47,-2,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,333,2,6,2,9:08 PM,3:28,MISS Belinelli 1' Driving Layup,,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,335,4,0,2,9:08 PM,3:25,,,Winslow REBOUND (Off:0 Def:3),,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,336,2,1,2,9:08 PM,3:23,,,MISS Olynyk 27' 3PT Jump Shot,,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,337,4,0,2,9:08 PM,3:20,,,Winslow REBOUND (Off:1 Def:3),,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,338,1,78,2,9:08 PM,3:18,,,Winslow 4' Floating Jump Shot (4 PTS),51 - 47,-4,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,339,6,1,2,9:09 PM,3:08,,,Johnson P.FOUL (P1.PN) (M.Davis),,,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,341,3,11,2,9:09 PM,3:08,Simmons Free Throw 1 of 2 (10 PTS),,,51 - 48,-3,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,342,8,0,2,9:09 PM,3:08,SUB: Johnson FOR Saric,,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,344,3,12,2,9:09 PM,3:08,MISS Simmons Free Throw 2 of 2,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,345,4,0,2,9:09 PM,3:04,Ilyasova REBOUND (Off:1 Def:3),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,346,2,97,2,9:09 PM,3:04,MISS Ilyasova 1' Tip Layup Shot,,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,347,4,0,2,9:09 PM,3:03,Johnson REBOUND (Off:3 Def:1),,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,348,2,72,2,9:09 PM,3:03,MISS Johnson 2' Putback Layup,,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,349,4,0,2,9:09 PM,3:02,Simmons REBOUND (Off:3 Def:4),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,350,5,39,2,9:09 PM,3:01,Simmons Step Out of Bounds Turnover (P5.T9),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,351,2,6,2,9:10 PM,2:41,,,MISS Olynyk 1' Driving Layup,,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,352,4,0,2,9:10 PM,2:38,Ilyasova REBOUND (Off:1 Def:4),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,353,2,6,2,9:10 PM,2:22,MISS Ilyasova 3' Driving Layup,,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,354,4,0,2,9:10 PM,2:18,Ilyasova REBOUND (Off:2 Def:4),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,355,1,97,2,9:10 PM,2:18,Ilyasova 1' Tip Layup Shot (7 PTS),,,51 - 50,-1,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,356,6,1,2,9:10 PM,2:11,McConnell P.FOUL (P1.PN) (B.Spooner),,,,,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,358,3,11,2,9:11 PM,2:11,,,Dragic Free Throw 1 of 2 (7 PTS),52 - 50,-2,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,359,8,0,2,9:11 PM,2:11,SUB: Redick FOR McConnell,,,,,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,360,8,0,2,9:11 PM,2:11,,,SUB: Adebayo FOR Olynyk,,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,363,3,12,2,9:11 PM,2:11,,,Dragic Free Throw 2 of 2 (8 PTS),53 - 50,-3,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,364,6,1,2,9:12 PM,2:03,,,Dragic P.FOUL (P2.PN) (B.Spooner),,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,366,3,11,2,9:12 PM,2:03,Belinelli Free Throw 1 of 2 (12 PTS),,,53 - 51,-2,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,367,3,12,2,9:12 PM,2:03,Belinelli Free Throw 2 of 2 (13 PTS),,,53 - 52,-1,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,368,2,79,2,9:13 PM,1:51,,,MISS Dragic 19' Pullup Jump Shot,,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,369,4,0,2,9:13 PM,1:47,Ilyasova REBOUND (Off:2 Def:5),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,370,5,39,2,9:13 PM,1:47,Ilyasova Step Out of Bounds Turnover (P2.T10),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,371,8,0,2,9:13 PM,1:47,,,SUB: Wade FOR Dragic,,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,373,8,0,2,9:13 PM,1:47,SUB: Fultz FOR Simmons,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,377,5,15,2,9:13 PM,1:41,,,Adebayo Offensive Goaltending Turnover (P1.T12),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0041700121,378,1,57,2,9:14 PM,1:26,Johnson 9' Driving Hook Shot (2 PTS),,,53 - 54,1,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,379,1,1,2,9:14 PM,1:11,,,Johnson 26' 3PT Jump Shot (7 PTS) (Johnson 4 AST),56 - 54,-2,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,381,2,63,2,9:14 PM,0:56,MISS Belinelli 19' Fadeaway Jumper,,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,382,4,0,2,9:14 PM,0:54,,,Johnson REBOUND (Off:0 Def:2),,,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,383,1,1,2,9:15 PM,0:34,,,Johnson 25' 3PT Jump Shot (13 PTS) (Wade 1 AST),59 - 54,-5,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,385,6,2,2,9:15 PM,0:26,,,Wade S.FOUL (P2.PN) (B.Spooner),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,387,3,11,2,9:15 PM,0:26,Fultz Free Throw 1 of 2 (2 PTS),,,59 - 55,-4,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,388,8,0,2,9:15 PM,0:26,,,SUB: Ellington FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,389,8,0,2,9:15 PM,0:26,,,SUB: Olynyk FOR Winslow,,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,392,3,12,2,9:16 PM,0:26,Fultz Free Throw 2 of 2 (3 PTS),,,59 - 56,-3,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,393,2,78,2,9:16 PM,0:03,,,MISS Johnson 12' Floating Jump Shot,,,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,394,4,0,2,9:16 PM,0:01,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,395,6,3,2,9:16 PM,0:01,Belinelli L.B.FOUL (P2.PN) (B.Kennedy),,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,397,3,11,2,9:16 PM,0:01,,,Olynyk Free Throw 1 of 2 (14 PTS),60 - 56,-4,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,398,8,0,2,9:16 PM,0:01,,,SUB: Adebayo FOR Wade,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,400,3,12,2,9:17 PM,0:01,,,MISS Olynyk Free Throw 2 of 2,,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,401,4,0,2,9:17 PM,0:00,Ilyasova REBOUND (Off:2 Def:6),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,402,13,0,2,9:17 PM,0:00,,,,60 - 56,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0041700121,415,12,0,3,9:32 PM,12:00,,,,60 - 56,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,416,2,79,3,9:33 PM,11:45,,,MISS Johnson 13' Pullup Jump Shot,,,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,417,4,0,3,9:33 PM,11:41,Ilyasova REBOUND (Off:2 Def:7),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,418,2,1,3,9:33 PM,11:28,MISS Saric  3PT Jump Shot,,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,419,4,0,3,9:33 PM,11:23,,,Johnson REBOUND (Off:0 Def:2),,,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,420,2,79,3,9:33 PM,11:06,,,MISS Richardson 25' 3PT Pullup Jump Shot,,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,421,4,0,3,9:33 PM,11:03,,,Dragic REBOUND (Off:3 Def:1),,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,422,1,1,3,9:33 PM,11:01,,,Dragic 26' 3PT Jump Shot (11 PTS),63 - 56,-7,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,423,1,1,3,9:34 PM,10:47,Redick 26' 3PT Jump Shot (8 PTS) (Saric 2 AST),,,63 - 59,-4,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,425,2,1,3,9:34 PM,10:31,,,MISS Dragic 18' Jump Shot,,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,426,4,0,3,9:34 PM,10:29,Ilyasova REBOUND (Off:2 Def:8),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,427,1,44,3,9:34 PM,10:14,Ilyasova 3' Reverse Layup (9 PTS) (Simmons 6 AST),,,63 - 61,-2,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,429,2,44,3,9:35 PM,9:45,Covington BLOCK (2 BLK),,MISS Dragic 2' Reverse Layup,,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,1
+0041700121,431,4,0,3,9:35 PM,9:41,Covington REBOUND (Off:1 Def:2),,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,432,6,1,3,9:35 PM,9:38,,,Dragic P.FOUL (P3.T1) (B.Spooner),,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,434,1,1,3,9:35 PM,9:32,Ilyasova 26' 3PT Jump Shot (12 PTS) (Simmons 7 AST),,,63 - 64,1,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,436,2,79,3,9:36 PM,9:16,,,MISS Johnson 16' Pullup Jump Shot,,,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,437,4,0,3,9:36 PM,9:10,,,Whiteside REBOUND (Off:2 Def:2),,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,438,2,97,3,9:36 PM,9:10,,,MISS Whiteside 1' Tip Layup Shot,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,439,4,0,3,9:36 PM,9:09,Ilyasova REBOUND (Off:2 Def:9),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,440,1,41,3,9:36 PM,9:07,Simmons 1' Running Layup (12 PTS),,,63 - 66,3,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,441,9,1,3,9:36 PM,9:07,,,Heat Timeout: Regular (Reg.3 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,443,2,52,3,9:40 PM,8:48,,,MISS Whiteside 1' Alley Oop Dunk,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,444,4,0,3,9:40 PM,8:45,Ilyasova REBOUND (Off:2 Def:10),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,445,2,1,3,9:40 PM,8:43,MISS Covington 24' 3PT Jump Shot,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,446,4,0,3,9:40 PM,8:43,,,Whiteside REBOUND (Off:2 Def:3),,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,447,6,1,3,9:40 PM,8:31,Simmons P.FOUL (P3.T1) (M.Davis),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,449,2,1,3,9:41 PM,8:18,,,MISS Richardson 25' 3PT Jump Shot,,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,450,4,0,3,9:41 PM,8:14,Covington REBOUND (Off:1 Def:3),,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,451,1,1,3,9:41 PM,8:07,Saric 26' 3PT Jump Shot (10 PTS) (Simmons 8 AST),,,63 - 69,6,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,453,2,6,3,9:41 PM,7:54,,,MISS Johnson 2' Driving Layup,,,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,455,4,0,3,9:41 PM,7:54,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,456,8,0,3,9:42 PM,7:54,,,SUB: Olynyk FOR Whiteside,,,5,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,458,10,0,3,9:43 PM,7:32,Jump Ball Covington vs. Dragic: Tip to Simmons,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1
+0041700121,461,2,79,3,9:43 PM,7:30,MISS Simmons 16' Pullup Jump Shot,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,462,4,0,3,9:43 PM,7:26,,,Johnson REBOUND (Off:0 Def:3),,,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,463,5,4,3,9:43 PM,7:14,,,Johnson Traveling Turnover (P2.T13),,,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0041700121,464,1,1,3,9:43 PM,7:05,Redick 21' Jump Shot (10 PTS) (Covington 3 AST),,,63 - 71,8,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,466,2,6,3,9:44 PM,6:43,Covington BLOCK (3 BLK),,MISS Richardson 1' Driving Layup,,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,1
+0041700121,468,4,0,3,9:44 PM,6:41,Covington REBOUND (Off:1 Def:4),,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,469,2,101,3,9:44 PM,6:34,MISS Simmons 10' Driving Floating Jump Shot,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,470,4,0,3,9:44 PM,6:30,,,Johnson REBOUND (Off:0 Def:3),,,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,471,6,2,3,9:44 PM,6:29,Saric S.FOUL (P2.T2) (M.Davis),,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,473,3,11,3,9:45 PM,6:29,,,Johnson Free Throw 1 of 2 (8 PTS),64 - 71,7,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,474,8,0,3,9:45 PM,6:29,SUB: Belinelli FOR Ilyasova,,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,475,8,0,3,9:45 PM,6:29,SUB: Johnson FOR Covington,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,476,8,0,3,9:45 PM,6:29,,,SUB: Winslow FOR Richardson,,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,480,3,12,3,9:45 PM,6:29,,,Johnson Free Throw 2 of 2 (9 PTS),65 - 71,6,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,481,2,73,3,9:45 PM,6:18,MISS Saric 1' Driving Reverse Layup,,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,488,4,0,3,9:45 PM,6:16,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,541,10,0,3,9:45 PM,6:16,Jump Ball Saric vs. Winslow: Tip to Johnson,,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,1
+0041700121,482,8,0,3,9:46 PM,6:16,,,SUB: Ellington FOR Johnson,,,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,484,10,0,3,9:47 PM,6:10,Jump Ball Johnson vs. Winslow: Tip to Saric,,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,1
+0041700121,487,1,75,3,9:47 PM,6:08,Saric 2' Driving Finger Roll Layup (12 PTS),,,65 - 73,8,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,489,5,4,3,9:47 PM,5:52,,,Dragic Traveling Turnover (P3.T14),,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0041700121,490,8,0,3,9:47 PM,5:52,,,SUB: Adebayo FOR Johnson,,,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,492,6,2,3,9:48 PM,5:41,,,Ellington S.FOUL (P2.T2) (B.Kennedy),,,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,494,3,13,3,9:48 PM,5:41,Redick Free Throw 1 of 3 (11 PTS),,,65 - 74,9,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,495,3,14,3,9:49 PM,5:41,Redick Free Throw 2 of 3 (12 PTS),,,65 - 75,10,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,496,3,15,3,9:49 PM,5:41,Redick Free Throw 3 of 3 (13 PTS),,,65 - 76,11,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,497,2,6,3,9:49 PM,5:20,,,MISS Dragic 2' Driving Layup,,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,498,4,0,3,9:49 PM,5:17,Saric REBOUND (Off:0 Def:3),,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,499,2,44,3,9:50 PM,4:58,MISS Johnson 2' Reverse Layup,,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,500,4,0,3,9:50 PM,4:55,Saric REBOUND (Off:1 Def:3),,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,501,8,0,3,9:50 PM,4:55,SUB: Covington FOR Redick,,,,,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,503,10,0,3,9:51 PM,4:53,Jump Ball Saric vs. Winslow: Tip to Olynyk,,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,1
+0041700121,506,5,2,3,9:51 PM,4:53,Saric Lost Ball Turnover (P1.T11),,Winslow STEAL (1 STL),,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,508,6,2,3,9:51 PM,4:41,Johnson S.FOUL (P3.T3) (B.Spooner),,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,510,3,11,3,9:51 PM,4:41,,,MISS Adebayo Free Throw 1 of 2,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,511,4,1,3,9:51 PM,4:41,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,512,8,0,3,9:51 PM,4:41,SUB: Ilyasova FOR Saric,,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,513,8,0,3,9:51 PM,4:41,,,SUB: Wade FOR Dragic,,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,516,3,12,3,9:52 PM,4:41,,,Adebayo Free Throw 2 of 2 (1 PTS),66 - 76,10,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,517,1,1,3,9:52 PM,4:30,Ilyasova 25' 3PT Jump Shot (15 PTS) (Covington 4 AST),,,66 - 79,13,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,519,1,80,3,9:52 PM,4:10,,,Olynyk 25' 3PT Step Back Jump Shot (17 PTS) (Wade 2 AST),69 - 79,10,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,520,1,9,3,9:52 PM,3:56,Simmons 2' Driving Dunk (14 PTS),,,69 - 81,12,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,521,6,2,3,9:53 PM,3:39,Simmons S.FOUL (P4.T4) (B.Spooner),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,523,3,11,3,9:53 PM,3:39,,,MISS Adebayo Free Throw 1 of 2,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,524,4,1,3,9:53 PM,3:39,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,525,8,0,3,9:54 PM,3:39,SUB: Fultz FOR Simmons,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,527,3,12,3,9:54 PM,3:39,,,Adebayo Free Throw 2 of 2 (2 PTS),70 - 81,11,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,528,9,1,3,9:54 PM,3:39,76ERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,529,1,63,3,9:58 PM,3:29,Belinelli 21' Fadeaway Jumper (15 PTS) (Fultz 3 AST),,,70 - 83,13,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,531,1,1,3,9:58 PM,3:10,,,Ellington 25' 3PT Jump Shot (6 PTS) (Wade 3 AST),73 - 83,10,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,533,2,101,3,9:58 PM,2:49,MISS Fultz 8' Driving Floating Jump Shot,,,,,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,534,4,0,3,9:58 PM,2:46,Johnson REBOUND (Off:4 Def:1),,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,535,2,97,3,9:58 PM,2:46,MISS Johnson 1' Tip Layup Shot,,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,536,4,0,3,9:58 PM,2:46,Johnson REBOUND (Off:5 Def:1),,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,537,2,5,3,9:58 PM,2:45,MISS Johnson 1' Layup,,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,538,4,0,3,9:58 PM,2:43,,,Winslow REBOUND (Off:1 Def:4),,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,539,6,29,3,9:58 PM,2:43,Ilyasova Shooting Block Foul (P3.PN) (M.Davis),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,544,3,11,3,9:59 PM,2:43,,,Winslow Free Throw 1 of 2 (5 PTS),74 - 83,9,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,545,3,12,3,9:59 PM,2:43,,,MISS Winslow Free Throw 2 of 2,,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,546,4,0,3,9:59 PM,2:41,Ilyasova REBOUND (Off:2 Def:11),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,547,2,3,3,10:00 PM,2:22,MISS Johnson 7' Hook Shot,,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,548,4,0,3,10:00 PM,2:17,Ilyasova REBOUND (Off:3 Def:11),,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,549,1,97,3,10:00 PM,2:17,Ilyasova 1' Tip Layup Shot (17 PTS),,,74 - 85,11,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,550,1,5,3,10:00 PM,2:07,,,Wade 2' Layup (9 PTS) (Winslow 4 AST),76 - 85,9,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,552,2,80,3,10:00 PM,1:49,MISS Covington 25' 3PT Step Back Jump Shot,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,553,4,0,3,10:00 PM,1:48,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,554,7,5,3,10:00 PM,1:48,Johnson Violation:Kicked Ball (B.Kennedy),,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0041700121,555,1,44,3,10:01 PM,1:37,,,Olynyk 1' Reverse Layup (19 PTS) (Wade 4 AST),78 - 85,7,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,557,1,1,3,10:01 PM,1:24,Belinelli 26' 3PT Jump Shot (18 PTS) (Fultz 4 AST),,,78 - 88,10,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,559,2,78,3,10:01 PM,1:03,,,MISS Adebayo 2' Floating Jump Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,560,4,0,3,10:01 PM,1:00,Fultz REBOUND (Off:0 Def:1),,,,,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,561,1,58,3,10:02 PM,0:46,Fultz 6' Turnaround Hook Shot (5 PTS),,,78 - 90,12,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,562,2,79,3,10:02 PM,0:27,,,MISS Ellington 25' 3PT Pullup Jump Shot,,,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,563,4,0,3,10:02 PM,0:24,Covington REBOUND (Off:1 Def:5),,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,564,2,41,3,10:02 PM,0:21,MISS Covington 7' Running Layup,,Olynyk BLOCK (1 BLK),,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,1
+0041700121,566,4,0,3,10:02 PM,0:21,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,567,2,102,3,10:03 PM,0:03,,,MISS Winslow 6' Driving Floating Bank Jump Shot,,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,568,4,0,3,10:03 PM,0:00,Covington REBOUND (Off:1 Def:6),,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,570,18,0,3,10:03 PM,0:00,,,,78 - 90,12,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0041700121,569,13,0,3,10:03 PM,0:00,,,,78 - 90,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0041700121,574,12,0,4,10:06 PM,12:00,,,,78 - 90,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,575,1,75,4,10:07 PM,11:43,Redick 2' Driving Finger Roll Layup (15 PTS),,,78 - 92,14,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,576,6,2,4,10:07 PM,11:43,,,Adebayo S.FOUL (P1.T1) (B.Kennedy),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,578,8,0,4,10:07 PM,11:43,,,SUB: Dragic FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,580,3,10,4,10:07 PM,11:43,Redick Free Throw 1 of 1 (16 PTS),,,78 - 93,15,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,581,6,1,4,10:08 PM,11:29,Fultz P.FOUL (P1.T1) (M.Davis),,,,,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,583,6,2,4,10:08 PM,11:27,Covington S.FOUL (P4.T2) (B.Spooner),,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,585,3,11,4,10:08 PM,11:27,,,Olynyk Free Throw 1 of 2 (20 PTS),79 - 93,14,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,586,3,12,4,10:09 PM,11:27,,,Olynyk Free Throw 2 of 2 (21 PTS),80 - 93,13,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,587,1,79,4,10:09 PM,11:13,Redick 26' 3PT Pullup Jump Shot (19 PTS) (Belinelli 2 AST),,,80 - 96,16,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,589,1,108,4,10:09 PM,10:53,,,Winslow 2' Cutting Dunk Shot (7 PTS) (Olynyk 2 AST),82 - 96,14,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,591,2,1,4,10:09 PM,10:37,MISS Redick 21' Jump Shot,,,,,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,592,4,0,4,10:09 PM,10:35,,,Wade REBOUND (Off:0 Def:3),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,593,2,79,4,10:10 PM,10:29,,,MISS Wade 19' Pullup Jump Shot,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,594,4,0,4,10:10 PM,10:27,Redick REBOUND (Off:0 Def:1),,,,,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,595,6,1,4,10:10 PM,10:21,,,Olynyk P.FOUL (P3.T2) (B.Spooner),,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,597,8,0,4,10:10 PM,10:21,,,SUB: Johnson FOR Ellington,,,5,201961,Wayne Ellington,1610612748.0,Miami,Heat,MIA,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,599,6,1,4,10:10 PM,10:16,,,Dragic P.FOUL (P4.T3) (B.Kennedy),,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,601,2,47,4,10:11 PM,10:05,MISS Fultz 9' Turnaround Jump Shot,,,,,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,602,4,0,4,10:11 PM,10:03,,,Winslow REBOUND (Off:1 Def:5),,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,603,1,80,4,10:11 PM,9:55,,,Wade 8' Step Back Jump Shot (11 PTS),84 - 96,12,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,604,2,80,4,10:11 PM,9:36,MISS Ilyasova 22' Step Back Jump Shot,,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,605,4,0,4,10:11 PM,9:33,Redick REBOUND (Off:1 Def:1),,,,,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,606,9,1,4,10:11 PM,9:31,76ERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,607,8,0,4,10:15 PM,9:31,SUB: Saric FOR Fultz,,,,,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,608,8,0,4,10:15 PM,9:31,SUB: Johnson FOR Ilyasova,,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,609,8,0,4,10:15 PM,9:31,SUB: Simmons FOR Covington,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,613,6,2,4,10:15 PM,9:21,,,Johnson S.FOUL (P1.T4) (B.Spooner),,,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,615,3,11,4,10:16 PM,9:21,Redick Free Throw 1 of 2 (20 PTS),,,84 - 97,13,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,616,3,12,4,10:16 PM,9:21,Redick Free Throw 2 of 2 (21 PTS),,,84 - 98,14,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,617,2,5,4,10:16 PM,9:07,Johnson BLOCK (1 BLK),,MISS Olynyk 3' Layup,,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,1
+0041700121,619,4,0,4,10:16 PM,9:05,,,Olynyk REBOUND (Off:3 Def:3),,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,620,1,5,4,10:16 PM,9:04,,,Olynyk 2' Layup (23 PTS),86 - 98,12,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,621,6,2,4,10:17 PM,8:47,,,Olynyk S.FOUL (P4.PN) (M.Davis),,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,623,3,11,4,10:17 PM,8:47,Redick Free Throw 1 of 2 (22 PTS),,,86 - 99,13,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,624,8,0,4,10:17 PM,8:47,SUB: Covington FOR Belinelli,,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,626,3,12,4,10:17 PM,8:47,Redick Free Throw 2 of 2 (23 PTS),,,86 - 100,14,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,628,6,4,4,10:18 PM,8:38,,,Johnson OFF.Foul (P2) (M.Davis),,,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,630,5,37,4,10:18 PM,8:38,,,Johnson Offensive Foul Turnover (P1.T15),,,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0041700121,631,2,6,4,10:18 PM,8:22,MISS Johnson 2' Driving Layup,,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,632,4,0,4,10:18 PM,8:19,,,Wade REBOUND (Off:0 Def:4),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,633,6,2,4,10:19 PM,8:16,Covington S.FOUL (P5.T3) (M.Davis),,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,635,3,11,4,10:19 PM,8:16,,,MISS Dragic Free Throw 1 of 2,,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,636,4,1,4,10:19 PM,8:16,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,637,8,0,4,10:19 PM,8:16,SUB: Belinelli FOR Covington,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,639,3,12,4,10:19 PM,8:16,,,Dragic Free Throw 2 of 2 (12 PTS),87 - 100,13,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,640,1,1,4,10:20 PM,8:03,Saric 25' 3PT Jump Shot (15 PTS) (Simmons 9 AST),,,87 - 103,16,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,642,9,1,4,10:20 PM,8:02,,,Heat Timeout: Regular (Reg.4 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,643,2,1,4,10:23 PM,7:52,,,MISS Johnson 26' 3PT Jump Shot,,,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,644,4,0,4,10:24 PM,7:49,Saric REBOUND (Off:1 Def:4),,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,645,6,1,4,10:24 PM,7:42,,,Wade P.FOUL (P3.PN) (B.Kennedy),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,647,3,11,4,10:24 PM,7:42,Simmons Free Throw 1 of 2 (15 PTS),,,87 - 104,17,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,648,8,0,4,10:24 PM,7:42,,,SUB: Johnson FOR Wade,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,650,3,12,4,10:25 PM,7:42,Simmons Free Throw 2 of 2 (16 PTS),,,87 - 105,18,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,651,6,26,4,10:25 PM,7:29,,,Olynyk Offensive Charge Foul (P5.PN) (B.Kennedy),,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,653,5,37,4,10:25 PM,7:29,,,Olynyk Offensive Foul Turnover (P2.T16),,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0041700121,654,8,0,4,10:25 PM,7:29,,,SUB: Richardson FOR Johnson,,,5,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,656,6,2,4,10:25 PM,7:21,,,Richardson S.FOUL (P3.PN) (M.Davis),,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,658,3,11,4,10:26 PM,7:21,Simmons Free Throw 1 of 2 (17 PTS),,,87 - 106,19,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,659,3,12,4,10:26 PM,7:21,MISS Simmons Free Throw 2 of 2,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,660,4,0,4,10:26 PM,7:19,Saric REBOUND (Off:2 Def:4),,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,661,10,0,4,10:27 PM,7:16,Jump Ball Saric vs. Winslow: Tip to,,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,2,1610612755,,,,,,1
+0041700121,664,2,1,4,10:27 PM,7:09,MISS Redick 26' 3PT Jump Shot,,,,,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,665,4,0,4,10:27 PM,7:07,Johnson REBOUND (Off:6 Def:1),,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,666,1,1,4,10:27 PM,6:52,Saric 25' 3PT Jump Shot (18 PTS) (Johnson 4 AST),,,87 - 109,22,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,668,9,1,4,10:28 PM,6:50,,,Heat Timeout: Regular (Reg.5 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,669,8,0,4,10:29 PM,6:50,SUB: Ilyasova FOR Johnson,,,,,4,101161,Amir Johnson,1610612755.0,Philadelphia,76ers,PHI,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,671,2,1,4,10:30 PM,6:35,,,MISS Richardson 25' 3PT Jump Shot,,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,672,4,0,4,10:30 PM,6:32,Simmons REBOUND (Off:3 Def:5),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,673,1,1,4,10:30 PM,6:25,Redick 28' 3PT Jump Shot (26 PTS) (Simmons 10 AST),,,87 - 112,25,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,675,2,79,4,10:30 PM,6:11,,,MISS Dragic 9' Pullup Jump Shot,,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,676,4,0,4,10:30 PM,6:09,Simmons REBOUND (Off:3 Def:6),,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,677,2,98,4,10:30 PM,5:54,MISS Belinelli 3' Cutting Layup Shot,,Winslow BLOCK (1 BLK),,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,1
+0041700121,679,4,0,4,10:30 PM,5:50,,,Richardson REBOUND (Off:0 Def:4),,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,680,1,1,4,10:30 PM,5:44,,,Olynyk 27' 3PT Jump Shot (26 PTS) (Dragic 3 AST),90 - 112,22,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,682,9,1,4,10:30 PM,5:42,76ERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,683,8,0,4,10:32 PM,5:42,,,SUB: Adebayo FOR Johnson,,,5,201949,James Johnson,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,685,2,63,4,10:32 PM,5:29,MISS Belinelli 8' Fadeaway Jumper,,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,686,4,0,4,10:32 PM,5:25,,,Olynyk REBOUND (Off:3 Def:4),,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,687,5,2,4,10:32 PM,5:19,Ilyasova STEAL (1 STL),,Dragic Lost Ball Turnover (P4.T17),,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,689,1,98,4,10:33 PM,5:02,Belinelli 2' Cutting Layup Shot (20 PTS) (Saric 3 AST),,,90 - 114,24,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,690,1,52,4,10:33 PM,4:46,,,Adebayo 2' Alley Oop Dunk (4 PTS) (Winslow 5 AST),92 - 114,22,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,693,2,99,4,10:33 PM,4:24,MISS Ilyasova 2' Cutting Finger Roll Layup Shot,,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,694,4,0,4,10:33 PM,4:20,,,Dragic REBOUND (Off:3 Def:2),,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,695,1,100,4,10:33 PM,4:17,,,Adebayo 3' Running Alley Oop Layup Shot (6 PTS) (Dragic 4 AST),94 - 114,20,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,697,1,63,4,10:34 PM,3:59,Belinelli 19' Fadeaway Jumper (22 PTS) (Simmons 11 AST),,,94 - 116,22,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,699,6,2,4,10:34 PM,3:59,,,Dragic S.FOUL (P5.PN) (M.Davis),,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0041700121,701,3,10,4,10:34 PM,3:59,MISS Belinelli Free Throw 1 of 1,,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0041700121,702,4,0,4,10:34 PM,3:55,,,Winslow REBOUND (Off:1 Def:6),,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,703,2,1,4,10:34 PM,3:47,,,MISS Winslow 26' 3PT Jump Shot,,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,704,4,0,4,10:34 PM,3:45,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,705,1,63,4,10:35 PM,3:25,Belinelli 26' 3PT Fadeaway Jumper (25 PTS) (Simmons 12 AST),,,94 - 119,25,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,707,1,79,4,10:35 PM,3:08,,,Richardson 16' Pullup Jump Shot (4 PTS),96 - 119,23,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,708,1,44,4,10:35 PM,2:51,Saric 2' Reverse Layup (20 PTS) (Simmons 13 AST),,,96 - 121,25,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,710,1,1,4,10:36 PM,2:24,,,Dragic 26' 3PT Jump Shot (15 PTS) (Richardson 4 AST),99 - 121,22,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041700121,712,9,1,4,10:36 PM,2:22,76ERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,713,8,0,4,10:37 PM,2:22,SUB: Covington FOR Saric,,,,,4,203967,Dario Saric,1610612755.0,Philadelphia,76ers,PHI,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,714,8,0,4,10:37 PM,2:22,,,SUB: McGruder FOR Dragic,,,5,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,715,8,0,4,10:37 PM,2:22,,,SUB: Babbitt FOR Olynyk,,,5,203482,Kelly Olynyk,1610612748.0,Miami,Heat,MIA,5,202337,Luke Babbitt,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041700121,719,1,1,4,10:38 PM,2:10,Redick 19' Jump Shot (28 PTS) (Simmons 14 AST),,,99 - 123,24,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,721,5,1,4,10:38 PM,1:44,Belinelli STEAL (3 STL),,Richardson Bad Pass Turnover (P1.T18),,,5,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,723,9,1,4,10:38 PM,1:38,76ERS Timeout: Regular (Full 7 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0041700121,724,8,0,4,10:40 PM,1:38,SUB: Anderson FOR Redick,,,,,4,200755,JJ Redick,1610612755.0,Philadelphia,76ers,PHI,4,1626147,Justin Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,725,8,0,4,10:40 PM,1:38,SUB: McConnell FOR Belinelli,,,,,4,201158,Marco Belinelli,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,726,8,0,4,10:40 PM,1:38,SUB: Fultz FOR Ilyasova,,,,,4,101141,Ersan Ilyasova,1610612755.0,Philadelphia,76ers,PHI,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,727,8,0,4,10:40 PM,1:38,SUB: Holmes FOR Simmons,,,,,4,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,1626158,Richaun Holmes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,728,8,0,4,10:40 PM,1:38,SUB: Korkmaz FOR Covington,,,,,4,203496,Robert Covington,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0041700121,734,1,1,4,10:40 PM,1:28,Korkmaz 26' 3PT Jump Shot (3 PTS) (McConnell 1 AST),,,99 - 126,27,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,736,1,79,4,10:40 PM,1:15,,,McGruder 21' Pullup Jump Shot (2 PTS),101 - 126,25,5,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,737,1,75,4,10:41 PM,0:58,Anderson 2' Driving Finger Roll Layup (2 PTS) (Holmes 1 AST),,,101 - 128,27,4,1626147,Justin Anderson,1610612755.0,Philadelphia,76ers,PHI,4,1626158,Richaun Holmes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0041700121,739,2,79,4,10:41 PM,0:46,,,MISS McGruder 26' 3PT Pullup Jump Shot,,,5,203585,Rodney McGruder,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,740,4,0,4,10:41 PM,0:41,Fultz REBOUND (Off:0 Def:2),,,,,4,1628365,Markelle Fultz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,741,1,63,4,10:41 PM,0:26,McConnell 10' Fadeaway Jumper (2 PTS),,,101 - 130,29,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,742,1,102,4,10:41 PM,0:15,,,Winslow 6' Driving Floating Bank Jump Shot (9 PTS),103 - 130,27,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041700121,743,6,2,4,10:42 PM,0:15,Korkmaz S.FOUL (P1.T4) (B.Kennedy),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041700121,745,3,10,4,10:42 PM,0:15,,,MISS Winslow Free Throw 1 of 1,,,5,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041700121,746,4,0,4,10:42 PM,0:15,McConnell REBOUND (Off:0 Def:1),,,,,4,204456,T.J. McConnell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0041700121,747,13,0,4,10:42 PM,0:00,,,,103 - 130,27,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

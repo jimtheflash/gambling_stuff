@@ -1,0 +1,515 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011700003,2,12,0,1,10:11 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,97,10,0,1,10:28 PM,11:51,Jump Ball Valanciunas vs. Beverley: Tip to Jordan,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0
+0011700003,5,6,2,1,10:12 PM,11:40,Miles S.FOUL (P1.T1) (L.Wood),,,,,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,10,3,12,1,10:12 PM,11:40,,,Gallinari Free Throw 2 of 2 (1 PTS),1 - 0,-1,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,9,3,11,1,10:12 PM,11:40,,,Gallinari Free Throw 1 of 2 (2 PTS),2 - 0,-2,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,7,6,2,1,10:13 PM,11:40,,,Rivers S.FOUL (P1.T1) (E.Lewis),,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,11,3,11,1,10:13 PM,11:40,Lowry Free Throw 1 of 2 (1 PTS),,,2 - 1,-1,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,12,3,12,1,10:13 PM,11:40,Lowry Free Throw 2 of 2 (2 PTS),,,2 - 2,TIE,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,14,6,1,1,10:14 PM,11:19,Miles P.FOUL (P2.T2) (E.Lewis),,,,,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,17,1,1,1,10:14 PM,10:56,,,Griffin  3PT Jump Shot (3 PTS) (Jordan 1 AST),5 - 2,-3,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,19,1,63,1,10:15 PM,10:43,Valanciunas 11' Fadeaway Jumper (2 PTS) (DeRozan 1 AST),,,5 - 4,-1,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,21,2,44,1,10:15 PM,10:18,,,MISS Gallinari 4' Reverse Layup,,,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,22,4,0,1,10:15 PM,10:15,Ibaka REBOUND (Off:0 Def:1),,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,23,1,6,1,10:15 PM,10:10,DeRozan 2' Driving Layup (2 PTS),,,5 - 6,1,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,24,2,44,1,10:15 PM,10:01,,,MISS Gallinari 2' Reverse Layup,,,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,25,4,0,1,10:15 PM,9:56,Valanciunas REBOUND (Off:0 Def:1),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,26,6,1,1,10:15 PM,9:53,,,Beverley P.FOUL (P1.T2) (E.Lewis),,,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,28,2,1,1,10:16 PM,9:50,MISS Ibaka 26' 3PT Jump Shot,,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,29,4,0,1,10:16 PM,9:46,Valanciunas REBOUND (Off:1 Def:1),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,30,1,1,1,10:16 PM,9:44,Miles  3PT Jump Shot (3 PTS) (Valanciunas 1 AST),,,5 - 9,4,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,32,1,1,1,10:16 PM,9:35,,,Griffin 27' 3PT Jump Shot (6 PTS),8 - 9,1,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,33,1,75,1,10:16 PM,9:20,Miles 2' Driving Finger Roll Layup (5 PTS),,,8 - 11,3,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,34,1,1,1,10:16 PM,9:03,,,Beverley 27' 3PT Jump Shot (3 PTS) (Rivers 1 AST),11 - 11,TIE,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,36,1,1,1,10:17 PM,8:51,Lowry 26' 3PT Jump Shot (5 PTS) (Valanciunas 2 AST),,,11 - 14,3,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,40,2,1,1,10:18 PM,8:34,,,MISS Griffin 26' 3PT Jump Shot,,,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,41,4,0,1,10:18 PM,8:34,Miles REBOUND (Off:0 Def:1),,,,,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,42,6,2,1,10:18 PM,8:26,,,Jordan S.FOUL (P1.T3) (K.Cutler),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,44,3,11,1,10:18 PM,8:26,Lowry Free Throw 1 of 2 (6 PTS),,,11 - 15,4,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,45,3,12,1,10:18 PM,8:26,Lowry Free Throw 2 of 2 (7 PTS),,,11 - 16,5,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,46,1,80,1,10:19 PM,8:14,,,Beverley 26' 3PT Step Back Jump Shot (6 PTS) (Griffin 1 AST),14 - 16,2,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,48,6,26,1,10:19 PM,8:01,Ibaka Offensive Charge Foul (P1.T3) (E.Lewis),,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,50,5,37,1,10:19 PM,8:01,Ibaka Offensive Foul Turnover (P1.T1),,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011700003,51,2,78,1,10:20 PM,7:56,,,MISS Rivers 9' Floating Jump Shot,,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,52,4,0,1,10:20 PM,7:53,DeRozan REBOUND (Off:0 Def:1),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,53,1,6,1,10:20 PM,7:44,DeRozan 2' Driving Layup (4 PTS),,,14 - 18,4,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,54,6,1,1,10:20 PM,7:30,DeRozan P.FOUL (P1.T4) (L.Wood),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,57,8,0,1,10:20 PM,7:30,,,SUB: Teodosic FOR Beverley,,,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,58,2,1,1,10:20 PM,7:24,,,MISS Teodosic 27' 3PT Jump Shot,,,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,59,4,0,1,10:21 PM,7:20,Ibaka REBOUND (Off:0 Def:2),,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,60,1,79,1,10:21 PM,7:15,Lowry 24' 3PT Pullup Jump Shot (10 PTS),,,14 - 21,7,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,61,2,43,1,10:21 PM,7:04,,,MISS Jordan 4' Alley Oop Layup,,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,62,4,0,1,10:21 PM,6:57,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,63,2,1,1,10:21 PM,6:45,MISS Miles 27' 3PT Jump Shot,,,,,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,64,4,0,1,10:21 PM,6:43,,,Jordan REBOUND (Off:0 Def:1),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,65,1,43,1,10:21 PM,6:38,,,Gallinari 1' Alley Oop Layup (4 PTS) (Teodosic 1 AST),16 - 21,5,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,67,2,1,1,10:21 PM,6:27,MISS Ibaka 25' 3PT Jump Shot,,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,69,9,1,1,10:22 PM,6:27,,,Clippers Timeout: Regular (Reg.1 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,73,8,0,1,10:24 PM,6:27,SUB: Siakam FOR Miles,,,,,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,74,8,0,1,10:24 PM,6:27,SUB: Nogueira FOR Ibaka,,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,75,8,0,1,10:24 PM,6:27,SUB: Caboclo FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,68,4,0,1,10:22 PM,6:24,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,76,1,5,1,10:25 PM,6:15,,,Jordan 3' Layup (2 PTS) (Teodosic 2 AST),18 - 21,3,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,78,2,43,1,10:25 PM,5:59,MISS Nogueira 4' Alley Oop Layup,,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,79,4,0,1,10:25 PM,5:59,,,Jordan REBOUND (Off:0 Def:2),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,80,2,6,1,10:25 PM,5:51,Nogueira BLOCK (1 BLK),,MISS Griffin 2' Driving Layup,,,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0
+0011700003,82,4,0,1,10:25 PM,5:47,Siakam REBOUND (Off:0 Def:1),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,83,6,2,1,10:25 PM,5:43,,,Jordan S.FOUL (P2.T4) (E.Lewis),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,85,3,11,1,10:26 PM,5:43,DeRozan Free Throw 1 of 2 (5 PTS),,,18 - 22,4,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,87,8,0,1,10:26 PM,5:43,,,SUB: W. Johnson FOR Griffin,,,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,88,3,12,1,10:26 PM,5:43,MISS DeRozan Free Throw 2 of 2,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,89,4,0,1,10:26 PM,5:42,,,Jordan REBOUND (Off:0 Def:3),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,758,5,1,1,10:26 PM,5:33,DeRozan STEAL (1 STL),,Rivers Bad Pass Turnover (P1.T1),,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,91,5,15,1,10:26 PM,5:24,Caboclo Offensive Goaltending Turnover (P1.T2),,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011700003,95,8,0,1,10:27 PM,5:07,,,SUB: Williams FOR Rivers,,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,92,2,1,1,10:27 PM,5:05,,,MISS Teodosic 27' 3PT Jump Shot,,,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,93,4,0,1,10:27 PM,5:02,DeRozan REBOUND (Off:0 Def:2),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,100,5,11,1,10:28 PM,4:51,RAPTORS Turnover: Shot Clock (T#3),,,,,2,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0011700003,103,8,0,1,10:28 PM,4:51,SUB: Wright FOR Lowry,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,104,8,0,1,10:28 PM,4:51,SUB: Powell FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,106,2,1,1,10:29 PM,4:30,,,MISS Williams 25' 3PT Jump Shot,,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,107,4,0,1,10:29 PM,4:26,,,Gallinari REBOUND (Off:1 Def:0),,,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,108,1,1,1,10:29 PM,4:13,,,Gallinari 26' 3PT Jump Shot (7 PTS) (Teodosic 3 AST),21 - 22,1,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,110,5,1,1,10:29 PM,3:55,Powell Bad Pass Turnover (P1.T4),,Teodosic STEAL (1 STL),,,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,112,1,50,1,10:29 PM,3:49,,,W. Johnson 5' Running Dunk (2 PTS) (Teodosic 4 AST),23 - 22,-1,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,114,2,5,1,10:30 PM,3:35,MISS Caboclo 3' Layup,,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,115,4,0,1,10:30 PM,3:33,,,Gallinari REBOUND (Off:1 Def:1),,,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,116,6,1,1,10:30 PM,3:25,Siakam P.FOUL (P1.PN) (K.Cutler),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,118,1,6,1,10:30 PM,3:25,,,Williams 5' Driving Layup (2 PTS) (Jordan 2 AST),25 - 22,-3,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,120,9,1,1,10:31 PM,3:14,RAPTORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,122,8,0,1,10:32 PM,3:14,,,SUB: Griffin FOR Jordan,,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,123,1,3,1,10:32 PM,3:12,Nogueira 5' Hook Shot (2 PTS) (Wright 1 AST),,,25 - 24,-1,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,125,6,1,1,10:33 PM,2:54,Siakam P.FOUL (P2.PN) (L.Wood),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,127,3,11,1,10:33 PM,2:54,,,Gallinari Free Throw 1 of 2 (8 PTS),26 - 24,-2,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,128,3,12,1,10:33 PM,2:54,,,Gallinari Free Throw 2 of 2 (9 PTS),27 - 24,-3,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,129,2,1,1,10:34 PM,2:39,MISS Caboclo 25' 3PT Jump Shot,,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,130,4,0,1,10:34 PM,2:35,,,W. Johnson REBOUND (Off:0 Def:1),,,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,132,6,11,1,10:34 PM,2:26,Nogueira T.FOUL (P0.PN) (K.Cutler),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011700003,137,3,10,1,10:34 PM,2:26,,,Williams Free Throw 1 of 1 (3 PTS),28 - 24,-4,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,134,8,0,1,10:34 PM,2:26,,,SUB: Wilson FOR Gallinari,,,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,5,203966,Jamil Wilson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,135,6,2,1,10:35 PM,2:26,Powell S.FOUL (P1.PN) (E.Lewis),,,,,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,138,3,11,1,10:35 PM,2:26,,,Griffin Free Throw 1 of 2 (7 PTS),29 - 24,-5,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,139,3,12,1,10:35 PM,2:26,,,Griffin Free Throw 2 of 2 (8 PTS),30 - 24,-6,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,140,5,1,1,10:36 PM,2:04,Caboclo Bad Pass Turnover (P2.T5),,Teodosic STEAL (2 STL),,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,142,2,5,1,10:36 PM,1:57,,,MISS W. Johnson 2' Layup,,,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,144,6,2,1,10:36 PM,1:47,,,W. Johnson S.FOUL (P1.PN) (L.Wood),,,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,146,3,11,1,10:37 PM,1:47,Powell Free Throw 1 of 2 (2 PTS),,,30 - 26,-4,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,147,3,12,1,10:37 PM,1:47,Powell Free Throw 2 of 2 (2 PTS),,,30 - 26,-4,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,148,5,1,1,10:37 PM,1:32,Nogueira STEAL (1 STL),,Williams Bad Pass Turnover (P1.T2),,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,150,5,40,1,10:37 PM,1:26,Siakam Out of Bounds Lost Ball Turnover (P1.T6),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,151,2,1,1,10:37 PM,1:13,,,MISS Teodosic 18' Jump Shot,,,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,152,4,0,1,10:37 PM,1:09,Caboclo REBOUND (Off:0 Def:2),,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,153,2,1,1,10:37 PM,1:02,MISS Caboclo 26' 3PT Jump Shot,,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,154,4,0,1,10:37 PM,0:59,,,Williams REBOUND (Off:0 Def:1),,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,143,4,0,1,10:36 PM,0:54,Caboclo REBOUND (Off:0 Def:1),,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,155,1,98,1,10:38 PM,0:50,,,Griffin 1' Cutting Layup Shot (10 PTS) (Teodosic 5 AST),32 - 26,-6,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,157,2,5,1,10:38 PM,0:34,MISS Nogueira 4' Layup,,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,158,4,0,1,10:38 PM,0:31,,,Griffin REBOUND (Off:0 Def:1),,,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,159,2,1,1,10:38 PM,0:26,,,MISS Williams 25' 3PT Jump Shot,,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,160,4,0,1,10:38 PM,0:23,Siakam REBOUND (Off:0 Def:2),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,161,6,4,1,10:38 PM,0:18,Wright OFF.Foul (P1) (E.Lewis),,,,,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,163,5,37,1,10:38 PM,0:18,Wright Offensive Foul Turnover (P1.T7),,,,,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011700003,165,8,0,1,10:39 PM,0:18,,,SUB: Beverley FOR Wilson,,,5,203966,Jamil Wilson,1610612746.0,LA,Clippers,LAC,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,167,2,1,1,10:39 PM,0:01,,,MISS Griffin  3PT Jump Shot,,,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,168,4,0,1,10:39 PM,0:01,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,169,13,0,1,10:40 PM,0:00,,,,32 - 26,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,182,12,0,2,10:42 PM,12:00,,,,32 - 26,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,183,2,1,2,10:42 PM,11:51,MISS Ibaka 26' 3PT Jump Shot,,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,184,4,0,2,10:42 PM,11:48,,,Williams REBOUND (Off:0 Def:2),,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,185,1,7,2,10:43 PM,11:38,,,Wilson 1' Dunk (2 PTS) (Williams 1 AST),34 - 26,-8,5,203966,Jamil Wilson,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,187,1,79,2,10:43 PM,11:07,Ibaka 19' Pullup Jump Shot (2 PTS),,,34 - 28,-6,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,188,6,2,2,10:43 PM,10:59,Ibaka S.FOUL (P2.T1) (E.Lewis),,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,190,3,13,2,10:44 PM,10:59,,,Williams Free Throw 1 of 3 (4 PTS),35 - 28,-7,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,192,8,0,2,10:44 PM,10:59,,,SUB: Beverley FOR Teodosic,,,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,193,3,14,2,10:44 PM,10:59,,,Williams Free Throw 2 of 3 (5 PTS),36 - 28,-8,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,194,3,15,2,10:44 PM,10:59,,,Williams Free Throw 3 of 3 (6 PTS),37 - 28,-9,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,195,1,79,2,10:44 PM,10:45,Ibaka 15' Pullup Jump Shot (4 PTS) (Miles 1 AST),,,37 - 30,-7,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,197,2,1,2,10:44 PM,10:35,,,MISS Wilson 27' 3PT Jump Shot,,,5,203966,Jamil Wilson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,198,4,0,2,10:45 PM,10:31,Miles REBOUND (Off:0 Def:2),,,,,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,199,2,1,2,10:45 PM,10:20,MISS Miles 27' 3PT Jump Shot,,,,,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,201,6,2,2,10:45 PM,10:17,,,Wilson S.FOUL (P1.T1) (E.Lewis),,,5,203966,Jamil Wilson,1610612746.0,LA,Clippers,LAC,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,203,3,11,2,10:45 PM,10:17,Valanciunas Free Throw 1 of 2 (3 PTS),,,37 - 31,-6,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,204,3,12,2,10:46 PM,10:17,Valanciunas Free Throw 2 of 2 (4 PTS),,,37 - 32,-5,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,200,4,0,2,10:45 PM,10:16,Valanciunas REBOUND (Off:2 Def:1),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,205,1,79,2,10:46 PM,10:00,,,W. Johnson 21' Pullup Jump Shot (4 PTS),39 - 32,-7,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,206,5,2,2,10:46 PM,9:44,Lowry Lost Ball Turnover (P1.T8),,Williams STEAL (1 STL),,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,208,1,50,2,10:46 PM,9:39,,,Williams 2' Running Dunk (8 PTS),41 - 32,-9,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,209,1,1,2,10:47 PM,9:18,Ibaka 26' 3PT Jump Shot (7 PTS) (DeRozan 2 AST),,,41 - 35,-6,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,211,1,98,2,10:47 PM,9:06,,,Griffin 2' Cutting Layup Shot (12 PTS) (Williams 2 AST),43 - 35,-8,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,213,6,2,2,10:47 PM,9:00,Valanciunas S.FOUL (P1.T2) (L.Wood),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,215,3,10,2,10:47 PM,9:00,,,Griffin Free Throw 1 of 1 (13 PTS),44 - 35,-9,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,217,2,1,2,10:48 PM,8:46,MISS Miles 29' 3PT Jump Shot,,,,,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,218,4,0,2,10:48 PM,8:43,,,W. Johnson REBOUND (Off:0 Def:2),,,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,219,5,1,2,10:48 PM,8:41,DeRozan STEAL (2 STL),,Beverley Bad Pass Turnover (P1.T3),,,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,221,6,2,2,10:48 PM,8:32,,,Wilson S.FOUL (P2.T2) (L.Wood),,,5,203966,Jamil Wilson,1610612746.0,LA,Clippers,LAC,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,223,3,11,2,10:48 PM,8:32,Ibaka Free Throw 1 of 2 (8 PTS),,,44 - 36,-8,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,226,8,0,2,10:48 PM,8:32,,,SUB: Jordan FOR Wilson,,,5,203966,Jamil Wilson,1610612746.0,LA,Clippers,LAC,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,227,8,0,2,10:48 PM,8:32,,,SUB: Gallinari FOR Griffin,,,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,228,3,12,2,10:49 PM,8:32,Ibaka Free Throw 2 of 2 (9 PTS),,,44 - 37,-7,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,229,2,1,2,10:49 PM,8:21,,,MISS Gallinari 27' 3PT Jump Shot,,,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,230,4,0,2,10:49 PM,8:18,Valanciunas REBOUND (Off:2 Def:2),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,231,6,1,2,10:50 PM,8:08,,,Williams P.FOUL (P1.T3) (K.Cutler),,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,234,8,0,2,10:50 PM,8:08,,,SUB: Rivers FOR Williams,,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,238,1,79,2,10:50 PM,7:55,DeRozan 9' Pullup Jump Shot (7 PTS),,,44 - 39,-5,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,239,5,2,2,10:51 PM,7:44,Lowry STEAL (1 STL),,Rivers Lost Ball Turnover (P2.T4),,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,241,6,2,2,10:51 PM,7:35,,,Beverley S.FOUL (P2.T4) (L.Wood),,,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,243,3,11,2,10:51 PM,7:35,Lowry Free Throw 1 of 2 (11 PTS),,,44 - 40,-4,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,245,8,0,2,10:51 PM,7:35,SUB: Powell FOR Miles,,,,,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,246,3,12,2,10:51 PM,7:35,Lowry Free Throw 2 of 2 (12 PTS),,,44 - 41,-3,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,247,2,73,2,10:52 PM,7:29,,,MISS Beverley 10' Driving Reverse Layup,,,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,248,4,0,2,10:52 PM,7:24,Valanciunas REBOUND (Off:2 Def:3),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,249,2,1,2,10:52 PM,7:18,MISS DeRozan 27' 3PT Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,250,4,0,2,10:52 PM,7:15,,,Jordan REBOUND (Off:0 Def:4),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,251,2,1,2,10:52 PM,7:06,,,MISS Beverley 26' 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,252,4,0,2,10:52 PM,7:01,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,253,2,1,2,10:52 PM,6:40,MISS Ibaka 27' 3PT Jump Shot,,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,254,4,0,2,10:53 PM,6:37,,,W. Johnson REBOUND (Off:0 Def:3),,,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,255,1,5,2,10:53 PM,6:28,,,Rivers 3' Layup (2 PTS),46 - 41,-5,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,256,1,79,2,10:53 PM,6:11,DeRozan 11' Pullup Jump Shot (9 PTS),,,46 - 43,-3,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,257,2,1,2,10:53 PM,6:00,,,MISS Rivers 11' Jump Shot,,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,258,4,0,2,10:53 PM,5:57,Valanciunas REBOUND (Off:2 Def:4),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,259,2,1,2,10:53 PM,5:49,MISS Lowry 26' 3PT Jump Shot,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,260,4,0,2,10:53 PM,5:45,,,W. Johnson REBOUND (Off:0 Def:4),,,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,261,9,1,2,10:54 PM,5:44,,,Clippers Timeout: Regular (Reg.2 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,265,8,0,2,10:56 PM,5:44,SUB: Siakam FOR Lowry,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,266,8,0,2,10:56 PM,5:44,SUB: Nogueira FOR Ibaka,,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,267,8,0,2,10:56 PM,5:44,SUB: Wright FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,268,1,101,2,10:57 PM,5:35,,,Beverley 5' Driving Floating Jump Shot (8 PTS),48 - 43,-5,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,269,2,1,2,10:57 PM,5:16,MISS Nogueira 27' 3PT Jump Shot,,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,270,4,0,2,10:57 PM,5:16,,,Jordan REBOUND (Off:0 Def:5),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,271,2,1,2,10:57 PM,5:03,,,MISS Gallinari 22' Jump Shot,,,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,272,4,0,2,10:57 PM,4:59,DeRozan REBOUND (Off:0 Def:3),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,273,6,1,2,10:57 PM,4:47,,,W. Johnson P.FOUL (P2.PN) (E.Lewis),,,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,275,3,11,2,10:58 PM,4:47,DeRozan Free Throw 1 of 2 (10 PTS),,,48 - 44,-4,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,276,3,12,2,10:58 PM,4:47,DeRozan Free Throw 2 of 2 (11 PTS),,,48 - 45,-3,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,277,2,5,2,10:59 PM,4:35,Nogueira BLOCK (2 BLK),,MISS Gallinari 3' Layup,,,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0
+0011700003,286,1,7,2,10:59 PM,4:35,,,Gallinari 3' Dunk (11 PTS) (Beverley 1 AST),50 - 45,-5,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,288,6,1,2,11:00 PM,4:35,,,Jordan P.FOUL (P3.PN) (E.Lewis),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,290,3,11,2,11:00 PM,4:35,Powell Free Throw 1 of 2 (3 PTS),,,50 - 46,-4,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,291,3,12,2,11:00 PM,4:35,Powell Free Throw 2 of 2 (4 PTS),,,50 - 47,-3,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,282,8,0,2,10:59 PM,4:33,SUB: Caboclo FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,283,8,0,2,10:59 PM,4:33,,,SUB: Teodosic FOR W. Johnson,,,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,279,4,0,2,10:59 PM,4:29,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,292,2,43,2,11:01 PM,4:05,,,MISS Jordan 5' Alley Oop Layup,,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,293,4,0,2,11:01 PM,4:02,Nogueira REBOUND (Off:0 Def:1),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,294,1,41,2,11:01 PM,3:59,Powell 2' Running Layup (6 PTS),,,50 - 49,-1,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,295,6,2,2,11:01 PM,3:47,Nogueira S.FOUL (P1.T3) (E.Lewis),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,297,3,11,2,11:01 PM,3:47,,,Rivers Free Throw 1 of 2 (3 PTS),51 - 49,-2,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,298,3,12,2,11:02 PM,3:47,,,Rivers Free Throw 2 of 2 (4 PTS),52 - 49,-3,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,299,2,1,2,11:02 PM,3:33,MISS Caboclo  3PT Jump Shot,,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,300,4,0,2,11:02 PM,3:29,Nogueira REBOUND (Off:1 Def:1),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,301,2,1,2,11:02 PM,3:28,MISS Caboclo  3PT Jump Shot,,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,302,4,0,2,11:02 PM,3:25,Nogueira REBOUND (Off:2 Def:1),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,303,2,1,2,11:02 PM,3:24,MISS Wright 27' 3PT Jump Shot,,,,,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,304,4,0,2,11:02 PM,3:21,,,Beverley REBOUND (Off:0 Def:1),,,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,305,6,2,2,11:02 PM,3:14,Nogueira S.FOUL (P2.T4) (E.Lewis),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,307,3,11,2,11:03 PM,3:14,,,Gallinari Free Throw 1 of 2 (12 PTS),53 - 49,-4,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,308,3,12,2,11:03 PM,3:14,,,Gallinari Free Throw 2 of 2 (13 PTS),54 - 49,-5,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,309,2,79,2,11:03 PM,2:52,MISS Powell 6' Pullup Jump Shot,,,,,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,310,4,0,2,11:03 PM,2:50,,,Beverley REBOUND (Off:0 Def:2),,,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,311,1,106,2,11:03 PM,2:47,,,Jordan 2' Running Alley Oop Dunk Shot (4 PTS) (Teodosic 6 AST),56 - 49,-7,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,313,9,1,2,11:04 PM,2:39,RAPTORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,315,5,1,2,11:07 PM,2:25,Powell Bad Pass Turnover (P2.T9),,Beverley STEAL (1 STL),,,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,317,6,2,2,11:07 PM,2:19,Powell S.FOUL (P2.PN) (E.Lewis),,,,,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,319,3,11,2,11:07 PM,2:19,,,Beverley Free Throw 1 of 2 (9 PTS),57 - 49,-8,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,320,3,12,2,11:08 PM,2:19,,,Beverley Free Throw 2 of 2 (10 PTS),58 - 49,-9,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,322,2,1,2,11:09 PM,1:53,MISS Siakam 26' 3PT Jump Shot,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,323,4,0,2,11:09 PM,1:50,Powell REBOUND (Off:1 Def:0),,,,,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,324,1,1,2,11:09 PM,1:48,Caboclo 26' 3PT Jump Shot (3 PTS) (Powell 1 AST),,,58 - 52,-6,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,326,5,1,2,11:09 PM,1:30,Wright STEAL (1 STL),,Gallinari Bad Pass Turnover (P1.T5),,,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,328,1,50,2,11:09 PM,1:26,Wright 3' Running Dunk (2 PTS),,,58 - 54,-4,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,329,6,1,2,11:09 PM,1:06,Nogueira P.FOUL (P3.PN) (L.Wood),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,331,3,11,2,11:10 PM,1:06,,,MISS Teodosic Free Throw 1 of 2,,,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,332,4,1,2,11:10 PM,1:06,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,334,8,0,2,11:10 PM,1:06,,,SUB: Williams FOR Rivers,,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,335,3,12,2,11:10 PM,1:06,,,Teodosic Free Throw 2 of 2 (1 PTS),59 - 54,-5,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,336,1,6,2,11:10 PM,1:02,Powell 3' Driving Layup (8 PTS),,,59 - 56,-3,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,337,6,2,2,11:11 PM,0:50,Nogueira S.FOUL (P4.PN) (E.Lewis),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,339,3,11,2,11:11 PM,0:50,,,Williams Free Throw 1 of 2 (9 PTS),60 - 56,-4,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,340,3,12,2,11:11 PM,0:50,,,Williams Free Throw 2 of 2 (10 PTS),61 - 56,-5,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,341,2,1,2,11:12 PM,0:44,MISS Powell 26' 3PT Jump Shot,,,,,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,342,4,0,2,11:12 PM,0:44,Wright REBOUND (Off:1 Def:0),,,,,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,343,1,72,2,11:12 PM,0:34,Wright 2' Putback Layup (4 PTS),,,61 - 58,-3,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,344,2,79,2,11:13 PM,0:12,,,MISS Williams 27' 3PT Pullup Jump Shot,,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,346,5,20,2,11:13 PM,0:09,,,Jordan Illegal Assist Turnover (P1.T6),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,349,6,1,2,11:13 PM,0:08,,,Beverley P.FOUL (P3.PN) (K.Cutler),,,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,351,3,11,2,11:14 PM,0:08,Wright Free Throw 1 of 2 (5 PTS),,,61 - 59,-2,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,360,8,0,2,11:14 PM,0:08,,,SUB: Williams FOR Jordan,,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,361,8,0,2,11:14 PM,0:08,,,SUB: Teodosic FOR W. Johnson,,,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,352,3,12,2,11:14 PM,0:08,Wright Free Throw 2 of 2 (6 PTS),,,61 - 60,-1,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,345,4,0,2,11:13 PM,0:06,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,356,8,0,2,11:13 PM,0:06,,,SUB: W. Johnson FOR Teodosic,,,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,348,8,0,2,11:16 PM,0:06,,,SUB: Rivers FOR Williams,,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,353,2,80,2,11:14 PM,0:05,,,MISS Gallinari 26' 3PT Step Back Jump Shot,,,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,354,4,0,2,11:14 PM,0:00,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,357,13,0,2,11:16 PM,0:00,,,,61 - 60,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,376,12,0,3,11:30 PM,12:00,,,,61 - 60,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,377,1,79,3,11:31 PM,11:41,Ibaka 10' Pullup Jump Shot (11 PTS) (Lowry 1 AST),,,61 - 62,1,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,379,2,1,3,11:31 PM,11:24,,,MISS Rivers 10' Jump Shot,,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,380,4,0,3,11:31 PM,11:21,Valanciunas REBOUND (Off:2 Def:5),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,381,2,78,3,11:31 PM,11:11,MISS Lowry 8' Floating Jump Shot,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,382,4,0,3,11:31 PM,11:07,,,Jordan REBOUND (Off:0 Def:6),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,383,5,1,3,11:31 PM,10:55,Miles STEAL (1 STL),,Beverley Bad Pass Turnover (P2.T7),,,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,385,1,41,3,11:31 PM,10:51,Miles 3' Running Layup (7 PTS),,,61 - 64,3,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,387,7,2,3,11:32 PM,10:51,,,Jordan Violation:Defensive Goaltending (E.Lewis),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011700003,386,9,1,3,11:32 PM,10:51,,,Clippers Timeout: Regular (Reg.3 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,388,1,5,3,11:34 PM,10:31,,,Griffin 2' Layup (15 PTS),63 - 64,1,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,389,2,1,3,11:35 PM,10:10,MISS Ibaka 26' 3PT Jump Shot,,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,390,4,0,3,11:35 PM,10:08,,,Jordan REBOUND (Off:0 Def:7),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,391,1,79,3,11:35 PM,10:01,,,Griffin 20' Pullup Jump Shot (17 PTS),65 - 64,-1,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,392,1,47,3,11:35 PM,9:46,Valanciunas 12' Turnaround Jump Shot (6 PTS) (Lowry 2 AST),,,65 - 66,1,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,394,6,1,3,11:35 PM,9:36,Lowry P.FOUL (P1.T1) (E.Lewis),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,396,6,2,3,11:36 PM,9:29,Valanciunas S.FOUL (P2.T2) (E.Lewis),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,398,3,11,3,11:36 PM,9:29,,,Griffin Free Throw 1 of 2 (18 PTS),66 - 66,TIE,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,399,3,12,3,11:37 PM,9:29,,,MISS Griffin Free Throw 2 of 2,,,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,400,4,0,3,11:37 PM,9:27,Ibaka REBOUND (Off:0 Def:3),,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,401,2,1,3,11:37 PM,9:18,MISS DeRozan 25' 3PT Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,402,4,0,3,11:37 PM,9:15,,,Griffin REBOUND (Off:0 Def:2),,,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,403,6,1,3,11:37 PM,9:09,Ibaka P.FOUL (P3.T3) (E.Lewis),,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,405,1,108,3,11:38 PM,9:06,,,Jordan 2' Cutting Dunk Shot (6 PTS) (Beverley 2 AST),68 - 66,-2,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,407,6,2,3,11:38 PM,9:06,Lowry S.FOUL (P2.T4) (K.Cutler),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,409,3,10,3,11:38 PM,9:06,,,MISS Jordan Free Throw 1 of 1,,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,410,4,0,3,11:38 PM,9:05,Valanciunas REBOUND (Off:2 Def:6),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,411,5,4,3,11:38 PM,8:53,DeRozan Traveling Turnover (P1.T10),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,412,1,1,3,11:38 PM,8:38,,,Beverley 18' Jump Shot (12 PTS),70 - 66,-4,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,413,1,3,3,11:39 PM,8:25,Valanciunas 8' Hook Shot (8 PTS) (Lowry 3 AST),,,70 - 68,-2,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,417,6,1,3,11:39 PM,8:18,,,Rivers P.FOUL (P2.T1) (K.Cutler),,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,419,5,4,3,11:39 PM,8:13,Lowry Traveling Turnover (P2.T11),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011700003,415,2,1,3,11:39 PM,8:12,,,MISS Rivers 25' 3PT Jump Shot,,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,416,4,0,3,11:39 PM,8:10,DeRozan REBOUND (Off:0 Def:4),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,420,2,1,3,11:40 PM,8:03,,,MISS Griffin  3PT Jump Shot,,,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,421,4,0,3,11:40 PM,8:01,Lowry REBOUND (Off:0 Def:1),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,422,2,58,3,11:40 PM,7:48,MISS Valanciunas 12' Turnaround Hook Shot,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,423,4,0,3,11:40 PM,7:45,,,Griffin REBOUND (Off:0 Def:3),,,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,424,5,1,3,11:40 PM,7:41,DeRozan STEAL (3 STL),,Griffin Bad Pass Turnover (P1.T8),,,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,426,2,1,3,11:40 PM,7:36,MISS Miles 26' 3PT Jump Shot,,,,,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,427,4,0,3,11:40 PM,7:33,,,Jordan REBOUND (Off:0 Def:8),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,428,5,1,3,11:40 PM,7:32,Miles STEAL (2 STL),,Jordan Bad Pass Turnover (P2.T9),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,430,2,1,3,11:40 PM,7:28,MISS Ibaka 25' 3PT Jump Shot,,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,431,4,0,3,11:40 PM,7:25,Valanciunas REBOUND (Off:3 Def:6),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,432,1,1,3,11:40 PM,7:23,Lowry 27' 3PT Jump Shot (15 PTS) (Valanciunas 3 AST),,,70 - 71,1,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,434,6,1,3,11:41 PM,7:07,Lowry P.FOUL (P3.PN) (E.Lewis),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,436,3,11,3,11:41 PM,7:07,,,Gallinari Free Throw 1 of 2 (14 PTS),71 - 71,TIE,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,438,8,0,3,11:41 PM,7:07,,,SUB: Teodosic FOR Rivers,,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,439,3,12,3,11:42 PM,7:07,,,Gallinari Free Throw 2 of 2 (15 PTS),72 - 71,-1,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,440,6,2,3,11:42 PM,6:57,,,Beverley S.FOUL (P4.T2) (E.Lewis),,,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,442,3,11,3,11:42 PM,6:57,Lowry Free Throw 1 of 2 (16 PTS),,,72 - 72,TIE,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,443,3,12,3,11:43 PM,6:57,Lowry Free Throw 2 of 2 (17 PTS),,,72 - 73,1,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,444,5,4,3,11:43 PM,6:42,,,Teodosic Traveling Turnover (P1.T10),,,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011700003,445,2,1,3,11:43 PM,6:42,MISS Ibaka  3PT Jump Shot,,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,446,4,0,3,11:43 PM,6:42,,,Jordan REBOUND (Off:0 Def:9),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,447,5,45,3,11:43 PM,6:34,,,Beverley Out of Bounds - Bad Pass Turnover Turnover (P3.T11),,,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,450,6,2,3,11:44 PM,6:18,,,Gallinari S.FOUL (P1.T3) (E.Lewis),,,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,452,3,11,3,11:44 PM,6:18,MISS Ibaka Free Throw 1 of 2,,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,453,4,1,3,11:44 PM,6:18,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,454,3,12,3,11:44 PM,6:18,Ibaka Free Throw 2 of 2 (12 PTS),,,72 - 74,2,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,455,6,2,3,11:45 PM,6:12,Lowry S.FOUL (P4.PN) (E.Lewis),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,457,3,11,3,11:45 PM,6:12,,,Beverley Free Throw 1 of 2 (13 PTS),73 - 74,1,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,458,3,12,3,11:45 PM,6:12,,,Beverley Free Throw 2 of 2 (14 PTS),74 - 74,TIE,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,459,1,1,3,11:46 PM,6:12,Miles 25' 3PT Jump Shot (10 PTS) (DeRozan 3 AST),,,74 - 77,3,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,461,6,1,3,11:46 PM,5:46,,,Jordan P.FOUL (P4.T4) (E.Lewis),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,463,5,0,3,11:46 PM,5:46,,,Jordan No Turnover (P3.T12),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011700003,464,1,1,3,11:47 PM,5:46,Valanciunas 17' Jump Shot (10 PTS) (DeRozan 4 AST),,,74 - 79,5,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,466,2,1,3,11:47 PM,5:46,,,MISS Teodosic 18' Jump Shot,,,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,467,4,0,3,11:47 PM,5:46,Ibaka REBOUND (Off:0 Def:4),,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,468,2,1,3,11:47 PM,5:46,MISS Miles  3PT Jump Shot,,,,,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,469,4,0,3,11:47 PM,5:46,,,Gallinari REBOUND (Off:1 Def:2),,,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,470,5,36,3,11:47 PM,5:46,,,Williams Illegal Screen Turnover (P2.T13),,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011700003,471,2,1,3,11:47 PM,5:46,MISS Ibaka 27' 3PT Jump Shot,,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,472,4,0,3,11:48 PM,5:46,,,Williams REBOUND (Off:0 Def:3),,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,473,2,5,3,11:48 PM,5:46,,,MISS Williams 3' Layup,,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,474,4,0,3,11:48 PM,5:46,Valanciunas REBOUND (Off:3 Def:7),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,475,6,2,3,11:48 PM,4:42,,,Jordan S.FOUL (P5.PN) (E.Lewis),,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,477,3,11,3,11:48 PM,4:42,MISS Valanciunas Free Throw 1 of 2,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,478,4,1,3,11:48 PM,4:42,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,484,8,0,3,11:48 PM,4:42,SUB: Powell FOR Ibaka,,,,,4,201586,Serge Ibaka,1610612761.0,Toronto,Raptors,TOR,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,485,8,0,3,11:48 PM,4:42,SUB: Siakam FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,486,8,0,3,11:48 PM,4:42,,,SUB: Williams FOR Jordan,,,5,201599,DeAndre Jordan,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,487,8,0,3,11:48 PM,4:42,,,SUB: W. Johnson FOR Beverley,,,5,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,488,8,0,3,11:48 PM,4:42,,,SUB: Harrell FOR Griffin,,,5,201933,Blake Griffin,1610612746.0,LA,Clippers,LAC,5,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,489,3,12,3,11:49 PM,4:42,MISS Valanciunas Free Throw 2 of 2,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,490,4,0,3,11:49 PM,4:38,,,Harrell REBOUND (Off:0 Def:1),,,5,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,491,1,1,3,11:49 PM,4:32,,,W. Johnson 26' 3PT Jump Shot (7 PTS) (Gallinari 1 AST),77 - 79,2,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,493,6,2,3,11:50 PM,4:03,Miles S.FOUL (P3.PN) (E.Lewis),,,,,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,495,3,10,3,11:50 PM,4:03,,,W. Johnson Free Throw 1 of 1 (8 PTS),78 - 79,1,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,496,1,93,3,11:50 PM,3:49,Miles 5' Driving Bank Hook Shot (12 PTS) (Valanciunas 4 AST),,,78 - 81,3,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,498,6,1,3,11:50 PM,3:40,Powell P.FOUL (P3.PN) (K.Cutler),,,,,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,500,3,11,3,11:50 PM,3:40,,,Gallinari Free Throw 1 of 2 (16 PTS),79 - 81,2,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,503,8,0,3,11:50 PM,3:40,SUB: Nogueira FOR Miles,,,,,4,101139,CJ Miles,1610612761.0,Toronto,Raptors,TOR,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,504,8,0,3,11:50 PM,3:40,SUB: Caboclo FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,505,3,12,3,11:51 PM,3:40,,,Gallinari Free Throw 2 of 2 (17 PTS),80 - 81,1,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,506,1,6,3,11:51 PM,3:27,Powell 3' Driving Layup (10 PTS) (Lowry 4 AST),,,80 - 83,3,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,514,7,2,3,11:51 PM,3:27,,,Harrell Violation:Defensive Goaltending (.),,,5,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,509,6,2,3,11:52 PM,3:16,Siakam S.FOUL (P3.PN) (K.Cutler),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,512,3,11,3,11:52 PM,3:16,,,MISS Williams Free Throw 1 of 2,,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,513,4,1,3,11:52 PM,3:16,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,515,3,12,3,11:52 PM,3:16,,,Williams Free Throw 2 of 2 (11 PTS),81 - 83,2,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,516,6,2,3,11:52 PM,3:06,,,Teodosic S.FOUL (P1.PN) (K.Cutler),,,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,518,3,11,3,11:53 PM,3:06,Nogueira Free Throw 1 of 2 (3 PTS),,,81 - 84,3,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,519,3,12,3,11:53 PM,3:06,Nogueira Free Throw 2 of 2 (4 PTS),,,81 - 85,4,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,520,9,1,3,11:53 PM,2:51,RAPTORS Timeout: Regular (Full 3 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,521,5,1,3,11:56 PM,2:47,Nogueira STEAL (2 STL),,Williams Bad Pass Turnover (P3.T14),,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,523,5,1,3,11:56 PM,2:42,Nogueira Bad Pass Turnover (P1.T12),,Williams STEAL (2 STL),,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,525,6,2,3,11:56 PM,2:41,Siakam S.FOUL (P4.PN) (K.Cutler),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,527,3,11,3,11:57 PM,2:41,,,MISS Gallinari Free Throw 1 of 2,,,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,528,4,1,3,11:57 PM,2:41,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,529,3,12,3,11:57 PM,2:41,,,MISS Gallinari Free Throw 2 of 2,,,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,530,4,0,3,11:57 PM,2:40,Siakam REBOUND (Off:0 Def:3),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,531,6,1,3,11:57 PM,2:36,,,Williams P.FOUL (P2.PN) (K.Cutler),,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,533,3,11,3,11:58 PM,2:36,Powell Free Throw 1 of 2 (11 PTS),,,81 - 86,5,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,536,8,0,3,11:58 PM,2:36,SUB: Wright FOR Lowry,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,537,8,0,3,11:58 PM,2:36,,,SUB: Wilson FOR Gallinari,,,5,201568,Danilo Gallinari,1610612746.0,LA,Clippers,LAC,5,203966,Jamil Wilson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,538,3,12,3,11:58 PM,2:36,Powell Free Throw 2 of 2 (12 PTS),,,81 - 87,6,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,539,1,79,3,11:58 PM,2:36,,,W. Johnson 18' Pullup Jump Shot (10 PTS) (Teodosic 7 AST),83 - 87,4,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,541,1,6,3,11:58 PM,2:18,Powell 3' Driving Layup (14 PTS),,,83 - 89,6,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,542,6,1,3,11:59 PM,1:52,Powell P.FOUL (P4.PN) (K.Cutler),,,,,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,544,3,11,3,11:59 PM,1:52,,,MISS Harrell Free Throw 1 of 2,,,5,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,545,4,1,3,11:59 PM,1:52,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,546,3,12,3,11:59 PM,1:52,,,Harrell Free Throw 2 of 2 (1 PTS),84 - 89,5,5,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,548,5,45,3,12:00 AM,1:37,Caboclo Out of Bounds - Bad Pass Turnover Turnover (P3.T13),,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,549,1,1,3,12:00 AM,1:30,,,Wilson 26' 3PT Jump Shot (5 PTS) (Teodosic 8 AST),87 - 89,2,5,203966,Jamil Wilson,1610612746.0,LA,Clippers,LAC,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,551,1,5,3,12:00 AM,1:18,Powell 2' Layup (16 PTS) (Nogueira 1 AST),,,87 - 91,4,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,553,1,1,3,12:00 AM,1:02,,,Williams 15' Jump Shot (13 PTS) (Wilson 1 AST),89 - 91,2,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,203966,Jamil Wilson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,557,6,9,3,12:01 AM,0:48,Powell C.P.FOUL (P5.PN) (E.Lewis),,,,,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,559,18,0,3,12:02 AM,0:48,,,,89 - 91,2,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0011700003,560,3,25,3,12:02 AM,0:48,,,MISS Williams Free Throw Clear Path 1 of 2,,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,561,4,1,3,12:02 AM,0:48,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,562,3,26,3,12:02 AM,0:48,,,Williams Free Throw Clear Path 2 of 2 (14 PTS),90 - 91,1,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,555,5,1,3,12:01 AM,0:47,Wright Bad Pass Turnover (P2.T14),,W. Johnson STEAL (1 STL),,,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,5,202325,Wesley Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,563,2,1,3,12:03 AM,0:28,MISS Caboclo 27' 3PT Jump Shot,,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,564,4,0,3,12:03 AM,0:27,,,Wilson REBOUND (Off:0 Def:1),,,5,203966,Jamil Wilson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,565,2,79,3,12:03 AM,0:06,,,MISS Teodosic 26' 3PT Pullup Jump Shot,,,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,566,4,0,3,12:03 AM,0:02,Caboclo REBOUND (Off:0 Def:3),,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,568,4,0,3,12:04 AM,0:00,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,567,2,1,3,12:03 AM,0:00,MISS Powell 26' 3PT Jump Shot,,,,,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,569,13,0,3,12:04 AM,0:00,,,,90 - 91,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,572,12,0,4,12:06 AM,12:00,,,,90 - 91,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,573,6,1,4,12:07 AM,11:47,Powell P.FOUL (P6.T1) (E.Lewis),,,,,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,575,5,8,4,12:07 AM,11:39,,,Harrell 3 Second Violation Turnover (P1.T15),,,5,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011700003,577,8,0,4,12:09 AM,11:39,SUB: VanVleet FOR Powell,,,,,4,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,578,2,1,4,12:10 AM,11:22,MISS Siakam 26' 3PT Jump Shot,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,579,4,0,4,12:10 AM,11:19,,,Harrell REBOUND (Off:0 Def:2),,,5,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,580,5,1,4,12:10 AM,11:16,Siakam STEAL (1 STL),,Williams Bad Pass Turnover (P4.T16),,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,582,2,1,4,12:10 AM,11:07,MISS VanVleet  3PT Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,583,4,0,4,12:10 AM,11:02,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,585,8,0,4,12:10 AM,11:02,,,SUB: Rivers FOR Teodosic,,,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,586,1,78,4,12:11 AM,10:50,,,Williams 7' Floating Jump Shot (16 PTS) (Rivers 2 AST),92 - 91,-1,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,588,6,2,4,12:11 AM,10:36,,,Wilson S.FOUL (P3.T1) (L.Wood),,,5,203966,Jamil Wilson,1610612746.0,LA,Clippers,LAC,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,590,3,11,4,12:11 AM,10:36,Siakam Free Throw 1 of 2 (1 PTS),,,92 - 92,TIE,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,591,3,12,4,12:12 AM,10:36,Siakam Free Throw 2 of 2 (2 PTS),,,92 - 93,1,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,592,2,78,4,12:12 AM,10:24,,,MISS Rivers 6' Floating Jump Shot,,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,593,4,0,4,12:12 AM,10:21,Wright REBOUND (Off:1 Def:1),,,,,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,594,5,2,4,12:12 AM,10:17,Wright Lost Ball Turnover (P3.T15),,Rivers STEAL (1 STL),,,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,596,2,5,4,12:12 AM,10:11,Nogueira BLOCK (3 BLK),,MISS Dekker 2' Layup,,,5,1626155,Sam Dekker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0
+0011700003,598,4,0,4,12:12 AM,10:04,,,Dekker REBOUND (Off:1 Def:0),,,5,1626155,Sam Dekker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,601,2,1,4,12:12 AM,9:58,,,MISS Dekker 17' Jump Shot,,,5,1626155,Sam Dekker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,602,4,0,4,12:12 AM,9:55,VanVleet REBOUND (Off:0 Def:1),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,603,1,1,4,12:12 AM,9:53,Caboclo 25' 3PT Jump Shot (6 PTS) (Wright 2 AST),,,92 - 96,4,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,605,5,1,4,12:13 AM,9:29,Siakam STEAL (2 STL),,Wilson Bad Pass Turnover (P1.T17),,,5,203966,Jamil Wilson,1610612746.0,LA,Clippers,LAC,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,607,1,1,4,12:13 AM,9:21,Siakam  3PT Jump Shot (5 PTS) (Nogueira 2 AST),,,92 - 99,7,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,609,9,1,4,12:13 AM,9:19,,,Clippers Timeout: Regular (Reg.4 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,610,2,5,4,12:16 AM,9:11,,,MISS Rivers 2' Layup,,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,611,4,0,4,12:16 AM,9:08,Wright REBOUND (Off:1 Def:2),,,,,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,612,2,1,4,12:16 AM,9:05,MISS VanVleet 25' 3PT Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,613,4,0,4,12:16 AM,9:00,,,Williams REBOUND (Off:0 Def:4),,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,614,6,2,4,12:16 AM,8:54,VanVleet S.FOUL (P1.T2) (E.Lewis),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,616,3,11,4,12:17 AM,8:54,,,MISS Williams Free Throw 1 of 2,,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,617,4,1,4,12:17 AM,8:54,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,618,3,12,4,12:17 AM,8:54,,,Williams Free Throw 2 of 2 (17 PTS),93 - 99,6,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,620,6,1,4,12:17 AM,8:41,,,Wilson P.FOUL (P4.T2) (K.Cutler),,,5,203966,Jamil Wilson,1610612746.0,LA,Clippers,LAC,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,623,8,0,4,12:18 AM,8:41,,,SUB: Johnson FOR Wilson,,,5,203966,Jamil Wilson,1610612746.0,LA,Clippers,LAC,5,1627744,Brice Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,624,1,75,4,12:18 AM,8:38,Wright 3' Driving Finger Roll Layup (8 PTS),,,93 - 101,8,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,625,1,98,4,12:18 AM,8:23,,,Dekker 2' Cutting Layup Shot (2 PTS) (Williams 3 AST),95 - 101,6,5,1626155,Sam Dekker,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,627,5,1,4,12:18 AM,8:03,Wright Bad Pass Turnover (P4.T16),,Rivers STEAL (2 STL),,,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,629,2,5,4,12:18 AM,7:58,,,MISS Rivers 4' Layup,,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,630,4,0,4,12:18 AM,7:55,,,Dekker REBOUND (Off:2 Def:0),,,5,1626155,Sam Dekker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,631,2,1,4,12:19 AM,7:53,,,MISS Harrell 7' Jump Shot,,,5,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,632,4,0,4,12:19 AM,7:50,VanVleet REBOUND (Off:0 Def:2),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,633,5,1,4,12:19 AM,7:46,VanVleet Bad Pass Turnover (P1.T17),,Rivers STEAL (3 STL),,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,635,1,5,4,12:19 AM,7:41,,,Dekker 3' Layup (4 PTS) (Williams 4 AST),97 - 101,4,5,1626155,Sam Dekker,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,637,1,1,4,12:19 AM,7:21,Wright 26' 3PT Jump Shot (11 PTS) (VanVleet 1 AST),,,97 - 104,7,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,639,2,1,4,12:19 AM,7:05,,,MISS Williams  3PT Jump Shot,,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,640,4,0,4,12:19 AM,7:05,Nogueira REBOUND (Off:2 Def:2),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,641,5,40,4,12:20 AM,6:52,Caboclo Out of Bounds Lost Ball Turnover (P4.T18),,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,645,8,0,4,12:20 AM,6:52,SUB: Poeltl FOR Caboclo,,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,646,8,0,4,12:20 AM,6:52,SUB: McKinnie FOR Nogueira,,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,4,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,647,8,0,4,12:20 AM,6:52,,,SUB: Teodosic FOR Williams,,,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,648,2,1,4,12:20 AM,6:52,,,MISS Johnson 27' 3PT Jump Shot,,,5,1627744,Brice Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,649,4,0,4,12:20 AM,6:52,Wright REBOUND (Off:1 Def:3),,,,,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,650,1,5,4,12:20 AM,6:52,Poeltl 3' Layup (2 PTS) (Wright 3 AST),,,97 - 106,9,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,652,6,1,4,12:21 AM,6:16,Siakam P.FOUL (P5.T3) (E.Lewis),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,655,8,0,4,12:21 AM,6:16,,,SUB: Reed FOR Harrell,,,5,1626149,Montrezl Harrell,1610612746.0,LA,Clippers,LAC,5,203186,Willie Reed,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,656,2,1,4,12:21 AM,6:13,,,MISS Rivers 27' 3PT Jump Shot,,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,657,4,0,4,12:21 AM,6:11,McKinnie REBOUND (Off:0 Def:1),,,,,4,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,658,5,1,4,12:21 AM,5:51,VanVleet Bad Pass Turnover (P2.T19),,Johnson STEAL (1 STL),,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1627744,Brice Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,660,5,1,4,12:22 AM,5:46,Siakam STEAL (3 STL),,Teodosic Bad Pass Turnover (P2.T18),,,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,662,1,1,4,12:22 AM,5:39,VanVleet 27' 3PT Jump Shot (3 PTS) (Poeltl 1 AST),,,97 - 109,12,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,760,10,0,4,10:27 PM,5:07,Jump Ball DeRozan vs. Teodosic: Tip to Siakam,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0
+0011700003,665,2,1,4,12:22 AM,5:03,,,MISS Johnson 18' Jump Shot,,,5,1627744,Brice Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,666,4,0,4,12:22 AM,5:01,Poeltl REBOUND (Off:0 Def:1),,,,,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,667,1,6,4,12:22 AM,4:59,VanVleet 2' Driving Layup (5 PTS),,,97 - 111,14,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,668,6,2,4,12:22 AM,4:50,,,Rivers S.FOUL (P3.T3) (L.Wood),,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,671,8,0,4,12:23 AM,4:50,SUB: Rautins FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,202360,Andy Rautins,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,672,3,10,4,12:23 AM,4:50,MISS VanVleet Free Throw 1 of 1,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,673,4,0,4,12:23 AM,4:48,,,Johnson REBOUND (Off:0 Def:1),,,5,1627744,Brice Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,674,2,1,4,12:23 AM,4:43,,,MISS Dekker 27' 3PT Jump Shot,,,5,1626155,Sam Dekker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,675,4,0,4,12:23 AM,4:36,VanVleet REBOUND (Off:0 Def:3),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,676,2,1,4,12:23 AM,4:33,MISS McKinnie 26' 3PT Jump Shot,,,,,4,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,677,4,0,4,12:23 AM,4:30,,,Dekker REBOUND (Off:2 Def:1),,,5,1626155,Sam Dekker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,684,8,0,4,12:23 AM,4:23,SUB: Wiltjer FOR Poeltl,,,,,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,4,1627787,Kyle Wiltjer,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,678,1,5,4,12:23 AM,4:21,,,Johnson  Layup (2 PTS) (Teodosic 9 AST),99 - 111,12,5,1627744,Brice Johnson,1610612746.0,LA,Clippers,LAC,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,680,1,5,4,12:24 AM,4:07,Poeltl 2' Layup (4 PTS) (VanVleet 2 AST),,,99 - 113,14,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,682,9,1,4,12:24 AM,4:04,,,Clippers Timeout: Regular (Reg.5 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,687,8,0,4,12:25 AM,4:04,SUB: Poeltl FOR Wright,,,,,4,1626153,Delon Wright,1610612761.0,Toronto,Raptors,TOR,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,688,8,0,4,12:25 AM,4:04,,,SUB: Thornwell FOR Dekker,,,5,1626155,Sam Dekker,1610612746.0,LA,Clippers,LAC,5,1628414,Sindarius Thornwell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,690,7,5,4,12:27 AM,3:53,VanVleet Violation:Kicked Ball (.),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,691,2,5,4,12:27 AM,3:53,,,MISS Reed 6' Layup,,,5,203186,Willie Reed,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,692,4,0,4,12:27 AM,3:53,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,693,2,1,4,12:28 AM,3:34,MISS Wiltjer 26' 3PT Jump Shot,,,,,4,1627787,Kyle Wiltjer,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,694,4,0,4,12:28 AM,3:32,McKinnie REBOUND (Off:1 Def:1),,,,,4,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,695,1,72,4,12:28 AM,3:29,McKinnie 3' Putback Layup (2 PTS),,,99 - 115,16,4,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,696,2,1,4,12:28 AM,3:11,,,MISS Johnson 26' 3PT Jump Shot,,,5,1627744,Brice Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,697,4,0,4,12:28 AM,3:11,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,698,6,1,4,12:28 AM,3:06,Wiltjer P.FOUL (P1.T4) (K.Cutler),,,,,4,1627787,Kyle Wiltjer,1610612761.0,Toronto,Raptors,TOR,5,203186,Willie Reed,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,701,8,0,4,12:29 AM,3:06,,,SUB: Williams FOR Teodosic,,,5,1628462,Milos Teodosic,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,703,5,2,4,12:29 AM,2:55,VanVleet STEAL (1 STL),,Rivers Lost Ball Turnover (P3.T19),,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,705,5,1,4,12:29 AM,2:49,VanVleet Bad Pass Turnover (P3.T20),,Rivers STEAL (4 STL),,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,707,1,5,4,12:29 AM,2:45,,,Johnson 3' Layup (4 PTS) (Williams 5 AST),101 - 115,14,5,1627744,Brice Johnson,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,709,5,4,4,12:29 AM,2:39,McKinnie Traveling Turnover (P1.T21),,,,,4,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011700003,710,1,5,4,12:30 AM,2:34,,,Rivers 6' Layup (6 PTS),103 - 115,12,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,711,2,1,4,12:30 AM,2:24,MISS Rautins 28' 3PT Jump Shot,,,,,4,202360,Andy Rautins,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,712,4,0,4,12:30 AM,2:20,,,Johnson REBOUND (Off:0 Def:2),,,5,1627744,Brice Johnson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,713,5,2,4,12:30 AM,2:11,Rautins STEAL (1 STL),,Thornwell Lost Ball Turnover (P1.T20),,,5,1628414,Sindarius Thornwell,1610612746.0,LA,Clippers,LAC,4,202360,Andy Rautins,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011700003,715,6,2,4,12:30 AM,2:08,,,Thornwell S.FOUL (P1.T4) (K.Cutler),,,5,1628414,Sindarius Thornwell,1610612746.0,LA,Clippers,LAC,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,717,3,11,4,12:30 AM,2:08,VanVleet Free Throw 1 of 2 (6 PTS),,,103 - 116,13,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,718,3,12,4,12:31 AM,2:08,VanVleet Free Throw 2 of 2 (7 PTS),,,103 - 117,14,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,719,1,1,4,12:31 AM,1:51,,,Rivers 17' Jump Shot (8 PTS),105 - 117,12,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,725,6,1,4,12:32 AM,1:41,McKinnie P.FOUL (P1.PN) (E.Lewis),,,,,4,1628035,Alfonzo McKinnie,1610612761.0,Toronto,Raptors,TOR,5,203186,Willie Reed,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,727,18,0,4,12:33 AM,1:41,,,,105 - 117,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,729,6,11,4,12:34 AM,1:41,,,Reed T.FOUL (P1.PN) (E.Lewis),,,5,203186,Willie Reed,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011700003,730,3,16,4,12:34 AM,1:41,VanVleet Free Throw Technical (8 PTS),,,105 - 118,13,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,731,3,11,4,12:35 AM,1:41,,,Reed Free Throw 1 of 2 (1 PTS),106 - 118,12,5,203186,Willie Reed,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,732,3,12,4,12:35 AM,1:41,,,Reed Free Throw 2 of 2 (2 PTS),107 - 118,11,5,203186,Willie Reed,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,720,6,2,4,12:31 AM,1:40,,,Reed S.FOUL (P1.PN) (E.Lewis),,,5,203186,Willie Reed,1610612746.0,LA,Clippers,LAC,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,722,3,11,4,12:32 AM,1:40,MISS Poeltl Free Throw 1 of 2,,,,,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,723,4,1,4,12:32 AM,1:40,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,724,3,12,4,12:32 AM,1:40,MISS Poeltl Free Throw 2 of 2,,,,,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,733,6,2,4,12:36 AM,1:27,,,Reed S.FOUL (P2.PN) (K.Cutler),,,5,203186,Willie Reed,1610612746.0,LA,Clippers,LAC,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011700003,735,3,11,4,12:36 AM,1:27,Poeltl Free Throw 1 of 2 (5 PTS),,,107 - 119,12,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,736,3,12,4,12:36 AM,1:27,MISS Poeltl Free Throw 2 of 2,,,,,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,737,4,0,4,12:36 AM,1:27,,,Rivers REBOUND (Off:0 Def:1),,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,738,7,5,4,12:36 AM,1:14,VanVleet Violation:Kicked Ball (.),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,739,1,1,4,12:37 AM,1:08,,,Thornwell 26' 3PT Jump Shot (3 PTS) (Rivers 3 AST),110 - 119,9,5,1628414,Sindarius Thornwell,1610612746.0,LA,Clippers,LAC,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,742,6,26,4,12:37 AM,0:50,Wiltjer Offensive Charge Foul (P2.PN) (L.Wood),,,,,4,1627787,Kyle Wiltjer,1610612761.0,Toronto,Raptors,TOR,5,203186,Willie Reed,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,744,5,37,4,12:37 AM,0:50,Wiltjer Offensive Foul Turnover (P1.T22),,,,,4,1627787,Kyle Wiltjer,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011700003,745,9,1,4,12:39 AM,0:50,,,Clippers Timeout: Regular (Reg.6 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011700003,746,2,78,4,12:40 AM,0:43,,,MISS Rivers 3' Floating Jump Shot,,,5,203085,Austin Rivers,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,747,4,0,4,12:40 AM,0:41,Poeltl REBOUND (Off:0 Def:2),,,,,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,748,2,78,4,12:40 AM,0:27,MISS VanVleet 5' Floating Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,749,4,0,4,12:40 AM,0:20,Poeltl REBOUND (Off:1 Def:2),,,,,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,750,1,72,4,12:40 AM,0:20,Poeltl 1' Putback Layup (7 PTS),,,110 - 121,11,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011700003,751,1,5,4,12:40 AM,0:15,,,Thornwell 4' Layup (5 PTS) (Williams 6 AST),112 - 121,9,5,1628414,Sindarius Thornwell,1610612746.0,LA,Clippers,LAC,5,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0011700003,753,6,2,4,12:40 AM,0:15,Poeltl S.FOUL (P1.PN) (E.Lewis),,,,,4,1627751,Jakob Poeltl,1610612761.0,Toronto,Raptors,TOR,5,1628414,Sindarius Thornwell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0011700003,755,3,10,4,12:41 AM,0:15,,,Thornwell Free Throw 1 of 1 (6 PTS),113 - 121,8,5,1628414,Sindarius Thornwell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011700003,756,13,0,4,12:41 AM,0:00,,,,113 - 121,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
