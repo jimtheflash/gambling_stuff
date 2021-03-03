@@ -1,0 +1,476 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011900024,2,12,0,1,7:12 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,4,10,0,1,7:12 PM,12:00,Jump Ball Drummond vs. Porzingis: Tip to Griffin,,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,4,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,1
+0011900024,7,2,58,1,7:12 PM,11:47,MISS Griffin 4' Turnaround Hook Shot,,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,8,4,0,1,7:12 PM,11:44,,,Porzingis REBOUND (Off:0 Def:1),,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,9,1,79,1,7:12 PM,11:34,,,Doncic 14' Pullup Jump Shot (2 PTS),2 - 0,-2,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,10,2,1,1,7:12 PM,11:22,MISS Snell 25' 3PT Jump Shot,,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,11,4,0,1,7:12 PM,11:19,,,Kleber REBOUND (Off:0 Def:1),,,5.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,12,2,1,1,7:12 PM,11:16,,,MISS Doncic 26' 3PT Jump Shot,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,13,4,0,1,7:12 PM,11:15,Drummond REBOUND (Off:0 Def:1),,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,14,5,1,1,7:13 PM,11:07,Griffin Bad Pass Turnover (P1.T1),,Porzingis STEAL (1 STL),,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,16,1,47,1,7:13 PM,11:00,,,Porzingis 18' Turnaround Jump Shot (2 PTS) (Wright 1 AST),4 - 0,-4,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,18,1,6,1,7:13 PM,10:46,Drummond 3' Driving Layup (2 PTS) (Jackson 1 AST),,,4 - 2,-2,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,20,5,1,1,7:13 PM,10:33,Brown STEAL (1 STL),,Wright Bad Pass Turnover (P1.T1),,,5.0,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,4,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,22,2,79,1,7:13 PM,10:22,MISS Griffin 29' 3PT Pullup Jump Shot,,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,23,4,0,1,7:14 PM,10:18,,,Doncic REBOUND (Off:0 Def:1),,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,24,1,101,1,7:14 PM,10:12,,,Doncic 6' Driving Floating Jump Shot (4 PTS),6 - 2,-4,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,25,1,1,1,7:14 PM,10:01,Snell 24' 3PT Jump Shot (3 PTS) (Drummond 1 AST),,,6 - 5,-1,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,27,1,1,1,7:14 PM,9:55,,,Porzingis 27' 3PT Jump Shot (5 PTS) (Doncic 1 AST),9 - 5,-4,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,29,6,1,1,7:14 PM,9:50,,,Porzingis P.FOUL (P1.T1) (J.Conley),,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,32,2,1,1,7:15 PM,9:38,MISS Snell 27' 3PT Jump Shot,,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,33,4,0,1,7:15 PM,9:34,Drummond REBOUND (Off:1 Def:1),,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,34,2,97,1,7:15 PM,9:34,MISS Drummond 1' Tip Layup Shot,,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,35,4,0,1,7:15 PM,9:32,Griffin REBOUND (Off:1 Def:0),,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,36,1,7,1,7:15 PM,9:28,Drummond 2' Dunk (4 PTS) (Brown 1 AST),,,9 - 7,-2,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,38,1,1,1,7:15 PM,9:15,,,Porzingis 25' 3PT Jump Shot (8 PTS) (Wright 2 AST),12 - 7,-5,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,40,2,80,1,7:16 PM,8:59,MISS Jackson  3PT Step Back Jump Shot,,,,,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,41,4,0,1,7:16 PM,8:56,,,Doncic REBOUND (Off:0 Def:2),,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,42,2,1,1,7:16 PM,8:51,,,MISS Porzingis 26' 3PT Jump Shot,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,43,4,0,1,7:16 PM,8:47,Brown REBOUND (Off:0 Def:1),,,,,4.0,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,44,6,28,1,7:16 PM,8:47,,,Doncic Personal Take Foul (P1.T2) (D.Guthrie),,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,46,2,1,1,7:16 PM,8:36,MISS Jackson 25' 3PT Jump Shot,,,,,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,47,4,0,1,7:16 PM,8:33,,,Porzingis REBOUND (Off:0 Def:2),,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,48,6,2,1,7:16 PM,8:31,Snell S.FOUL (P1.T1) (D.Guthrie),,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,5,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,50,3,11,1,7:17 PM,8:31,,,Wright Free Throw 1 of 2 (1 PTS),13 - 7,-6,5.0,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,51,3,12,1,7:17 PM,8:31,,,Wright Free Throw 2 of 2 (2 PTS),14 - 7,-7,5.0,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,52,6,1,1,7:17 PM,8:18,,,Porzingis P.FOUL (P2.T3) (D.Guthrie),,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,4,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,54,8,0,1,7:17 PM,8:18,,,SUB: Finney-Smith FOR Porzingis,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,56,1,96,1,7:18 PM,8:08,Griffin 5' Turnaround Bank Hook Shot (2 PTS),,,14 - 9,-5,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,57,2,6,1,7:18 PM,7:49,Drummond BLOCK (1 BLK),,MISS Kleber 4' Driving Layup,,,5.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1
+0011900024,59,4,0,1,7:18 PM,7:45,Drummond REBOUND (Off:1 Def:2),,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,60,10,0,1,7:19 PM,7:33,Jump Ball Griffin vs. Finney-Smith: Tip to Wright,,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,1
+0011900024,63,5,2,1,7:19 PM,7:33,Griffin Lost Ball Turnover (P2.T2),,Finney-Smith STEAL (1 STL),,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,65,2,1,1,7:19 PM,7:23,,,MISS Kleber 26' 3PT Jump Shot,,,5.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,66,4,0,1,7:19 PM,7:21,Snell REBOUND (Off:0 Def:1),,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,67,1,96,1,7:19 PM,7:15,Drummond 3' Turnaround Bank Hook Shot (6 PTS) (Snell 1 AST),,,14 - 11,-3,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,69,6,2,1,7:19 PM,7:05,Brown S.FOUL (P1.T2) (J.DeRosa),,,,,4.0,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,71,3,13,1,7:20 PM,7:05,,,Doncic Free Throw 1 of 3 (5 PTS),15 - 11,-4,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,72,3,14,1,7:20 PM,7:05,,,Doncic Free Throw 2 of 3 (6 PTS),16 - 11,-5,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,73,3,15,1,7:20 PM,7:05,,,MISS Doncic Free Throw 3 of 3,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,74,4,0,1,7:20 PM,7:02,Drummond REBOUND (Off:1 Def:3),,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,75,5,45,1,7:21 PM,6:44,Brown Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4.0,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0011900024,76,9,1,1,7:21 PM,6:44,PISTONS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,77,2,1,1,7:24 PM,6:32,,,MISS Wright 25' 3PT Jump Shot,,,5.0,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,78,4,0,1,7:24 PM,6:29,Snell REBOUND (Off:0 Def:2),,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,79,2,79,1,7:24 PM,6:17,MISS Snell 22' Pullup Jump Shot,,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,80,4,0,1,7:24 PM,6:14,,,Doncic REBOUND (Off:0 Def:3),,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,81,2,75,1,7:24 PM,6:08,,,MISS Doncic 5' Driving Finger Roll Layup,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,82,4,0,1,7:24 PM,6:07,Drummond REBOUND (Off:1 Def:4),,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,83,5,2,1,7:24 PM,6:02,Griffin Lost Ball Turnover (P3.T4),,Jackson STEAL (1 STL),,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,5,1628382,Justin Jackson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,85,5,1,1,7:25 PM,5:57,Drummond STEAL (1 STL),,Jackson Bad Pass Turnover (P1.T2),,,5.0,1628382,Justin Jackson,1610612742.0,Dallas,Mavericks,DAL,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,87,2,5,1,7:25 PM,5:51,MISS Drummond 6' Layup,,Kleber BLOCK (1 BLK),,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,1
+0011900024,89,4,0,1,7:25 PM,5:48,Brown REBOUND (Off:1 Def:1),,,,,4.0,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,90,1,1,1,7:25 PM,5:45,Snell 27' 3PT Jump Shot (6 PTS) (Griffin 1 AST),,,16 - 14,-2,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,4,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,92,1,1,1,7:25 PM,5:18,,,Finney-Smith  3PT Jump Shot (3 PTS) (Doncic 2 AST),19 - 14,-5,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,94,2,1,1,7:26 PM,4:53,MISS Jackson 32' 3PT Jump Shot,,,,,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,95,4,0,1,7:26 PM,4:50,,,Finney-Smith REBOUND (Off:0 Def:1),,,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,96,2,80,1,7:26 PM,4:42,,,MISS Doncic 26' 3PT Step Back Jump Shot,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,97,4,0,1,7:26 PM,4:41,PISTONS Rebound,,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,99,8,0,1,7:26 PM,4:41,SUB: Rose FOR Jackson,,,,,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,4,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,100,8,0,1,7:26 PM,4:41,SUB: Kennard FOR Brown,,,,,4.0,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,4,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,101,8,0,1,7:26 PM,4:41,,,SUB: Hardaway Jr. FOR Wright,,,5.0,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,105,6,2,1,7:27 PM,4:22,,,Finney-Smith S.FOUL (P1.T4) (J.DeRosa),,,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,107,3,11,1,7:27 PM,4:22,MISS Griffin Free Throw 1 of 2,,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,108,4,1,1,7:27 PM,4:22,PISTONS Rebound,,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,109,3,12,1,7:27 PM,4:22,MISS Griffin Free Throw 2 of 2,,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,110,4,0,1,7:27 PM,4:19,,,Doncic REBOUND (Off:0 Def:4),,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,111,2,79,1,7:28 PM,4:09,,,MISS Finney-Smith 13' Pullup Jump Shot,,,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,112,4,0,1,7:28 PM,4:05,Griffin REBOUND (Off:1 Def:1),,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,113,2,6,1,7:28 PM,4:02,MISS Rose 3' Driving Layup,,Hardaway Jr. BLOCK (1 BLK),,,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1
+0011900024,115,4,0,1,7:28 PM,4:02,PISTONS Rebound,,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,116,8,0,1,7:28 PM,4:02,SUB: Galloway FOR Snell,,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,4,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,118,1,1,1,7:28 PM,3:48,Kennard 25' 3PT Jump Shot (3 PTS) (Drummond 2 AST),,,19 - 17,-2,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,120,2,79,1,7:29 PM,3:27,,,MISS Hardaway Jr. 26' 3PT Pullup Jump Shot,,,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,121,4,0,1,7:29 PM,3:24,Griffin REBOUND (Off:1 Def:2),,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,122,5,45,1,7:29 PM,3:23,Griffin Out of Bounds - Bad Pass Turnover Turnover (P4.T5),,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0011900024,123,9,1,1,7:29 PM,3:23,,,Mavericks Timeout: Regular (Reg.1 Short 0),,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,124,8,0,1,7:29 PM,3:23,SUB: Morris FOR Griffin,,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,4,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,125,8,0,1,7:29 PM,3:23,,,SUB: Curry FOR Kleber,,,5.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,126,8,0,1,7:29 PM,3:23,,,SUB: Marjanovic FOR Jackson,,,5.0,1628382,Justin Jackson,1610612742.0,Dallas,Mavericks,DAL,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,130,1,1,1,7:32 PM,3:13,,,Curry 24' 3PT Jump Shot (3 PTS) (Finney-Smith 1 AST),22 - 17,-5,5.0,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,132,5,1,1,7:32 PM,2:56,Rose Bad Pass Turnover (P1.T6),,Doncic STEAL (1 STL),,,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,134,5,1,1,7:32 PM,2:49,Kennard STEAL (1 STL),,Curry Bad Pass Turnover (P1.T3),,,5.0,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,4,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,136,5,1,1,7:32 PM,2:45,Kennard Bad Pass Turnover (P1.T7),,Doncic STEAL (2 STL),,,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,138,2,5,1,7:33 PM,2:39,,,MISS Doncic 3' Layup,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,139,4,0,1,7:33 PM,2:37,,,Mavericks Rebound,,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,141,2,5,1,7:33 PM,2:24,Drummond BLOCK (2 BLK),,MISS Marjanovic 4' Layup,,,5.0,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1
+0011900024,143,4,0,1,7:33 PM,2:21,Kennard REBOUND (Off:0 Def:1),,,,,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,144,1,79,1,7:33 PM,2:10,Kennard 27' 3PT Pullup Jump Shot (6 PTS),,,22 - 20,-2,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,145,1,78,1,7:34 PM,1:54,,,Doncic 8' Floating Jump Shot (8 PTS),24 - 20,-4,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,146,6,1,1,7:34 PM,1:40,,,Hardaway Jr. P.FOUL (P1.PN) (D.Guthrie),,,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,148,3,11,1,7:34 PM,1:40,Kennard Free Throw 1 of 2 (7 PTS),,,24 - 21,-3,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,149,8,0,1,7:34 PM,1:40,,,SUB: Brunson FOR Doncic,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,151,3,12,1,7:35 PM,1:40,Kennard Free Throw 2 of 2 (8 PTS),,,24 - 22,-2,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,152,5,45,1,7:35 PM,1:24,,,Curry Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,,5.0,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0011900024,153,2,1,1,7:35 PM,1:06,MISS Rose  3PT Jump Shot,,,,,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,154,4,0,1,7:35 PM,1:04,,,Finney-Smith REBOUND (Off:0 Def:2),,,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,155,1,7,1,7:35 PM,1:00,,,Marjanovic 1' Dunk (2 PTS) (Curry 1 AST),26 - 22,-4,5.0,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,5,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,157,1,6,1,7:36 PM,0:55,Rose 3' Driving Layup (2 PTS),,,26 - 24,-2,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,158,2,79,1,7:36 PM,0:29,Morris BLOCK (1 BLK),,MISS Finney-Smith 22' Pullup Jump Shot,,,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,1
+0011900024,160,4,0,1,7:36 PM,0:28,Kennard REBOUND (Off:0 Def:2),,,,,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,161,5,7,1,7:36 PM,0:28,Kennard Discontinue Dribble Turnover (P2.T8),,,,,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0011900024,162,8,0,1,7:36 PM,0:28,SUB: Maker FOR Drummond,,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,1627748,Thon Maker,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,163,8,0,1,7:36 PM,0:28,,,SUB: Porzingis FOR Finney-Smith,,,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,166,7,1,1,7:37 PM,0:28,,,,,,,1610612765,,,,,,0,0,,,,,,1,0,,,,,,0
+0011900024,167,6,2,1,7:37 PM,0:20,Morris S.FOUL (P1.T3) (D.Guthrie),,,,,4.0,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,169,3,11,1,7:37 PM,0:20,,,Marjanovic Free Throw 1 of 2 (3 PTS),27 - 24,-3,5.0,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,170,8,0,1,7:37 PM,0:20,,,SUB: Finney-Smith FOR Porzingis,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,172,3,12,1,7:38 PM,0:20,,,Marjanovic Free Throw 2 of 2 (4 PTS),28 - 24,-4,5.0,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,173,1,78,1,7:38 PM,0:02,Rose 8' Floating Jump Shot (4 PTS),,,28 - 26,-2,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,174,2,1,1,7:38 PM,0:02,,,MISS Hardaway Jr. 72' 3PT Jump Shot,,,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,175,4,0,1,7:38 PM,0:00,,,Mavericks Rebound,,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,176,13,0,1,7:38 PM,0:00,,,,28 - 26,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0011900024,179,12,0,2,7:41 PM,12:00,,,,28 - 26,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,180,2,79,2,7:41 PM,11:41,,,MISS Porzingis 8' Pullup Jump Shot,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,181,4,0,2,7:41 PM,11:38,Maker REBOUND (Off:0 Def:1),,,,,4.0,1627748,Thon Maker,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,182,2,1,2,7:41 PM,11:32,MISS Maker 26' 3PT Jump Shot,,,,,4.0,1627748,Thon Maker,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,183,4,0,2,7:41 PM,11:29,,,Porzingis REBOUND (Off:0 Def:3),,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,184,1,79,2,7:41 PM,11:19,,,Hardaway Jr. 18' Pullup Jump Shot (2 PTS) (Porzingis 1 AST),30 - 26,-4,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,186,2,63,2,7:42 PM,10:58,MISS Kennard 13' Fadeaway Jumper,,,,,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,187,4,0,2,7:42 PM,10:56,,,Finney-Smith REBOUND (Off:0 Def:3),,,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,188,1,102,2,7:42 PM,10:51,,,Hardaway Jr. 3' Driving Floating Bank Jump Shot (4 PTS),32 - 26,-6,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,189,1,79,2,7:42 PM,10:30,Rose 20' Pullup Jump Shot (6 PTS) (Galloway 1 AST),,,32 - 28,-4,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,4,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,191,1,6,2,7:43 PM,10:15,,,Brunson 2' Driving Layup (2 PTS) (Hardaway Jr. 1 AST),34 - 28,-6,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,193,1,1,2,7:43 PM,9:59,Galloway 27' 3PT Jump Shot (3 PTS) (Rose 1 AST),,,34 - 31,-3,4.0,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,4,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,195,2,1,2,7:43 PM,9:47,,,MISS Porzingis 27' 3PT Jump Shot,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,196,4,0,2,7:43 PM,9:43,Galloway REBOUND (Off:0 Def:1),,,,,4.0,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,197,2,103,2,7:43 PM,9:40,MISS Galloway 28' 3PT Running Pull-Up Jump Shot,,,,,4.0,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,198,4,0,2,7:43 PM,9:36,,,Mavericks Rebound,,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,200,1,6,2,7:44 PM,9:19,,,Brunson 3' Driving Layup (4 PTS),36 - 31,-5,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,201,1,1,2,7:44 PM,9:08,Morris 27' 3PT Jump Shot (3 PTS) (Rose 2 AST),,,36 - 34,-2,4.0,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,4,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,203,1,101,2,7:44 PM,8:48,,,Porzingis 9' Driving Floating Jump Shot (10 PTS),38 - 34,-4,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,204,2,79,2,7:44 PM,8:28,MISS Morris 21' Pullup Jump Shot,,,,,4.0,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,205,4,0,2,7:45 PM,8:26,,,Porzingis REBOUND (Off:0 Def:4),,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,206,1,1,2,7:45 PM,8:20,,,Hardaway Jr. 26' 3PT Jump Shot (7 PTS) (Brunson 1 AST),41 - 34,-7,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,208,9,1,2,7:45 PM,8:14,PISTONS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,209,6,1,2,7:48 PM,8:09,,,Curry P.FOUL (P1.T1) (J.Conley),,,5.0,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,4,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,211,2,1,2,7:48 PM,7:53,MISS Kennard 27' 3PT Jump Shot,,,,,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,212,4,0,2,7:48 PM,7:49,,,Finney-Smith REBOUND (Off:0 Def:4),,,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,213,1,86,2,7:49 PM,7:39,,,Brunson 4' Turnaround Fadeaway (6 PTS) (Hardaway Jr. 2 AST),43 - 34,-9,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,215,6,2,2,7:49 PM,7:33,,,Brunson S.FOUL (P1.T2) (J.DeRosa),,,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,217,3,11,2,7:49 PM,7:33,MISS Rose Free Throw 1 of 2,,,,,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,218,4,1,2,7:49 PM,7:33,PISTONS Rebound,,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,219,3,12,2,7:50 PM,7:33,Rose Free Throw 2 of 2 (7 PTS),,,43 - 35,-8,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,220,2,47,2,7:50 PM,7:18,,,MISS Porzingis 14' Turnaround Jump Shot,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,221,4,0,2,7:50 PM,7:15,Galloway REBOUND (Off:0 Def:2),,,,,4.0,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,222,2,1,2,7:50 PM,6:58,MISS Galloway  3PT Jump Shot,,,,,4.0,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,223,4,0,2,7:50 PM,6:55,,,Hardaway Jr. REBOUND (Off:0 Def:1),,,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,224,1,103,2,7:50 PM,6:51,,,Hardaway Jr. 26' 3PT Running Pull-Up Jump Shot (10 PTS),46 - 35,-11,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,225,2,1,2,7:51 PM,6:33,MISS Rose 19' Jump Shot,,,,,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,226,4,0,2,7:51 PM,6:28,,,Finney-Smith REBOUND (Off:0 Def:5),,,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,227,1,1,2,7:51 PM,6:24,,,Curry 25' 3PT Jump Shot (6 PTS) (Hardaway Jr. 3 AST),49 - 35,-14,5.0,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,229,9,1,2,7:51 PM,6:19,PISTONS Timeout: Regular (Full 3 Short 0),,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,230,8,0,2,7:51 PM,6:19,SUB: Wood FOR Maker,,,,,4.0,1627748,Thon Maker,1610612765.0,Detroit,Pistons,DET,4,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,231,8,0,2,7:51 PM,6:19,SUB: Griffin FOR Morris,,,,,4.0,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,4,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,232,8,0,2,7:51 PM,6:19,SUB: Snell FOR Galloway,,,,,4.0,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,4,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,233,8,0,2,7:51 PM,6:19,SUB: Jackson FOR Rose,,,,,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,4,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,234,8,0,2,7:51 PM,6:19,,,SUB: Marjanovic FOR Finney-Smith,,,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,235,8,0,2,7:51 PM,6:19,,,SUB: Kleber FOR Porzingis,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,242,1,98,2,7:54 PM,6:03,Jackson 2' Cutting Layup Shot (2 PTS) (Wood 1 AST),,,49 - 37,-12,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,4,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,244,5,11,2,7:55 PM,5:35,,,Mavericks Turnover: Shot Clock (T#5),,,3.0,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
+0011900024,245,6,1,2,7:55 PM,5:32,,,Brunson P.FOUL (P2.T3) (J.DeRosa),,,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,247,8,0,2,7:55 PM,5:32,,,SUB: Doncic FOR Hardaway Jr.,,,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,248,8,0,2,7:55 PM,5:32,,,SUB: Jackson FOR Brunson,,,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,1628382,Justin Jackson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,252,8,0,2,7:56 PM,5:26,,,SUB: Wright FOR Curry,,,5.0,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,5,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,254,5,4,2,7:56 PM,5:22,Wood Traveling Turnover (P1.T9),,,,,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0011900024,255,2,1,2,7:56 PM,5:12,,,MISS Jackson 26' 3PT Jump Shot,,,5.0,1628382,Justin Jackson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,256,4,0,2,7:56 PM,5:09,Wood REBOUND (Off:0 Def:1),,,,,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,257,6,1,2,7:57 PM,4:56,,,Kleber P.FOUL (P1.T4) (J.DeRosa),,,5.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,259,8,0,2,7:57 PM,4:56,SUB: Mykhailiuk FOR Kennard,,,,,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,4,1629004,Svi Mykhailiuk,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,261,2,1,2,7:57 PM,4:47,MISS Mykhailiuk 25' 3PT Jump Shot,,,,,4.0,1629004,Svi Mykhailiuk,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,262,4,0,2,7:57 PM,4:44,,,Marjanovic REBOUND (Off:0 Def:1),,,5.0,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,263,1,1,2,7:57 PM,4:36,,,Wright 24' 3PT Jump Shot (5 PTS) (Doncic 3 AST),52 - 37,-15,5.0,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,265,2,1,2,7:58 PM,4:22,MISS Snell 29' 3PT Jump Shot,,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,266,4,0,2,7:58 PM,4:19,,,Wright REBOUND (Off:0 Def:1),,,5.0,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,267,2,80,2,7:58 PM,4:13,,,MISS Doncic 26' 3PT Step Back Jump Shot,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,268,4,0,2,7:58 PM,4:10,Griffin REBOUND (Off:1 Def:3),,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,269,2,80,2,7:58 PM,3:59,MISS Griffin 24' 3PT Step Back Jump Shot,,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,270,4,0,2,7:58 PM,3:57,Wood REBOUND (Off:1 Def:1),,,,,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,271,1,108,2,7:58 PM,3:51,Wood 3' Cutting Dunk Shot (2 PTS) (Griffin 2 AST),,,52 - 39,-13,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,4,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,273,6,4,2,7:59 PM,3:30,,,Marjanovic OFF.Foul (P1) (J.DeRosa),,,5.0,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,275,5,37,2,7:59 PM,3:30,,,Marjanovic Offensive Foul Turnover (P1.T6),,,5.0,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0011900024,276,2,80,2,7:59 PM,3:05,MISS Jackson 21' Step Back Jump Shot,,,,,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,277,4,0,2,7:59 PM,3:01,,,Marjanovic REBOUND (Off:0 Def:2),,,5.0,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,278,2,1,2,7:59 PM,2:56,,,MISS Wright  3PT Jump Shot,,,5.0,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,279,4,0,2,7:59 PM,2:55,,,Doncic REBOUND (Off:1 Def:4),,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,280,6,2,2,8:00 PM,2:55,Jackson S.FOUL (P1.T1) (D.Guthrie),,,,,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,282,3,11,2,8:00 PM,2:55,,,MISS Doncic Free Throw 1 of 2,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,283,4,1,2,8:00 PM,2:55,,,Mavericks Rebound,,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,284,8,0,2,8:00 PM,2:55,,,SUB: Porzingis FOR Jackson,,,5.0,1628382,Justin Jackson,1610612742.0,Dallas,Mavericks,DAL,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,285,8,0,2,8:00 PM,2:55,,,SUB: Hardaway Jr. FOR Marjanovic,,,5.0,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,288,3,12,2,8:00 PM,2:55,,,Doncic Free Throw 2 of 2 (9 PTS),53 - 39,-14,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,289,6,1,2,8:00 PM,2:45,,,Kleber P.FOUL (P2.PN) (D.Guthrie),,,5.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,291,3,11,2,8:01 PM,2:45,Wood Free Throw 1 of 2 (3 PTS),,,53 - 40,-13,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,292,8,0,2,8:01 PM,2:45,,,SUB: Finney-Smith FOR Kleber,,,5.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,294,3,12,2,8:01 PM,2:45,Wood Free Throw 2 of 2 (4 PTS),,,53 - 41,-12,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,295,5,1,2,8:01 PM,2:33,Mykhailiuk STEAL (1 STL),,Doncic Bad Pass Turnover (P1.T7),,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,1629004,Svi Mykhailiuk,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,298,5,1,2,8:02 PM,2:27,Jackson Bad Pass Turnover (P1.T10),,Finney-Smith STEAL (2 STL),,,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,300,2,5,2,8:02 PM,2:21,,,MISS Doncic 2' Layup,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,301,4,0,2,8:02 PM,2:21,,,Porzingis REBOUND (Off:1 Def:4),,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,302,2,97,2,8:02 PM,2:21,,,MISS Porzingis 1' Tip Layup Shot,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,303,4,0,2,8:02 PM,2:21,,,Porzingis REBOUND (Off:2 Def:4),,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,304,2,97,2,8:02 PM,2:21,,,MISS Porzingis 1' Tip Layup Shot,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,305,4,0,2,8:02 PM,2:21,PISTONS Rebound,,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,307,2,1,2,8:02 PM,2:12,MISS Snell  3PT Jump Shot,,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,308,4,0,2,8:02 PM,2:09,Wood REBOUND (Off:2 Def:1),,,,,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,309,1,98,2,8:02 PM,2:04,Snell 3' Cutting Layup Shot (8 PTS) (Wood 2 AST),,,53 - 43,-10,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,4,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,311,6,2,2,8:03 PM,1:58,Mykhailiuk S.FOUL (P1.T2) (J.DeRosa),,,,,4.0,1629004,Svi Mykhailiuk,1610612765.0,Detroit,Pistons,DET,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,313,3,11,2,8:03 PM,1:58,,,Hardaway Jr. Free Throw 1 of 2 (11 PTS),54 - 43,-11,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,314,3,12,2,8:03 PM,1:58,,,Hardaway Jr. Free Throw 2 of 2 (12 PTS),55 - 43,-12,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,315,6,4,2,8:04 PM,1:49,Griffin OFF.Foul (P1) (D.Guthrie),,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,317,5,37,2,8:04 PM,1:49,Griffin Offensive Foul Turnover (P5.T11),,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0011900024,318,1,101,2,8:04 PM,1:32,,,Doncic 11' Driving Floating Jump Shot (11 PTS),57 - 43,-14,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,319,6,1,2,8:04 PM,1:26,,,Hardaway Jr. P.FOUL (P2.PN) (D.Guthrie),,,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,321,3,11,2,8:05 PM,1:26,Jackson Free Throw 1 of 2 (3 PTS),,,57 - 44,-13,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,322,3,12,2,8:05 PM,1:26,Jackson Free Throw 2 of 2 (4 PTS),,,57 - 45,-12,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,323,2,1,2,8:06 PM,1:13,,,MISS Porzingis 26' 3PT Jump Shot,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,324,4,0,2,8:06 PM,1:11,Wood REBOUND (Off:2 Def:2),,,,,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,325,6,1,2,8:06 PM,1:11,,,Doncic P.FOUL (P2.PN) (J.DeRosa),,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,327,3,11,2,8:06 PM,1:11,Griffin Free Throw 1 of 2 (3 PTS),,,57 - 46,-11,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,328,3,12,2,8:06 PM,1:11,Griffin Free Throw 2 of 2 (4 PTS),,,57 - 47,-10,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,329,2,5,2,8:07 PM,0:56,,,MISS Doncic 4' Layup,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,330,4,0,2,8:07 PM,0:54,Wood REBOUND (Off:2 Def:3),,,,,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,331,2,1,2,8:07 PM,0:48,MISS Snell  3PT Jump Shot,,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,332,4,0,2,8:07 PM,0:47,Griffin REBOUND (Off:2 Def:3),,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,333,6,1,2,8:07 PM,0:47,,,Hardaway Jr. P.FOUL (P3.PN) (D.Guthrie),,,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,335,3,11,2,8:07 PM,0:47,Griffin Free Throw 1 of 2 (5 PTS),,,57 - 48,-9,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,336,3,12,2,8:07 PM,0:47,MISS Griffin Free Throw 2 of 2,,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,337,4,0,2,8:07 PM,0:45,,,Doncic REBOUND (Off:1 Def:5),,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,338,6,2,2,8:08 PM,0:29,Wood S.FOUL (P1.PN) (D.Guthrie),,,,,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,5,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,340,3,11,2,8:08 PM,0:29,,,MISS Wright Free Throw 1 of 2,,,5.0,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,341,4,1,2,8:08 PM,0:29,,,Mavericks Rebound,,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,342,8,0,2,8:08 PM,0:29,,,SUB: Jackson FOR Hardaway Jr.,,,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1628382,Justin Jackson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,344,3,12,2,8:09 PM,0:29,,,Wright Free Throw 2 of 2 (6 PTS),58 - 48,-10,5.0,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,345,1,44,2,8:09 PM,0:17,Griffin 3' Reverse Layup (7 PTS) (Mykhailiuk 1 AST),,,58 - 50,-8,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,4,1629004,Svi Mykhailiuk,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,347,6,2,2,8:09 PM,0:02,Wood S.FOUL (P2.PN) (J.Conley),,,,,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,349,3,13,2,8:10 PM,0:02,,,MISS Doncic Free Throw 1 of 3,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,350,4,1,2,8:10 PM,0:02,,,Mavericks Rebound,,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,351,3,14,2,8:10 PM,0:02,,,MISS Doncic Free Throw 2 of 3,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,352,4,1,2,8:10 PM,0:02,,,Mavericks Rebound,,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,355,3,15,2,8:10 PM,0:02,,,Doncic Free Throw 3 of 3 (12 PTS),59 - 50,-9,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,353,8,0,2,8:10 PM,0:02,,,SUB: Kleber FOR Porzingis,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,356,2,1,2,8:10 PM,0:01,MISS Jackson 52' 3PT Jump Shot,,,,,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,357,4,0,2,8:10 PM,0:00,PISTONS Rebound,,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,358,13,0,2,8:10 PM,0:00,,,,59 - 50,-9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0011900024,365,12,0,3,8:26 PM,12:00,,,,59 - 50,-9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,367,2,1,3,8:27 PM,11:48,,,MISS Kleber 28' 3PT Jump Shot,,,5.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,368,4,0,3,8:27 PM,11:46,Brown REBOUND (Off:1 Def:2),,,,,4.0,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,370,2,5,3,8:27 PM,11:36,MISS Drummond 1' Layup,,Kleber BLOCK (2 BLK),,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,1
+0011900024,372,4,0,3,8:27 PM,11:35,PISTONS Rebound,,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,374,5,45,3,8:27 PM,11:33,Jackson Out of Bounds - Bad Pass Turnover Turnover (P2.T12),,,,,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0011900024,375,1,79,3,8:27 PM,11:16,,,Porzingis 19' Pullup Jump Shot (12 PTS) (Doncic 4 AST),61 - 50,-11,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,377,5,2,3,8:28 PM,11:03,Drummond Lost Ball Turnover (P1.T13),,Doncic STEAL (3 STL),,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,379,1,7,3,8:28 PM,10:57,,,Porzingis 3' Dunk (14 PTS),63 - 50,-13,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,380,2,1,3,8:28 PM,10:36,MISS Snell 26' 3PT Jump Shot,,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,381,4,0,3,8:28 PM,10:29,,,Wright REBOUND (Off:0 Def:2),,,5.0,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,382,1,6,3,8:28 PM,10:21,,,Doncic 2' Driving Layup (14 PTS),65 - 50,-15,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,383,9,1,3,8:28 PM,10:21,PISTONS Timeout: Regular (Full 4 Short 0),,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,385,1,1,3,8:31 PM,10:05,Jackson 27' 3PT Jump Shot (7 PTS) (Griffin 3 AST),,,65 - 53,-12,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,4,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,387,2,80,3,8:32 PM,9:46,,,MISS Doncic 31' 3PT Step Back Jump Shot,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,388,4,0,3,8:32 PM,9:43,Drummond REBOUND (Off:1 Def:5),,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,389,2,57,3,8:32 PM,9:40,MISS Drummond 3' Driving Hook Shot,,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,390,4,0,3,8:32 PM,9:38,Drummond REBOUND (Off:2 Def:5),,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,391,5,40,3,8:32 PM,9:36,Snell Out of Bounds Lost Ball Turnover (P1.T14),,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0011900024,392,2,1,3,8:32 PM,9:27,,,MISS Porzingis 29' 3PT Jump Shot,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,393,4,0,3,8:32 PM,9:23,Jackson REBOUND (Off:0 Def:1),,,,,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,394,1,6,3,8:32 PM,9:13,Griffin 3' Driving Layup (9 PTS),,,65 - 55,-10,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,395,9,1,3,8:33 PM,9:13,,,Mavericks Timeout: Regular (Reg.2 Short 0),,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,396,2,6,3,8:36 PM,8:51,,,MISS Porzingis 3' Driving Layup,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,397,4,0,3,8:36 PM,8:45,,,Kleber REBOUND (Off:1 Def:1),,,5.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,398,1,97,3,8:36 PM,8:45,,,Kleber 1' Tip Layup Shot (2 PTS),67 - 55,-12,5.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,399,1,6,3,8:36 PM,8:37,Griffin 1' Driving Layup (11 PTS),,,67 - 57,-10,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,400,6,1,3,8:36 PM,8:24,Brown P.FOUL (P2.T1) (D.Guthrie),,,,,4.0,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,402,1,1,3,8:37 PM,8:09,,,Doncic 29' 3PT Jump Shot (17 PTS) (Porzingis 2 AST),70 - 57,-13,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,404,2,1,3,8:37 PM,7:57,MISS Snell  3PT Jump Shot,,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,405,4,0,3,8:37 PM,7:55,Brown REBOUND (Off:2 Def:2),,,,,4.0,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,406,1,5,3,8:37 PM,7:54,Brown 3' Layup (2 PTS),,,70 - 59,-11,4.0,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,409,6,18,3,8:37 PM,7:50,,,,,,,0,,,,,,0,0,,,,,,1,0,,,,,,1
+0011900024,410,3,16,3,8:38 PM,7:50,,,Porzingis Free Throw Technical (15 PTS),71 - 59,-12,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,411,2,101,3,8:38 PM,7:36,Drummond BLOCK (3 BLK),,MISS Doncic 8' Driving Floating Jump Shot,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1
+0011900024,413,4,0,3,8:38 PM,7:34,Brown REBOUND (Off:2 Def:3),,,,,4.0,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,414,1,52,3,8:38 PM,7:30,Drummond 1' Alley Oop Dunk (8 PTS) (Brown 2 AST),,,71 - 61,-10,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,416,5,40,3,8:38 PM,7:17,,,Wright Out of Bounds Lost Ball Turnover (P2.T8),,,5.0,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0011900024,417,1,1,3,8:38 PM,7:06,Griffin 26' 3PT Jump Shot (14 PTS) (Jackson 2 AST),,,71 - 64,-7,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,4,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,419,9,1,3,8:39 PM,7:04,,,Mavericks Timeout: Regular (Reg.3 Short 0),,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,420,6,2,3,8:40 PM,6:57,Brown S.FOUL (P3.T2) (J.DeRosa),,,,,4.0,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,422,9,1,3,8:41 PM,6:57,PISTONS Timeout: Regular (Full 5 Short 0),,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,423,18,4,3,8:42 PM,6:57,,,,71 - 64,-7,0.0,420,Jayson Williams,,,,,0,0,,,,,,1,0,,,,,,0
+0011900024,424,3,11,3,8:43 PM,6:57,,,MISS Doncic Free Throw 1 of 2,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,425,4,1,3,8:43 PM,6:57,,,Mavericks Rebound,,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,426,3,12,3,8:43 PM,6:57,,,Doncic Free Throw 2 of 2 (18 PTS),72 - 64,-8,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,427,1,6,3,8:44 PM,6:36,Drummond 3' Driving Layup (10 PTS) (Snell 2 AST),,,72 - 66,-6,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,429,2,1,3,8:44 PM,6:21,,,MISS Porzingis 8' Jump Shot,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,430,4,0,3,8:44 PM,6:18,Snell REBOUND (Off:0 Def:3),,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,431,1,1,3,8:44 PM,6:11,Jackson 26' 3PT Jump Shot (10 PTS) (Snell 3 AST),,,72 - 69,-3,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,4,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,433,2,1,3,8:44 PM,5:57,,,MISS Porzingis 28' 3PT Jump Shot,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,434,4,0,3,8:44 PM,5:51,Snell REBOUND (Off:0 Def:4),,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,435,2,79,3,8:45 PM,5:44,MISS Jackson 26' 3PT Pullup Jump Shot,,,,,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,436,4,0,3,8:45 PM,5:42,,,Porzingis REBOUND (Off:2 Def:5),,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,437,1,43,3,8:45 PM,5:34,,,Porzingis 3' Alley Oop Layup (17 PTS) (Doncic 5 AST),74 - 69,-5,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,439,6,2,3,8:45 PM,5:34,Brown S.FOUL (P4.T3) (J.DeRosa),,,,,4.0,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,441,8,0,3,8:45 PM,5:34,,,SUB: Hardaway Jr. FOR Jackson,,,5.0,1628382,Justin Jackson,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,442,8,0,3,8:45 PM,5:34,,,SUB: Finney-Smith FOR Kleber,,,5.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,445,3,10,3,8:45 PM,5:34,,,Porzingis Free Throw 1 of 1 (18 PTS),75 - 69,-6,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,446,5,4,3,8:46 PM,5:17,Drummond Traveling Turnover (P2.T15),,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0011900024,447,8,0,3,8:46 PM,5:17,,,SUB: Marjanovic FOR Porzingis,,,5.0,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,449,1,1,3,8:46 PM,5:08,,,Doncic 27' 3PT Jump Shot (21 PTS) (Wright 3 AST),78 - 69,-9,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,451,1,79,3,8:46 PM,4:54,Snell 24' 3PT Pullup Jump Shot (11 PTS) (Jackson 3 AST),,,78 - 72,-6,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,4,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,453,6,4,3,8:46 PM,4:47,,,Doncic OFF.Foul (P3) (J.Conley),,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,455,5,37,3,8:46 PM,4:47,,,Doncic Offensive Foul Turnover (P2.T9),,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0011900024,456,8,0,3,8:47 PM,4:47,SUB: Kennard FOR Brown,,,,,4.0,1628971,Bruce Brown,1610612765.0,Detroit,Pistons,DET,4,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,458,2,79,3,8:47 PM,4:35,MISS Griffin 27' 3PT Pullup Jump Shot,,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,459,4,0,3,8:47 PM,4:33,Drummond REBOUND (Off:3 Def:5),,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,460,6,2,3,8:47 PM,4:32,,,Finney-Smith S.FOUL (P2.T1) (J.Conley),,,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,462,3,11,3,8:48 PM,4:32,MISS Drummond Free Throw 1 of 2,,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,463,4,1,3,8:48 PM,4:32,PISTONS Rebound,,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,464,8,0,3,8:48 PM,4:32,,,SUB: Brunson FOR Wright,,,5.0,1626153,Delon Wright,1610612742.0,Dallas,Mavericks,DAL,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,466,8,0,3,8:48 PM,4:32,SUB: Rose FOR Snell,,,,,4.0,203503,Tony Snell,1610612765.0,Detroit,Pistons,DET,4,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,468,3,12,3,8:48 PM,4:32,Drummond Free Throw 2 of 2 (11 PTS),,,78 - 73,-5,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,469,2,1,3,8:48 PM,4:23,,,MISS Doncic 27' 3PT Jump Shot,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,470,4,0,3,8:48 PM,4:22,PISTONS Rebound,,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,472,1,1,3,8:49 PM,4:10,Jackson 24' 3PT Jump Shot (13 PTS) (Drummond 3 AST),,,78 - 76,-2,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,474,2,102,3,8:49 PM,3:45,,,MISS Finney-Smith 8' Driving Floating Bank Jump Shot,,,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,475,4,0,3,8:49 PM,3:43,,,Finney-Smith REBOUND (Off:1 Def:5),,,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,476,1,97,3,8:49 PM,3:38,,,Finney-Smith 1' Tip Layup Shot (5 PTS),80 - 76,-4,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,477,2,1,3,8:49 PM,3:10,MISS Griffin 26' 3PT Jump Shot,,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,478,4,0,3,8:49 PM,3:10,,,Doncic REBOUND (Off:1 Def:6),,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,479,6,2,3,8:50 PM,3:10,Jackson S.FOUL (P2.T4) (J.Conley),,,,,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,481,3,11,3,8:50 PM,3:10,,,Finney-Smith Free Throw 1 of 2 (6 PTS),81 - 76,-5,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,482,3,12,3,8:50 PM,3:10,,,Finney-Smith Free Throw 2 of 2 (7 PTS),82 - 76,-6,5.0,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,483,1,1,3,8:51 PM,2:53,Griffin 26' 3PT Jump Shot (17 PTS) (Kennard 1 AST),,,82 - 79,-3,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,4,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,485,1,78,3,8:51 PM,2:30,,,Brunson 7' Floating Jump Shot (8 PTS),84 - 79,-5,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,486,1,7,3,8:51 PM,2:11,Drummond 2' Dunk (13 PTS) (Jackson 4 AST),,,84 - 81,-3,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,490,9,1,3,8:52 PM,1:45,,,Mavericks Timeout: Regular (Reg.4 Short 0),,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,491,6,4,3,8:54 PM,1:45,,,Marjanovic OFF.Foul (P2) (D.Guthrie),,,5.0,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,493,5,37,3,8:54 PM,1:45,,,Marjanovic Offensive Foul Turnover (P2.T10),,,5.0,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0011900024,494,1,103,3,8:54 PM,1:29,Rose 15' Running Pull-Up Jump Shot (9 PTS) (Jackson 5 AST),,,84 - 83,-1,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,4,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,496,1,79,3,8:55 PM,1:10,,,Hardaway Jr. 14' Pullup Jump Shot (14 PTS),86 - 83,-3,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,497,1,79,3,8:55 PM,1:00,Kennard 26' 3PT Pullup Jump Shot (11 PTS),,,86 - 86,TIE,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,498,2,80,3,8:55 PM,0:37,,,MISS Doncic 32' 3PT Step Back Jump Shot,,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,499,4,0,3,8:55 PM,0:37,PISTONS Rebound,,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,501,2,1,3,8:56 PM,0:26,MISS Griffin 26' 3PT Jump Shot,,,,,4.0,201933,Blake Griffin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,502,4,0,3,8:56 PM,0:23,Kennard REBOUND (Off:1 Def:2),,,,,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,503,2,63,3,8:56 PM,0:17,MISS Jackson 5' Fadeaway Jumper,,,,,4.0,202704,Reggie Jackson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,504,4,0,3,8:56 PM,0:14,,,Doncic REBOUND (Off:1 Def:7),,,5.0,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,505,2,1,3,8:56 PM,0:04,,,MISS Hardaway Jr. 27' 3PT Jump Shot,,,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,506,4,0,3,8:56 PM,0:01,Drummond REBOUND (Off:3 Def:6),,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,507,2,1,3,8:56 PM,0:00,MISS Drummond 75' 3PT Jump Shot,,,,,4.0,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,508,4,0,3,8:56 PM,0:00,PISTONS Rebound,,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,509,13,0,3,8:57 PM,0:00,,,,86 - 86,TIE,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0011900024,522,12,0,4,8:59 PM,12:00,,,,86 - 86,TIE,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,523,1,58,4,8:59 PM,11:44,Maker 2' Turnaround Hook Shot (2 PTS) (Morris 1 AST),,,86 - 88,2,4.0,1627748,Thon Maker,1610612765.0,Detroit,Pistons,DET,4,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,525,5,1,4,9:00 PM,11:25,Maker STEAL (1 STL),,Brunson Bad Pass Turnover (P1.T11),,,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,1627748,Thon Maker,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,527,1,1,4,9:00 PM,11:19,Galloway 24' 3PT Jump Shot (6 PTS) (Rose 3 AST),,,86 - 91,5,4.0,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,4,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,529,2,73,4,9:00 PM,11:05,,,MISS Brunson 3' Driving Reverse Layup,,,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,530,4,0,4,9:00 PM,11:03,Kennard REBOUND (Off:1 Def:3),,,,,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,531,1,96,4,9:00 PM,10:54,Morris 8' Turnaround Bank Hook Shot (5 PTS),,,86 - 93,7,4.0,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,532,9,1,4,9:00 PM,10:54,,,Mavericks Timeout: Regular (Reg.5 Short 0),,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,533,6,1,4,9:03 PM,10:44,Rose P.FOUL (P1.T1) (J.Conley),,,,,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,535,2,1,4,9:04 PM,10:36,,,MISS Kleber 27' 3PT Jump Shot,,,5.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,536,4,0,4,9:04 PM,10:32,Morris REBOUND (Off:0 Def:1),,,,,4.0,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,537,1,80,4,9:04 PM,10:19,Rose 12' Step Back Jump Shot (11 PTS),,,86 - 95,9,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,538,1,79,4,9:04 PM,10:02,,,Hardaway Jr. 28' 3PT Pullup Jump Shot (17 PTS) (Brunson 2 AST),89 - 95,6,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,540,2,79,4,9:05 PM,9:37,MISS Rose 18' Pullup Jump Shot,,,,,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,541,4,0,4,9:05 PM,9:35,,,Kleber REBOUND (Off:1 Def:2),,,5.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,542,6,1,4,9:05 PM,9:30,Maker P.FOUL (P1.T2) (D.Guthrie),,,,,4.0,1627748,Thon Maker,1610612765.0,Detroit,Pistons,DET,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,544,2,6,4,9:05 PM,9:18,Maker BLOCK (1 BLK),,MISS Curry 7' Driving Layup,,,5.0,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1627748,Thon Maker,1610612765.0,Detroit,Pistons,DET,1
+0011900024,546,4,0,4,9:05 PM,9:18,PISTONS Rebound,,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,548,2,1,4,9:06 PM,9:03,MISS Morris 27' 3PT Jump Shot,,,,,4.0,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,549,4,0,4,9:06 PM,9:01,,,Brunson REBOUND (Off:0 Def:1),,,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,550,1,102,4,9:06 PM,8:55,,,Jackson 8' Driving Floating Bank Jump Shot (2 PTS) (Brunson 3 AST),91 - 95,4,5.0,1628382,Justin Jackson,1610612742.0,Dallas,Mavericks,DAL,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,552,1,6,4,9:06 PM,8:42,Rose 3' Driving Layup (13 PTS),,,91 - 97,6,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,553,2,80,4,9:06 PM,8:23,,,MISS Hardaway Jr. 27' 3PT Step Back Jump Shot,,,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,554,4,0,4,9:06 PM,8:20,Maker REBOUND (Off:0 Def:2),,,,,4.0,1627748,Thon Maker,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,555,6,1,4,9:07 PM,8:10,,,Brunson P.FOUL (P3.T1) (J.DeRosa),,,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,4,1627748,Thon Maker,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,557,8,0,4,9:07 PM,8:10,,,SUB: Cleveland FOR Kleber,,,5.0,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,559,1,1,4,9:07 PM,7:59,Kennard 26' 3PT Jump Shot (14 PTS) (Galloway 2 AST),,,91 - 100,9,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,4,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,561,2,102,4,9:07 PM,7:46,,,MISS Brunson 3' Driving Floating Bank Jump Shot,,,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,562,4,0,4,9:07 PM,7:44,Rose REBOUND (Off:0 Def:1),,,,,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,563,1,41,4,9:07 PM,7:41,Rose 1' Running Layup (15 PTS),,,91 - 102,11,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,564,6,2,4,9:07 PM,7:41,,,Cleveland S.FOUL (P1.T2) (J.Conley),,,5.0,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,4,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,566,9,1,4,9:08 PM,7:41,,,Mavericks Timeout: Regular (Reg.6 Short 0),,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,567,3,10,4,9:11 PM,7:41,Rose Free Throw 1 of 1 (16 PTS),,,91 - 103,12,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,568,6,2,4,9:11 PM,7:20,Galloway S.FOUL (P1.T3) (J.Conley),,,,,4.0,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,5,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,570,3,11,4,9:12 PM,7:20,,,Curry Free Throw 1 of 2 (7 PTS),92 - 103,11,5.0,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,571,3,12,4,9:12 PM,7:20,,,Curry Free Throw 2 of 2 (8 PTS),93 - 103,10,5.0,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,572,2,1,4,9:12 PM,7:05,MISS Galloway  3PT Jump Shot,,,,,4.0,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,573,4,0,4,9:12 PM,7:03,,,Brunson REBOUND (Off:0 Def:2),,,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,575,6,2,4,9:12 PM,6:57,Rose S.FOUL (P2.T4) (J.Conley),,,,,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,577,3,13,4,9:13 PM,6:57,,,Brunson Free Throw 1 of 3 (9 PTS),94 - 103,9,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,578,3,14,4,9:13 PM,6:57,,,Brunson Free Throw 2 of 3 (10 PTS),95 - 103,8,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,579,3,15,4,9:13 PM,6:57,,,Brunson Free Throw 3 of 3 (11 PTS),96 - 103,7,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,580,1,98,4,9:14 PM,6:45,Maker 2' Cutting Layup Shot (4 PTS) (Rose 4 AST),,,96 - 105,9,4.0,1627748,Thon Maker,1610612765.0,Detroit,Pistons,DET,4,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,582,6,2,4,9:14 PM,6:45,,,Jackson S.FOUL (P1.T3) (J.Conley),,,5.0,1628382,Justin Jackson,1610612742.0,Dallas,Mavericks,DAL,4,1627748,Thon Maker,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,584,8,0,4,9:14 PM,6:45,,,SUB: Reaves FOR Hardaway Jr.,,,5.0,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1629729,Josh Reaves,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,585,8,0,4,9:14 PM,6:45,,,SUB: Broekhoff FOR Brunson,,,5.0,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,586,8,0,4,9:14 PM,6:45,,,SUB: Roby FOR Jackson,,,5.0,1628382,Justin Jackson,1610612742.0,Dallas,Mavericks,DAL,5,1629676,Isaiah Roby,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,590,3,10,4,9:14 PM,6:45,Maker Free Throw 1 of 1 (5 PTS),,,96 - 106,10,4.0,1627748,Thon Maker,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,591,6,2,4,9:15 PM,6:32,Rose S.FOUL (P3.PN) (D.Guthrie),,,,,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,5,1629729,Josh Reaves,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,593,3,13,4,9:15 PM,6:32,,,MISS Reaves Free Throw 1 of 3,,,5.0,1629729,Josh Reaves,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,594,4,1,4,9:15 PM,6:32,,,Mavericks Rebound,,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,595,3,14,4,9:15 PM,6:32,,,Reaves Free Throw 2 of 3 (1 PTS),97 - 106,9,5.0,1629729,Josh Reaves,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,596,3,15,4,9:16 PM,6:32,,,Reaves Free Throw 3 of 3 (2 PTS),98 - 106,8,5.0,1629729,Josh Reaves,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,597,2,80,4,9:16 PM,6:08,MISS Galloway 13' Step Back Jump Shot,,,,,4.0,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,598,4,0,4,9:16 PM,6:08,,,Mavericks Rebound,,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,600,1,7,4,9:17 PM,5:50,,,Cleveland 3' Dunk (2 PTS),100 - 106,6,5.0,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,601,5,45,4,9:17 PM,5:33,Morris Out of Bounds - Bad Pass Turnover Turnover (P1.T16),,,,,4.0,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0011900024,602,6,4,4,9:18 PM,5:18,,,Cleveland OFF.Foul (P2) (J.DeRosa),,,5.0,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,4,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,604,5,37,4,9:18 PM,5:18,,,Cleveland Offensive Foul Turnover (P1.T12),,,5.0,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0011900024,605,2,5,4,9:18 PM,5:02,MISS Morris 5' Layup,,,,,4.0,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,606,4,0,4,9:18 PM,5:00,Galloway REBOUND (Off:1 Def:2),,,,,4.0,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,607,1,5,4,9:18 PM,4:56,Morris 1' Layup (7 PTS),,,100 - 108,8,4.0,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,608,1,7,4,9:18 PM,4:46,,,Roby 2' Dunk (2 PTS) (Reaves 1 AST),102 - 108,6,5.0,1629676,Isaiah Roby,1610612742.0,Dallas,Mavericks,DAL,5,1629729,Josh Reaves,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,610,9,1,4,9:18 PM,4:46,PISTONS Timeout: Regular (Full 6 Short 0),,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,611,1,73,4,9:20 PM,4:34,Kennard 2' Driving Reverse Layup (16 PTS),,,102 - 110,8,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,612,6,1,4,9:20 PM,4:23,Galloway P.FOUL (P2.PN) (D.Guthrie),,,,,4.0,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,5,1629676,Isaiah Roby,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,614,18,1,4,9:21 PM,4:23,,,,102 - 110,8,0.0,612,,,,,,0,0,,,,,,1,0,,,,,,0
+0011900024,615,3,11,4,9:22 PM,4:23,,,Roby Free Throw 1 of 2 (3 PTS),103 - 110,7,5.0,1629676,Isaiah Roby,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,616,3,12,4,9:22 PM,4:23,,,Roby Free Throw 2 of 2 (4 PTS),104 - 110,6,5.0,1629676,Isaiah Roby,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,617,1,79,4,9:22 PM,4:07,Rose 16' Pullup Jump Shot (18 PTS) (Maker 1 AST),,,104 - 112,8,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,4,1627748,Thon Maker,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,619,5,4,4,9:23 PM,3:56,,,Roby Traveling Turnover (P1.T13),,,5.0,1629676,Isaiah Roby,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0011900024,620,1,58,4,9:23 PM,3:36,Morris 5' Turnaround Hook Shot (9 PTS) (Kennard 2 AST),,,104 - 114,10,4.0,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,4,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,622,1,6,4,9:23 PM,3:27,,,Cleveland 2' Driving Layup (4 PTS) (Reaves 2 AST),106 - 114,8,5.0,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,5,1629729,Josh Reaves,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,624,1,1,4,9:24 PM,3:07,Kennard 26' 3PT Jump Shot (19 PTS) (Rose 5 AST),,,106 - 117,11,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,4,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,626,2,6,4,9:24 PM,2:57,,,MISS Curry 5' Driving Layup,,,5.0,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,627,4,0,4,9:24 PM,2:55,Rose REBOUND (Off:0 Def:2),,,,,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,628,2,1,4,9:24 PM,2:49,MISS Morris 25' 3PT Jump Shot,,,,,4.0,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,629,4,0,4,9:24 PM,2:47,,,Reaves REBOUND (Off:0 Def:1),,,5.0,1629729,Josh Reaves,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,630,2,1,4,9:24 PM,2:43,,,MISS Broekhoff 26' 3PT Jump Shot,,,5.0,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,631,4,0,4,9:24 PM,2:42,,,Mavericks Rebound,,,3.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,632,6,1,4,9:24 PM,2:42,Rose P.FOUL (P4.PN) (J.DeRosa),,,,,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,5,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,634,3,11,4,9:24 PM,2:42,,,Cleveland Free Throw 1 of 2 (5 PTS),107 - 117,10,5.0,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,635,8,0,4,9:24 PM,2:42,,,SUB: Mathias FOR Curry,,,5.0,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,5,1629751,Dakota Mathias,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,636,8,0,4,9:24 PM,2:42,,,SUB: Baba FOR Reaves,,,5.0,1629729,Josh Reaves,1610612742.0,Dallas,Mavericks,DAL,5,1629819,Yudai Baba,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,639,8,0,4,9:25 PM,2:42,SUB: Frazier FOR Kennard,,,,,4.0,1628379,Luke Kennard,1610612765.0,Detroit,Pistons,DET,4,204025,Tim Frazier,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,640,8,0,4,9:25 PM,2:42,SUB: Wood FOR Maker,,,,,4.0,1627748,Thon Maker,1610612765.0,Detroit,Pistons,DET,4,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,641,8,0,4,9:25 PM,2:42,SUB: Mykhailiuk FOR Rose,,,,,4.0,201565,Derrick Rose,1610612765.0,Detroit,Pistons,DET,4,1629004,Svi Mykhailiuk,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,642,8,0,4,9:25 PM,2:42,,,SUB: Holman FOR Roby,,,5.0,1629676,Isaiah Roby,1610612742.0,Dallas,Mavericks,DAL,5,1629689,Aric Holman,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,647,3,12,4,9:25 PM,2:42,,,Cleveland Free Throw 2 of 2 (6 PTS),108 - 117,9,5.0,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,649,5,1,4,9:26 PM,2:22,Galloway Bad Pass Turnover (P1.T17),,Cleveland STEAL (1 STL),,,4.0,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,5,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,651,5,1,4,9:26 PM,2:17,Frazier STEAL (1 STL),,Holman Bad Pass Turnover (P1.T14),,,5.0,1629689,Aric Holman,1610612742.0,Dallas,Mavericks,DAL,4,204025,Tim Frazier,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,653,1,1,4,9:26 PM,2:10,Morris 26' 3PT Jump Shot (12 PTS) (Frazier 1 AST),,,108 - 120,12,4.0,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,4,204025,Tim Frazier,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0011900024,656,8,0,4,9:27 PM,1:53,SUB: Doumbouya FOR Morris,,,,,4.0,202693,Markieff Morris,1610612765.0,Detroit,Pistons,DET,4,1629635,Sekou Doumbouya,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,657,8,0,4,9:27 PM,1:53,SUB: Thomas FOR Galloway,,,,,4.0,204038,Langston Galloway,1610612765.0,Detroit,Pistons,DET,4,1629017,Khyri Thomas,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011900024,660,1,1,4,9:27 PM,1:43,,,Holman 26' 3PT Jump Shot (3 PTS) (Mathias 1 AST),111 - 120,9,5.0,1629689,Aric Holman,1610612742.0,Dallas,Mavericks,DAL,5,1629751,Dakota Mathias,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,662,5,2,4,9:27 PM,1:32,Wood Lost Ball Turnover (P2.T18),,Cleveland STEAL (2 STL),,,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,5,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,664,6,2,4,9:27 PM,1:27,Mykhailiuk S.FOUL (P2.PN) (J.Conley),,,,,4.0,1629004,Svi Mykhailiuk,1610612765.0,Detroit,Pistons,DET,5,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,666,3,11,4,9:28 PM,1:27,,,Cleveland Free Throw 1 of 2 (7 PTS),112 - 120,8,5.0,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,667,8,0,4,9:28 PM,1:27,,,SUB: Reaves FOR Broekhoff,,,5.0,1629151,Ryan Broekhoff,1610612742.0,Dallas,Mavericks,DAL,5,1629729,Josh Reaves,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011900024,669,3,12,4,9:28 PM,1:27,,,Cleveland Free Throw 2 of 2 (8 PTS),113 - 120,7,5.0,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011900024,670,2,78,4,9:29 PM,1:06,MISS Thomas 6' Floating Jump Shot,,,,,4.0,1629017,Khyri Thomas,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,671,4,0,4,9:29 PM,1:05,Wood REBOUND (Off:3 Def:3),,,,,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,672,6,2,4,9:29 PM,1:05,,,Holman S.FOUL (P1.T4) (D.Guthrie),,,5.0,1629689,Aric Holman,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,674,3,11,4,9:29 PM,1:05,MISS Wood Free Throw 1 of 2,,,,,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,675,4,1,4,9:29 PM,1:05,PISTONS Rebound,,,,,2.0,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900024,676,3,12,4,9:29 PM,1:05,Wood Free Throw 2 of 2 (5 PTS),,,113 - 121,8,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011900024,677,6,4,4,9:30 PM,0:55,,,Holman OFF.Foul (P2) (J.Conley),,,5.0,1629689,Aric Holman,1610612742.0,Dallas,Mavericks,DAL,4,204025,Tim Frazier,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0011900024,679,5,37,4,9:30 PM,0:55,,,Holman Offensive Foul Turnover (P2.T15),,,5.0,1629689,Aric Holman,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0011900024,680,1,1,4,9:30 PM,0:42,Thomas 26' 3PT Jump Shot (3 PTS),,,113 - 124,11,4.0,1629017,Khyri Thomas,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,681,1,1,4,9:30 PM,0:32,,,Holman 27' 3PT Jump Shot (6 PTS) (Baba 1 AST),116 - 124,8,5.0,1629689,Aric Holman,1610612742.0,Dallas,Mavericks,DAL,5,1629819,Yudai Baba,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0011900024,683,5,45,4,9:31 PM,0:18,Thomas Out of Bounds - Bad Pass Turnover Turnover (P1.T19),,,,,4.0,1629017,Khyri Thomas,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0011900024,684,6,1,4,9:31 PM,0:08,Doumbouya P.FOUL (P1.PN) (J.DeRosa),,,,,4.0,1629635,Sekou Doumbouya,1610612765.0,Detroit,Pistons,DET,5,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0011900024,686,3,11,4,9:31 PM,0:08,,,Cleveland Free Throw 1 of 2 (9 PTS),117 - 124,7,5.0,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,687,3,12,4,9:32 PM,0:08,,,MISS Cleveland Free Throw 2 of 2,,,5.0,1628499,Antonius Cleveland,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0011900024,688,4,0,4,9:32 PM,0:05,Wood REBOUND (Off:3 Def:4),,,,,4.0,1626174,Christian Wood,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0011900024,689,13,0,4,9:32 PM,0:00,,,,117 - 124,7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

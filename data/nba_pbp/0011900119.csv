@@ -1,0 +1,513 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011900119,2,12,0,1,1:37 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,4,10,0,1,1:37 PM,12:00,Jump Ball Theis vs. Ayton: Tip to Rubio,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,1
+0011900119,7,5,1,1,1:37 PM,11:51,Theis STEAL (1 STL),,Booker Bad Pass Turnover (P1.T1),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,9,1,101,1,1:37 PM,11:44,Brown 3' Driving Floating Jump Shot (2 PTS),,,0 - 2,2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,10,2,1,1,1:37 PM,11:26,,,MISS Booker 11' Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,11,4,0,1,1:37 PM,11:22,Hayward REBOUND (Off:0 Def:1),,,,,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,12,5,2,1,1:37 PM,11:18,Tatum Lost Ball Turnover (P1.T1),,Rubio STEAL (1 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,14,6,1,1,1:38 PM,11:09,Walker P.FOUL (P1.T1) (T.Brothers),,,,,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,16,2,79,1,1:38 PM,10:57,,,MISS Rubio 27' 3PT Pullup Jump Shot,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,17,4,0,1,1:38 PM,10:53,Hayward REBOUND (Off:0 Def:2),,,,,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,18,1,6,1,1:38 PM,10:46,Walker 2' Driving Layup (2 PTS),,,0 - 4,4,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,19,6,2,1,1:38 PM,10:46,,,Ayton S.FOUL (P1.T1) (K.Lane),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,21,3,10,1,1:39 PM,10:46,MISS Walker Free Throw 1 of 1,,,,,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,22,4,0,1,1:39 PM,10:44,,,Saric REBOUND (Off:0 Def:1),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,23,2,1,1,1:39 PM,10:34,,,MISS Bridges 24' 3PT Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,24,4,0,1,1:39 PM,10:31,,,Ayton REBOUND (Off:1 Def:0),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,25,2,1,1,1:39 PM,10:27,,,MISS Booker 25' 3PT Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,26,4,0,1,1:39 PM,10:24,Theis REBOUND (Off:0 Def:1),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,27,6,1,1,1:39 PM,10:23,,,Rubio P.FOUL (P1.T2) (N.Buchert),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,29,5,1,1,1:40 PM,10:15,Theis Bad Pass Turnover (P1.T2),,Ayton STEAL (1 STL),,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,31,2,103,1,1:40 PM,10:12,,,MISS Booker 26' 3PT Running Pull-Up Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,32,4,0,1,1:40 PM,10:09,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,34,1,1,1,1:40 PM,9:54,Brown 24' 3PT Jump Shot (5 PTS) (Hayward 1 AST),,,0 - 7,7,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,36,5,40,1,1:40 PM,9:43,,,Ayton Out of Bounds Lost Ball Turnover (P1.T2),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0011900119,37,2,1,1,1:41 PM,9:28,MISS Tatum 22' Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,38,4,0,1,1:41 PM,9:25,,,Saric REBOUND (Off:0 Def:2),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,39,2,1,1,1:41 PM,9:15,,,MISS Booker 26' 3PT Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,40,4,0,1,1:41 PM,9:11,Tatum REBOUND (Off:0 Def:1),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,41,2,1,1,1:41 PM,9:04,MISS Brown  3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,42,4,0,1,1:41 PM,9:01,,,Ayton REBOUND (Off:1 Def:1),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,43,1,5,1,1:41 PM,8:53,,,Saric 2' Layup (2 PTS) (Rubio 1 AST),2 - 7,5,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,45,2,79,1,1:42 PM,8:39,MISS Walker 25' 3PT Pullup Jump Shot,,,,,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,46,4,0,1,1:42 PM,8:36,,,Ayton REBOUND (Off:1 Def:2),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,47,6,2,1,1:42 PM,8:31,Theis S.FOUL (P1.T2) (K.Lane),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,49,3,11,1,1:42 PM,8:31,,,Booker Free Throw 1 of 2 (1 PTS),3 - 7,4,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,50,3,12,1,1:42 PM,8:31,,,Booker Free Throw 2 of 2 (2 PTS),4 - 7,3,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,51,2,80,1,1:43 PM,8:15,MISS Tatum 17' Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,52,4,0,1,1:43 PM,8:12,Tatum REBOUND (Off:1 Def:1),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,53,2,1,1,1:43 PM,8:09,MISS Hayward 27' 3PT Jump Shot,,,,,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,54,4,0,1,1:43 PM,8:05,Tatum REBOUND (Off:2 Def:1),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,55,2,1,1,1:43 PM,8:02,MISS Tatum 12' Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,56,4,0,1,1:43 PM,8:00,,,Rubio REBOUND (Off:0 Def:1),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,57,2,79,1,1:43 PM,7:52,,,MISS Bridges 16' Pullup Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,58,4,0,1,1:43 PM,7:50,Tatum REBOUND (Off:2 Def:2),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,59,2,6,1,1:43 PM,7:47,MISS Tatum 9' Driving Layup,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,60,4,0,1,1:43 PM,7:44,,,Bridges REBOUND (Off:0 Def:1),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,61,6,2,1,1:43 PM,7:44,Walker S.FOUL (P2.T3) (T.Brothers),,,,,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,63,3,11,1,1:44 PM,7:44,,,Bridges Free Throw 1 of 2 (1 PTS),5 - 7,2,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,64,3,12,1,1:44 PM,7:44,,,Bridges Free Throw 2 of 2 (2 PTS),6 - 7,1,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,65,2,6,1,1:44 PM,7:35,MISS Walker 1' Driving Layup,,,,,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,66,4,0,1,1:44 PM,7:33,,,Saric REBOUND (Off:0 Def:3),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,67,2,5,1,1:44 PM,7:30,Hayward BLOCK (1 BLK),,MISS Booker 5' Layup,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,1
+0011900119,69,4,0,1,1:44 PM,7:30,,,Bridges REBOUND (Off:1 Def:1),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,70,1,72,1,1:44 PM,7:28,,,Bridges 3' Putback Layup (4 PTS),8 - 7,-1,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,71,9,1,1,1:44 PM,7:28,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,72,8,0,1,1:46 PM,7:28,SUB: Wanamaker FOR Walker,,,,,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,73,8,0,1,1:46 PM,7:28,SUB: Smart FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,74,8,0,1,1:46 PM,7:28,SUB: Kanter FOR Theis,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,78,1,6,1,1:48 PM,7:10,Smart 3' Driving Layup (2 PTS),,,8 - 9,1,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,79,1,96,1,1:48 PM,6:51,,,Saric 6' Turnaround Bank Hook Shot (4 PTS),10 - 9,-1,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,80,5,8,1,1:48 PM,6:37,Kanter 3 Second Violation Turnover (P1.T3),,,,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0011900119,81,1,1,1,1:48 PM,6:26,,,Ayton 26' 3PT Jump Shot (3 PTS) (Rubio 2 AST),13 - 9,-4,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,83,1,86,1,1:49 PM,6:04,Brown 13' Turnaround Fadeaway (7 PTS),,,13 - 11,-2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,84,1,73,1,1:49 PM,5:51,,,Bridges 2' Driving Reverse Layup (6 PTS) (Booker 1 AST),15 - 11,-4,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,86,1,80,1,1:49 PM,5:35,Smart 18' Step Back Jump Shot (4 PTS),,,15 - 13,-2,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,87,1,63,1,1:50 PM,5:21,,,Rubio 13' Fadeaway Jumper (2 PTS) (Booker 2 AST),17 - 13,-4,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,89,2,6,1,1:50 PM,5:01,MISS Brown 4' Driving Layup,,Bridges BLOCK (1 BLK),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1
+0011900119,91,4,0,1,1:50 PM,5:01,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,93,6,11,1,1:50 PM,5:01,Brown T.FOUL (P0.T3) (N.Buchert),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0011900119,94,3,16,1,1:50 PM,5:01,,,Booker Free Throw Technical (3 PTS),18 - 13,-5,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,95,8,0,1,1:51 PM,5:01,,,SUB: Jerome FOR Rubio,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,96,8,0,1,1:51 PM,5:01,,,SUB: Johnson FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,99,5,2,1,1:51 PM,4:57,Brown Lost Ball Turnover (P1.T4),,Johnson STEAL (1 STL),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,101,2,41,1,1:51 PM,4:52,,,MISS Jerome 2' Running Layup,,,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,102,4,0,1,1:51 PM,4:47,,,Saric REBOUND (Off:1 Def:3),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,103,1,97,1,1:51 PM,4:47,,,Saric 1' Tip Layup Shot (6 PTS),20 - 13,-7,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,104,6,2,1,1:51 PM,4:38,,,Booker S.FOUL (P1.T3) (N.Buchert),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,106,3,11,1,1:52 PM,4:38,Kanter Free Throw 1 of 2 (1 PTS),,,20 - 14,-6,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,109,3,12,1,1:52 PM,4:38,MISS Kanter Free Throw 2 of 2,,,,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,107,8,0,1,1:52 PM,4:38,SUB: Tatum FOR Hayward,,,,,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,110,4,0,1,1:52 PM,4:35,,,Ayton REBOUND (Off:1 Def:3),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,111,2,1,1,1:52 PM,4:25,,,MISS Johnson  3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,112,4,0,1,1:52 PM,4:24,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,114,1,1,1,1:52 PM,4:16,,,Saric 26' 3PT Jump Shot (9 PTS) (Booker 3 AST),23 - 14,-9,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,116,1,5,1,1:53 PM,3:56,Kanter 3' Layup (3 PTS) (Smart 1 AST),,,23 - 16,-7,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,118,9,1,1,1:53 PM,3:55,,,Suns Timeout: Regular (Reg.1 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,119,8,0,1,1:55 PM,3:55,,,SUB: Carter FOR Booker,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,120,8,0,1,1:55 PM,3:55,,,SUB: Kaminsky FOR Saric,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,121,8,0,1,1:55 PM,3:55,,,SUB: Payne FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,125,2,1,1,1:56 PM,3:43,,,MISS Carter  3PT Jump Shot,,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,126,4,0,1,1:56 PM,3:42,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,129,6,1,1,1:57 PM,3:29,,,Johnson P.FOUL (P1.T4) (K.Lane),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,131,1,1,1,1:57 PM,3:16,Brown 27' 3PT Jump Shot (10 PTS) (Tatum 1 AST),,,23 - 19,-4,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,133,1,86,1,1:57 PM,3:03,,,Kaminsky 2' Turnaround Fadeaway (2 PTS),25 - 19,-6,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,134,6,2,1,1:57 PM,3:03,Kanter S.FOUL (P1.T4) (T.Brothers),,,,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,136,3,10,1,1:57 PM,3:03,,,Kaminsky Free Throw 1 of 1 (3 PTS),26 - 19,-7,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,137,6,1,1,1:58 PM,2:54,,,Johnson P.FOUL (P2.PN) (N.Buchert),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,139,3,11,1,1:58 PM,2:54,Tatum Free Throw 1 of 2 (1 PTS),,,26 - 20,-6,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,140,3,12,1,1:58 PM,2:54,MISS Tatum Free Throw 2 of 2,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,141,4,0,1,1:58 PM,2:53,Kanter REBOUND (Off:1 Def:0),,,,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,146,2,97,1,1:58 PM,2:52,MISS Kanter 1' Tip Layup Shot,,,,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,147,4,0,1,1:58 PM,2:51,,,Kaminsky REBOUND (Off:0 Def:1),,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,142,6,1,1,1:59 PM,2:47,Brown P.FOUL (P1.PN) (T.Brothers),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,144,3,11,1,1:59 PM,2:47,,,Payne Free Throw 1 of 2 (1 PTS),27 - 20,-7,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,145,3,12,1,1:59 PM,2:47,,,Payne Free Throw 2 of 2 (2 PTS),28 - 20,-8,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,148,1,80,1,1:59 PM,2:30,Tatum 26' 3PT Step Back Jump Shot (4 PTS) (Wanamaker 1 AST),,,28 - 23,-5,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,150,2,1,1,2:00 PM,2:14,,,MISS Kaminsky 25' 3PT Jump Shot,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,151,4,0,1,2:00 PM,2:12,Tatum REBOUND (Off:2 Def:3),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,152,1,80,1,2:00 PM,2:02,Tatum 21' Step Back Jump Shot (6 PTS),,,28 - 25,-3,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,153,5,4,1,2:00 PM,1:47,,,Jerome Traveling Turnover (P1.T3),,,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0011900119,154,8,0,1,2:00 PM,1:47,SUB: Walker FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,155,8,0,1,2:00 PM,1:47,SUB: Ojeleye FOR Wanamaker,,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,156,8,0,1,2:00 PM,1:47,SUB: Theis FOR Kanter,,,,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,157,8,0,1,2:00 PM,1:47,,,SUB: Bridges FOR Jerome,,,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,162,1,80,1,2:01 PM,1:26,Tatum 13' Step Back Jump Shot (8 PTS),,,28 - 27,-1,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,163,6,1,1,2:01 PM,1:17,Theis P.FOUL (P2.PN) (T.Brothers),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,165,3,11,1,2:02 PM,1:17,,,Kaminsky Free Throw 1 of 2 (4 PTS),29 - 27,-2,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,166,3,12,1,2:02 PM,1:17,,,Kaminsky Free Throw 2 of 2 (5 PTS),30 - 27,-3,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,167,2,80,1,2:02 PM,0:59,MISS Tatum 27' 3PT Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,168,4,0,1,2:02 PM,0:55,,,Payne REBOUND (Off:0 Def:1),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,169,1,6,1,2:02 PM,0:49,,,Payne 2' Driving Layup (4 PTS),32 - 27,-5,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,170,5,1,1,2:02 PM,0:46,Walker Bad Pass Turnover (P1.T5),,Carter STEAL (1 STL),,,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,172,2,78,1,2:03 PM,0:40,,,MISS Payne 6' Floating Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,173,4,0,1,2:03 PM,0:37,Ojeleye REBOUND (Off:0 Def:1),,,,,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,174,1,1,1,2:03 PM,0:30,Ojeleye 22' Jump Shot (2 PTS) (Smart 2 AST),,,32 - 29,-3,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,176,2,6,1,2:03 PM,0:07,,,MISS Payne 4' Driving Layup,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,177,4,0,1,2:03 PM,0:07,Smart REBOUND (Off:0 Def:1),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,178,2,1,1,2:03 PM,0:00,MISS Tatum 20' Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,179,4,0,1,2:03 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,180,13,0,1,2:03 PM,0:00,,,,32 - 29,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0011900119,181,12,0,2,2:06 PM,12:00,,,,32 - 29,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,182,5,2,2,2:06 PM,11:50,Smart Lost Ball Turnover (P1.T6),,Carter STEAL (2 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,184,2,50,2,2:06 PM,11:46,,,MISS Bridges 5' Running Dunk,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,185,4,0,2,2:06 PM,11:41,,,Johnson REBOUND (Off:1 Def:0),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,186,2,1,2,2:06 PM,11:36,,,MISS Bridges  3PT Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,187,4,0,2,2:06 PM,11:34,Tatum REBOUND (Off:2 Def:4),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,188,5,2,2,2:06 PM,11:33,Smart Lost Ball Turnover (P2.T7),,Carter STEAL (3 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,190,6,2,2,2:06 PM,11:29,Theis S.FOUL (P3.T1) (T.Brothers),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,192,3,11,2,2:07 PM,11:29,,,Bridges Free Throw 1 of 2 (7 PTS),33 - 29,-4,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,193,3,12,2,2:07 PM,11:29,,,Bridges Free Throw 2 of 2 (8 PTS),34 - 29,-5,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,194,1,79,2,2:07 PM,11:19,Walker 25' 3PT Pullup Jump Shot (5 PTS),,,34 - 32,-2,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,195,1,79,2,2:08 PM,11:03,,,Johnson 20' Pullup Jump Shot (2 PTS) (Kaminsky 1 AST),36 - 32,-4,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,197,2,79,2,2:08 PM,10:50,MISS Walker 27' 3PT Pullup Jump Shot,,,,,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,198,4,0,2,2:08 PM,10:46,,,Kaminsky REBOUND (Off:0 Def:2),,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,199,2,74,2,2:08 PM,10:42,,,MISS Bridges 2' Running Reverse Layup,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,200,4,0,2,2:08 PM,10:40,Walker REBOUND (Off:0 Def:1),,,,,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,201,6,2,2,2:08 PM,10:36,,,Bridges S.FOUL (P1.T1) (T.Brothers),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,203,3,11,2,2:09 PM,10:36,MISS Walker Free Throw 1 of 2,,,,,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,204,4,1,2,2:09 PM,10:36,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,205,3,12,2,2:09 PM,10:36,Walker Free Throw 2 of 2 (6 PTS),,,36 - 33,-3,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,206,2,58,2,2:09 PM,10:20,,,MISS Kaminsky 4' Turnaround Hook Shot,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,207,4,0,2,2:09 PM,10:18,Tatum REBOUND (Off:2 Def:5),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,209,1,79,2,2:10 PM,10:06,Tatum 26' 3PT Pullup Jump Shot (11 PTS),,,36 - 36,TIE,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,210,2,79,2,2:10 PM,9:55,,,MISS Carter 26' 3PT Pullup Jump Shot,,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,211,4,0,2,2:10 PM,9:51,Ojeleye REBOUND (Off:0 Def:2),,,,,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,212,2,80,2,2:10 PM,9:35,MISS Tatum 27' 3PT Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,213,4,0,2,2:10 PM,9:34,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,214,6,3,2,2:10 PM,9:34,,,Bridges L.B.FOUL (P2.T2) (T.Brothers),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,216,8,0,2,2:11 PM,9:34,,,SUB: Rubio FOR Payne,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,217,8,0,2,2:11 PM,9:34,,,SUB: Ayton FOR Carter,,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,218,8,0,2,2:11 PM,9:34,,,SUB: Saric FOR Kaminsky,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,219,8,0,2,2:11 PM,9:34,,,SUB: Booker FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,224,6,1,2,2:11 PM,9:30,,,Booker P.FOUL (P2.T3) (K.Lane),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,226,6,2,2,2:11 PM,9:20,,,Ayton S.FOUL (P2.T4) (K.Lane),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,228,3,11,2,2:12 PM,9:20,Theis Free Throw 1 of 2 (1 PTS),,,36 - 37,1,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,229,3,12,2,2:12 PM,9:20,Theis Free Throw 2 of 2 (2 PTS),,,36 - 38,2,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,230,2,1,2,2:12 PM,9:07,,,MISS Saric 26' 3PT Jump Shot,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,231,4,0,2,2:12 PM,9:04,Theis REBOUND (Off:0 Def:2),,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,232,2,103,2,2:12 PM,9:00,MISS Walker 26' 3PT Running Pull-Up Jump Shot,,,,,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,233,4,0,2,2:12 PM,8:58,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,234,8,0,2,2:12 PM,8:58,SUB: Wanamaker FOR Walker,,,,,4,202689,Kemba Walker,1610612738.0,Boston,Celtics,BOS,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,235,8,0,2,2:12 PM,8:58,SUB: Hayward FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,238,10,0,2,2:13 PM,8:46,Jump Ball Ojeleye vs. Booker: Tip to Ayton,,,,,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1
+0011900119,243,1,1,2,2:13 PM,8:38,,,Saric 24' 3PT Jump Shot (12 PTS) (Booker 4 AST),39 - 38,-1,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,245,2,1,2,2:13 PM,8:25,MISS Theis 25' 3PT Jump Shot,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,246,4,0,2,2:13 PM,8:20,,,Saric REBOUND (Off:1 Def:4),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,247,1,103,2,2:13 PM,8:16,,,Rubio 16' Running Pull-Up Jump Shot (4 PTS) (Saric 1 AST),41 - 38,-3,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,249,2,1,2,2:14 PM,7:58,MISS Ojeleye 25' 3PT Jump Shot,,,,,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,250,4,0,2,2:14 PM,7:55,,,Booker REBOUND (Off:0 Def:1),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,251,2,78,2,2:14 PM,7:49,,,MISS Ayton 8' Floating Jump Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,252,4,0,2,2:14 PM,7:45,,,Ayton REBOUND (Off:2 Def:3),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,253,2,1,2,2:14 PM,7:35,,,MISS Rubio  3PT Jump Shot,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,254,4,0,2,2:14 PM,7:32,Wanamaker REBOUND (Off:0 Def:1),,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,255,1,108,2,2:14 PM,7:23,Theis 2' Cutting Dunk Shot (4 PTS) (Wanamaker 2 AST),,,41 - 40,-1,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,257,1,79,2,2:15 PM,7:15,,,Booker 26' 3PT Pullup Jump Shot (6 PTS),44 - 40,-4,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,258,2,6,2,2:15 PM,6:57,MISS Hayward 2' Driving Layup,,,,,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,259,4,0,2,2:15 PM,6:54,,,Saric REBOUND (Off:1 Def:5),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,260,6,1,2,2:15 PM,6:52,Wanamaker P.FOUL (P1.T2) (N.Buchert),,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,262,9,1,2,2:15 PM,6:52,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,263,8,0,2,2:17 PM,6:52,SUB: Brown FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,265,5,35,2,2:18 PM,6:41,,,Ayton Basket from Below Turnover (P2.T4),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0011900119,266,2,79,2,2:19 PM,6:31,MISS Hayward 21' Pullup Jump Shot,,,,,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,267,4,0,2,2:19 PM,6:28,,,Booker REBOUND (Off:0 Def:2),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,268,1,41,2,2:19 PM,6:24,,,Booker 6' Running Layup (8 PTS),46 - 40,-6,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,269,2,79,2,2:19 PM,6:08,MISS Brown 25' 3PT Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,270,4,0,2,2:19 PM,6:02,,,Saric REBOUND (Off:1 Def:6),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,271,5,1,2,2:19 PM,5:59,Theis STEAL (2 STL),,Booker Bad Pass Turnover (P2.T5),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,273,1,1,2,2:19 PM,5:53,Ojeleye 25' 3PT Jump Shot (5 PTS) (Hayward 2 AST),,,46 - 43,-3,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,275,2,1,2,2:20 PM,5:34,,,MISS Booker 24' 3PT Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,276,4,0,2,2:20 PM,5:33,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,278,8,0,2,2:20 PM,5:33,SUB: Williams FOR Theis,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,279,8,0,2,2:20 PM,5:33,,,SUB: Johnson FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,282,6,26,2,2:20 PM,5:18,Wanamaker Offensive Charge Foul (P2.T3) (T.Brothers),,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,284,5,37,2,2:20 PM,5:18,Wanamaker Offensive Foul Turnover (P1.T8),,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0011900119,285,8,0,2,2:20 PM,5:18,SUB: Tatum FOR Ojeleye,,,,,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,287,2,6,2,2:21 PM,5:11,,,MISS Rubio 3' Driving Layup,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,288,4,0,2,2:21 PM,5:09,,,Ayton REBOUND (Off:3 Def:3),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,289,2,72,2,2:21 PM,5:09,,,MISS Ayton 2' Putback Layup,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,291,4,0,2,2:21 PM,5:06,,,Ayton REBOUND (Off:4 Def:3),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,292,5,2,2,2:21 PM,5:05,Brown STEAL (1 STL),,Ayton Lost Ball Turnover (P3.T6),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,294,1,6,2,2:21 PM,4:59,Brown 1' Driving Layup (12 PTS),,,46 - 45,-1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,296,6,2,2,2:21 PM,4:59,,,Rubio S.FOUL (P2.PN) (N.Buchert),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,298,3,10,2,2:21 PM,4:59,Brown Free Throw 1 of 1 (13 PTS),,,46 - 46,TIE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,299,5,1,2,2:22 PM,4:40,Tatum STEAL (1 STL),,Booker Bad Pass Turnover (P3.T7),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,301,1,50,2,2:22 PM,4:35,Tatum 2' Running Dunk (13 PTS),,,46 - 48,2,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,302,6,2,2,2:22 PM,4:32,Wanamaker S.FOUL (P3.T4) (K.Lane),,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,304,3,11,2,2:22 PM,4:32,,,MISS Booker Free Throw 1 of 2,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,305,4,1,2,2:22 PM,4:32,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,306,3,12,2,2:22 PM,4:32,,,Booker Free Throw 2 of 2 (9 PTS),47 - 48,1,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,307,6,1,2,2:23 PM,4:23,,,Johnson P.FOUL (P3.PN) (K.Lane),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,309,3,11,2,2:23 PM,4:23,Brown Free Throw 1 of 2 (14 PTS),,,47 - 49,2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,310,8,0,2,2:23 PM,4:23,,,SUB: Bridges FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,312,3,12,2,2:23 PM,4:23,Brown Free Throw 2 of 2 (15 PTS),,,47 - 50,3,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,313,1,52,2,2:23 PM,4:16,,,Ayton 2' Alley Oop Dunk (5 PTS) (Bridges 1 AST),49 - 50,1,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,315,1,79,2,2:24 PM,3:56,Hayward 11' Pullup Jump Shot (2 PTS),,,49 - 52,3,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,316,6,4,2,2:24 PM,3:47,,,Ayton OFF.Foul (P3) (T.Brothers),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,318,5,37,2,2:24 PM,3:47,,,Ayton Offensive Foul Turnover (P4.T8),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0011900119,319,1,1,2,2:25 PM,3:42,Hayward 26' 3PT Jump Shot (5 PTS) (Wanamaker 3 AST),,,49 - 55,6,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,321,6,3,2,2:25 PM,3:42,,,Saric L.B.FOUL (P1.PN) (K.Lane),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,323,3,10,2,2:25 PM,3:42,MISS Williams Free Throw 1 of 1,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,324,4,0,2,2:25 PM,3:38,,,Saric REBOUND (Off:1 Def:7),,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,325,6,1,2,2:26 PM,3:33,Brown P.FOUL (P2.PN) (K.Lane),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,327,2,1,2,2:26 PM,3:20,,,MISS Saric 26' 3PT Jump Shot,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,328,4,0,2,2:26 PM,3:16,Tatum REBOUND (Off:2 Def:6),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,329,2,6,2,2:26 PM,3:09,MISS Tatum 7' Driving Layup,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,331,4,0,2,2:26 PM,3:05,,,Booker REBOUND (Off:0 Def:3),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,332,1,79,2,2:26 PM,3:03,,,Booker 26' 3PT Pullup Jump Shot (12 PTS),52 - 55,3,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,333,6,2,2,2:27 PM,2:47,,,Bridges S.FOUL (P3.PN) (N.Buchert),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,335,9,1,2,2:27 PM,2:47,,,Suns Timeout: Regular (Reg.2 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,336,8,0,2,2:29 PM,2:47,SUB: Smart FOR Wanamaker,,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,338,3,11,2,2:30 PM,2:47,Williams Free Throw 1 of 2 (1 PTS),,,52 - 56,4,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,339,3,12,2,2:30 PM,2:47,Williams Free Throw 2 of 2 (2 PTS),,,52 - 57,5,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,340,1,101,2,2:30 PM,2:22,,,Bridges 10' Driving Floating Jump Shot (10 PTS) (Saric 2 AST),54 - 57,3,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,342,6,2,2,2:31 PM,2:06,,,Ayton S.FOUL (P4.PN) (T.Brothers),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,344,3,11,2,2:31 PM,2:06,Hayward Free Throw 1 of 2 (6 PTS),,,54 - 58,4,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,345,8,0,2,2:31 PM,2:06,,,SUB: Kaminsky FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,347,8,0,2,2:31 PM,2:06,,,SUB: Payne FOR Rubio,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,349,3,12,2,2:32 PM,2:06,Hayward Free Throw 2 of 2 (7 PTS),,,54 - 59,5,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,350,2,6,2,2:32 PM,1:51,Williams BLOCK (1 BLK),,MISS Saric 9' Driving Layup,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1
+0011900119,352,4,0,2,2:32 PM,1:49,Smart REBOUND (Off:0 Def:2),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,353,5,1,2,2:32 PM,1:45,Tatum Bad Pass Turnover (P2.T9),,Kaminsky STEAL (1 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,355,1,103,2,2:32 PM,1:41,,,Booker 24' 3PT Running Pull-Up Jump Shot (15 PTS),57 - 59,2,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,356,2,1,2,2:32 PM,1:24,MISS Hayward 28' 3PT Jump Shot,,,,,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,357,4,0,2,2:32 PM,1:19,,,Kaminsky REBOUND (Off:0 Def:3),,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,358,2,75,2,2:33 PM,1:10,,,MISS Booker 3' Driving Finger Roll Layup,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,359,4,0,2,2:33 PM,1:06,,,Kaminsky REBOUND (Off:1 Def:3),,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,360,2,1,2,2:33 PM,1:04,,,MISS Bridges 25' 3PT Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,361,4,0,2,2:33 PM,1:00,Smart REBOUND (Off:0 Def:3),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,362,2,47,2,2:33 PM,0:52,MISS Brown 10' Turnaround Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,363,4,0,2,2:33 PM,0:49,,,Bridges REBOUND (Off:1 Def:2),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,364,2,1,2,2:33 PM,0:45,,,MISS Kaminsky 26' 3PT Jump Shot,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,365,4,0,2,2:33 PM,0:42,Hayward REBOUND (Off:0 Def:3),,,,,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,366,1,1,2,2:33 PM,0:36,Brown 27' 3PT Jump Shot (18 PTS) (Hayward 3 AST),,,57 - 62,5,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,368,9,1,2,2:33 PM,0:36,,,Suns Timeout: Regular (Reg.3 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,369,8,0,2,2:34 PM,0:36,,,SUB: Johnson FOR Saric,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,371,6,1,2,2:35 PM,0:28,Smart P.FOUL (P1.PN) (T.Brothers),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,373,3,11,2,2:36 PM,0:28,,,Payne Free Throw 1 of 2 (5 PTS),58 - 62,4,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,374,8,0,2,2:36 PM,0:28,,,SUB: Carter FOR Kaminsky,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,376,3,12,2,2:36 PM,0:28,,,Payne Free Throw 2 of 2 (6 PTS),59 - 62,3,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,377,6,1,2,2:36 PM,0:07,,,Payne P.FOUL (P1.PN) (N.Buchert),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,379,3,11,2,2:37 PM,0:07,Tatum Free Throw 1 of 2 (14 PTS),,,59 - 63,4,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,380,3,12,2,2:37 PM,0:07,MISS Tatum Free Throw 2 of 2,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,381,4,0,2,2:37 PM,0:07,,,Carter REBOUND (Off:0 Def:1),,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,382,2,79,2,2:37 PM,0:00,,,MISS Booker 26' 3PT Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,383,4,0,2,2:37 PM,0:00,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,384,13,0,2,2:37 PM,0:00,,,,59 - 63,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0011900119,391,12,0,3,2:53 PM,12:00,,,,59 - 63,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,392,6,1,3,2:53 PM,11:51,,,Rubio P.FOUL (P3.T1) (T.Brothers),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,394,1,79,3,2:53 PM,11:44,Hayward 20' Pullup Jump Shot (9 PTS),,,59 - 65,6,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,395,6,2,3,2:53 PM,11:27,Smart S.FOUL (P2.T1) (K.Lane),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,397,3,11,3,2:54 PM,11:27,,,Rubio Free Throw 1 of 2 (5 PTS),60 - 65,5,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,398,3,12,3,2:54 PM,11:27,,,Rubio Free Throw 2 of 2 (6 PTS),61 - 65,4,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,399,5,45,3,2:55 PM,11:16,Hayward Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,,,,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0011900119,400,2,1,3,2:55 PM,11:03,,,MISS Ayton 14' Jump Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,401,4,0,3,2:55 PM,10:59,Hayward REBOUND (Off:0 Def:4),,,,,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,402,2,1,3,2:55 PM,10:48,MISS Brown  3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,403,4,0,3,2:55 PM,10:43,,,Bridges REBOUND (Off:1 Def:3),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,404,2,103,3,2:55 PM,10:41,,,MISS Booker 33' 3PT Running Pull-Up Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,405,4,0,3,2:55 PM,10:38,,,Johnson REBOUND (Off:2 Def:0),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,406,1,98,3,2:55 PM,10:27,,,Ayton 2' Cutting Layup Shot (7 PTS) (Booker 5 AST),63 - 65,2,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,408,5,1,3,2:56 PM,10:06,Smart Bad Pass Turnover (P3.T11),,Ayton STEAL (2 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,410,1,50,3,2:56 PM,10:02,,,Johnson 2' Running Dunk (4 PTS) (Rubio 3 AST),65 - 65,TIE,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,412,9,1,3,2:56 PM,10:01,CELTICS Timeout: Regular (Full 3 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,413,5,4,3,2:59 PM,9:49,Smart Traveling Turnover (P4.T12),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0011900119,414,2,1,3,2:59 PM,9:33,,,MISS Johnson 28' 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,415,4,0,3,3:00 PM,9:28,Smart REBOUND (Off:0 Def:4),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,416,2,80,3,3:00 PM,9:19,MISS Tatum  3PT Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,417,4,0,3,3:00 PM,9:16,,,Johnson REBOUND (Off:2 Def:1),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,418,1,98,3,3:00 PM,9:11,,,Booker 3' Cutting Layup Shot (17 PTS) (Rubio 4 AST),67 - 65,-2,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,420,1,86,3,3:00 PM,8:53,Hayward 12' Turnaround Fadeaway (11 PTS),,,67 - 67,TIE,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,421,6,1,3,3:00 PM,8:47,Tatum P.FOUL (P1.T2) (N.Buchert),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,423,1,43,3,3:01 PM,8:41,,,Ayton 3' Alley Oop Layup (9 PTS) (Booker 6 AST),69 - 67,-2,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,425,1,75,3,3:01 PM,8:26,Brown 2' Driving Finger Roll Layup (20 PTS) (Theis 1 AST),,,69 - 69,TIE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,427,6,2,3,3:01 PM,8:26,,,Booker S.FOUL (P3.T2) (N.Buchert),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,429,3,10,3,3:01 PM,8:26,Brown Free Throw 1 of 1 (21 PTS),,,69 - 70,1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,430,1,1,3,3:02 PM,8:14,,,Bridges 25' 3PT Jump Shot (13 PTS) (Johnson 1 AST),72 - 70,-2,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,432,2,47,3,3:02 PM,7:56,MISS Brown 13' Turnaround Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,433,4,0,3,3:02 PM,7:53,,,Booker REBOUND (Off:0 Def:4),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,434,2,79,3,3:02 PM,7:45,,,MISS Bridges 14' Pullup Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,435,4,0,3,3:02 PM,7:41,Hayward REBOUND (Off:0 Def:5),,,,,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,436,2,6,3,3:02 PM,7:29,MISS Tatum 8' Driving Layup,,Bridges BLOCK (2 BLK),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1
+0011900119,438,4,0,3,3:03 PM,7:26,,,Rubio REBOUND (Off:0 Def:2),,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,439,1,100,3,3:03 PM,7:24,,,Ayton 2' Running Alley Oop Layup Shot (11 PTS) (Booker 7 AST),74 - 70,-4,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,441,6,1,3,3:03 PM,7:10,,,Bridges P.FOUL (P4.T3) (T.Brothers),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,443,8,0,3,3:03 PM,7:10,SUB: Kanter FOR Theis,,,,,4,1628464,Daniel Theis,1610612738.0,Boston,Celtics,BOS,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,444,8,0,3,3:03 PM,7:10,,,SUB: Jerome FOR Rubio,,,5,201937,Ricky Rubio,1610612756.0,Phoenix,Suns,PHX,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,445,8,0,3,3:03 PM,7:10,,,SUB: Kaminsky FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,449,1,57,3,3:03 PM,6:58,Smart 13' Driving Hook Shot (6 PTS),,,74 - 72,-2,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,450,2,1,3,3:04 PM,6:40,,,MISS Jerome 26' 3PT Jump Shot,,,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,451,4,0,3,3:04 PM,6:36,Brown REBOUND (Off:0 Def:1),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,452,6,1,3,3:04 PM,6:30,,,Booker P.FOUL (P4.T4) (N.Buchert),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,454,1,1,3,3:04 PM,6:21,Hayward  3PT Jump Shot (14 PTS) (Smart 3 AST),,,74 - 75,1,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,456,5,40,3,3:05 PM,6:07,,,Booker Out of Bounds Lost Ball Turnover (P4.T9),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0011900119,457,1,9,3,3:05 PM,5:56,Tatum 2' Driving Dunk (16 PTS) (Smart 4 AST),,,74 - 77,3,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,459,9,1,3,3:05 PM,5:56,,,Suns Timeout: Regular (Reg.4 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,460,2,101,3,3:08 PM,5:35,,,MISS Jerome 14' Driving Floating Jump Shot,,,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,461,4,0,3,3:08 PM,5:33,Hayward REBOUND (Off:0 Def:6),,,,,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,462,7,5,3,3:09 PM,5:26,,,Bridges Violation:Kicked Ball (N.Buchert),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011900119,463,2,102,3,3:09 PM,5:14,MISS Tatum 1' Driving Floating Bank Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,464,4,0,3,3:09 PM,5:11,Kanter REBOUND (Off:2 Def:0),,,,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,465,1,72,3,3:09 PM,5:09,Kanter 1' Putback Layup (5 PTS),,,74 - 79,5,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,466,1,7,3,3:09 PM,4:55,,,Kaminsky 3' Dunk (7 PTS) (Booker 8 AST),76 - 79,3,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,468,2,5,3,3:10 PM,4:37,MISS Kanter 1' Layup,,Bridges BLOCK (3 BLK),,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1
+0011900119,470,4,0,3,3:10 PM,4:33,,,Bridges REBOUND (Off:1 Def:4),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,471,1,1,3,3:10 PM,4:26,,,Bridges 26' 3PT Jump Shot (16 PTS) (Booker 9 AST),79 - 79,TIE,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,473,1,86,3,3:10 PM,4:02,Smart 12' Turnaround Fadeaway (8 PTS),,,79 - 81,2,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,474,2,75,3,3:10 PM,3:43,,,MISS Booker 2' Driving Finger Roll Layup,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,475,4,0,3,3:10 PM,3:41,Tatum REBOUND (Off:2 Def:7),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,476,1,1,3,3:11 PM,3:36,Hayward  3PT Jump Shot (17 PTS) (Tatum 2 AST),,,79 - 84,5,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,478,2,1,3,3:11 PM,3:17,,,MISS Bridges 24' 3PT Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,479,4,0,3,3:11 PM,3:13,Kanter REBOUND (Off:2 Def:1),,,,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,480,6,2,3,3:11 PM,3:00,,,Jerome S.FOUL (P1.PN) (N.Buchert),,,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,482,3,11,3,3:12 PM,3:00,Kanter Free Throw 1 of 2 (6 PTS),,,79 - 85,6,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,491,3,12,3,3:12 PM,3:00,MISS Kanter Free Throw 2 of 2,,,,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,483,8,0,3,3:12 PM,3:00,SUB: Wanamaker FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,484,8,0,3,3:12 PM,3:00,SUB: Langford FOR Hayward,,,,,4,202330,Gordon Hayward,1610612738.0,Boston,Celtics,BOS,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,485,8,0,3,3:12 PM,3:00,,,SUB: Payne FOR Booker,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,486,8,0,3,3:12 PM,3:00,,,SUB: Carter FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,492,4,0,3,3:12 PM,2:57,,,Payne REBOUND (Off:0 Def:2),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,493,2,78,3,3:12 PM,2:47,,,MISS Payne 9' Floating Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,494,4,0,3,3:13 PM,2:45,Wanamaker REBOUND (Off:0 Def:2),,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,495,1,6,3,3:13 PM,2:38,Smart 3' Driving Layup (10 PTS),,,79 - 87,8,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,496,2,1,3,3:13 PM,2:18,,,MISS Kaminsky 26' 3PT Jump Shot,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,497,4,0,3,3:13 PM,2:15,Smart REBOUND (Off:0 Def:5),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,498,6,1,3,3:13 PM,2:11,,,Carter P.FOUL (P1.PN) (T.Brothers),,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,500,3,11,3,3:14 PM,2:11,Kanter Free Throw 1 of 2 (7 PTS),,,79 - 88,9,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,505,3,12,3,3:14 PM,2:11,MISS Kanter Free Throw 2 of 2,,,,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,501,8,0,3,3:14 PM,2:11,SUB: Edwards FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1629035,Carsen Edwards,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,502,8,0,3,3:14 PM,2:11,,,SUB: Diallo FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,506,4,0,3,3:14 PM,2:09,,,Diallo REBOUND (Off:0 Def:1),,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,507,2,1,3,3:14 PM,2:04,,,MISS Kaminsky 16' Jump Shot,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,508,4,0,3,3:14 PM,2:00,Edwards REBOUND (Off:0 Def:1),,,,,4,1629035,Carsen Edwards,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,509,6,4,3,3:14 PM,1:55,Brown OFF.Foul (P3) (K.Lane),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,511,5,37,3,3:14 PM,1:55,Brown Offensive Foul Turnover (P2.T13),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0011900119,512,5,2,3,3:15 PM,1:39,Kanter STEAL (1 STL),,Kaminsky Lost Ball Turnover (P1.T10),,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,514,6,2,3,3:15 PM,1:34,,,Jerome S.FOUL (P2.PN) (N.Buchert),,,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,516,3,11,3,3:15 PM,1:34,MISS Langford Free Throw 1 of 2,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,517,4,1,3,3:15 PM,1:34,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,518,8,0,3,3:15 PM,1:34,SUB: Ojeleye FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,519,8,0,3,3:15 PM,1:34,SUB: Williams III FOR Kanter,,,,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,522,3,12,3,3:16 PM,1:34,Langford Free Throw 2 of 2 (1 PTS),,,79 - 89,10,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,523,2,1,3,3:16 PM,1:12,,,MISS Jerome 28' 3PT Jump Shot,,,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,524,4,0,3,3:16 PM,1:08,Williams III REBOUND (Off:0 Def:1),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,525,2,79,3,3:16 PM,1:02,MISS Wanamaker 16' Pullup Jump Shot,,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,526,4,0,3,3:16 PM,0:57,,,Payne REBOUND (Off:0 Def:3),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,527,6,1,3,3:16 PM,0:54,Edwards P.FOUL (P1.T3) (K.Lane),,,,,4,1629035,Carsen Edwards,1610612738.0,Boston,Celtics,BOS,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,529,2,1,3,3:17 PM,0:48,,,MISS Kaminsky 26' 3PT Jump Shot,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,530,4,0,3,3:17 PM,0:44,Williams III REBOUND (Off:0 Def:2),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,531,1,1,3,3:17 PM,0:35,Edwards 27' 3PT Jump Shot (3 PTS) (Langford 1 AST),,,79 - 92,13,4,1629035,Carsen Edwards,1610612738.0,Boston,Celtics,BOS,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,533,2,57,3,3:17 PM,0:17,,,MISS Diallo 1' Driving Hook Shot,,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,534,4,0,3,3:17 PM,0:15,Ojeleye REBOUND (Off:0 Def:3),,,,,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,535,6,1,3,3:18 PM,0:04,,,Payne P.FOUL (P2.PN) (T.Brothers),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,537,3,11,3,3:18 PM,0:04,Wanamaker Free Throw 1 of 2 (1 PTS),,,79 - 93,14,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,538,3,12,3,3:18 PM,0:04,Wanamaker Free Throw 2 of 2 (2 PTS),,,79 - 94,15,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,539,1,6,3,3:18 PM,0:00,,,Jerome 3' Driving Layup (2 PTS),81 - 94,13,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,540,18,0,3,3:19 PM,0:00,,,,81 - 94,13,0,539,,,,,,0,0,,,,,,1,0,,,,,,0
+0011900119,541,13,0,3,3:19 PM,0:00,,,,81 - 94,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0011900119,542,12,0,4,3:21 PM,12:00,,,,81 - 94,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,543,5,1,4,3:21 PM,11:40,Wanamaker STEAL (1 STL),,Carter Bad Pass Turnover (P1.T11),,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,545,6,28,4,3:21 PM,11:39,,,Jerome Personal Take Foul (P3.T1) (N.Buchert),,,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,547,2,79,4,3:22 PM,11:30,MISS Wanamaker 27' 3PT Pullup Jump Shot,,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,548,4,0,4,3:22 PM,11:26,,,Diallo REBOUND (Off:0 Def:2),,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,549,2,101,4,3:22 PM,11:18,,,MISS Payne 13' Driving Floating Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,550,4,0,4,3:22 PM,11:17,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,551,6,3,4,3:22 PM,11:17,Wanamaker L.B.FOUL (P4.T1) (T.Brothers),,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,553,6,1,4,3:23 PM,11:08,Langford P.FOUL (P1.T2) (N.Buchert),,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,555,6,2,4,3:23 PM,11:00,Ojeleye S.FOUL (P1.T3) (T.Brothers),,,,,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,557,3,11,4,3:23 PM,11:00,,,MISS Kaminsky Free Throw 1 of 2,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,558,4,1,4,3:23 PM,11:00,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,559,3,12,4,3:24 PM,11:00,,,Kaminsky Free Throw 2 of 2 (8 PTS),82 - 94,12,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,560,2,101,4,3:24 PM,10:45,MISS Wanamaker 12' Driving Floating Jump Shot,,Carter BLOCK (1 BLK),,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,1
+0011900119,562,4,0,4,3:24 PM,10:41,Wanamaker REBOUND (Off:1 Def:2),,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,563,1,72,4,3:24 PM,10:40,Wanamaker 2' Putback Layup (4 PTS),,,82 - 96,14,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,564,2,1,4,3:24 PM,10:30,,,MISS Jerome 30' 3PT Jump Shot,,,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,565,4,0,4,3:24 PM,10:27,Williams III REBOUND (Off:0 Def:3),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,566,1,1,4,3:24 PM,10:21,Langford 24' 3PT Jump Shot (4 PTS) (Edwards 1 AST),,,82 - 99,17,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,4,1629035,Carsen Edwards,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,568,9,1,4,3:24 PM,10:20,,,Suns Timeout: Regular (Reg.5 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,569,8,0,4,3:26 PM,10:20,,,SUB: Johnson FOR Kaminsky,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,571,2,5,4,3:28 PM,10:06,,,MISS Diallo 4' Layup,,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,572,4,0,4,3:28 PM,10:04,Edwards REBOUND (Off:0 Def:2),,,,,4,1629035,Carsen Edwards,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,573,2,41,4,3:28 PM,10:01,MISS Edwards 2' Running Layup,,,,,4,1629035,Carsen Edwards,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,574,4,0,4,3:28 PM,10:00,,,Johnson REBOUND (Off:2 Def:2),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,576,6,4,4,3:28 PM,9:56,,,Diallo OFF.Foul (P1) (K.Lane),,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,4,1629035,Carsen Edwards,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,578,5,37,4,3:28 PM,9:56,,,Diallo Offensive Foul Turnover (P1.T12),,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0011900119,579,1,1,4,3:29 PM,9:36,Wanamaker 26' 3PT Jump Shot (7 PTS) (Langford 2 AST),,,82 - 102,20,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,582,2,1,4,3:29 PM,9:16,Williams III BLOCK (1 BLK),,MISS Diallo 17' Jump Shot,,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,1
+0011900119,584,4,0,4,3:29 PM,9:12,,,Diallo REBOUND (Off:1 Def:2),,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,585,5,1,4,3:29 PM,9:10,Williams III STEAL (1 STL),,Diallo Bad Pass Turnover (P2.T13),,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,587,2,75,4,3:30 PM,8:55,MISS Wanamaker 2' Driving Finger Roll Layup,,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,588,4,0,4,3:30 PM,8:53,,,Diallo REBOUND (Off:1 Def:3),,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,589,1,103,4,3:30 PM,8:49,,,Johnson 26' 3PT Running Pull-Up Jump Shot (7 PTS) (Jerome 1 AST),85 - 102,17,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,591,2,1,4,3:30 PM,8:31,MISS Langford 28' 3PT Jump Shot,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,592,4,0,4,3:30 PM,8:28,,,Diallo REBOUND (Off:1 Def:4),,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,593,6,2,4,3:30 PM,8:25,Edwards S.FOUL (P2.T4) (N.Buchert),,,,,4,1629035,Carsen Edwards,1610612738.0,Boston,Celtics,BOS,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,595,3,11,4,3:31 PM,8:25,,,MISS Diallo Free Throw 1 of 2,,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,596,4,1,4,3:31 PM,8:25,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,597,8,0,4,3:31 PM,8:25,SUB: Williams FOR Ojeleye,,,,,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,598,8,0,4,3:31 PM,8:25,SUB: Green FOR Langford,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,4,1629750,Javonte Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,601,3,12,4,3:31 PM,8:25,,,Diallo Free Throw 2 of 2 (1 PTS),86 - 102,16,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,602,2,1,4,3:31 PM,8:09,MISS Williams 25' 3PT Jump Shot,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,603,4,0,4,3:31 PM,8:05,Williams III REBOUND (Off:1 Def:3),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,604,2,1,4,3:31 PM,8:03,MISS Edwards 25' 3PT Jump Shot,,,,,4,1629035,Carsen Edwards,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,605,4,0,4,3:31 PM,8:01,,,Carter REBOUND (Off:0 Def:2),,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,606,1,41,4,3:31 PM,7:58,,,Carter 2' Running Layup (2 PTS),88 - 102,14,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,607,1,75,4,3:32 PM,7:41,Green 4' Driving Finger Roll Layup (2 PTS) (Wanamaker 4 AST),,,88 - 104,16,4,1629750,Javonte Green,1610612738.0,Boston,Celtics,BOS,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,609,5,2,4,3:32 PM,7:26,Green STEAL (1 STL),,Payne Lost Ball Turnover (P1.T14),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1629750,Javonte Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,611,1,6,4,3:32 PM,7:14,Edwards 1' Driving Layup (5 PTS),,,88 - 106,18,4,1629035,Carsen Edwards,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,612,1,79,4,3:32 PM,7:02,,,Johnson 20' Pullup Jump Shot (9 PTS) (Diallo 1 AST),90 - 106,16,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,614,2,79,4,3:33 PM,6:39,MISS Wanamaker 18' Pullup Jump Shot,,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,615,4,0,4,3:33 PM,6:36,,,Jerome REBOUND (Off:0 Def:1),,,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,616,1,1,4,3:33 PM,6:29,,,Carter 25' 3PT Jump Shot (5 PTS) (Jerome 2 AST),93 - 106,13,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,618,2,1,4,3:33 PM,6:15,MISS Edwards 26' 3PT Jump Shot,,,,,4,1629035,Carsen Edwards,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,619,4,0,4,3:33 PM,6:15,,,Diallo REBOUND (Off:1 Def:5),,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,620,2,1,4,3:33 PM,6:02,,,MISS Diallo 9' Jump Shot,,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,621,4,0,4,3:33 PM,5:59,Wanamaker REBOUND (Off:1 Def:3),,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,622,1,79,4,3:34 PM,5:51,Wanamaker 17' Pullup Jump Shot (9 PTS),,,93 - 108,15,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,623,5,1,4,3:34 PM,5:35,Edwards STEAL (1 STL),,Payne Bad Pass Turnover (P2.T15),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1629035,Carsen Edwards,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,625,1,41,4,3:34 PM,5:30,Edwards 2' Running Layup (7 PTS) (Green 1 AST),,,93 - 110,17,4,1629035,Carsen Edwards,1610612738.0,Boston,Celtics,BOS,4,1629750,Javonte Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,627,9,1,4,3:34 PM,5:30,,,Suns Timeout: Regular (Reg.6 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,628,8,0,4,3:36 PM,5:30,SUB: Langford FOR Edwards,,,,,4,1629035,Carsen Edwards,1610612738.0,Boston,Celtics,BOS,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,629,8,0,4,3:36 PM,5:30,SUB: Waters FOR Wanamaker,,,,,4,202954,Brad Wanamaker,1610612738.0,Boston,Celtics,BOS,4,1629682,Tremont Waters,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,630,8,0,4,3:36 PM,5:30,SUB: Poirier FOR Williams III,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,4,1629738,Vincent Poirier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011900119,634,1,99,4,3:37 PM,5:19,,,Diallo 3' Cutting Finger Roll Layup Shot (3 PTS) (Carter 1 AST),95 - 110,15,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,636,6,2,4,3:37 PM,5:19,Poirier S.FOUL (P1.PN) (N.Buchert),,,,,4,1629738,Vincent Poirier,1610612738.0,Boston,Celtics,BOS,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,638,3,10,4,3:37 PM,5:19,,,MISS Diallo Free Throw 1 of 1,,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011900119,639,4,0,4,3:37 PM,5:16,Poirier REBOUND (Off:0 Def:1),,,,,4,1629738,Vincent Poirier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,640,2,79,4,3:38 PM,5:02,MISS Langford 15' Pullup Jump Shot,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,641,4,0,4,3:38 PM,4:57,Green REBOUND (Off:1 Def:0),,,,,4,1629750,Javonte Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,642,2,1,4,3:38 PM,4:52,MISS Langford  3PT Jump Shot,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,643,4,0,4,3:38 PM,4:48,,,Carter REBOUND (Off:0 Def:3),,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,644,6,4,4,3:38 PM,4:46,,,Diallo OFF.Foul (P2) (T.Brothers),,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,646,5,37,4,3:38 PM,4:46,,,Diallo Offensive Foul Turnover (P3.T16),,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0011900119,647,6,1,4,3:39 PM,4:35,,,Payne P.FOUL (P3.T2) (K.Lane),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1629738,Vincent Poirier,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,649,5,2,4,3:39 PM,4:26,Waters Lost Ball Turnover (P1.T14),,Jerome STEAL (1 STL),,,4,1629682,Tremont Waters,1610612738.0,Boston,Celtics,BOS,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,651,6,4,4,3:39 PM,4:25,,,Carter OFF.Foul (P2) (K.Lane),,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,4,1629682,Tremont Waters,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,653,5,37,4,3:39 PM,4:25,,,Carter Offensive Foul Turnover (P2.T17),,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0011900119,654,8,0,4,3:39 PM,4:25,,,SUB: Kaminsky FOR Diallo,,,5,1627767,Cheick Diallo,1610612756.0,Phoenix,Suns,PHX,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011900119,656,1,98,4,3:40 PM,4:13,Langford 1' Cutting Layup Shot (6 PTS) (Waters 1 AST),,,95 - 112,17,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,4,1629682,Tremont Waters,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,658,6,2,4,3:40 PM,4:13,,,Payne S.FOUL (P4.T3) (T.Brothers),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,660,3,10,4,3:40 PM,4:13,MISS Langford Free Throw 1 of 1,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,661,4,0,4,3:40 PM,4:11,,,Carter REBOUND (Off:0 Def:4),,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,662,2,79,4,3:40 PM,4:05,,,MISS Payne 25' 3PT Pullup Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,663,4,0,4,3:40 PM,4:01,Langford REBOUND (Off:0 Def:1),,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,664,5,2,4,3:40 PM,3:56,Langford Lost Ball Turnover (P1.T15),,Kaminsky STEAL (2 STL),,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,666,6,2,4,3:41 PM,3:44,Williams S.FOUL (P1.PN) (K.Lane),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,668,3,11,4,3:41 PM,3:44,,,Johnson Free Throw 1 of 2 (10 PTS),96 - 112,16,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,669,3,12,4,3:41 PM,3:44,,,Johnson Free Throw 2 of 2 (11 PTS),97 - 112,15,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,670,6,2,4,3:41 PM,3:29,,,Kaminsky S.FOUL (P1.T4) (K.Lane),,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0011900119,672,3,11,4,3:42 PM,3:29,MISS Langford Free Throw 1 of 2,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,673,4,1,4,3:42 PM,3:29,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,674,3,12,4,3:42 PM,3:29,Langford Free Throw 2 of 2 (7 PTS),,,97 - 113,16,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,675,2,1,4,3:42 PM,3:19,,,MISS Johnson 28' 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,676,4,0,4,3:42 PM,3:17,Langford REBOUND (Off:0 Def:2),,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,677,2,80,4,3:42 PM,3:10,MISS Waters 14' Step Back Jump Shot,,,,,4,1629682,Tremont Waters,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,678,4,0,4,3:43 PM,3:07,,,Kaminsky REBOUND (Off:1 Def:4),,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,679,1,6,4,3:43 PM,3:00,,,Johnson 3' Driving Layup (13 PTS) (Carter 2 AST),99 - 113,14,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,681,7,2,4,3:43 PM,3:00,Poirier Violation:Defensive Goaltending (N.Buchert),,,,,4,1629738,Vincent Poirier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0011900119,682,2,1,4,3:43 PM,2:47,MISS Poirier 26' 3PT Jump Shot,,,,,4,1629738,Vincent Poirier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,683,4,0,4,3:43 PM,2:42,,,Payne REBOUND (Off:0 Def:4),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,684,6,1,4,3:43 PM,2:38,Green P.FOUL (P1.PN) (T.Brothers),,,,,4,1629750,Javonte Green,1610612738.0,Boston,Celtics,BOS,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,686,3,11,4,3:44 PM,2:38,,,MISS Kaminsky Free Throw 1 of 2,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,687,4,1,4,3:44 PM,2:38,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,688,3,12,4,3:44 PM,2:38,,,Kaminsky Free Throw 2 of 2 (9 PTS),100 - 113,13,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,689,5,2,4,3:44 PM,2:14,Green Lost Ball Turnover (P1.T16),,Jerome STEAL (2 STL),,,4,1629750,Javonte Green,1610612738.0,Boston,Celtics,BOS,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0011900119,691,2,5,4,3:45 PM,2:06,,,MISS Jerome 3' Layup,,,5,1629660,Ty Jerome,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,692,4,0,4,3:45 PM,2:04,Poirier REBOUND (Off:0 Def:2),,,,,4,1629738,Vincent Poirier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,694,2,101,4,3:45 PM,1:48,MISS Green 2' Driving Floating Jump Shot,,,,,4,1629750,Javonte Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,695,4,0,4,3:45 PM,1:48,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,696,6,3,4,3:45 PM,1:48,Poirier L.B.FOUL (P2.PN) (T.Brothers),,,,,4,1629738,Vincent Poirier,1610612738.0,Boston,Celtics,BOS,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0011900119,698,3,11,4,3:46 PM,1:48,,,Kaminsky Free Throw 1 of 2 (10 PTS),101 - 113,12,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,699,3,12,4,3:46 PM,1:48,,,MISS Kaminsky Free Throw 2 of 2,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,700,4,0,4,3:46 PM,1:46,Poirier REBOUND (Off:0 Def:3),,,,,4,1629738,Vincent Poirier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,701,1,98,4,3:46 PM,1:24,Williams 2' Cutting Layup Shot (4 PTS) (Waters 2 AST),,,101 - 115,14,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1629682,Tremont Waters,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,703,2,1,4,3:47 PM,1:03,,,MISS Carter 25' 3PT Jump Shot,,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,704,4,0,4,3:47 PM,0:59,Langford REBOUND (Off:0 Def:3),,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,705,5,45,4,3:47 PM,0:58,Langford Out of Bounds - Bad Pass Turnover Turnover (P2.T17),,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0011900119,706,2,6,4,3:47 PM,0:53,,,MISS Payne 2' Driving Layup,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,707,4,0,4,3:47 PM,0:53,Poirier REBOUND (Off:0 Def:4),,,,,4,1629738,Vincent Poirier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0011900119,708,1,108,4,3:47 PM,0:36,Langford 2' Cutting Dunk Shot (9 PTS) (Waters 3 AST),,,101 - 117,16,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,4,1629682,Tremont Waters,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0011900119,710,1,6,4,3:48 PM,0:24,,,Carter 4' Driving Layup (7 PTS),103 - 117,14,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0011900119,711,5,11,4,3:48 PM,0:00,CELTICS Turnover: Shot Clock (T#18),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900119,712,13,0,4,3:48 PM,0:00,,,,103 - 117,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
