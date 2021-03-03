@@ -1,0 +1,557 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011900003,2,12,0,1,9:46 AM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,4,10,0,1,9:46 AM,12:00,Jump Ball Bagley III vs. Turner: Tip to Fox,,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1
+0011900003,7,1,1,1,9:46 AM,11:42,Barnes  3PT Jump Shot (3 PTS) (Fox 1 AST),,,0 - 3,3,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,9,1,63,1,9:46 AM,11:20,,,Warren 10' Fadeaway Jumper (2 PTS) (Brogdon 1 AST),2 - 3,1,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,11,6,4,1,9:47 AM,11:04,Dedmon OFF.Foul (P1) (L.Wood),,,,,4,203473,Dewayne Dedmon,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,13,5,37,1,9:47 AM,11:04,Dedmon Offensive Foul Turnover (P1.T1),,,,,4,203473,Dewayne Dedmon,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0011900003,14,1,108,1,9:47 AM,10:46,,,Sabonis 2' Cutting Dunk Shot (2 PTS) (Brogdon 2 AST),4 - 3,-1,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,16,2,101,1,9:47 AM,10:39,MISS Fox 1' Driving Floating Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,17,4,0,1,9:47 AM,10:38,,,Turner REBOUND (Off:0 Def:1),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,18,6,1,1,9:48 AM,10:29,Bagley III P.FOUL (P1.T1) (L.Wood),,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,20,2,80,1,9:48 AM,10:23,,,MISS Brogdon 29' 3PT Step Back Jump Shot,,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,21,4,0,1,9:48 AM,10:21,Hield REBOUND (Off:0 Def:1),,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,22,1,5,1,9:48 AM,10:09,Bagley III 2' Layup (2 PTS) (Hield 1 AST),,,4 - 5,1,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,24,1,7,1,9:48 AM,9:48,,,Sabonis 1' Dunk (4 PTS),6 - 5,-1,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,25,1,6,1,9:49 AM,9:34,Fox 1' Driving Layup (2 PTS),,,6 - 7,1,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,26,2,1,1,9:49 AM,9:22,,,MISS Sabonis 18' Jump Shot,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,27,4,0,1,9:49 AM,9:20,Hield REBOUND (Off:0 Def:2),,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,28,1,79,1,9:49 AM,9:14,Hield 26' 3PT Pullup Jump Shot (3 PTS),,,6 - 10,4,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,29,2,101,1,9:49 AM,9:02,,,MISS Brogdon 6' Driving Floating Jump Shot,,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,30,4,0,1,9:49 AM,9:00,,,Sabonis REBOUND (Off:1 Def:0),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,31,6,1,1,9:49 AM,8:59,Fox P.FOUL (P1.T2) (J.Tiven),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,33,5,1,1,9:50 AM,8:55,Barnes STEAL (1 STL),,Brogdon Bad Pass Turnover (P1.T1),,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,35,1,50,1,9:50 AM,8:51,Barnes 2' Running Dunk (5 PTS),,,6 - 12,6,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,36,2,1,1,9:50 AM,8:28,,,MISS Warren  3PT Jump Shot,,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,37,4,0,1,9:50 AM,8:22,Dedmon REBOUND (Off:0 Def:1),,,,,4,203473,Dewayne Dedmon,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,38,1,108,1,9:51 AM,8:09,Bagley III 1' Cutting Dunk Shot (4 PTS) (Barnes 1 AST),,,6 - 14,8,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,40,5,39,1,9:51 AM,7:52,,,Lamb Step Out of Bounds Turnover (P1.T2),,,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,41,1,1,1,9:51 AM,7:38,Dedmon 24' 3PT Jump Shot (3 PTS) (Fox 2 AST),,,6 - 17,11,4,203473,Dewayne Dedmon,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,43,9,1,1,9:51 AM,7:31,,,Pacers Timeout: Regular (Reg.1 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,44,6,2,1,9:55 AM,7:26,Hield S.FOUL (P1.T3) (Z.Zarba),,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,46,3,11,1,9:55 AM,7:26,,,MISS Lamb Free Throw 1 of 2,,,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,47,4,1,1,9:55 AM,7:26,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,48,3,12,1,9:55 AM,7:26,,,Lamb Free Throw 2 of 2 (1 PTS),7 - 17,10,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,49,6,1,1,9:55 AM,7:18,,,Lamb P.FOUL (P1.T1) (Z.Zarba),,,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,51,2,1,1,9:56 AM,7:12,MISS Hield  3PT Jump Shot,,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,52,4,0,1,9:56 AM,7:09,,,Turner REBOUND (Off:0 Def:2),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,53,1,75,1,9:56 AM,7:03,,,Sabonis 3' Driving Finger Roll Layup (6 PTS) (Brogdon 3 AST),9 - 17,8,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,55,7,2,1,9:56 AM,7:03,Bagley III Violation:Defensive Goaltending (J.Tiven),,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0011900003,56,6,4,1,9:57 AM,6:50,Fox OFF.Foul (P2) (L.Wood),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,58,5,37,1,9:57 AM,6:50,Fox Offensive Foul Turnover (P1.T2),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0011900003,59,6,2,1,9:57 AM,6:41,Bagley III S.FOUL (P2.T4) (J.Tiven),,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,61,3,11,1,9:57 AM,6:41,,,Brogdon Free Throw 1 of 2 (1 PTS),10 - 17,7,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,62,3,12,1,9:57 AM,6:41,,,MISS Brogdon Free Throw 2 of 2,,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,63,4,0,1,9:57 AM,6:40,,,Sabonis REBOUND (Off:2 Def:0),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,64,2,72,1,9:58 AM,6:39,,,MISS Sabonis 1' Putback Layup,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,65,4,0,1,9:58 AM,6:38,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,68,8,0,1,9:59 AM,6:38,,,SUB: Sampson FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,70,1,79,1,9:59 AM,6:31,,,Lamb 19' Pullup Jump Shot (3 PTS) (Brogdon 4 AST),12 - 17,5,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,71,1,6,1,9:59 AM,6:14,Hield 1' Driving Layup (5 PTS),,,12 - 19,7,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,72,1,6,1,10:00 AM,6:00,,,Lamb 5' Driving Layup (5 PTS) (Warren 1 AST),14 - 19,5,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,74,1,6,1,10:00 AM,5:47,Fox  Driving Layup (4 PTS),,,14 - 21,7,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,75,6,2,1,10:00 AM,5:47,,,Brogdon S.FOUL (P1.T2) (L.Wood),,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,77,8,0,1,10:00 AM,5:47,SUB: Ariza FOR Dedmon,,,,,4,203473,Dewayne Dedmon,1610612758.0,Sacramento,Kings,SAC,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,78,8,0,1,10:00 AM,5:47,SUB: Bogdanovic FOR Hield,,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,79,8,0,1,10:00 AM,5:47,SUB: Bjelica FOR Barnes,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,83,3,10,1,10:00 AM,5:47,Fox Free Throw 1 of 1 (5 PTS),,,14 - 22,8,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,84,1,78,1,10:01 AM,5:34,,,Warren 13' Floating Jump Shot (4 PTS) (Lamb 1 AST),16 - 22,6,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,86,2,1,1,10:01 AM,5:18,MISS Ariza 25' 3PT Jump Shot,,,,,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,87,4,0,1,10:01 AM,5:15,Bjelica REBOUND (Off:1 Def:0),,,,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,88,2,1,1,10:01 AM,5:13,MISS Bogdanovic  3PT Jump Shot,,,,,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,89,4,0,1,10:01 AM,5:10,,,Turner REBOUND (Off:0 Def:3),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,90,5,2,1,10:01 AM,4:59,Fox STEAL (1 STL),,Turner Lost Ball Turnover (P1.T3),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,92,1,52,1,10:01 AM,4:55,Bagley III 1' Alley Oop Dunk (6 PTS) (Ariza 1 AST),,,16 - 24,8,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,94,5,2,1,10:02 AM,4:36,Ariza STEAL (1 STL),,Turner Lost Ball Turnover (P2.T4),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,96,1,79,1,10:02 AM,4:30,Fox 22' Pullup Jump Shot (7 PTS) (Bogdanovic 1 AST),,,16 - 26,10,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,97,1,79,1,10:02 AM,4:14,,,Lamb 27' 3PT Pullup Jump Shot (8 PTS) (Brogdon 5 AST),19 - 26,7,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,99,6,2,1,10:02 AM,3:57,,,Brogdon S.FOUL (P2.T3) (Z.Zarba),,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,101,3,11,1,10:03 AM,3:57,MISS Fox Free Throw 1 of 2,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,102,4,1,1,10:03 AM,3:57,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,103,8,0,1,10:03 AM,3:57,SUB: Holmes FOR Bagley III,,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,104,8,0,1,10:03 AM,3:57,,,SUB: Holiday FOR Warren,,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,105,8,0,1,10:03 AM,3:57,,,SUB: Sumner FOR Brogdon,,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,106,8,0,1,10:03 AM,3:57,,,SUB: McDermott FOR Lamb,,,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,111,3,12,1,10:03 AM,3:57,Fox Free Throw 2 of 2 (8 PTS),,,19 - 27,8,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,112,1,57,1,10:03 AM,3:40,,,Holiday 7' Driving Hook Shot (2 PTS),21 - 27,6,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,113,2,1,1,10:04 AM,3:20,MISS Bjelica 20' Jump Shot,,,,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,114,4,0,1,10:04 AM,3:18,,,Sumner REBOUND (Off:0 Def:1),,,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,115,1,75,1,10:04 AM,3:08,,,Turner 1' Driving Finger Roll Layup (2 PTS),23 - 27,4,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,116,9,1,1,10:04 AM,3:07,KINGS Timeout: Regular (Full 1 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,117,8,0,1,10:06 AM,3:07,SUB: Joseph FOR Fox,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,119,1,6,1,10:07 AM,2:56,Bjelica 7' Driving Layup (2 PTS) (Joseph 1 AST),,,23 - 29,6,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,120,6,2,1,10:07 AM,2:56,,,Sampson S.FOUL (P1.T4) (L.Wood),,,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,122,3,10,1,10:08 AM,2:56,Bjelica Free Throw 1 of 1 (3 PTS),,,23 - 30,7,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,123,1,1,1,10:08 AM,2:40,,,Sumner 27' 3PT Jump Shot (3 PTS) (Holiday 1 AST),26 - 30,4,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,125,6,2,1,10:08 AM,2:24,,,Sumner S.FOUL (P1.PN) (L.Wood),,,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,127,3,11,1,10:09 AM,2:24,Holmes Free Throw 1 of 2 (1 PTS),,,26 - 31,5,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,128,8,0,1,10:09 AM,2:24,,,SUB: Johnson FOR Turner,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,130,3,12,1,10:09 AM,2:24,Holmes Free Throw 2 of 2 (2 PTS),,,26 - 32,6,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,131,2,6,1,10:09 AM,2:15,,,MISS McDermott 4' Driving Layup,,,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,132,4,0,1,10:09 AM,2:14,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,133,6,3,1,10:09 AM,2:14,,,Johnson L.B.FOUL (P1.PN) (Z.Zarba),,,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,136,3,11,1,10:10 AM,2:14,MISS Bjelica Free Throw 1 of 2,,,,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,137,4,1,1,10:10 AM,2:14,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,138,3,12,1,10:10 AM,2:14,Bjelica Free Throw 2 of 2 (4 PTS),,,26 - 33,7,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,139,6,2,1,10:10 AM,2:07,Bjelica S.FOUL (P1.PN) (L.Wood),,,,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,141,3,11,1,10:10 AM,2:07,,,MISS Johnson Free Throw 1 of 2,,,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,142,4,1,1,10:10 AM,2:07,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,143,3,12,1,10:11 AM,2:07,,,Johnson Free Throw 2 of 2 (1 PTS),27 - 33,6,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,144,5,45,1,10:11 AM,1:54,Joseph Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0011900003,145,2,1,1,10:11 AM,1:45,,,MISS McDermott  3PT Jump Shot,,,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,146,4,0,1,10:11 AM,1:42,Joseph REBOUND (Off:0 Def:1),,,,,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,147,5,1,1,10:12 AM,1:29,Bjelica Bad Pass Turnover (P1.T4),,McDermott STEAL (1 STL),,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,149,1,75,1,10:12 AM,1:22,,,Sampson 1' Driving Finger Roll Layup (2 PTS) (Holiday 2 AST),29 - 33,4,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,151,6,4,1,10:12 AM,1:11,Joseph OFF.Foul (P1) (Z.Zarba),,,,,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,153,5,37,1,10:12 AM,1:11,Joseph Offensive Foul Turnover (P2.T5),,,,,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0011900003,154,6,4,1,10:12 AM,1:06,,,McDermott OFF.Foul (P1) (Z.Zarba),,,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,156,5,37,1,10:12 AM,1:06,,,McDermott Offensive Foul Turnover (P1.T5),,,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,157,1,1,1,10:13 AM,0:52,Bogdanovic 26' 3PT Jump Shot (3 PTS) (Joseph 2 AST),,,29 - 36,7,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,159,2,1,1,10:13 AM,0:40,,,MISS Sampson 7' Jump Shot,,,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,160,4,0,1,10:13 AM,0:38,Bjelica REBOUND (Off:1 Def:1),,,,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,161,1,108,1,10:13 AM,0:35,Ariza 1' Cutting Dunk Shot (2 PTS) (Bogdanovic 2 AST),,,29 - 38,9,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,163,5,2,1,10:13 AM,0:24,Holmes STEAL (1 STL),,Holiday Lost Ball Turnover (P1.T6),,,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,165,6,2,1,10:14 AM,0:02,,,Sampson S.FOUL (P2.PN) (J.Tiven),,,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,167,3,11,1,10:14 AM,0:02,MISS Joseph Free Throw 1 of 2,,,,,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,168,4,1,1,10:14 AM,0:02,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,169,3,12,1,10:14 AM,0:02,Joseph Free Throw 2 of 2 (1 PTS),,,29 - 39,10,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,170,2,79,1,10:14 AM,0:00,,,MISS Holiday 67' 3PT Pullup Jump Shot,,,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,171,4,0,1,10:14 AM,0:00,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,172,13,0,1,10:14 AM,0:00,,,,29 - 39,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0011900003,177,12,0,2,10:18 AM,12:00,,,,29 - 39,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,178,2,1,2,10:18 AM,11:40,,,MISS Holiday 27' 3PT Jump Shot,,,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,179,4,0,2,10:18 AM,11:39,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,181,1,1,2,10:18 AM,11:26,Bogdanovic 28' 3PT Jump Shot (6 PTS) (Ariza 2 AST),,,29 - 42,13,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,183,1,1,2,10:19 AM,11:04,,,McDermott  3PT Jump Shot (3 PTS) (Sumner 1 AST),32 - 42,10,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,185,1,101,2,10:19 AM,10:50,Bogdanovic 14' Driving Floating Jump Shot (8 PTS),,,32 - 44,12,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,186,6,4,2,10:19 AM,10:41,,,Johnson OFF.Foul (P2) (J.Tiven),,,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,188,5,37,2,10:19 AM,10:41,,,Johnson Offensive Foul Turnover (P1.T7),,,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,189,8,0,2,10:19 AM,10:41,,,SUB: McConnell FOR Holiday,,,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,190,8,0,2,10:19 AM,10:41,,,SUB: Holiday FOR McDermott,,,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,193,2,6,2,10:20 AM,10:29,MISS Holmes 2' Driving Layup,,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,194,4,0,2,10:20 AM,10:27,,,Holiday REBOUND (Off:0 Def:1),,,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,195,5,1,2,10:20 AM,10:17,Joseph STEAL (1 STL),,Holiday Bad Pass Turnover (P1.T8),,,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,197,5,1,2,10:20 AM,10:11,Bogdanovic Bad Pass Turnover (P1.T6),,Holiday STEAL (1 STL),,,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,199,6,2,2,10:20 AM,10:07,Joseph S.FOUL (P2.T1) (Z.Zarba),,,,,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,201,9,1,2,10:20 AM,10:07,KINGS Timeout: Regular (Full 2 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,202,18,4,2,10:21 AM,10:07,,,,32 - 44,12,0,199,Reggie Williams,,,,,0,0,,,,,,1,0,,,,,,0
+0011900003,203,3,11,2,10:24 AM,10:07,,,Holiday Free Throw 1 of 2 (1 PTS),33 - 44,11,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,204,3,12,2,10:24 AM,10:07,,,Holiday Free Throw 2 of 2 (2 PTS),34 - 44,10,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,205,5,1,2,10:24 AM,9:56,Joseph Bad Pass Turnover (P3.T7),,Sumner STEAL (1 STL),,,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,207,2,5,2,10:24 AM,9:49,Holmes BLOCK (1 BLK),,MISS Brimah 1' Layup,,,5,1628578,Amida Brimah,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1
+0011900003,209,4,0,2,10:24 AM,9:49,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,211,1,79,2,10:24 AM,9:45,,,McConnell 14' Pullup Jump Shot (2 PTS),36 - 44,8,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,212,1,1,2,10:25 AM,9:31,Bjelica 27' 3PT Jump Shot (7 PTS) (Bogdanovic 3 AST),,,36 - 47,11,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,214,5,4,2,10:25 AM,9:16,,,Brimah Traveling Turnover (P1.T9),,,5,1628578,Amida Brimah,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,215,2,1,2,10:26 AM,9:01,MISS Bjelica 25' 3PT Jump Shot,,,,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,216,4,0,2,10:26 AM,9:00,,,Sumner REBOUND (Off:0 Def:2),,,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,217,1,79,2,10:26 AM,8:53,,,Sumner 19' Pullup Jump Shot (5 PTS),38 - 47,9,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,218,6,1,2,10:26 AM,8:38,,,Johnson P.FOUL (P3.T1) (L.Wood),,,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,220,8,0,2,10:26 AM,8:38,SUB: Barnes FOR Bjelica,,,,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,221,8,0,2,10:26 AM,8:38,,,SUB: Sampson FOR Brimah,,,5,1628578,Amida Brimah,1610612754.0,Indiana,Pacers,IND,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,224,6,6,2,10:27 AM,8:38,,,McConnell AWAY.FROM.PLAY.FOUL (P1.T2) (Z.Zarba),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,226,3,10,2,10:27 AM,8:38,Joseph Free Throw 1 of 1 (2 PTS),,,38 - 48,10,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,227,8,0,2,10:27 AM,8:38,,,SUB: Warren FOR Johnson,,,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,229,1,1,2,10:27 AM,8:31,Ariza 26' 3PT Jump Shot (5 PTS) (Barnes 2 AST),,,38 - 51,13,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,231,5,2,2,10:28 AM,8:11,Holmes STEAL (2 STL),,Sampson Lost Ball Turnover (P1.T10),,,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,233,2,75,2,10:28 AM,7:57,MISS Ariza 2' Driving Finger Roll Layup,,,,,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,234,4,0,2,10:28 AM,7:55,,,Warren REBOUND (Off:0 Def:1),,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,235,2,5,2,10:28 AM,7:47,Holmes BLOCK (2 BLK),,MISS Warren 1' Layup,,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1
+0011900003,237,4,0,2,10:28 AM,7:47,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,239,2,1,2,10:29 AM,7:35,MISS Ariza  3PT Jump Shot,,,,,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,240,4,0,2,10:29 AM,7:29,Bogdanovic REBOUND (Off:1 Def:0),,,,,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,241,1,98,2,10:29 AM,7:21,Holmes 1' Cutting Layup Shot (4 PTS) (Bogdanovic 4 AST),,,38 - 53,15,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,243,9,1,2,10:29 AM,7:15,,,Pacers Timeout: Regular (Reg.2 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,244,8,0,2,10:31 AM,7:15,SUB: Fox FOR Ariza,,,,,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,245,8,0,2,10:31 AM,7:15,SUB: Bagley III FOR Joseph,,,,,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,246,8,0,2,10:31 AM,7:15,SUB: Hield FOR Holmes,,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,247,8,0,2,10:31 AM,7:15,,,SUB: Sabonis FOR Sumner,,,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,248,8,0,2,10:31 AM,7:15,,,SUB: Lamb FOR Sampson,,,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,254,6,1,2,10:32 AM,7:11,Bogdanovic P.FOUL (P1.T2) (J.Tiven),,,,,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,256,2,47,2,10:32 AM,7:02,,,MISS Warren 7' Turnaround Jump Shot,,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,257,4,0,2,10:32 AM,6:59,Hield REBOUND (Off:0 Def:3),,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,258,1,80,2,10:33 AM,6:44,Bogdanovic 26' 3PT Step Back Jump Shot (11 PTS) (Fox 3 AST),,,38 - 56,18,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,259,2,80,2,10:33 AM,6:33,,,MISS Holiday  3PT Step Back Jump Shot,,,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,260,4,0,2,10:33 AM,6:30,Fox REBOUND (Off:0 Def:1),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,261,2,98,2,10:33 AM,6:25,MISS Bagley III 6' Cutting Layup Shot,,Sabonis BLOCK (1 BLK),,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1
+0011900003,263,4,0,2,10:33 AM,6:25,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,265,6,2,2,10:33 AM,6:18,,,Warren S.FOUL (P1.T3) (Z.Zarba),,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,267,3,13,2,10:34 AM,6:18,Barnes Free Throw 1 of 3 (6 PTS),,,38 - 57,19,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,268,3,14,2,10:34 AM,6:18,Barnes Free Throw 2 of 3 (7 PTS),,,38 - 58,20,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,269,3,15,2,10:35 AM,6:18,Barnes Free Throw 3 of 3 (8 PTS),,,38 - 59,21,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,270,6,1,2,10:35 AM,6:05,Bagley III P.FOUL (P3.T3) (Z.Zarba),,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,272,8,0,2,10:35 AM,6:05,,,SUB: Brogdon FOR McConnell,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,274,2,1,2,10:35 AM,5:50,,,MISS Sabonis 28' 3PT Jump Shot,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,275,4,0,2,10:35 AM,5:46,Hield REBOUND (Off:0 Def:4),,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,276,2,6,2,10:35 AM,5:39,MISS Hield 1' Driving Layup,,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,277,4,0,2,10:36 AM,5:38,Bagley III REBOUND (Off:1 Def:0),,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,278,5,4,2,10:36 AM,5:36,Fox Traveling Turnover (P2.T8),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0011900003,279,8,0,2,10:36 AM,5:36,SUB: Dedmon FOR Bogdanovic,,,,,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,4,203473,Dewayne Dedmon,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,280,8,0,2,10:36 AM,5:36,,,SUB: Turner FOR Holiday,,,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,283,1,47,2,10:36 AM,5:18,,,Turner 11' Turnaround Jump Shot (4 PTS),40 - 59,19,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,284,2,6,2,10:36 AM,5:03,MISS Bagley III 1' Driving Layup,,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,285,4,0,2,10:36 AM,5:02,,,Sabonis REBOUND (Off:2 Def:1),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,286,6,1,2,10:37 AM,4:57,Fox P.FOUL (P3.T4) (Z.Zarba),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,288,7,5,2,10:37 AM,4:52,Barnes Violation:Kicked Ball (L.Wood),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011900003,289,2,57,2,10:37 AM,4:38,,,MISS Sabonis 6' Driving Hook Shot,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,290,4,0,2,10:38 AM,4:35,,,Turner REBOUND (Off:1 Def:3),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,291,2,97,2,10:38 AM,4:35,,,MISS Turner 1' Tip Layup Shot,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,292,4,0,2,10:38 AM,4:35,,,Turner REBOUND (Off:2 Def:3),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,293,1,97,2,10:38 AM,4:35,,,Turner 1' Tip Layup Shot (6 PTS),42 - 59,17,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,294,7,2,2,10:38 AM,4:35,Dedmon Violation:Defensive Goaltending (Z.Zarba),,,,,4,203473,Dewayne Dedmon,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0011900003,295,2,1,2,10:38 AM,4:24,MISS Dedmon 24' 3PT Jump Shot,,,,,4,203473,Dewayne Dedmon,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,296,4,0,2,10:38 AM,4:21,,,Turner REBOUND (Off:2 Def:4),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,297,6,1,2,10:38 AM,4:13,Hield P.FOUL (P2.PN) (L.Wood),,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,299,3,11,2,10:39 AM,4:13,,,Lamb Free Throw 1 of 2 (9 PTS),43 - 59,16,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,300,3,12,2,10:39 AM,4:13,,,Lamb Free Throw 2 of 2 (10 PTS),44 - 59,15,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,301,1,86,2,10:39 AM,3:58,Hield 14' Turnaround Fadeaway (7 PTS),,,44 - 61,17,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,302,1,75,2,10:39 AM,3:48,,,Brogdon  Driving Finger Roll Layup (3 PTS),46 - 61,15,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,303,1,102,2,10:40 AM,3:40,Fox 7' Driving Floating Bank Jump Shot (10 PTS),,,46 - 63,17,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,304,6,2,2,10:40 AM,3:40,,,Brogdon S.FOUL (P3.T4) (L.Wood),,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,306,3,10,2,10:40 AM,3:40,Fox Free Throw 1 of 1 (11 PTS),,,46 - 64,18,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,307,6,1,2,10:40 AM,3:28,Bagley III P.FOUL (P4.PN) (L.Wood),,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,309,3,11,2,10:41 AM,3:28,,,Sabonis Free Throw 1 of 2 (7 PTS),47 - 64,17,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,314,3,12,2,10:41 AM,3:28,,,MISS Sabonis Free Throw 2 of 2,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,310,8,0,2,10:41 AM,3:28,SUB: Ferrell FOR Fox,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1627812,Yogi Ferrell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,311,8,0,2,10:41 AM,3:28,SUB: Bjelica FOR Bagley III,,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,315,4,0,2,10:41 AM,3:26,Dedmon REBOUND (Off:0 Def:2),,,,,4,203473,Dewayne Dedmon,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,316,2,101,2,10:41 AM,3:17,MISS Hield 16' Driving Floating Jump Shot,,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,317,4,0,2,10:41 AM,3:14,,,Turner REBOUND (Off:2 Def:5),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,318,2,1,2,10:41 AM,3:09,,,MISS Turner 27' 3PT Jump Shot,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,319,4,0,2,10:41 AM,3:07,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,321,6,1,2,10:42 AM,2:57,,,Warren P.FOUL (P2.PN) (J.Tiven),,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,323,3,11,2,10:42 AM,2:57,Barnes Free Throw 1 of 2 (9 PTS),,,47 - 65,18,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,324,3,12,2,10:42 AM,2:57,Barnes Free Throw 2 of 2 (10 PTS),,,47 - 66,19,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,325,1,6,2,10:42 AM,2:39,,,Brogdon 2' Driving Layup (5 PTS),49 - 66,17,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,326,5,1,2,10:43 AM,2:27,Bjelica Bad Pass Turnover (P2.T9),,Lamb STEAL (1 STL),,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,328,1,76,2,10:43 AM,2:22,,,Lamb 1' Running Finger Roll Layup (12 PTS),51 - 66,15,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,329,2,79,2,10:43 AM,2:05,MISS Ferrell 19' Pullup Jump Shot,,,,,4,1627812,Yogi Ferrell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,330,4,0,2,10:43 AM,2:02,,,Brogdon REBOUND (Off:0 Def:1),,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,331,1,44,2,10:43 AM,1:52,,,Sabonis 1' Reverse Layup (9 PTS) (Turner 1 AST),53 - 66,13,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,333,5,2,2,10:44 AM,1:32,Bjelica Lost Ball Turnover (P3.T10),,Warren STEAL (1 STL),,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,335,1,78,2,10:44 AM,1:28,,,Warren 12' Floating Jump Shot (6 PTS),55 - 66,11,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,336,9,1,2,10:44 AM,1:25,KINGS Timeout: Regular (Full 3 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,338,8,0,2,10:45 AM,1:25,,,SUB: McDermott FOR Warren,,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,339,8,0,2,10:45 AM,1:25,,,SUB: Sampson FOR Turner,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,342,1,1,2,10:46 AM,1:11,Hield 27' 3PT Jump Shot (10 PTS) (Bjelica 1 AST),,,55 - 69,14,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,344,5,4,2,10:46 AM,0:57,,,Sabonis Traveling Turnover (P1.T11),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,345,2,1,2,10:46 AM,0:47,MISS Bjelica 30' 3PT Jump Shot,,,,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,349,4,0,2,10:47 AM,0:39,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,346,10,0,2,10:47 AM,0:39,Jump Ball Ferrell vs. Sampson: Tip to Lamb,,,,,4,1627812,Yogi Ferrell,1610612758.0,Sacramento,Kings,SAC,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,1
+0011900003,350,1,73,2,10:47 AM,0:33,,,Brogdon 2' Driving Reverse Layup (7 PTS),57 - 69,12,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,351,2,80,2,10:47 AM,0:28,MISS Hield 12' Step Back Jump Shot,,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,352,4,0,2,10:47 AM,0:26,,,Sabonis REBOUND (Off:2 Def:2),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,353,2,1,2,10:48 AM,0:06,,,MISS McDermott 24' 3PT Jump Shot,,,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,354,4,0,2,10:48 AM,0:03,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,356,1,66,2,10:48 AM,0:01,,,McDermott 16' Jump Bank Shot (5 PTS) (Lamb 2 AST),59 - 69,10,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,358,1,79,2,10:48 AM,0:00,Ferrell 58' 3PT Pullup Jump Shot (3 PTS) (Bjelica 2 AST),,,59 - 72,13,4,1627812,Yogi Ferrell,1610612758.0,Sacramento,Kings,SAC,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,359,18,0,2,10:48 AM,0:00,,,,59 - 72,13,0,358,Anfernee Hardaway,,,,,0,0,,,,,,1,0,,,,,,0
+0011900003,361,13,0,2,10:49 AM,0:00,,,,59 - 72,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0011900003,370,12,0,3,11:05 AM,12:00,,,,59 - 72,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,371,2,3,3,11:05 AM,11:47,,,MISS Sabonis 8' Hook Shot,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,373,2,97,3,11:05 AM,11:43,,,MISS Turner 1' Tip Layup Shot,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,372,4,0,3,11:05 AM,11:43,,,Turner REBOUND (Off:4 Def:5),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,374,4,0,3,11:05 AM,11:43,,,Turner REBOUND (Off:4 Def:5),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,376,1,1,3,11:05 AM,11:39,,,Brogdon 27' 3PT Jump Shot (10 PTS) (Turner 2 AST),62 - 72,10,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,378,2,63,3,11:06 AM,11:18,MISS Barnes 8' Fadeaway Jumper,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,379,4,0,3,11:06 AM,11:16,,,Brogdon REBOUND (Off:0 Def:2),,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,380,1,7,3,11:06 AM,11:08,,,Sabonis 1' Dunk (11 PTS),64 - 72,8,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,382,6,4,3,11:06 AM,10:53,Dedmon OFF.Foul (P2) (L.Wood),,,,,4,203473,Dewayne Dedmon,1610612758.0,Sacramento,Kings,SAC,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,384,5,37,3,11:06 AM,10:53,Dedmon Offensive Foul Turnover (P2.T11),,,,,4,203473,Dewayne Dedmon,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0011900003,385,6,2,3,11:06 AM,10:43,Hield S.FOUL (P3.T1) (L.Wood),,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,387,3,11,3,11:07 AM,10:43,,,Lamb Free Throw 1 of 2 (13 PTS),65 - 72,7,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,388,3,12,3,11:07 AM,10:43,,,Lamb Free Throw 2 of 2 (14 PTS),66 - 72,6,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,389,5,1,3,11:07 AM,10:29,Fox Bad Pass Turnover (P3.T12),,Sabonis STEAL (1 STL),,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,391,6,2,3,11:07 AM,10:26,Dedmon S.FOUL (P3.T2) (J.Tiven),,,,,4,203473,Dewayne Dedmon,1610612758.0,Sacramento,Kings,SAC,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,393,3,11,3,11:08 AM,10:26,,,Warren Free Throw 1 of 2 (7 PTS),67 - 72,5,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,394,3,12,3,11:08 AM,10:26,,,Warren Free Throw 2 of 2 (8 PTS),68 - 72,4,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,395,1,1,3,11:08 AM,10:10,Hield 28' 3PT Jump Shot (13 PTS) (Barnes 3 AST),,,68 - 75,7,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,397,1,1,3,11:08 AM,9:53,,,Warren 24' 3PT Jump Shot (11 PTS) (Sabonis 1 AST),71 - 75,4,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,399,5,1,3,11:09 AM,9:43,Fox Bad Pass Turnover (P4.T13),,Turner STEAL (1 STL),,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,401,1,50,3,11:09 AM,9:41,,,Warren  Running Dunk (13 PTS),73 - 75,2,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,402,6,2,3,11:09 AM,9:41,Hield S.FOUL (P4.T3) (L.Wood),,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,404,3,10,3,11:09 AM,9:41,,,Warren Free Throw 1 of 1 (14 PTS),74 - 75,1,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,405,6,2,3,11:09 AM,9:26,,,Warren S.FOUL (P3.T1) (J.Tiven),,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,407,3,11,3,11:10 AM,9:26,Barnes Free Throw 1 of 2 (11 PTS),,,74 - 76,2,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,408,3,12,3,11:10 AM,9:26,Barnes Free Throw 2 of 2 (12 PTS),,,74 - 77,3,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,409,6,4,3,11:10 AM,9:20,,,Turner OFF.Foul (P1) (L.Wood),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,411,5,37,3,11:10 AM,9:20,,,Turner Offensive Foul Turnover (P3.T12),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,412,6,1,3,11:11 AM,9:05,,,Brogdon P.FOUL (P4.T2) (Z.Zarba),,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,414,2,79,3,11:11 AM,8:57,MISS Fox 12' Pullup Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,415,4,0,3,11:11 AM,8:55,,,Warren REBOUND (Off:0 Def:2),,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,416,6,1,3,11:11 AM,8:55,Fox P.FOUL (P4.T4) (L.Wood),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,418,2,79,3,11:12 AM,8:44,,,MISS Lamb 17' Pullup Jump Shot,,,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,419,4,0,3,11:12 AM,8:41,,,Sabonis REBOUND (Off:3 Def:2),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,420,1,107,3,11:12 AM,8:41,,,Sabonis 1' Tip Dunk Shot (13 PTS),76 - 77,1,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,421,9,1,3,11:12 AM,8:41,KINGS Timeout: Regular (Full 4 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,422,1,79,3,11:15 AM,8:27,Hield 19' Pullup Jump Shot (15 PTS) (Fox 4 AST),,,76 - 79,3,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,424,1,108,3,11:15 AM,8:12,,,Turner 3' Cutting Dunk Shot (8 PTS) (Brogdon 6 AST),78 - 79,1,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,426,2,1,3,11:15 AM,8:01,MISS Bagley III 28' 3PT Jump Shot,,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,427,4,0,3,11:15 AM,7:59,,,Turner REBOUND (Off:4 Def:6),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,428,2,75,3,11:16 AM,7:43,,,MISS Brogdon 2' Driving Finger Roll Layup,,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,429,4,0,3,11:16 AM,7:41,,,Sabonis REBOUND (Off:4 Def:2),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,431,2,79,3,11:16 AM,7:29,,,MISS Brogdon 20' Pullup Jump Shot,,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,432,4,0,3,11:16 AM,7:26,Barnes REBOUND (Off:0 Def:1),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,434,1,79,3,11:17 AM,7:17,Hield 17' Pullup Jump Shot (17 PTS) (Barnes 4 AST),,,78 - 81,3,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,436,5,2,3,11:17 AM,6:53,Hield STEAL (1 STL),,Warren Lost Ball Turnover (P1.T13),,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,438,1,75,3,11:17 AM,6:52,Hield 1' Driving Finger Roll Layup (19 PTS) (Fox 5 AST),,,78 - 83,5,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,440,1,1,3,11:17 AM,6:36,,,Warren 24' 3PT Jump Shot (17 PTS) (Brogdon 7 AST),81 - 83,2,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,442,2,75,3,11:18 AM,6:17,MISS Fox 3' Driving Finger Roll Layup,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,443,4,0,3,11:18 AM,6:15,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,445,2,79,3,11:18 AM,6:07,,,MISS Brogdon 30' 3PT Pullup Jump Shot,,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,446,4,0,3,11:18 AM,6:05,Barnes REBOUND (Off:0 Def:2),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,447,6,2,3,11:18 AM,5:53,,,Warren S.FOUL (P4.T3) (L.Wood),,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,449,3,11,3,11:19 AM,5:53,Bagley III Free Throw 1 of 2 (7 PTS),,,81 - 84,3,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,460,3,12,3,11:19 AM,5:53,MISS Bagley III Free Throw 2 of 2,,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,450,8,0,3,11:19 AM,5:53,SUB: Ariza FOR Dedmon,,,,,4,203473,Dewayne Dedmon,1610612758.0,Sacramento,Kings,SAC,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,451,8,0,3,11:19 AM,5:53,SUB: Bjelica FOR Hield,,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,452,8,0,3,11:19 AM,5:53,SUB: Bogdanovic FOR Barnes,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,453,8,0,3,11:19 AM,5:53,,,SUB: Sampson FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,454,8,0,3,11:19 AM,5:53,,,SUB: McDermott FOR Warren,,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,461,4,0,3,11:19 AM,5:51,,,Turner REBOUND (Off:4 Def:7),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,462,5,1,3,11:19 AM,5:38,Bjelica STEAL (1 STL),,Brogdon Bad Pass Turnover (P2.T14),,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,464,5,2,3,11:19 AM,5:32,Bagley III Lost Ball Turnover (P1.T14),,Turner STEAL (2 STL),,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,466,1,108,3,11:20 AM,5:28,,,Sampson 1' Cutting Dunk Shot (4 PTS) (Brogdon 8 AST),83 - 84,1,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,468,1,1,3,11:20 AM,5:07,Bagley III 18' Jump Shot (9 PTS),,,83 - 86,3,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,469,2,3,3,11:20 AM,4:49,Bagley III BLOCK (1 BLK),,MISS Sampson 4' Hook Shot,,,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,1
+0011900003,471,4,0,3,11:20 AM,4:46,Bogdanovic REBOUND (Off:1 Def:1),,,,,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,472,2,1,3,11:20 AM,4:40,MISS Ariza 28' 3PT Jump Shot,,,,,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,473,4,0,3,11:20 AM,4:37,Bjelica REBOUND (Off:2 Def:1),,,,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,474,2,75,3,11:21 AM,4:26,MISS Fox 1' Driving Finger Roll Layup,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,475,4,0,3,11:21 AM,4:25,,,Brogdon REBOUND (Off:0 Def:3),,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,476,2,1,3,11:21 AM,4:21,,,MISS Lamb 27' 3PT Jump Shot,,,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,477,4,0,3,11:21 AM,4:18,Bagley III REBOUND (Off:1 Def:1),,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,478,2,1,3,11:21 AM,3:56,MISS Bagley III  3PT Jump Shot,,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,479,4,0,3,11:21 AM,3:52,,,Brogdon REBOUND (Off:0 Def:4),,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,480,6,2,3,11:21 AM,3:42,Fox S.FOUL (P5.PN) (Z.Zarba),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,482,3,11,3,11:22 AM,3:42,,,Brogdon Free Throw 1 of 2 (11 PTS),84 - 86,2,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,483,8,0,3,11:22 AM,3:42,SUB: Joseph FOR Fox,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,484,8,0,3,11:22 AM,3:42,SUB: Holmes FOR Bagley III,,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,485,8,0,3,11:22 AM,3:42,,,SUB: Sumner FOR Lamb,,,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,489,3,12,3,11:22 AM,3:42,,,Brogdon Free Throw 2 of 2 (12 PTS),85 - 86,1,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,490,1,1,3,11:22 AM,3:21,Bjelica 26' 3PT Jump Shot (10 PTS) (Bogdanovic 5 AST),,,85 - 89,4,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,492,9,1,3,11:23 AM,3:19,,,Pacers Timeout: Regular (Reg.3 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,493,8,0,3,11:25 AM,3:19,,,SUB: Holiday FOR Brogdon,,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,494,8,0,3,11:25 AM,3:19,,,SUB: Sabonis FOR Turner,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,498,6,1,3,11:26 AM,3:05,Ariza P.FOUL (P1.PN) (Z.Zarba),,,,,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,500,3,11,3,11:26 AM,3:05,,,McDermott Free Throw 1 of 2 (6 PTS),86 - 89,3,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,501,3,12,3,11:27 AM,3:05,,,McDermott Free Throw 2 of 2 (7 PTS),87 - 89,2,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,502,2,1,3,11:27 AM,2:50,MISS Bogdanovic 27' 3PT Jump Shot,,,,,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,503,4,0,3,11:27 AM,2:48,,,Holiday REBOUND (Off:0 Def:1),,,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,504,2,1,3,11:27 AM,2:42,,,MISS Sabonis 25' 3PT Jump Shot,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,505,4,0,3,11:27 AM,2:39,Ariza REBOUND (Off:0 Def:1),,,,,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,506,6,1,3,11:27 AM,2:18,,,McDermott P.FOUL (P2.T4) (J.Tiven),,,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,508,1,1,3,11:28 AM,2:13,Bogdanovic 11' Jump Shot (13 PTS) (Ariza 3 AST),,,87 - 91,4,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,510,2,75,3,11:28 AM,2:02,,,MISS Sumner 10' Driving Finger Roll Layup,,,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,511,4,0,3,11:28 AM,2:00,Bjelica REBOUND (Off:2 Def:2),,,,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,512,6,4,3,11:28 AM,1:57,Holmes OFF.Foul (P1) (Z.Zarba),,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,514,5,37,3,11:28 AM,1:57,Holmes Offensive Foul Turnover (P1.T15),,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0011900003,516,2,98,3,11:29 AM,1:45,,,MISS Sabonis 2' Cutting Layup Shot,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,517,4,0,3,11:29 AM,1:43,Bjelica REBOUND (Off:2 Def:3),,,,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,518,2,3,3,11:29 AM,1:29,MISS Bjelica 5' Hook Shot,,,,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,519,4,0,3,11:29 AM,1:28,,,Sabonis REBOUND (Off:4 Def:3),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,520,1,79,3,11:29 AM,1:21,,,McDermott 19' Pullup Jump Shot (9 PTS) (Holiday 3 AST),89 - 91,2,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,522,1,78,3,11:29 AM,1:04,Holmes 8' Floating Jump Shot (6 PTS) (Bogdanovic 6 AST),,,89 - 93,4,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,524,2,75,3,11:30 AM,0:48,,,MISS Holiday 7' Driving Finger Roll Layup,,,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,525,4,0,3,11:30 AM,0:46,Holmes REBOUND (Off:0 Def:1),,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,526,1,1,3,11:30 AM,0:38,Joseph 27' 3PT Jump Shot (5 PTS) (Ariza 4 AST),,,89 - 96,7,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,528,6,1,3,11:30 AM,0:29,Joseph P.FOUL (P3.PN) (L.Wood),,,,,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,530,3,11,3,11:30 AM,0:29,,,Holiday Free Throw 1 of 2 (3 PTS),90 - 96,6,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,531,3,12,3,11:30 AM,0:29,,,MISS Holiday Free Throw 2 of 2,,,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,532,4,0,3,11:30 AM,0:29,Holmes REBOUND (Off:0 Def:2),,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,533,6,2,3,11:31 AM,0:06,,,Holiday S.FOUL (P1.PN) (Z.Zarba),,,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,535,3,11,3,11:31 AM,0:06,MISS Bogdanovic Free Throw 1 of 2,,,,,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,536,4,1,3,11:31 AM,0:06,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,537,8,0,3,11:31 AM,0:06,SUB: Barnes FOR Bjelica,,,,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,539,3,12,3,11:32 AM,0:06,Bogdanovic Free Throw 2 of 2 (14 PTS),,,90 - 97,7,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,540,1,50,3,11:32 AM,0:01,,,Sabonis 1' Running Dunk (15 PTS),92 - 97,5,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,541,2,1,3,11:32 AM,0:00,MISS Holmes 47' 3PT Jump Shot,,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,542,4,0,3,11:32 AM,0:00,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,543,13,0,3,11:32 AM,0:00,,,,92 - 97,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0011900003,548,12,0,4,11:35 AM,12:00,,,,92 - 97,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,549,5,4,4,11:35 AM,11:50,Bogdanovic Traveling Turnover (P2.T16),,,,,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0011900003,550,6,2,4,11:35 AM,11:41,Joseph S.FOUL (P4.T1) (J.Tiven),,,,,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,552,3,11,4,11:36 AM,11:41,,,Sabonis Free Throw 1 of 2 (16 PTS),93 - 97,4,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,553,3,12,4,11:36 AM,11:41,,,Sabonis Free Throw 2 of 2 (17 PTS),94 - 97,3,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,554,2,1,4,11:36 AM,11:28,MISS Joseph  3PT Jump Shot,,,,,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,555,4,0,4,11:36 AM,11:26,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,556,6,3,4,11:36 AM,11:26,,,McDermott L.B.FOUL (P3.T1) (J.Tiven),,,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,558,2,1,4,11:37 AM,11:21,MISS Bjelica 26' 3PT Jump Shot,,,,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,559,4,0,4,11:37 AM,11:18,,,Sabonis REBOUND (Off:4 Def:4),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,560,5,4,4,11:37 AM,11:06,,,Holiday Traveling Turnover (P2.T15),,,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,561,1,108,4,11:38 AM,10:47,Holmes 2' Cutting Dunk Shot (8 PTS) (Bogdanovic 7 AST),,,94 - 99,5,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,563,5,4,4,11:38 AM,10:33,,,Sabonis Traveling Turnover (P2.T16),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,564,6,1,4,11:38 AM,10:21,,,McDermott P.FOUL (P4.T2) (L.Wood),,,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,566,8,0,4,11:38 AM,10:21,,,SUB: McConnell FOR Holiday,,,5,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,567,8,0,4,11:38 AM,10:21,,,SUB: Holiday FOR McDermott,,,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,570,5,1,4,11:39 AM,10:17,Bogdanovic Bad Pass Turnover (P3.T17),,Sumner STEAL (2 STL),,,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,572,6,1,4,11:39 AM,10:14,Bogdanovic P.FOUL (P2.T2) (L.Wood),,,,,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,575,1,7,4,11:40 AM,9:55,,,Sumner 1' Dunk (7 PTS) (Sabonis 2 AST),96 - 99,3,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,577,1,5,4,11:40 AM,9:36,Holmes  Layup (10 PTS) (Ariza 5 AST),,,96 - 101,5,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,579,5,4,4,11:40 AM,9:24,,,Sabonis Traveling Turnover (P3.T17),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,580,1,102,4,11:41 AM,9:12,Bjelica 6' Driving Floating Bank Jump Shot (12 PTS) (Joseph 3 AST),,,96 - 103,7,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,582,6,2,4,11:41 AM,8:56,Holmes S.FOUL (P2.T3) (Z.Zarba),,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,584,3,11,4,11:41 AM,8:56,,,Holiday Free Throw 1 of 2 (3 PTS),97 - 103,6,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,585,8,0,4,11:41 AM,8:56,,,SUB: Lamb FOR Sumner,,,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,587,3,12,4,11:42 AM,8:56,,,Holiday Free Throw 2 of 2 (4 PTS),98 - 103,5,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,588,6,2,4,11:42 AM,8:35,,,McConnell S.FOUL (P2.T3) (Z.Zarba),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,590,3,11,4,11:43 AM,8:35,Bjelica Free Throw 1 of 2 (13 PTS),,,98 - 104,6,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,591,3,12,4,11:43 AM,8:35,Bjelica Free Throw 2 of 2 (14 PTS),,,98 - 105,7,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,592,5,4,4,11:43 AM,8:21,,,Lamb Traveling Turnover (P2.T18),,,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,593,8,0,4,11:43 AM,8:21,SUB: Barnes FOR Bjelica,,,,,4,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,595,2,47,4,11:44 AM,8:08,MISS Barnes 13' Turnaround Jump Shot,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,596,4,0,4,11:44 AM,8:06,,,Sabonis REBOUND (Off:4 Def:5),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,597,2,79,4,11:44 AM,7:53,,,MISS Lamb 27' 3PT Pullup Jump Shot,,,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,598,4,0,4,11:44 AM,7:51,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,599,6,3,4,11:44 AM,7:51,Holmes L.B.FOUL (P3.T4) (L.Wood),,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,601,8,0,4,11:44 AM,7:51,,,SUB: Turner FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,603,2,1,4,11:45 AM,7:37,,,MISS Lamb 32' 3PT Jump Shot,,,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,604,4,0,4,11:45 AM,7:35,Holmes REBOUND (Off:0 Def:3),,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,605,2,79,4,11:45 AM,7:14,MISS Ariza 24' 3PT Pullup Jump Shot,,,,,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,606,4,0,4,11:45 AM,7:11,,,McConnell REBOUND (Off:0 Def:1),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,607,6,1,4,11:45 AM,7:07,Bogdanovic P.FOUL (P3.PN) (L.Wood),,,,,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,609,3,11,4,11:46 AM,7:07,,,Lamb Free Throw 1 of 2 (15 PTS),99 - 105,6,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,610,8,0,4,11:46 AM,7:07,SUB: Fox FOR Joseph,,,,,4,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,612,3,12,4,11:46 AM,7:07,,,Lamb Free Throw 2 of 2 (16 PTS),100 - 105,5,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,613,5,4,4,11:46 AM,6:58,Bogdanovic Traveling Turnover (P4.T18),,,,,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0011900003,614,9,1,4,11:46 AM,6:58,,,Pacers Timeout: Regular (Reg.4 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,615,8,0,4,11:49 AM,6:58,SUB: Hield FOR Bogdanovic,,,,,4,203992,Bogdan Bogdanovic,1610612758.0,Sacramento,Kings,SAC,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,617,1,98,4,11:50 AM,6:43,,,McConnell 1' Cutting Layup Shot (4 PTS) (Turner 3 AST),102 - 105,3,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,619,7,2,4,11:50 AM,6:43,Fox Violation:Defensive Goaltending (L.Wood),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0011900003,620,6,2,4,11:50 AM,6:32,,,Johnson S.FOUL (P4.T4) (Z.Zarba),,,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,622,3,11,4,11:51 AM,6:32,Barnes Free Throw 1 of 2 (13 PTS),,,102 - 106,4,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,623,8,0,4,11:51 AM,6:32,,,SUB: Warren FOR Holiday,,,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,624,8,0,4,11:51 AM,6:32,,,SUB: Brogdon FOR McConnell,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,627,3,12,4,11:51 AM,6:32,Barnes Free Throw 2 of 2 (14 PTS),,,102 - 107,5,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,628,5,4,4,11:51 AM,6:20,,,Lamb Traveling Turnover (P3.T19),,,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,630,1,63,4,11:52 AM,5:58,Fox 11' Fadeaway Jumper (13 PTS),,,102 - 109,7,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,631,2,1,4,11:52 AM,5:36,,,MISS Lamb 26' 3PT Jump Shot,,,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,632,4,0,4,11:53 AM,5:33,Fox REBOUND (Off:0 Def:2),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,633,1,76,4,11:53 AM,5:30,Hield  Running Finger Roll Layup (21 PTS) (Fox 6 AST),,,102 - 111,9,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,635,2,79,4,11:53 AM,5:03,,,MISS Lamb 26' 3PT Pullup Jump Shot,,,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,636,4,0,4,11:53 AM,5:00,Holmes REBOUND (Off:0 Def:4),,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,637,5,1,4,11:53 AM,4:52,Hield Bad Pass Turnover (P1.T19),,Turner STEAL (3 STL),,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,639,6,2,4,11:53 AM,4:49,Barnes S.FOUL (P1.PN) (J.Tiven),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,641,3,11,4,11:54 AM,4:49,,,MISS Johnson Free Throw 1 of 2,,,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,642,4,1,4,11:54 AM,4:49,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,643,8,0,4,11:54 AM,4:49,SUB: Bagley III FOR Holmes,,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011900003,645,3,12,4,11:54 AM,4:49,,,Johnson Free Throw 2 of 2 (2 PTS),103 - 111,8,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,646,2,1,4,11:54 AM,4:40,MISS Hield 25' 3PT Jump Shot,,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,647,4,0,4,11:54 AM,4:37,,,Warren REBOUND (Off:0 Def:3),,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,648,2,75,4,11:54 AM,4:27,,,MISS Brogdon  Driving Finger Roll Layup,,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,649,4,0,4,11:54 AM,4:25,Bagley III REBOUND (Off:1 Def:2),,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,650,2,6,4,11:55 AM,4:18,MISS Bagley III 1' Driving Layup,,Turner BLOCK (1 BLK),,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0011900003,652,4,0,4,11:55 AM,4:15,,,Warren REBOUND (Off:0 Def:4),,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,653,2,78,4,11:55 AM,4:12,,,MISS Warren 3' Floating Jump Shot,,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,654,4,0,4,11:55 AM,4:10,,,Johnson REBOUND (Off:1 Def:0),,,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,655,1,72,4,11:55 AM,4:10,,,Johnson 1' Putback Layup (4 PTS),105 - 111,6,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,656,9,1,4,11:55 AM,4:10,KINGS Timeout: Regular (Full 5 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,657,8,0,4,11:57 AM,4:10,,,SUB: Sampson FOR Johnson,,,5,1628993,Alize Johnson,1610612754.0,Indiana,Pacers,IND,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,659,2,80,4,11:58 AM,4:01,MISS Fox 10' Step Back Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,660,4,0,4,11:58 AM,3:59,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,661,6,3,4,11:58 AM,3:59,Bagley III L.B.FOUL (P5.PN) (L.Wood),,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,663,3,11,4,11:58 AM,3:59,,,MISS Turner Free Throw 1 of 2,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,664,4,1,4,11:58 AM,3:59,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,665,3,12,4,11:59 AM,3:59,,,Turner Free Throw 2 of 2 (9 PTS),106 - 111,5,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011900003,666,1,6,4,11:59 AM,3:47,Barnes 2' Driving Layup (16 PTS),,,106 - 113,7,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,667,9,1,4,11:59 AM,3:46,,,Pacers Timeout: Regular (Reg.5 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,668,2,79,4,12:01 PM,3:33,,,MISS Brogdon 17' Pullup Jump Shot,,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,669,4,0,4,12:01 PM,3:30,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,671,2,1,4,12:01 PM,3:17,MISS Hield 28' 3PT Jump Shot,,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,672,4,0,4,12:01 PM,3:13,Bagley III REBOUND (Off:2 Def:2),,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,673,2,44,4,12:01 PM,3:12,MISS Bagley III 3' Reverse Layup,,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,674,4,0,4,12:01 PM,3:11,,,Brogdon REBOUND (Off:0 Def:5),,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,675,1,1,4,12:01 PM,3:06,,,Warren  3PT Jump Shot (20 PTS) (Brogdon 9 AST),109 - 113,4,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,677,6,2,4,12:02 PM,2:42,,,Lamb S.FOUL (P2.PN) (L.Wood),,,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,679,3,11,4,12:02 PM,2:42,Hield Free Throw 1 of 2 (22 PTS),,,109 - 114,5,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,680,3,12,4,12:02 PM,2:42,Hield Free Throw 2 of 2 (23 PTS),,,109 - 115,6,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,681,1,101,4,12:03 PM,2:32,,,Lamb 13' Driving Floating Jump Shot (18 PTS) (Brogdon 10 AST),111 - 115,4,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,683,2,80,4,12:03 PM,2:10,MISS Hield 27' 3PT Step Back Jump Shot,,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,684,4,0,4,12:03 PM,2:07,,,Warren REBOUND (Off:0 Def:5),,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,685,5,4,4,12:03 PM,2:03,,,Turner Traveling Turnover (P4.T20),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,686,2,47,4,12:04 PM,1:53,MISS Fox 6' Turnaround Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,687,4,0,4,12:04 PM,1:51,,,Sampson REBOUND (Off:0 Def:1),,,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,688,2,1,4,12:04 PM,1:41,,,MISS Turner 7' Jump Shot,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,689,4,0,4,12:04 PM,1:37,Ariza REBOUND (Off:0 Def:2),,,,,4,2772,Trevor Ariza,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,690,1,1,4,12:04 PM,1:22,Barnes 28' 3PT Jump Shot (19 PTS) (Fox 7 AST),,,111 - 118,7,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,692,9,1,4,12:04 PM,1:21,,,Pacers Timeout: Regular (Reg.6 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,693,8,0,4,12:06 PM,1:21,,,SUB: McDermott FOR Sampson,,,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,695,2,75,4,12:06 PM,1:14,Bagley III BLOCK (2 BLK),,MISS Brogdon 1' Driving Finger Roll Layup,,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,1
+0011900003,697,4,0,4,12:06 PM,1:13,,,Turner REBOUND (Off:5 Def:7),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,698,2,51,4,12:06 PM,1:13,,,MISS Turner 1' Reverse Dunk,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,699,4,0,4,12:06 PM,1:13,,,Turner REBOUND (Off:6 Def:7),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,700,1,97,4,12:06 PM,1:13,,,Turner 1' Tip Layup Shot (11 PTS),113 - 118,5,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,701,2,79,4,12:07 PM,0:49,MISS Fox 20' Pullup Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,702,4,0,4,12:07 PM,0:45,,,Lamb REBOUND (Off:0 Def:1),,,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,703,1,75,4,12:07 PM,0:35,,,Lamb 2' Driving Finger Roll Layup (20 PTS),115 - 118,3,5,203087,Jeremy Lamb,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,704,2,6,4,12:07 PM,0:16,MISS Fox 5' Driving Layup,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,705,4,0,4,12:07 PM,0:13,,,Brogdon REBOUND (Off:0 Def:6),,,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,706,9,1,4,12:07 PM,0:10,,,Pacers Timeout: Regular (Reg.7 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,707,1,1,4,12:09 PM,0:07,,,Warren 25' 3PT Jump Shot (23 PTS) (Brogdon 11 AST),118 - 118,TIE,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,709,2,6,4,12:10 PM,0:01,MISS Fox 5' Driving Layup,,Turner BLOCK (2 BLK),,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0011900003,711,4,0,4,12:10 PM,0:00,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,713,9,1,4,12:10 PM,0:00,KINGS Timeout: Regular (Full 6 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,714,8,0,4,12:11 PM,0:00,,,SUB: Holiday FOR McDermott,,,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,717,2,1,4,12:12 PM,0:00,MISS Hield 27' 3PT Jump Shot,,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,718,4,0,4,12:12 PM,0:00,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,719,13,0,4,12:12 PM,0:00,,,,118 - 118,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0011900003,728,12,0,5,12:15 PM,5:00,,,,118 - 118,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,730,10,0,5,12:15 PM,5:00,Jump Ball Bagley III vs. Sabonis: Tip to Warren,,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,1
+0011900003,733,1,1,5,12:15 PM,4:44,,,Warren 27' 3PT Jump Shot (26 PTS) (Brogdon 12 AST),121 - 118,-3,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,735,6,2,5,12:16 PM,4:29,,,Sampson S.FOUL (P3.T1) (Z.Zarba),,,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,737,3,11,5,12:16 PM,4:29,Barnes Free Throw 1 of 2 (20 PTS),,,121 - 119,-2,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,738,3,12,5,12:16 PM,4:29,Barnes Free Throw 2 of 2 (21 PTS),,,121 - 120,-1,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,739,2,6,5,12:17 PM,4:12,,,MISS Warren 2' Driving Layup,,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,741,4,0,5,12:17 PM,4:09,,,Sabonis REBOUND (Off:5 Def:5),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,742,1,44,5,12:17 PM,4:05,,,Sabonis 1' Reverse Layup (19 PTS) (Brogdon 13 AST),123 - 120,-3,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,744,6,2,5,12:17 PM,3:43,,,Sampson S.FOUL (P4.T2) (J.Tiven),,,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,746,3,11,5,12:17 PM,3:43,MISS Bagley III Free Throw 1 of 2,,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,747,4,1,5,12:17 PM,3:43,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,748,3,12,5,12:18 PM,3:43,Bagley III Free Throw 2 of 2 (10 PTS),,,123 - 121,-2,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,749,2,1,5,12:18 PM,3:25,,,MISS Sumner  3PT Jump Shot,,,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,750,4,0,5,12:18 PM,3:20,Fox REBOUND (Off:0 Def:3),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,751,2,1,5,12:18 PM,3:14,MISS Barnes 27' 3PT Jump Shot,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,752,4,0,5,12:18 PM,3:12,,,Sampson REBOUND (Off:0 Def:2),,,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,753,1,79,5,12:18 PM,3:01,,,Brogdon 28' 3PT Pullup Jump Shot (15 PTS),126 - 121,-5,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,754,9,1,5,12:19 PM,2:59,KINGS Timeout: Regular (Full 7 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,755,5,45,5,12:20 PM,2:47,Hield Out of Bounds - Bad Pass Turnover Turnover (P2.T20),,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0011900003,756,2,79,5,12:21 PM,2:36,,,MISS Warren 12' Pullup Jump Shot,,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,757,4,0,5,12:21 PM,2:33,,,Sampson REBOUND (Off:1 Def:2),,,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,758,5,40,5,12:21 PM,2:33,,,Sampson Out of Bounds Lost Ball Turnover (P2.T21),,,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,759,1,75,5,12:21 PM,2:25,Fox 1' Driving Finger Roll Layup (15 PTS),,,126 - 123,-3,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,760,6,2,5,12:21 PM,2:25,,,Sabonis S.FOUL (P1.T3) (Z.Zarba),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,762,3,10,5,12:22 PM,2:25,MISS Fox Free Throw 1 of 1,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011900003,763,4,0,5,12:22 PM,2:23,,,Sabonis REBOUND (Off:5 Def:6),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,764,5,4,5,12:22 PM,2:11,,,Sabonis Traveling Turnover (P4.T22),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,765,2,67,5,12:23 PM,2:02,MISS Bagley III 1' Hook Bank Shot,,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,766,4,0,5,12:23 PM,1:59,,,Sampson REBOUND (Off:1 Def:3),,,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,767,1,98,5,12:23 PM,1:50,,,Warren 2' Cutting Layup Shot (28 PTS) (Brogdon 14 AST),128 - 123,-5,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,5,1627763,Malcolm Brogdon,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,769,1,79,5,12:23 PM,1:35,Hield 24' Pullup Jump Shot (25 PTS),,,128 - 125,-3,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,770,18,0,5,12:23 PM,1:34,,,,128 - 125,-3,0,769,B.J. Armstrong,,,,,0,0,,,,,,1,0,,,,,,0
+0011900003,776,5,45,5,12:24 PM,1:27,,,Sabonis Out of Bounds - Bad Pass Turnover Turnover (P5.T23),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,772,18,1,5,12:24 PM,1:27,,,,128 - 125,-3,0,771,Elmore Spencer,,,,,0,0,,,,,,1,0,,,,,,0
+0011900003,773,1,79,5,12:26 PM,1:19,Hield 28' 3PT Pullup Jump Shot (28 PTS) (Fox 8 AST),,,128 - 128,TIE,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0011900003,775,1,78,5,12:26 PM,1:03,,,Warren 14' Floating Jump Shot (30 PTS),130 - 128,-2,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,777,5,1,5,12:26 PM,0:51,Hield Bad Pass Turnover (P3.T21),,Sabonis STEAL (2 STL),,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0011900003,779,5,39,5,12:26 PM,0:38,,,Sumner Step Out of Bounds Turnover (P1.T24),,,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0011900003,780,6,2,5,12:27 PM,0:32,,,Sumner S.FOUL (P2.PN) (Z.Zarba),,,5,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0011900003,782,3,11,5,12:27 PM,0:32,MISS Fox Free Throw 1 of 2,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,783,4,1,5,12:27 PM,0:32,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,784,3,12,5,12:28 PM,0:32,Fox Free Throw 2 of 2 (16 PTS),,,130 - 129,-1,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,785,9,1,5,12:28 PM,0:32,,,Pacers Timeout: Regular (Reg.8 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,786,8,0,5,12:29 PM,0:32,,,SUB: McDermott FOR Sampson,,,5,203960,JaKarr Sampson,1610612754.0,Indiana,Pacers,IND,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,788,2,6,5,12:30 PM,0:19,,,MISS Warren 2' Driving Layup,,,5,203933,T.J. Warren,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,789,4,0,5,12:30 PM,0:17,,,Sabonis REBOUND (Off:6 Def:6),,,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,790,1,72,5,12:30 PM,0:17,,,Sabonis 2' Putback Layup (21 PTS),132 - 129,-3,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0011900003,794,5,45,5,12:30 PM,0:09,Hield Out of Bounds - Bad Pass Turnover Turnover (P4.T22),,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0011900003,792,18,1,5,12:30 PM,0:09,,,,132 - 129,-3,0,791,,,,,,0,0,,,,,,1,0,,,,,,0
+0011900003,793,9,1,5,12:33 PM,0:09,,,Pacers Timeout: Regular (Reg.9 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,795,6,28,5,12:34 PM,0:05,Barnes Personal Take Foul (P2.T1) (J.Tiven),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0011900003,797,5,9,5,12:35 PM,0:05,,,Pacers Turnover: 5 Second Violation (T#25),,,3,1610612754,,,,,,0,0,,,,,,1,0,,,,,,0
+0011900003,798,9,1,5,12:35 PM,0:05,KINGS Timeout: Regular (Full 8 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011900003,799,8,0,5,12:36 PM,0:05,,,SUB: Holiday FOR McDermott,,,5,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,5,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011900003,801,2,47,5,12:37 PM,0:01,MISS Hield 26' 3PT Turnaround Jump Shot,,,,,4,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,802,4,0,5,12:37 PM,0:01,Bagley III REBOUND (Off:3 Def:2),,,,,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,803,1,97,5,12:37 PM,0:00,Bagley III 1' Tip Layup Shot (12 PTS),,,132 - 131,-1,4,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0011900003,805,18,0,5,12:37 PM,0:00,,,,132 - 131,-1,0,803,,,,,,0,0,,,,,,1,0,,,,,,0
+0011900003,804,13,0,5,12:37 PM,0:00,,,,132 - 131,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

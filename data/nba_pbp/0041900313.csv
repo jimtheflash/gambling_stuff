@@ -1,0 +1,443 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0041900313,2,12,0,1,9:03 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,4,10,0,1,9:03 PM,12:00,Jump Ball Jokic vs. McGee: Tip to,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,3,1610612747,,,,,,1
+0041900313,7,7,4,1,9:03 PM,12:00,Jokic Violation:Jump Ball (K.Scott),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0041900313,8,2,63,1,9:03 PM,11:50,,,MISS Davis 14' Fadeaway Jumper,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,9,4,0,1,9:04 PM,11:46,Millsap REBOUND (Off:0 Def:1),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,10,2,1,1,9:04 PM,11:41,MISS Grant  3PT Jump Shot,,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,11,4,0,1,9:04 PM,11:37,,,Green REBOUND (Off:0 Def:1),,,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,12,6,2,1,9:04 PM,11:22,Grant S.FOUL (P1.T1) (K.Fitzgerald),,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,14,3,11,1,9:04 PM,11:22,,,Davis Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,15,3,12,1,9:04 PM,11:22,,,MISS Davis Free Throw 2 of 2,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,16,4,0,1,9:05 PM,11:19,Jokic REBOUND (Off:0 Def:1),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,17,1,101,1,9:05 PM,11:07,Jokic 6' Driving Floating Jump Shot (2 PTS) (Murray 1 AST),,,1 - 2,1,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,19,1,80,1,9:05 PM,10:56,,,Green 26' 3PT Step Back Jump Shot (3 PTS) (James 1 AST),4 - 2,-2,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,20,5,2,1,9:06 PM,10:32,Jokic Lost Ball Turnover (P1.T1),,McGee STEAL (1 STL),,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,22,1,75,1,9:06 PM,10:26,,,James 1' Driving Finger Roll Layup (2 PTS),6 - 2,-4,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,24,6,1,1,9:06 PM,10:20,,,McGee P.FOUL (P1.T1) (K.Scott),,,5,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,26,2,80,1,9:06 PM,10:08,MISS Jokic 25' 3PT Step Back Jump Shot,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,27,4,0,1,9:06 PM,10:05,,,James REBOUND (Off:0 Def:1),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,28,1,79,1,9:06 PM,10:01,,,James 15' Pullup Jump Shot (4 PTS),8 - 2,-6,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,29,5,2,1,9:07 PM,9:37,Millsap Lost Ball Turnover (P1.T2),,James STEAL (1 STL),,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,31,2,41,1,9:07 PM,9:34,,,MISS James 2' Running Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,32,4,0,1,9:07 PM,9:33,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0041900313,34,5,45,1,9:08 PM,9:29,,,James Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0041900313,36,1,1,1,9:08 PM,9:13,Murray 26' 3PT Jump Shot (3 PTS) (Harris 1 AST),,,8 - 5,-3,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,38,1,6,1,9:08 PM,8:56,,,James 1' Driving Layup (6 PTS),10 - 5,-5,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,39,1,98,1,9:09 PM,8:45,Jokic 2' Cutting Layup Shot (4 PTS) (Murray 2 AST),,,10 - 7,-3,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,41,1,5,1,9:09 PM,8:27,,,McGee 5' Layup (2 PTS) (Caldwell-Pope 1 AST),12 - 7,-5,5,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,43,1,102,1,9:09 PM,8:11,Millsap 5' Driving Floating Bank Jump Shot (2 PTS) (Murray 3 AST),,,12 - 9,-3,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,45,5,2,1,9:09 PM,7:54,Murray STEAL (1 STL),,Davis Lost Ball Turnover (P1.T2),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,47,2,103,1,9:10 PM,7:51,MISS Murray 26' 3PT Running Pull-Up Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,48,4,0,1,9:10 PM,7:44,Murray REBOUND (Off:1 Def:0),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,49,1,1,1,9:10 PM,7:40,Grant 25' 3PT Jump Shot (3 PTS),,,12 - 12,TIE,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,50,2,1,1,9:10 PM,7:17,,,MISS James 26' 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,51,4,0,1,9:10 PM,7:12,,,Green REBOUND (Off:1 Def:1),,,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,52,2,80,1,9:10 PM,7:05,,,MISS Davis 17' Step Back Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,53,4,0,1,9:10 PM,7:02,Grant REBOUND (Off:0 Def:1),,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,54,2,1,1,9:11 PM,6:47,MISS Millsap 27' 3PT Jump Shot,,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,55,4,0,1,9:11 PM,6:43,,,Caldwell-Pope REBOUND (Off:0 Def:1),,,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,56,2,1,1,9:11 PM,6:22,,,MISS Davis 24' 3PT Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,57,4,0,1,9:11 PM,6:19,,,James REBOUND (Off:1 Def:1),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,58,1,108,1,9:11 PM,6:17,,,Davis 1' Cutting Dunk Shot (3 PTS) (James 2 AST),14 - 12,-2,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,62,9,1,1,9:12 PM,6:00,NUGGETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,63,1,6,1,9:15 PM,5:54,Grant 1' Driving Layup (5 PTS) (Harris 2 AST),,,14 - 14,TIE,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,65,5,4,1,9:16 PM,5:33,,,James Traveling Turnover (P2.T3),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0041900313,66,2,1,1,9:16 PM,5:31,MISS Harris 20' Jump Shot,,,,,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,67,4,0,1,9:16 PM,5:25,,,James REBOUND (Off:1 Def:2),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,68,1,5,1,9:16 PM,5:17,,,McGee 1' Layup (4 PTS) (James 3 AST),16 - 14,-2,5,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,70,6,2,1,9:16 PM,5:17,Millsap S.FOUL (P1.T2) (K.Fitzgerald),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,5,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,72,8,0,1,9:16 PM,5:17,,,SUB: Kuzma FOR James,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,73,8,0,1,9:16 PM,5:17,,,SUB: Rondo FOR Green,,,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,76,3,10,1,9:17 PM,5:17,,,MISS McGee Free Throw 1 of 1,,,5,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,77,4,0,1,9:17 PM,5:13,Jokic REBOUND (Off:0 Def:2),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,78,2,98,1,9:17 PM,5:07,MISS Harris 1' Cutting Layup Shot,,,,,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,79,4,0,1,9:17 PM,5:05,,,McGee REBOUND (Off:0 Def:1),,,5,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,80,1,98,1,9:17 PM,4:56,,,Kuzma 5' Cutting Layup Shot (2 PTS) (Rondo 1 AST),18 - 14,-4,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,82,2,1,1,9:18 PM,4:31,MISS Murray 21' Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,83,4,0,1,9:18 PM,4:27,Millsap REBOUND (Off:1 Def:1),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,84,2,78,1,9:18 PM,4:26,MISS Jokic 19' Floating Jump Shot,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,85,4,0,1,9:18 PM,4:24,Jokic REBOUND (Off:1 Def:2),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,86,1,72,1,9:18 PM,4:22,Jokic 1' Putback Layup (6 PTS),,,18 - 16,-2,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,87,2,1,1,9:18 PM,4:04,,,MISS Caldwell-Pope 24' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,88,4,0,1,9:18 PM,4:03,Grant REBOUND (Off:0 Def:2),,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,89,6,1,1,9:18 PM,3:55,,,McGee P.FOUL (P2.T2) (K.Fitzgerald),,,5,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,91,8,0,1,9:18 PM,3:55,SUB: Porter Jr. FOR Grant,,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,92,8,0,1,9:18 PM,3:55,,,SUB: Caruso FOR McGee,,,5,201580,JaVale McGee,1610612747.0,Los Angeles,Lakers,LAL,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,95,1,44,1,9:19 PM,3:40,Jokic 1' Reverse Layup (8 PTS) (Porter Jr. 1 AST),,,18 - 18,TIE,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,97,1,102,1,9:19 PM,3:15,,,Caldwell-Pope 6' Driving Floating Bank Jump Shot (2 PTS) (Davis 1 AST),20 - 18,-2,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,99,1,43,1,9:20 PM,2:50,Porter Jr. 1' Alley Oop Layup (2 PTS) (Murray 4 AST),,,20 - 20,TIE,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,101,2,63,1,9:20 PM,2:36,,,MISS Kuzma 7' Fadeaway Jumper,,,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,102,4,0,1,9:20 PM,2:33,Jokic REBOUND (Off:1 Def:3),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,103,1,75,1,9:20 PM,2:26,Harris 1' Driving Finger Roll Layup (2 PTS) (Jokic 1 AST),,,20 - 22,2,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,105,9,1,1,9:20 PM,2:26,,,Lakers Timeout: Regular (Reg.1 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,106,8,0,1,9:23 PM,2:26,SUB: Morris FOR Harris,,,,,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,108,2,1,1,9:24 PM,2:10,,,MISS Rondo 26' 3PT Jump Shot,,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,109,4,0,1,9:24 PM,2:06,Murray REBOUND (Off:1 Def:1),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,110,6,2,1,9:24 PM,2:00,,,Caruso S.FOUL (P1.T3) (K.Fitzgerald),,,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,112,3,11,1,9:25 PM,2:00,Millsap Free Throw 1 of 2 (3 PTS),,,20 - 23,3,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,113,8,0,1,9:25 PM,2:00,,,SUB: James FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,115,3,12,1,9:25 PM,2:00,Millsap Free Throw 2 of 2 (4 PTS),,,20 - 24,4,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,117,8,0,1,9:25 PM,1:56,SUB: Craig FOR Millsap,,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,118,8,0,1,9:25 PM,1:56,SUB: Grant FOR Murray,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,121,1,1,1,9:26 PM,1:48,,,Davis 5' Jump Shot (5 PTS) (James 4 AST),22 - 24,2,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,123,5,45,1,9:26 PM,1:30,Jokic Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0041900313,124,6,2,1,9:26 PM,1:20,Jokic S.FOUL (P1.T3) (K.Fitzgerald),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,126,3,11,1,9:27 PM,1:20,,,Davis Free Throw 1 of 2 (6 PTS),23 - 24,1,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,127,3,12,1,9:27 PM,1:20,,,Davis Free Throw 2 of 2 (7 PTS),24 - 24,TIE,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,128,1,5,1,9:28 PM,1:03,Porter Jr. 2' Layup (4 PTS) (Jokic 2 AST),,,24 - 26,2,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,130,5,1,1,9:28 PM,0:50,Grant STEAL (1 STL),,Rondo Bad Pass Turnover (P1.T4),,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,132,6,2,1,9:28 PM,0:33,,,Davis S.FOUL (P1.PN) (K.Fitzgerald),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,134,3,11,1,9:29 PM,0:33,MISS Jokic Free Throw 1 of 2,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,135,4,1,1,9:29 PM,0:33,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,136,8,0,1,9:29 PM,0:33,SUB: Millsap FOR Grant,,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,138,3,12,1,9:29 PM,0:33,Jokic Free Throw 2 of 2 (9 PTS),,,24 - 27,3,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,139,1,1,1,9:30 PM,0:11,,,Kuzma  3PT Jump Shot (5 PTS) (James 5 AST),27 - 27,TIE,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,141,1,63,1,9:30 PM,0:02,Jokic 18' Fadeaway Jumper (11 PTS) (Morris 1 AST),,,27 - 29,2,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,143,2,1,1,9:30 PM,0:00,,,MISS Caruso 63' 3PT Jump Shot,,,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,144,4,0,1,9:30 PM,0:00,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,145,13,0,1,9:30 PM,0:00,,,,27 - 29,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0041900313,152,12,0,2,9:34 PM,12:00,,,,27 - 29,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,153,6,2,2,9:34 PM,11:45,,,Morris S.FOUL (P1.T1) (M.Davis),,,5,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,155,3,11,2,9:35 PM,11:45,Murray Free Throw 1 of 2 (4 PTS),,,27 - 30,3,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,156,3,12,2,9:35 PM,11:45,Murray Free Throw 2 of 2 (5 PTS),,,27 - 31,4,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,157,2,6,2,9:35 PM,11:35,,,MISS Rondo  Driving Layup,,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,158,4,0,2,9:35 PM,11:32,Porter Jr. REBOUND (Off:0 Def:1),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,159,5,40,2,9:35 PM,11:29,Murray Out of Bounds Lost Ball Turnover (P1.T4),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0041900313,160,5,2,2,9:36 PM,11:17,Porter Jr. STEAL (1 STL),,James Lost Ball Turnover (P3.T5),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,162,1,1,2,9:36 PM,11:10,Porter Jr. 26' 3PT Jump Shot (7 PTS) (Murray 5 AST),,,27 - 34,7,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,164,5,1,2,9:36 PM,10:57,Murray STEAL (2 STL),,Rondo Bad Pass Turnover (P2.T6),,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,166,2,79,2,9:36 PM,10:53,MISS Morris 24' 3PT Pullup Jump Shot,,,,,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,167,4,0,2,9:36 PM,10:52,Plumlee REBOUND (Off:1 Def:0),,,,,4,203486,Mason Plumlee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,168,2,72,2,9:36 PM,10:50,MISS Plumlee 1' Putback Layup,,,,,4,203486,Mason Plumlee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,169,4,0,2,9:36 PM,10:49,Porter Jr. REBOUND (Off:1 Def:1),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,170,1,97,2,9:36 PM,10:48,Porter Jr. 1' Tip Layup Shot (9 PTS),,,27 - 36,9,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,171,9,1,2,9:36 PM,10:48,,,Lakers Timeout: Regular (Reg.2 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,172,5,2,2,9:40 PM,10:26,Craig STEAL (1 STL),,Caruso Lost Ball Turnover (P1.T7),,,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,174,6,1,2,9:40 PM,10:24,,,Caruso P.FOUL (P2.T2) (K.Fitzgerald),,,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,176,5,1,2,9:41 PM,10:11,Plumlee Bad Pass Turnover (P1.T5),,Caruso STEAL (1 STL),,,4,203486,Mason Plumlee,1610612743.0,Denver,Nuggets,DEN,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,178,1,9,2,9:41 PM,9:59,,,James 2' Driving Dunk (8 PTS),29 - 36,7,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,179,1,1,2,9:41 PM,9:46,Murray 26' 3PT Jump Shot (8 PTS) (Plumlee 1 AST),,,29 - 39,10,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,203486,Mason Plumlee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,181,2,98,2,9:42 PM,9:32,,,MISS Morris 1' Cutting Layup Shot,,,5,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,182,4,0,2,9:42 PM,9:30,Porter Jr. REBOUND (Off:1 Def:2),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,183,1,79,2,9:42 PM,9:21,Morris 20' Pullup Jump Shot (2 PTS),,,29 - 41,12,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,184,2,1,2,9:42 PM,9:11,,,MISS Caruso  3PT Jump Shot,,,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,185,4,0,2,9:42 PM,9:07,Craig REBOUND (Off:0 Def:1),,,,,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,186,1,1,2,9:42 PM,8:53,Morris  3PT Jump Shot (5 PTS) (Murray 6 AST),,,29 - 44,15,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,188,9,1,2,9:42 PM,8:53,,,Lakers Timeout: Regular (Reg.3 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,189,8,0,2,9:45 PM,8:53,,,SUB: Green FOR Rondo,,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,191,6,2,2,9:46 PM,8:36,Porter Jr. S.FOUL (P1.T1) (K.Fitzgerald),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,193,3,11,2,9:47 PM,8:36,,,Green Free Throw 1 of 2 (4 PTS),30 - 44,14,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,194,3,12,2,9:47 PM,8:36,,,MISS Green Free Throw 2 of 2,,,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,195,4,0,2,9:47 PM,8:34,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,197,2,1,2,9:47 PM,8:23,,,MISS Caruso  3PT Jump Shot,,,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,198,4,0,2,9:47 PM,8:20,Plumlee REBOUND (Off:1 Def:1),,,,,4,203486,Mason Plumlee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,200,8,0,2,9:48 PM,8:08,,,SUB: Howard FOR Kuzma,,,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,202,2,47,2,9:48 PM,8:03,MISS Murray 24' 3PT Turnaround Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,203,4,0,2,9:48 PM,8:03,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,205,2,79,2,9:49 PM,7:46,,,MISS Green 18' Pullup Jump Shot,,,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,206,4,0,2,9:49 PM,7:42,Porter Jr. REBOUND (Off:1 Def:3),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,207,2,1,2,9:49 PM,7:38,MISS Craig  3PT Jump Shot,,,,,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,208,4,0,2,9:49 PM,7:37,,,James REBOUND (Off:1 Def:3),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,209,6,28,2,9:49 PM,7:35,Plumlee Personal Take Foul (P1.T2) (K.Fitzgerald),,,,,4,203486,Mason Plumlee,1610612743.0,Denver,Nuggets,DEN,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,211,1,52,2,9:49 PM,7:25,,,Howard 2' Alley Oop Dunk (2 PTS) (James 6 AST),32 - 44,12,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,213,9,1,2,9:49 PM,7:25,NUGGETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,214,8,0,2,9:50 PM,7:25,SUB: Grant FOR Craig,,,,,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,215,8,0,2,9:50 PM,7:25,SUB: Jokic FOR Plumlee,,,,,4,203486,Mason Plumlee,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,218,6,3,2,9:51 PM,7:11,,,Howard L.B.FOUL (P1.T3) (K.Scott),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,220,6,11,2,9:51 PM,7:11,,,Howard T.FOUL (P1.T3) (K.Scott),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0041900313,221,3,16,2,9:52 PM,7:11,MISS Murray Free Throw Technical,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,222,4,1,2,9:52 PM,7:11,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,223,5,11,2,9:52 PM,6:57,NUGGETS Turnover: Shot Clock (T#6),,,,,2,1610612743,,,,,,0,0,,,,,,1,0,,,,,,0
+0041900313,224,5,2,2,9:53 PM,6:52,Porter Jr. STEAL (2 STL),,James Lost Ball Turnover (P4.T8),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,226,6,2,2,9:53 PM,6:48,,,Morris S.FOUL (P2.T4) (K.Fitzgerald),,,5,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,228,3,11,2,9:53 PM,6:48,Grant Free Throw 1 of 2 (6 PTS),,,32 - 45,13,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,233,3,12,2,9:53 PM,6:48,Grant Free Throw 2 of 2 (7 PTS),,,32 - 46,14,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0041900313,229,8,0,2,9:53 PM,6:48,,,SUB: Davis FOR James,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,230,8,0,2,9:53 PM,6:48,,,SUB: Rondo FOR Morris,,,5,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,234,2,101,2,9:54 PM,6:26,,,MISS Caruso 7' Driving Floating Jump Shot,,,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,235,4,0,2,9:54 PM,6:25,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,237,5,2,2,9:55 PM,6:15,Porter Jr. Lost Ball Turnover (P1.T7),,Howard STEAL (1 STL),,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,264,2,41,2,9:55 PM,6:11,,,MISS Caruso 1' Running Layup,,,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,265,4,0,2,9:55 PM,6:10,,,Howard REBOUND (Off:1 Def:0),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,241,2,97,2,9:55 PM,6:10,,,MISS Howard 1' Tip Layup Shot,,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,242,4,0,2,9:55 PM,6:09,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,243,6,3,2,9:55 PM,6:09,Porter Jr. L.B.FOUL (P2.T3) (K.Fitzgerald),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,245,8,0,2,9:55 PM,6:09,SUB: Harris FOR Murray,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,246,8,0,2,9:55 PM,6:09,,,SUB: Caldwell-Pope FOR Caruso,,,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,249,2,1,2,9:55 PM,5:57,,,MISS Green  3PT Jump Shot,,,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,250,4,0,2,9:56 PM,5:53,Morris REBOUND (Off:0 Def:1),,,,,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,251,1,41,2,9:56 PM,5:48,Morris 1' Running Layup (7 PTS),,,32 - 48,16,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,252,2,1,2,9:56 PM,5:32,,,MISS Green  3PT Jump Shot,,,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,253,4,0,2,9:56 PM,5:28,Jokic REBOUND (Off:1 Def:4),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,254,6,2,2,9:56 PM,5:26,,,Green S.FOUL (P1.PN) (K.Fitzgerald),,,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,256,3,11,2,9:56 PM,5:26,Grant Free Throw 1 of 2 (8 PTS),,,32 - 49,17,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,257,3,12,2,9:56 PM,5:26,Grant Free Throw 2 of 2 (9 PTS),,,32 - 50,18,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,258,1,101,2,9:57 PM,5:19,,,Davis 5' Driving Floating Jump Shot (9 PTS) (Rondo 2 AST),34 - 50,16,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,260,6,2,2,9:57 PM,5:19,Grant S.FOUL (P2.T4) (K.Fitzgerald),,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,262,8,0,2,9:57 PM,5:19,SUB: Millsap FOR Grant,,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,266,3,10,2,9:58 PM,5:19,,,Davis Free Throw 1 of 1 (10 PTS),35 - 50,15,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,267,6,1,2,9:58 PM,5:05,,,Caldwell-Pope P.FOUL (P1.PN) (M.Davis),,,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,269,3,11,2,9:59 PM,5:05,Morris Free Throw 1 of 2 (8 PTS),,,35 - 51,16,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,270,3,12,2,9:59 PM,5:05,Morris Free Throw 2 of 2 (9 PTS),,,35 - 52,17,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,271,6,2,2,9:59 PM,4:48,Millsap S.FOUL (P2.PN) (M.Davis),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,273,3,11,2,10:00 PM,4:48,,,Davis Free Throw 1 of 2 (11 PTS),36 - 52,16,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,274,3,12,2,10:00 PM,4:48,,,Davis Free Throw 2 of 2 (12 PTS),37 - 52,15,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,275,1,1,2,10:00 PM,4:31,Morris  3PT Jump Shot (12 PTS) (Jokic 3 AST),,,37 - 55,18,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,277,1,78,2,10:01 PM,4:11,,,Davis 7' Floating Jump Shot (14 PTS) (Rondo 3 AST),39 - 55,16,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,279,5,1,2,10:01 PM,3:55,Jokic Bad Pass Turnover (P3.T8),,Davis STEAL (1 STL),,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,282,8,0,2,10:01 PM,3:48,SUB: Murray FOR Morris,,,,,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,284,1,1,2,10:02 PM,3:37,,,Davis 19' Jump Shot (16 PTS) (Rondo 4 AST),41 - 55,14,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,286,9,1,2,10:02 PM,3:34,NUGGETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,287,8,0,2,10:03 PM,3:34,,,SUB: James FOR Green,,,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,289,6,2,2,10:04 PM,3:21,,,Howard S.FOUL (P2.PN) (K.Scott),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,291,3,11,2,10:04 PM,3:21,Jokic Free Throw 1 of 2 (12 PTS),,,41 - 56,15,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0041900313,292,3,12,2,10:04 PM,3:21,Jokic Free Throw 2 of 2 (13 PTS),,,41 - 57,16,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,293,1,6,2,10:05 PM,3:04,,,Rondo 1' Driving Layup (2 PTS),43 - 57,14,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,294,2,1,2,10:05 PM,2:52,MISS Millsap 26' 3PT Jump Shot,,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,295,4,0,2,10:05 PM,2:49,,,Rondo REBOUND (Off:0 Def:1),,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,296,2,6,2,10:05 PM,2:46,Jokic BLOCK (1 BLK),,MISS Rondo 1' Driving Layup,,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1
+0041900313,298,4,0,2,10:05 PM,2:46,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,300,2,1,2,10:05 PM,2:39,,,MISS Rondo 20' Jump Shot,,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,301,4,0,2,10:05 PM,2:37,Porter Jr. REBOUND (Off:1 Def:4),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,302,2,101,2,10:05 PM,2:29,MISS Porter Jr. 2' Driving Floating Jump Shot,,Howard BLOCK (1 BLK),,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1
+0041900313,304,4,0,2,10:05 PM,2:27,,,Caldwell-Pope REBOUND (Off:0 Def:2),,,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,305,5,45,2,10:06 PM,2:22,,,James Out of Bounds - Bad Pass Turnover Turnover (P5.T9),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0041900313,307,8,0,2,10:06 PM,2:10,,,SUB: Kuzma FOR Rondo,,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,309,1,6,2,10:06 PM,2:00,Murray 1' Driving Layup (10 PTS) (Jokic 4 AST),,,43 - 59,16,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,311,1,58,2,10:07 PM,1:52,,,Howard 4' Turnaround Hook Shot (4 PTS) (James 7 AST),45 - 59,14,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,313,6,2,2,10:07 PM,1:52,Porter Jr. S.FOUL (P3.PN) (K.Fitzgerald),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,315,8,0,2,10:07 PM,1:52,SUB: Craig FOR Porter Jr.,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,317,3,10,2,10:07 PM,1:52,,,MISS Howard Free Throw 1 of 1,,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,318,4,0,2,10:07 PM,1:49,Craig REBOUND (Off:0 Def:2),,,,,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,319,1,80,2,10:08 PM,1:38,Murray 18' Step Back Jump Shot (12 PTS),,,45 - 61,16,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,320,1,1,2,10:08 PM,1:25,,,Caldwell-Pope  3PT Jump Shot (5 PTS) (James 8 AST),48 - 61,13,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,322,5,45,2,10:08 PM,1:09,Murray Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0041900313,323,8,0,2,10:08 PM,1:09,,,SUB: Morris FOR Howard,,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,325,1,73,2,10:09 PM,1:01,,,James 1' Driving Reverse Layup (10 PTS),50 - 61,11,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,326,1,86,2,10:09 PM,0:37,Jokic 18' Turnaround Fadeaway (15 PTS),,,50 - 63,13,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,327,1,1,2,10:09 PM,0:28,,,Morris 26' 3PT Jump Shot (3 PTS) (James 9 AST),53 - 63,10,5,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,330,2,1,2,10:10 PM,0:04,MISS Millsap 25' 3PT Jump Shot,,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,331,4,0,2,10:10 PM,0:03,Jokic REBOUND (Off:2 Def:4),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,332,2,78,2,10:10 PM,0:02,MISS Jokic 7' Floating Jump Shot,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,333,4,0,2,10:10 PM,0:02,Craig REBOUND (Off:1 Def:2),,,,,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,334,2,5,2,10:10 PM,0:00,MISS Craig 5' Layup,,,,,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,335,4,0,2,10:10 PM,0:00,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,336,13,0,2,10:11 PM,0:00,,,,53 - 63,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0041900313,343,12,0,3,10:27 PM,12:00,,,,53 - 63,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,344,6,2,3,10:27 PM,11:41,,,Howard S.FOUL (P3.T1) (K.Scott),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,346,3,11,3,10:28 PM,11:41,MISS Murray Free Throw 1 of 2,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,347,4,1,3,10:28 PM,11:41,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,348,3,12,3,10:28 PM,11:41,MISS Murray Free Throw 2 of 2,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,349,4,0,3,10:28 PM,11:38,,,James REBOUND (Off:1 Def:4),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,350,2,1,3,10:28 PM,11:29,,,MISS James 21' Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,351,4,0,3,10:28 PM,11:26,Millsap REBOUND (Off:1 Def:2),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,352,2,1,3,10:29 PM,11:09,MISS Jokic 26' 3PT Jump Shot,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,353,4,0,3,10:29 PM,11:05,Murray REBOUND (Off:2 Def:1),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,354,2,1,3,10:29 PM,11:04,MISS Grant 26' 3PT Jump Shot,,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,355,4,0,3,10:29 PM,11:01,,,Green REBOUND (Off:1 Def:2),,,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,356,1,103,3,10:29 PM,10:57,,,Caldwell-Pope 27' 3PT Running Pull-Up Jump Shot (8 PTS) (Green 1 AST),56 - 63,7,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,358,5,2,3,10:29 PM,10:39,Grant Lost Ball Turnover (P1.T10),,Caldwell-Pope STEAL (1 STL),,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,360,1,76,3,10:29 PM,10:35,,,Caldwell-Pope 1' Running Finger Roll Layup (10 PTS),58 - 63,5,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,361,9,1,3,10:29 PM,10:34,NUGGETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,362,1,108,3,10:33 PM,10:21,Grant 1' Cutting Dunk Shot (11 PTS) (Murray 7 AST),,,58 - 65,7,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,364,6,1,3,10:33 PM,10:05,Millsap P.FOUL (P3.T1) (K.Scott),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,366,6,14,3,10:34 PM,10:00,Murray FLAGRANT.FOUL.TYPE1 (P1.T2) (K.Scott),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,368,18,1,3,10:34 PM,10:00,,,,58 - 65,7,0,366,,,,,,0,0,,,,,,1,0,,,,,,0
+0041900313,369,3,18,3,10:37 PM,10:00,,,MISS James Free Throw Flagrant 1 of 2,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0041900313,370,4,1,3,10:37 PM,10:00,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,371,3,19,3,10:37 PM,10:00,,,James Free Throw Flagrant 2 of 2 (11 PTS),59 - 65,6,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,372,2,1,3,10:38 PM,9:52,,,MISS Davis 26' 3PT Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,373,4,0,3,10:38 PM,9:51,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,374,6,3,3,10:38 PM,9:51,,,Howard L.B.FOUL (P4.T2) (K.Scott),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,376,2,79,3,10:39 PM,9:41,MISS Murray 26' 3PT Pullup Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,377,4,0,3,10:39 PM,9:38,,,James REBOUND (Off:1 Def:5),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,378,2,79,3,10:39 PM,9:33,,,MISS James 25' 3PT Pullup Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,379,4,0,3,10:39 PM,9:30,Murray REBOUND (Off:2 Def:2),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,380,6,1,3,10:39 PM,9:23,,,Green P.FOUL (P2.T3) (K.Scott),,,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,382,6,2,3,10:39 PM,9:11,,,James S.FOUL (P1.T4) (K.Fitzgerald),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,384,3,11,3,10:40 PM,9:11,Grant Free Throw 1 of 2 (12 PTS),,,59 - 66,7,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,385,3,12,3,10:40 PM,9:11,MISS Grant Free Throw 2 of 2,,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,386,4,0,3,10:40 PM,9:10,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,388,2,1,3,10:41 PM,9:00,,,MISS Davis 18' Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,389,4,0,3,10:41 PM,8:56,Murray REBOUND (Off:2 Def:3),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,390,1,1,3,10:41 PM,8:50,Grant 26' 3PT Jump Shot (15 PTS) (Millsap 1 AST),,,59 - 69,10,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,392,5,1,3,10:41 PM,8:32,Grant STEAL (2 STL),,Davis Bad Pass Turnover (P2.T10),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,394,1,41,3,10:41 PM,8:28,Grant 1' Running Layup (17 PTS),,,59 - 71,12,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,395,9,1,3,10:41 PM,8:27,,,Lakers Timeout: Regular (Reg.4 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,396,1,63,3,10:45 PM,8:05,,,James 12' Fadeaway Jumper (13 PTS),61 - 71,10,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,397,1,1,3,10:46 PM,7:43,Jokic 26' 3PT Jump Shot (18 PTS) (Murray 8 AST),,,61 - 74,13,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,399,1,63,3,10:46 PM,7:21,,,James 14' Fadeaway Jumper (15 PTS),63 - 74,11,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,400,2,98,3,10:46 PM,7:02,MISS Millsap 1' Cutting Layup Shot,,James BLOCK (1 BLK),,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1
+0041900313,402,4,0,3,10:46 PM,7:00,,,James REBOUND (Off:1 Def:6),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,403,1,101,3,10:46 PM,6:53,,,James 6' Driving Floating Jump Shot (17 PTS),65 - 74,9,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,404,6,2,3,10:47 PM,6:37,,,Green S.FOUL (P3.PN) (K.Fitzgerald),,,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,406,3,11,3,10:47 PM,6:37,Grant Free Throw 1 of 2 (18 PTS),,,65 - 75,10,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,407,3,12,3,10:48 PM,6:37,Grant Free Throw 2 of 2 (19 PTS),,,65 - 76,11,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,408,2,6,3,10:48 PM,6:20,Millsap BLOCK (1 BLK),,MISS James 2' Driving Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,1
+0041900313,410,4,0,3,10:48 PM,6:19,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,412,2,63,3,10:48 PM,6:13,,,MISS James 20' Fadeaway Jumper,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,413,4,0,3,10:48 PM,6:11,Murray REBOUND (Off:2 Def:4),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,414,2,6,3,10:48 PM,6:05,MISS Murray 2' Driving Layup,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,415,4,0,3,10:48 PM,6:03,,,Green REBOUND (Off:1 Def:3),,,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,416,5,8,3,10:49 PM,5:51,,,Howard 3 Second Violation Turnover (P1.T11),,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0041900313,417,1,1,3,10:49 PM,5:41,Harris  3PT Jump Shot (5 PTS) (Jokic 5 AST),,,65 - 79,14,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,419,2,1,3,10:49 PM,5:18,,,MISS Davis  3PT Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,420,4,0,3,10:50 PM,5:15,,,Caldwell-Pope REBOUND (Off:1 Def:2),,,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,421,1,72,3,10:50 PM,5:14,,,Caldwell-Pope 1' Putback Layup (12 PTS),67 - 79,12,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,422,2,1,3,10:50 PM,4:57,MISS Murray 26' 3PT Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,423,4,0,3,10:50 PM,4:56,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,425,8,0,3,10:50 PM,4:55,,,SUB: Rondo FOR James,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,426,8,0,3,10:50 PM,4:55,,,SUB: Morris FOR Howard,,,5,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,429,8,0,3,10:50 PM,4:55,SUB: Morris FOR Grant,,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,431,1,78,3,10:51 PM,4:44,Jokic 10' Floating Jump Shot (20 PTS) (Murray 9 AST),,,67 - 81,14,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,433,1,6,3,10:51 PM,4:33,,,Rondo 1' Driving Layup (4 PTS),69 - 81,12,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,434,1,1,3,10:51 PM,4:17,Morris 14' Jump Shot (14 PTS) (Murray 10 AST),,,69 - 83,14,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,436,2,79,3,10:51 PM,4:00,,,MISS Davis 16' Pullup Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,437,4,0,3,10:51 PM,3:58,Murray REBOUND (Off:2 Def:5),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,438,6,1,3,10:52 PM,3:53,,,Green P.FOUL (P4.PN) (K.Fitzgerald),,,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,440,3,11,3,10:52 PM,3:53,Murray Free Throw 1 of 2 (13 PTS),,,69 - 84,15,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,441,8,0,3,10:52 PM,3:53,,,SUB: Caruso FOR Green,,,5,201980,Danny Green,1610612747.0,Los Angeles,Lakers,LAL,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,443,3,12,3,10:53 PM,3:53,Murray Free Throw 2 of 2 (14 PTS),,,69 - 85,16,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,444,2,1,3,10:53 PM,3:40,,,MISS Caldwell-Pope  3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,445,4,0,3,10:53 PM,3:38,Millsap REBOUND (Off:1 Def:3),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,446,2,6,3,10:53 PM,3:20,MISS Millsap 5' Driving Layup,,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,447,4,0,3,10:53 PM,3:19,Jokic REBOUND (Off:3 Def:4),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,448,1,97,3,10:53 PM,3:18,Jokic 1' Tip Layup Shot (22 PTS),,,69 - 87,18,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,449,6,1,3,10:54 PM,3:02,Millsap P.FOUL (P4.T3) (K.Scott),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,451,8,0,3,10:54 PM,3:02,SUB: Craig FOR Millsap,,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,452,8,0,3,10:54 PM,3:02,SUB: Grant FOR Harris,,,,,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,455,8,0,3,10:54 PM,3:02,,,SUB: Kuzma FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,457,6,1,3,10:54 PM,2:59,Morris P.FOUL (P1.T4) (M.Davis),,,,,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,459,1,5,3,10:55 PM,2:46,,,Davis  Layup (18 PTS) (Morris 1 AST),71 - 87,16,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,461,1,80,3,10:55 PM,2:27,Murray 9' Step Back Jump Shot (16 PTS),,,71 - 89,18,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,462,5,45,3,10:55 PM,2:06,,,Kuzma Out of Bounds - Bad Pass Turnover Turnover (P1.T12),,,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0041900313,463,6,4,3,10:56 PM,1:57,Craig OFF.Foul (P1) (M.Davis),,,,,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,465,5,37,3,10:56 PM,1:57,Craig Offensive Foul Turnover (P1.T11),,,,,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0041900313,466,8,0,3,10:56 PM,1:57,SUB: Porter Jr. FOR Jokic,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,468,6,26,3,10:56 PM,1:48,,,Davis Offensive Charge Foul (P2.PN) (K.Scott),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,470,5,37,3,10:56 PM,1:48,,,Davis Offensive Foul Turnover (P3.T13),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0041900313,471,1,63,3,10:57 PM,1:35,Murray 8' Fadeaway Jumper (18 PTS) (Porter Jr. 2 AST),,,71 - 91,20,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,473,1,1,3,10:57 PM,1:13,,,Davis 20' Jump Shot (20 PTS) (Rondo 5 AST),73 - 91,18,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,475,2,86,3,10:58 PM,0:49,MISS Grant 10' Turnaround Fadeaway Shot,,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,476,4,0,3,10:58 PM,0:44,,,Caruso REBOUND (Off:0 Def:1),,,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,477,1,41,3,10:58 PM,0:41,,,Rondo 1' Running Layup (6 PTS),75 - 91,16,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,478,6,2,3,10:58 PM,0:41,Morris S.FOUL (P2.PN) (K.Scott),,,,,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,480,8,0,3,10:58 PM,0:41,,,SUB: James FOR Morris,,,5,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,482,3,10,3,10:58 PM,0:41,,,MISS Rondo Free Throw 1 of 1,,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,483,4,0,3,10:58 PM,0:38,Craig REBOUND (Off:1 Def:3),,,,,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,484,1,6,3,10:59 PM,0:27,Grant 1' Driving Layup (21 PTS) (Murray 11 AST),,,75 - 93,18,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,486,2,80,3,10:59 PM,0:04,,,MISS James 22' Step Back Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,487,4,0,3,10:59 PM,0:01,Craig REBOUND (Off:1 Def:4),,,,,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,488,2,79,3,10:59 PM,0:00,MISS Craig 46' 3PT Pullup Jump Shot,,,,,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,489,4,0,3,10:59 PM,0:00,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,490,13,0,3,10:59 PM,0:00,,,,75 - 93,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0041900313,491,12,0,4,11:03 PM,12:00,,,,75 - 93,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,492,1,6,4,11:03 PM,11:46,,,Rondo 1' Driving Layup (8 PTS),77 - 93,16,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,493,6,4,4,11:03 PM,11:35,Porter Jr. OFF.Foul (P4) (K.Scott),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,495,5,37,4,11:03 PM,11:35,Porter Jr. Offensive Foul Turnover (P2.T12),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0041900313,496,2,101,4,11:04 PM,11:18,,,MISS Kuzma 10' Driving Floating Jump Shot,,,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,497,4,0,4,11:04 PM,11:16,Craig REBOUND (Off:1 Def:5),,,,,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,498,1,98,4,11:04 PM,11:01,Craig 1' Cutting Layup Shot (2 PTS) (Grant 1 AST),,,77 - 95,18,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,500,2,1,4,11:04 PM,10:44,,,MISS Rondo 26' 3PT Jump Shot,,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,501,4,0,4,11:05 PM,10:40,Murray REBOUND (Off:2 Def:6),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,502,1,50,4,11:05 PM,10:36,Murray  Running Dunk (20 PTS),,,77 - 97,20,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,503,9,1,4,11:05 PM,10:36,,,Lakers Timeout: Regular (Reg.5 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,504,6,2,4,11:09 PM,10:24,Grant S.FOUL (P3.T1) (K.Scott),,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,506,3,13,4,11:09 PM,10:24,,,Davis Free Throw 1 of 3 (21 PTS),78 - 97,19,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,507,3,14,4,11:09 PM,10:24,,,Davis Free Throw 2 of 3 (22 PTS),79 - 97,18,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,508,3,15,4,11:10 PM,10:24,,,Davis Free Throw 3 of 3 (23 PTS),80 - 97,17,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,509,2,1,4,11:10 PM,10:13,MISS Porter Jr. 27' 3PT Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,510,4,0,4,11:10 PM,10:10,,,Rondo REBOUND (Off:0 Def:2),,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,511,1,1,4,11:10 PM,10:05,,,James 25' 3PT Jump Shot (20 PTS) (Rondo 6 AST),83 - 97,14,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,513,1,79,4,11:10 PM,9:43,Murray 13' Pullup Jump Shot (22 PTS),,,83 - 99,16,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,514,6,1,4,11:11 PM,9:32,Craig P.FOUL (P2.T2) (K.Fitzgerald),,,,,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,516,1,98,4,11:11 PM,9:24,,,Kuzma 2' Cutting Layup Shot (7 PTS) (Caruso 1 AST),85 - 99,14,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,518,2,1,4,11:11 PM,9:11,MISS Grant 26' 3PT Jump Shot,,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,519,4,0,4,11:11 PM,9:08,,,James REBOUND (Off:1 Def:7),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,520,2,1,4,11:12 PM,8:57,,,MISS Davis 26' 3PT Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,522,4,0,4,11:12 PM,8:53,Porter Jr. REBOUND (Off:1 Def:5),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,523,2,1,4,11:12 PM,8:49,MISS Morris 24' 3PT Jump Shot,,,,,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,524,4,0,4,11:12 PM,8:45,,,James REBOUND (Off:1 Def:8),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,525,1,108,4,11:12 PM,8:43,,,Davis 1' Cutting Dunk Shot (25 PTS) (Kuzma 1 AST),87 - 99,12,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,527,9,1,4,11:12 PM,8:43,NUGGETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,528,8,0,4,11:15 PM,8:43,SUB: Jokic FOR Craig,,,,,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,530,5,2,4,11:16 PM,8:24,Murray Lost Ball Turnover (P3.T13),,Rondo STEAL (1 STL),,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,532,1,50,4,11:16 PM,8:20,,,James 1' Running Dunk (22 PTS) (Caruso 2 AST),89 - 99,10,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,534,5,1,4,11:16 PM,8:00,Grant Bad Pass Turnover (P2.T14),,Caruso STEAL (2 STL),,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,536,5,40,4,11:17 PM,7:58,,,Rondo Out of Bounds Lost Ball Turnover (P3.T14),,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0041900313,537,5,15,4,11:17 PM,7:45,Porter Jr. Offensive Goaltending Turnover (P3.T15),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,538,1,78,4,11:17 PM,7:39,,,Davis 9' Floating Jump Shot (27 PTS) (James 10 AST),91 - 99,8,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,540,9,1,4,11:17 PM,7:38,NUGGETS Timeout: Regular (Full 6 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,541,8,0,4,11:18 PM,7:38,SUB: Harris FOR Morris,,,,,4,1628420,Monte Morris,1610612743.0,Denver,Nuggets,DEN,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,543,6,1,4,11:19 PM,7:23,,,Rondo P.FOUL (P1.T1) (K.Scott),,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,545,5,2,4,11:19 PM,7:14,Murray Lost Ball Turnover (P4.T16),,Rondo STEAL (2 STL),,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,547,1,41,4,11:19 PM,7:10,,,James 1' Running Layup (24 PTS) (Rondo 7 AST),93 - 99,6,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,549,5,1,4,11:20 PM,6:46,Jokic Bad Pass Turnover (P4.T17),,James STEAL (2 STL),,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,551,1,99,4,11:20 PM,6:34,,,James 1' Cutting Finger Roll Layup Shot (26 PTS) (Caruso 3 AST),95 - 99,4,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,553,5,1,4,11:20 PM,6:11,Jokic Bad Pass Turnover (P5.T18),,Rondo STEAL (3 STL),,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,555,6,2,4,11:21 PM,6:07,Jokic S.FOUL (P2.T3) (M.Davis),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,557,3,11,4,11:21 PM,6:07,,,Kuzma Free Throw 1 of 2 (8 PTS),96 - 99,3,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0041900313,560,3,12,4,11:21 PM,6:07,,,MISS Kuzma Free Throw 2 of 2,,,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,558,8,0,4,11:21 PM,6:07,SUB: Millsap FOR Porter Jr.,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,561,4,0,4,11:21 PM,6:05,Jokic REBOUND (Off:3 Def:5),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,562,1,102,4,11:22 PM,5:50,Grant 6' Driving Floating Bank Jump Shot (23 PTS) (Harris 3 AST),,,96 - 101,5,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,564,1,6,4,11:22 PM,5:26,,,James 1' Driving Layup (28 PTS),98 - 101,3,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,565,6,1,4,11:22 PM,5:12,,,Rondo P.FOUL (P2.T2) (K.Fitzgerald),,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,567,8,0,4,11:22 PM,5:12,,,SUB: Caldwell-Pope FOR Rondo,,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,569,2,63,4,11:23 PM,4:58,MISS Jokic 21' Fadeaway Jumper,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,570,4,0,4,11:23 PM,4:56,,,Davis REBOUND (Off:0 Def:1),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,571,5,1,4,11:23 PM,4:53,Jokic STEAL (1 STL),,James Bad Pass Turnover (P6.T15),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,573,6,1,4,11:23 PM,4:51,,,Davis P.FOUL (P3.T3) (K.Scott),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,575,8,0,4,11:23 PM,4:51,,,SUB: Rondo FOR Caruso,,,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,577,2,98,4,11:24 PM,4:43,MISS Millsap 2' Cutting Layup Shot,,James BLOCK (2 BLK),,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1
+0041900313,579,4,0,4,11:24 PM,4:40,,,James REBOUND (Off:1 Def:9),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,580,2,1,4,11:24 PM,4:33,,,MISS Caldwell-Pope 26' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,581,4,0,4,11:24 PM,4:29,Millsap REBOUND (Off:1 Def:4),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,582,6,1,4,11:24 PM,4:23,,,Davis P.FOUL (P4.T4) (K.Fitzgerald),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,584,2,1,4,11:24 PM,4:15,MISS Harris 24' 3PT Jump Shot,,,,,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,585,4,0,4,11:24 PM,4:12,,,Kuzma REBOUND (Off:0 Def:1),,,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,586,2,80,4,11:25 PM,3:58,,,MISS James 28' 3PT Step Back Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,587,4,0,4,11:25 PM,3:54,Jokic REBOUND (Off:3 Def:6),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,588,6,2,4,11:25 PM,3:53,,,Kuzma S.FOUL (P1.PN) (K.Scott),,,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,590,3,11,4,11:25 PM,3:53,Grant Free Throw 1 of 2 (24 PTS),,,98 - 102,4,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,591,9,1,4,11:26 PM,3:53,,,Lakers Timeout: Regular (Reg.6 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,592,8,0,4,11:27 PM,3:53,,,SUB: Caruso FOR Kuzma,,,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,594,3,12,4,11:27 PM,3:53,Grant Free Throw 2 of 2 (25 PTS),,,98 - 103,5,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,595,6,2,4,11:28 PM,3:33,Jokic S.FOUL (P3.T4) (M.Davis),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,597,3,11,4,11:28 PM,3:33,,,Rondo Free Throw 1 of 2 (9 PTS),99 - 103,4,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,600,3,12,4,11:28 PM,3:33,,,MISS Rondo Free Throw 2 of 2,,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,598,8,0,4,11:28 PM,3:33,,,SUB: Kuzma FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0041900313,601,4,0,4,11:28 PM,3:31,Grant REBOUND (Off:0 Def:3),,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,602,2,101,4,11:29 PM,3:16,MISS Murray 14' Driving Floating Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,603,4,0,4,11:29 PM,3:13,,,Davis REBOUND (Off:0 Def:2),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,604,2,80,4,11:29 PM,3:05,,,MISS James 8' Step Back Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,605,4,0,4,11:29 PM,3:02,Jokic REBOUND (Off:3 Def:7),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,606,5,40,4,11:29 PM,2:42,Harris Out of Bounds Lost Ball Turnover (P1.T19),,,,,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0041900313,607,2,1,4,11:30 PM,2:34,,,MISS Kuzma 26' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,608,4,0,4,11:30 PM,2:31,Millsap REBOUND (Off:1 Def:5),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,609,1,80,4,11:30 PM,2:17,Murray 26' 3PT Step Back Jump Shot (25 PTS),,,99 - 106,7,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,610,6,4,4,11:30 PM,1:54,,,Rondo OFF.Foul (P3) (K.Fitzgerald),,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,612,5,37,4,11:30 PM,1:54,,,Rondo Offensive Foul Turnover (P4.T16),,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0041900313,613,1,108,4,11:32 PM,1:33,Millsap  Cutting Dunk Shot (6 PTS) (Murray 12 AST),,,99 - 108,9,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0041900313,615,2,1,4,11:32 PM,1:18,,,MISS Rondo 26' 3PT Jump Shot,,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,616,4,0,4,11:32 PM,1:13,Millsap REBOUND (Off:1 Def:6),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,617,1,80,4,11:32 PM,0:53,Murray 29' 3PT Step Back Jump Shot (28 PTS),,,99 - 111,12,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,618,9,1,4,11:33 PM,0:53,,,Lakers Timeout: Regular (Reg.7 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,619,1,6,4,11:34 PM,0:48,,,Kuzma 1' Driving Layup (10 PTS) (James 11 AST),101 - 111,10,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,621,6,2,4,11:34 PM,0:48,Jokic S.FOUL (P4.PN) (K.Scott),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0041900313,623,3,10,4,11:35 PM,0:48,,,Kuzma Free Throw 1 of 1 (11 PTS),102 - 111,9,5,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,624,6,28,4,11:35 PM,0:47,,,Caruso Personal Take Foul (P3.PN) (K.Fitzgerald),,,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,626,3,11,4,11:35 PM,0:47,Harris Free Throw 1 of 2 (6 PTS),,,102 - 112,10,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,627,8,0,4,11:35 PM,0:47,SUB: Craig FOR Jokic,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,1628470,Torrey Craig,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0041900313,629,3,12,4,11:36 PM,0:47,Harris Free Throw 2 of 2 (7 PTS),,,102 - 113,11,4,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,630,1,6,4,11:36 PM,0:40,,,James 1' Driving Layup (30 PTS),104 - 113,9,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,631,6,28,4,11:36 PM,0:37,,,Rondo Personal Take Foul (P4.PN) (M.Davis),,,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0041900313,633,3,11,4,11:36 PM,0:37,MISS Grant Free Throw 1 of 2,,,,,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,634,4,1,4,11:36 PM,0:37,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,635,3,12,4,11:37 PM,0:37,Grant Free Throw 2 of 2 (26 PTS),,,104 - 114,10,4,203924,Jerami Grant,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,636,2,1,4,11:37 PM,0:30,,,MISS Caruso  3PT Jump Shot,,,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0041900313,637,4,0,4,11:37 PM,0:28,Millsap REBOUND (Off:1 Def:7),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0041900313,638,5,11,4,11:37 PM,0:05,NUGGETS Turnover: Shot Clock (T#20),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0041900313,639,1,6,4,11:37 PM,0:01,,,Caruso 1' Driving Layup (2 PTS) (Rondo 8 AST),106 - 114,8,5,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,5,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0041900313,641,13,0,4,11:37 PM,0:00,,,,106 - 114,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
