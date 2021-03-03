@@ -68,5 +68,6 @@ def get_season_gamelog(season_string: str) -> pd.DataFrame:
         + (1.5 * gl_df.DD2)
         + (3 * gl_df.TD3)
     )
+    gl_df = gl_df.sort_values(by=["GAME_ID", "PLAYER_ID"])
 
     return gl_df
