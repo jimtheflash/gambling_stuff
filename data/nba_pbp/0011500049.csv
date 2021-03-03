@@ -1,0 +1,479 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011500049,0,12,0,1,7:42 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,1,10,0,1,7:42 PM,12:00,Jump Ball Bosh vs. Duncan: Tip to Haslem,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0
+0011500049,2,2,1,1,7:42 PM,11:44,MISS Wade 25' 3PT Jump Shot,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,3,4,0,1,7:42 PM,11:43,,,Parker REBOUND (Off:0 Def:1),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,4,1,5,1,7:42 PM,11:33,,,Duncan 2' Layup (2 PTS),2 - 0,-2,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,5,6,1,1,7:42 PM,11:19,,,Aldridge P.FOUL (P1.T1) (S.Wall),,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,6,2,1,1,7:43 PM,11:04,MISS Bosh 25' 3PT Jump Shot,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,7,4,0,1,7:43 PM,11:03,,,Green REBOUND (Off:0 Def:1),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,8,1,1,1,7:43 PM,10:46,,,Leonard 25' 3PT Jump Shot (3 PTS) (Aldridge 1 AST),5 - 0,-5,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,9,2,1,1,7:43 PM,10:34,MISS Dragic 11' Jump Shot,,,,,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,10,4,0,1,7:43 PM,10:33,,,Duncan REBOUND (Off:0 Def:1),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,11,2,1,1,7:43 PM,10:24,,,MISS Leonard 7' Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,12,4,0,1,7:44 PM,10:23,Haslem REBOUND (Off:0 Def:1),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,13,2,1,1,7:44 PM,10:17,MISS Deng 25' 3PT Jump Shot,,,,,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,14,4,0,1,7:44 PM,10:16,,,Aldridge REBOUND (Off:0 Def:1),,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,15,6,1,1,7:44 PM,10:07,Haslem P.FOUL (P1.T1) (J.Williams),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,16,1,44,1,7:44 PM,10:02,,,Parker 3' Reverse Layup (2 PTS),7 - 0,-7,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,18,2,80,1,7:45 PM,9:36,MISS Dragic 14' Step Back Jump Shot,,,,,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,19,4,0,1,7:45 PM,9:35,,,Parker REBOUND (Off:0 Def:2),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,20,5,1,1,7:45 PM,9:30,Dragic STEAL (1 STL),,Parker Bad Pass Turnover (P1.T1),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,21,1,5,1,7:45 PM,9:25,Dragic 2' Layup (2 PTS),,,7 - 2,-5,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,22,2,1,1,7:45 PM,9:11,,,MISS Leonard 19' Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,23,4,0,1,7:45 PM,9:10,,,Leonard REBOUND (Off:1 Def:0),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,24,1,1,1,7:45 PM,8:59,,,Aldridge 20' Jump Shot (2 PTS) (Parker 1 AST),9 - 2,-7,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,25,6,1,1,7:46 PM,8:47,,,Green P.FOUL (P1.T2) (S.Wall),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,26,2,80,1,7:46 PM,8:41,MISS Wade 18' Step Back Jump Shot,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,27,4,0,1,7:46 PM,8:40,,,Leonard REBOUND (Off:1 Def:1),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,28,2,47,1,7:46 PM,8:27,,,MISS Aldridge 12' Turnaround Jump Shot,,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,29,4,0,1,7:46 PM,8:26,Dragic REBOUND (Off:0 Def:1),,,,,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,30,1,5,1,7:46 PM,8:22,Deng 2' Layup (2 PTS) (Dragic 1 AST),,,9 - 4,-5,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,31,5,1,1,7:47 PM,8:06,Bosh STEAL (1 STL),,Parker Bad Pass Turnover (P2.T2),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,32,2,1,1,7:47 PM,7:57,MISS Wade 19' Jump Shot,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,33,4,0,1,7:47 PM,7:56,,,Aldridge REBOUND (Off:0 Def:2),,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,34,2,1,1,7:47 PM,7:48,,,MISS Parker 17' Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,35,4,0,1,7:47 PM,7:47,Bosh REBOUND (Off:0 Def:1),,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,36,2,1,1,7:47 PM,7:37,MISS Bosh 25' 3PT Jump Shot,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,37,4,0,1,7:47 PM,7:36,,,Leonard REBOUND (Off:1 Def:2),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,38,1,1,1,7:47 PM,7:19,,,Aldridge 17' Jump Shot (4 PTS) (Leonard 1 AST),11 - 4,-7,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,39,9,1,1,7:47 PM,7:19,HEAT Timeout: Regular (Full 1 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,43,2,1,1,7:51 PM,7:07,MISS Haslem 24' 3PT Jump Shot,,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,44,4,0,1,7:51 PM,7:06,,,Aldridge REBOUND (Off:0 Def:3),,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,45,5,1,1,7:51 PM,6:53,Bosh STEAL (2 STL),,Parker Bad Pass Turnover (P3.T3),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,46,1,5,1,7:51 PM,6:48,Wade 2' Layup (2 PTS) (Bosh 1 AST),,,11 - 6,-5,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,47,1,1,1,7:51 PM,6:20,,,Leonard 15' Jump Shot (5 PTS),13 - 6,-7,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,48,1,1,1,7:52 PM,5:57,Wade 24' 3PT Jump Shot (5 PTS) (Deng 1 AST),,,13 - 9,-4,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,49,2,1,1,7:52 PM,5:27,,,MISS Green 25' 3PT Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,50,4,0,1,7:52 PM,5:26,Bosh REBOUND (Off:0 Def:2),,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,51,2,3,1,7:52 PM,5:17,MISS Haslem 5' Hook Shot,,Green BLOCK (1 BLK),,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0
+0011500049,52,4,0,1,7:52 PM,5:16,,,Aldridge REBOUND (Off:0 Def:4),,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,53,1,5,1,7:53 PM,5:02,,,Aldridge 2' Layup (6 PTS) (Duncan 1 AST),15 - 9,-6,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,54,5,1,1,7:53 PM,4:46,Wade Bad Pass Turnover (P1.T1),,Green STEAL (1 STL),,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,55,2,1,1,7:53 PM,4:37,,,MISS Parker 20' Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,56,4,0,1,7:53 PM,4:36,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,57,8,0,1,7:53 PM,4:36,SUB: Whittington FOR Bosh,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,58,8,0,1,7:53 PM,4:36,SUB: Johnson FOR Dragic,,,,,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,59,8,0,1,7:53 PM,4:36,SUB: Green FOR Wade,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,60,8,0,1,7:54 PM,4:36,,,SUB: Mills FOR Green,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,61,8,0,1,7:54 PM,4:36,,,SUB: Ginobili FOR Parker,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,63,2,47,1,7:54 PM,4:23,MISS Green 17' Turnaround Jump Shot,,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,64,4,0,1,7:54 PM,4:22,,,Duncan REBOUND (Off:0 Def:2),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,65,6,2,1,7:54 PM,4:07,Johnson S.FOUL (P1.T2) (J.Williams),,,,,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,66,3,11,1,7:55 PM,4:07,,,Ginobili Free Throw 1 of 2 (1 PTS),16 - 9,-7,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,68,8,0,1,7:55 PM,4:07,,,SUB: West FOR Duncan,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,69,8,0,1,7:55 PM,4:07,,,SUB: Anderson FOR Leonard,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,70,3,12,1,7:55 PM,4:07,,,Ginobili Free Throw 2 of 2 (2 PTS),17 - 9,-8,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,72,2,1,1,7:55 PM,3:51,MISS Whittington 24' 3PT Jump Shot,,,,,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,73,4,0,1,7:55 PM,3:50,Haslem REBOUND (Off:1 Def:1),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,74,2,1,1,7:56 PM,3:35,MISS Deng 17' Jump Shot,,,,,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,75,4,0,1,7:56 PM,3:34,,,Aldridge REBOUND (Off:0 Def:5),,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,76,1,44,1,7:56 PM,3:26,,,Mills 1' Reverse Layup (2 PTS) (West 1 AST),19 - 9,-10,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,77,1,7,1,7:56 PM,3:04,Johnson  Dunk (2 PTS) (Haslem 1 AST),,,19 - 11,-8,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,78,1,47,1,7:56 PM,2:38,,,Aldridge 18' Turnaround Jump Shot (8 PTS),21 - 11,-10,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,79,2,1,1,7:57 PM,2:20,MISS Green 16' Jump Shot,,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,80,4,0,1,7:57 PM,2:19,,,Mills REBOUND (Off:0 Def:1),,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,81,2,47,1,7:57 PM,2:10,,,MISS Aldridge 12' Turnaround Jump Shot,,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,82,4,0,1,7:57 PM,2:09,Johnson REBOUND (Off:0 Def:1),,,,,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,83,1,1,1,7:57 PM,2:02,Deng 24' 3PT Jump Shot (5 PTS) (Whittington 1 AST),,,21 - 14,-7,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,84,6,2,1,7:57 PM,2:02,,,Anderson S.FOUL (P1.T3) (J.Williams),,,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,85,9,1,1,7:58 PM,2:02,,,Spurs Timeout: Regular (Reg.1 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,87,8,0,1,8:00 PM,2:02,SUB: Andersen FOR Haslem,,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,89,3,10,1,8:00 PM,2:02,Deng Free Throw 1 of 1 (6 PTS),,,21 - 15,-6,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,91,1,7,1,8:00 PM,1:54,,,Aldridge  Dunk (10 PTS) (Ginobili 1 AST),23 - 15,-8,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,92,6,1,1,8:01 PM,1:41,,,Ginobili P.FOUL (P1.T4) (J.Williams),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,93,8,0,1,8:01 PM,1:41,SUB: Winslow FOR Deng,,,,,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,94,8,0,1,8:01 PM,1:41,,,SUB: Marjanovic FOR Aldridge,,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,5,1626246,Boban Marjanovic,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,95,1,1,1,8:01 PM,1:34,Johnson 25' 3PT Jump Shot (5 PTS) (Green 1 AST),,,23 - 18,-5,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,96,2,1,1,8:01 PM,1:16,,,MISS West 20' Jump Shot,,,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,97,4,0,1,8:01 PM,1:15,Green REBOUND (Off:0 Def:1),,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,98,1,42,1,8:02 PM,1:09,Green 1' Driving Layup (2 PTS),,,23 - 20,-3,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,99,1,80,1,8:02 PM,0:42,,,Anderson 17' Step Back Jump Shot (2 PTS),25 - 20,-5,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,100,2,5,1,8:02 PM,0:29,MISS Green 2' Layup,,Anderson BLOCK (1 BLK),,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0
+0011500049,101,4,0,1,8:02 PM,0:28,,,Anderson REBOUND (Off:0 Def:1),,,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,102,2,66,1,8:03 PM,0:05,,,MISS Ginobili 10' Jump Bank Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,103,4,0,1,8:03 PM,0:04,Whittington REBOUND (Off:0 Def:1),,,,,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,104,1,7,1,8:03 PM,0:02,Whittington  Dunk (2 PTS) (Winslow 1 AST),,,25 - 22,-3,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,105,2,1,1,8:03 PM,0:00,,,MISS Anderson 46' 3PT Jump Shot,,,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,107,4,0,1,8:03 PM,0:00,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,106,13,0,1,8:03 PM,0:00,,,,25 - 22,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,109,12,0,2,8:06 PM,12:00,,,,25 - 22,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,111,5,8,2,8:07 PM,11:40,,,Marjanovic 3 Second Violation Turnover (P1.T4),,,5,1626246,Boban Marjanovic,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0011500049,112,1,1,2,8:07 PM,11:19,Johnson 17' Jump Shot (7 PTS) (Winslow 2 AST),,,25 - 24,-1,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,113,1,1,2,8:07 PM,11:05,,,Ginobili 25' 3PT Jump Shot (5 PTS) (Mills 1 AST),28 - 24,-4,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,114,1,7,2,8:07 PM,10:51,Johnson  Dunk (9 PTS) (Andersen 1 AST),,,28 - 26,-2,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,115,2,1,2,8:08 PM,10:35,,,MISS Mills 25' 3PT Jump Shot,,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,116,4,0,2,8:08 PM,10:34,Winslow REBOUND (Off:0 Def:1),,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,117,6,2,2,8:08 PM,10:30,,,Anderson S.FOUL (P2.T1) (S.Wall),,,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,118,3,13,2,8:08 PM,10:30,Green Free Throw 1 of 3 (3 PTS),,,28 - 27,-1,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,120,3,14,2,8:09 PM,10:30,Green Free Throw 2 of 3 (4 PTS),,,28 - 28,TIE,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,122,8,0,2,8:09 PM,10:30,,,SUB: Sykes FOR Mills,,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,5,1626208,Keifer Sykes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,123,3,15,2,8:09 PM,10:30,Green Free Throw 3 of 3 (5 PTS),,,28 - 29,1,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,125,2,40,2,8:09 PM,10:11,Andersen BLOCK (1 BLK),,MISS West 2' Layup,,,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0
+0011500049,137,4,0,2,8:09 PM,10:10,Green REBOUND (Off:0 Def:2),,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,127,6,1,2,8:09 PM,10:07,,,Ginobili P.FOUL (P2.T2) (S.Wall),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,126,8,0,2,8:10 PM,10:07,,,SUB: Simmons FOR Ginobili,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,128,5,1,2,8:10 PM,9:56,Whittington Bad Pass Turnover (P1.T2),,Simmons STEAL (1 STL),,,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,129,2,3,2,8:10 PM,9:52,,,MISS Simmons 6' Hook Shot,,,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,130,4,0,2,8:10 PM,9:49,,,Marjanovic REBOUND (Off:1 Def:0),,,5,1626246,Boban Marjanovic,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,131,1,5,2,8:10 PM,9:47,,,Marjanovic 2' Layup (2 PTS),30 - 29,-1,5,1626246,Boban Marjanovic,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,132,6,1,2,8:10 PM,9:47,,,Sykes P.FOUL (P1.T3) (H.Workman),,,5,1626208,Keifer Sykes,1610612759.0,San Antonio,Spurs,SAS,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,133,8,0,2,8:10 PM,9:47,SUB: Dragic FOR Johnson,,,,,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,134,1,80,2,8:11 PM,9:33,Green 18' Step Back Jump Shot (7 PTS) (Andersen 2 AST),,,30 - 31,1,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,135,1,3,2,8:11 PM,9:13,,,West 6' Hook Shot (2 PTS),32 - 31,-1,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,138,6,3,2,8:11 PM,9:00,,,West L.B.FOUL (P1.T4) (H.Workman),,,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,139,2,1,2,8:12 PM,8:44,MISS Dragic 25' 3PT Jump Shot,,,,,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,140,4,0,2,8:12 PM,8:42,Andersen REBOUND (Off:1 Def:0),,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,141,5,2,2,8:12 PM,8:40,Dragic Lost Ball Turnover (P1.T3),,Anderson STEAL (1 STL),,,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,142,6,2,2,8:12 PM,8:37,Whittington S.FOUL (P1.T1) (S.Wall),,,,,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,143,9,4,2,8:12 PM,8:37,,,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,145,8,0,2,8:15 PM,8:37,,,SUB: Duncan FOR West,,,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,146,8,0,2,8:15 PM,8:37,,,SUB: Butler FOR Marjanovic,,,5,1626246,Boban Marjanovic,1610612759.0,San Antonio,Spurs,SAS,5,2446,Rasual Butler,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,148,3,11,2,8:15 PM,8:37,,,MISS Anderson Free Throw 1 of 2,,,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,149,4,1,2,8:15 PM,8:37,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,150,3,12,2,8:15 PM,8:37,,,Anderson Free Throw 2 of 2 (3 PTS),33 - 31,-2,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,152,2,47,2,8:16 PM,8:18,MISS Winslow 16' Turnaround Jump Shot,,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,153,4,0,2,8:16 PM,8:17,,,Sykes REBOUND (Off:0 Def:1),,,5,1626208,Keifer Sykes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,154,1,7,2,8:16 PM,8:09,,,Duncan  Dunk (4 PTS) (Simmons 1 AST),35 - 31,-4,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,155,6,1,2,8:16 PM,7:52,,,Simmons P.FOUL (P1.PN) (S.Wall),,,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,156,3,11,2,8:16 PM,7:52,Green Free Throw 1 of 2 (8 PTS),,,35 - 32,-3,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,158,3,12,2,8:17 PM,7:52,Green Free Throw 2 of 2 (9 PTS),,,35 - 33,-2,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,160,6,17,2,8:17 PM,7:41,HEAT T.Foul (Def. 3 Sec Whittington ) (J.Williams),,,,,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0011500049,161,3,16,2,8:17 PM,7:41,,,Butler Free Throw Technical (1 PTS),36 - 33,-3,5,2446,Rasual Butler,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,163,2,1,2,8:18 PM,7:31,,,MISS Butler  3PT Jump Shot,,,5,2446,Rasual Butler,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,164,4,0,2,8:18 PM,7:30,Andersen REBOUND (Off:1 Def:1),,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,165,1,63,2,8:18 PM,7:18,Green 15' Fadeaway Jumper (11 PTS),,,36 - 35,-1,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,166,6,2,2,8:18 PM,6:59,Winslow S.FOUL (P1.T2) (S.Wall),,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,167,3,11,2,8:19 PM,6:59,,,Simmons Free Throw 1 of 2 (1 PTS),37 - 35,-2,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,169,8,0,2,8:19 PM,6:59,SUB: Bosh FOR Whittington,,,,,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,170,8,0,2,8:19 PM,6:59,,,SUB: Leonard FOR Anderson,,,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,171,8,0,2,8:19 PM,6:59,,,SUB: Parker FOR Sykes,,,5,1626208,Keifer Sykes,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,172,3,12,2,8:19 PM,6:59,,,Simmons Free Throw 2 of 2 (2 PTS),38 - 35,-3,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,174,6,2,2,8:19 PM,6:52,,,Butler S.FOUL (P1.PN) (H.Workman),,,5,2446,Rasual Butler,1610612759.0,San Antonio,Spurs,SAS,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,175,3,11,2,8:20 PM,6:52,MISS Dragic Free Throw 1 of 2,,,,,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,176,4,1,2,8:20 PM,6:52,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,177,8,0,2,8:20 PM,6:52,,,SUB: Green FOR Simmons,,,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,178,8,0,2,8:20 PM,6:52,SUB: Wade FOR Green,,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,179,3,12,2,8:20 PM,6:52,Dragic Free Throw 2 of 2 (3 PTS),,,38 - 36,-2,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,181,2,5,2,8:20 PM,6:43,,,MISS Leonard 2' Layup,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,182,4,0,2,8:20 PM,6:42,,,Leonard REBOUND (Off:2 Def:2),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,183,1,66,2,8:20 PM,6:38,,,Leonard 6' Jump Bank Shot (7 PTS),40 - 36,-4,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,184,2,1,2,8:21 PM,6:27,MISS Dragic 24' 3PT Jump Shot,,,,,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,185,4,0,2,8:21 PM,6:26,,,Leonard REBOUND (Off:2 Def:3),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,186,1,71,2,8:21 PM,6:13,,,Duncan 2' Finger Roll Layup (6 PTS),42 - 36,-6,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,187,2,86,2,8:21 PM,5:48,MISS Wade 15' Turnaround Fadeaway Shot,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,188,4,0,2,8:21 PM,5:47,,,Butler REBOUND (Off:0 Def:1),,,5,2446,Rasual Butler,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,189,6,2,2,8:22 PM,5:40,Dragic S.FOUL (P1.T3) (H.Workman),,,,,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,190,9,1,2,8:22 PM,5:40,HEAT Timeout: Regular (Full 2 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,192,8,0,2,8:24 PM,5:40,SUB: Haslem FOR Andersen,,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,193,8,0,2,8:25 PM,5:40,,,SUB: Aldridge FOR Butler,,,5,2446,Rasual Butler,1610612759.0,San Antonio,Spurs,SAS,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,194,3,11,2,8:25 PM,5:40,,,Parker Free Throw 1 of 2 (3 PTS),43 - 36,-7,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,196,3,12,2,8:25 PM,5:40,,,Parker Free Throw 2 of 2 (4 PTS),44 - 36,-8,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,199,8,0,2,8:25 PM,5:24,SUB: Deng FOR Winslow,,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,200,5,1,2,8:26 PM,5:21,Dragic Bad Pass Turnover (P2.T4),,Leonard STEAL (1 STL),,,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,201,2,1,2,8:26 PM,5:09,,,MISS Leonard 25' 3PT Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,202,4,0,2,8:26 PM,5:08,Dragic REBOUND (Off:0 Def:2),,,,,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,203,6,1,2,8:26 PM,5:05,,,Leonard P.FOUL (P1.PN) (H.Workman),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,204,3,11,2,8:26 PM,5:05,Deng Free Throw 1 of 2 (7 PTS),,,44 - 37,-7,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,206,3,12,2,8:26 PM,5:05,Deng Free Throw 2 of 2 (8 PTS),,,44 - 38,-6,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,208,1,1,2,8:27 PM,4:53,,,Parker 18' Jump Shot (6 PTS) (Green 1 AST),46 - 38,-8,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,209,1,42,2,8:27 PM,4:42,Haslem 1' Driving Layup (2 PTS),,,46 - 40,-6,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,210,2,78,2,8:27 PM,4:34,,,MISS Parker 5' Floating Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,211,4,0,2,8:27 PM,4:33,,,Aldridge REBOUND (Off:1 Def:5),,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,212,6,27,2,8:27 PM,4:32,Deng Personal Block Foul (P1.T4) (J.Williams),,,,,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,213,2,42,2,8:28 PM,4:14,,,MISS Green 3' Driving Layup,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,214,4,0,2,8:28 PM,4:13,Bosh REBOUND (Off:0 Def:3),,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,215,6,2,2,8:28 PM,4:10,,,Aldridge S.FOUL (P2.PN) (J.Williams),,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,216,3,11,2,8:28 PM,4:10,Wade Free Throw 1 of 2 (6 PTS),,,46 - 41,-5,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,218,3,12,2,8:28 PM,4:10,Wade Free Throw 2 of 2 (7 PTS),,,46 - 42,-4,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,220,1,1,2,8:29 PM,3:46,,,Duncan 12' Jump Shot (8 PTS) (Parker 2 AST),48 - 42,-6,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,221,6,2,2,8:29 PM,3:28,,,Aldridge S.FOUL (P3.PN) (S.Wall),,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,222,3,11,2,8:30 PM,3:28,Bosh Free Throw 1 of 2 (1 PTS),,,48 - 43,-5,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,224,3,12,2,8:30 PM,3:28,Bosh Free Throw 2 of 2 (2 PTS),,,48 - 44,-4,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,226,1,104,2,8:30 PM,3:12,,,Duncan 12' Step Back Bank Jump Shot (10 PTS),50 - 44,-6,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,227,2,80,2,8:31 PM,2:55,MISS Bosh 15' Step Back Jump Shot,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,228,4,0,2,8:31 PM,2:54,,,Aldridge REBOUND (Off:1 Def:6),,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,229,1,3,2,8:31 PM,2:41,,,Aldridge 7' Hook Shot (12 PTS) (Duncan 2 AST),52 - 44,-8,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,230,6,1,2,8:31 PM,2:23,,,Aldridge P.FOUL (P4.PN) (S.Wall),,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,231,9,1,2,8:32 PM,2:23,,,Spurs Timeout: Regular (Reg.2 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,233,8,0,2,8:34 PM,2:23,,,SUB: Mills FOR Duncan,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,234,8,0,2,8:34 PM,2:23,,,SUB: Ginobili FOR Green,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,235,8,0,2,8:34 PM,2:23,,,SUB: West FOR Parker,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,237,3,11,2,8:35 PM,2:23,Bosh Free Throw 1 of 2 (3 PTS),,,52 - 45,-7,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,239,3,12,2,8:35 PM,2:23,Bosh Free Throw 2 of 2 (4 PTS),,,52 - 46,-6,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,241,6,1,2,8:35 PM,2:07,Haslem P.FOUL (P2.PN) (S.Wall),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,242,3,11,2,8:35 PM,2:07,,,Aldridge Free Throw 1 of 2 (13 PTS),53 - 46,-7,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,244,3,12,2,8:36 PM,2:07,,,Aldridge Free Throw 2 of 2 (14 PTS),54 - 46,-8,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,246,1,101,2,8:36 PM,1:49,Wade 4' Driving Floating Jump Shot (9 PTS),,,54 - 48,-6,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,247,2,1,2,8:36 PM,1:35,,,MISS Aldridge 19' Jump Shot,,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,248,4,0,2,8:36 PM,1:34,Bosh REBOUND (Off:0 Def:4),,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,249,1,42,2,8:37 PM,1:20,Bosh 1' Driving Layup (6 PTS),,,54 - 50,-4,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,250,1,1,2,8:37 PM,1:08,,,Mills 4' Jump Shot (4 PTS) (Ginobili 2 AST),56 - 50,-6,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,251,1,1,2,8:37 PM,0:56,Haslem 16' Jump Shot (4 PTS) (Dragic 2 AST),,,56 - 52,-4,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,252,2,1,2,8:37 PM,0:30,,,MISS Leonard 25' 3PT Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,253,4,0,2,8:38 PM,0:29,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,254,6,3,2,8:38 PM,0:29,,,Aldridge L.B.FOUL (P5.PN) (H.Workman),,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,255,3,11,2,8:38 PM,0:29,Deng Free Throw 1 of 2 (9 PTS),,,56 - 53,-3,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,257,3,12,2,8:38 PM,0:29,MISS Deng Free Throw 2 of 2,,,,,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,259,4,0,2,8:38 PM,0:28,,,Leonard REBOUND (Off:2 Def:4),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,260,6,1,2,8:39 PM,0:11,Haslem P.FOUL (P3.PN) (J.Williams),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,261,3,11,2,8:39 PM,0:11,,,Leonard Free Throw 1 of 2 (8 PTS),57 - 53,-4,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,263,8,0,2,8:39 PM,0:11,,,SUB: Butler FOR Aldridge,,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,5,2446,Rasual Butler,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,264,8,0,2,8:39 PM,0:11,,,SUB: Anderson FOR Mills,,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,265,3,12,2,8:40 PM,0:11,,,Leonard Free Throw 2 of 2 (9 PTS),58 - 53,-5,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,267,9,2,2,8:40 PM,0:08,HEAT Timeout: Short (Full 2 Short 1),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,270,7,1,2,8:41 PM,0:08,HEAT Violation: Delay of game Violation,,,,,2,1610612748,,,,,,0,0,,,,,,1,0,,,,,,0
+0011500049,271,8,0,2,8:41 PM,0:08,SUB: Green FOR Haslem,,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,272,2,1,2,8:42 PM,0:00,MISS Wade 14' Jump Shot,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,273,4,0,2,8:42 PM,0:00,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,274,13,0,2,8:42 PM,0:00,,,,58 - 53,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,276,12,0,3,8:58 PM,12:00,,,,58 - 53,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,277,2,1,3,8:58 PM,11:42,,,MISS Leonard 14' Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,278,4,0,3,8:58 PM,11:41,Dragic REBOUND (Off:0 Def:3),,,,,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,279,2,1,3,8:58 PM,11:32,MISS Deng 24' 3PT Jump Shot,,,,,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,280,4,0,3,8:58 PM,11:31,Wade REBOUND (Off:1 Def:0),,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,281,1,5,3,8:58 PM,11:29,Wade 2' Layup (11 PTS),,,58 - 55,-3,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,282,2,3,3,8:59 PM,11:11,,,MISS Parker 7' Hook Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,283,4,0,3,8:59 PM,11:10,Bosh REBOUND (Off:0 Def:5),,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,284,1,42,3,8:59 PM,11:01,Bosh 2' Driving Layup (8 PTS),,,58 - 57,-1,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,285,6,2,3,8:59 PM,11:01,,,Duncan S.FOUL (P1.T1) (H.Workman),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,286,3,10,3,8:59 PM,11:01,Bosh Free Throw 1 of 1 (9 PTS),,,58 - 58,TIE,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,288,2,42,3,9:00 PM,10:46,,,MISS Leonard 3' Driving Layup,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,289,4,0,3,9:00 PM,10:45,,,Duncan REBOUND (Off:1 Def:2),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,290,1,5,3,9:00 PM,10:43,,,Duncan 2' Layup (12 PTS),60 - 58,-2,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,291,2,42,3,9:00 PM,10:27,MISS Dragic 3' Driving Layup,,Leonard BLOCK (1 BLK),,,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0
+0011500049,292,4,0,3,9:00 PM,10:26,,,Parker REBOUND (Off:0 Def:3),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,293,1,5,3,9:00 PM,10:23,,,Green 1' Layup (2 PTS) (Parker 3 AST),62 - 58,-4,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,294,6,2,3,9:00 PM,10:23,Haslem S.FOUL (P4.T1) (S.Wall),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,295,3,10,3,9:01 PM,10:23,,,Green Free Throw 1 of 1 (3 PTS),63 - 58,-5,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,297,6,1,3,9:01 PM,10:17,,,Leonard P.FOUL (P2.T2) (J.Williams),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,298,2,1,3,9:01 PM,10:07,MISS Wade 13' Jump Shot,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,299,4,0,3,9:01 PM,10:07,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,300,6,3,3,9:01 PM,10:07,Haslem L.B.FOUL (P5.T2) (S.Wall),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,301,8,0,3,9:02 PM,10:07,SUB: Andersen FOR Haslem,,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,302,2,78,3,9:02 PM,9:46,,,MISS Aldridge 5' Floating Jump Shot,,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,303,4,0,3,9:02 PM,9:45,,,Duncan REBOUND (Off:2 Def:2),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,304,2,1,3,9:02 PM,9:31,,,MISS Green 26' 3PT Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,305,4,0,3,9:02 PM,9:30,Wade REBOUND (Off:1 Def:1),,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,306,5,1,3,9:02 PM,9:25,Wade Bad Pass Turnover (P2.T5),,Parker STEAL (1 STL),,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,307,2,44,3,9:02 PM,9:20,,,MISS Leonard 1' Reverse Layup,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,308,4,0,3,9:02 PM,9:17,,,Green REBOUND (Off:1 Def:1),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,309,1,1,3,9:03 PM,9:14,,,Green 2' Jump Shot (5 PTS),65 - 58,-7,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,310,2,1,3,9:03 PM,9:06,MISS Deng  3PT Jump Shot,,,,,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,311,4,0,3,9:03 PM,9:05,,,Duncan REBOUND (Off:2 Def:3),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,312,1,5,3,9:03 PM,9:02,,,Leonard 2' Layup (11 PTS) (Parker 4 AST),67 - 58,-9,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,313,9,1,3,9:03 PM,9:02,HEAT Timeout: Regular (Full 3 Short 1),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,317,1,5,3,9:06 PM,8:45,Deng 1' Layup (11 PTS) (Dragic 3 AST),,,67 - 60,-7,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,318,1,7,3,9:06 PM,8:35,,,Duncan  Dunk (14 PTS) (Green 2 AST),69 - 60,-9,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,319,2,1,3,9:06 PM,8:17,MISS Andersen 16' Jump Shot,,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,320,4,0,3,9:06 PM,8:16,,,Duncan REBOUND (Off:2 Def:4),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,321,2,1,3,9:06 PM,8:04,,,MISS Leonard  3PT Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,322,4,0,3,9:06 PM,8:03,Wade REBOUND (Off:1 Def:2),,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,323,5,1,3,9:07 PM,8:00,Wade Bad Pass Turnover (P3.T6),,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,324,2,1,3,9:07 PM,7:43,,,MISS Green 24' 3PT Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,325,4,0,3,9:07 PM,7:42,Bosh REBOUND (Off:0 Def:6),,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,326,6,1,3,9:07 PM,7:34,,,Parker P.FOUL (P1.T3) (S.Wall),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,327,8,0,3,9:07 PM,7:34,,,SUB: West FOR Duncan,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,328,1,1,3,9:08 PM,7:23,Wade 18' Jump Shot (13 PTS) (Bosh 2 AST),,,69 - 62,-7,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,329,2,1,3,9:08 PM,6:54,,,MISS Aldridge 24' 3PT Jump Shot,,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,330,4,0,3,9:08 PM,6:53,,,West REBOUND (Off:1 Def:0),,,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,331,1,1,3,9:08 PM,6:49,,,Leonard 24' 3PT Jump Shot (14 PTS) (West 2 AST),72 - 62,-10,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,332,5,2,3,9:09 PM,6:29,Wade Lost Ball Turnover (P4.T7),,Green STEAL (2 STL),,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,333,6,1,3,9:09 PM,6:27,Wade P.FOUL (P1.T3) (H.Workman),,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,334,2,79,3,9:09 PM,6:15,,,MISS Leonard 12' Pullup Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,335,4,0,3,9:09 PM,6:14,Bosh REBOUND (Off:0 Def:7),,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,336,2,86,3,9:09 PM,6:05,MISS Bosh 16' Turnaround Fadeaway Shot,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,337,4,0,3,9:09 PM,6:04,,,Leonard REBOUND (Off:2 Def:5),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,338,1,1,3,9:10 PM,5:52,,,Parker 21' Jump Shot (8 PTS),74 - 62,-12,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,339,1,1,3,9:10 PM,5:35,Wade 24' 3PT Jump Shot (16 PTS) (Andersen 3 AST),,,74 - 65,-9,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,340,1,1,3,9:10 PM,5:20,,,West 17' Jump Shot (4 PTS) (Parker 5 AST),76 - 65,-11,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,341,1,1,3,9:10 PM,5:02,Dragic 14' Jump Shot (5 PTS),,,76 - 67,-9,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,342,6,2,3,9:11 PM,4:47,Andersen S.FOUL (P1.T4) (S.Wall),,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,343,3,11,3,9:11 PM,4:47,,,Aldridge Free Throw 1 of 2 (15 PTS),77 - 67,-10,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,345,8,0,3,9:11 PM,4:47,SUB: Johnson FOR Wade,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,346,8,0,3,9:11 PM,4:47,SUB: Green FOR Dragic,,,,,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,347,8,0,3,9:11 PM,4:47,,,SUB: Mills FOR Green,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,348,8,0,3,9:11 PM,4:47,,,SUB: Ginobili FOR Parker,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,349,3,12,3,9:12 PM,4:47,,,MISS Aldridge Free Throw 2 of 2,,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,351,4,0,3,9:12 PM,4:46,Andersen REBOUND (Off:1 Def:2),,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,352,2,78,3,9:12 PM,4:32,MISS Deng 9' Floating Jump Shot,,,,,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,354,4,0,3,9:12 PM,4:31,Andersen REBOUND (Off:2 Def:2),,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,353,1,87,3,9:12 PM,4:30,Andersen  Putback Dunk (2 PTS),,,77 - 69,-8,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,355,2,1,3,9:12 PM,4:08,,,MISS Mills 24' 3PT Jump Shot,,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,356,4,0,3,9:12 PM,4:07,,,Aldridge REBOUND (Off:2 Def:6),,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,357,1,5,3,9:12 PM,4:06,,,Aldridge 1' Layup (17 PTS),79 - 69,-10,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,358,5,2,3,9:13 PM,3:48,Bosh Lost Ball Turnover (P1.T8),,Ginobili STEAL (1 STL),,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,360,7,2,3,9:13 PM,3:45,Green Violation:Defensive Goaltending (J.Williams),,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0011500049,359,1,5,3,9:13 PM,3:45,,,Ginobili 2' Layup (7 PTS),81 - 69,-12,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,361,2,5,3,9:13 PM,3:31,MISS Bosh 2' Layup,,West BLOCK (1 BLK),,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,0
+0011500049,362,4,0,3,9:13 PM,3:30,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,363,8,0,3,9:13 PM,3:30,SUB: Winslow FOR Bosh,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,364,8,0,3,9:13 PM,3:30,,,SUB: Anderson FOR Leonard,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,365,8,0,3,9:13 PM,3:30,,,SUB: Marjanovic FOR Aldridge,,,5,200746,LaMarcus Aldridge,1610612759.0,San Antonio,Spurs,SAS,5,1626246,Boban Marjanovic,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,366,8,0,3,9:13 PM,3:30,SUB: Whittington FOR Deng,,,,,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,367,2,79,3,9:14 PM,3:22,MISS Johnson 19' Pullup Jump Shot,,,,,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,368,4,0,3,9:14 PM,3:21,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,369,5,1,3,9:14 PM,3:09,,,Ginobili Bad Pass Turnover (P1.T5),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,370,5,1,3,9:15 PM,2:56,Green Bad Pass Turnover (P1.T9),,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,371,9,1,3,9:15 PM,2:56,,,Spurs Timeout: Regular (Reg.3 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,375,6,1,3,9:18 PM,2:48,Green P.FOUL (P1.PN) (S.Wall),,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,376,3,11,3,9:18 PM,2:48,,,Ginobili Free Throw 1 of 2 (8 PTS),82 - 69,-13,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,378,3,12,3,9:18 PM,2:48,,,MISS Ginobili Free Throw 2 of 2,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,380,4,0,3,9:18 PM,2:47,Whittington REBOUND (Off:0 Def:2),,,,,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,381,2,1,3,9:18 PM,2:25,MISS Green 14' Jump Shot,,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,382,4,0,3,9:18 PM,2:24,,,West REBOUND (Off:1 Def:1),,,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,383,2,5,3,9:19 PM,2:15,Andersen BLOCK (2 BLK),,MISS Marjanovic 1' Layup,,,5,1626246,Boban Marjanovic,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0
+0011500049,384,4,0,3,9:19 PM,2:14,Winslow REBOUND (Off:0 Def:2),,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,385,2,42,3,9:19 PM,2:08,MISS Winslow 2' Driving Layup,,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,386,4,0,3,9:19 PM,2:07,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,387,2,1,3,9:19 PM,1:49,Whittington BLOCK (1 BLK),,MISS West 16' Jump Shot,,,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,0
+0011500049,388,4,0,3,9:19 PM,1:48,,,Marjanovic REBOUND (Off:2 Def:0),,,5,1626246,Boban Marjanovic,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,389,6,26,3,9:19 PM,1:45,,,Ginobili Offensive Charge Foul (P3.T4) (S.Wall),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,390,5,5,3,9:19 PM,1:45,,,Ginobili Foul Turnover (P2.T6),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0011500049,391,1,1,3,9:20 PM,1:32,Green 12' Jump Shot (13 PTS) (Johnson 1 AST),,,82 - 71,-11,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,392,7,5,3,9:20 PM,1:18,Whittington Violation:Kicked Ball (H.Workman),,,,,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0011500049,393,6,26,3,9:21 PM,1:08,,,West Offensive Charge Foul (P2.PN) (J.Williams),,,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,394,5,5,3,9:21 PM,1:08,,,West Foul Turnover (P1.T7),,,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0011500049,395,2,42,3,9:21 PM,0:56,MISS Johnson 2' Driving Layup,,,,,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,396,4,0,3,9:21 PM,0:55,,,West REBOUND (Off:1 Def:2),,,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,397,5,2,3,9:21 PM,0:48,Andersen STEAL (1 STL),,Marjanovic Lost Ball Turnover (P2.T8),,,5,1626246,Boban Marjanovic,1610612759.0,San Antonio,Spurs,SAS,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,398,2,1,3,9:21 PM,0:43,MISS Green 25' 3PT Jump Shot,,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,399,4,0,3,9:21 PM,0:42,,,Anderson REBOUND (Off:0 Def:2),,,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,400,2,1,3,9:21 PM,0:28,,,MISS Anderson 8' Jump Shot,,,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,401,4,0,3,9:21 PM,0:27,Winslow REBOUND (Off:0 Def:3),,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,402,5,2,3,9:22 PM,0:10,Green Lost Ball Turnover (P2.T10),,Ginobili STEAL (2 STL),,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,403,1,5,3,9:22 PM,0:07,,,Ginobili 2' Layup (10 PTS) (Anderson 1 AST),84 - 71,-13,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,404,2,1,3,9:22 PM,0:00,MISS Johnson 35' 3PT Jump Shot,,,,,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,406,4,0,3,9:22 PM,0:00,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,405,13,0,3,9:22 PM,0:00,,,,84 - 71,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,408,12,0,4,9:25 PM,12:00,,,,84 - 71,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,409,5,1,4,9:25 PM,11:46,Green Bad Pass Turnover (P3.T11),,Anderson STEAL (2 STL),,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,410,5,1,4,9:25 PM,11:32,Green STEAL (1 STL),,West Bad Pass Turnover (P2.T9),,,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,411,6,1,4,9:25 PM,11:31,,,West P.FOUL (P3.T1) (S.Wall),,,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,412,2,3,4,9:26 PM,11:15,MISS Haslem 2' Hook Shot,,Marjanovic BLOCK (1 BLK),,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1626246,Boban Marjanovic,1610612759.0,San Antonio,Spurs,SAS,0
+0011500049,413,4,0,4,9:26 PM,11:14,,,West REBOUND (Off:1 Def:3),,,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,414,2,1,4,9:26 PM,11:10,,,MISS Mills 25' 3PT Jump Shot,,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,415,4,0,4,9:26 PM,11:09,Winslow REBOUND (Off:0 Def:4),,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,416,6,2,4,9:26 PM,11:01,,,Anderson S.FOUL (P3.T2) (J.Williams),,,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,417,3,11,4,9:27 PM,11:01,Green Free Throw 1 of 2 (14 PTS),,,84 - 72,-12,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,419,3,12,4,9:27 PM,11:01,Green Free Throw 2 of 2 (15 PTS),,,84 - 73,-11,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,421,2,63,4,9:27 PM,10:40,,,MISS Mills 16' Fadeaway Jumper,,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,422,4,0,4,9:27 PM,10:39,Haslem REBOUND (Off:1 Def:2),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,423,2,1,4,9:27 PM,10:33,MISS Green 25' 3PT Jump Shot,,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,424,4,0,4,9:27 PM,10:32,Johnson REBOUND (Off:1 Def:1),,,,,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,425,2,1,4,9:28 PM,10:24,MISS Haslem 24' 3PT Jump Shot,,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,426,4,0,4,9:28 PM,10:23,Whittington REBOUND (Off:1 Def:2),,,,,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,427,1,1,4,9:28 PM,10:19,Whittington 3' Jump Shot (4 PTS),,,84 - 75,-9,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,428,2,1,4,9:28 PM,10:07,,,MISS Mills 20' Jump Shot,,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,429,4,0,4,9:28 PM,10:06,,,Marjanovic REBOUND (Off:3 Def:0),,,5,1626246,Boban Marjanovic,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,430,6,1,4,9:28 PM,10:00,Johnson P.FOUL (P2.T1) (S.Wall),,,,,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,431,8,0,4,9:28 PM,10:00,,,SUB: Thomas FOR West,,,5,2561,David West,1610612759.0,San Antonio,Spurs,SAS,5,203472,Deshaun Thomas,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,432,2,42,4,9:29 PM,9:47,,,MISS Anderson 4' Driving Layup,,,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,433,4,0,4,9:29 PM,9:46,Whittington REBOUND (Off:1 Def:3),,,,,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,434,2,79,4,9:29 PM,9:41,MISS Johnson 13' Pullup Jump Shot,,,,,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,435,4,0,4,9:29 PM,9:40,,,Williams REBOUND (Off:0 Def:1),,,5,202130,Reggie Williams,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,436,2,3,4,9:29 PM,9:25,,,MISS Anderson 6' Hook Shot,,,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,437,4,0,4,9:29 PM,9:24,Haslem REBOUND (Off:1 Def:3),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,438,1,46,4,9:29 PM,9:18,Winslow 9' Running Jump Shot (2 PTS),,,84 - 77,-7,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,439,6,1,4,9:29 PM,8:59,Winslow P.FOUL (P2.T2) (J.Williams),,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,202130,Reggie Williams,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,440,9,4,4,9:30 PM,8:59,,,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,444,2,3,4,9:32 PM,8:44,,,MISS Marjanovic 5' Hook Shot,,,5,1626246,Boban Marjanovic,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,445,4,0,4,9:32 PM,8:43,Whittington REBOUND (Off:1 Def:4),,,,,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,446,5,2,4,9:32 PM,8:41,Whittington Lost Ball Turnover (P2.T12),,Williams STEAL (1 STL),,,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,5,202130,Reggie Williams,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,447,2,1,4,9:33 PM,8:32,,,MISS Thomas 24' 3PT Jump Shot,,,5,203472,Deshaun Thomas,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,448,4,0,4,9:33 PM,8:31,Green REBOUND (Off:0 Def:3),,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,449,2,1,4,9:33 PM,8:09,MISS Haslem 18' Jump Shot,,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,450,4,0,4,9:33 PM,8:08,,,Anderson REBOUND (Off:0 Def:3),,,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,451,2,1,4,9:33 PM,7:55,,,MISS Williams 25' 3PT Jump Shot,,,5,202130,Reggie Williams,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,452,4,0,4,9:33 PM,7:54,Haslem REBOUND (Off:1 Def:4),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,453,1,42,4,9:33 PM,7:46,Green 1' Driving Layup (17 PTS),,,84 - 79,-5,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,454,1,1,4,9:34 PM,7:25,,,Mills 16' Jump Shot (6 PTS),86 - 79,-7,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,455,2,1,4,9:34 PM,7:05,MISS Green  3PT Jump Shot,,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,456,4,0,4,9:34 PM,7:04,,,Williams REBOUND (Off:0 Def:2),,,5,202130,Reggie Williams,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,457,2,3,4,9:34 PM,6:45,,,MISS Williams 6' Hook Shot,,,5,202130,Reggie Williams,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,458,4,0,4,9:34 PM,6:44,Winslow REBOUND (Off:0 Def:5),,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,459,2,1,4,9:35 PM,6:35,MISS Green 24' 3PT Jump Shot,,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,460,4,0,4,9:35 PM,6:34,,,Williams REBOUND (Off:0 Def:3),,,5,202130,Reggie Williams,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,461,6,2,4,9:35 PM,6:31,Green S.FOUL (P2.T3) (J.Williams),,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,5,203472,Deshaun Thomas,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,462,3,11,4,9:35 PM,6:31,,,MISS Thomas Free Throw 1 of 2,,,5,203472,Deshaun Thomas,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,463,4,1,4,9:35 PM,6:31,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,464,8,0,4,9:35 PM,6:31,SUB: Richardson FOR Green,,,,,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,465,8,0,4,9:35 PM,6:31,,,SUB: Ndoye FOR Marjanovic,,,5,1626246,Boban Marjanovic,1610612759.0,San Antonio,Spurs,SAS,5,1626304,Youssou Ndoye,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,466,8,0,4,9:36 PM,6:31,,,SUB: McCallum FOR Mills,,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,5,203492,Ray McCallum,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,467,3,12,4,9:36 PM,6:31,,,Thomas Free Throw 2 of 2 (1 PTS),87 - 79,-8,5,203472,Deshaun Thomas,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,469,9,1,4,9:36 PM,6:26,HEAT Timeout: Regular (Full 4 Short 1),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,471,8,0,4,9:38 PM,6:26,,,SUB: Simmons FOR Anderson,,,5,203937,Kyle Anderson,1610612759.0,San Antonio,Spurs,SAS,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,472,8,0,4,9:38 PM,6:26,SUB: Ennis FOR Whittington,,,,,4,204222,Greg Whittington,1610612748.0,Miami,Heat,MIA,4,203516,James Ennis III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,473,1,1,4,9:39 PM,6:06,Johnson 25' 3PT Jump Shot (12 PTS) (Richardson 1 AST),,,87 - 82,-5,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,474,5,2,4,9:39 PM,5:50,Richardson STEAL (1 STL),,Simmons Lost Ball Turnover (P1.T10),,,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,476,8,0,4,9:39 PM,5:43,SUB: Benson FOR Haslem,,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,202728,Keith Benson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,477,2,1,4,9:40 PM,5:34,MISS Johnson 19' Jump Shot,,,,,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,478,4,0,4,9:40 PM,5:33,Ennis REBOUND (Off:1 Def:0),,,,,4,203516,James Ennis III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,479,6,2,4,9:40 PM,5:31,,,Thomas S.FOUL (P1.T3) (S.Wall),,,5,203472,Deshaun Thomas,1610612759.0,San Antonio,Spurs,SAS,4,203516,James Ennis III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,480,3,11,4,9:40 PM,5:31,Ennis Free Throw 1 of 2 (1 PTS),,,87 - 83,-4,4,203516,James Ennis III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,482,3,12,4,9:40 PM,5:31,Ennis Free Throw 2 of 2 (2 PTS),,,87 - 84,-3,4,203516,James Ennis III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,484,2,3,4,9:41 PM,5:10,,,MISS Ndoye 13' Hook Shot,,,5,1626304,Youssou Ndoye,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,485,4,0,4,9:41 PM,5:09,Richardson REBOUND (Off:0 Def:1),,,,,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,486,2,66,4,9:41 PM,5:02,MISS Benson 4' Jump Bank Shot,,,,,4,202728,Keith Benson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,487,4,0,4,9:41 PM,5:01,Benson REBOUND (Off:1 Def:0),,,,,4,202728,Keith Benson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,488,6,1,4,9:41 PM,5:00,,,McCallum P.FOUL (P1.T4) (S.Wall),,,5,203492,Ray McCallum,1610612759.0,San Antonio,Spurs,SAS,4,202728,Keith Benson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,489,6,4,4,9:42 PM,4:52,Ennis OFF.Foul (P1) (S.Wall),,,,,4,203516,James Ennis III,1610612748.0,Miami,Heat,MIA,5,1626304,Youssou Ndoye,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,490,5,5,4,9:42 PM,4:52,Ennis Foul Turnover (P1.T13),,,,,4,203516,James Ennis III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0011500049,491,2,1,4,9:42 PM,4:37,,,MISS Simmons 20' Jump Shot,,,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,492,4,0,4,9:42 PM,4:37,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,493,6,3,4,9:42 PM,4:36,Winslow L.B.FOUL (P3.T4) (S.Wall),,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,1626304,Youssou Ndoye,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,494,2,1,4,9:43 PM,4:24,,,MISS Williams 13' Jump Shot,,,5,202130,Reggie Williams,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,495,4,0,4,9:43 PM,4:23,Benson REBOUND (Off:1 Def:1),,,,,4,202728,Keith Benson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,496,2,1,4,9:43 PM,4:09,MISS Richardson 18' Jump Shot,,,,,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,497,4,0,4,9:43 PM,4:08,Benson REBOUND (Off:2 Def:1),,,,,4,202728,Keith Benson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,498,2,1,4,9:43 PM,4:07,MISS Benson 3' Jump Shot,,Thomas BLOCK (1 BLK),,,4,202728,Keith Benson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,203472,Deshaun Thomas,1610612759.0,San Antonio,Spurs,SAS,0
+0011500049,499,4,0,4,9:43 PM,4:06,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,500,6,2,4,9:43 PM,4:02,,,Ndoye S.FOUL (P1.PN) (H.Workman),,,5,1626304,Youssou Ndoye,1610612759.0,San Antonio,Spurs,SAS,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,501,3,11,4,9:44 PM,4:02,Richardson Free Throw 1 of 2 (1 PTS),,,87 - 85,-2,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,503,3,12,4,9:44 PM,4:02,Richardson Free Throw 2 of 2 (2 PTS),,,87 - 86,-1,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,505,5,2,4,9:45 PM,3:45,Richardson STEAL (2 STL),,Williams Lost Ball Turnover (P1.T11),,,5,202130,Reggie Williams,1610612759.0,San Antonio,Spurs,SAS,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,506,1,42,4,9:45 PM,3:40,Richardson 2' Driving Layup (4 PTS),,,87 - 88,1,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,507,2,1,4,9:45 PM,3:28,,,MISS Thomas 26' 3PT Jump Shot,,,5,203472,Deshaun Thomas,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,508,4,0,4,9:45 PM,3:27,Benson REBOUND (Off:2 Def:2),,,,,4,202728,Keith Benson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,509,2,1,4,9:45 PM,3:14,MISS Winslow 24' 3PT Jump Shot,,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,510,4,0,4,9:45 PM,3:13,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,511,5,4,4,9:46 PM,2:54,,,Simmons Traveling Turnover (P2.T12),,,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0011500049,512,9,1,4,9:46 PM,2:54,,,Spurs Timeout: Regular (Reg.4 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,516,2,5,4,9:50 PM,2:39,MISS Winslow 2' Layup,,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,518,4,0,4,9:50 PM,2:38,Benson REBOUND (Off:3 Def:2),,,,,4,202728,Keith Benson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,517,1,87,4,9:50 PM,2:37,Benson  Putback Dunk (2 PTS),,,87 - 90,3,4,202728,Keith Benson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,519,2,78,4,9:50 PM,2:21,,,MISS Thomas 6' Floating Jump Shot,,,5,203472,Deshaun Thomas,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,520,4,0,4,9:50 PM,2:20,Richardson REBOUND (Off:0 Def:2),,,,,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,521,1,75,4,9:50 PM,2:14,Johnson 1' Driving Finger Roll Layup (14 PTS) (Winslow 3 AST),,,87 - 92,5,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,522,1,1,4,9:51 PM,2:00,,,Williams 25' 3PT Jump Shot (3 PTS) (Simmons 2 AST),90 - 92,2,5,202130,Reggie Williams,1610612759.0,San Antonio,Spurs,SAS,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011500049,523,2,80,4,9:51 PM,1:43,MISS Richardson 17' Step Back Jump Shot,,,,,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,524,4,0,4,9:51 PM,1:42,,,Thomas REBOUND (Off:0 Def:1),,,5,203472,Deshaun Thomas,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,525,6,2,4,9:51 PM,1:31,Benson S.FOUL (P1.PN) (J.Williams),,,,,4,202728,Keith Benson,1610612748.0,Miami,Heat,MIA,5,1626304,Youssou Ndoye,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,526,3,11,4,9:51 PM,1:31,,,MISS Ndoye Free Throw 1 of 2,,,5,1626304,Youssou Ndoye,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,527,4,1,4,9:51 PM,1:31,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,528,3,12,4,9:52 PM,1:31,,,MISS Ndoye Free Throw 2 of 2,,,5,1626304,Youssou Ndoye,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,530,4,0,4,9:52 PM,1:30,Ennis REBOUND (Off:1 Def:1),,,,,4,203516,James Ennis III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,531,2,1,4,9:52 PM,1:07,MISS Richardson 25' 3PT Jump Shot,,,,,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,532,4,0,4,9:52 PM,1:06,Richardson REBOUND (Off:1 Def:2),,,,,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,533,2,1,4,9:52 PM,1:01,MISS Richardson 25' 3PT Jump Shot,,,,,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,534,4,0,4,9:52 PM,1:00,Winslow REBOUND (Off:1 Def:5),,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,535,2,1,4,9:52 PM,0:51,MISS Benson 3' Jump Shot,,Williams BLOCK (1 BLK),,,4,202728,Keith Benson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,202130,Reggie Williams,1610612759.0,San Antonio,Spurs,SAS,0
+0011500049,536,4,0,4,9:53 PM,0:50,,,McCallum REBOUND (Off:0 Def:1),,,5,203492,Ray McCallum,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,537,5,2,4,9:53 PM,0:46,Richardson STEAL (3 STL),,Thomas Lost Ball Turnover (P1.T13),,,5,203472,Deshaun Thomas,1610612759.0,San Antonio,Spurs,SAS,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011500049,540,6,2,4,9:53 PM,0:43,,,McCallum S.FOUL (P2.PN) (J.Williams),,,5,203492,Ray McCallum,1610612759.0,San Antonio,Spurs,SAS,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,541,3,11,4,9:54 PM,0:43,Richardson Free Throw 1 of 2 (5 PTS),,,90 - 93,3,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,543,3,12,4,9:54 PM,0:43,Richardson Free Throw 2 of 2 (6 PTS),,,90 - 94,4,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,545,6,29,4,9:54 PM,0:33,Winslow Shooting Block Foul (P4.PN) (S.Wall),,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011500049,546,3,11,4,9:54 PM,0:33,,,Simmons Free Throw 1 of 2 (3 PTS),91 - 94,3,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,548,3,12,4,9:54 PM,0:33,,,Simmons Free Throw 2 of 2 (4 PTS),92 - 94,2,5,203613,Jonathon Simmons,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,550,2,5,4,9:55 PM,0:15,MISS Ennis 2' Layup,,,,,4,203516,James Ennis III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,552,4,0,4,9:55 PM,0:14,Benson REBOUND (Off:4 Def:2),,,,,4,202728,Keith Benson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,551,1,97,4,9:55 PM,0:14,Ennis 1' Tip Layup Shot (4 PTS),,,92 - 96,4,4,203516,James Ennis III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,553,1,78,4,9:55 PM,0:07,,,McCallum 6' Floating Jump Shot (2 PTS),94 - 96,2,5,203492,Ray McCallum,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,554,6,1,4,9:55 PM,0:05,,,McCallum P.FOUL (P3.PN) (H.Workman),,,5,203492,Ray McCallum,1610612759.0,San Antonio,Spurs,SAS,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011500049,555,3,11,4,9:56 PM,0:05,MISS Richardson Free Throw 1 of 2,,,,,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,556,4,1,4,9:56 PM,0:05,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,557,3,12,4,9:56 PM,0:05,Richardson Free Throw 2 of 2 (7 PTS),,,94 - 97,3,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011500049,559,2,1,4,9:56 PM,0:00,,,MISS McCallum 32' 3PT Jump Shot,,,5,203492,Ray McCallum,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011500049,560,4,0,4,9:56 PM,0:00,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500049,561,13,0,4,9:56 PM,0:00,,,,94 - 97,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

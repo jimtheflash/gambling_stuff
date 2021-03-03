@@ -1,0 +1,457 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0041500214,0,12,0,1,8:03 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,1,10,0,1,8:03 PM,12:00,Jump Ball Stoudemire vs. Biyombo: Tip to Patterson,,,,,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,5,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,5,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,1
+0041500214,2,2,1,1,8:03 PM,11:47,,,MISS DeRozan 18' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,3,4,0,1,8:03 PM,11:46,Deng REBOUND (Off:0 Def:1),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,4,6,2,1,8:03 PM,11:39,,,Patterson S.FOUL (P1.T1) (B.Kennedy),,,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,5,3,11,1,8:03 PM,11:39,Wade Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,7,3,12,1,8:04 PM,11:39,MISS Wade Free Throw 2 of 2,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,9,4,0,1,8:04 PM,11:38,,,DeRozan REBOUND (Off:0 Def:1),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,10,2,1,1,8:04 PM,11:22,,,MISS Carroll 26' 3PT Jump Shot,,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,11,4,0,1,8:04 PM,11:21,Deng REBOUND (Off:0 Def:2),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,12,1,1,1,8:04 PM,11:12,Stoudemire 17' Jump Shot (2 PTS) (Dragic 1 AST),,,0 - 3,3,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,13,1,7,1,8:04 PM,11:03,,,Biyombo  Dunk (2 PTS) (Lowry 1 AST),2 - 3,1,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,14,2,1,1,8:05 PM,10:41,MISS Deng 24' 3PT Jump Shot,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,15,4,0,1,8:05 PM,10:40,,,DeRozan REBOUND (Off:0 Def:2),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,16,5,1,1,8:05 PM,10:19,Stoudemire STEAL (1 STL),,Lowry Bad Pass Turnover (P1.T1),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,17,1,50,1,8:05 PM,10:15,Wade 1' Running Dunk (3 PTS) (Johnson 1 AST),,,2 - 5,3,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,18,2,1,1,8:05 PM,9:58,,,MISS Lowry 25' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,19,4,0,1,8:06 PM,9:57,Stoudemire REBOUND (Off:0 Def:1),,,,,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,20,2,73,1,8:06 PM,9:42,MISS Dragic 2' Driving Reverse Layup,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,21,4,0,1,8:06 PM,9:41,,,Biyombo REBOUND (Off:0 Def:1),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,22,2,75,1,8:06 PM,9:35,,,MISS Carroll 1' Driving Finger Roll Layup,,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,23,4,0,1,8:06 PM,9:35,,,Biyombo REBOUND (Off:1 Def:1),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,24,6,1,1,8:06 PM,9:29,Johnson P.FOUL (P1.T1) (B.Kennedy),,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,5,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0041500214,25,1,1,1,8:06 PM,9:19,,,DeRozan 17' Jump Shot (2 PTS),4 - 5,1,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,26,6,2,1,8:06 PM,9:19,Stoudemire S.FOUL (P1.T2) (M.Callahan),,,,,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0041500214,27,3,10,1,8:07 PM,9:19,,,MISS DeRozan Free Throw 1 of 1,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,29,4,0,1,8:07 PM,9:18,Johnson REBOUND (Off:0 Def:1),,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,30,1,75,1,8:07 PM,9:05,Deng 2' Driving Finger Roll Layup (2 PTS),,,4 - 7,3,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,31,1,7,1,8:07 PM,8:55,,,Biyombo  Dunk (4 PTS),6 - 7,1,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,32,6,2,1,8:07 PM,8:55,Stoudemire S.FOUL (P2.T3) (B.Kennedy),,,,,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,5,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0041500214,33,3,10,1,8:08 PM,8:55,,,Biyombo Free Throw 1 of 1 (5 PTS),7 - 7,TIE,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,35,5,4,1,8:08 PM,8:41,Stoudemire Traveling Turnover (P1.T1),,,,,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0041500214,36,1,1,1,8:09 PM,8:23,,,DeRozan 15' Jump Shot (4 PTS),9 - 7,-2,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,37,2,1,1,8:09 PM,8:08,MISS Johnson 16' Jump Shot,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,38,4,0,1,8:09 PM,8:07,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,39,2,1,1,8:09 PM,7:57,,,MISS DeRozan 14' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,40,4,0,1,8:09 PM,7:56,Stoudemire REBOUND (Off:0 Def:2),,,,,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,41,1,82,1,8:10 PM,7:44,Wade 9' Driving Bank Shot (5 PTS) (Dragic 2 AST),,,9 - 9,TIE,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,42,5,2,1,8:10 PM,7:32,Johnson STEAL (1 STL),,Patterson Lost Ball Turnover (P1.T2),,,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,43,6,1,1,8:10 PM,7:31,,,DeRozan P.FOUL (P1.T2) (B.Forte),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,44,2,1,1,8:10 PM,7:22,MISS Dragic 19' Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,45,4,0,1,8:10 PM,7:21,,,Biyombo REBOUND (Off:1 Def:2),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,46,2,1,1,8:11 PM,7:00,,,MISS Lowry 9' Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,47,4,0,1,8:11 PM,6:59,Deng REBOUND (Off:0 Def:3),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,48,6,2,1,8:11 PM,6:56,,,Lowry S.FOUL (P1.T3) (B.Kennedy),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,49,3,11,1,8:11 PM,6:56,Dragic Free Throw 1 of 2 (1 PTS),,,9 - 10,1,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,51,3,12,1,8:11 PM,6:56,Dragic Free Throw 2 of 2 (2 PTS),,,9 - 11,2,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,53,2,1,1,8:12 PM,6:33,,,MISS Carroll 12' Jump Shot,,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,54,4,0,1,8:12 PM,6:32,Deng REBOUND (Off:0 Def:4),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,55,1,42,1,8:12 PM,6:26,Dragic 1' Driving Layup (4 PTS) (Johnson 2 AST),,,9 - 13,4,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,56,9,1,1,8:12 PM,6:18,,,Raptors Timeout: Regular (Reg.1 Short 0),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,60,1,3,1,8:16 PM,6:00,,,Patterson 8' Hook Shot (2 PTS) (Lowry 2 AST),11 - 13,2,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,62,5,45,1,8:16 PM,5:46,Wade Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,63,8,0,1,8:16 PM,5:46,SUB: Richardson FOR Dragic,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,64,8,0,1,8:16 PM,5:46,SUB: Winslow FOR Johnson,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,65,2,66,1,8:17 PM,5:30,,,MISS DeRozan 4' Jump Bank Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,66,4,0,1,8:17 PM,5:29,,,Biyombo REBOUND (Off:2 Def:2),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,67,6,2,1,8:17 PM,5:29,Deng S.FOUL (P1.T4) (B.Forte),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,5,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0041500214,68,3,11,1,8:17 PM,5:29,,,Biyombo Free Throw 1 of 2 (6 PTS),12 - 13,1,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,70,3,12,1,8:17 PM,5:29,,,Biyombo Free Throw 2 of 2 (7 PTS),13 - 13,TIE,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,72,1,71,1,8:18 PM,5:17,Stoudemire 2' Finger Roll Layup (4 PTS) (Deng 1 AST),,,13 - 15,2,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,73,5,1,1,8:18 PM,4:58,Deng STEAL (1 STL),,DeRozan Bad Pass Turnover (P1.T3),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,74,1,3,1,8:18 PM,4:44,Winslow 8' Hook Shot (2 PTS) (Richardson 1 AST),,,13 - 17,4,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,75,6,2,1,8:19 PM,4:35,Richardson S.FOUL (P1.PN) (B.Kennedy),,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0041500214,76,18,1,1,8:19 PM,4:35,,,,,,,75,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500214,77,3,13,1,8:20 PM,4:35,,,Lowry Free Throw 1 of 3 (1 PTS),14 - 17,3,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,79,3,14,1,8:20 PM,4:35,,,Lowry Free Throw 2 of 3 (2 PTS),15 - 17,2,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,81,8,0,1,8:20 PM,4:35,,,SUB: Ross FOR Patterson,,,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,5,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,82,8,0,1,8:20 PM,4:35,SUB: McRoberts FOR Stoudemire,,,,,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,4,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,83,3,15,1,8:20 PM,4:35,,,Lowry Free Throw 3 of 3 (3 PTS),16 - 17,1,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,85,6,2,1,8:21 PM,4:28,,,Ross S.FOUL (P1.T4) (B.Kennedy),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,86,3,11,1,8:21 PM,4:28,Wade Free Throw 1 of 2 (6 PTS),,,16 - 18,2,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,90,3,12,1,8:21 PM,4:28,Wade Free Throw 2 of 2 (7 PTS),,,16 - 19,3,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,92,6,2,1,8:22 PM,4:15,McRoberts S.FOUL (P1.PN) (B.Forte),,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0041500214,93,3,11,1,8:22 PM,4:15,,,MISS DeRozan Free Throw 1 of 2,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,94,4,1,1,8:22 PM,4:15,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,95,8,0,1,8:23 PM,4:15,,,SUB: Powell FOR Carroll,,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,96,3,12,1,8:23 PM,4:15,,,DeRozan Free Throw 2 of 2 (5 PTS),17 - 19,2,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,100,9,1,1,8:23 PM,4:04,HEAT Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,102,8,0,1,8:26 PM,4:04,,,SUB: Nogueira FOR Biyombo,,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,5,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,103,8,0,1,8:26 PM,4:04,,,SUB: Joseph FOR Powell,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,105,2,1,1,8:27 PM,3:56,MISS Wade 17' Jump Shot,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,106,4,0,1,8:27 PM,3:55,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,107,2,3,1,8:27 PM,3:43,MISS McRoberts 9' Hook Shot,,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,108,4,0,1,8:27 PM,3:42,,,Nogueira REBOUND (Off:0 Def:1),,,5.0,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,109,2,1,1,8:27 PM,3:26,,,MISS DeRozan 7' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,110,4,0,1,8:27 PM,3:25,Richardson REBOUND (Off:0 Def:1),,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,111,2,1,1,8:28 PM,3:17,MISS Richardson 18' Jump Shot,,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,112,4,0,1,8:28 PM,3:16,,,Nogueira REBOUND (Off:0 Def:2),,,5.0,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,113,2,1,1,8:28 PM,3:05,,,MISS Ross 24' 3PT Jump Shot,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,114,4,0,1,8:28 PM,3:04,Richardson REBOUND (Off:0 Def:2),,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,115,1,3,1,8:28 PM,2:54,Winslow 2' Hook Shot (4 PTS) (Wade 1 AST),,,17 - 21,4,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,116,1,108,1,8:28 PM,2:32,,,Nogueira  Cutting Dunk Shot (2 PTS) (Ross 1 AST),19 - 21,2,5.0,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,5,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,117,5,45,1,8:29 PM,2:09,Wade Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,118,8,0,1,8:29 PM,2:09,,,SUB: Powell FOR Lowry,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,119,8,0,1,8:29 PM,2:09,SUB: Dragic FOR Wade,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,120,1,73,1,8:29 PM,1:50,,,Joseph 1' Driving Reverse Layup (2 PTS),21 - 21,TIE,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,121,1,42,1,8:30 PM,1:35,Richardson 1' Driving Layup (2 PTS) (Winslow 1 AST),,,21 - 23,2,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,122,5,11,1,8:30 PM,1:07,,,Raptors Turnover: Shot Clock (T#4),,,3.0,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500214,123,1,42,1,8:31 PM,1:00,Deng 1' Driving Layup (4 PTS) (Dragic 3 AST),,,21 - 25,4,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,124,2,73,1,8:31 PM,0:48,,,MISS Powell 2' Driving Reverse Layup,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,125,4,0,1,8:31 PM,0:47,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,126,2,1,1,8:31 PM,0:34,MISS Deng 24' 3PT Jump Shot,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,127,4,0,1,8:31 PM,0:33,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,128,2,73,1,8:32 PM,0:16,,,MISS Joseph 1' Driving Reverse Layup,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,129,4,0,1,8:32 PM,0:15,McRoberts REBOUND (Off:0 Def:1),,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,130,13,0,1,8:32 PM,0:00,,,,21 - 25,4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,132,12,0,2,8:36 PM,12:00,,,,21 - 25,4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,133,2,47,2,8:36 PM,11:37,MISS Dragic 12' Turnaround Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,134,4,0,2,8:36 PM,11:36,,,Lowry REBOUND (Off:0 Def:1),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,135,1,1,2,8:37 PM,11:15,,,Ross 19' Jump Shot (2 PTS),23 - 25,2,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,137,1,80,2,8:37 PM,10:48,Johnson 18' Step Back Jump Shot (2 PTS),,,23 - 27,4,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,138,5,45,2,8:38 PM,10:29,,,Lowry Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,139,2,1,2,8:38 PM,10:10,MISS McRoberts 16' Jump Shot,,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,140,4,0,2,8:38 PM,10:09,,,Ross REBOUND (Off:0 Def:1),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,141,2,1,2,8:38 PM,9:52,,,MISS Patterson 25' 3PT Jump Shot,,,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,142,4,0,2,8:39 PM,9:50,Winslow REBOUND (Off:0 Def:1),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,143,2,73,2,8:39 PM,9:45,MISS Dragic 2' Driving Reverse Layup,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,144,4,0,2,8:39 PM,9:44,,,Nogueira REBOUND (Off:0 Def:3),,,5.0,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,145,2,63,2,8:39 PM,9:30,,,MISS Joseph 18' Fadeaway Jumper,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,146,4,0,2,8:39 PM,9:29,Dragic REBOUND (Off:0 Def:1),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,147,2,1,2,8:39 PM,9:17,MISS Johnson 24' 3PT Jump Shot,,,,,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,148,4,0,2,8:39 PM,9:16,,,Nogueira REBOUND (Off:0 Def:4),,,5.0,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,150,2,1,2,8:39 PM,8:57,,,MISS Ross 16' Jump Shot,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,151,4,0,2,8:39 PM,8:56,McRoberts REBOUND (Off:0 Def:2),,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,152,1,5,2,8:40 PM,8:36,Johnson 2' Layup (2 PTS) (Johnson 3 AST),,,23 - 29,6,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,153,6,2,2,8:40 PM,8:36,,,Joseph S.FOUL (P1.T1) (M.Callahan),,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,4,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,154,9,4,2,8:40 PM,8:36,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,156,8,0,2,8:42 PM,8:36,,,SUB: Biyombo FOR Nogueira,,,5.0,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,5,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,158,3,10,2,8:43 PM,8:36,MISS Johnson Free Throw 1 of 1,,,,,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,160,4,0,2,8:43 PM,8:35,,,Biyombo REBOUND (Off:2 Def:3),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,161,2,1,2,8:43 PM,8:19,,,MISS Lowry 17' Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,162,4,0,2,8:43 PM,8:18,Dragic REBOUND (Off:0 Def:2),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,163,6,1,2,8:44 PM,8:04,,,Biyombo P.FOUL (P1.T2) (B.Forte),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,4,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,164,8,0,2,8:44 PM,8:04,,,SUB: Powell FOR Joseph,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,165,8,0,2,8:44 PM,8:04,,,SUB: Carroll FOR Ross,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,166,2,1,2,8:44 PM,7:48,MISS Johnson 18' Jump Shot,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,167,4,0,2,8:45 PM,7:47,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,168,5,2,2,8:45 PM,7:31,Winslow Lost Ball Turnover (P1.T4),,Lowry STEAL (1 STL),,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,169,2,1,2,8:45 PM,7:25,,,MISS Patterson 24' 3PT Jump Shot,,,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,170,4,0,2,8:45 PM,7:24,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,171,2,1,2,8:46 PM,7:17,,,MISS Lowry 26' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,172,4,0,2,8:46 PM,7:16,Dragic REBOUND (Off:0 Def:3),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,173,5,2,2,8:46 PM,7:11,Dragic Lost Ball Turnover (P1.T5),,Powell STEAL (1 STL),,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,174,1,50,2,8:46 PM,7:07,,,Powell  Running Dunk (2 PTS),25 - 29,4,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,175,9,1,2,8:46 PM,7:07,HEAT Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,178,8,0,2,8:49 PM,7:07,SUB: Richardson FOR Dragic,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,179,8,0,2,8:49 PM,7:07,SUB: Haslem FOR McRoberts,,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,180,8,0,2,8:49 PM,7:07,SUB: Wade FOR Johnson,,,,,4.0,204020,Tyler Johnson,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,181,2,47,2,8:50 PM,6:45,MISS Wade 17' Turnaround Jump Shot,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,182,4,0,2,8:50 PM,6:44,Haslem REBOUND (Off:1 Def:0),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,183,2,1,2,8:50 PM,6:38,MISS Johnson 24' 3PT Jump Shot,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,184,4,0,2,8:50 PM,6:37,,,Lowry REBOUND (Off:0 Def:2),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,185,1,1,2,8:50 PM,6:27,,,Lowry 2' Jump Shot (5 PTS),27 - 29,2,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,186,2,1,2,8:50 PM,6:12,MISS Richardson 12' Jump Shot,,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,187,4,0,2,8:50 PM,6:11,,,Lowry REBOUND (Off:0 Def:3),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,188,6,2,2,8:50 PM,6:05,Winslow S.FOUL (P1.T1) (M.Callahan),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0041500214,189,3,11,2,8:51 PM,6:05,,,Lowry Free Throw 1 of 2 (6 PTS),28 - 29,1,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,191,8,0,2,8:51 PM,6:05,,,SUB: DeRozan FOR Patterson,,,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,192,8,0,2,8:51 PM,6:05,SUB: Deng FOR Winslow,,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,193,3,12,2,8:51 PM,6:05,,,Lowry Free Throw 2 of 2 (7 PTS),29 - 29,TIE,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,195,2,1,2,8:52 PM,5:53,MISS Wade 9' Jump Shot,,Biyombo BLOCK (1 BLK),,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,1
+0041500214,196,4,0,2,8:52 PM,5:52,,,Biyombo REBOUND (Off:2 Def:4),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,197,2,1,2,8:52 PM,5:37,,,MISS DeRozan 16' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,199,4,0,2,8:52 PM,5:36,,,DeRozan REBOUND (Off:1 Def:2),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,198,2,5,2,8:52 PM,5:35,,,MISS DeRozan 1' Layup,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,200,4,0,2,8:52 PM,5:34,Haslem REBOUND (Off:1 Def:1),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,201,1,5,2,8:52 PM,5:28,Deng 2' Layup (6 PTS) (Wade 2 AST),,,29 - 31,2,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,202,6,26,2,8:52 PM,5:11,,,DeRozan Offensive Charge Foul (P2.T3) (B.Forte),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,203,5,5,2,8:52 PM,5:11,,,DeRozan Foul Turnover (P2.T6),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0041500214,204,1,86,2,8:53 PM,4:50,Wade 13' Turnaround Fadeaway (9 PTS),,,29 - 33,4,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,205,1,1,2,8:53 PM,4:38,,,Powell 25' 3PT Jump Shot (5 PTS) (Lowry 3 AST),32 - 33,1,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,206,1,79,2,8:54 PM,4:14,Wade 4' Pullup Jump Shot (11 PTS),,,32 - 35,3,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,207,1,1,2,8:54 PM,4:03,,,Carroll 25' 3PT Jump Shot (3 PTS) (Lowry 4 AST),35 - 35,TIE,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,208,2,5,2,8:54 PM,3:44,MISS Wade 2' Layup,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,209,4,0,2,8:54 PM,3:43,,,Carroll REBOUND (Off:0 Def:1),,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,210,2,1,2,8:54 PM,3:30,Richardson BLOCK (1 BLK),,MISS Lowry 24' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,1
+0041500214,211,4,0,2,8:54 PM,3:29,Haslem REBOUND (Off:1 Def:2),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,212,6,2,2,8:55 PM,3:28,,,Lowry S.FOUL (P2.T4) (M.Callahan),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,213,3,11,2,8:55 PM,3:28,Richardson Free Throw 1 of 2 (3 PTS),,,35 - 36,1,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,215,3,12,2,8:55 PM,3:28,Richardson Free Throw 2 of 2 (4 PTS),,,35 - 37,2,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,217,9,1,2,8:55 PM,3:21,,,Raptors Timeout: Regular (Reg.2 Short 0),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,220,8,0,2,8:58 PM,3:21,SUB: Dragic FOR Richardson,,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,221,2,63,2,8:59 PM,3:11,,,MISS DeRozan 8' Fadeaway Jumper,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,222,4,0,2,8:59 PM,3:11,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,223,5,1,2,8:59 PM,3:07,Wade STEAL (1 STL),,Biyombo Bad Pass Turnover (P1.T7),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,224,1,50,2,8:59 PM,3:03,Wade  Running Dunk (13 PTS),,,35 - 39,4,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,225,2,1,2,9:00 PM,2:43,,,MISS DeRozan 16' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,226,4,0,2,9:00 PM,2:42,Johnson REBOUND (Off:0 Def:2),,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,227,1,1,2,9:00 PM,2:28,Johnson 6' Jump Shot (4 PTS),,,35 - 41,6,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,228,2,1,2,9:00 PM,2:06,,,MISS Lowry 25' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,229,4,0,2,9:00 PM,2:05,Deng REBOUND (Off:0 Def:5),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,230,1,1,2,9:01 PM,1:54,Wade 16' Jump Shot (15 PTS),,,35 - 43,8,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,231,9,2,2,9:01 PM,1:49,,,Raptors Timeout: Short (Reg.2 Short 1),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,235,2,1,2,9:02 PM,1:30,,,MISS DeRozan 9' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,236,4,0,2,9:02 PM,1:29,Haslem REBOUND (Off:1 Def:3),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,237,6,2,2,9:03 PM,1:24,,,Biyombo S.FOUL (P2.PN) (M.Callahan),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,238,3,11,2,9:03 PM,1:24,MISS Deng Free Throw 1 of 2,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,239,4,1,2,9:03 PM,1:24,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,240,8,0,2,9:03 PM,1:24,,,SUB: Joseph FOR Lowry,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,241,8,0,2,9:03 PM,1:24,,,SUB: Patterson FOR Powell,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,242,3,12,2,9:03 PM,1:24,Deng Free Throw 2 of 2 (7 PTS),,,35 - 44,9,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,244,2,1,2,9:04 PM,1:05,,,MISS DeRozan 14' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,245,4,0,2,9:04 PM,1:04,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,246,2,79,2,9:04 PM,0:52,MISS Dragic 14' Pullup Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,247,4,0,2,9:04 PM,0:51,,,Biyombo REBOUND (Off:2 Def:5),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,248,5,2,2,9:05 PM,0:39,Deng STEAL (2 STL),,Patterson Lost Ball Turnover (P2.T8),,,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,249,5,1,2,9:05 PM,0:34,Deng Bad Pass Turnover (P1.T6),,Biyombo STEAL (1 STL),,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,5,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,250,2,1,2,9:05 PM,0:28,,,MISS Carroll 24' 3PT Jump Shot,,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,251,4,0,2,9:05 PM,0:26,,,Biyombo REBOUND (Off:3 Def:5),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,252,2,7,2,9:05 PM,0:25,,,MISS Biyombo  Dunk,,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,253,4,0,2,9:05 PM,0:24,Haslem REBOUND (Off:1 Def:4),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,254,2,63,2,9:05 PM,0:02,MISS Wade 25' 3PT Fadeaway Jumper,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,255,4,0,2,9:05 PM,0:01,,,Joseph REBOUND (Off:0 Def:1),,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,256,2,1,2,9:05 PM,0:01,,,MISS Joseph 45' 3PT Jump Shot,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,257,4,0,2,9:05 PM,0:00,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,258,13,0,2,9:05 PM,0:00,,,,35 - 44,9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,260,12,0,3,9:24 PM,12:00,,,,35 - 44,9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,261,2,86,3,9:24 PM,11:45,MISS Deng 12' Turnaround Fadeaway Shot,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,262,4,0,3,9:24 PM,11:44,,,Biyombo REBOUND (Off:3 Def:6),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,263,1,7,3,9:24 PM,11:29,,,Biyombo  Dunk (9 PTS) (Lowry 5 AST),37 - 44,7,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,264,6,2,3,9:24 PM,11:11,,,Lowry S.FOUL (P3.T1) (B.Kennedy),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,265,6,11,3,9:25 PM,11:11,Stoudemire T.FOUL (P2.T0) (B.Kennedy),,,,,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0041500214,266,3,16,3,9:25 PM,11:11,,,MISS DeRozan Free Throw Technical,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,267,4,1,3,9:25 PM,11:11,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,268,3,11,3,9:25 PM,11:11,Stoudemire Free Throw 1 of 2 (5 PTS),,,37 - 45,8,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,270,3,12,3,9:25 PM,11:11,Stoudemire Free Throw 2 of 2 (6 PTS),,,37 - 46,9,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,272,1,1,3,9:26 PM,10:56,,,DeRozan 14' Jump Shot (7 PTS),39 - 46,7,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,273,5,41,3,9:26 PM,10:37,Stoudemire Poss Lost Ball Turnover (P2.T7),,Lowry STEAL (2 STL),,,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,274,1,1,3,9:26 PM,10:31,,,Patterson 25' 3PT Jump Shot (5 PTS) (Lowry 6 AST),42 - 46,4,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,275,2,63,3,9:27 PM,10:07,MISS Johnson 14' Fadeaway Jumper,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,276,4,0,3,9:27 PM,10:06,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,277,6,1,3,9:27 PM,10:06,,,Lowry P.FOUL (P4.T2) (M.Callahan),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,278,8,0,3,9:27 PM,10:06,,,SUB: Joseph FOR Lowry,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,279,2,5,3,9:28 PM,9:55,MISS Stoudemire 2' Layup,,,,,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,280,4,0,3,9:28 PM,9:54,,,Biyombo REBOUND (Off:3 Def:7),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,281,1,5,3,9:28 PM,9:43,,,Carroll 1' Layup (5 PTS) (Joseph 1 AST),44 - 46,2,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,282,1,42,3,9:28 PM,9:28,Wade 2' Driving Layup (17 PTS),,,44 - 48,4,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,283,2,1,3,9:28 PM,9:00,,,MISS Patterson 26' 3PT Jump Shot,,,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,284,4,0,3,9:28 PM,8:59,Stoudemire REBOUND (Off:0 Def:3),,,,,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,285,2,1,3,9:29 PM,8:41,MISS Johnson 7' Jump Shot,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,286,4,0,3,9:29 PM,8:40,,,Biyombo REBOUND (Off:3 Def:8),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,287,2,1,3,9:29 PM,8:16,,,MISS DeRozan 25' 3PT Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,288,4,0,3,9:29 PM,8:15,Deng REBOUND (Off:0 Def:6),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,289,2,80,3,9:29 PM,8:06,MISS Dragic 16' Step Back Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,290,4,0,3,9:29 PM,8:05,,,Biyombo REBOUND (Off:3 Def:9),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,291,2,1,3,9:30 PM,7:44,,,MISS Biyombo 7' Jump Shot,,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,292,4,0,3,9:30 PM,7:43,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,293,6,3,3,9:30 PM,7:43,Johnson L.B.FOUL (P2.T1) (M.Callahan),,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,5,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0041500214,294,1,58,3,9:30 PM,7:28,,,Joseph 9' Turnaround Hook Shot (4 PTS),46 - 48,2,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,295,5,45,3,9:31 PM,7:21,Stoudemire Out of Bounds - Bad Pass Turnover Turnover (P3.T8),,,,,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,296,10,0,3,9:32 PM,7:02,Jump Ball Stoudemire vs. Carroll: Tip to,,,,,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,5,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,3,1610612761,,,,,,1
+0041500214,298,8,0,3,9:32 PM,7:01,SUB: McRoberts FOR Stoudemire,,,,,4.0,2405,Amar'e Stoudemire,1610612748.0,Miami,Heat,MIA,4,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,299,1,66,3,9:32 PM,6:53,,,Carroll 9' Jump Bank Shot (7 PTS),48 - 48,TIE,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,300,2,101,3,9:32 PM,6:35,MISS Wade 6' Driving Floating Jump Shot,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,301,4,0,3,9:32 PM,6:34,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,302,5,11,3,9:33 PM,6:09,,,Raptors Turnover: Shot Clock (T#9),,,3.0,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500214,303,5,1,3,9:34 PM,5:55,Wade Bad Pass Turnover (P3.T9),,Carroll STEAL (1 STL),,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,304,1,76,3,9:34 PM,5:51,,,Carroll 2' Running Finger Roll Layup (9 PTS),50 - 48,-2,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,305,9,1,3,9:34 PM,5:51,HEAT Timeout: Regular (Full 3 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,308,8,0,3,9:37 PM,5:51,SUB: Richardson FOR Dragic,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,309,2,1,3,9:37 PM,5:28,MISS Johnson 14' Jump Shot,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,310,4,0,3,9:38 PM,5:27,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,311,5,11,3,9:38 PM,5:27,HEAT Turnover: Shot Clock (T#10),,,,,2.0,1610612748,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500214,312,1,63,3,9:38 PM,5:11,,,Joseph 17' Fadeaway Jumper (6 PTS),52 - 48,-4,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,313,1,79,3,9:39 PM,4:48,Johnson 8' Pullup Jump Shot (6 PTS),,,52 - 50,-2,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,314,2,42,3,9:39 PM,4:20,,,MISS Joseph 1' Driving Layup,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,315,4,0,3,9:39 PM,4:19,Richardson REBOUND (Off:0 Def:3),,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,316,2,1,3,9:39 PM,4:05,MISS Richardson 25' 3PT Jump Shot,,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,317,4,0,3,9:39 PM,4:03,,,Carroll REBOUND (Off:0 Def:2),,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,318,1,5,3,9:39 PM,3:54,,,Carroll 1' Layup (11 PTS) (Biyombo 1 AST),54 - 50,-4,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,5,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,319,1,78,3,9:40 PM,3:30,Wade 9' Floating Jump Shot (19 PTS),,,54 - 52,-2,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,323,9,1,3,9:40 PM,3:09,,,Raptors Timeout: Regular (Reg.3 Short 1),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,325,8,0,3,9:43 PM,3:09,,,SUB: Nogueira FOR Biyombo,,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,5,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,326,8,0,3,9:43 PM,3:09,,,SUB: Ross FOR DeRozan,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,327,8,0,3,9:43 PM,3:09,SUB: Dragic FOR Johnson,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,328,8,0,3,9:43 PM,3:09,SUB: Winslow FOR Wade,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,329,2,42,3,9:44 PM,3:02,McRoberts BLOCK (1 BLK),,MISS Joseph 2' Driving Layup,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,1
+0041500214,330,4,0,3,9:44 PM,3:01,Dragic REBOUND (Off:0 Def:4),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,331,2,1,3,9:44 PM,2:51,MISS Richardson 25' 3PT Jump Shot,,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,332,4,0,3,9:44 PM,2:50,,,Carroll REBOUND (Off:0 Def:3),,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,333,1,1,3,9:44 PM,2:30,,,Ross 25' 3PT Jump Shot (5 PTS),57 - 52,-5,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,334,1,42,3,9:45 PM,2:09,Dragic 2' Driving Layup (6 PTS) (McRoberts 1 AST),,,57 - 54,-3,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,335,6,1,3,9:45 PM,1:50,Richardson P.FOUL (P2.T2) (B.Kennedy),,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,5,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0041500214,336,6,1,3,9:46 PM,1:40,Winslow P.FOUL (P2.PN) (B.Kennedy),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0041500214,337,18,1,3,9:46 PM,1:40,,,,,,,336,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500214,340,3,13,3,9:47 PM,1:40,,,Ross Free Throw 1 of 3 (6 PTS),58 - 54,-4,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,342,3,14,3,9:47 PM,1:40,,,Ross Free Throw 2 of 3 (7 PTS),59 - 54,-5,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,344,3,15,3,9:47 PM,1:40,,,Ross Free Throw 3 of 3 (8 PTS),60 - 54,-6,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,346,2,1,3,9:48 PM,1:21,MISS Winslow 24' 3PT Jump Shot,,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,347,4,0,3,9:48 PM,1:20,Richardson REBOUND (Off:1 Def:3),,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,349,1,80,3,9:49 PM,1:09,Dragic 25' 3PT Step Back Jump Shot (9 PTS),,,60 - 57,-3,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,350,6,2,3,9:49 PM,1:09,,,Joseph S.FOUL (P2.T3) (B.Kennedy),,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,351,3,10,3,9:49 PM,1:09,Dragic Free Throw 1 of 1 (10 PTS),,,60 - 58,-2,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,354,1,78,3,9:50 PM,0:44,,,Carroll 10' Floating Jump Shot (13 PTS),62 - 58,-4,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,356,1,73,3,9:51 PM,0:22,Winslow 1' Driving Reverse Layup (6 PTS) (Deng 2 AST),,,62 - 60,-2,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,357,2,42,3,9:52 PM,0:02,McRoberts BLOCK (2 BLK),,MISS Joseph 2' Driving Layup,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,1
+0041500214,358,4,0,3,9:52 PM,0:00,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0041500214,359,13,0,3,9:52 PM,0:00,,,,62 - 60,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,361,12,0,4,9:55 PM,12:00,,,,62 - 60,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,362,2,1,4,9:56 PM,11:47,,,MISS Ross 16' Jump Shot,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,363,4,0,4,9:56 PM,11:46,Winslow REBOUND (Off:0 Def:2),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,364,1,1,4,9:56 PM,11:27,McRoberts 19' Jump Shot (2 PTS) (Dragic 4 AST),,,62 - 62,TIE,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,365,1,63,4,9:56 PM,11:06,,,Joseph 12' Fadeaway Jumper (8 PTS),64 - 62,-2,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,366,2,1,4,9:57 PM,10:57,MISS Dragic 16' Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,367,4,0,4,9:57 PM,10:56,,,Lowry REBOUND (Off:0 Def:4),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,368,5,1,4,9:57 PM,10:47,Johnson STEAL (2 STL),,Lowry Bad Pass Turnover (P3.T10),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,369,2,1,4,9:57 PM,10:36,MISS McRoberts 24' 3PT Jump Shot,,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,370,4,0,4,9:57 PM,10:35,,,Nogueira REBOUND (Off:0 Def:5),,,5.0,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,371,5,45,4,9:57 PM,10:23,,,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,372,6,1,4,9:58 PM,10:14,,,Nogueira P.FOUL (P1.T1) (B.Kennedy),,,5.0,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,4,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,373,6,1,4,9:58 PM,10:11,,,Ross P.FOUL (P2.T2) (M.Callahan),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,374,6,1,4,9:58 PM,10:04,,,Powell P.FOUL (P1.T3) (B.Kennedy),,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,375,1,42,4,9:59 PM,9:55,Dragic 1' Driving Layup (12 PTS),,,64 - 64,TIE,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,376,1,1,4,9:59 PM,9:30,,,Joseph 22' Jump Shot (10 PTS),66 - 64,-2,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,377,1,5,4,9:59 PM,9:11,Johnson 2' Layup (8 PTS),,,66 - 66,TIE,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,378,6,2,4,9:59 PM,9:11,,,Nogueira S.FOUL (P2.T4) (B.Forte),,,5.0,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,379,8,0,4,10:00 PM,9:11,,,SUB: Biyombo FOR Nogueira,,,5.0,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,5,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,380,8,0,4,10:00 PM,9:11,,,SUB: Patterson FOR Powell,,,5.0,1626181,Norman Powell,1610612761.0,Toronto,Raptors,TOR,5,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,383,3,10,4,10:00 PM,9:11,Johnson Free Throw 1 of 1 (9 PTS),,,66 - 67,1,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,385,6,2,4,10:00 PM,8:58,Dragic S.FOUL (P1.T1) (M.Callahan),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0041500214,386,9,4,4,10:01 PM,8:58,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,390,3,11,4,10:04 PM,8:58,,,MISS Lowry Free Throw 1 of 2,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,391,4,1,4,10:04 PM,8:58,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,392,3,12,4,10:04 PM,8:58,,,Lowry Free Throw 2 of 2 (8 PTS),67 - 67,TIE,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,394,2,5,4,10:05 PM,8:41,MISS Dragic 2' Layup,,Biyombo BLOCK (2 BLK),,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,1
+0041500214,395,4,0,4,10:05 PM,8:40,Dragic REBOUND (Off:1 Def:4),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,396,2,1,4,10:05 PM,8:34,MISS Johnson 25' 3PT Jump Shot,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,397,4,0,4,10:05 PM,8:33,,,Lowry REBOUND (Off:0 Def:5),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,398,1,5,4,10:05 PM,8:12,,,Biyombo 2' Layup (11 PTS) (Lowry 7 AST),69 - 67,-2,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,399,2,1,4,10:05 PM,7:48,MISS Dragic 25' 3PT Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,400,4,0,4,10:05 PM,7:47,,,Lowry REBOUND (Off:0 Def:6),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,401,1,46,4,10:06 PM,7:42,,,Ross 25' 3PT Running Jump Shot (11 PTS) (Lowry 8 AST),72 - 67,-5,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,402,9,1,4,10:06 PM,7:42,HEAT Timeout: Regular (Full 4 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,405,8,0,4,10:09 PM,7:42,SUB: Wade FOR Johnson,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,406,8,0,4,10:09 PM,7:42,SUB: Deng FOR Richardson,,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,407,8,0,4,10:09 PM,7:42,SUB: Haslem FOR McRoberts,,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,408,5,41,4,10:09 PM,7:22,Haslem Poss Lost Ball Turnover (P1.T11),,Lowry STEAL (3 STL),,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,409,6,2,4,10:09 PM,7:11,Haslem S.FOUL (P1.T2) (B.Forte),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0041500214,410,3,11,4,10:10 PM,7:11,,,Biyombo Free Throw 1 of 2 (12 PTS),73 - 67,-6,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,412,3,12,4,10:10 PM,7:11,,,Biyombo Free Throw 2 of 2 (13 PTS),74 - 67,-7,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0041500214,414,6,2,4,10:11 PM,6:57,,,Ross S.FOUL (P3.PN) (B.Forte),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,415,3,11,4,10:11 PM,6:57,Winslow Free Throw 1 of 2 (7 PTS),,,74 - 68,-6,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,417,3,12,4,10:11 PM,6:57,MISS Winslow Free Throw 2 of 2,,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,419,4,0,4,10:11 PM,6:56,,,Patterson REBOUND (Off:0 Def:1),,,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,420,1,1,4,10:12 PM,6:40,,,Ross 24' 3PT Jump Shot (14 PTS) (Lowry 9 AST),77 - 68,-9,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,421,1,101,4,10:12 PM,6:24,Wade 6' Driving Floating Jump Shot (21 PTS),,,77 - 70,-7,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,422,2,63,4,10:12 PM,5:57,,,MISS Patterson 6' Fadeaway Jumper,,,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,423,4,0,4,10:12 PM,5:56,Wade REBOUND (Off:0 Def:1),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,424,2,78,4,10:12 PM,5:49,MISS Wade 12' Floating Jump Shot,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,425,4,0,4,10:12 PM,5:48,,,Lowry REBOUND (Off:0 Def:7),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,426,2,41,4,10:13 PM,5:46,,,MISS Ross 1' Running Layup,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,427,4,0,4,10:13 PM,5:45,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,428,6,3,4,10:13 PM,5:45,Winslow L.B.FOUL (P3.T3) (B.Forte),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,5,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0041500214,429,8,0,4,10:13 PM,5:45,SUB: Richardson FOR Winslow,,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,430,2,5,4,10:13 PM,5:34,,,MISS Ross 2' Layup,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,431,4,0,4,10:13 PM,5:33,Wade REBOUND (Off:0 Def:2),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,432,1,1,4,10:13 PM,5:19,Richardson 17' Jump Shot (6 PTS) (Haslem 1 AST),,,77 - 72,-5,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,433,1,63,4,10:14 PM,4:59,,,Lowry 15' Fadeaway Jumper (10 PTS),79 - 72,-7,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,434,5,1,4,10:14 PM,4:49,Dragic Bad Pass Turnover (P2.T12),,Lowry STEAL (4 STL),,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0041500214,435,6,1,4,10:14 PM,4:48,Haslem P.FOUL (P2.T4) (B.Forte),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0041500214,436,8,0,4,10:14 PM,4:48,SUB: Johnson FOR Haslem,,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,437,8,0,4,10:15 PM,4:48,SUB: Winslow FOR Richardson,,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,438,8,0,4,10:15 PM,4:48,,,SUB: Carroll FOR Biyombo,,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,5,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,439,2,63,4,10:16 PM,4:26,,,MISS Lowry 14' Fadeaway Jumper,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,440,4,0,4,10:16 PM,4:25,Wade REBOUND (Off:0 Def:3),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,441,2,1,4,10:16 PM,4:19,MISS Deng 24' 3PT Jump Shot,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,442,4,0,4,10:16 PM,4:18,Dragic REBOUND (Off:2 Def:4),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,443,1,78,4,10:16 PM,4:11,Wade 6' Floating Jump Shot (23 PTS),,,79 - 74,-5,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,444,9,1,4,10:16 PM,4:00,,,Raptors Timeout: Regular (Reg.4 Short 1),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,446,8,0,4,10:19 PM,4:00,,,SUB: Biyombo FOR Ross,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,448,2,63,4,10:20 PM,3:48,,,MISS Joseph 13' Fadeaway Jumper,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,449,4,0,4,10:20 PM,3:47,Winslow REBOUND (Off:0 Def:3),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,450,1,42,4,10:20 PM,3:42,Wade 2' Driving Layup (25 PTS),,,79 - 76,-3,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,451,6,2,4,10:20 PM,3:42,,,Carroll S.FOUL (P1.PN) (B.Kennedy),,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,452,3,10,4,10:20 PM,3:42,Wade Free Throw 1 of 1 (26 PTS),,,79 - 77,-2,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,454,2,1,4,10:21 PM,3:17,,,MISS Lowry 24' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,455,4,0,4,10:21 PM,3:16,,,Patterson REBOUND (Off:1 Def:1),,,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,456,1,1,4,10:21 PM,3:10,,,Patterson 5' Jump Shot (7 PTS),81 - 77,-4,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,457,6,1,4,10:21 PM,2:56,,,Lowry P.FOUL (P5.PN) (B.Kennedy),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,458,3,11,4,10:22 PM,2:56,Johnson Free Throw 1 of 2 (10 PTS),,,81 - 78,-3,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,461,8,0,4,10:22 PM,2:56,,,SUB: Ross FOR Biyombo,,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,5,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,462,3,12,4,10:22 PM,2:56,Johnson Free Throw 2 of 2 (11 PTS),,,81 - 79,-2,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,465,2,42,4,10:23 PM,2:35,,,MISS Ross 4' Driving Layup,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,466,4,0,4,10:23 PM,2:34,,,Ross REBOUND (Off:1 Def:1),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,467,2,1,4,10:23 PM,2:33,,,MISS Lowry 25' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,468,4,0,4,10:23 PM,2:32,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,469,5,11,4,10:23 PM,2:32,,,Raptors Turnover: Shot Clock (T#12),,,3.0,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500214,470,2,63,4,10:24 PM,2:16,MISS Wade 19' Fadeaway Jumper,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,471,4,0,4,10:24 PM,2:15,,,Ross REBOUND (Off:1 Def:2),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,472,6,4,4,10:24 PM,1:58,,,Lowry OFF.Foul (P6) (B.Forte),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,473,5,5,4,10:24 PM,1:58,,,Lowry Foul Turnover (P4.T13),,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0041500214,474,8,0,4,10:25 PM,1:58,,,SUB: Biyombo FOR Lowry,,,5.0,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,475,2,66,4,10:25 PM,1:44,MISS Dragic 13' Jump Bank Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,476,4,0,4,10:25 PM,1:43,,,Biyombo REBOUND (Off:3 Def:10),,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,478,9,1,4,10:25 PM,1:38,,,Raptors Timeout: Regular (Reg.5 Short 1),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,480,8,0,4,10:27 PM,1:38,,,SUB: DeRozan FOR Biyombo,,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,5,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,482,1,79,4,10:28 PM,1:30,,,Joseph 18' Pullup Jump Shot (12 PTS),83 - 79,-4,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,483,6,2,4,10:28 PM,1:08,,,Carroll S.FOUL (P2.PN) (B.Forte),,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,484,3,11,4,10:28 PM,1:08,Johnson Free Throw 1 of 2 (12 PTS),,,83 - 80,-3,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,486,3,12,4,10:29 PM,1:08,Johnson Free Throw 2 of 2 (13 PTS),,,83 - 81,-2,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,488,2,1,4,10:29 PM,0:44,,,MISS DeRozan 20' Jump Shot,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,489,4,0,4,10:29 PM,0:43,,,Patterson REBOUND (Off:2 Def:1),,,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,490,9,2,4,10:29 PM,0:40,,,Raptors Timeout: Short (Reg.5 Short 2),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,494,2,63,4,10:31 PM,0:20,,,MISS Joseph 17' Fadeaway Jumper,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,495,4,0,4,10:31 PM,0:19,Deng REBOUND (Off:0 Def:7),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,496,1,75,4,10:31 PM,0:12,Wade 2' Driving Finger Roll Layup (28 PTS),,,83 - 83,TIE,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,497,9,2,4,10:32 PM,0:12,,,Raptors Timeout: Short (Reg.5 Short 3),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,501,9,1,4,10:33 PM,0:12,HEAT Timeout: Regular (Full 5 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,503,8,0,4,10:35 PM,0:12,SUB: Haslem FOR Dragic,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500214,504,2,1,4,10:35 PM,0:01,,,MISS Joseph 19' Jump Shot,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,505,4,0,4,10:35 PM,0:00,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0041500214,506,13,0,4,10:36 PM,0:00,,,,83 - 83,TIE,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,508,12,0,5,10:39 PM,5:00,,,,83 - 83,TIE,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,509,10,0,5,10:39 PM,5:00,Jump Ball Deng vs. Patterson: Tip to Joseph,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,5,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,1
+0041500214,510,2,5,5,10:39 PM,4:41,Johnson BLOCK (1 BLK),,MISS Joseph 1' Layup,,,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,1
+0041500214,511,4,0,5,10:39 PM,4:39,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,512,5,38,5,10:40 PM,4:39,,,Raptors Turnover: 5 Second Inbound (T#14),,,3.0,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500214,513,2,63,5,10:40 PM,4:18,MISS Wade 12' Fadeaway Jumper,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,514,4,0,5,10:40 PM,4:17,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,515,2,5,5,10:41 PM,4:01,Johnson BLOCK (2 BLK),,MISS DeRozan 2' Layup,,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,1
+0041500214,516,4,0,5,10:41 PM,4:00,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,517,2,58,5,10:41 PM,3:53,,,MISS Patterson 8' Turnaround Hook Shot,,,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,518,4,0,5,10:41 PM,3:52,Wade REBOUND (Off:0 Def:4),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,519,2,1,5,10:41 PM,3:39,MISS Johnson  3PT Jump Shot,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,541,4,0,5,10:41 PM,3:38,,,Patterson REBOUND (Off:2 Def:2),,,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,545,5,32,5,10:42 PM,3:37,,,Patterson Opposite Basket Turnover (P3.T15),,,5.0,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,521,1,97,5,10:42 PM,3:36,Winslow 1' Tip Layup Shot (9 PTS),,,83 - 85,2,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,522,5,2,5,10:42 PM,3:16,Johnson STEAL (3 STL),,DeRozan Lost Ball Turnover (P3.T16),,,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,523,1,63,5,10:42 PM,2:55,Johnson 8' Fadeaway Jumper (15 PTS),,,83 - 87,4,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,524,9,1,5,10:42 PM,2:55,,,Raptors Timeout: Regular (Reg.6 Short 3),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,528,1,58,5,10:45 PM,2:32,,,Joseph 6' Turnaround Hook Shot (14 PTS),85 - 87,2,5.0,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,529,2,5,5,10:45 PM,2:07,MISS Dragic 1' Layup,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,530,4,0,5,10:45 PM,2:06,Winslow REBOUND (Off:1 Def:3),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,531,6,2,5,10:45 PM,2:01,,,Carroll S.FOUL (P3.T1) (B.Kennedy),,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,532,3,11,5,10:46 PM,2:01,Deng Free Throw 1 of 2 (8 PTS),,,85 - 88,3,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,534,3,12,5,10:46 PM,2:01,Deng Free Throw 2 of 2 (9 PTS),,,85 - 89,4,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,536,2,1,5,10:47 PM,1:45,,,MISS Carroll 12' Jump Shot,,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,537,4,0,5,10:47 PM,1:44,Deng REBOUND (Off:0 Def:8),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,538,2,1,5,10:47 PM,1:22,MISS Wade 25' 3PT Jump Shot,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,539,4,0,5,10:47 PM,1:21,Deng REBOUND (Off:1 Def:8),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,544,2,71,5,10:49 PM,0:59,MISS Wade 2' Finger Roll Layup,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,552,4,0,5,10:49 PM,0:59,,,Raptors Rebound,,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,546,8,0,5,10:50 PM,0:59,,,SUB: Biyombo FOR Ross,,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,548,10,0,5,10:50 PM,0:59,Jump Ball Deng vs. Patterson: Tip to Joseph,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,5,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,5,202709,Cory Joseph,1610612761.0,Toronto,Raptors,TOR,1
+0041500214,550,9,1,5,10:51 PM,0:58,,,Raptors Timeout: Regular (Reg.7 Short 3),,,3.0,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500214,553,8,0,5,10:52 PM,0:58,,,SUB: Ross FOR Biyombo,,,5.0,202687,Bismack Biyombo,1610612761.0,Toronto,Raptors,TOR,5,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0041500214,555,6,1,5,10:53 PM,0:48,Wade P.FOUL (P1.T1) (B.Forte),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0041500214,557,1,75,5,10:53 PM,0:42,,,DeRozan 2' Driving Finger Roll Layup (9 PTS),87 - 89,2,5.0,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0041500214,559,1,42,5,10:54 PM,0:22,Dragic 2' Driving Layup (14 PTS),,,87 - 91,4,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,560,6,2,5,10:54 PM,0:22,,,Carroll S.FOUL (P4.T2) (B.Kennedy),,,5.0,201960,DeMarre Carroll,1610612761.0,Toronto,Raptors,TOR,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500214,561,3,10,5,10:54 PM,0:22,Dragic Free Throw 1 of 1 (15 PTS),,,87 - 92,5,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500214,563,5,2,5,10:55 PM,0:17,Wade STEAL (2 STL),,Ross Lost Ball Turnover (P1.T17),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,564,1,7,5,10:55 PM,0:16,Wade  Dunk (30 PTS),,,87 - 94,7,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500214,565,5,1,5,10:55 PM,0:13,Winslow STEAL (1 STL),,Ross Bad Pass Turnover (P2.T18),,,5.0,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500214,566,13,0,5,10:55 PM,0:00,,,,87 - 94,7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0

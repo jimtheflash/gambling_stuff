@@ -1,0 +1,506 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0041500136,0,12,0,1,8:11 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,1,10,0,1,8:11 PM,12:00,Jump Ball Johnson vs. Horford: Tip to Millsap,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1
+0041500136,2,6,4,1,8:12 PM,11:45,,,Horford OFF.Foul (P1) (S.Foster),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,3,5,5,1,8:12 PM,11:45,,,Horford Foul Turnover (P1.T1),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0041500136,4,2,1,1,8:12 PM,11:35,MISS Crowder 26' 3PT Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,5,4,0,1,8:12 PM,11:34,,,Millsap REBOUND (Off:0 Def:1),,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,6,2,1,1,8:12 PM,11:23,,,MISS Millsap 25' 3PT Jump Shot,,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,7,4,0,1,8:12 PM,11:22,Johnson REBOUND (Off:0 Def:1),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,8,1,1,1,8:12 PM,11:10,Jerebko 25' 3PT Jump Shot (3 PTS) (Thomas 1 AST),,,0 - 3,3,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,9,1,1,1,8:13 PM,10:50,,,Bazemore 25' 3PT Jump Shot (3 PTS) (Teague 1 AST),3 - 3,TIE,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,10,1,63,1,8:13 PM,10:36,Jerebko 17' Fadeaway Jumper (5 PTS),,,3 - 5,2,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,11,2,1,1,8:13 PM,10:21,,,MISS Horford 19' Jump Shot,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,12,4,0,1,8:13 PM,10:20,Jerebko REBOUND (Off:0 Def:1),,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,13,5,8,1,8:13 PM,10:08,Johnson 3 Second Violation Turnover (P1.T1),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0041500136,14,2,73,1,8:14 PM,9:51,,,MISS Bazemore 1' Driving Reverse Layup,,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,15,4,0,1,8:14 PM,9:50,Thomas REBOUND (Off:0 Def:1),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,16,2,79,1,8:14 PM,9:42,MISS Thomas 26' 3PT Pullup Jump Shot,,Bazemore BLOCK (1 BLK),,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,1
+0041500136,17,4,0,1,8:14 PM,9:40,,,Korver REBOUND (Off:0 Def:1),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,18,1,5,1,8:14 PM,9:34,,,Bazemore 1' Layup (5 PTS) (Millsap 1 AST),5 - 5,TIE,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,19,1,79,1,8:14 PM,9:19,Turner 11' Pullup Jump Shot (2 PTS),,,5 - 7,2,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,20,5,45,1,8:14 PM,9:14,,,Teague Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,21,8,0,1,8:15 PM,9:14,,,SUB: Schroder FOR Teague,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,22,2,98,1,8:15 PM,8:53,MISS Crowder 3' Cutting Layup Shot,,Millsap BLOCK (1 BLK),,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1
+0041500136,23,4,0,1,8:15 PM,8:52,,,Korver REBOUND (Off:0 Def:2),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,24,5,11,1,8:16 PM,8:28,,,Hawks Turnover: Shot Clock (T#3),,,3.0,1610612737,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500136,25,2,79,1,8:16 PM,8:11,MISS Jerebko 22' Pullup Jump Shot,,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,26,4,0,1,8:16 PM,8:10,,,Bazemore REBOUND (Off:0 Def:1),,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,27,2,80,1,8:17 PM,7:53,,,MISS Millsap 19' Step Back Jump Shot,,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,28,4,0,1,8:17 PM,7:53,Johnson REBOUND (Off:0 Def:2),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,29,2,1,1,8:17 PM,7:32,MISS Jerebko 25' 3PT Jump Shot,,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,30,4,0,1,8:17 PM,7:31,Turner REBOUND (Off:1 Def:0),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,31,2,72,1,8:17 PM,7:30,MISS Turner 1' Putback Layup,,Bazemore BLOCK (2 BLK),,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,1
+0041500136,35,4,0,1,8:17 PM,7:29,Turner REBOUND (Off:2 Def:0),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,38,2,72,1,8:17 PM,7:29,MISS Turner 2' Putback Layup,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,32,4,0,1,8:17 PM,7:28,,,Korver REBOUND (Off:0 Def:3),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,33,5,45,1,8:17 PM,7:22,,,Millsap Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,34,8,0,1,8:17 PM,7:22,,,SUB: Teague FOR Schroder,,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,36,2,79,1,8:18 PM,7:12,MISS Turner 16' Pullup Jump Shot,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,37,4,0,1,8:18 PM,7:12,,,Korver REBOUND (Off:0 Def:4),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,40,2,1,1,8:18 PM,6:56,,,MISS Bazemore 24' 3PT Jump Shot,,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,41,4,0,1,8:18 PM,6:55,,,Teague REBOUND (Off:1 Def:0),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,42,2,1,1,8:18 PM,6:45,Thomas BLOCK (1 BLK),,MISS Teague 10' Jump Shot,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1
+0041500136,43,4,0,1,8:18 PM,6:43,Crowder REBOUND (Off:0 Def:1),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,44,1,42,1,8:18 PM,6:33,Turner 2' Driving Layup (4 PTS) (Thomas 2 AST),,,5 - 9,4,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,45,9,1,1,8:18 PM,6:33,,,Hawks Timeout: Regular (Reg.1 Short 0),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,48,8,0,1,8:21 PM,6:33,,,SUB: Scott FOR Horford,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,49,6,1,1,8:22 PM,6:22,Turner P.FOUL (P1.T1) (J.Williams),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,50,18,0,1,8:22 PM,6:22,,,,,,,49,Gheorghe Muresan,,,,,0,0,,,,,,1,0,,,,,,0
+0041500136,51,1,79,1,8:23 PM,6:11,,,Millsap 9' Pullup Jump Shot (2 PTS),7 - 9,2,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,52,2,73,1,8:23 PM,5:57,MISS Thomas 1' Driving Reverse Layup,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,53,4,0,1,8:23 PM,5:56,,,Millsap REBOUND (Off:0 Def:2),,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,55,5,40,1,8:24 PM,5:53,,,Millsap Out of Bounds Lost Ball Turnover (P2.T5),,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,56,8,0,1,8:24 PM,5:53,SUB: Smart FOR Johnson,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,57,8,0,1,8:24 PM,5:53,SUB: Olynyk FOR Jerebko,,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,58,8,0,1,8:24 PM,5:53,,,SUB: Sefolosha FOR Bazemore,,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,5,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,59,2,5,1,8:24 PM,5:50,MISS Olynyk 2' Layup,,Millsap BLOCK (2 BLK),,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1
+0041500136,60,4,0,1,8:24 PM,5:49,,,Sefolosha REBOUND (Off:0 Def:1),,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,61,1,102,1,8:24 PM,5:36,,,Teague 4' Driving Floating Bank Jump Shot (2 PTS),9 - 9,TIE,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,62,2,75,1,8:25 PM,5:16,MISS Thomas 2' Driving Finger Roll Layup,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,63,4,0,1,8:25 PM,5:15,,,Sefolosha REBOUND (Off:0 Def:2),,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,64,2,42,1,8:25 PM,4:55,,,MISS Teague 3' Driving Layup,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,65,4,0,1,8:25 PM,4:54,Smart REBOUND (Off:0 Def:1),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,66,2,79,1,8:25 PM,4:48,MISS Crowder 16' Pullup Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,67,4,0,1,8:25 PM,4:46,,,Korver REBOUND (Off:0 Def:5),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,68,1,85,1,8:25 PM,4:33,,,Scott 4' Turnaround Bank Shot (2 PTS),11 - 9,-2,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,69,2,42,1,8:26 PM,4:11,MISS Crowder 2' Driving Layup,,Millsap BLOCK (3 BLK),,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1
+0041500136,70,4,0,1,8:26 PM,4:10,,,Sefolosha REBOUND (Off:0 Def:3),,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,71,2,79,1,8:26 PM,4:05,,,MISS Teague 25' 3PT Pullup Jump Shot,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,72,4,0,1,8:26 PM,4:04,Olynyk REBOUND (Off:0 Def:1),,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,73,5,2,1,8:26 PM,4:01,Olynyk Lost Ball Turnover (P1.T2),,Millsap STEAL (1 STL),,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,74,6,1,1,8:26 PM,4:00,Olynyk P.FOUL (P1.T2) (J.Williams),,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,75,8,0,1,8:26 PM,4:00,,,SUB: Schroder FOR Teague,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,76,8,0,1,8:26 PM,4:00,,,SUB: Hardaway Jr. FOR Korver,,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,77,1,1,1,8:27 PM,3:51,,,Millsap 7' Jump Shot (4 PTS) (Schroder 1 AST),13 - 9,-4,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,78,9,1,1,8:27 PM,3:51,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,80,2,1,1,8:30 PM,3:34,MISS Smart 24' 3PT Jump Shot,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,81,4,0,1,8:30 PM,3:33,,,Millsap REBOUND (Off:0 Def:3),,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,82,2,1,1,8:30 PM,3:17,,,MISS Sefolosha 25' 3PT Jump Shot,,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,83,4,0,1,8:30 PM,3:16,Crowder REBOUND (Off:0 Def:2),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,84,5,1,1,8:31 PM,3:08,Smart Bad Pass Turnover (P1.T3),,Sefolosha STEAL (1 STL),,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,85,6,1,1,8:31 PM,3:03,Crowder P.FOUL (P1.T3) (J.Williams),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,5,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,86,2,1,1,8:31 PM,2:50,,,MISS Hardaway Jr. 25' 3PT Jump Shot,,,5.0,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,87,4,0,1,8:31 PM,2:49,Turner REBOUND (Off:2 Def:1),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,88,2,1,1,8:31 PM,2:42,MISS Olynyk 25' 3PT Jump Shot,,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,89,4,0,1,8:31 PM,2:41,,,Hardaway Jr. REBOUND (Off:0 Def:1),,,5.0,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,90,2,1,1,8:31 PM,2:32,,,MISS Schroder 25' 3PT Jump Shot,,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,91,4,0,1,8:31 PM,2:31,Smart REBOUND (Off:0 Def:2),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,92,1,75,1,8:32 PM,2:25,Thomas 2' Driving Finger Roll Layup (2 PTS),,,13 - 11,-2,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,93,2,98,1,8:32 PM,2:11,,,MISS Sefolosha 2' Cutting Layup Shot,,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,94,4,0,1,8:32 PM,2:10,Smart REBOUND (Off:0 Def:3),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,95,6,1,1,8:32 PM,2:09,,,Sefolosha P.FOUL (P1.T1) (T.Brothers),,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,96,8,0,1,8:32 PM,2:09,,,SUB: Horford FOR Millsap,,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,97,8,0,1,8:32 PM,2:09,SUB: Jerebko FOR Olynyk,,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,98,8,0,1,8:32 PM,2:09,SUB: Sullinger FOR Crowder,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,99,2,79,1,8:33 PM,1:55,MISS Thomas 24' 3PT Pullup Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,100,4,0,1,8:33 PM,1:54,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,101,1,42,1,8:33 PM,1:40,,,Schroder 2' Driving Layup (2 PTS) (Hardaway Jr. 1 AST),15 - 11,-4,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,102,2,1,1,8:33 PM,1:23,MISS Sullinger 22' Jump Shot,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,103,4,0,1,8:33 PM,1:22,,,Scott REBOUND (Off:0 Def:1),,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,104,1,82,1,8:33 PM,1:03,,,Hardaway Jr. 6' Driving Bank Shot (2 PTS) (Schroder 2 AST),17 - 11,-6,5.0,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,105,1,1,1,8:34 PM,0:54,Jerebko 25' 3PT Jump Shot (8 PTS) (Thomas 3 AST),,,17 - 14,-3,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,106,1,1,1,8:34 PM,0:39,,,Hardaway Jr. 25' 3PT Jump Shot (5 PTS) (Schroder 3 AST),20 - 14,-6,5.0,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,107,1,79,1,8:34 PM,0:31,Thomas 26' 3PT Pullup Jump Shot (5 PTS),,,20 - 17,-3,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,108,6,1,1,8:35 PM,0:10,Turner P.FOUL (P2.T4) (S.Foster),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,109,8,0,1,8:35 PM,0:10,,,SUB: Korver FOR Sefolosha,,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,110,8,0,1,8:35 PM,0:10,SUB: Crowder FOR Sullinger,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,111,2,75,1,8:35 PM,0:05,Jerebko BLOCK (1 BLK),,MISS Schroder 2' Driving Finger Roll Layup,,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,1
+0041500136,112,4,0,1,8:35 PM,0:04,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,113,2,44,1,8:36 PM,0:01,,,MISS Scott 2' Reverse Layup,,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,114,4,0,1,8:36 PM,0:00,Turner REBOUND (Off:2 Def:2),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,115,13,0,1,8:36 PM,0:00,,,,20 - 17,-3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,118,12,0,2,8:40 PM,12:00,,,,20 - 17,-3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,119,2,1,2,8:40 PM,11:35,MISS Smart 28' 3PT Jump Shot,,Korver BLOCK (1 BLK),,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,1
+0041500136,123,4,0,2,8:40 PM,11:34,Sullinger REBOUND (Off:1 Def:0),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,125,2,72,2,8:40 PM,11:33,MISS Sullinger 1' Putback Layup,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,120,4,0,2,8:40 PM,11:32,Sullinger REBOUND (Off:2 Def:0),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,121,2,1,2,8:40 PM,11:29,MISS Hunter 26' 3PT Jump Shot,,,,,4.0,1626154,RJ Hunter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,122,4,0,2,8:40 PM,11:28,,,Muscala REBOUND (Off:0 Def:1),,,5.0,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,124,1,58,2,8:41 PM,11:06,,,Horford 6' Turnaround Hook Shot (2 PTS),22 - 17,-5,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,126,6,4,2,8:41 PM,10:56,Jerebko OFF.Foul (P1) (S.Foster),,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,127,5,5,2,8:41 PM,10:56,Jerebko Foul Turnover (P1.T4),,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0041500136,128,1,1,2,8:41 PM,10:45,,,Muscala 16' Jump Shot (2 PTS) (Korver 1 AST),24 - 17,-7,5.0,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,130,2,5,2,8:42 PM,10:24,MISS Sullinger 2' Layup,,Horford BLOCK (1 BLK),,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,1
+0041500136,131,4,0,2,8:42 PM,10:23,Sullinger REBOUND (Off:3 Def:0),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,132,2,42,2,8:42 PM,10:17,MISS Smart 3' Driving Layup,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,133,4,0,2,8:42 PM,10:16,Hunter REBOUND (Off:1 Def:0),,,,,4.0,1626154,RJ Hunter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,134,1,98,2,8:42 PM,10:11,Sullinger 2' Cutting Layup Shot (2 PTS) (Hunter 1 AST),,,24 - 19,-5,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,1626154,RJ Hunter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,135,1,98,2,8:42 PM,10:01,,,Hardaway Jr. 2' Cutting Layup Shot (7 PTS) (Korver 2 AST),26 - 19,-7,5.0,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,136,2,1,2,8:42 PM,9:50,MISS Sullinger 24' 3PT Jump Shot,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,137,4,0,2,8:42 PM,9:49,,,Muscala REBOUND (Off:0 Def:2),,,5.0,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,138,6,2,2,8:43 PM,9:35,Rozier S.FOUL (P1.T1) (S.Foster),,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,139,3,11,2,8:43 PM,9:35,,,MISS Schroder Free Throw 1 of 2,,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,140,4,1,2,8:43 PM,9:35,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,141,8,0,2,8:43 PM,9:35,SUB: Johnson FOR Sullinger,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,142,8,0,2,8:43 PM,9:35,SUB: Crowder FOR Rozier,,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,143,3,12,2,8:43 PM,9:35,,,Schroder Free Throw 2 of 2 (3 PTS),27 - 19,-8,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,145,1,75,2,8:44 PM,9:08,Smart 2' Driving Finger Roll Layup (2 PTS),,,27 - 21,-6,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,146,1,1,2,8:44 PM,9:00,,,Korver 24' 3PT Jump Shot (3 PTS) (Schroder 4 AST),30 - 21,-9,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,147,2,1,2,8:44 PM,8:43,MISS Jerebko 26' 3PT Jump Shot,,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,148,4,0,2,8:44 PM,8:42,,,Hardaway Jr. REBOUND (Off:0 Def:2),,,5.0,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,149,2,1,2,8:44 PM,8:28,,,MISS Schroder 20' Jump Shot,,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,150,4,0,2,8:44 PM,8:27,Crowder REBOUND (Off:0 Def:3),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,151,2,1,2,8:45 PM,8:19,MISS Crowder 24' 3PT Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,152,4,0,2,8:45 PM,8:18,,,Schroder REBOUND (Off:0 Def:1),,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,153,1,98,2,8:45 PM,8:12,,,Muscala 3' Cutting Layup Shot (4 PTS) (Hardaway Jr. 2 AST),32 - 21,-11,5.0,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,5,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,154,6,1,2,8:45 PM,7:55,,,Schroder P.FOUL (P1.T1) (S.Foster),,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,4,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,155,9,4,2,8:45 PM,7:55,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,157,8,0,2,8:47 PM,7:55,SUB: Turner FOR Jerebko,,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,158,8,0,2,8:48 PM,7:55,,,SUB: Millsap FOR Hardaway Jr.,,,5.0,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,159,8,0,2,8:48 PM,7:55,,,SUB: Bazemore FOR Muscala,,,5.0,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,5,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,160,2,101,2,8:48 PM,7:50,MISS Hunter 12' Driving Floating Jump Shot,,,,,4.0,1626154,RJ Hunter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,161,4,0,2,8:48 PM,7:49,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,162,2,42,2,8:49 PM,7:28,,,MISS Bazemore 3' Driving Layup,,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,163,4,0,2,8:49 PM,7:28,Turner REBOUND (Off:2 Def:3),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,165,8,0,2,8:49 PM,7:24,SUB: Thomas FOR Hunter,,,,,4.0,1626154,RJ Hunter,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,166,8,0,2,8:49 PM,7:24,,,SUB: Teague FOR Schroder,,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,167,8,0,2,8:49 PM,7:24,,,SUB: Scott FOR Horford,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,168,2,1,2,8:50 PM,7:13,MISS Thomas 24' 3PT Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,169,4,0,2,8:50 PM,7:12,,,Millsap REBOUND (Off:0 Def:4),,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,170,1,98,2,8:50 PM,6:56,,,Millsap 2' Cutting Layup Shot (6 PTS) (Teague 2 AST),34 - 21,-13,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,171,2,1,2,8:50 PM,6:37,MISS Crowder 21' Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,172,4,0,2,8:50 PM,6:36,,,Scott REBOUND (Off:0 Def:2),,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,173,2,86,2,8:50 PM,6:26,,,MISS Millsap 8' Turnaround Fadeaway Shot,,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,174,4,0,2,8:50 PM,6:25,Johnson REBOUND (Off:0 Def:3),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,175,6,1,2,8:51 PM,6:21,,,Teague P.FOUL (P1.T2) (S.Foster),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,176,5,4,2,8:51 PM,6:17,Thomas Traveling Turnover (P1.T5),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0041500136,177,2,1,2,8:51 PM,6:00,,,MISS Millsap 24' 3PT Jump Shot,,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,178,4,0,2,8:51 PM,5:59,Turner REBOUND (Off:2 Def:4),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,179,1,79,2,8:52 PM,5:51,Turner 12' Pullup Jump Shot (6 PTS),,,34 - 23,-11,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,180,2,79,2,8:52 PM,5:32,,,MISS Bazemore 18' Pullup Jump Shot,,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,181,4,0,2,8:52 PM,5:31,Johnson REBOUND (Off:0 Def:4),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,182,2,79,2,8:52 PM,5:25,MISS Thomas 23' Pullup Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,183,4,0,2,8:52 PM,5:23,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,184,9,1,2,8:52 PM,5:23,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,186,8,0,2,8:55 PM,5:23,SUB: Jerebko FOR Johnson,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,187,8,0,2,8:55 PM,5:23,,,SUB: Hardaway Jr. FOR Korver,,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,188,6,1,2,8:56 PM,5:13,Smart P.FOUL (P1.T2) (T.Brothers),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,189,5,45,2,8:56 PM,5:05,,,Teague Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,190,2,79,2,8:56 PM,4:51,MISS Turner 7' Pullup Jump Shot,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,191,4,0,2,8:56 PM,4:50,,,Scott REBOUND (Off:0 Def:3),,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,192,2,75,2,8:57 PM,4:33,Jerebko BLOCK (2 BLK),,MISS Teague 1' Driving Finger Roll Layup,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,1
+0041500136,193,4,0,2,8:57 PM,4:32,Thomas REBOUND (Off:0 Def:2),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,194,1,108,2,8:57 PM,4:26,Crowder  Cutting Dunk Shot (2 PTS) (Thomas 4 AST),,,34 - 25,-9,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,195,5,1,2,8:57 PM,3:59,Smart STEAL (1 STL),,Teague Bad Pass Turnover (P3.T7),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,196,6,1,2,8:57 PM,3:58,,,Scott P.FOUL (P1.T3) (J.Williams),,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,197,8,0,2,8:57 PM,3:58,SUB: Rozier FOR Smart,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,198,8,0,2,8:57 PM,3:58,,,SUB: Schroder FOR Teague,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,199,6,29,2,8:58 PM,3:41,,,Millsap Shooting Block Foul (P1.T4) (T.Brothers),,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,200,3,11,2,8:58 PM,3:41,Crowder Free Throw 1 of 2 (3 PTS),,,34 - 26,-8,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,202,3,12,2,8:58 PM,3:41,Crowder Free Throw 2 of 2 (4 PTS),,,34 - 27,-7,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,204,1,49,2,8:59 PM,3:31,,,Bazemore  Driving Dunk (7 PTS) (Schroder 5 AST),36 - 27,-9,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,205,2,1,2,8:59 PM,3:08,MISS Crowder  3PT Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,206,4,0,2,8:59 PM,3:06,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,207,6,1,2,8:59 PM,3:06,Jerebko P.FOUL (P2.T3) (S.Foster),,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,5,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,208,6,1,2,9:00 PM,2:57,Crowder P.FOUL (P2.T4) (T.Brothers),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,209,9,1,2,9:00 PM,2:57,,,Hawks Timeout: Regular (Reg.2 Short 0),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,212,8,0,2,9:03 PM,2:57,SUB: Smart FOR Rozier,,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,213,2,79,2,9:03 PM,2:41,,,MISS Hardaway Jr. 20' Pullup Jump Shot,,,5.0,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,214,4,0,2,9:03 PM,2:40,Thomas REBOUND (Off:0 Def:3),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,215,2,1,2,9:04 PM,2:21,MISS Turner 25' 3PT Jump Shot,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,216,4,0,2,9:04 PM,2:20,,,Schroder REBOUND (Off:0 Def:2),,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,217,2,1,2,9:04 PM,2:07,,,MISS Scott 25' 3PT Jump Shot,,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,218,4,0,2,9:04 PM,2:06,Crowder REBOUND (Off:0 Def:4),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,219,1,98,2,9:04 PM,1:51,Crowder 1' Cutting Layup Shot (6 PTS) (Thomas 5 AST),,,36 - 29,-7,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,220,6,1,2,9:05 PM,1:36,Crowder P.FOUL (P3.PN) (S.Foster),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,221,3,11,2,9:05 PM,1:36,,,Millsap Free Throw 1 of 2 (7 PTS),37 - 29,-8,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,223,8,0,2,9:05 PM,1:36,,,SUB: Horford FOR Scott,,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,224,8,0,2,9:05 PM,1:36,,,SUB: Korver FOR Hardaway Jr.,,,5.0,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,225,3,12,2,9:05 PM,1:36,,,Millsap Free Throw 2 of 2 (8 PTS),38 - 29,-9,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,227,5,1,2,9:06 PM,1:21,Turner Bad Pass Turnover (P1.T6),,Horford STEAL (1 STL),,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,228,1,1,2,9:06 PM,1:15,,,Schroder 25' 3PT Jump Shot (6 PTS) (Horford 1 AST),41 - 29,-12,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,229,6,2,2,9:06 PM,1:05,,,Schroder S.FOUL (P2.PN) (S.Foster),,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,230,3,11,2,9:06 PM,1:05,Thomas Free Throw 1 of 2 (6 PTS),,,41 - 30,-11,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,232,8,0,2,9:06 PM,1:05,SUB: Johnson FOR Crowder,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,233,3,12,2,9:06 PM,1:05,Thomas Free Throw 2 of 2 (7 PTS),,,41 - 31,-10,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,236,5,4,2,9:07 PM,0:54,,,Horford Traveling Turnover (P2.T8),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0041500136,237,1,75,2,9:08 PM,0:39,Thomas 1' Driving Finger Roll Layup (9 PTS),,,41 - 33,-8,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,238,5,4,2,9:08 PM,0:30,,,Millsap Traveling Turnover (P3.T9),,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0041500136,239,8,0,2,9:08 PM,0:30,,,SUB: Hinrich FOR Schroder,,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,2550,Kirk Hinrich,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,240,2,79,2,9:08 PM,0:22,MISS Thomas 16' Pullup Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,241,4,0,2,9:08 PM,0:21,,,Millsap REBOUND (Off:0 Def:5),,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,242,9,2,2,9:09 PM,0:14,,,Hawks Timeout: Short (Reg.2 Short 1),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,244,8,0,2,9:10 PM,0:14,,,SUB: Schroder FOR Hinrich,,,5.0,2550,Kirk Hinrich,1610612737.0,Atlanta,Hawks,ATL,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,245,8,0,2,9:10 PM,0:14,,,SUB: Scott FOR Horford,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,246,2,75,2,9:10 PM,0:03,,,MISS Schroder 3' Driving Finger Roll Layup,,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,247,4,0,2,9:10 PM,0:02,Smart REBOUND (Off:0 Def:4),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,248,9,2,2,9:10 PM,0:02,CELTICS Timeout: Short (Full 2 Short 1),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,250,8,0,2,9:11 PM,0:02,,,SUB: Hinrich FOR Korver,,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,2550,Kirk Hinrich,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,251,8,0,2,9:11 PM,0:02,,,SUB: Horford FOR Schroder,,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,252,8,0,2,9:11 PM,0:02,,,SUB: Sefolosha FOR Scott,,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,5,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,253,8,0,2,9:11 PM,0:02,SUB: Sullinger FOR Jerebko,,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,254,8,0,2,9:11 PM,0:02,SUB: Rozier FOR Johnson,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,255,8,0,2,9:11 PM,0:02,SUB: Olynyk FOR Turner,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,256,2,79,2,9:12 PM,0:00,MISS Thomas 34' 3PT Pullup Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,258,4,0,2,9:12 PM,0:00,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,257,13,0,2,9:12 PM,0:00,,,,41 - 33,-8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,261,12,0,3,9:30 PM,12:00,,,,41 - 33,-8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,262,2,1,3,9:30 PM,11:44,MISS Crowder  3PT Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,263,4,0,3,9:30 PM,11:42,,,Bazemore REBOUND (Off:0 Def:2),,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,264,1,80,3,9:30 PM,11:34,,,Bazemore 17' Step Back Jump Shot (9 PTS),43 - 33,-10,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,265,2,1,3,9:31 PM,11:22,MISS Turner  3PT Jump Shot,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,266,4,0,3,9:31 PM,11:21,,,Korver REBOUND (Off:0 Def:6),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,267,6,1,3,9:31 PM,11:21,Crowder P.FOUL (P4.T1) (T.Brothers),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,268,8,0,3,9:31 PM,11:21,SUB: Olynyk FOR Crowder,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,269,1,101,3,9:32 PM,11:09,,,Teague 6' Driving Floating Jump Shot (4 PTS),45 - 33,-12,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,270,1,75,3,9:32 PM,11:00,Jerebko 2' Driving Finger Roll Layup (10 PTS) (Thomas 6 AST),,,45 - 35,-10,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,271,6,2,3,9:32 PM,11:00,,,Horford S.FOUL (P2.T1) (T.Brothers),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,272,3,10,3,9:32 PM,11:00,Jerebko Free Throw 1 of 1 (11 PTS),,,45 - 36,-9,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,274,1,79,3,9:32 PM,10:49,,,Korver 25' 3PT Pullup Jump Shot (6 PTS) (Teague 3 AST),48 - 36,-12,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,275,2,42,3,9:32 PM,10:35,MISS Turner 2' Driving Layup,,Horford BLOCK (2 BLK),,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,1
+0041500136,276,4,0,3,9:32 PM,10:34,,,Millsap REBOUND (Off:0 Def:6),,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,277,6,2,3,9:33 PM,10:25,Johnson S.FOUL (P1.T2) (J.Williams),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,278,3,11,3,9:33 PM,10:25,,,Millsap Free Throw 1 of 2 (9 PTS),49 - 36,-13,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,280,3,12,3,9:33 PM,10:25,,,Millsap Free Throw 2 of 2 (10 PTS),50 - 36,-14,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,282,6,1,3,9:34 PM,10:10,,,Teague P.FOUL (P2.T2) (S.Foster),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,283,2,1,3,9:34 PM,9:57,MISS Turner 16' Jump Shot,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,284,4,0,3,9:34 PM,9:56,,,Horford REBOUND (Off:0 Def:1),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,285,1,1,3,9:35 PM,9:39,,,Horford 25' 3PT Jump Shot (5 PTS) (Teague 4 AST),53 - 36,-17,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,286,9,1,3,9:35 PM,9:39,CELTICS Timeout: Regular (Full 3 Short 1),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,288,8,0,3,9:37 PM,9:39,SUB: Crowder FOR Olynyk,,,,,4.0,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,289,8,0,3,9:37 PM,9:39,SUB: Smart FOR Johnson,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,290,2,75,3,9:38 PM,9:19,MISS Crowder 3' Driving Finger Roll Layup,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,291,4,0,3,9:38 PM,9:18,,,Korver REBOUND (Off:0 Def:7),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,292,2,1,3,9:38 PM,9:10,,,MISS Bazemore  3PT Jump Shot,,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,293,4,0,3,9:38 PM,9:08,,,Bazemore REBOUND (Off:1 Def:2),,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,294,1,79,3,9:39 PM,8:51,,,Horford 14' Pullup Jump Shot (7 PTS) (Millsap 2 AST),55 - 36,-19,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,295,1,42,3,9:39 PM,8:29,Thomas 2' Driving Layup (11 PTS),,,55 - 38,-17,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,296,6,2,3,9:39 PM,8:13,Crowder S.FOUL (P5.T3) (S.Foster),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,297,3,11,3,9:40 PM,8:13,,,MISS Millsap Free Throw 1 of 2,,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,298,4,1,3,9:40 PM,8:13,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,299,8,0,3,9:40 PM,8:13,SUB: Johnson FOR Crowder,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,300,3,12,3,9:40 PM,8:13,,,Millsap Free Throw 2 of 2 (11 PTS),56 - 38,-18,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,302,1,98,3,9:40 PM,8:03,Johnson 1' Cutting Layup Shot (2 PTS) (Thomas 7 AST),,,56 - 40,-16,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,303,6,2,3,9:40 PM,8:03,,,Korver S.FOUL (P1.T3) (S.Foster),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,304,3,10,3,9:41 PM,8:03,Johnson Free Throw 1 of 1 (3 PTS),,,56 - 41,-15,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,306,1,73,3,9:41 PM,7:49,,,Teague 2' Driving Reverse Layup (6 PTS),58 - 41,-17,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,307,2,42,3,9:41 PM,7:42,MISS Thomas 1' Driving Layup,,Korver BLOCK (2 BLK),,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,1
+0041500136,308,4,0,3,9:41 PM,7:41,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,309,6,11,3,9:41 PM,7:41,Thomas T.FOUL (P0.T3) (J.Williams),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0041500136,310,3,16,3,9:41 PM,7:41,,,Korver Free Throw Technical (7 PTS),59 - 41,-18,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,312,2,79,3,9:42 PM,7:34,MISS Turner 11' Pullup Jump Shot,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,313,4,0,3,9:42 PM,7:33,,,Korver REBOUND (Off:0 Def:8),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,315,6,4,3,9:43 PM,7:17,,,Horford OFF.Foul (P3) (S.Foster),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,316,5,5,3,9:43 PM,7:17,,,Horford Foul Turnover (P3.T10),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0041500136,317,5,2,3,9:43 PM,7:02,Johnson Lost Ball Turnover (P2.T7),,Horford STEAL (2 STL),,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,318,1,71,3,9:44 PM,6:38,,,Bazemore 3' Finger Roll Layup (11 PTS),61 - 41,-20,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,319,1,79,3,9:44 PM,6:23,Turner 11' Pullup Jump Shot (8 PTS) (Thomas 8 AST),,,61 - 43,-18,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,320,1,43,3,9:44 PM,6:12,,,Horford 2' Alley Oop Layup (9 PTS) (Teague 5 AST),63 - 43,-20,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,321,2,1,3,9:44 PM,6:04,MISS Turner  3PT Jump Shot,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,322,4,0,3,9:44 PM,6:03,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,323,6,3,3,9:44 PM,6:03,Smart L.B.FOUL (P2.T4) (T.Brothers),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,324,8,0,3,9:44 PM,6:03,,,SUB: Scott FOR Horford,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,326,5,1,3,9:45 PM,5:54,Smart STEAL (2 STL),,Scott Bad Pass Turnover (P1.T11),,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,327,1,49,3,9:45 PM,5:50,Smart  Driving Dunk (4 PTS),,,63 - 45,-18,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,328,1,73,3,9:45 PM,5:27,,,Teague 1' Driving Reverse Layup (8 PTS),65 - 45,-20,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,329,9,2,3,9:45 PM,5:18,CELTICS Timeout: Short (Full 3 Short 2),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,331,8,0,3,9:46 PM,5:18,,,SUB: Sefolosha FOR Bazemore,,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,5,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,332,8,0,3,9:46 PM,5:18,SUB: Rozier FOR Jerebko,,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,4,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,333,1,42,3,9:47 PM,5:12,Smart 1' Driving Layup (6 PTS),,,65 - 47,-18,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,334,2,1,3,9:47 PM,4:48,,,MISS Teague 24' 3PT Jump Shot,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,335,4,0,3,9:47 PM,4:47,Smart REBOUND (Off:0 Def:5),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,336,1,79,3,9:47 PM,4:41,Thomas 22' Pullup Jump Shot (13 PTS),,,65 - 49,-16,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,337,9,1,3,9:48 PM,4:31,,,Hawks Timeout: Regular (Reg.3 Short 1),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,339,18,0,3,9:48 PM,4:31,,,,,,,336,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500136,341,8,0,3,9:50 PM,4:31,,,SUB: Schroder FOR Teague,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,342,6,2,3,9:51 PM,4:19,Johnson S.FOUL (P2.PN) (S.Foster),,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,343,3,11,3,9:51 PM,4:19,,,Millsap Free Throw 1 of 2 (12 PTS),66 - 49,-17,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,345,3,12,3,9:51 PM,4:19,,,Millsap Free Throw 2 of 2 (13 PTS),67 - 49,-18,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,347,2,47,3,9:52 PM,4:03,MISS Turner 13' Turnaround Jump Shot,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,348,4,0,3,9:52 PM,4:03,,,Sefolosha REBOUND (Off:0 Def:4),,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,349,5,4,3,9:52 PM,3:53,,,Scott Traveling Turnover (P2.T12),,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0041500136,350,8,0,3,9:52 PM,3:53,SUB: Jerebko FOR Johnson,,,,,4.0,101161,Amir Johnson,1610612738.0,Boston,Celtics,BOS,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,351,6,2,3,9:53 PM,3:49,,,Korver S.FOUL (P2.T4) (S.Foster),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,352,3,11,3,9:53 PM,3:49,Thomas Free Throw 1 of 2 (14 PTS),,,67 - 50,-17,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,354,8,0,3,9:53 PM,3:49,,,SUB: Hardaway Jr. FOR Korver,,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,355,3,12,3,9:53 PM,3:49,Thomas Free Throw 2 of 2 (15 PTS),,,67 - 51,-16,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,357,1,1,3,9:54 PM,3:33,,,Schroder 21' Jump Shot (8 PTS),69 - 51,-18,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,358,2,1,3,9:54 PM,3:14,MISS Smart 25' 3PT Jump Shot,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,359,4,0,3,9:54 PM,3:13,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,365,2,40,3,9:54 PM,2:59,,,MISS Millsap 2' Layup,,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,363,4,0,3,9:54 PM,2:58,,,Sefolosha REBOUND (Off:1 Def:4),,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,360,1,87,3,9:54 PM,2:58,,,Sefolosha  Putback Dunk (2 PTS),71 - 51,-20,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,361,2,1,3,9:55 PM,2:42,MISS Jerebko 25' 3PT Jump Shot,,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,362,4,0,3,9:55 PM,2:40,,,Millsap REBOUND (Off:0 Def:7),,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,364,6,2,3,9:55 PM,2:24,Thomas S.FOUL (P1.PN) (S.Foster),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,5,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,366,3,11,3,9:55 PM,2:24,,,Scott Free Throw 1 of 2 (3 PTS),72 - 51,-21,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,368,8,0,3,9:55 PM,2:24,SUB: Sullinger FOR Turner,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,369,3,12,3,9:55 PM,2:24,,,Scott Free Throw 2 of 2 (4 PTS),73 - 51,-22,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,372,6,29,3,9:56 PM,2:13,,,Scott Shooting Block Foul (P2.PN) (S.Foster),,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,373,3,11,3,9:56 PM,2:13,Smart Free Throw 1 of 2 (7 PTS),,,73 - 52,-21,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,376,3,12,3,9:56 PM,2:13,Smart Free Throw 2 of 2 (8 PTS),,,73 - 53,-20,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,375,7,1,3,9:56 PM,2:13,CELTICS Violation: Delay of game Violation,,,,,2.0,1610612738,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500136,380,2,45,3,9:57 PM,1:58,,,MISS Millsap 26' 3PT Jump Shot,,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,377,4,0,3,9:57 PM,1:57,Rozier REBOUND (Off:0 Def:1),,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,378,1,1,3,9:57 PM,1:46,Rozier 27' 3PT Jump Shot (3 PTS) (Thomas 9 AST),,,73 - 56,-17,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,381,2,63,3,9:57 PM,1:20,,,MISS Hardaway Jr. 25' 3PT Fadeaway Jumper,,,5.0,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,382,4,0,3,9:57 PM,1:19,Sullinger REBOUND (Off:3 Def:1),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,383,1,42,3,9:58 PM,1:09,Smart 1' Driving Layup (10 PTS),,,73 - 58,-15,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,384,6,2,3,9:58 PM,1:09,,,Sefolosha S.FOUL (P2.PN) (S.Foster),,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,385,8,0,3,9:58 PM,1:09,,,SUB: Horford FOR Millsap,,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,386,8,0,3,9:58 PM,1:09,,,SUB: Korver FOR Hardaway Jr.,,,5.0,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,388,3,10,3,9:58 PM,1:09,Smart Free Throw 1 of 1 (11 PTS),,,73 - 59,-14,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,392,1,43,3,9:58 PM,0:52,,,Horford 2' Alley Oop Layup (11 PTS) (Schroder 6 AST),75 - 59,-16,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,393,2,42,3,9:59 PM,0:45,MISS Thomas 3' Driving Layup,,Scott BLOCK (1 BLK),,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,1
+0041500136,394,4,0,3,9:59 PM,0:44,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,395,5,2,3,9:59 PM,0:29,Thomas STEAL (1 STL),,Schroder Lost Ball Turnover (P1.T13),,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,396,5,1,3,9:59 PM,0:26,Smart Bad Pass Turnover (P2.T8),,Scott STEAL (1 STL),,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,397,1,1,3,9:59 PM,0:05,,,Scott 24' 3PT Jump Shot (7 PTS) (Horford 2 AST),78 - 59,-19,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,398,6,4,3,10:00 PM,0:03,Sullinger OFF.Foul (P1) (S.Foster),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,399,5,5,3,10:00 PM,0:03,Sullinger Foul Turnover (P1.T9),,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0041500136,400,8,0,3,10:00 PM,0:03,,,SUB: Hardaway Jr. FOR Sefolosha,,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,5,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,401,8,0,3,10:00 PM,0:03,SUB: Turner FOR Sullinger,,,,,4.0,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,402,1,47,3,10:00 PM,0:00,,,Horford 15' Turnaround Jump Shot (13 PTS) (Korver 3 AST),80 - 59,-21,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,403,18,0,3,10:00 PM,0:00,,,,,,,402,Jon Koncak,,,,,0,0,,,,,,1,0,,,,,,0
+0041500136,404,13,0,3,10:00 PM,0:00,,,,80 - 59,-21,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,406,12,0,4,10:04 PM,12:00,,,,80 - 59,-21,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,407,5,1,4,10:04 PM,11:47,Smart STEAL (3 STL),,Korver Bad Pass Turnover (P1.T14),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,408,2,63,4,10:04 PM,11:40,MISS Thomas 13' Fadeaway Jumper,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,409,4,0,4,10:04 PM,11:38,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,410,6,1,4,10:05 PM,11:32,Smart P.FOUL (P3.T1) (J.Williams),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,411,1,75,4,10:05 PM,11:17,,,Schroder 3' Driving Finger Roll Layup (10 PTS),82 - 59,-23,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,412,1,3,4,10:06 PM,10:57,Zeller 5' Hook Shot (2 PTS) (Thomas 10 AST),,,82 - 61,-21,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,413,1,1,4,10:06 PM,10:43,,,Bazemore 25' 3PT Jump Shot (14 PTS) (Schroder 7 AST),85 - 61,-24,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,414,2,42,4,10:06 PM,10:32,MISS Smart 2' Driving Layup,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,415,4,0,4,10:06 PM,10:30,,,Horford REBOUND (Off:0 Def:2),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,416,1,98,4,10:06 PM,10:27,,,Horford 3' Cutting Layup Shot (15 PTS) (Schroder 8 AST),87 - 61,-26,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,417,9,1,4,10:06 PM,10:27,CELTICS Timeout: Regular (Full 4 Short 2),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,419,8,0,4,10:08 PM,10:27,SUB: Crowder FOR Jerebko,,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,4,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,421,2,1,4,10:10 PM,10:09,MISS Smart 23' Jump Shot,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,422,4,0,4,10:10 PM,10:09,,,Schroder REBOUND (Off:0 Def:3),,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,423,1,98,4,10:10 PM,9:51,,,Schroder 1' Cutting Layup Shot (12 PTS) (Muscala 1 AST),89 - 61,-28,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,424,1,1,4,10:10 PM,9:31,Crowder 25' 3PT Jump Shot (9 PTS) (Smart 1 AST),,,89 - 64,-25,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,425,5,1,4,10:11 PM,9:12,Smart STEAL (4 STL),,Schroder Bad Pass Turnover (P2.T15),,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,426,1,74,4,10:11 PM,9:06,Thomas 1' Running Reverse Layup (17 PTS),,,89 - 66,-23,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,427,2,1,4,10:11 PM,8:42,,,MISS Bazemore 28' 3PT Jump Shot,,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,428,4,0,4,10:11 PM,8:41,Crowder REBOUND (Off:0 Def:5),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,429,2,1,4,10:11 PM,8:26,MISS Rozier 25' 3PT Jump Shot,,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,430,4,0,4,10:11 PM,8:25,,,Horford REBOUND (Off:0 Def:3),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,431,5,45,4,10:12 PM,8:15,,,Bazemore Out of Bounds - Bad Pass Turnover Turnover (P1.T16),,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,432,6,4,4,10:12 PM,8:06,Thomas OFF.Foul (P2) (T.Brothers),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,5,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,433,5,5,4,10:12 PM,8:06,Thomas Foul Turnover (P2.T10),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0041500136,434,8,0,4,10:12 PM,8:06,,,SUB: Millsap FOR Horford,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,435,8,0,4,10:12 PM,8:06,SUB: Turner FOR Smart,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,436,2,75,4,10:13 PM,7:53,,,MISS Schroder 2' Driving Finger Roll Layup,,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,437,4,0,4,10:13 PM,7:52,Zeller REBOUND (Off:0 Def:1),,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,438,2,1,4,10:13 PM,7:45,MISS Turner  3PT Jump Shot,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,439,4,0,4,10:13 PM,7:43,Rozier REBOUND (Off:1 Def:1),,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,440,6,2,4,10:13 PM,7:42,,,Muscala S.FOUL (P1.T1) (J.Williams),,,5.0,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,4,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,441,3,11,4,10:13 PM,7:42,Rozier Free Throw 1 of 2 (4 PTS),,,89 - 67,-22,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,443,8,0,4,10:14 PM,7:42,,,SUB: Teague FOR Schroder,,,5.0,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,444,3,12,4,10:14 PM,7:42,Rozier Free Throw 2 of 2 (5 PTS),,,89 - 68,-21,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,446,1,79,4,10:14 PM,7:33,,,Korver 21' Pullup Jump Shot (9 PTS) (Bazemore 1 AST),91 - 68,-23,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,447,1,1,4,10:14 PM,7:15,Crowder  3PT Jump Shot (12 PTS) (Turner 1 AST),,,91 - 71,-20,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,448,1,44,4,10:15 PM,7:02,,,Korver 1' Reverse Layup (11 PTS) (Bazemore 2 AST),93 - 71,-22,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,449,6,2,4,10:15 PM,7:02,Turner S.FOUL (P3.T2) (J.Williams),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,450,8,0,4,10:15 PM,7:02,,,SUB: Scott FOR Muscala,,,5.0,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,5,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,451,3,10,4,10:15 PM,7:02,,,Korver Free Throw 1 of 1 (12 PTS),94 - 71,-23,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,453,1,75,4,10:15 PM,6:44,Thomas  Driving Finger Roll Layup (19 PTS),,,94 - 73,-21,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,454,6,4,4,10:16 PM,6:25,,,Scott OFF.Foul (P3) (S.Foster),,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,455,5,5,4,10:16 PM,6:25,,,Scott Foul Turnover (P3.T17),,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0041500136,456,8,0,4,10:16 PM,6:25,,,SUB: Hardaway Jr. FOR Korver,,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,457,1,1,4,10:16 PM,6:08,Crowder 25' 3PT Jump Shot (15 PTS),,,94 - 76,-18,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,458,2,75,4,10:17 PM,5:46,,,MISS Teague 1' Driving Finger Roll Layup,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,459,4,0,4,10:17 PM,5:45,Zeller REBOUND (Off:0 Def:2),,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,460,6,1,4,10:17 PM,5:40,,,Scott P.FOUL (P4.T2) (J.Williams),,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,461,9,4,4,10:17 PM,5:40,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,463,8,0,4,10:19 PM,5:40,,,SUB: Horford FOR Scott,,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,464,6,1,4,10:20 PM,5:38,,,Teague P.FOUL (P3.T3) (T.Brothers),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,465,1,98,4,10:21 PM,5:29,Zeller 1' Cutting Layup Shot (4 PTS) (Turner 2 AST),,,94 - 78,-16,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,466,6,2,4,10:21 PM,5:12,Zeller S.FOUL (P1.T3) (S.Foster),,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,467,3,11,4,10:21 PM,5:12,,,MISS Millsap Free Throw 1 of 2,,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,468,4,1,4,10:21 PM,5:12,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,469,3,12,4,10:22 PM,5:12,,,Millsap Free Throw 2 of 2 (14 PTS),95 - 78,-17,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,471,2,1,4,10:22 PM,4:55,MISS Zeller 16' Jump Shot,,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,472,4,0,4,10:22 PM,4:54,,,Hardaway Jr. REBOUND (Off:0 Def:3),,,5.0,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,473,2,1,4,10:22 PM,4:37,,,MISS Horford 17' Jump Shot,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,474,4,0,4,10:22 PM,4:36,Rozier REBOUND (Off:1 Def:2),,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,475,2,1,4,10:22 PM,4:26,MISS Thomas 27' 3PT Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,476,4,0,4,10:22 PM,4:25,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,477,6,3,4,10:23 PM,4:25,,,Horford L.B.FOUL (P4.T4) (S.Foster),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,478,8,0,4,10:23 PM,4:25,SUB: Smart FOR Rozier,,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,479,8,0,4,10:23 PM,4:25,,,SUB: Korver FOR Hardaway Jr.,,,5.0,203501,Tim Hardaway Jr.,1610612737.0,Atlanta,Hawks,ATL,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,480,8,0,4,10:23 PM,4:25,,,SUB: Sefolosha FOR Bazemore,,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,5,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,481,2,57,4,10:23 PM,4:18,MISS Zeller  Driving Hook Shot,,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,482,4,0,4,10:23 PM,4:17,,,Millsap REBOUND (Off:0 Def:8),,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,483,2,1,4,10:23 PM,3:55,,,MISS Sefolosha 25' 3PT Jump Shot,,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,484,4,0,4,10:23 PM,3:54,Crowder REBOUND (Off:0 Def:6),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,485,2,79,4,10:24 PM,3:48,MISS Crowder 26' 3PT Pullup Jump Shot,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,486,4,0,4,10:24 PM,3:46,Zeller REBOUND (Off:1 Def:2),,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,487,1,72,4,10:24 PM,3:45,Zeller 3' Putback Layup (6 PTS),,,95 - 80,-15,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,488,5,4,4,10:24 PM,3:22,,,Sefolosha Traveling Turnover (P1.T18),,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0041500136,489,1,101,4,10:24 PM,3:16,Thomas 8' Driving Floating Jump Shot (21 PTS),,,95 - 82,-13,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,490,6,2,4,10:24 PM,3:16,,,Sefolosha S.FOUL (P3.PN) (J.Williams),,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,491,8,0,4,10:25 PM,3:16,,,SUB: Bazemore FOR Sefolosha,,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,5,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,492,3,10,4,10:25 PM,3:16,Thomas Free Throw 1 of 1 (22 PTS),,,95 - 83,-12,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,496,6,1,4,10:25 PM,3:03,Crowder P.FOUL (P6.T4) (J.Williams),,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,497,9,1,4,10:26 PM,3:03,,,Hawks Timeout: Regular (Reg.4 Short 1),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,499,8,0,4,10:28 PM,3:03,SUB: Jerebko FOR Crowder,,,,,4.0,203109,Jae Crowder,1610612738.0,Boston,Celtics,BOS,4,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,500,2,1,4,10:29 PM,2:51,,,MISS Bazemore 25' 3PT Jump Shot,,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,501,4,0,4,10:29 PM,2:50,Zeller REBOUND (Off:1 Def:3),,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,502,2,79,4,10:29 PM,2:34,MISS Turner 21' Pullup Jump Shot,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,503,4,0,4,10:29 PM,2:33,,,Bazemore REBOUND (Off:1 Def:3),,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,504,6,1,4,10:30 PM,2:20,Smart P.FOUL (P4.PN) (S.Foster),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,505,3,11,4,10:30 PM,2:20,,,Bazemore Free Throw 1 of 2 (15 PTS),96 - 83,-13,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,507,3,12,4,10:30 PM,2:20,,,MISS Bazemore Free Throw 2 of 2,,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,509,4,0,4,10:30 PM,2:20,Turner REBOUND (Off:2 Def:5),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,510,2,1,4,10:30 PM,2:09,MISS Thomas 25' 3PT Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,511,4,0,4,10:30 PM,2:07,Smart REBOUND (Off:1 Def:5),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,512,6,1,4,10:31 PM,2:05,,,Teague P.FOUL (P4.PN) (T.Brothers),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,513,3,11,4,10:31 PM,2:05,Thomas Free Throw 1 of 2 (23 PTS),,,96 - 84,-12,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,515,3,12,4,10:31 PM,2:05,MISS Thomas Free Throw 2 of 2,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,517,4,0,4,10:31 PM,2:05,,,Horford REBOUND (Off:0 Def:4),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,518,6,26,4,10:31 PM,1:56,,,Teague Offensive Charge Foul (P5.PN) (J.Williams),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,519,5,5,4,10:31 PM,1:56,,,Teague Foul Turnover (P4.T19),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0041500136,520,7,1,4,10:32 PM,1:56,,,Hawks Violation: Delay of game Violation,,,3.0,1610612737,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500136,522,1,75,4,10:32 PM,1:48,Thomas 1' Driving Finger Roll Layup (25 PTS),,,96 - 86,-10,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,523,1,5,4,10:32 PM,1:44,,,Millsap 1' Layup (16 PTS) (Bazemore 3 AST),98 - 86,-12,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,524,6,2,4,10:32 PM,1:44,Turner S.FOUL (P4.PN) (T.Brothers),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,525,3,10,4,10:32 PM,1:44,,,Millsap Free Throw 1 of 1 (17 PTS),99 - 86,-13,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,527,6,1,4,10:33 PM,1:39,,,Millsap P.FOUL (P2.PN) (S.Foster),,,5.0,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0041500136,528,3,11,4,10:33 PM,1:39,Smart Free Throw 1 of 2 (12 PTS),,,99 - 87,-12,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,530,8,0,4,10:33 PM,1:39,SUB: Rozier FOR Zeller,,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,531,3,12,4,10:33 PM,1:39,Smart Free Throw 2 of 2 (13 PTS),,,99 - 88,-11,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0041500136,533,2,1,4,10:34 PM,1:25,,,MISS Horford 27' 3PT Jump Shot,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,534,4,0,4,10:34 PM,1:24,Rozier REBOUND (Off:1 Def:3),,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,535,2,1,4,10:34 PM,1:15,MISS Thomas 4' Jump Shot,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,536,4,0,4,10:34 PM,1:15,,,Korver REBOUND (Off:0 Def:9),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0041500136,537,6,28,4,10:34 PM,1:15,Jerebko Personal Take Foul (P3.PN) (J.Williams),,,,,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,538,3,11,4,10:34 PM,1:15,,,Korver Free Throw 1 of 2 (13 PTS),100 - 88,-12,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,540,8,0,4,10:34 PM,1:15,SUB: Zeller FOR Rozier,,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,541,3,12,4,10:35 PM,1:15,,,Korver Free Throw 2 of 2 (14 PTS),101 - 88,-13,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,543,9,2,4,10:35 PM,1:15,CELTICS Timeout: Short (Full 4 Short 3),,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,545,2,5,4,10:36 PM,1:10,MISS Thomas 2' Layup,,Millsap BLOCK (4 BLK),,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1
+0041500136,546,4,0,4,10:36 PM,1:09,CELTICS Rebound,,,,,2.0,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,547,1,98,4,10:37 PM,1:08,Jerebko  Cutting Layup Shot (13 PTS) (Turner 3 AST),,,101 - 90,-11,4.0,201973,Jonas Jerebko,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,548,6,28,4,10:37 PM,1:04,Thomas Personal Take Foul (P3.PN) (S.Foster),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,5,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,549,3,11,4,10:37 PM,1:04,,,MISS Bazemore Free Throw 1 of 2,,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,550,4,1,4,10:37 PM,1:04,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,551,3,12,4,10:37 PM,1:04,,,MISS Bazemore Free Throw 2 of 2,,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,553,4,0,4,10:37 PM,1:02,Zeller REBOUND (Off:1 Def:4),,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,554,6,26,4,10:37 PM,0:58,Thomas Offensive Charge Foul (P4.PN) (S.Foster),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,555,5,5,4,10:37 PM,0:58,Thomas Foul Turnover (P3.T11),,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0041500136,556,6,28,4,10:38 PM,0:53,Turner Personal Take Foul (P5.PN) (S.Foster),,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,557,3,11,4,10:38 PM,0:53,,,Teague Free Throw 1 of 2 (9 PTS),102 - 90,-12,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,559,8,0,4,10:38 PM,0:53,,,SUB: Sefolosha FOR Korver,,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,560,3,12,4,10:38 PM,0:53,,,Teague Free Throw 2 of 2 (10 PTS),103 - 90,-13,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,564,7,2,4,10:39 PM,0:47,,,Bazemore Violation:Defensive Goaltending (S.Foster),,,5.0,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0041500136,562,1,98,4,10:39 PM,0:47,Zeller 1' Cutting Layup Shot (8 PTS) (Turner 4 AST),,,103 - 92,-11,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0041500136,565,9,1,4,10:39 PM,0:47,,,Hawks Timeout: Regular (Reg.5 Short 1),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,568,8,0,4,10:40 PM,0:47,SUB: Rozier FOR Zeller,,,,,4.0,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,569,8,0,4,10:40 PM,0:47,,,SUB: Korver FOR Sefolosha,,,5.0,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0041500136,570,6,28,4,10:41 PM,0:44,Rozier Personal Take Foul (P2.PN) (J.Williams),,,,,4.0,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0041500136,571,3,11,4,10:41 PM,0:44,,,MISS Teague Free Throw 1 of 2,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,572,4,1,4,10:41 PM,0:44,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,573,8,0,4,10:41 PM,0:44,SUB: Zeller FOR Turner,,,,,4.0,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,574,3,12,4,10:41 PM,0:44,,,Teague Free Throw 2 of 2 (11 PTS),104 - 92,-12,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0041500136,576,2,42,4,10:42 PM,0:38,MISS Smart 2' Driving Layup,,Horford BLOCK (3 BLK),,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,1
+0041500136,577,4,0,4,10:42 PM,0:37,Smart REBOUND (Off:2 Def:5),,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0041500136,578,5,1,4,10:42 PM,0:36,Smart Bad Pass Turnover (P3.T12),,Bazemore STEAL (1 STL),,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0041500136,579,2,42,4,10:42 PM,0:14,Rozier BLOCK (1 BLK),,MISS Teague 2' Driving Layup,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1626179,Terry Rozier,1610612738.0,Boston,Celtics,BOS,1
+0041500136,580,4,0,4,10:42 PM,0:13,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500136,581,5,11,4,10:42 PM,0:13,,,Hawks Turnover: Shot Clock (T#20),,,3.0,1610612737,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500136,582,8,0,4,10:42 PM,0:13,SUB: Hunter FOR Thomas,,,,,4.0,202738,Isaiah Thomas,1610612738.0,Boston,Celtics,BOS,4,1626154,RJ Hunter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,583,8,0,4,10:42 PM,0:13,SUB: Young FOR Smart,,,,,4.0,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0041500136,584,13,0,4,10:43 PM,0:00,,,,104 - 92,-12,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0

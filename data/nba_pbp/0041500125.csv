@@ -1,0 +1,438 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0041500125,0,12,0,1,8:11 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,1,10,0,1,8:11 PM,12:00,Jump Ball Whiteside vs. Kaminsky: Tip to Deng,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1
+0041500125,2,1,82,1,8:12 PM,11:36,Dragic 5' Driving Bank Shot (2 PTS) (Wade 1 AST),,,0 - 2,2,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,3,2,1,1,8:12 PM,11:16,,,MISS Williams 25' 3PT Jump Shot,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,4,4,0,1,8:12 PM,11:15,Wade REBOUND (Off:0 Def:1),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,5,1,3,1,8:12 PM,11:03,Whiteside 9' Hook Shot (2 PTS) (Deng 1 AST),,,0 - 4,4,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,6,2,1,1,8:13 PM,10:39,Whiteside BLOCK (1 BLK),,MISS Jefferson 17' Jump Shot,,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+0041500125,7,4,0,1,8:13 PM,10:38,Johnson REBOUND (Off:0 Def:1),,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,8,1,42,1,8:13 PM,10:31,Wade 1' Driving Layup (2 PTS),,,0 - 6,6,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,9,1,58,1,8:13 PM,10:16,,,Jefferson 4' Turnaround Hook Shot (2 PTS) (Walker 1 AST),2 - 6,4,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,10,1,5,1,8:13 PM,10:03,Whiteside 2' Layup (4 PTS) (Wade 2 AST),,,2 - 8,6,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,11,9,1,1,8:13 PM,9:57,,,Hornets Timeout: Regular (Reg.1 Short 0),,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,16,7,2,1,8:17 PM,9:45,Whiteside Violation:Defensive Goaltending (K.Fitzgerald),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0041500125,15,1,1,1,8:17 PM,9:45,,,Kaminsky 5' Jump Shot (2 PTS) (Williams 1 AST),4 - 8,4,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,17,1,80,1,8:17 PM,9:27,Dragic 18' Step Back Jump Shot (4 PTS) (Deng 2 AST),,,4 - 10,6,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,18,2,1,1,8:18 PM,9:12,,,MISS Walker 15' Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,19,4,0,1,8:18 PM,9:11,Whiteside REBOUND (Off:0 Def:1),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,20,5,1,1,8:18 PM,9:02,Wade Bad Pass Turnover (P1.T1),,Williams STEAL (1 STL),,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,21,2,1,1,8:18 PM,8:55,,,MISS Kaminsky 25' 3PT Jump Shot,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,22,4,0,1,8:18 PM,8:54,Whiteside REBOUND (Off:0 Def:2),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,23,2,58,1,8:18 PM,8:43,MISS Wade 8' Turnaround Hook Shot,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,24,4,0,1,8:18 PM,8:42,,,Jefferson REBOUND (Off:0 Def:1),,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,25,1,101,1,8:18 PM,8:31,,,Williams 7' Driving Floating Jump Shot (2 PTS),6 - 10,4,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,26,2,79,1,8:18 PM,8:20,MISS Dragic 14' Pullup Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,27,4,0,1,8:19 PM,8:19,Deng REBOUND (Off:1 Def:0),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,28,6,2,1,8:19 PM,8:18,,,Jefferson S.FOUL (P1.T1) (K.Fitzgerald),,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500125,29,3,11,1,8:19 PM,8:18,Deng Free Throw 1 of 2 (1 PTS),,,6 - 11,5,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,31,3,12,1,8:19 PM,8:18,Deng Free Throw 2 of 2 (2 PTS),,,6 - 12,6,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,33,2,1,1,8:20 PM,8:00,,,MISS Jefferson 4' Jump Shot,,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,34,4,0,1,8:20 PM,7:59,Deng REBOUND (Off:1 Def:1),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,35,2,1,1,8:20 PM,7:51,MISS Dragic 11' Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,36,4,0,1,8:20 PM,7:50,Whiteside REBOUND (Off:1 Def:2),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,37,1,5,1,8:20 PM,7:48,Whiteside 2' Layup (6 PTS),,,6 - 14,8,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,38,1,1,1,8:20 PM,7:34,,,Lee 25' 3PT Jump Shot (3 PTS) (Walker 2 AST),9 - 14,5,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,39,6,4,1,8:20 PM,7:25,Whiteside OFF.Foul (P1) (J.Phillips),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0041500125,40,5,5,1,8:20 PM,7:25,Whiteside Foul Turnover (P1.T2),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0041500125,41,1,1,1,8:21 PM,7:07,,,Williams 25' 3PT Jump Shot (5 PTS) (Jefferson 1 AST),12 - 14,2,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,42,5,4,1,8:21 PM,6:47,Dragic Traveling Turnover (P1.T3),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0041500125,43,2,5,1,8:22 PM,6:35,Whiteside BLOCK (2 BLK),,MISS Lee 2' Layup,,,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+0041500125,44,4,0,1,8:22 PM,6:34,,,Jefferson REBOUND (Off:1 Def:1),,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,45,1,5,1,8:22 PM,6:33,,,Jefferson 2' Layup (4 PTS),14 - 14,TIE,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,46,2,42,1,8:22 PM,6:12,MISS Whiteside 2' Driving Layup,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,50,8,0,1,8:22 PM,6:12,SUB: Richardson FOR Dragic,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,53,8,0,1,8:22 PM,6:12,,,SUB: Lin FOR Lee,,,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,5,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,47,10,0,1,8:23 PM,6:12,Jump Ball Whiteside vs. Jefferson: Tip to,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,2,1610612748,,,,,,1
+0041500125,48,4,0,1,8:23 PM,6:12,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,49,7,4,1,8:23 PM,6:12,,,Jefferson Violation:Jump Ball (D.Stafford),,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0041500125,51,2,1,1,8:23 PM,5:58,MISS Deng 25' 3PT Jump Shot,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,52,4,0,1,8:23 PM,5:57,,,Walker REBOUND (Off:0 Def:1),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,54,2,102,1,8:23 PM,5:48,,,MISS Walker 6' Driving Floating Bank Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,55,4,0,1,8:23 PM,5:47,Whiteside REBOUND (Off:1 Def:3),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,56,2,1,1,8:23 PM,5:41,MISS Deng 5' Jump Shot,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,57,4,0,1,8:23 PM,5:40,,,Williams REBOUND (Off:0 Def:1),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,58,1,1,1,8:24 PM,5:32,,,Kaminsky  3PT Jump Shot (5 PTS) (Williams 2 AST),17 - 14,-3,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,60,9,1,1,8:24 PM,5:32,HEAT Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,63,8,0,1,8:26 PM,5:32,,,SUB: Batum FOR Williams,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,64,2,42,1,8:27 PM,5:16,MISS Wade 2' Driving Layup,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,65,4,0,1,8:27 PM,5:15,,,Jefferson REBOUND (Off:1 Def:2),,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,66,2,75,1,8:27 PM,5:08,,,MISS Lin 2' Driving Finger Roll Layup,,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,67,4,0,1,8:27 PM,5:07,Whiteside REBOUND (Off:1 Def:4),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,68,2,79,1,8:27 PM,5:00,MISS Johnson 15' Pullup Jump Shot,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,69,4,0,1,8:27 PM,4:59,,,Batum REBOUND (Off:0 Def:1),,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,70,1,1,1,8:28 PM,4:47,,,Walker 24' 3PT Jump Shot (3 PTS),20 - 14,-6,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,71,1,1,1,8:28 PM,4:27,Deng 24' 3PT Jump Shot (5 PTS) (Johnson 1 AST),,,20 - 17,-3,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,72,2,1,1,8:28 PM,4:10,,,MISS Jefferson 13' Jump Shot,,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,73,4,0,1,8:28 PM,4:09,Deng REBOUND (Off:1 Def:2),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,74,2,3,1,8:28 PM,4:01,MISS Wade 4' Hook Shot,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,75,4,0,1,8:28 PM,4:00,,,Jefferson REBOUND (Off:1 Def:3),,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,76,2,1,1,8:28 PM,3:53,,,MISS Kaminsky 25' 3PT Jump Shot,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,77,4,0,1,8:28 PM,3:52,Whiteside REBOUND (Off:1 Def:5),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,78,1,42,1,8:29 PM,3:47,Wade 2' Driving Layup (4 PTS) (Richardson 1 AST),,,20 - 19,-1,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,79,1,79,1,8:29 PM,3:33,,,Walker 27' 3PT Pullup Jump Shot (6 PTS),23 - 19,-4,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,81,8,0,1,8:29 PM,3:20,SUB: McRoberts FOR Whiteside,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,82,8,0,1,8:29 PM,3:20,SUB: Dragic FOR Wade,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,83,8,0,1,8:29 PM,3:20,,,SUB: Zeller FOR Jefferson,,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,85,7,2,1,8:29 PM,3:18,,,Batum Violation:Defensive Goaltending (J.Phillips),,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0041500125,84,1,5,1,8:29 PM,3:18,Johnson 2' Layup (2 PTS) (McRoberts 1 AST),,,23 - 21,-2,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,4,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,86,2,5,1,8:30 PM,3:04,,,MISS Zeller 2' Layup,,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,87,4,0,1,8:30 PM,3:03,McRoberts REBOUND (Off:0 Def:1),,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,88,5,1,1,8:30 PM,2:57,Johnson Bad Pass Turnover (P1.T4),,Kaminsky STEAL (1 STL),,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,5,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,89,5,1,1,8:30 PM,2:48,Johnson STEAL (1 STL),,Kaminsky Bad Pass Turnover (P1.T1),,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,90,2,1,1,8:30 PM,2:39,MISS Deng 24' 3PT Jump Shot,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,91,4,0,1,8:30 PM,2:38,,,Zeller REBOUND (Off:0 Def:1),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,92,2,63,1,8:30 PM,2:25,,,MISS Walker 8' Fadeaway Jumper,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,93,4,0,1,8:31 PM,2:24,,,Zeller REBOUND (Off:1 Def:1),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,94,5,1,1,8:31 PM,2:16,Dragic STEAL (1 STL),,Walker Bad Pass Turnover (P1.T2),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,95,1,41,1,8:31 PM,2:11,Dragic 2' Running Layup (6 PTS),,,23 - 23,TIE,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,96,5,8,1,8:31 PM,1:47,,,Lin 3 Second Violation Turnover (P1.T3),,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0041500125,97,8,0,1,8:31 PM,1:47,,,SUB: Hawes FOR Kaminsky,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,98,8,0,1,8:31 PM,1:47,SUB: Winslow FOR Deng,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,100,2,58,1,8:32 PM,1:34,MISS Dragic 7' Turnaround Hook Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,101,4,0,1,8:32 PM,1:33,,,Lin REBOUND (Off:0 Def:1),,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,102,1,78,1,8:32 PM,1:11,,,Hawes 13' Floating Jump Shot (2 PTS),25 - 23,-2,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,103,2,1,1,8:33 PM,0:53,MISS Dragic 25' 3PT Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,104,4,0,1,8:33 PM,0:52,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,105,6,3,1,8:33 PM,0:52,,,Zeller L.B.FOUL (P1.T2) (J.Phillips),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500125,106,8,0,1,8:33 PM,0:52,SUB: Green FOR Johnson,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,4,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,107,1,5,1,8:33 PM,0:44,Winslow 1' Layup (2 PTS) (Dragic 1 AST),,,25 - 25,TIE,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,108,6,2,1,8:34 PM,0:26,Richardson S.FOUL (P1.T1) (J.Phillips),,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,5,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0041500125,109,3,11,1,8:34 PM,0:26,,,MISS Lin Free Throw 1 of 2,,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,110,4,1,1,8:34 PM,0:26,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,111,3,12,1,8:34 PM,0:26,,,Lin Free Throw 2 of 2 (1 PTS),26 - 25,-1,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,113,2,44,1,8:35 PM,0:04,MISS Dragic 2' Reverse Layup,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,114,4,0,1,8:35 PM,0:03,,,Hawes REBOUND (Off:0 Def:1),,,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,115,6,2,1,8:35 PM,0:00,McRoberts S.FOUL (P1.PN) (K.Fitzgerald),,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0041500125,116,18,1,1,8:36 PM,0:00,,,,,,,115,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500125,117,3,11,1,8:37 PM,0:00,,,Walker Free Throw 1 of 2 (7 PTS),27 - 25,-2,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,119,3,12,1,8:37 PM,0:00,,,Walker Free Throw 2 of 2 (8 PTS),28 - 25,-3,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,121,13,0,1,8:37 PM,0:00,,,,28 - 25,-3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,123,12,0,2,8:41 PM,12:00,,,,28 - 25,-3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,124,6,2,2,8:41 PM,11:47,Green S.FOUL (P1.T1) (D.Stafford),,,,,4.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0041500125,125,3,11,2,8:41 PM,11:47,,,Batum Free Throw 1 of 2 (1 PTS),29 - 25,-4,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,127,3,12,2,8:41 PM,11:47,,,Batum Free Throw 2 of 2 (2 PTS),30 - 25,-5,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,129,2,1,2,8:42 PM,11:35,MISS Green 16' Jump Shot,,,,,4.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,130,4,0,2,8:42 PM,11:34,,,Williams REBOUND (Off:0 Def:2),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,131,2,1,2,8:42 PM,11:29,,,MISS Batum 25' 3PT Jump Shot,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,132,4,0,2,8:42 PM,11:28,Winslow REBOUND (Off:0 Def:1),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,133,6,2,2,8:42 PM,11:23,,,Hawes S.FOUL (P1.T1) (D.Stafford),,,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500125,134,3,11,2,8:42 PM,11:23,Winslow Free Throw 1 of 2 (3 PTS),,,30 - 26,-4,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,136,3,12,2,8:43 PM,11:23,MISS Winslow Free Throw 2 of 2,,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,138,4,0,2,8:43 PM,11:22,,,Williams REBOUND (Off:0 Def:3),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,139,5,2,2,8:43 PM,11:08,McRoberts STEAL (1 STL),,Williams Lost Ball Turnover (P1.T4),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,4,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,140,2,42,2,8:43 PM,10:57,MISS Green 3' Driving Layup,,,,,4.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,141,4,0,2,8:43 PM,10:56,,,Hawes REBOUND (Off:0 Def:2),,,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,142,5,1,2,8:43 PM,10:54,Winslow STEAL (1 STL),,Hawes Bad Pass Turnover (P1.T5),,,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,143,5,2,2,8:43 PM,10:50,McRoberts Lost Ball Turnover (P1.T5),,Hawes STEAL (1 STL),,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,5,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,144,2,44,2,8:44 PM,10:37,,,MISS Zeller 1' Reverse Layup,,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,145,4,0,2,8:44 PM,10:36,Richardson REBOUND (Off:0 Def:1),,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,146,2,1,2,8:44 PM,10:22,MISS Dragic 24' 3PT Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,147,4,0,2,8:44 PM,10:21,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,148,6,3,2,8:44 PM,10:20,Richardson L.B.FOUL (P2.T2) (J.Phillips),,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0041500125,149,2,1,2,8:44 PM,10:06,,,MISS Batum 12' Jump Shot,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,150,4,0,2,8:44 PM,10:05,Dragic REBOUND (Off:0 Def:1),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,151,2,44,2,8:44 PM,10:00,MISS Winslow 2' Reverse Layup,,Hawes BLOCK (1 BLK),,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,1
+0041500125,152,4,0,2,8:45 PM,9:58,,,Batum REBOUND (Off:0 Def:2),,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,153,2,47,2,8:45 PM,9:48,,,MISS Hawes 12' Turnaround Jump Shot,,,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,154,4,0,2,8:45 PM,9:46,Winslow REBOUND (Off:0 Def:2),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,155,2,1,2,8:45 PM,9:34,MISS Winslow 9' Jump Shot,,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,156,4,0,2,8:45 PM,9:33,Winslow REBOUND (Off:1 Def:2),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,157,6,2,2,8:45 PM,9:33,,,Zeller S.FOUL (P2.T2) (K.Fitzgerald),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500125,158,3,11,2,8:45 PM,9:33,Winslow Free Throw 1 of 2 (4 PTS),,,30 - 27,-3,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,160,8,0,2,8:45 PM,9:33,,,SUB: Kaminsky FOR Zeller,,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,161,3,12,2,8:45 PM,9:33,Winslow Free Throw 2 of 2 (5 PTS),,,30 - 28,-2,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,163,2,1,2,8:46 PM,9:17,,,MISS Kaminsky 25' 3PT Jump Shot,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,164,4,0,2,8:46 PM,9:16,Winslow REBOUND (Off:1 Def:3),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,165,2,1,2,8:46 PM,9:06,MISS McRoberts 25' 3PT Jump Shot,,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,166,4,0,2,8:46 PM,9:05,,,Kaminsky REBOUND (Off:0 Def:1),,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,167,1,57,2,8:47 PM,8:44,,,Hawes 8' Driving Hook Shot (4 PTS),32 - 28,-4,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,168,2,1,2,8:47 PM,8:25,MISS Green 25' 3PT Jump Shot,,,,,4.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,169,4,0,2,8:47 PM,8:24,,,Kaminsky REBOUND (Off:0 Def:2),,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,170,5,2,2,8:47 PM,8:10,McRoberts STEAL (2 STL),,Batum Lost Ball Turnover (P1.T6),,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,4,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,171,2,1,2,8:47 PM,7:59,MISS Richardson 16' Jump Shot,,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,172,4,0,2,8:47 PM,7:58,,,Williams REBOUND (Off:0 Def:4),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,173,6,1,2,8:48 PM,7:55,McRoberts P.FOUL (P2.T3) (K.Fitzgerald),,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,5,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0041500125,174,9,4,2,8:48 PM,7:55,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,176,8,0,2,8:51 PM,7:55,,,SUB: Lee FOR Batum,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,5,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,177,8,0,2,8:51 PM,7:55,SUB: Wade FOR Richardson,,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,178,8,0,2,8:51 PM,7:55,SUB: Deng FOR McRoberts,,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,179,8,0,2,8:51 PM,7:55,SUB: Whiteside FOR Green,,,,,4.0,101123,Gerald Green,1610612748.0,Miami,Heat,MIA,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,180,1,98,2,8:51 PM,7:48,,,Lin 2' Cutting Layup Shot (3 PTS) (Hawes 1 AST),34 - 28,-6,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,5,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,181,5,45,2,8:51 PM,7:29,Wade Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,182,2,1,2,8:52 PM,7:15,,,MISS Lee 16' Jump Shot,,,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,183,4,0,2,8:52 PM,7:14,Dragic REBOUND (Off:0 Def:2),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,184,2,78,2,8:52 PM,7:05,MISS Wade 8' Floating Jump Shot,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,185,4,0,2,8:52 PM,7:04,,,Hawes REBOUND (Off:0 Def:3),,,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,186,1,98,2,8:52 PM,6:57,,,Williams 2' Cutting Layup Shot (7 PTS) (Lin 1 AST),36 - 28,-8,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,187,9,1,2,8:52 PM,6:51,HEAT Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,190,8,0,2,8:55 PM,6:51,SUB: Johnson FOR Winslow,,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,191,5,1,2,8:56 PM,6:40,Dragic Bad Pass Turnover (P2.T7),,Williams STEAL (2 STL),,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,192,6,2,2,8:56 PM,6:26,Deng S.FOUL (P1.T4) (D.Stafford),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,5,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0041500125,193,3,11,2,8:56 PM,6:26,,,Lee Free Throw 1 of 2 (4 PTS),37 - 28,-9,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,195,3,12,2,8:56 PM,6:26,,,Lee Free Throw 2 of 2 (5 PTS),38 - 28,-10,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,197,5,1,2,8:57 PM,6:16,Wade Bad Pass Turnover (P3.T8),,Williams STEAL (3 STL),,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,198,1,41,2,8:57 PM,6:11,,,Lin 1' Running Layup (5 PTS),40 - 28,-12,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,199,1,66,2,8:57 PM,5:49,Wade 9' Jump Bank Shot (6 PTS),,,40 - 30,-10,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,200,1,44,2,8:58 PM,5:30,,,Williams 2' Reverse Layup (9 PTS) (Lin 2 AST),42 - 30,-12,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,201,1,5,2,8:58 PM,5:07,Wade 2' Layup (8 PTS),,,42 - 32,-10,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,203,5,40,2,8:58 PM,4:55,,,Hawes Out of Bounds Lost Ball Turnover (P2.T7),,,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,208,8,0,2,8:59 PM,4:55,,,SUB: Walker FOR Williams,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,209,8,0,2,8:59 PM,4:55,,,SUB: Jefferson FOR Hawes,,,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,204,8,0,2,8:59 PM,4:55,SUB: Richardson FOR Dragic,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,205,2,1,2,8:59 PM,4:39,MISS Deng 24' 3PT Jump Shot,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,206,4,0,2,8:59 PM,4:38,Richardson REBOUND (Off:1 Def:1),,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,207,1,108,2,8:59 PM,4:35,Deng  Cutting Dunk Shot (7 PTS) (Richardson 2 AST),,,42 - 34,-8,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,210,6,1,2,8:59 PM,4:13,Johnson P.FOUL (P1.PN) (K.Fitzgerald),,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,5,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0041500125,211,3,11,2,9:00 PM,4:13,,,Lin Free Throw 1 of 2 (6 PTS),43 - 34,-9,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,213,3,12,2,9:00 PM,4:13,,,MISS Lin Free Throw 2 of 2,,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,216,4,0,2,9:00 PM,4:12,Whiteside REBOUND (Off:1 Def:6),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,217,2,1,2,9:00 PM,3:57,MISS Whiteside 3' Jump Shot,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,218,4,0,2,9:01 PM,3:56,,,Lin REBOUND (Off:0 Def:2),,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,219,2,1,2,9:01 PM,3:51,,,MISS Lin 20' Jump Shot,,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,220,4,0,2,9:01 PM,3:49,Johnson REBOUND (Off:0 Def:2),,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,221,1,76,2,9:01 PM,3:44,Wade 2' Running Finger Roll Layup (10 PTS) (Johnson 2 AST),,,43 - 36,-7,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,222,2,3,2,9:01 PM,3:26,Richardson BLOCK (1 BLK),,MISS Walker 5' Hook Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,1
+0041500125,223,4,0,2,9:01 PM,3:24,Whiteside REBOUND (Off:1 Def:7),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,224,1,44,2,9:01 PM,3:20,Deng 2' Reverse Layup (9 PTS) (Wade 3 AST),,,43 - 38,-5,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,225,9,1,2,9:01 PM,3:20,,,Hornets Timeout: Regular (Reg.2 Short 0),,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,227,8,0,2,9:04 PM,3:20,,,SUB: Williams FOR Kaminsky,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,229,2,58,2,9:05 PM,3:04,,,MISS Jefferson 7' Turnaround Hook Shot,,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,230,4,0,2,9:05 PM,3:03,Deng REBOUND (Off:1 Def:3),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,231,1,50,2,9:05 PM,2:57,Wade  Running Dunk (12 PTS),,,43 - 40,-3,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,232,1,108,2,9:05 PM,2:42,,,Jefferson  Cutting Dunk Shot (6 PTS) (Lin 3 AST),45 - 40,-5,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,233,2,47,2,9:05 PM,2:21,MISS Whiteside 11' Turnaround Jump Shot,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,234,4,0,2,9:05 PM,2:20,,,Jefferson REBOUND (Off:1 Def:4),,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,235,5,2,2,9:06 PM,2:10,Johnson STEAL (2 STL),,Williams Lost Ball Turnover (P2.T8),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,236,6,26,2,9:06 PM,2:07,Richardson Offensive Charge Foul (P3.PN) (K.Fitzgerald),,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0041500125,237,5,5,2,9:06 PM,2:07,Richardson Foul Turnover (P1.T9),,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0041500125,238,8,0,2,9:06 PM,2:07,SUB: Dragic FOR Wade,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,239,8,0,2,9:06 PM,2:07,SUB: Winslow FOR Richardson,,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,240,1,3,2,9:07 PM,1:46,,,Jefferson 7' Hook Shot (8 PTS) (Lin 4 AST),47 - 40,-7,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,241,6,1,2,9:07 PM,1:36,,,Lee P.FOUL (P1.T3) (J.Phillips),,,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500125,242,6,27,2,9:07 PM,1:27,,,Lin Personal Block Foul (P1.PN) (D.Stafford),,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500125,243,3,11,2,9:08 PM,1:27,Deng Free Throw 1 of 2 (10 PTS),,,47 - 41,-6,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,245,8,0,2,9:08 PM,1:27,SUB: Wade FOR Winslow,,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,246,3,12,2,9:08 PM,1:27,Deng Free Throw 2 of 2 (11 PTS),,,47 - 42,-5,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,248,2,47,2,9:09 PM,1:06,,,MISS Lee 8' Turnaround Jump Shot,,,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,249,4,0,2,9:09 PM,1:05,Dragic REBOUND (Off:0 Def:3),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,250,1,1,2,9:09 PM,1:00,Johnson 13' Jump Shot (4 PTS),,,47 - 44,-3,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,251,2,1,2,9:09 PM,0:45,,,MISS Walker 11' Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,252,4,0,2,9:09 PM,0:44,Dragic REBOUND (Off:0 Def:4),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,253,6,1,2,9:09 PM,0:41,,,Lee P.FOUL (P2.PN) (D.Stafford),,,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500125,254,3,11,2,9:09 PM,0:41,Johnson Free Throw 1 of 2 (5 PTS),,,47 - 45,-2,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,256,8,0,2,9:09 PM,0:41,,,SUB: Batum FOR Lee,,,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,257,3,12,2,9:09 PM,0:41,MISS Johnson Free Throw 2 of 2,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,259,4,0,2,9:10 PM,0:40,,,Williams REBOUND (Off:0 Def:5),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,260,1,5,2,9:10 PM,0:29,,,Jefferson 1' Layup (10 PTS) (Lin 5 AST),49 - 45,-4,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,261,1,101,2,9:10 PM,0:16,Wade 4' Driving Floating Jump Shot (14 PTS),,,49 - 47,-2,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,262,2,5,2,9:10 PM,0:01,Whiteside BLOCK (3 BLK),,MISS Walker 3' Layup,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1
+0041500125,263,4,0,2,9:11 PM,0:00,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,264,13,0,2,9:11 PM,0:00,,,,49 - 47,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,266,12,0,3,9:29 PM,12:00,,,,49 - 47,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,267,1,1,3,9:29 PM,11:45,,,Jefferson 10' Jump Shot (12 PTS) (Walker 3 AST),51 - 47,-4,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,268,1,42,3,9:29 PM,11:25,Dragic 2' Driving Layup (8 PTS),,,51 - 49,-2,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,269,2,3,3,9:30 PM,11:09,,,MISS Lee 7' Hook Shot,,,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,270,4,0,3,9:30 PM,11:08,Wade REBOUND (Off:0 Def:2),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,271,5,2,3,9:30 PM,11:03,Wade Lost Ball Turnover (P4.T10),,Jefferson STEAL (1 STL),,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,272,1,1,3,9:30 PM,10:57,,,Williams 25' 3PT Jump Shot (12 PTS) (Lee 1 AST),54 - 49,-5,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,273,1,1,3,9:30 PM,10:32,Johnson 24' 3PT Jump Shot (8 PTS) (Deng 3 AST),,,54 - 52,-2,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,274,2,1,3,9:31 PM,10:14,,,MISS Jefferson 9' Jump Shot,,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,275,4,0,3,9:31 PM,10:13,Johnson REBOUND (Off:0 Def:3),,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,276,2,42,3,9:31 PM,10:01,MISS Deng 2' Driving Layup,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,277,4,0,3,9:31 PM,10:00,,,Williams REBOUND (Off:0 Def:6),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,278,1,1,3,9:31 PM,9:43,,,Kaminsky 25' 3PT Jump Shot (8 PTS) (Walker 4 AST),57 - 52,-5,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,279,2,1,3,9:32 PM,9:22,MISS Deng 25' 3PT Jump Shot,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,280,4,0,3,9:32 PM,9:21,,,Jefferson REBOUND (Off:1 Def:5),,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,281,2,1,3,9:32 PM,9:11,,,MISS Williams 20' Jump Shot,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,282,4,0,3,9:32 PM,9:10,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,283,2,80,3,9:32 PM,8:59,,,MISS Walker 25' 3PT Step Back Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,284,4,0,3,9:32 PM,8:58,Whiteside REBOUND (Off:1 Def:8),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,285,2,80,3,9:33 PM,8:40,MISS Wade 16' Step Back Jump Shot,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,286,4,0,3,9:33 PM,8:39,,,Walker REBOUND (Off:0 Def:2),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,287,2,79,3,9:33 PM,8:28,,,MISS Walker 14' Pullup Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,288,4,0,3,9:33 PM,8:27,Wade REBOUND (Off:0 Def:3),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,289,1,66,3,9:33 PM,8:18,Wade 12' Jump Bank Shot (16 PTS),,,57 - 54,-3,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,290,2,1,3,9:33 PM,7:55,,,MISS Lee 19' Jump Shot,,,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,291,4,0,3,9:34 PM,7:54,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,292,6,3,3,9:34 PM,7:54,,,Jefferson L.B.FOUL (P2.T1) (K.Fitzgerald),,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500125,293,1,66,3,9:34 PM,7:38,Dragic 4' Jump Bank Shot (10 PTS),,,57 - 56,-1,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,294,2,1,3,9:34 PM,7:09,,,MISS Lee 20' Jump Shot,,,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,295,4,0,3,9:35 PM,7:08,Johnson REBOUND (Off:0 Def:4),,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,296,6,2,3,9:35 PM,7:02,,,Kaminsky S.FOUL (P1.T2) (J.Phillips),,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500125,297,3,11,3,9:35 PM,7:02,Deng Free Throw 1 of 2 (12 PTS),,,57 - 57,TIE,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,315,8,0,3,9:35 PM,7:02,,,SUB: Lin FOR Walker,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,5,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,299,3,12,3,9:35 PM,7:02,Deng Free Throw 2 of 2 (13 PTS),,,57 - 58,1,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,301,2,3,3,9:36 PM,6:42,,,MISS Jefferson 9' Hook Shot,,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,303,4,0,3,9:36 PM,6:41,,,Williams REBOUND (Off:1 Def:6),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,302,2,97,3,9:36 PM,6:40,,,MISS Williams  Tip Layup Shot,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,304,4,0,3,9:36 PM,6:39,Dragic REBOUND (Off:0 Def:5),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,305,2,79,3,9:36 PM,6:34,MISS Dragic 9' Pullup Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,306,4,0,3,9:36 PM,6:32,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,307,6,1,3,9:37 PM,6:23,Dragic P.FOUL (P1.T1) (D.Stafford),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0041500125,317,8,0,3,9:38 PM,6:23,SUB: Richardson FOR Dragic,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,308,2,63,3,9:38 PM,6:07,,,MISS Kaminsky 11' Fadeaway Jumper,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,310,4,0,3,9:38 PM,6:04,,,Jefferson REBOUND (Off:2 Def:5),,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,309,2,97,3,9:38 PM,6:04,,,MISS Jefferson  Tip Layup Shot,,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,311,4,0,3,9:38 PM,6:03,Deng REBOUND (Off:1 Def:4),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,312,1,44,3,9:38 PM,5:55,Wade 3' Reverse Layup (18 PTS) (Johnson 3 AST),,,57 - 60,3,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,313,9,1,3,9:38 PM,5:55,,,Hornets Timeout: Regular (Reg.3 Short 0),,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,316,8,0,3,9:41 PM,5:55,,,SUB: Batum FOR Williams,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,318,5,40,3,9:41 PM,5:40,,,Lin Out of Bounds Lost Ball Turnover (P2.T9),,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,319,2,79,3,9:42 PM,5:29,MISS Wade 17' Pullup Jump Shot,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,320,4,0,3,9:42 PM,5:28,,,Kaminsky REBOUND (Off:0 Def:3),,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,321,2,80,3,9:42 PM,5:14,,,MISS Lin 17' Step Back Jump Shot,,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,322,4,0,3,9:42 PM,5:13,Wade REBOUND (Off:0 Def:4),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,323,2,1,3,9:42 PM,4:50,MISS Johnson 6' Jump Shot,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,324,4,0,3,9:42 PM,4:49,Whiteside REBOUND (Off:2 Def:8),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,325,1,72,3,9:42 PM,4:48,Whiteside 2' Putback Layup (8 PTS),,,57 - 62,5,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,327,2,1,3,9:43 PM,4:31,,,MISS Batum 24' 3PT Jump Shot,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,328,4,0,3,9:43 PM,4:30,Richardson REBOUND (Off:1 Def:2),,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,329,5,45,3,9:43 PM,4:19,Deng Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,330,8,0,3,9:43 PM,4:19,SUB: Winslow FOR Johnson,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,331,6,1,3,9:43 PM,4:11,Whiteside P.FOUL (P2.T2) (J.Phillips),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0041500125,332,1,1,3,9:44 PM,3:57,,,Jefferson 12' Jump Shot (14 PTS) (Batum 1 AST),59 - 62,3,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,333,6,2,3,9:44 PM,3:40,,,Lee S.FOUL (P3.T3) (D.Stafford),,,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500125,334,3,11,3,9:45 PM,3:40,MISS Wade Free Throw 1 of 2,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,335,4,1,3,9:45 PM,3:40,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,337,8,0,3,9:45 PM,3:40,,,SUB: Zeller FOR Jefferson,,,5.0,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,338,8,0,3,9:45 PM,3:40,SUB: McRoberts FOR Whiteside,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,339,3,12,3,9:45 PM,3:40,Wade Free Throw 2 of 2 (19 PTS),,,59 - 63,4,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,341,2,1,3,9:45 PM,3:24,,,MISS Lin 26' 3PT Jump Shot,,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,342,4,0,3,9:45 PM,3:23,Winslow REBOUND (Off:1 Def:4),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,343,2,1,3,9:46 PM,3:11,MISS Winslow 17' Jump Shot,,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,344,4,0,3,9:46 PM,3:10,,,Lin REBOUND (Off:0 Def:3),,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,345,1,50,3,9:46 PM,3:04,,,Zeller  Running Dunk (2 PTS) (Batum 2 AST),61 - 63,2,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,346,9,1,3,9:46 PM,2:56,HEAT Timeout: Regular (Full 3 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,348,8,0,3,9:48 PM,2:56,,,SUB: Walker FOR Lee,,,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,349,8,0,3,9:49 PM,2:56,SUB: Dragic FOR Wade,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,350,1,1,3,9:49 PM,2:42,Richardson 25' 3PT Jump Shot (3 PTS) (Winslow 1 AST),,,61 - 66,5,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,351,1,1,3,9:50 PM,2:18,,,Walker 25' 3PT Jump Shot (11 PTS),64 - 66,2,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,352,2,79,3,9:50 PM,2:04,MISS Deng 15' Pullup Jump Shot,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,353,4,0,3,9:50 PM,2:03,,,Kaminsky REBOUND (Off:0 Def:4),,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,354,2,101,3,9:50 PM,1:52,,,MISS Kaminsky 5' Driving Floating Jump Shot,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,355,4,0,3,9:50 PM,1:49,Dragic REBOUND (Off:0 Def:6),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,356,1,1,3,9:50 PM,1:43,Richardson 24' 3PT Jump Shot (6 PTS) (Dragic 2 AST),,,64 - 69,5,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,357,2,1,3,9:50 PM,1:29,,,MISS Walker 15' Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,358,4,0,3,9:50 PM,1:28,Richardson REBOUND (Off:1 Def:3),,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,359,5,39,3,9:51 PM,1:13,Richardson Step Out of Bounds Turnover (P2.T12),,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0041500125,360,8,0,3,9:51 PM,1:13,,,SUB: Hawes FOR Kaminsky,,,5.0,1626163,Frank Kaminsky,1610612766.0,Charlotte,Hornets,CHA,5,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,361,8,0,3,9:51 PM,1:13,SUB: Johnson FOR Deng,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,362,6,4,3,9:51 PM,0:59,,,Hawes OFF.Foul (P2) (D.Stafford),,,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500125,363,5,5,3,9:51 PM,0:59,,,Hawes Foul Turnover (P3.T10),,,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0041500125,364,1,1,3,9:52 PM,0:43,Johnson 14' Jump Shot (10 PTS),,,64 - 71,7,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,365,6,2,3,9:52 PM,0:32,Johnson S.FOUL (P2.T3) (J.Phillips),,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,5,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0041500125,366,3,11,3,9:53 PM,0:32,,,MISS Lin Free Throw 1 of 2,,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,367,4,1,3,9:53 PM,0:32,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,368,3,12,3,9:53 PM,0:32,,,Lin Free Throw 2 of 2 (7 PTS),65 - 71,6,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,370,2,1,3,9:54 PM,0:10,MISS Richardson 24' 3PT Jump Shot,,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,371,4,0,3,9:54 PM,0:09,,,Lin REBOUND (Off:0 Def:4),,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,372,2,3,3,9:54 PM,0:01,,,MISS Zeller 5' Hook Shot,,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,373,4,0,3,9:54 PM,0:00,Winslow REBOUND (Off:1 Def:5),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,374,18,1,3,9:54 PM,0:00,,,,,,,350,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500125,375,13,0,3,9:55 PM,0:00,,,,65 - 71,6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,377,12,0,4,9:58 PM,12:00,,,,65 - 71,6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,378,2,42,4,9:58 PM,11:36,MISS Dragic 2' Driving Layup,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,379,4,0,4,9:58 PM,11:35,,,Hawes REBOUND (Off:0 Def:4),,,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,380,1,71,4,9:58 PM,11:17,,,Lin 2' Finger Roll Layup (9 PTS),67 - 71,4,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,381,2,42,4,9:59 PM,10:59,MISS Winslow 2' Driving Layup,,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,382,4,0,4,9:59 PM,10:58,,,Zeller REBOUND (Off:1 Def:2),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,383,2,80,4,9:59 PM,10:37,,,MISS Walker 20' Step Back Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,384,4,0,4,9:59 PM,10:36,Winslow REBOUND (Off:1 Def:6),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,385,2,1,4,9:59 PM,10:23,MISS McRoberts 17' Jump Shot,,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,386,4,0,4,9:59 PM,10:22,,,Batum REBOUND (Off:0 Def:3),,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,387,2,1,4,10:00 PM,10:03,,,MISS Batum 24' 3PT Jump Shot,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,388,4,0,4,10:00 PM,10:02,Winslow REBOUND (Off:1 Def:7),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,389,2,78,4,10:00 PM,9:54,MISS Winslow 10' Floating Jump Shot,,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,390,4,0,4,10:00 PM,9:53,,,Walker REBOUND (Off:0 Def:3),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,391,2,1,4,10:00 PM,9:44,,,MISS Hawes 25' 3PT Jump Shot,,,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,392,4,0,4,10:00 PM,9:43,McRoberts REBOUND (Off:0 Def:2),,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,393,1,78,4,10:00 PM,9:28,Johnson 12' Floating Jump Shot (12 PTS),,,67 - 73,6,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,394,6,2,4,10:00 PM,9:28,,,Hawes S.FOUL (P3.T1) (K.Fitzgerald),,,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500125,395,3,10,4,10:01 PM,9:28,Johnson Free Throw 1 of 1 (13 PTS),,,67 - 74,7,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,397,1,101,4,10:01 PM,9:08,,,Walker 8' Driving Floating Jump Shot (13 PTS),69 - 74,5,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,398,6,2,4,10:01 PM,9:08,Dragic S.FOUL (P2.T1) (D.Stafford),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0041500125,399,3,10,4,10:01 PM,9:08,,,Walker Free Throw 1 of 1 (14 PTS),70 - 74,4,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,401,2,1,4,10:02 PM,8:56,MISS Dragic 17' Jump Shot,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,402,4,0,4,10:02 PM,8:55,,,Lin REBOUND (Off:0 Def:5),,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,403,2,42,4,10:02 PM,8:46,Winslow BLOCK (1 BLK),,MISS Walker 1' Driving Layup,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,1
+0041500125,404,4,0,4,10:02 PM,8:45,McRoberts REBOUND (Off:0 Def:3),,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,405,1,1,4,10:02 PM,8:40,Richardson 20' Jump Shot (8 PTS) (Dragic 3 AST),,,70 - 76,6,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,406,1,1,4,10:03 PM,8:13,,,Hawes 15' Jump Shot (6 PTS) (Zeller 1 AST),72 - 76,4,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,407,2,101,4,10:03 PM,7:50,MISS Richardson 6' Driving Floating Jump Shot,,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,408,4,0,4,10:03 PM,7:49,,,Walker REBOUND (Off:0 Def:4),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,409,5,2,4,10:03 PM,7:45,Dragic STEAL (2 STL),,Walker Lost Ball Turnover (P2.T11),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,410,2,1,4,10:03 PM,7:28,MISS Johnson 25' 3PT Jump Shot,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,411,4,0,4,10:03 PM,7:27,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,412,9,4,4,10:03 PM,7:27,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,414,18,0,4,10:04 PM,7:27,,,,,,,405,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500125,415,8,0,4,10:07 PM,7:27,,,SUB: Lee FOR Walker,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,5,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,416,8,0,4,10:07 PM,7:27,,,SUB: Williams FOR Hawes,,,5.0,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,417,8,0,4,10:07 PM,7:27,SUB: Wade FOR Johnson,,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,418,8,0,4,10:07 PM,7:27,SUB: Deng FOR Dragic,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,419,8,0,4,10:07 PM,7:27,SUB: Whiteside FOR McRoberts,,,,,4.0,201177,Josh McRoberts,1610612748.0,Miami,Heat,MIA,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,420,1,1,4,10:08 PM,7:09,,,Batum 24' 3PT Jump Shot (5 PTS) (Lin 6 AST),75 - 76,1,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,5,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,421,1,42,4,10:08 PM,6:49,Whiteside 2' Driving Layup (10 PTS),,,75 - 78,3,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,422,2,79,4,10:08 PM,6:37,,,MISS Lin 17' Pullup Jump Shot,,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,423,4,0,4,10:08 PM,6:36,Winslow REBOUND (Off:1 Def:8),,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,424,2,63,4,10:08 PM,6:14,MISS Wade 17' Fadeaway Jumper,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,425,4,0,4,10:08 PM,6:13,,,Williams REBOUND (Off:1 Def:7),,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,426,1,1,4,10:09 PM,6:00,,,Williams 20' Jump Shot (14 PTS) (Batum 3 AST),77 - 78,1,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,427,2,1,4,10:09 PM,5:40,MISS Deng 23' Jump Shot,,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,428,4,0,4,10:09 PM,5:39,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0041500125,429,6,3,4,10:09 PM,5:39,Whiteside L.B.FOUL (P3.T2) (D.Stafford),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0041500125,430,9,1,4,10:10 PM,5:39,HEAT Timeout: Regular (Full 4 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,432,8,0,4,10:12 PM,5:39,,,SUB: Walker FOR Lin,,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,434,1,1,4,10:13 PM,5:19,,,Batum 25' 3PT Jump Shot (8 PTS),80 - 78,-2,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,435,6,2,4,10:13 PM,5:01,,,Batum S.FOUL (P1.T2) (D.Stafford),,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,4,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500125,436,3,11,4,10:13 PM,5:01,MISS Whiteside Free Throw 1 of 2,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,437,4,1,4,10:13 PM,5:01,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,438,8,0,4,10:14 PM,5:01,SUB: Johnson FOR Winslow,,,,,4.0,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,4,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,439,3,12,4,10:14 PM,5:01,Whiteside Free Throw 2 of 2 (11 PTS),,,80 - 79,-1,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,441,6,2,4,10:14 PM,4:46,Whiteside S.FOUL (P4.T3) (D.Stafford),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0041500125,442,3,11,4,10:14 PM,4:46,,,Zeller Free Throw 1 of 2 (3 PTS),81 - 79,-2,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,444,3,12,4,10:15 PM,4:46,,,Zeller Free Throw 2 of 2 (4 PTS),82 - 79,-3,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0041500125,446,6,2,4,10:15 PM,4:38,,,Zeller S.FOUL (P3.T3) (D.Stafford),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0041500125,447,3,11,4,10:15 PM,4:38,Wade Free Throw 1 of 2 (20 PTS),,,82 - 80,-2,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,449,3,12,4,10:16 PM,4:38,Wade Free Throw 2 of 2 (21 PTS),,,82 - 81,-1,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0041500125,451,2,1,4,10:16 PM,4:14,,,MISS Walker 25' 3PT Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,452,4,0,4,10:16 PM,4:13,Whiteside REBOUND (Off:2 Def:9),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,453,5,1,4,10:16 PM,4:01,Wade Bad Pass Turnover (P5.T13),,Zeller STEAL (1 STL),,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,454,5,4,4,10:17 PM,3:45,,,Zeller Traveling Turnover (P1.T12),,,5.0,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0041500125,455,1,1,4,10:18 PM,3:23,Deng 24' 3PT Jump Shot (16 PTS) (Wade 4 AST),,,82 - 84,2,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0041500125,456,9,1,4,10:18 PM,3:23,,,Hornets Timeout: Regular (Reg.4 Short 0),,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,458,8,0,4,10:21 PM,3:23,,,SUB: Lin FOR Batum,,,5.0,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,5,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,460,1,1,4,10:21 PM,3:07,,,Williams 24' 3PT Jump Shot (17 PTS) (Walker 5 AST),85 - 84,-1,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,461,1,1,4,10:22 PM,2:51,Wade 10' Jump Shot (23 PTS),,,85 - 86,1,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,462,2,42,4,10:22 PM,2:38,Richardson BLOCK (2 BLK),,MISS Walker 2' Driving Layup,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,1
+0041500125,463,4,0,4,10:22 PM,2:37,Whiteside REBOUND (Off:2 Def:10),,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,464,1,79,4,10:22 PM,2:27,Wade 16' Pullup Jump Shot (25 PTS),,,85 - 88,3,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,465,1,1,4,10:22 PM,2:06,,,Lin 22' Jump Shot (11 PTS),87 - 88,1,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,466,2,1,4,10:23 PM,1:39,MISS Richardson 24' 3PT Jump Shot,,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,467,4,0,4,10:23 PM,1:38,,,Lin REBOUND (Off:0 Def:6),,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,468,2,1,4,10:23 PM,1:30,,,MISS Lin 25' 3PT Jump Shot,,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,469,4,0,4,10:23 PM,1:29,Deng REBOUND (Off:1 Def:5),,,,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,470,5,1,4,10:23 PM,1:09,Deng Bad Pass Turnover (P2.T14),,Walker STEAL (1 STL),,,4.0,2736,Luol Deng,1610612748.0,Miami,Heat,MIA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,471,2,42,4,10:23 PM,1:04,,,MISS Lee 2' Driving Layup,,,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,472,4,0,4,10:23 PM,1:03,Johnson REBOUND (Off:0 Def:5),,,,,4.0,2207,Joe Johnson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,473,9,1,4,10:24 PM,1:00,HEAT Timeout: Regular (Full 5 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,475,18,0,4,10:24 PM,1:00,,,,,,,465,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500125,478,2,1,4,10:26 PM,0:43,MISS Richardson 27' 3PT Jump Shot,,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,479,4,0,4,10:26 PM,0:42,,,Hornets Rebound,,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,480,2,1,4,10:27 PM,0:29,,,MISS Walker 16' Jump Shot,,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,481,4,0,4,10:27 PM,0:28,,,Lee REBOUND (Off:1 Def:0),,,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,482,1,1,4,10:27 PM,0:25,,,Lee 25' 3PT Jump Shot (8 PTS) (Lin 7 AST),90 - 88,-2,5.0,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,5,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0041500125,483,9,2,4,10:27 PM,0:25,HEAT Timeout: Short (Full 5 Short 1),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,484,8,0,4,10:28 PM,0:25,,,SUB: Batum FOR Lin,,,5.0,202391,Jeremy Lin,1610612766.0,Charlotte,Hornets,CHA,5,201587,Nicolas Batum,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,485,8,0,4,10:28 PM,0:25,SUB: Dragic FOR Richardson,,,,,4.0,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,4,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,486,2,1,4,10:29 PM,0:07,MISS Dragic  3PT Jump Shot,,Walker BLOCK (1 BLK),,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,1
+0041500125,487,4,0,4,10:29 PM,0:06,Wade REBOUND (Off:1 Def:4),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0041500125,490,2,40,4,10:29 PM,0:04,MISS Wade 2' Layup,,Lee BLOCK (1 BLK),,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,201584,Courtney Lee,1610612766.0,Charlotte,Hornets,CHA,1
+0041500125,491,4,0,4,10:29 PM,0:03,,,Walker REBOUND (Off:0 Def:5),,,5.0,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0041500125,488,6,1,4,10:29 PM,0:02,Dragic P.FOUL (P3.T4) (J.Phillips),,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0041500125,489,9,1,4,10:30 PM,0:02,,,Hornets Timeout: Regular (Reg.5 Short 0),,,3.0,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0041500125,492,8,0,4,10:31 PM,0:02,,,SUB: Hawes FOR Williams,,,5.0,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,201150,Spencer Hawes,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0041500125,494,8,0,4,10:31 PM,0:02,SUB: Winslow FOR Whiteside,,,,,4.0,202355,Hassan Whiteside,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,495,8,0,4,10:31 PM,0:02,SUB: Richardson FOR Dragic,,,,,4.0,201609,Goran Dragic,1610612748.0,Miami,Heat,MIA,4,1626196,Josh Richardson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0041500125,497,18,1,4,10:32 PM,0:02,,,,,,,498,,,,,,0,0,,,,,,1,0,,,,,,0
+0041500125,501,13,0,4,10:35 PM,0:00,,,,90 - 88,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0

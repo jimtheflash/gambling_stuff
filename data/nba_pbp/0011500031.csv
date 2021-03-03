@@ -1,0 +1,469 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011500031,0,12,0,1,7:11 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,1,10,0,1,7:11 PM,12:00,Jump Ball Gortat vs. Lopez: Tip to Calderon,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0
+0011500031,2,1,1,1,7:12 PM,11:45,,,Calderon 26' 3PT Jump Shot (3 PTS) (Anthony 1 AST),3 - 0,-3,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,3,2,1,1,7:12 PM,11:23,"MISS Porter, Jr. 24' 3PT Jump Shot",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,4,4,0,1,7:12 PM,11:22,Gortat REBOUND (Off:1 Def:0),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,5,1,5,1,7:12 PM,11:12,Humphries 1' Layup (2 PTS),,,3 - 2,-1,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,6,2,1,1,7:12 PM,10:55,,,MISS Vujacic 27' 3PT Jump Shot,,,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,7,4,0,1,7:12 PM,10:54,Gortat REBOUND (Off:1 Def:1),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,8,2,1,1,7:13 PM,10:36,MISS Humphries 25' 3PT Jump Shot,,,,,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,9,4,0,1,7:13 PM,10:36,,,Porzingis REBOUND (Off:0 Def:1),,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,10,2,1,1,7:13 PM,10:19,,,MISS Porzingis 18' Jump Shot,,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,11,4,0,1,7:13 PM,10:19,Gortat REBOUND (Off:1 Def:2),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,12,1,1,1,7:13 PM,10:03,"Porter, Jr. 22' Jump Shot (2 PTS) (Humphries 1 AST)",,,3 - 4,1,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,13,1,1,1,7:14 PM,9:46,,,Porzingis 20' Jump Shot (2 PTS) (Anthony 2 AST),5 - 4,-1,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,14,2,1,1,7:14 PM,9:38,MISS Beal 20' Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,15,4,0,1,7:14 PM,9:38,,,Porzingis REBOUND (Off:0 Def:2),,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,16,2,1,1,7:14 PM,9:21,,,MISS Anthony 15' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,17,4,0,1,7:14 PM,9:20,,,Porzingis REBOUND (Off:1 Def:2),,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,18,5,2,1,7:14 PM,9:16,Humphries STEAL (1 STL),,Porzingis Lost Ball Turnover (P1.T1),,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,19,1,49,1,7:14 PM,9:02,Gortat  Driving Dunk (2 PTS) (Wall 1 AST),,,5 - 6,1,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,20,1,1,1,7:14 PM,8:51,,,Porzingis 26' 3PT Jump Shot (5 PTS) (Calderon 1 AST),8 - 6,-2,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,21,1,63,1,7:15 PM,8:36,Wall 16' Fadeaway Jumper (2 PTS),,,8 - 8,TIE,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,22,1,1,1,7:15 PM,8:17,,,Anthony 16' Jump Shot (2 PTS),10 - 8,-2,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,24,5,2,1,7:16 PM,7:57,Beal Lost Ball Turnover (P1.T1),,Lopez STEAL (1 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,25,2,5,1,7:16 PM,7:46,,,MISS Porzingis 1' Layup,,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,26,4,0,1,7:16 PM,7:45,Humphries REBOUND (Off:0 Def:1),,,,,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,27,2,1,1,7:16 PM,7:40,MISS Beal 26' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,28,4,0,1,7:16 PM,7:39,"Porter, Jr. REBOUND (Off:1 Def:0)",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,29,1,1,1,7:16 PM,7:34,"Wall 25' 3PT Jump Shot (5 PTS) (Porter, Jr. 1 AST)",,,10 - 11,1,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,30,1,57,1,7:16 PM,7:20,,,Lopez 9' Driving Hook Shot (2 PTS),12 - 11,-1,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,31,6,1,1,7:17 PM,7:14,,,Calderon P.FOUL (P1.T1) (M.Callahan),,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,33,6,1,1,7:17 PM,7:13,,,Vujacic P.FOUL (P1.T2) (T.Ford),,,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,34,6,4,1,7:17 PM,7:13,Beal OFF.Foul (P1) (J.Williams),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,35,5,5,1,7:17 PM,7:13,Beal Foul Turnover (P2.T2),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011500031,36,1,71,1,7:18 PM,7:01,,,Calderon  Finger Roll Layup (5 PTS),14 - 11,-3,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,37,1,63,1,7:18 PM,6:43,Gortat 16' Fadeaway Jumper (4 PTS) (Beal 1 AST),,,14 - 13,-1,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,38,2,5,1,7:18 PM,6:25,,,MISS Anthony 1' Layup,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,39,4,0,1,7:18 PM,6:25,,,Anthony REBOUND (Off:1 Def:0),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,40,1,72,1,7:18 PM,6:22,,,Anthony 2' Putback Layup (4 PTS),16 - 13,-3,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,41,2,1,1,7:18 PM,6:12,MISS Wall 19' Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,42,4,0,1,7:18 PM,6:12,,,Porzingis REBOUND (Off:1 Def:3),,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,43,6,1,1,7:18 PM,6:09,Wall P.FOUL (P1.T1) (J.Williams),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,44,8,0,1,7:19 PM,6:09,,,SUB: O'Quinn FOR Lopez,,,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,46,2,1,1,7:19 PM,5:55,,,MISS O'Quinn 17' Jump Shot,,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,47,4,0,1,7:19 PM,5:54,Beal REBOUND (Off:0 Def:1),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,48,1,5,1,7:19 PM,5:48,Gortat 2' Layup (6 PTS) (Wall 2 AST),,,16 - 15,-1,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,49,2,1,1,7:19 PM,5:38,,,MISS Anthony 26' 3PT Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,50,4,0,1,7:19 PM,5:37,Beal REBOUND (Off:0 Def:2),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,51,2,1,1,7:19 PM,5:28,MISS Humphries 26' 3PT Jump Shot,,,,,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,52,4,0,1,7:19 PM,5:27,,,O'Quinn REBOUND (Off:0 Def:1),,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,53,5,40,1,7:20 PM,5:11,,,Anthony Out of Bounds Lost Ball Turnover (P1.T2),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011500031,54,9,1,1,7:20 PM,5:11,WIZARDS Timeout: Regular (Full 1 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,56,1,1,1,7:23 PM,4:54,Beal 26' 3PT Jump Shot (3 PTS) (Wall 3 AST),,,16 - 18,2,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,57,5,2,1,7:24 PM,4:39,Wall STEAL (1 STL),,Calderon Lost Ball Turnover (P1.T3),,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,58,10,0,1,7:24 PM,4:37,Jump Ball Wall vs. Calderon: Tip to Gortat,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0
+0011500031,60,2,1,1,7:24 PM,4:29,MISS Wall 26' 3PT Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,61,4,0,1,7:24 PM,4:29,,,Porzingis REBOUND (Off:1 Def:4),,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,62,5,40,1,7:25 PM,4:10,,,Vujacic Out of Bounds Lost Ball Turnover (P1.T4),,,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011500031,63,8,0,1,7:25 PM,4:10,,,SUB: Galloway FOR Calderon,,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,64,8,0,1,7:25 PM,4:10,SUB: Sessions FOR Wall,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,65,6,4,1,7:25 PM,4:03,Gortat OFF.Foul (P1) (T.Ford),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,66,5,5,1,7:25 PM,4:03,Gortat Foul Turnover (P1.T3),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011500031,67,8,0,1,7:25 PM,4:03,,,SUB: Grant FOR Vujacic,,,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,68,1,1,1,7:26 PM,3:47,,,Galloway 17' Jump Shot (2 PTS) (Anthony 3 AST),18 - 18,TIE,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,69,2,5,1,7:26 PM,3:36,MISS Sessions 2' Layup,,Porzingis BLOCK (1 BLK),,,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0
+0011500031,70,4,0,1,7:26 PM,3:36,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,72,1,1,1,7:26 PM,3:22,"Humphries 24' 3PT Jump Shot (5 PTS) (Porter, Jr. 2 AST)",,,18 - 21,3,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,73,6,1,1,7:27 PM,3:06,"Porter, Jr. P.FOUL (P1.T2) (M.Callahan)",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,74,8,0,1,7:27 PM,3:06,"SUB: Oubre, Jr. FOR Humphries",,,,,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,75,8,0,1,7:27 PM,3:06,,,SUB: Thomas FOR Anthony,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,5,202498,Lance Thomas,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,76,8,0,1,7:27 PM,3:06,,,SUB: Early FOR Porzingis,,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,78,9,1,1,7:28 PM,2:57,,,Knicks Timeout: Regular (Reg.1 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,80,8,0,1,7:30 PM,2:57,SUB: Neal FOR Beal,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,81,2,1,1,7:30 PM,2:53,,,MISS Grant 18' Jump Shot,,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,82,4,0,1,7:30 PM,2:53,Gortat REBOUND (Off:1 Def:3),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,83,2,1,1,7:31 PM,2:41,"MISS Oubre, Jr. 4' Jump Shot",,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,84,4,0,1,7:31 PM,2:40,,,Galloway REBOUND (Off:0 Def:1),,,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,85,2,1,1,7:31 PM,2:26,,,MISS Thomas 25' 3PT Jump Shot,,,5,202498,Lance Thomas,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,86,4,0,1,7:31 PM,2:25,"Oubre, Jr. REBOUND (Off:0 Def:1)",,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,87,2,1,1,7:31 PM,2:07,MISS Sessions 7' Jump Shot,,,,,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,88,4,0,1,7:31 PM,2:07,,,O'Quinn REBOUND (Off:0 Def:2),,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,89,2,1,1,7:31 PM,1:54,,,MISS O'Quinn 15' Jump Shot,,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,90,4,0,1,7:31 PM,1:54,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,91,8,0,1,7:32 PM,1:54,SUB: Nene FOR Gortat,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,92,2,1,1,7:32 PM,1:47,,,MISS Grant 20' Jump Shot,,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,93,4,0,1,7:32 PM,1:47,,,Grant REBOUND (Off:1 Def:0),,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,94,2,1,1,7:32 PM,1:34,,,MISS Early 22' Jump Shot,,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,95,4,0,1,7:32 PM,1:34,Sessions REBOUND (Off:0 Def:1),,,,,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,96,1,76,1,7:32 PM,1:28,Nene 2' Running Finger Roll Layup (2 PTS) (Sessions 1 AST),,,18 - 23,5,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,97,1,42,1,7:33 PM,1:08,,,O'Quinn 1' Driving Layup (2 PTS) (Galloway 1 AST),20 - 23,3,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,98,2,1,1,7:33 PM,0:57,MISS Nene 18' Jump Shot,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,99,4,0,1,7:33 PM,0:56,,,Early REBOUND (Off:0 Def:1),,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,100,5,1,1,7:33 PM,0:38,Neal STEAL (1 STL),,Early Bad Pass Turnover (P1.T5),,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,101,1,42,1,7:33 PM,0:32,Sessions  Driving Layup (2 PTS),,,20 - 25,5,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,102,6,2,1,7:33 PM,0:32,,,Early S.FOUL (P1.T3) (J.Williams),,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,103,3,10,1,7:33 PM,0:32,Sessions Free Throw 1 of 1 (3 PTS),,,20 - 26,6,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,105,6,2,1,7:34 PM,0:19,"Porter, Jr. S.FOUL (P2.T3) (T.Ford)",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,106,3,11,1,7:34 PM,0:19,,,Grant Free Throw 1 of 2 (1 PTS),21 - 26,5,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,108,3,12,1,7:34 PM,0:19,,,Grant Free Throw 2 of 2 (2 PTS),22 - 26,4,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,110,5,4,1,7:35 PM,0:04,"Oubre, Jr. Traveling Turnover (P1.T4)",,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011500031,111,5,2,1,7:35 PM,0:01,Nene STEAL (1 STL),,Grant Lost Ball Turnover (P1.T6),,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,112,13,0,1,7:35 PM,0:00,,,,22 - 26,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,114,12,0,2,7:38 PM,12:00,,,,22 - 26,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,115,1,1,2,7:38 PM,11:45,Neal 16' Jump Shot (2 PTS) (Nene 1 AST),,,22 - 28,6,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,116,6,4,2,7:39 PM,11:25,,,O'Quinn OFF.Foul (P1) (T.Ford),,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,117,5,5,2,7:39 PM,11:25,,,O'Quinn Foul Turnover (P1.T7),,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011500031,118,8,0,2,7:39 PM,11:25,"SUB: Harrellson FOR Porter, Jr.",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,119,2,1,2,7:39 PM,11:12,"MISS Oubre, Jr. 27' 3PT Jump Shot",,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,120,4,0,2,7:39 PM,11:11,,,Grant REBOUND (Off:1 Def:1),,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,121,1,76,2,7:39 PM,11:07,,,Early  Running Finger Roll Layup (2 PTS) (Grant 1 AST),24 - 28,4,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,122,6,2,2,7:40 PM,10:45,,,Thomas S.FOUL (P1.T1) (J.Williams),,,5,202498,Lance Thomas,1610612752.0,New York,Knicks,NYK,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,123,3,11,2,7:40 PM,10:45,MISS Harrellson Free Throw 1 of 2,,,,,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,124,4,1,2,7:40 PM,10:45,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,125,8,0,2,7:40 PM,10:45,,,SUB: Williams FOR Thomas,,,5,202498,Lance Thomas,1610612752.0,New York,Knicks,NYK,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,126,3,12,2,7:40 PM,10:45,Harrellson Free Throw 2 of 2 (1 PTS),,,24 - 29,5,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,129,1,86,2,7:41 PM,10:32,,,Williams 15' Turnaround Fadeaway (2 PTS) (O'Quinn 1 AST),26 - 29,3,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,130,2,1,2,7:41 PM,10:18,MISS Sessions 7' Jump Shot,,,,,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,131,4,0,2,7:41 PM,10:18,,,O'Quinn REBOUND (Off:0 Def:3),,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,132,2,1,2,7:41 PM,10:12,,,MISS Williams 24' 3PT Jump Shot,,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,133,4,0,2,7:41 PM,10:10,"Oubre, Jr. REBOUND (Off:0 Def:2)",,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,134,6,1,2,7:41 PM,10:04,,,Early P.FOUL (P2.T2) (M.Callahan),,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,135,9,1,2,7:41 PM,10:04,WIZARDS Timeout: Regular (Full 2 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,137,1,78,2,7:44 PM,9:55,Neal 5' Floating Jump Shot (4 PTS),,,26 - 31,5,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,138,6,2,2,7:44 PM,9:31,Harrellson S.FOUL (P1.T1) (J.Williams),,,,,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,139,3,11,2,7:45 PM,9:31,,,Williams Free Throw 1 of 2 (3 PTS),27 - 31,4,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,141,3,12,2,7:45 PM,9:31,,,Williams Free Throw 2 of 2 (4 PTS),28 - 31,3,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,144,5,45,2,7:45 PM,9:22,Sessions Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011500031,145,5,1,2,7:46 PM,9:06,Sessions STEAL (1 STL),,Williams Bad Pass Turnover (P1.T8),,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,146,2,1,2,7:46 PM,8:57,MISS Neal 10' Jump Shot,,,,,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,147,4,0,2,7:46 PM,8:56,,,O'Quinn REBOUND (Off:0 Def:4),,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,148,2,1,2,7:46 PM,8:38,,,MISS Early 27' 3PT Jump Shot,,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,149,4,0,2,7:46 PM,8:37,,,O'Quinn REBOUND (Off:1 Def:4),,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,150,6,2,2,7:46 PM,8:35,"Oubre, Jr. S.FOUL (P1.T2) (M.Callahan)",,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,151,3,11,2,7:46 PM,8:35,,,O'Quinn Free Throw 1 of 2 (3 PTS),29 - 31,2,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,153,3,12,2,7:47 PM,8:35,,,O'Quinn Free Throw 2 of 2 (4 PTS),30 - 31,1,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,156,6,1,2,7:47 PM,8:29,,,Galloway P.FOUL (P1.T3) (T.Ford),,,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,157,1,1,2,7:47 PM,8:16,Nene 13' Jump Shot (4 PTS),,,30 - 33,3,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,158,1,80,2,7:48 PM,8:04,,,Galloway 28' 3PT Step Back Jump Shot (5 PTS),33 - 33,TIE,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,159,1,5,2,7:48 PM,7:50,Sessions  Layup (5 PTS),,,33 - 35,2,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,160,2,1,2,7:48 PM,7:38,,,MISS Williams 26' 3PT Jump Shot,,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,161,4,0,2,7:48 PM,7:38,Neal REBOUND (Off:0 Def:1),,,,,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,162,1,79,2,7:48 PM,7:30,Neal 20' Pullup Jump Shot (6 PTS),,,33 - 37,4,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,163,6,1,2,7:49 PM,7:18,Harrellson P.FOUL (P2.T3) (T.Ford),,,,,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,164,8,0,2,7:49 PM,7:18,,,SUB: Lopez FOR O'Quinn,,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,165,6,4,2,7:49 PM,7:11,,,Lopez OFF.Foul (P1) (M.Callahan),,,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,166,5,5,2,7:49 PM,7:11,,,Lopez Foul Turnover (P1.T9),,,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011500031,167,2,1,2,7:50 PM,6:51,MISS Harrellson 27' 3PT Jump Shot,,,,,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,168,4,0,2,7:50 PM,6:51,,,Early REBOUND (Off:0 Def:2),,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,169,2,1,2,7:50 PM,6:43,,,MISS Grant 7' Jump Shot,,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,170,4,0,2,7:50 PM,6:42,Harrellson REBOUND (Off:0 Def:1),,,,,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,171,2,5,2,7:50 PM,6:38,MISS Sessions 1' Layup,,,,,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,172,4,0,2,7:50 PM,6:36,,,Williams REBOUND (Off:0 Def:1),,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,173,1,71,2,7:50 PM,6:31,,,Early 2' Finger Roll Layup (4 PTS),35 - 37,2,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,174,5,4,2,7:50 PM,6:28,Neal Traveling Turnover (P1.T6),,,,,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011500031,176,2,1,2,7:50 PM,6:22,,,MISS Lopez 14' Jump Shot,,,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,177,4,0,2,7:50 PM,6:22,,,Williams REBOUND (Off:1 Def:1),,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,178,1,5,2,7:50 PM,6:18,,,Williams 1' Layup (6 PTS),37 - 37,TIE,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,179,1,42,2,7:51 PM,6:01,Nene 2' Driving Layup (6 PTS),,,37 - 39,2,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,180,6,2,2,7:51 PM,5:56,Harrellson S.FOUL (P3.T4) (T.Ford),,,,,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,181,9,4,2,7:51 PM,5:56,,,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,183,8,0,2,7:53 PM,5:56,SUB: Wall FOR Sessions,,,,,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,184,8,0,2,7:53 PM,5:56,SUB: Beal FOR Neal,,,,,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,185,8,0,2,7:53 PM,5:56,,,SUB: Calderon FOR Galloway,,,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,186,8,0,2,7:53 PM,5:56,,,SUB: Anthony FOR Early,,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,187,3,11,2,7:53 PM,5:56,,,Williams Free Throw 1 of 2 (7 PTS),38 - 39,1,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,189,3,12,2,7:54 PM,5:56,,,Williams Free Throw 2 of 2 (8 PTS),39 - 39,TIE,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,192,5,2,2,7:54 PM,5:38,Wall Lost Ball Turnover (P1.T7),,Williams STEAL (1 STL),,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,193,5,1,2,7:55 PM,5:36,Nene STEAL (2 STL),,Williams Bad Pass Turnover (P2.T10),,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,194,6,3,2,7:55 PM,5:36,,,Williams L.B.FOUL (P1.T4) (J.Williams),,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,195,8,0,2,7:55 PM,5:36,"SUB: Porter, Jr. FOR Oubre, Jr.",,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,196,2,1,2,7:55 PM,5:21,MISS Beal 14' Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,197,4,0,2,7:55 PM,5:20,,,Williams REBOUND (Off:1 Def:2),,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,198,2,5,2,7:55 PM,5:13,,,MISS Grant 2' Layup,,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,199,4,0,2,7:55 PM,5:12,,,Lopez REBOUND (Off:1 Def:0),,,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,200,2,5,2,7:55 PM,5:09,,,MISS Lopez 1' Layup,,,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,201,4,0,2,7:55 PM,5:08,"Porter, Jr. REBOUND (Off:1 Def:1)",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,202,2,5,2,7:55 PM,5:03,MISS Harrellson 1' Layup,,,,,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,203,4,0,2,7:55 PM,5:02,Harrellson REBOUND (Off:1 Def:1),,,,,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,204,1,5,2,7:55 PM,5:00,Harrellson 1' Layup (3 PTS),,,39 - 41,2,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,206,1,5,2,7:55 PM,4:50,,,Williams 1' Layup (10 PTS) (Calderon 2 AST),41 - 41,TIE,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,208,1,1,2,7:56 PM,4:28,Harrellson 26' 3PT Jump Shot (6 PTS),,,41 - 44,3,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,209,5,40,2,7:56 PM,4:28,,,Williams Out of Bounds Lost Ball Turnover (P3.T11),,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011500031,210,8,0,2,7:56 PM,4:28,SUB: Gortat FOR Nene,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,211,8,0,2,7:56 PM,4:28,SUB: Humphries FOR Harrellson,,,,,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,212,8,0,2,7:56 PM,4:28,,,SUB: Vujacic FOR Grant,,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,213,1,1,2,7:56 PM,4:16,Wall 18' Jump Shot (7 PTS),,,41 - 46,5,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,214,5,4,2,7:57 PM,4:02,,,Anthony Traveling Turnover (P2.T12),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011500031,215,8,0,2,7:57 PM,4:02,,,SUB: Porzingis FOR Williams,,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,216,1,63,2,7:57 PM,3:49,Beal 17' Fadeaway Jumper (5 PTS) (Gortat 1 AST),,,41 - 48,7,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,217,1,1,2,7:57 PM,3:33,,,Anthony 18' Jump Shot (6 PTS) (Calderon 3 AST),43 - 48,5,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,218,2,1,2,7:58 PM,3:22,MISS Wall 7' Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,219,4,0,2,7:58 PM,3:21,,,Vujacic REBOUND (Off:0 Def:1),,,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,220,1,1,2,7:58 PM,3:14,,,Anthony 21' Jump Shot (8 PTS),45 - 48,3,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,221,5,1,2,7:58 PM,3:12,Humphries Bad Pass Turnover (P1.T8),,Calderon STEAL (1 STL),,,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,222,5,39,2,7:58 PM,3:05,,,Porzingis Step Out of Bounds Turnover (P2.T13),,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011500031,223,2,1,2,7:58 PM,2:52,MISS Beal 17' Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,224,4,0,2,7:58 PM,2:52,Beal REBOUND (Off:1 Def:2),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,225,2,1,2,7:59 PM,2:42,MISS Wall 18' Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,226,4,0,2,7:59 PM,2:42,,,Porzingis REBOUND (Off:1 Def:5),,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,228,6,1,2,7:59 PM,2:36,Gortat P.FOUL (P2.PN) (M.Callahan),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,229,9,1,2,7:59 PM,2:36,,,Knicks Timeout: Regular (Reg.2 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,231,3,11,2,8:01 PM,2:36,,,Lopez Free Throw 1 of 2 (3 PTS),46 - 48,2,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,233,3,12,2,8:02 PM,2:36,,,Lopez Free Throw 2 of 2 (4 PTS),47 - 48,1,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,236,6,17,2,8:02 PM,2:22,,,Knicks T.Foul (Def. 3 Sec Porzingis ) (T.Ford),,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011500031,237,3,16,2,8:02 PM,2:22,Beal Free Throw Technical (6 PTS),,,47 - 49,2,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,239,2,1,2,8:03 PM,2:12,MISS Gortat 12' Jump Shot,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,240,4,0,2,8:03 PM,2:11,,,Calderon REBOUND (Off:0 Def:1),,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,241,6,1,2,8:03 PM,2:05,Wall P.FOUL (P2.PN) (J.Williams),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,242,3,11,2,8:03 PM,2:05,,,Calderon Free Throw 1 of 2 (6 PTS),48 - 49,1,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,244,3,12,2,8:03 PM,2:05,,,Calderon Free Throw 2 of 2 (7 PTS),49 - 49,TIE,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,247,2,1,2,8:04 PM,1:52,MISS Beal 11' Jump Shot,,Vujacic BLOCK (1 BLK),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,0
+0011500031,248,4,0,2,8:04 PM,1:51,Beal REBOUND (Off:2 Def:2),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,249,1,1,2,8:04 PM,1:48,Beal 7' Jump Shot (8 PTS),,,49 - 51,2,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,250,2,1,2,8:04 PM,1:41,,,MISS Calderon 18' Jump Shot,,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,251,4,0,2,8:04 PM,1:41,,,Lopez REBOUND (Off:2 Def:0),,,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,252,6,2,2,8:04 PM,1:38,Gortat S.FOUL (P3.PN) (J.Williams),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,253,3,11,2,8:04 PM,1:38,,,MISS Lopez Free Throw 1 of 2,,,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,254,4,1,2,8:04 PM,1:38,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,255,3,12,2,8:04 PM,1:38,,,Lopez Free Throw 2 of 2 (5 PTS),50 - 51,1,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,257,2,5,2,8:05 PM,1:23,MISS Humphries 1' Layup,,Porzingis BLOCK (2 BLK),,,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0
+0011500031,258,4,0,2,8:05 PM,1:22,,,Anthony REBOUND (Off:1 Def:1),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,259,2,1,2,8:05 PM,1:11,,,MISS Anthony 17' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,260,4,0,2,8:05 PM,1:10,,,Porzingis REBOUND (Off:2 Def:5),,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,261,1,1,2,8:05 PM,1:05,,,Anthony 19' Jump Shot (10 PTS) (Porzingis 1 AST),52 - 51,-1,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,262,2,1,2,8:05 PM,0:54,MISS Humphries  3PT Jump Shot,,,,,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,263,4,0,2,8:05 PM,0:53,,,Lopez REBOUND (Off:2 Def:1),,,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,265,1,1,2,8:05 PM,0:43,,,Vujacic 25' 3PT Jump Shot (3 PTS) (Calderon 4 AST),55 - 51,-4,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,266,1,78,2,8:06 PM,0:36,Wall 6' Floating Jump Shot (9 PTS),,,55 - 53,-2,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,267,1,79,2,8:06 PM,0:31,,,Calderon 25' 3PT Pullup Jump Shot (10 PTS),58 - 53,-5,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,268,1,76,2,8:06 PM,0:25,Gortat 1' Running Finger Roll Layup (8 PTS) (Wall 4 AST),,,58 - 55,-3,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,269,9,2,2,8:06 PM,0:20,,,Knicks Timeout: Short (Reg.2 Short 1),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,271,1,86,2,8:08 PM,0:01,,,Anthony 18' Turnaround Fadeaway (12 PTS) (Calderon 5 AST),60 - 55,-5,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,272,2,1,2,8:08 PM,0:00,MISS Beal 36' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,273,4,0,2,8:08 PM,0:00,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,274,13,0,2,8:08 PM,0:00,,,,60 - 55,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,276,12,0,3,8:24 PM,12:00,,,,60 - 55,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,277,2,1,3,8:25 PM,11:38,"MISS Porter, Jr. 16' Jump Shot",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,278,4,0,3,8:25 PM,11:37,,,Vujacic REBOUND (Off:0 Def:2),,,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,279,1,63,3,8:25 PM,11:14,,,Anthony 21' Fadeaway Jumper (14 PTS),62 - 55,-7,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,280,2,1,3,8:25 PM,11:04,MISS Humphries 25' 3PT Jump Shot,,,,,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,281,4,0,3,8:25 PM,11:03,,,Vujacic REBOUND (Off:0 Def:3),,,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,282,2,5,3,8:25 PM,10:46,,,MISS Porzingis  Layup,,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,283,4,0,3,8:25 PM,10:46,Gortat REBOUND (Off:1 Def:4),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,284,2,1,3,8:26 PM,10:30,"MISS Porter, Jr. 9' Jump Shot",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,285,4,0,3,8:26 PM,10:30,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,286,6,3,3,8:26 PM,10:30,,,Vujacic L.B.FOUL (P2.T1) (T.Ford),,,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,287,5,40,3,8:26 PM,10:16,Beal Out of Bounds Lost Ball Turnover (P3.T9),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011500031,288,5,1,3,8:26 PM,10:15,"Porter, Jr. STEAL (1 STL)",,Calderon Bad Pass Turnover (P2.T14),,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,289,2,5,3,8:26 PM,10:12,"MISS Porter, Jr. 2' Layup",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,290,4,0,3,8:26 PM,10:11,,,Anthony REBOUND (Off:1 Def:2),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,291,6,1,3,8:27 PM,10:07,Beal P.FOUL (P2.T1) (M.Callahan),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,292,6,1,3,8:27 PM,10:05,Beal P.FOUL (P3.T2) (T.Ford),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,293,2,1,3,8:27 PM,9:56,,,MISS Anthony 25' 3PT Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,294,4,0,3,8:27 PM,9:55,Beal REBOUND (Off:2 Def:3),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,295,5,7,3,8:28 PM,9:48,Wall Discontinue Dribble Turnover (P2.T10),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011500031,297,2,1,3,8:28 PM,9:30,,,MISS Lopez 9' Jump Shot,,,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,298,4,0,3,8:28 PM,9:29,,,Anthony REBOUND (Off:2 Def:2),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,300,2,1,3,8:28 PM,9:19,,,MISS Vujacic 12' Jump Shot,,,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,301,4,0,3,8:28 PM,9:18,Wall REBOUND (Off:0 Def:1),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,302,5,45,3,8:29 PM,9:13,"Porter, Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T11)",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011500031,303,1,1,3,8:29 PM,9:01,,,Porzingis 14' Jump Shot (7 PTS) (Calderon 6 AST),64 - 55,-9,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,304,2,1,3,8:29 PM,8:44,"MISS Porter, Jr. 21' Jump Shot",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,305,4,0,3,8:29 PM,8:42,,,Porzingis REBOUND (Off:2 Def:6),,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,306,1,79,3,8:29 PM,8:34,,,Anthony 20' Pullup Jump Shot (16 PTS),66 - 55,-11,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,307,9,1,3,8:29 PM,8:34,WIZARDS Timeout: Regular (Full 3 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,309,1,3,3,8:32 PM,8:17,Gortat 8' Hook Shot (10 PTS) (Beal 2 AST),,,66 - 57,-9,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,310,2,1,3,8:33 PM,7:52,,,MISS Calderon 19' Jump Shot,,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,311,4,0,3,8:33 PM,7:51,Beal REBOUND (Off:2 Def:4),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,312,2,5,3,8:33 PM,7:44,MISS Gortat 1' Layup,,Anthony BLOCK (1 BLK),,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0
+0011500031,313,4,0,3,8:33 PM,7:42,,,Porzingis REBOUND (Off:2 Def:7),,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,314,1,1,3,8:33 PM,7:37,,,Vujacic 26' 3PT Jump Shot (6 PTS) (Calderon 7 AST),69 - 57,-12,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,315,2,1,3,8:33 PM,7:16,MISS Beal 26' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,316,4,0,3,8:33 PM,7:16,,,Vujacic REBOUND (Off:0 Def:4),,,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,317,1,1,3,8:33 PM,7:10,,,Anthony 25' 3PT Jump Shot (19 PTS) (Vujacic 1 AST),72 - 57,-15,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,318,1,79,3,8:34 PM,6:58,Wall 15' Pullup Jump Shot (11 PTS),,,72 - 59,-13,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,319,2,1,3,8:34 PM,6:44,,,MISS Porzingis 6' Jump Shot,,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,320,4,0,3,8:34 PM,6:43,,,Porzingis REBOUND (Off:3 Def:7),,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,321,1,79,3,8:34 PM,6:39,,,Anthony 17' Pullup Jump Shot (21 PTS) (Porzingis 2 AST),74 - 59,-15,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,322,1,1,3,8:34 PM,6:28,"Porter, Jr. 20' Jump Shot (4 PTS)",,,74 - 61,-13,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,323,1,5,3,8:34 PM,6:12,,,Lopez 1' Layup (7 PTS) (Porzingis 3 AST),76 - 61,-15,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,324,6,2,3,8:35 PM,5:57,,,Lopez S.FOUL (P2.T2) (T.Ford),,,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,325,3,11,3,8:35 PM,5:57,Wall Free Throw 1 of 2 (12 PTS),,,76 - 62,-14,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,327,3,12,3,8:35 PM,5:57,Wall Free Throw 2 of 2 (13 PTS),,,76 - 63,-13,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,330,2,1,3,8:36 PM,5:41,,,MISS Calderon 27' 3PT Jump Shot,,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,331,4,0,3,8:36 PM,5:40,Beal REBOUND (Off:2 Def:5),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,332,1,49,3,8:36 PM,5:35,Beal  Driving Dunk (10 PTS),,,76 - 65,-11,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,333,6,4,3,8:36 PM,5:20,,,Anthony OFF.Foul (P1) (J.Williams),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,334,5,5,3,8:36 PM,5:20,,,Anthony Foul Turnover (P3.T15),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011500031,335,8,0,3,8:36 PM,5:20,SUB: Neal FOR Humphries,,,,,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,336,8,0,3,8:37 PM,5:20,,,SUB: O'Quinn FOR Lopez,,,5,201577,Robin Lopez,1610612752.0,New York,Knicks,NYK,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,337,2,1,3,8:37 PM,4:59,MISS Neal 25' 3PT Jump Shot,,,,,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,338,4,0,3,8:37 PM,4:58,,,O'Quinn REBOUND (Off:1 Def:5),,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,339,1,5,3,8:37 PM,4:46,,,Porzingis 1' Layup (9 PTS),78 - 65,-13,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,340,2,5,3,8:37 PM,4:37,MISS Beal 3' Layup,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,341,4,0,3,8:37 PM,4:37,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,342,6,1,3,8:38 PM,4:31,,,Calderon P.FOUL (P2.T3) (T.Ford),,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,344,2,1,3,8:38 PM,4:19,MISS Beal  3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,345,4,0,3,8:38 PM,4:19,,,Vujacic REBOUND (Off:0 Def:5),,,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,346,2,1,3,8:38 PM,4:07,,,MISS Porzingis 27' 3PT Jump Shot,,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,347,4,0,3,8:38 PM,4:06,"Porter, Jr. REBOUND (Off:1 Def:2)",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,348,6,28,3,8:38 PM,4:04,,,Porzingis Personal Take Foul (P1.T4) (J.Williams),,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,349,8,0,3,8:39 PM,4:04,SUB: Sessions FOR Wall,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,350,8,0,3,8:39 PM,4:04,,,SUB: Galloway FOR Calderon,,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,351,8,0,3,8:39 PM,4:04,,,SUB: Williams FOR Porzingis,,,5,204001,Kristaps Porzingis,1610612752.0,New York,Knicks,NYK,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,352,6,2,3,8:39 PM,3:53,,,O'Quinn S.FOUL (P2.PN) (T.Ford),,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,353,3,11,3,8:39 PM,3:53,Gortat Free Throw 1 of 2 (11 PTS),,,78 - 66,-12,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,355,3,12,3,8:40 PM,3:53,Gortat Free Throw 2 of 2 (12 PTS),,,78 - 67,-11,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,358,5,40,3,8:40 PM,3:39,,,Vujacic Out of Bounds Lost Ball Turnover (P2.T16),,,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011500031,359,1,78,3,8:40 PM,3:30,Beal 10' Floating Jump Shot (12 PTS),,,78 - 69,-9,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,360,2,1,3,8:41 PM,3:14,,,MISS O'Quinn 26' 3PT Jump Shot,,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,361,4,0,3,8:41 PM,3:13,Beal REBOUND (Off:2 Def:6),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,362,1,42,3,8:41 PM,3:09,Gortat 2' Driving Layup (14 PTS) (Beal 3 AST),,,78 - 71,-7,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,363,6,2,3,8:41 PM,3:09,,,Anthony S.FOUL (P2.PN) (J.Williams),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,364,8,0,3,8:41 PM,3:09,"SUB: Oubre, Jr. FOR Beal",,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,365,9,1,3,8:41 PM,3:09,,,Knicks Timeout: Regular (Reg.3 Short 1),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,367,3,10,3,8:44 PM,3:09,Gortat Free Throw 1 of 1 (15 PTS),,,78 - 72,-6,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,370,2,1,3,8:44 PM,2:48,,,MISS Williams 26' 3PT Jump Shot,,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,371,4,0,3,8:44 PM,2:48,Sessions REBOUND (Off:0 Def:2),,,,,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,372,1,79,3,8:45 PM,2:34,Neal 20' Pullup Jump Shot (8 PTS) (Gortat 2 AST),,,78 - 74,-4,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,373,1,1,3,8:45 PM,2:15,,,Vujacic 25' 3PT Jump Shot (9 PTS) (Anthony 4 AST),81 - 74,-7,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,374,1,1,3,8:45 PM,2:01,"Porter, Jr. 4' Jump Shot (6 PTS) (Sessions 2 AST)",,,81 - 76,-5,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,375,6,2,3,8:45 PM,2:01,,,Williams S.FOUL (P2.PN) (J.Williams),,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,376,8,0,3,8:45 PM,2:01,,,SUB: Grant FOR Vujacic,,,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,377,8,0,3,8:45 PM,2:01,,,SUB: Early FOR Anthony,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,378,8,0,3,8:45 PM,2:01,SUB: Humphries FOR Gortat,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,379,3,10,3,8:46 PM,2:01,"Porter, Jr. Free Throw 1 of 1 (7 PTS)",,,81 - 77,-4,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,382,2,1,3,8:46 PM,1:39,,,MISS Williams 7' Jump Shot,,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,383,4,0,3,8:46 PM,1:38,Humphries REBOUND (Off:0 Def:2),,,,,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,384,2,1,3,8:46 PM,1:31,MISS Neal 15' Jump Shot,,,,,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,385,4,0,3,8:46 PM,1:30,"Oubre, Jr. REBOUND (Off:1 Def:2)",,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,386,2,1,3,8:46 PM,1:26,"MISS Oubre, Jr. 8' Jump Shot",,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,387,4,0,3,8:46 PM,1:25,Humphries REBOUND (Off:1 Def:2),,,,,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,388,1,97,3,8:46 PM,1:23,Humphries 1' Tip Layup Shot (7 PTS),,,81 - 79,-2,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,390,6,2,3,8:47 PM,1:03,"Oubre, Jr. S.FOUL (P2.T3) (M.Callahan)",,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,391,3,11,3,8:47 PM,1:03,,,Grant Free Throw 1 of 2 (3 PTS),82 - 79,-3,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,393,8,0,3,8:47 PM,1:03,"SUB: Harrellson FOR Porter, Jr.",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,394,3,12,3,8:47 PM,1:03,,,Grant Free Throw 2 of 2 (4 PTS),83 - 79,-4,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,397,1,80,3,8:48 PM,0:48,Neal 21' Step Back Jump Shot (10 PTS),,,83 - 81,-2,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,398,2,1,3,8:48 PM,0:34,,,MISS Galloway 26' 3PT Jump Shot,,,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,399,4,0,3,8:48 PM,0:33,"Oubre, Jr. REBOUND (Off:1 Def:3)",,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,401,6,1,3,8:49 PM,0:26,,,Galloway P.FOUL (P2.PN) (T.Ford),,,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,402,3,11,3,8:49 PM,0:26,Sessions Free Throw 1 of 2 (6 PTS),,,83 - 82,-1,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,404,3,12,3,8:49 PM,0:26,Sessions Free Throw 2 of 2 (7 PTS),,,83 - 83,TIE,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,407,1,5,3,8:50 PM,0:07,,,Grant 1' Layup (6 PTS) (O'Quinn 2 AST),85 - 83,-2,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,408,2,1,3,8:50 PM,0:00,MISS Humphries 25' 3PT Jump Shot,,,,,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,409,4,0,3,8:50 PM,0:00,,,Galloway REBOUND (Off:0 Def:2),,,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,410,13,0,3,8:50 PM,0:00,,,,85 - 83,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,412,12,0,4,8:53 PM,12:00,,,,85 - 83,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,413,7,1,4,8:53 PM,12:00,,,Knicks Violation: Delay of game Violation,,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0011500031,415,2,1,4,8:53 PM,11:40,,,MISS Grant 8' Jump Shot,,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,416,4,0,4,8:53 PM,11:40,Humphries REBOUND (Off:1 Def:3),,,,,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,417,6,2,4,8:53 PM,11:29,,,Galloway S.FOUL (P3.T1) (M.Callahan),,,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,418,3,11,4,8:54 PM,11:29,MISS Sessions Free Throw 1 of 2,,,,,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,419,4,1,4,8:54 PM,11:29,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,420,3,12,4,8:54 PM,11:29,Sessions Free Throw 2 of 2 (8 PTS),,,85 - 84,-1,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,423,5,4,4,8:54 PM,11:12,,,O'Quinn Traveling Turnover (P2.T17),,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011500031,424,6,1,4,8:55 PM,10:53,,,Grant P.FOUL (P1.T2) (M.Callahan),,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,425,1,1,4,8:55 PM,10:42,Humphries 21' Jump Shot (9 PTS),,,85 - 86,1,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,426,1,82,4,8:56 PM,10:16,,,Williams 6' Driving Bank Shot (12 PTS),87 - 86,-1,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,427,2,5,4,8:56 PM,10:10,MISS Sessions  Layup,,O'Quinn BLOCK (1 BLK),,,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0
+0011500031,428,4,0,4,8:56 PM,10:07,,,Galloway REBOUND (Off:0 Def:3),,,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,429,6,2,4,8:56 PM,10:06,Harrellson S.FOUL (P4.T1) (T.Ford),,,,,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,430,3,11,4,8:56 PM,10:06,,,MISS Galloway Free Throw 1 of 2,,,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,431,4,1,4,8:56 PM,10:06,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,432,3,12,4,8:57 PM,10:06,,,Galloway Free Throw 2 of 2 (6 PTS),88 - 86,-2,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,435,6,2,4,8:57 PM,9:53,,,Grant S.FOUL (P2.T3) (T.Ford),,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,436,3,11,4,8:58 PM,9:53,Neal Free Throw 1 of 2 (11 PTS),,,88 - 87,-1,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,438,3,12,4,8:58 PM,9:53,MISS Neal Free Throw 2 of 2,,,,,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,440,4,0,4,8:58 PM,9:52,,,O'Quinn REBOUND (Off:1 Def:6),,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,441,1,1,4,8:58 PM,9:34,,,O'Quinn 17' Jump Shot (6 PTS),90 - 87,-3,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,442,1,1,4,8:58 PM,9:20,Humphries 14' Jump Shot (11 PTS) (Sessions 3 AST),,,90 - 89,-1,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,444,6,2,4,8:59 PM,9:00,Harrellson S.FOUL (P5.T2) (J.Williams),,,,,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,445,3,11,4,8:59 PM,9:00,,,Williams Free Throw 1 of 2 (13 PTS),91 - 89,-2,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,447,3,12,4,8:59 PM,9:00,,,Williams Free Throw 2 of 2 (14 PTS),92 - 89,-3,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,450,2,1,4,9:00 PM,8:48,"MISS Oubre, Jr. 27' 3PT Jump Shot",,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,451,4,0,4,9:00 PM,8:47,,,Grant REBOUND (Off:1 Def:2),,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,452,2,1,4,9:00 PM,8:33,,,MISS Early 17' Jump Shot,,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,453,4,0,4,9:00 PM,8:32,Humphries REBOUND (Off:1 Def:4),,,,,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,454,2,1,4,9:00 PM,8:24,MISS Harrellson 25' 3PT Jump Shot,,,,,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,455,4,0,4,9:00 PM,8:23,,,Early REBOUND (Off:0 Def:3),,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,456,6,2,4,9:00 PM,8:20,Harrellson S.FOUL (P6.T3) (M.Callahan),,,,,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,457,9,4,4,9:00 PM,8:20,,,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,459,8,0,4,9:03 PM,8:20,SUB: Roberts FOR Humphries,,,,,4,2743,Kris Humphries,1610612764.0,Washington,Wizards,WAS,4,1626294,Jaleel Roberts,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,460,8,0,4,9:03 PM,8:20,"SUB: Porter, Jr. FOR Harrellson",,,,,4,202725,Josh Harrellson,1610612764.0,Washington,Wizards,WAS,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,461,3,11,4,9:03 PM,8:20,,,Williams Free Throw 1 of 2 (15 PTS),93 - 89,-4,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,463,3,12,4,9:03 PM,8:20,,,Williams Free Throw 2 of 2 (16 PTS),94 - 89,-5,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,466,2,1,4,9:04 PM,8:01,MISS Roberts 14' Jump Shot,,,,,4,1626294,Jaleel Roberts,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,467,4,0,4,9:04 PM,8:01,,,Early REBOUND (Off:0 Def:4),,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,468,6,2,4,9:04 PM,7:44,Roberts S.FOUL (P1.T4) (J.Williams),,,,,4,1626294,Jaleel Roberts,1610612764.0,Washington,Wizards,WAS,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,469,3,11,4,9:04 PM,7:44,,,O'Quinn Free Throw 1 of 2 (7 PTS),95 - 89,-6,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,471,3,12,4,9:04 PM,7:44,,,O'Quinn Free Throw 2 of 2 (8 PTS),96 - 89,-7,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,474,2,5,4,9:05 PM,7:30,"MISS Oubre, Jr. 1' Layup",,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,475,4,0,4,9:05 PM,7:29,,,O'Quinn REBOUND (Off:1 Def:7),,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,476,1,1,4,9:05 PM,7:17,,,O'Quinn 16' Jump Shot (10 PTS) (Galloway 2 AST),98 - 89,-9,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,477,2,1,4,9:05 PM,7:10,MISS Neal 26' 3PT Jump Shot,,,,,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,478,4,0,4,9:05 PM,7:09,,,O'Quinn REBOUND (Off:1 Def:8),,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,479,5,39,4,9:06 PM,7:02,,,Grant Step Out of Bounds Turnover (P2.T18),,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011500031,480,8,0,4,9:06 PM,7:02,SUB: Smith FOR Neal,,,,,4,202390,Gary Neal,1610612764.0,Washington,Wizards,WAS,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,482,2,1,4,9:06 PM,6:43,"MISS Porter, Jr. 27' 3PT Jump Shot",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,483,4,0,4,9:06 PM,6:42,,,Early REBOUND (Off:0 Def:5),,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,485,2,1,4,9:07 PM,6:18,Roberts BLOCK (1 BLK),,MISS Grant 18' Jump Shot,,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1626294,Jaleel Roberts,1610612764.0,Washington,Wizards,WAS,0
+0011500031,486,4,0,4,9:07 PM,6:16,Roberts REBOUND (Off:0 Def:1),,,,,4,1626294,Jaleel Roberts,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,487,2,5,4,9:07 PM,6:11,"MISS Porter, Jr. 2' Layup",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,488,4,0,4,9:07 PM,6:09,,,O'Quinn REBOUND (Off:1 Def:9),,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,489,2,1,4,9:07 PM,6:02,,,MISS Early  3PT Jump Shot,,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,490,4,0,4,9:07 PM,6:01,Sessions REBOUND (Off:0 Def:3),,,,,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,491,1,44,4,9:07 PM,5:52,"Porter, Jr. 1' Reverse Layup (9 PTS) (Sessions 4 AST)",,,98 - 91,-7,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,492,9,1,4,9:07 PM,5:52,,,Knicks Timeout: Regular (Reg.4 Short 1),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,494,8,0,4,9:10 PM,5:52,,,SUB: Vujacic FOR Grant,,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,495,2,1,4,9:10 PM,5:37,,,MISS O'Quinn 16' Jump Shot,,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,496,4,0,4,9:10 PM,5:36,"Porter, Jr. REBOUND (Off:1 Def:3)",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,497,6,2,4,9:11 PM,5:30,,,Williams S.FOUL (P3.T4) (T.Ford),,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,4,1626294,Jaleel Roberts,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,498,3,11,4,9:11 PM,5:30,MISS Roberts Free Throw 1 of 2,,,,,4,1626294,Jaleel Roberts,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,499,4,1,4,9:11 PM,5:30,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,500,3,12,4,9:11 PM,5:30,MISS Roberts Free Throw 2 of 2,,,,,4,1626294,Jaleel Roberts,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,502,4,0,4,9:11 PM,5:28,,,Williams REBOUND (Off:1 Def:3),,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,504,1,80,4,9:11 PM,5:05,,,Williams 19' Step Back Jump Shot (18 PTS),100 - 91,-9,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,505,2,1,4,9:12 PM,4:47,"MISS Oubre, Jr. 7' Jump Shot",,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,506,4,0,4,9:12 PM,4:46,,,Galloway REBOUND (Off:0 Def:4),,,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,507,1,1,4,9:12 PM,4:31,,,O'Quinn 11' Jump Shot (12 PTS) (Galloway 3 AST),102 - 91,-11,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,508,6,2,4,9:13 PM,4:06,,,O'Quinn S.FOUL (P3.PN) (J.Williams),,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,4,1626294,Jaleel Roberts,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,509,3,11,4,9:13 PM,4:06,Roberts Free Throw 1 of 2 (1 PTS),,,102 - 92,-10,4,1626294,Jaleel Roberts,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,511,8,0,4,9:13 PM,4:06,,,SUB: Grant FOR Vujacic,,,5,2756,Sasha Vujacic,1610612752.0,New York,Knicks,NYK,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,512,8,0,4,9:13 PM,4:06,SUB: J. Johnson FOR Sessions,,,,,4,201196,Ramon Sessions,1610612764.0,Washington,Wizards,WAS,4,204189,Jaron Johnson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,513,8,0,4,9:13 PM,4:06,"SUB: Murry FOR Porter, Jr.",,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,203315,Toure' Murry,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011500031,514,3,12,4,9:13 PM,4:06,Roberts Free Throw 2 of 2 (2 PTS),,,102 - 93,-9,4,1626294,Jaleel Roberts,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,517,1,52,4,9:14 PM,3:50,,,Williams  Alley Oop Dunk (20 PTS) (Galloway 4 AST),104 - 93,-11,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,5,204038,Langston Galloway,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,518,2,1,4,9:14 PM,3:40,MISS Smith 9' Jump Shot,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,519,4,0,4,9:14 PM,3:39,Roberts REBOUND (Off:1 Def:1),,,,,4,1626294,Jaleel Roberts,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,521,1,78,4,9:14 PM,3:33,Roberts 7' Floating Jump Shot (4 PTS),,,104 - 95,-9,4,1626294,Jaleel Roberts,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,522,1,49,4,9:14 PM,3:22,,,O'Quinn  Driving Dunk (14 PTS) (Grant 2 AST),106 - 95,-11,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,523,1,78,4,9:14 PM,3:06,Smith 7' Floating Jump Shot (2 PTS),,,106 - 97,-9,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,524,2,1,4,9:15 PM,2:47,,,MISS Grant 27' 3PT Jump Shot,,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,525,4,0,4,9:15 PM,2:47,J. Johnson REBOUND (Off:0 Def:1),,,,,4,204189,Jaron Johnson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,526,5,45,4,9:15 PM,2:43,J. Johnson Out of Bounds - Bad Pass Turnover Turnover (P1.T12),,,,,4,204189,Jaron Johnson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011500031,527,9,1,4,9:15 PM,2:43,WIZARDS Timeout: Regular (Full 4 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011500031,529,8,0,4,9:17 PM,2:43,,,SUB: Amundson FOR O'Quinn,,,5,203124,Kyle O'Quinn,1610612752.0,New York,Knicks,NYK,5,200811,Lou Amundson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,530,1,63,4,9:18 PM,2:30,,,Williams 13' Fadeaway Jumper (22 PTS) (Amundson 1 AST),108 - 97,-11,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,5,200811,Lou Amundson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,531,6,2,4,9:18 PM,2:30,Murry S.FOUL (P1.PN) (T.Ford),,,,,4,203315,Toure' Murry,1610612764.0,Washington,Wizards,WAS,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011500031,532,8,0,4,9:18 PM,2:30,,,SUB: Antetokounmpo FOR Early,,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,5,203648,Thanasis Antetokounmpo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,533,3,10,4,9:18 PM,2:30,,,Williams Free Throw 1 of 1 (23 PTS),109 - 97,-12,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,536,1,76,4,9:19 PM,2:11,Smith 1' Running Finger Roll Layup (4 PTS),,,109 - 99,-10,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,537,2,5,4,9:19 PM,1:52,,,MISS Amundson 1' Layup,,,5,200811,Lou Amundson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,538,4,0,4,9:19 PM,1:52,,,Amundson REBOUND (Off:1 Def:0),,,5,200811,Lou Amundson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,540,7,2,4,9:19 PM,1:51,Roberts Violation:Defensive Goaltending (T.Ford),,,,,4,1626294,Jaleel Roberts,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011500031,539,1,5,4,9:19 PM,1:51,,,Amundson 2' Layup (2 PTS),111 - 99,-12,5,200811,Lou Amundson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,543,8,0,4,9:20 PM,1:46,,,SUB: Atkins FOR Williams,,,5,202682,Derrick Williams,1610612752.0,New York,Knicks,NYK,5,1626276,Darion Atkins,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,544,2,5,4,9:20 PM,1:34,MISS Smith 1' Layup,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,545,4,0,4,9:20 PM,1:34,,,Amundson REBOUND (Off:1 Def:1),,,5,200811,Lou Amundson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,546,1,73,4,9:20 PM,1:28,,,Grant  Driving Reverse Layup (8 PTS),113 - 99,-14,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,547,2,1,4,9:21 PM,1:08,MISS Smith 15' Jump Shot,,Grant BLOCK (1 BLK),,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1626170,Jerian Grant,1610612752.0,New York,Knicks,NYK,0
+0011500031,548,4,0,4,9:21 PM,1:07,,,Antetokounmpo REBOUND (Off:0 Def:1),,,5,203648,Thanasis Antetokounmpo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,549,1,1,4,9:21 PM,0:55,,,Amundson 17' Jump Shot (4 PTS) (Antetokounmpo 1 AST),115 - 99,-16,5,200811,Lou Amundson,1610612752.0,New York,Knicks,NYK,5,203648,Thanasis Antetokounmpo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011500031,550,2,1,4,9:21 PM,0:43,MISS Smith 19' Jump Shot,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,551,4,0,4,9:21 PM,0:42,,,Amundson REBOUND (Off:1 Def:2),,,5,200811,Lou Amundson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,552,2,1,4,9:21 PM,0:32,,,MISS Amundson 14' Jump Shot,,,5,200811,Lou Amundson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011500031,553,4,0,4,9:21 PM,0:32,Murry REBOUND (Off:0 Def:1),,,,,4,203315,Toure' Murry,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,554,6,2,4,9:21 PM,0:27,,,Amundson S.FOUL (P1.PN) (T.Ford),,,5,200811,Lou Amundson,1610612752.0,New York,Knicks,NYK,4,203315,Toure' Murry,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,555,3,11,4,9:22 PM,0:27,Murry Free Throw 1 of 2 (1 PTS),,,115 - 100,-15,4,203315,Toure' Murry,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,557,3,12,4,9:22 PM,0:27,Murry Free Throw 2 of 2 (2 PTS),,,115 - 101,-14,4,203315,Toure' Murry,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,559,2,1,4,9:22 PM,0:16,"Oubre, Jr. BLOCK (1 BLK)",,MISS Atkins 14' Jump Shot,,,5,1626276,Darion Atkins,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,0
+0011500031,560,4,0,4,9:22 PM,0:13,Murry REBOUND (Off:0 Def:2),,,,,4,203315,Toure' Murry,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,561,2,1,4,9:22 PM,0:07,"MISS Oubre, Jr. 27' 3PT Jump Shot",,,,,4,1626162,Kelly Oubre Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,562,4,0,4,9:23 PM,0:06,Murry REBOUND (Off:1 Def:2),,,,,4,203315,Toure' Murry,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,563,1,5,4,9:23 PM,0:04,J. Johnson 1' Layup (2 PTS),,,115 - 103,-12,4,204189,Jaron Johnson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,564,6,2,4,9:23 PM,0:04,,,Atkins S.FOUL (P1.PN) (J.Williams),,,5,1626276,Darion Atkins,1610612752.0,New York,Knicks,NYK,4,204189,Jaron Johnson,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011500031,565,3,10,4,9:23 PM,0:04,J. Johnson Free Throw 1 of 1 (3 PTS),,,115 - 104,-11,4,204189,Jaron Johnson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011500031,567,13,0,4,9:23 PM,0:00,,,,115 - 104,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
