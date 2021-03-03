@@ -1,0 +1,505 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012000035,2,12,0,1,8:12 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,4,10,0,1,8:12 PM,12:00,Jump Ball Valanciunas vs. Capela: Tip to Morant,,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1
+0012000035,7,2,1,1,8:12 PM,11:43,MISS Brooks 24' 3PT Jump Shot,,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,8,4,0,1,8:12 PM,11:39,,,Young REBOUND (Off:0 Def:1),,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,9,1,74,1,8:12 PM,11:36,,,Young  Running Reverse Layup (2 PTS),2 - 0,-2,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,10,2,1,1,8:12 PM,11:14,MISS Allen  3PT Jump Shot,,,,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,11,4,0,1,8:12 PM,11:09,,,Bogdanovic REBOUND (Off:0 Def:1),,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,12,2,1,1,8:13 PM,10:55,,,MISS Collins 13' Jump Shot,,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,13,4,0,1,8:13 PM,10:53,Valanciunas REBOUND (Off:0 Def:1),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,14,1,80,1,8:13 PM,10:30,Brooks  3PT Step Back Jump Shot (3 PTS) (Morant 1 AST),,,2 - 3,1,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,16,2,6,1,8:13 PM,10:07,Brooks BLOCK (1 BLK),,MISS Capela 2' Driving Layup,,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1
+0012000035,18,4,0,1,8:14 PM,10:01,,,Capela REBOUND (Off:1 Def:0),,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,19,1,3,1,8:14 PM,10:01,,,Capela  Hook Shot (2 PTS),4 - 3,-1,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,20,2,1,1,8:14 PM,9:46,MISS Anderson 15' Jump Shot,,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,21,4,0,1,8:14 PM,9:42,,,Collins REBOUND (Off:0 Def:1),,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,22,1,103,1,8:14 PM,9:39,,,Young 26' 3PT Running Pull-Up Jump Shot (5 PTS) (Collins 1 AST),7 - 3,-4,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,24,1,75,1,8:14 PM,9:23,Morant 2' Driving Finger Roll Layup (2 PTS),,,7 - 5,-2,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,44,7,1,1,8:15 PM,9:23,GRIZZLIES Violation: Delay of game Violation,,,,,2.0,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,26,1,101,1,8:15 PM,9:04,,,Hunter 6' Driving Floating Jump Shot (2 PTS) (Young 1 AST),9 - 5,-4,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,27,5,8,1,8:15 PM,8:49,Valanciunas 3 Second Violation Turnover (P1.T1),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0012000035,28,2,58,1,8:16 PM,8:33,Valanciunas BLOCK (1 BLK),,MISS Capela 5' Turnaround Hook Shot,,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,1
+0012000035,30,4,0,1,8:16 PM,8:30,Morant REBOUND (Off:0 Def:1),,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,31,2,1,1,8:16 PM,8:17,MISS Allen 25' 3PT Jump Shot,,,,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,32,4,0,1,8:16 PM,8:14,,,Hunter REBOUND (Off:0 Def:1),,,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,33,2,79,1,8:16 PM,8:02,,,MISS Young 26' 3PT Pullup Jump Shot,,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,34,4,0,1,8:16 PM,7:58,Anderson REBOUND (Off:0 Def:1),,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,35,5,1,1,8:16 PM,7:54,Allen Bad Pass Turnover (P1.T2),,Bogdanovic STEAL (1 STL),,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,37,2,1,1,8:16 PM,7:46,,,MISS Bogdanovic  3PT Jump Shot,,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,38,4,0,1,8:16 PM,7:41,Brooks REBOUND (Off:0 Def:1),,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,39,5,1,1,8:16 PM,7:38,Anderson Bad Pass Turnover (P1.T3),,Hunter STEAL (1 STL),,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,41,1,52,1,8:17 PM,7:26,,,Capela  Alley Oop Dunk (4 PTS) (Young 2 AST),11 - 5,-6,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,43,9,1,1,8:17 PM,7:26,GRIZZLIES Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,45,8,0,1,8:19 PM,7:26,,,SUB: Gallinari FOR Collins,,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,48,5,45,1,8:20 PM,7:15,Morant Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0012000035,49,1,80,1,8:20 PM,6:58,,,Gallinari 16' Step Back Jump Shot (2 PTS),13 - 5,-8,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,50,1,1,1,8:21 PM,6:42,Brooks 26' 3PT Jump Shot (6 PTS) (Anderson 1 AST),,,13 - 8,-5,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,52,2,80,1,8:21 PM,6:19,,,MISS Gallinari 12' Step Back Jump Shot,,,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,53,4,0,1,8:21 PM,6:16,Valanciunas REBOUND (Off:0 Def:2),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,54,1,1,1,8:21 PM,6:07,Anderson 26' 3PT Jump Shot (3 PTS) (Valanciunas 1 AST),,,13 - 11,-2,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,56,1,1,1,8:21 PM,5:55,,,Hunter  3PT Jump Shot (5 PTS) (Young 3 AST),16 - 11,-5,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,58,6,2,1,8:21 PM,5:55,Brooks S.FOUL (P1.T1) (N.Green),,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,60,8,0,1,8:22 PM,5:55,SUB: Melton FOR Allen,,,,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,61,8,0,1,8:22 PM,5:55,,,SUB: Collins FOR Bogdanovic,,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,62,8,0,1,8:22 PM,5:55,,,SUB: Reddish FOR Capela,,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,66,3,10,1,8:22 PM,5:55,,,Hunter Free Throw 1 of 1 (6 PTS),17 - 11,-6,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,67,1,101,1,8:22 PM,5:37,Brooks 15' Driving Floating Jump Shot (8 PTS) (Morant 2 AST),,,17 - 13,-4,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,69,6,2,1,8:22 PM,5:28,Morant S.FOUL (P1.T2) (M.Boland),,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,71,3,11,1,8:23 PM,5:28,,,Young Free Throw 1 of 2 (6 PTS),18 - 13,-5,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,72,3,12,1,8:23 PM,5:28,,,Young Free Throw 2 of 2 (7 PTS),19 - 13,-6,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,73,1,75,1,8:23 PM,5:21,Morant 1' Driving Finger Roll Layup (4 PTS),,,19 - 15,-4,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,74,6,2,1,8:23 PM,5:21,,,Collins S.FOUL (P1.T1) (M.Boland),,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,76,8,0,1,8:23 PM,5:21,,,SUB: Huerter FOR Young,,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,78,3,10,1,8:24 PM,5:21,Morant Free Throw 1 of 1 (5 PTS),,,19 - 16,-3,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,79,1,1,1,8:24 PM,5:07,,,Reddish 26' 3PT Jump Shot (3 PTS) (Huerter 1 AST),22 - 16,-6,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,81,1,6,1,8:24 PM,4:58,Morant 1' Driving Layup (7 PTS),,,22 - 18,-4,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,82,6,2,1,8:24 PM,4:58,,,Huerter S.FOUL (P1.T2) (M.Smith),,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,84,8,0,1,8:24 PM,4:58,SUB: Dieng FOR Anderson,,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,85,8,0,1,8:24 PM,4:58,SUB: Clarke FOR Valanciunas,,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,88,3,10,1,8:25 PM,4:58,MISS Morant Free Throw 1 of 1,,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,89,4,0,1,8:25 PM,4:52,,,Collins REBOUND (Off:0 Def:2),,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,90,5,2,1,8:25 PM,4:46,Morant STEAL (1 STL),,Huerter Lost Ball Turnover (P1.T1),,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,92,1,41,1,8:25 PM,4:43,Morant 1' Running Layup (9 PTS) (Clarke 1 AST),,,22 - 20,-2,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,94,6,1,1,8:25 PM,4:30,Melton P.FOUL (P1.T3) (N.Green),,,,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,5,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,96,8,0,1,8:25 PM,4:30,SUB: Bane FOR Brooks,,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,98,2,79,1,8:26 PM,4:16,,,MISS Hunter 25' 3PT Pullup Jump Shot,,,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,99,4,0,1,8:26 PM,4:13,Clarke REBOUND (Off:0 Def:1),,,,,4.0,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,100,2,1,1,8:26 PM,4:06,MISS Dieng 25' 3PT Jump Shot,,,,,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,101,4,0,1,8:26 PM,4:02,,,Reddish REBOUND (Off:0 Def:1),,,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,102,2,2,1,8:26 PM,3:58,,,MISS Huerter 26' 3PT Running Jump Shot,,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,103,4,0,1,8:26 PM,3:55,Melton REBOUND (Off:0 Def:1),,,,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,104,2,80,1,8:26 PM,3:49,MISS Morant 25' 3PT Step Back Jump Shot,,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,105,4,0,1,8:26 PM,3:46,,,Collins REBOUND (Off:0 Def:3),,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,106,5,2,1,8:26 PM,3:45,Morant STEAL (2 STL),,Reddish Lost Ball Turnover (P1.T2),,,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,108,1,52,1,8:26 PM,3:42,Dieng 1' Alley Oop Dunk (2 PTS) (Morant 3 AST),,,22 - 22,TIE,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,110,9,1,1,8:27 PM,3:42,,,Hawks Timeout: Regular (Reg.1 Short 0),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,111,8,0,1,8:29 PM,3:42,SUB: Jones FOR Morant,,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,112,8,0,1,8:29 PM,3:42,,,SUB: S. Hill FOR Hunter,,,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,115,1,75,1,8:30 PM,3:26,,,Reddish 1' Driving Finger Roll Layup (5 PTS) (Collins 2 AST),24 - 22,-2,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,117,6,1,1,8:30 PM,3:15,,,Huerter P.FOUL (P2.T3) (M.Boland),,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,119,1,1,1,8:30 PM,3:03,Melton 26' 3PT Jump Shot (3 PTS) (Bane 1 AST),,,24 - 25,1,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,121,1,80,1,8:31 PM,2:45,,,Huerter 14' Step Back Jump Shot (2 PTS) (Collins 3 AST),26 - 25,-1,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,123,6,1,1,8:31 PM,2:32,,,S. Hill P.FOUL (P1.T4) (N.Green),,,5.0,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,125,8,0,1,8:31 PM,2:32,,,SUB: Young FOR Huerter,,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,127,1,1,1,8:31 PM,2:27,Jones 25' 3PT Jump Shot (3 PTS) (Clarke 2 AST),,,26 - 28,2,4.0,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,129,6,2,1,8:32 PM,2:11,Dieng S.FOUL (P1.T4) (M.Smith),,,,,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,131,3,11,1,8:32 PM,2:11,,,Collins Free Throw 1 of 2 (1 PTS),27 - 28,1,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,132,3,12,1,8:32 PM,2:11,,,Collins Free Throw 2 of 2 (2 PTS),28 - 28,TIE,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,133,5,1,1,8:33 PM,1:55,Melton Bad Pass Turnover (P1.T5),,Reddish STEAL (1 STL),,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,5,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,135,1,50,1,8:33 PM,1:52,,,Collins 1' Running Dunk (4 PTS) (Reddish 1 AST),30 - 28,-2,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,137,2,1,1,8:33 PM,1:35,MISS Jones 26' 3PT Jump Shot,,,,,4.0,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,138,4,0,1,8:33 PM,1:34,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,140,8,0,1,8:33 PM,1:34,SUB: Allen FOR Melton,,,,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,141,8,0,1,8:33 PM,1:34,,,SUB: Capela FOR Collins,,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,144,6,1,1,8:33 PM,1:24,Dieng P.FOUL (P2.PN) (N.Green),,,,,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,146,3,11,1,8:34 PM,1:24,,,Capela Free Throw 1 of 2 (5 PTS),31 - 28,-3,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,147,3,12,1,8:34 PM,1:24,,,Capela Free Throw 2 of 2 (6 PTS),32 - 28,-4,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,148,2,1,1,8:34 PM,1:18,MISS Bane 24' 3PT Jump Shot,,,,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,149,4,0,1,8:34 PM,1:16,,,Gallinari REBOUND (Off:0 Def:1),,,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,150,2,79,1,8:34 PM,1:10,,,MISS Young 27' 3PT Pullup Jump Shot,,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,151,4,0,1,8:34 PM,1:06,Bane REBOUND (Off:0 Def:1),,,,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,152,5,1,1,8:34 PM,1:04,Bane Bad Pass Turnover (P1.T6),,Reddish STEAL (2 STL),,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,154,6,1,1,8:34 PM,1:04,Bane P.FOUL (P1.PN) (M.Boland),,,,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,156,3,11,1,8:35 PM,1:04,,,Reddish Free Throw 1 of 2 (6 PTS),33 - 28,-5,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,157,3,12,1,8:35 PM,1:04,,,Reddish Free Throw 2 of 2 (7 PTS),34 - 28,-6,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,158,2,1,1,8:35 PM,0:50,MISS Allen 26' 3PT Jump Shot,,,,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,159,4,0,1,8:35 PM,0:47,Dieng REBOUND (Off:1 Def:0),,,,,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,160,2,1,1,8:35 PM,0:47,MISS Jones 25' 3PT Jump Shot,,,,,4.0,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,161,4,0,1,8:35 PM,0:44,Clarke REBOUND (Off:1 Def:1),,,,,4.0,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,163,6,2,1,8:35 PM,0:42,,,Capela S.FOUL (P1.PN) (M.Smith),,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,165,3,11,1,8:36 PM,0:42,Jones Free Throw 1 of 2 (4 PTS),,,34 - 29,-5,4.0,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,166,3,12,1,8:36 PM,0:42,Jones Free Throw 2 of 2 (5 PTS),,,34 - 30,-4,4.0,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,167,2,101,1,8:36 PM,0:29,,,MISS Young 16' Driving Floating Jump Shot,,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,168,4,0,1,8:36 PM,0:26,Clarke REBOUND (Off:1 Def:2),,,,,4.0,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,169,2,78,1,8:37 PM,0:07,MISS Clarke 10' Floating Jump Shot,,,,,4.0,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,170,4,0,1,8:37 PM,0:05,,,Capela REBOUND (Off:1 Def:1),,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,171,5,1,1,8:37 PM,0:04,Dieng STEAL (1 STL),,Capela Bad Pass Turnover (P1.T3),,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,173,1,79,1,8:37 PM,0:03,Dieng 12' Pullup Jump Shot (4 PTS),,,34 - 32,-2,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,174,2,2,1,8:37 PM,0:00,,,MISS S. Hill 32' 3PT Running Jump Shot,,,5.0,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,175,4,0,1,8:37 PM,0:00,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,176,13,0,1,8:37 PM,0:00,,,,34 - 32,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012000035,187,12,0,2,8:40 PM,12:00,,,,34 - 32,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,188,2,78,2,8:41 PM,11:42,,,MISS Hunter 10' Floating Jump Shot,,,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,189,4,0,2,8:41 PM,11:40,Brooks REBOUND (Off:0 Def:2),,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,190,6,28,2,8:41 PM,11:39,,,Bogdanovic Personal Take Foul (P1.T1) (N.Green),,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,192,1,80,2,8:41 PM,11:26,Brooks 26' 3PT Step Back Jump Shot (11 PTS),,,34 - 35,1,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,193,6,1,2,8:41 PM,11:17,Brooks P.FOUL (P2.T1) (M.Smith),,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0012000035,195,1,102,2,8:42 PM,11:04,,,Hunter 9' Driving Floating Bank Jump Shot (8 PTS) (Rondo 1 AST),36 - 35,-1,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,197,5,4,2,8:42 PM,10:54,Brooks Traveling Turnover (P1.T7),,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0012000035,198,2,1,2,8:43 PM,10:43,,,MISS Rondo 27' 3PT Jump Shot,,,5.0,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,199,4,0,2,8:43 PM,10:40,Allen REBOUND (Off:0 Def:1),,,,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,200,2,101,2,8:43 PM,10:33,MISS Allen 14' Driving Floating Jump Shot,,,,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,201,4,0,2,8:43 PM,10:28,,,Capela REBOUND (Off:1 Def:2),,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,202,1,2,2,8:43 PM,10:22,,,S. Hill  3PT Running Jump Shot (3 PTS) (Rondo 2 AST),39 - 35,-4,5.0,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,204,2,101,2,8:43 PM,10:04,MISS Brooks 10' Driving Floating Jump Shot,,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,205,4,0,2,8:43 PM,10:01,Clarke REBOUND (Off:2 Def:2),,,,,4.0,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,206,1,1,2,8:43 PM,9:59,Brooks 26' 3PT Jump Shot (14 PTS) (Jones 1 AST),,,39 - 38,-1,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,208,2,101,2,8:44 PM,9:41,,,MISS Bogdanovic 10' Driving Floating Jump Shot,,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,209,4,0,2,8:44 PM,9:38,Valanciunas REBOUND (Off:0 Def:3),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,210,1,86,2,8:44 PM,9:22,Valanciunas 8' Turnaround Fadeaway (2 PTS),,,39 - 40,1,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,211,1,50,2,8:44 PM,9:17,,,Capela 1' Running Dunk (8 PTS) (Rondo 3 AST),41 - 40,-1,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,213,6,2,2,8:44 PM,9:17,Valanciunas S.FOUL (P1.T2) (N.Green),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,215,9,1,2,8:44 PM,9:17,GRIZZLIES Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,216,8,0,2,8:46 PM,9:17,,,SUB: Gallinari FOR S. Hill,,,5.0,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,218,3,10,2,8:47 PM,9:17,,,Capela Free Throw 1 of 1 (9 PTS),42 - 40,-2,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,219,6,4,2,8:48 PM,9:06,Brooks OFF.Foul (P3) (M.Smith),,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,221,5,37,2,8:48 PM,9:06,Brooks Offensive Foul Turnover (P2.T8),,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0012000035,222,1,57,2,8:48 PM,8:51,,,Capela 5' Driving Hook Shot (11 PTS) (Rondo 4 AST),44 - 40,-4,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,224,6,2,2,8:48 PM,8:37,,,Gallinari S.FOUL (P1.T2) (N.Green),,,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,226,3,11,2,8:49 PM,8:37,Valanciunas Free Throw 1 of 2 (3 PTS),,,44 - 41,-3,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,227,8,0,2,8:49 PM,8:37,SUB: Melton FOR Allen,,,,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,228,8,0,2,8:49 PM,8:37,SUB: Anderson FOR Clarke,,,,,4.0,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,231,3,12,2,8:49 PM,8:37,Valanciunas Free Throw 2 of 2 (4 PTS),,,44 - 42,-2,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,232,2,5,2,8:49 PM,8:22,,,MISS Hunter 1' Layup,,,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,233,4,0,2,8:49 PM,8:20,Jones REBOUND (Off:0 Def:1),,,,,4.0,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,234,2,2,2,8:49 PM,8:17,MISS Melton 25' 3PT Running Jump Shot,,,,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,235,4,0,2,8:49 PM,8:14,,,Gallinari REBOUND (Off:0 Def:2),,,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,236,1,1,2,8:50 PM,8:06,,,Hunter 25' 3PT Jump Shot (11 PTS) (Rondo 5 AST),47 - 42,-5,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,238,1,86,2,8:50 PM,7:48,Valanciunas 7' Turnaround Fadeaway (6 PTS) (Brooks 1 AST),,,47 - 44,-3,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,240,6,1,2,8:50 PM,7:33,Melton P.FOUL (P2.T3) (M.Smith),,,,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,242,8,0,2,8:50 PM,7:33,,,SUB: Collins FOR Bogdanovic,,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,243,8,0,2,8:50 PM,7:33,,,SUB: Huerter FOR Capela,,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,246,5,1,2,8:51 PM,7:28,Jones STEAL (1 STL),,Rondo Bad Pass Turnover (P1.T4),,,5.0,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,248,1,50,2,8:51 PM,7:24,Brooks 1' Running Dunk (16 PTS) (Jones 2 AST),,,47 - 46,-1,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,250,1,1,2,8:51 PM,7:07,,,Gallinari 26' 3PT Jump Shot (5 PTS) (Huerter 2 AST),50 - 46,-4,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,252,1,79,2,8:51 PM,6:53,Brooks 13' Pullup Jump Shot (18 PTS),,,50 - 48,-2,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,253,2,1,2,8:51 PM,6:43,,,MISS Gallinari 26' 3PT Jump Shot,,,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,254,4,0,2,8:51 PM,6:42,GRIZZLIES Rebound,,,,,2.0,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,255,6,3,2,8:52 PM,6:42,,,Rondo L.B.FOUL (P1.T3) (M.Boland),,,5.0,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,257,8,0,2,8:52 PM,6:42,SUB: Morant FOR Valanciunas,,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,258,8,0,2,8:52 PM,6:42,SUB: Dieng FOR Jones,,,,,4.0,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,259,8,0,2,8:52 PM,6:42,SUB: Bane FOR Brooks,,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,260,8,0,2,8:52 PM,6:42,,,SUB: Reddish FOR Rondo,,,5.0,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,5,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,261,8,0,2,8:52 PM,6:42,,,SUB: Young FOR Hunter,,,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,267,2,1,2,8:52 PM,6:21,MISS Morant 31' 3PT Jump Shot,,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,268,4,0,2,8:52 PM,6:18,,,Huerter REBOUND (Off:0 Def:1),,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,269,5,1,2,8:52 PM,6:10,Bane STEAL (1 STL),,Gallinari Bad Pass Turnover (P1.T5),,,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,271,2,1,2,8:53 PM,5:59,MISS Bane 25' 3PT Jump Shot,,,,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,272,4,0,2,8:53 PM,5:55,,,Reddish REBOUND (Off:0 Def:2),,,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,273,2,1,2,8:53 PM,5:45,,,MISS Collins 26' 3PT Jump Shot,,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,274,4,0,2,8:53 PM,5:43,Anderson REBOUND (Off:0 Def:2),,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,275,2,1,2,8:53 PM,5:35,MISS Anderson 26' 3PT Jump Shot,,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,276,4,0,2,8:53 PM,5:34,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,278,2,75,2,8:53 PM,5:23,,,MISS Young 2' Driving Finger Roll Layup,,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,279,4,0,2,8:53 PM,5:19,Dieng REBOUND (Off:1 Def:1),,,,,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,280,2,9,2,8:54 PM,5:15,MISS Morant 1' Driving Dunk,,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,281,4,0,2,8:54 PM,5:13,,,Young REBOUND (Off:0 Def:2),,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,282,6,1,2,8:54 PM,5:11,Dieng P.FOUL (P3.T4) (M.Boland),,,,,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,284,6,2,2,8:54 PM,5:02,Bane S.FOUL (P2.PN) (N.Green),,,,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,286,3,11,2,8:55 PM,5:02,,,Reddish Free Throw 1 of 2 (8 PTS),51 - 48,-3,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,287,3,12,2,8:55 PM,5:02,,,Reddish Free Throw 2 of 2 (9 PTS),52 - 48,-4,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,288,1,80,2,8:55 PM,4:45,Bane 25' 3PT Step Back Jump Shot (3 PTS) (Morant 4 AST),,,52 - 51,-1,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,290,2,1,2,8:56 PM,4:31,,,MISS Gallinari 25' 3PT Jump Shot,,,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,291,4,0,2,8:56 PM,4:29,Dieng REBOUND (Off:1 Def:2),,,,,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,292,5,1,2,8:56 PM,4:20,Melton Bad Pass Turnover (P2.T9),,Huerter STEAL (1 STL),,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,294,2,1,2,8:56 PM,4:12,,,MISS Gallinari 18' Jump Shot,,,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,295,4,0,2,8:56 PM,4:10,Bane REBOUND (Off:0 Def:2),,,,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,296,1,41,2,8:56 PM,4:07,Morant 2' Running Layup (11 PTS),,,52 - 53,1,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,297,6,2,2,8:56 PM,4:07,,,Reddish S.FOUL (P1.T4) (M.Boland),,,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,299,3,10,2,8:56 PM,4:07,Morant Free Throw 1 of 1 (12 PTS),,,52 - 54,2,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0012000035,300,2,79,2,8:57 PM,3:56,,,MISS Young 26' 3PT Pullup Jump Shot,,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,301,4,0,2,8:57 PM,3:54,Melton REBOUND (Off:0 Def:2),,,,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,302,6,28,2,8:57 PM,3:54,,,Huerter Personal Take Foul (P3.PN) (M.Smith),,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,304,3,11,2,8:57 PM,3:54,Melton Free Throw 1 of 2 (4 PTS),,,52 - 55,3,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,305,3,12,2,8:57 PM,3:54,Melton Free Throw 2 of 2 (5 PTS),,,52 - 56,4,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,306,2,80,2,8:58 PM,3:40,,,MISS Collins  3PT Step Back Jump Shot,,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,307,4,0,2,8:58 PM,3:38,Melton REBOUND (Off:0 Def:3),,,,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,308,1,2,2,8:58 PM,3:34,Bane 27' 3PT Running Jump Shot (6 PTS) (Melton 1 AST),,,52 - 59,7,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,310,1,75,2,8:58 PM,3:20,,,Collins 1' Driving Finger Roll Layup (6 PTS) (Huerter 3 AST),54 - 59,5,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,312,2,1,2,8:58 PM,3:09,MISS Dieng 26' 3PT Jump Shot,,,,,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,313,4,0,2,8:58 PM,3:07,Bane REBOUND (Off:1 Def:2),,,,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,314,1,1,2,8:58 PM,3:05,Melton 26' 3PT Jump Shot (8 PTS) (Bane 2 AST),,,54 - 62,8,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,316,9,1,2,8:58 PM,3:05,,,Hawks Timeout: Regular (Reg.2 Short 0),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,317,8,0,2,9:01 PM,3:05,SUB: Clarke FOR Anderson,,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,318,8,0,2,9:01 PM,3:05,SUB: Valanciunas FOR Dieng,,,,,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,4,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,319,8,0,2,9:01 PM,3:05,,,SUB: Bogdanovic FOR Huerter,,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,320,8,0,2,9:01 PM,3:05,,,SUB: Capela FOR Gallinari,,,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,321,8,0,2,9:01 PM,3:05,,,SUB: Hunter FOR Reddish,,,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,327,1,47,2,9:02 PM,2:46,,,Collins 10' Turnaround Jump Shot (8 PTS) (Young 4 AST),56 - 62,6,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,329,6,2,2,9:02 PM,2:25,,,Collins S.FOUL (P2.PN) (N.Green),,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,331,3,11,2,9:03 PM,2:25,MISS Morant Free Throw 1 of 2,,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,332,4,1,2,9:03 PM,2:25,GRIZZLIES Rebound,,,,,2.0,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,333,3,12,2,9:03 PM,2:25,Morant Free Throw 2 of 2 (13 PTS),,,56 - 63,7,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,334,1,79,2,9:03 PM,2:10,,,Young 28' 3PT Pullup Jump Shot (10 PTS),59 - 63,4,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,336,5,45,2,9:04 PM,1:52,Morant Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0012000035,337,8,0,2,9:04 PM,1:52,SUB: Jones FOR Melton,,,,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,339,6,2,2,9:04 PM,1:35,Morant S.FOUL (P2.PN) (M.Smith),,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,341,3,13,2,9:04 PM,1:35,,,Young Free Throw 1 of 3 (11 PTS),60 - 63,3,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,342,3,14,2,9:05 PM,1:35,,,Young Free Throw 2 of 3 (12 PTS),61 - 63,2,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,343,3,15,2,9:05 PM,1:35,,,Young Free Throw 3 of 3 (13 PTS),62 - 63,1,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,344,2,1,2,9:05 PM,1:20,MISS Bane  3PT Jump Shot,,,,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,345,4,0,2,9:05 PM,1:18,Clarke REBOUND (Off:3 Def:2),,,,,4.0,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,346,2,72,2,9:05 PM,1:17,MISS Clarke 2' Putback Layup,,Young BLOCK (1 BLK),,,4.0,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1
+0012000035,348,4,0,2,9:05 PM,1:13,,,Young REBOUND (Off:0 Def:3),,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,349,2,75,2,9:05 PM,1:09,,,MISS Hunter 1' Driving Finger Roll Layup,,,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,350,4,0,2,9:05 PM,1:07,Valanciunas REBOUND (Off:0 Def:4),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,351,2,2,2,9:05 PM,1:02,MISS Jones  3PT Running Jump Shot,,,,,4.0,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,352,4,0,2,9:05 PM,0:57,,,Bogdanovic REBOUND (Off:0 Def:2),,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,353,1,5,2,9:06 PM,0:55,,,Hunter 1' Layup (13 PTS) (Bogdanovic 1 AST),64 - 63,-1,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,355,6,1,2,9:06 PM,0:43,,,Young P.FOUL (P1.PN) (M.Boland),,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,357,3,11,2,9:06 PM,0:43,Jones Free Throw 1 of 2 (6 PTS),,,64 - 64,TIE,4.0,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,358,3,12,2,9:07 PM,0:43,Jones Free Throw 2 of 2 (7 PTS),,,64 - 65,1,4.0,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,359,2,79,2,9:07 PM,0:33,,,MISS Young 33' 3PT Pullup Jump Shot,,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,360,4,0,2,9:07 PM,0:30,,,Collins REBOUND (Off:1 Def:3),,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,361,2,72,2,9:07 PM,0:29,Clarke BLOCK (1 BLK),,MISS Collins 2' Putback Layup,,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0012000035,363,4,0,2,9:07 PM,0:29,Valanciunas REBOUND (Off:0 Def:5),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,364,1,1,2,9:07 PM,0:07,Clarke  3PT Jump Shot (3 PTS) (Morant 5 AST),,,64 - 68,4,4.0,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,366,1,106,2,9:07 PM,0:00,,,Capela 1' Running Alley Oop Dunk Shot (13 PTS) (Young 5 AST),66 - 68,2,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,368,2,1,2,9:08 PM,0:00,MISS Morant 57' 3PT Jump Shot,,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,369,4,0,2,9:08 PM,0:00,GRIZZLIES Rebound,,,,,2.0,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,370,13,0,2,9:08 PM,0:00,,,,66 - 68,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012000035,377,12,0,3,9:23 PM,12:00,,,,66 - 68,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,378,2,1,3,9:23 PM,11:44,,,MISS Hunter  3PT Jump Shot,,,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,379,4,0,3,9:23 PM,11:42,Valanciunas REBOUND (Off:0 Def:6),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,380,2,1,3,9:24 PM,11:31,MISS Allen 27' 3PT Jump Shot,,,,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,381,4,0,3,9:24 PM,11:28,,,Capela REBOUND (Off:1 Def:3),,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,382,2,101,3,9:24 PM,11:21,,,MISS Young 10' Driving Floating Jump Shot,,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,383,4,0,3,9:24 PM,11:19,Valanciunas REBOUND (Off:0 Def:7),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,384,1,1,3,9:24 PM,11:11,Valanciunas 27' 3PT Jump Shot (9 PTS) (Anderson 2 AST),,,66 - 71,5,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,386,2,79,3,9:24 PM,10:54,,,MISS Bogdanovic 13' Pullup Jump Shot,,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,387,4,0,3,9:24 PM,10:52,Morant REBOUND (Off:0 Def:2),,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,388,2,102,3,9:24 PM,10:45,MISS Allen 3' Driving Floating Bank Jump Shot,,,,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,389,4,0,3,9:24 PM,10:42,,,Capela REBOUND (Off:1 Def:4),,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,390,1,76,3,9:24 PM,10:38,,,Young  Running Finger Roll Layup (15 PTS),68 - 71,3,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,391,2,1,3,9:25 PM,10:27,MISS Brooks 27' 3PT Jump Shot,,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,392,4,0,3,9:25 PM,10:24,,,Capela REBOUND (Off:1 Def:5),,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,393,6,1,3,9:25 PM,10:22,Brooks P.FOUL (P4.T1) (M.Boland),,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,396,2,80,3,9:26 PM,10:09,,,MISS Bogdanovic 26' 3PT Step Back Jump Shot,,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,397,4,0,3,9:26 PM,10:05,Valanciunas REBOUND (Off:0 Def:8),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,398,1,101,3,9:26 PM,9:56,Morant 2' Driving Floating Jump Shot (15 PTS),,,68 - 73,5,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,399,2,1,3,9:26 PM,9:42,,,MISS Young 31' 3PT Jump Shot,,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,400,4,0,3,9:26 PM,9:40,Anderson REBOUND (Off:0 Def:3),,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,401,1,1,3,9:26 PM,9:33,Allen 25' 3PT Jump Shot (3 PTS) (Morant 6 AST),,,68 - 76,8,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,403,9,1,3,9:26 PM,9:32,,,Hawks Timeout: Regular (Reg.3 Short 0),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,404,5,1,3,9:30 PM,9:10,Valanciunas STEAL (1 STL),,Hunter Bad Pass Turnover (P1.T6),,,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,407,6,2,3,9:30 PM,8:58,,,Capela S.FOUL (P2.T1) (M.Boland),,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,409,3,11,3,9:31 PM,8:58,Anderson Free Throw 1 of 2 (4 PTS),,,68 - 77,9,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,410,3,12,3,9:31 PM,8:58,MISS Anderson Free Throw 2 of 2,,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,411,4,0,3,9:31 PM,8:54,,,Bogdanovic REBOUND (Off:0 Def:3),,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,412,6,2,3,9:31 PM,8:38,Valanciunas S.FOUL (P2.T2) (M.Boland),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,414,3,11,3,9:32 PM,8:38,,,MISS Collins Free Throw 1 of 2,,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,415,4,1,3,9:32 PM,8:38,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,416,3,12,3,9:32 PM,8:38,,,MISS Collins Free Throw 2 of 2,,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,417,4,0,3,9:32 PM,8:36,Anderson REBOUND (Off:0 Def:4),,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,418,6,2,3,9:32 PM,8:24,,,Capela S.FOUL (P3.T2) (M.Smith),,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,420,3,11,3,9:33 PM,8:24,Valanciunas Free Throw 1 of 2 (10 PTS),,,68 - 78,10,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,421,3,12,3,9:33 PM,8:24,Valanciunas Free Throw 2 of 2 (11 PTS),,,68 - 79,11,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,422,2,52,3,9:33 PM,8:04,,,MISS Capela 1' Alley Oop Dunk,,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,423,4,0,3,9:33 PM,8:00,Morant REBOUND (Off:0 Def:3),,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,424,1,1,3,9:33 PM,7:55,Anderson 26' 3PT Jump Shot (7 PTS) (Morant 7 AST),,,68 - 82,14,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,426,1,79,3,9:34 PM,7:38,,,Hunter 25' 3PT Pullup Jump Shot (16 PTS) (Young 6 AST),71 - 82,11,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,428,2,79,3,9:34 PM,7:24,MISS Brooks 26' 3PT Pullup Jump Shot,,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,429,4,0,3,9:34 PM,7:22,,,Capela REBOUND (Off:1 Def:6),,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,430,6,1,3,9:34 PM,7:19,Morant P.FOUL (P3.T3) (N.Green),,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,432,8,0,3,9:34 PM,7:19,,,SUB: Gallinari FOR Capela,,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,434,5,45,3,9:34 PM,7:13,,,Young Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000035,435,2,78,3,9:35 PM,6:59,MISS Valanciunas 8' Floating Jump Shot,,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,436,4,0,3,9:35 PM,6:58,Brooks REBOUND (Off:1 Def:2),,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,437,1,72,3,9:35 PM,6:56,Brooks 6' Putback Layup (20 PTS),,,71 - 84,13,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,438,2,3,3,9:35 PM,6:43,,,MISS Collins 6' Hook Shot,,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,439,4,0,3,9:35 PM,6:41,Anderson REBOUND (Off:0 Def:5),,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,440,2,6,3,9:35 PM,6:33,MISS Anderson 7' Driving Layup,,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,441,4,0,3,9:35 PM,6:27,,,Young REBOUND (Off:0 Def:4),,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,442,6,1,3,9:35 PM,6:23,Allen P.FOUL (P1.T4) (M.Boland),,,,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,444,8,0,3,9:36 PM,6:23,SUB: Melton FOR Brooks,,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,445,8,0,3,9:36 PM,6:23,,,SUB: Reddish FOR Young,,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,446,8,0,3,9:36 PM,6:23,,,SUB: Rondo FOR Hunter,,,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,450,2,1,3,9:36 PM,6:08,,,MISS Gallinari 25' 3PT Jump Shot,,,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,451,4,0,3,9:36 PM,6:05,Valanciunas REBOUND (Off:0 Def:9),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,452,2,79,3,9:36 PM,5:56,MISS Allen 13' Pullup Jump Shot,,,,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,453,4,0,3,9:36 PM,5:53,,,Gallinari REBOUND (Off:0 Def:3),,,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,454,2,41,3,9:37 PM,5:47,,,MISS Bogdanovic 3' Running Layup,,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,455,4,0,3,9:37 PM,5:42,,,Bogdanovic REBOUND (Off:1 Def:3),,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,456,1,97,3,9:37 PM,5:42,,,Bogdanovic  Tip Layup Shot (2 PTS),73 - 84,11,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,457,2,44,3,9:37 PM,5:26,MISS Valanciunas 2' Reverse Layup,,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,458,4,0,3,9:37 PM,5:24,,,Reddish REBOUND (Off:0 Def:3),,,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,459,6,2,3,9:37 PM,5:20,Anderson S.FOUL (P1.PN) (M.Smith),,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,461,3,11,3,9:37 PM,5:20,,,Gallinari Free Throw 1 of 2 (6 PTS),74 - 84,10,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,462,8,0,3,9:37 PM,5:20,SUB: Bane FOR Allen,,,,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,463,8,0,3,9:37 PM,5:20,,,SUB: Huerter FOR Bogdanovic,,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,466,3,12,3,9:38 PM,5:20,,,Gallinari Free Throw 2 of 2 (7 PTS),75 - 84,9,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,467,2,1,3,9:38 PM,5:06,MISS Melton  3PT Jump Shot,,,,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,468,4,0,3,9:38 PM,5:04,,,Rondo REBOUND (Off:0 Def:1),,,5.0,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,469,2,101,3,9:38 PM,4:51,,,MISS Huerter 12' Driving Floating Jump Shot,,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,470,4,0,3,9:38 PM,4:47,Valanciunas REBOUND (Off:0 Def:10),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,471,1,101,3,9:38 PM,4:42,Valanciunas 7' Driving Floating Jump Shot (13 PTS) (Morant 8 AST),,,75 - 86,11,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,473,2,80,3,9:39 PM,4:29,,,MISS Gallinari 25' 3PT Step Back Jump Shot,,,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,474,4,0,3,9:39 PM,4:27,Melton REBOUND (Off:0 Def:4),,,,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,475,1,58,3,9:39 PM,4:20,Valanciunas 5' Turnaround Hook Shot (15 PTS) (Morant 9 AST),,,75 - 88,13,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,477,5,45,3,9:39 PM,4:10,,,Reddish Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000035,478,8,0,3,9:39 PM,4:10,SUB: Dieng FOR Valanciunas,,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,479,8,0,3,9:39 PM,4:10,,,SUB: S. Hill FOR Collins,,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,482,1,1,3,9:40 PM,3:58,Anderson 26' 3PT Jump Shot (10 PTS) (Morant 10 AST),,,75 - 91,16,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,484,2,101,3,9:40 PM,3:45,,,MISS Rondo 3' Driving Floating Jump Shot,,,5.0,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,485,4,0,3,9:40 PM,3:43,Dieng REBOUND (Off:1 Def:3),,,,,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,486,1,6,3,9:40 PM,3:30,Morant 2' Driving Layup (17 PTS),,,75 - 93,18,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,487,9,1,3,9:40 PM,3:28,,,Hawks Timeout: Regular (Reg.4 Short 0),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,488,8,0,3,9:42 PM,3:28,SUB: Jones FOR Anderson,,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,489,8,0,3,9:42 PM,3:28,SUB: Clarke FOR Morant,,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,490,8,0,3,9:42 PM,3:28,,,SUB: Fernando FOR Gallinari,,,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,494,1,1,3,9:43 PM,3:12,,,Reddish 25' 3PT Jump Shot (12 PTS) (Rondo 6 AST),78 - 93,15,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,496,1,75,3,9:44 PM,2:49,Bane 1' Driving Finger Roll Layup (8 PTS) (Jones 3 AST),,,78 - 95,17,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,498,2,1,3,9:44 PM,2:34,,,MISS Huerter 28' 3PT Jump Shot,,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,499,4,0,3,9:44 PM,2:33,GRIZZLIES Rebound,,,,,2.0,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,500,6,3,3,9:44 PM,2:33,,,Fernando L.B.FOUL (P1.T3) (M.Boland),,,5.0,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,502,1,78,3,9:44 PM,2:24,Clarke 9' Floating Jump Shot (5 PTS) (Jones 4 AST),,,78 - 97,19,4.0,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,504,2,6,3,9:45 PM,2:11,Bane BLOCK (1 BLK),,MISS Reddish 5' Driving Layup,,,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,1
+0012000035,506,4,0,3,9:45 PM,2:07,Dieng REBOUND (Off:1 Def:4),,,,,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,507,2,44,3,9:45 PM,2:01,MISS Melton 1' Reverse Layup,,,,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,508,4,0,3,9:45 PM,1:58,Bane REBOUND (Off:2 Def:2),,,,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,509,2,72,3,9:45 PM,1:57,MISS Bane 2' Putback Layup,,Fernando BLOCK (1 BLK),,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,1
+0012000035,511,4,0,3,9:45 PM,1:57,,,Reddish REBOUND (Off:0 Def:4),,,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,512,1,6,3,9:45 PM,1:44,,,Huerter 3' Driving Layup (4 PTS),80 - 97,17,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,513,5,1,3,9:45 PM,1:31,Jones Bad Pass Turnover (P1.T11),,Huerter STEAL (2 STL),,,4.0,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,515,2,101,3,9:45 PM,1:26,,,MISS Huerter 11' Driving Floating Jump Shot,,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,516,4,0,3,9:45 PM,1:23,Jones REBOUND (Off:0 Def:2),,,,,4.0,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,517,2,6,3,9:46 PM,1:04,MISS Melton 6' Driving Layup,,Rondo BLOCK (1 BLK),,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,1
+0012000035,519,4,0,3,9:46 PM,1:02,,,Reddish REBOUND (Off:0 Def:5),,,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,520,2,1,3,9:46 PM,0:58,,,MISS Huerter 28' 3PT Jump Shot,,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,521,4,0,3,9:46 PM,0:54,Bane REBOUND (Off:2 Def:3),,,,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,522,1,50,3,9:46 PM,0:52,Clarke 2' Running Dunk (7 PTS) (Bane 3 AST),,,80 - 99,19,4.0,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,524,2,79,3,9:46 PM,0:41,,,MISS Reddish 27' 3PT Pullup Jump Shot,,,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,525,4,0,3,9:46 PM,0:38,Clarke REBOUND (Off:3 Def:3),,,,,4.0,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,526,2,79,3,9:46 PM,0:32,MISS Melton 25' 3PT Pullup Jump Shot,,,,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,527,4,0,3,9:46 PM,0:28,,,Fernando REBOUND (Off:0 Def:1),,,5.0,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,528,1,79,3,9:47 PM,0:09,,,Rondo 26' 3PT Pullup Jump Shot (3 PTS),83 - 99,16,5.0,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,529,2,6,3,9:47 PM,0:00,MISS Melton 2' Driving Layup,,Fernando BLOCK (2 BLK),,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,1
+0012000035,531,4,0,3,9:47 PM,0:00,,,Fernando REBOUND (Off:0 Def:2),,,5.0,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,532,13,0,3,9:47 PM,0:00,,,,83 - 99,16,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012000035,543,12,0,4,9:50 PM,12:00,,,,83 - 99,16,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,544,5,45,4,9:50 PM,11:47,Clarke Out of Bounds - Bad Pass Turnover Turnover (P1.T12),,,,,4.0,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0012000035,545,2,1,4,9:50 PM,11:26,,,MISS S. Hill  3PT Jump Shot,,,5.0,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,546,4,0,4,9:50 PM,11:25,GRIZZLIES Rebound,,,,,2.0,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,548,2,78,4,9:51 PM,11:11,MISS Clarke 7' Floating Jump Shot,,,,,4.0,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,549,4,0,4,9:51 PM,11:09,,,Capela REBOUND (Off:1 Def:7),,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,550,2,1,4,9:51 PM,10:58,,,MISS Reddish 25' 3PT Jump Shot,,,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,551,4,0,4,9:51 PM,10:57,GRIZZLIES Rebound,,,,,2.0,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,552,6,3,4,9:51 PM,10:57,,,S. Hill L.B.FOUL (P2.T1) (M.Smith),,,5.0,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,554,1,1,4,9:52 PM,10:48,Allen 26' 3PT Jump Shot (6 PTS) (Brooks 2 AST),,,83 - 102,19,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,556,2,3,4,9:52 PM,10:20,,,MISS Capela 7' Hook Shot,,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,557,4,0,4,9:52 PM,10:18,Jones REBOUND (Off:0 Def:3),,,,,4.0,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,558,2,1,4,9:52 PM,10:11,MISS Allen  3PT Jump Shot,,,,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,559,4,0,4,9:52 PM,10:08,Brooks REBOUND (Off:2 Def:2),,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,560,1,101,4,9:53 PM,10:07,Brooks 8' Driving Floating Jump Shot (22 PTS),,,83 - 104,21,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,561,5,4,4,9:53 PM,9:55,,,Hunter Traveling Turnover (P2.T9),,,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000035,562,8,0,4,9:53 PM,9:55,SUB: Morant FOR Jones,,,,,4.0,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,563,8,0,4,9:53 PM,9:55,,,SUB: Young FOR Rondo,,,5.0,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,564,8,0,4,9:53 PM,9:55,,,SUB: Collins FOR S. Hill,,,5.0,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,568,2,1,4,9:53 PM,9:44,MISS Brooks 25' 3PT Jump Shot,,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,569,4,0,4,9:53 PM,9:41,,,Capela REBOUND (Off:1 Def:8),,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,570,1,1,4,9:54 PM,9:32,,,Hunter 25' 3PT Jump Shot (19 PTS) (Reddish 2 AST),86 - 104,18,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,572,1,1,4,9:54 PM,9:19,Allen  3PT Jump Shot (9 PTS) (Brooks 3 AST),,,86 - 107,21,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,574,2,101,4,9:54 PM,9:04,,,MISS Hunter 8' Driving Floating Jump Shot,,,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,575,4,0,4,9:54 PM,9:02,Valanciunas REBOUND (Off:0 Def:11),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,576,5,1,4,9:54 PM,8:55,Brooks Bad Pass Turnover (P3.T13),,Reddish STEAL (3 STL),,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,578,9,1,4,9:54 PM,8:46,,,Hawks Timeout: Regular (Reg.5 Short 0),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,579,8,0,4,9:56 PM,8:46,SUB: Anderson FOR Clarke,,,,,4.0,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,580,8,0,4,9:56 PM,8:46,,,SUB: Bogdanovic FOR Reddish,,,5.0,1629629,Cam Reddish,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,583,2,101,4,9:57 PM,8:38,,,MISS Young 9' Driving Floating Jump Shot,,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,584,4,0,4,9:57 PM,8:36,Anderson REBOUND (Off:0 Def:6),,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,585,1,2,4,9:57 PM,8:31,Brooks 22' Running Jump Shot (24 PTS) (Morant 11 AST),,,86 - 109,23,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,587,1,1,4,9:58 PM,8:19,,,Hunter 26' 3PT Jump Shot (22 PTS) (Bogdanovic 2 AST),89 - 109,20,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,589,2,1,4,9:58 PM,8:00,MISS Allen 26' 3PT Jump Shot,,,,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,590,4,0,4,9:58 PM,7:59,Anderson REBOUND (Off:1 Def:6),,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,591,2,75,4,9:58 PM,7:55,MISS Morant 2' Driving Finger Roll Layup,,Capela BLOCK (1 BLK),,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1
+0012000035,593,4,0,4,9:58 PM,7:51,Valanciunas REBOUND (Off:1 Def:11),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,594,1,78,4,9:58 PM,7:50,Valanciunas 3' Floating Jump Shot (17 PTS),,,89 - 111,22,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,595,2,1,4,9:58 PM,7:36,,,MISS Young 31' 3PT Jump Shot,,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,596,4,0,4,9:58 PM,7:32,Valanciunas REBOUND (Off:1 Def:12),,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,597,1,1,4,9:59 PM,7:26,Valanciunas 27' 3PT Jump Shot (20 PTS) (Brooks 4 AST),,,89 - 114,25,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,599,5,40,4,9:59 PM,7:10,,,Bogdanovic Out of Bounds Lost Ball Turnover (P1.T10),,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0012000035,600,8,0,4,9:59 PM,7:10,SUB: Melton FOR Allen,,,,,4.0,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,601,8,0,4,9:59 PM,7:10,SUB: Dieng FOR Valanciunas,,,,,4.0,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,602,8,0,4,9:59 PM,7:10,SUB: Buchanan FOR Brooks,,,,,4.0,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629783,Shaq Buchanan,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,606,6,30,4,10:00 PM,7:10,,,,,,,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0012000035,607,3,16,4,10:00 PM,7:10,Morant Free Throw Technical (18 PTS),,,89 - 115,26,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,608,2,98,4,10:01 PM,6:53,MISS Buchanan 2' Cutting Layup Shot,,Capela BLOCK (2 BLK),,,4.0,1629783,Shaq Buchanan,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1
+0012000035,610,4,0,4,10:01 PM,6:53,GRIZZLIES Rebound,,,,,2.0,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,612,8,0,4,10:01 PM,6:53,,,SUB: Gallinari FOR Capela,,,5.0,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,614,5,1,4,10:01 PM,6:46,Morant Bad Pass Turnover (P3.T14),,Collins STEAL (1 STL),,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,616,2,2,4,10:01 PM,6:41,,,MISS Hunter  3PT Running Jump Shot,,,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,617,4,0,4,10:01 PM,6:37,Dieng REBOUND (Off:1 Def:5),,,,,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,618,6,2,4,10:02 PM,6:25,,,Young S.FOUL (P2.T2) (M.Smith),,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,620,3,11,4,10:02 PM,6:25,Anderson Free Throw 1 of 2 (11 PTS),,,89 - 116,27,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,621,3,12,4,10:02 PM,6:25,MISS Anderson Free Throw 2 of 2,,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,622,4,0,4,10:02 PM,6:22,,,Collins REBOUND (Off:1 Def:4),,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,623,6,17,4,10:03 PM,6:13,GRIZZLIES T.Foul (Def. 3 Sec Dieng ) (M.Smith),,,,,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0012000035,624,3,16,4,10:03 PM,6:13,,,Gallinari Free Throw Technical (8 PTS),90 - 116,26,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,625,2,6,4,10:03 PM,6:07,,,MISS Young 2' Driving Layup,,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,626,4,0,4,10:03 PM,6:03,,,Collins REBOUND (Off:2 Def:4),,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,627,2,97,4,10:03 PM,6:03,,,MISS Collins  Tip Layup Shot,,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,628,4,0,4,10:03 PM,6:01,,,Collins REBOUND (Off:3 Def:4),,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,629,1,97,4,10:03 PM,6:01,,,Collins  Tip Layup Shot (10 PTS),92 - 116,24,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,630,1,5,4,10:04 PM,5:48,Buchanan 1' Layup (2 PTS) (Morant 12 AST),,,92 - 118,26,4.0,1629783,Shaq Buchanan,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,632,2,1,4,10:04 PM,5:40,,,MISS Bogdanovic 24' 3PT Jump Shot,,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,633,4,0,4,10:04 PM,5:37,Morant REBOUND (Off:0 Def:4),,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,634,1,106,4,10:04 PM,5:33,Buchanan  Running Alley Oop Dunk Shot (4 PTS) (Morant 13 AST),,,92 - 120,28,4.0,1629783,Shaq Buchanan,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,636,9,1,4,10:04 PM,5:33,,,Hawks Timeout: Regular (Reg.6 Short 0),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,637,8,0,4,10:06 PM,5:33,SUB: Bane FOR Melton,,,,,4.0,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,638,8,0,4,10:06 PM,5:33,SUB: McDermott FOR Anderson,,,,,4.0,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,1630253,Sean McDermott,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,639,8,0,4,10:06 PM,5:33,SUB: Boatwright FOR Morant,,,,,4.0,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1629594,Bennie Boatwright,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,640,8,0,4,10:06 PM,5:33,SUB: Caver FOR Dieng,,,,,4.0,203476,Gorgui Dieng,1610612763.0,Memphis,Grizzlies,MEM,4,1629958,Ahmad Caver,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012000035,641,8,0,4,10:06 PM,5:33,,,SUB: Huerter FOR Hunter,,,5.0,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,647,5,1,4,10:07 PM,5:14,Boatwright STEAL (1 STL),,Young Bad Pass Turnover (P2.T11),,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1629594,Bennie Boatwright,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,649,5,1,4,10:07 PM,5:08,Bane Bad Pass Turnover (P2.T15),,Young STEAL (1 STL),,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,651,2,2,4,10:07 PM,5:01,,,MISS Bogdanovic  3PT Running Jump Shot,,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,652,4,0,4,10:07 PM,4:58,,,Huerter REBOUND (Off:1 Def:1),,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,654,8,0,4,10:07 PM,4:57,,,SUB: S. Hill FOR Gallinari,,,5.0,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,5,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,655,8,0,4,10:07 PM,4:57,,,SUB: Rondo FOR Young,,,5.0,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,656,8,0,4,10:07 PM,4:57,,,SUB: Fernando FOR Collins,,,5.0,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,660,1,101,4,10:08 PM,4:46,,,Huerter 12' Driving Floating Jump Shot (6 PTS),94 - 120,26,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,661,1,1,4,10:08 PM,4:36,Boatwright 27' 3PT Jump Shot (3 PTS) (Caver 1 AST),,,94 - 123,29,4.0,1629594,Bennie Boatwright,1610612763.0,Memphis,Grizzlies,MEM,4,1629958,Ahmad Caver,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,663,6,1,4,10:08 PM,4:25,Buchanan P.FOUL (P1.T1) (N.Green),,,,,4.0,1629783,Shaq Buchanan,1610612763.0,Memphis,Grizzlies,MEM,5,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,731,18,1,4,10:09 PM,4:07,,,,94 - 123,29,0.0,728,Jimmy King,,,,,0,0,,,,,,1,0,,,,,,0
+0012000035,728,5,11,4,10:09 PM,4:07,,,Hawks Turnover: Shot Clock (T#12),,,3.0,1610612737,,,,,,0,0,,,,,,1,0,,,,,,0
+0012000035,666,2,1,4,10:09 PM,3:56,MISS Caver 26' 3PT Jump Shot,,,,,4.0,1629958,Ahmad Caver,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,667,4,0,4,10:09 PM,3:52,,,Bogdanovic REBOUND (Off:1 Def:4),,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,668,2,1,4,10:09 PM,3:46,,,MISS Huerter 25' 3PT Jump Shot,,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,669,4,0,4,10:09 PM,3:42,,,Bogdanovic REBOUND (Off:2 Def:4),,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,670,1,72,4,10:09 PM,3:42,,,Bogdanovic  Putback Layup (4 PTS),96 - 123,27,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,671,2,1,4,10:10 PM,3:31,MISS McDermott 26' 3PT Jump Shot,,,,,4.0,1630253,Sean McDermott,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,672,4,0,4,10:10 PM,3:28,,,Rondo REBOUND (Off:0 Def:2),,,5.0,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,673,1,1,4,10:10 PM,3:22,,,Bogdanovic 22' Jump Shot (6 PTS) (Rondo 7 AST),98 - 123,25,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,675,2,1,4,10:10 PM,3:08,MISS Boatwright 27' 3PT Jump Shot,,,,,4.0,1629594,Bennie Boatwright,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,676,4,0,4,10:10 PM,3:04,,,Huerter REBOUND (Off:1 Def:2),,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,677,1,2,4,10:10 PM,3:02,,,Bogdanovic 25' 3PT Running Jump Shot (9 PTS) (Huerter 4 AST),101 - 123,22,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,679,2,101,4,10:10 PM,2:44,MISS Caver 3' Driving Floating Jump Shot,,,,,4.0,1629958,Ahmad Caver,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,680,4,0,4,10:10 PM,2:43,Caver REBOUND (Off:1 Def:0),,,,,4.0,1629958,Ahmad Caver,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,681,2,1,4,10:10 PM,2:38,MISS Buchanan 28' 3PT Jump Shot,,,,,4.0,1629783,Shaq Buchanan,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,682,4,0,4,10:10 PM,2:35,,,S. Hill REBOUND (Off:0 Def:1),,,5.0,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,683,6,1,4,10:11 PM,2:29,Buchanan P.FOUL (P2.T2) (M.Smith),,,,,4.0,1629783,Shaq Buchanan,1610612763.0,Memphis,Grizzlies,MEM,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,685,2,1,4,10:11 PM,2:23,,,MISS Huerter 26' 3PT Jump Shot,,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0012000035,686,4,0,4,10:11 PM,2:21,Boatwright REBOUND (Off:0 Def:1),,,,,4.0,1629594,Bennie Boatwright,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0012000035,687,2,1,4,10:11 PM,2:15,MISS Bane 25' 3PT Jump Shot,,,,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,688,4,0,4,10:11 PM,2:11,,,Bogdanovic REBOUND (Off:2 Def:5),,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,689,2,2,4,10:11 PM,2:07,,,MISS Huerter 25' 3PT Running Jump Shot,,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,690,4,0,4,10:11 PM,2:04,Bane REBOUND (Off:2 Def:4),,,,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,691,2,41,4,10:11 PM,2:01,MISS Bane 6' Running Layup,,Bogdanovic BLOCK (1 BLK),,,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,1
+0012000035,693,4,0,4,10:11 PM,2:01,GRIZZLIES Rebound,,,,,2.0,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,695,6,2,4,10:12 PM,1:54,,,Huerter S.FOUL (P4.T3) (M.Boland),,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629783,Shaq Buchanan,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012000035,697,3,11,4,10:12 PM,1:54,MISS Buchanan Free Throw 1 of 2,,,,,4.0,1629783,Shaq Buchanan,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,698,4,1,4,10:12 PM,1:54,GRIZZLIES Rebound,,,,,2.0,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,699,8,0,4,10:12 PM,1:54,,,SUB: Mays FOR Bogdanovic,,,5.0,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0012000035,701,3,12,4,10:13 PM,1:54,Buchanan Free Throw 2 of 2 (5 PTS),,,101 - 124,23,4.0,1629783,Shaq Buchanan,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,702,6,1,4,10:13 PM,1:49,Buchanan P.FOUL (P3.T3) (N.Green),,,,,4.0,1629783,Shaq Buchanan,1610612763.0,Memphis,Grizzlies,MEM,5,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,704,1,5,4,10:13 PM,1:41,,,Fernando 1' Layup (2 PTS) (Mays 1 AST),103 - 124,21,5.0,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,5,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0012000035,706,1,75,4,10:13 PM,1:30,Bane  Driving Finger Roll Layup (10 PTS) (Boatwright 1 AST),,,103 - 126,23,4.0,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629594,Bennie Boatwright,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,708,2,1,4,10:14 PM,1:15,,,MISS Rondo 25' 3PT Jump Shot,,,5.0,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,709,4,0,4,10:14 PM,1:14,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,710,6,1,4,10:14 PM,1:14,Boatwright P.FOUL (P1.PN) (M.Boland),,,,,4.0,1629594,Bennie Boatwright,1610612763.0,Memphis,Grizzlies,MEM,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0012000035,712,3,11,4,10:14 PM,1:14,,,MISS Fernando Free Throw 1 of 2,,,5.0,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,713,4,1,4,10:14 PM,1:14,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0012000035,714,3,12,4,10:14 PM,1:14,,,Fernando Free Throw 2 of 2 (3 PTS),104 - 126,22,5.0,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,715,1,108,4,10:15 PM,1:02,Boatwright 1' Cutting Dunk Shot (5 PTS) (Caver 2 AST),,,104 - 128,24,4.0,1629594,Bennie Boatwright,1610612763.0,Memphis,Grizzlies,MEM,4,1629958,Ahmad Caver,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012000035,718,2,101,4,10:15 PM,0:48,,,MISS Huerter 13' Driving Floating Jump Shot,,,5.0,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,719,4,0,4,10:15 PM,0:46,Caver REBOUND (Off:1 Def:1),,,,,4.0,1629958,Ahmad Caver,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,720,2,2,4,10:15 PM,0:42,MISS Boatwright 26' 3PT Running Jump Shot,,,,,4.0,1629594,Bennie Boatwright,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,721,4,0,4,10:15 PM,0:39,,,Rondo REBOUND (Off:0 Def:3),,,5.0,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,722,2,103,4,10:15 PM,0:34,,,MISS S. Hill 28' 3PT Running Pull-Up Jump Shot,,,5.0,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,723,4,0,4,10:15 PM,0:32,,,Mays REBOUND (Off:1 Def:0),,,5.0,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,724,1,72,4,10:15 PM,0:32,,,Mays  Putback Layup (2 PTS),106 - 128,22,5.0,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,725,5,11,4,10:16 PM,0:08,GRIZZLIES Turnover: Shot Clock (T#16),,,,,2.0,1610612763,,,,,,0,0,,,,,,1,0,,,,,,0
+0012000035,726,2,99,4,10:16 PM,0:01,,,MISS Mays 2' Cutting Finger Roll Layup Shot,,,5.0,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0012000035,727,4,0,4,10:16 PM,0:01,Boatwright REBOUND (Off:0 Def:2),,,,,4.0,1629594,Bennie Boatwright,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012000035,729,13,0,4,10:17 PM,0:00,,,,106 - 128,22,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

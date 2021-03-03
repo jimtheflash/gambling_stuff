@@ -34,13 +34,21 @@ def get_season_gamelog(season_string: str) -> pd.DataFrame:
     """
     Args:
         season_string (str): formatted season year string
+        season_type (str): one of
     Returns:
         dataframe from NBA API with DFS points appended
     """
     logger.info(f"Getting season game log for season: {season_string}")
-    seas_gamelog = pg.PlayerGameLogs(season_nullable=season_string)
-    gl_df = seas_gamelog.get_data_frames()
-    gl_df = gl_df[0]
+    gl_df_list = []
+    for season_type in ["Pre Season", "Regular Season", "Playoffs"]:
+        seas_gamelog = pg.PlayerGameLogs(
+            season_nullable=season_string, season_type_nullable=season_type
+        )
+        tmp_gl_df = seas_gamelog.get_data_frames()
+        tmp_gl_df = tmp_gl_df[0]
+        tmp_gl_df["SEASON_TYPE"] = season_type
+        gl_df_list.append(tmp_gl_df)
+    gl_df = pd.concat(gl_df_list)
     gl_df["fd"] = (
         gl_df.PTS
         + (1.2 * gl_df.REB)
