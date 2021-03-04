@@ -430,12 +430,52 @@ summary {
 <p>We’re trying to make a lot of money betting on sports, right? Right. So the purpose of this is to build some fucking NBA models that generate a lot of revenue.</p>
 <p>So I guess to be more specific, there are a few different kinds of wagers that we can try to win using predictive modeling techniques:</p>
 <ul>
-<li>Conventional Bets: Moneylines, Spread, Totals
+<li><p>Conventional Bets: Moneylines, Spread, Totals</p>
 <ul>
 <li>We’ve modeled this stuff before, and there’s probably not a huge edge to be gained, but in cases where a book is running a promo or something, or in cases where it’s possible to get different odds for alternative bets (e.g. better odds for larger margins of victory, or worse odds for smaller totals) then there could be some edges to be found.</li>
-<li>Per Nate Silver, these kinds of bets are best modeled using a combination of team-level and player-level models.</li>
+<li>Per Nate Silver, these kinds of bets are best modeled using a combination of team-level and player-level models, which I think makes sense: there are macro team things happening (coaching strategy, roster composition, schedule/travel, etc.) and then micro player things happening (individual player performance, interactions between players) that get aggregated upwards.</li>
 </ul></li>
+<li><p>Game Props: First Team to Score, First FG, Make/Miss First Shots…</p></li>
+<li><p>Player Props: Expected Points, Rebounds, Assists, Made 3’s…</p></li>
 </ul>
+<p>I’m making this in <code>RMarkdown</code> so that I can be expository outside of comments. BUT I’M GONNA BE EXPOSITORY IN THE COMMENTS TOO!</p>
+</div>
+<div id="load-stuff" class="section level2">
+<h2>Load Stuff</h2>
+<p>We’re doing this in <code>tidyverse</code> to spite Shook, and also to try and grab the attention of the fine folks at RStudio in case they’re looking for someone to try to liase (SP?) with sportsy people, though tbqh they already have those connections and more. AHEM.</p>
+<pre class="r"><code># Here&#39;s the thing - I&#39;m still going to explicitly specify which library non-base functions come from using the `::` operator; that&#39;ll make it a lot easier for me to packagize later. But I&#39;m still loading the libraries here, if for no other reason, in case I forget where a function comes from.
+
+## tidyverse, but IRL we&#39;ll only load the specific packages we need (which yes, dependencies, but c&#39;mon we can manage a few dependencies)
+# install.packages(&#39;tidyverse&#39;)
+library(tidyverse)</code></pre>
+<pre><code>## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.0 ──</code></pre>
+<pre><code>## ✓ ggplot2 3.3.3     ✓ purrr   0.3.4
+## ✓ tibble  3.1.0     ✓ dplyr   1.0.4
+## ✓ tidyr   1.1.2     ✓ stringr 1.4.0
+## ✓ readr   1.4.0     ✓ forcats 0.5.1</code></pre>
+<pre><code>## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+## x dplyr::filter() masks stats::filter()
+## x dplyr::lag()    masks stats::lag()</code></pre>
+<pre class="r"><code>## tidymodels cuz that&#39;s the framework we&#39;re using, but I bet there&#39;s gonna be a bunch of stuff we need to install...
+# install.packages(&#39;tidymodels&#39;)
+library(tidymodels)</code></pre>
+<pre><code>## ── Attaching packages ────────────────────────────────────── tidymodels 0.1.2 ──</code></pre>
+<pre><code>## ✓ broom     0.7.5      ✓ recipes   0.1.15
+## ✓ dials     0.0.9      ✓ rsample   0.0.9 
+## ✓ infer     0.5.4      ✓ tune      0.1.3 
+## ✓ modeldata 0.1.0      ✓ workflows 0.2.1 
+## ✓ parsnip   0.1.5      ✓ yardstick 0.0.7</code></pre>
+<pre><code>## ── Conflicts ───────────────────────────────────────── tidymodels_conflicts() ──
+## x scales::discard() masks purrr::discard()
+## x dplyr::filter()   masks stats::filter()
+## x recipes::fixed()  masks stringr::fixed()
+## x dplyr::lag()      masks stats::lag()
+## x yardstick::spec() masks readr::spec()
+## x recipes::step()   masks stats::step()</code></pre>
+</div>
+<div id="nba-team-game-models" class="section level2">
+<h2>NBA Team-Game Models</h2>
+<p>These models are going to predict team-games, so that we can estimate conventional bets, and also so we can mix team-level estimates with player-level estimates to get the best of everything.</p>
 </div>
 
 

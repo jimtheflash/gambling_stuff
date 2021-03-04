@@ -22,3 +22,137 @@ So I guess to be more specific, there are a few different kinds of wagers that w
 * Game Props: First Team to Score, First FG, Make/Miss First Shots...
 
 * Player Props: Expected Points, Rebounds, Assists, Made 3's...
+
+I'm making this in `RMarkdown` so that I can be expository outside of comments. BUT I'M GONNA BE EXPOSITORY IN THE COMMENTS TOO!
+
+## Load Stuff
+
+We're doing this in `tidyverse` to spite Shook, and also to try and grab the attention of the fine folks at RStudio in case they're looking for someone to try to liase (SP?) with sportsy people, though tbqh they already have those connections and more. AHEM.
+
+```{r load-stuff}
+
+# Here's the thing - I'm still going to explicitly specify which library non-base functions come from using the `::` operator; that'll make it a lot easier for me to packagize later. But I'm still loading the libraries here, if for no other reason, in case I forget where a function comes from.
+
+## tidyverse, but IRL we'll only load the specific packages we need (which yes, dependencies, but c'mon we can manage a few dependencies)
+# install.packages('tidyverse')
+library(tidyverse)
+
+## tidymodels cuz that's the framework we're using, but I bet there's gonna be a bunch of stuff we need to install...
+# install.packages('tidymodels')
+library(tidymodels)
+
+## timetk to handle some rolling stuff
+# install.packages('timetk')
+library(timetk)
+
+```
+
+All these conflicts are another good reason to explicitly specify which package you're using for a given function.
+
+## NBA Team-Game Models
+
+These models are going to predict team-games, so that we can estimate conventional bets, and also so we can mix team-level estimates with player-level estimates to get the best of everything.
+
+```{r team-game models}
+
+# first we gotta read in some data; how about, the 2018-19 season: pre-pandemic! completed season! 
+player_games <- read.csv('../data/nba_gamelogs/nba_gamelogs_2018-19.csv',
+                         colClasses = 'character') 
+
+# this is at the player-game level, so we'll have to roll it up to team-game, and tidy it up a bit to get opponent data and that sorta stuff
+
+# also should probably make the rolling functions ahead of time, iirc it moves a lot faster that way
+rollmean_p <- function(x, p) {
+  slider::slide_vec(
+    x,
+    mean,
+    .before = p,
+    .complete = TRUE
+  )
+}
+
+rollmax_p <- function(x, p) {
+  slider::slide_vec(
+    x,
+    max,
+    .before = p,
+    .complete = TRUE
+  )
+}
+
+team_games1 <- player_games %>%
+  janitor::clean_names() %>%
+  dplyr::mutate(home_away = dplyr::if_else(grepl('@', matchup), 'away', 'home'),
+                join_var = dplyr::if_else(home_away == 'away', 'home', 'away'),
+                strata_var = paste0(home_away, wl)) %>%
+  dplyr::mutate(
+    dplyr::across(
+      c(min, pts, fga, fgm, fta, ftm, pf),
+      as.numeric
+    )
+  ) %>%
+  dplyr::filter(season_type == 'Regular Season') %>%
+  dplyr::group_by(team_name, game_id, home_away, strata_var, join_var) %>%
+  dplyr::summarise(
+    game_date = min(as.Date(game_date)),
+    players_in_rotation = dplyr::n_distinct(player_id[min > 0]),
+    dplyr::across(
+      c(pts, fga, fgm, fta, ftm, pf),
+      sum,
+      .names = '{.col}_for'
+      ),
+    .groups = 'keep'
+    ) %>%
+  dplyr::ungroup() %>%
+  # we're going to have to manually calculate the window functions and aggregates and whatever, since we'll want to join this to itself later to get the opponent's stats and it's easier to do it now than later in some recipe or whatever
+  # dplyr::arrange(team_name, game_date) %>%
+  # dplyr::group_by(team_name) %>%
+  # dplyr::mutate(
+  #   dplyr::across(
+  #     dplyr::ends_with('_for'),
+  #     list(
+  #       rollmean_3 = ~rollmean_p(.x, 3),
+  #       rollmax_3 = ~rollmax_p(.x, 3),
+  #     )
+  #   )
+  # ) %>%
+  identity()
+
+# wide_home_away_games <- team_games1 %>%
+#   tidyr::pivot_wider(
+#     id_cols = c(game_id),
+#     names_from = home_away,
+#     values_from = dplyr::ends_with('_for'),
+#     names_glue = "{home_away}_{.value}"
+#   )
+
+# join it back to itself to get opponent stuff
+rename_points_against <- function(x) {
+  gsub('_for', '_against', x)
+}
+
+team_games2 <- team_games1 %>%
+  dplyr::inner_join(
+    team_games1 %>%
+      dplyr::select(-strata_var) %>%
+      dplyr::rename_all(rename_points_against),
+    by = c('game_id' = 'game_id',
+           'game_date' = 'game_date',
+           'join_var' = 'home_away'))
+
+# ok so now we can use some of the tidymodels functions to calculate shit like averages, back-to-backs, all that jazz...where does that live...
+
+# ok first part lives in rsample apparently; we're splittin' into test/train here (can parameterize later beyond stratifying by home/away splits)
+train_test_split <- rsample::initial_split(team_games2, strata = 'strata_var')
+team_games_train <- rsample::training(train_test_split)
+team_games_test <- rsample::testing(train_test_split)
+
+recipe_points_for <- recipes::recipe(pts_for ~ ., data = team_games_train %>% dplyr::select(-strata_var))
+
+# pts_for_rec_windows <- pts_for_recipe %>%
+#   recipes::step_window(
+#     
+#   )
+
+```
+
