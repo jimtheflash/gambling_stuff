@@ -442,7 +442,7 @@ summary {
 </div>
 <div id="load-stuff" class="section level2">
 <h2>Load Stuff</h2>
-<p>We’re doing this in <code>tidyverse</code> to spite Shook, and also to try and grab the attention of the fine folks at RStudio in case they’re looking for someone to try to liase (SP?) with sportsy people, though tbqh they already have those connections and more. AHEM.</p>
+<p>We’re doing this in <code>tidyverse</code> <del>to spite Shook</del> cuz it’s a nice framework, and also to try and grab the attention of the fine folks at RStudio in case they’re looking for someone to try to liaise with sports folk, though tbqh they already have those connections and more. AHEM.</p>
 <pre class="r"><code># Here&#39;s the thing - I&#39;m still going to explicitly specify which library non-base functions come from using the `::` operator; that&#39;ll make it a lot easier for me to packagize later. But I&#39;m still loading the libraries here, if for no other reason, in case I forget where a function comes from.
 
 ## tidyverse, but IRL we&#39;ll only load the specific packages we need (which yes, dependencies, but c&#39;mon we can manage a few dependencies)
@@ -472,10 +472,197 @@ library(tidymodels)</code></pre>
 ## x dplyr::lag()      masks stats::lag()
 ## x yardstick::spec() masks readr::spec()
 ## x recipes::step()   masks stats::step()</code></pre>
+<pre class="r"><code>## slider to handle some rolling stuff
+# install.packages(&#39;slider&#39;)
+library(slider)</code></pre>
+<p>All these conflicts are another good reason to explicitly specify which package you’re using for a given function.</p>
 </div>
 <div id="nba-team-game-models" class="section level2">
 <h2>NBA Team-Game Models</h2>
 <p>These models are going to predict team-games, so that we can estimate conventional bets, and also so we can mix team-level estimates with player-level estimates to get the best of everything.</p>
+<pre class="r"><code># first we gotta read in some data; how about, the 2018-19 season: pre-pandemic! completed season! 
+player_games &lt;- read.csv(&#39;../data/nba_gamelogs/nba_gamelogs_2018-19.csv&#39;,
+                         colClasses = &#39;character&#39;) 
+
+# this is at the player-game level, so we&#39;ll have to roll it up to team-game, and tidy it up a bit to get opponent data and that sorta stuff
+
+# make an incrementor function to use with purrr::accumulate later
+incrementor &lt;- function(prev, new, growth = 1) {
+  dplyr::if_else(new == 0|is.na(new), new, prev + growth)
+}
+
+# also should probably make the rolling functions ahead of time, iirc it moves a lot faster that way
+rollsum_p &lt;- function(x, p, ...) {
+  slider::slide_vec(
+    x,
+    sum,
+    .before = p,
+    ...
+  )
+}
+
+rollmean_p &lt;- function(x, p, ...) {
+  slider::slide_vec(
+    x,
+    mean,
+    .before = p,
+    ...
+  )
+}
+
+rollmax_p &lt;- function(x, p, ...) {
+  slider::slide_vec(
+    x,
+    max,
+    .before = p,
+    ...
+  )
+}
+
+team_games1 &lt;- player_games %&gt;%
+  janitor::clean_names() %&gt;%
+  dplyr::mutate(home_away = dplyr::if_else(grepl(&#39;@&#39;, matchup), &#39;away&#39;, &#39;home&#39;),
+                join_var = dplyr::if_else(home_away == &#39;away&#39;, &#39;home&#39;, &#39;away&#39;),
+                strata_var = paste0(home_away, wl)) %&gt;%
+  dplyr::mutate(
+    dplyr::across(
+      c(min, pts, fga, fgm, fta, ftm, pf),
+      as.numeric
+    )
+  ) %&gt;%
+  dplyr::filter(season_type == &#39;Regular Season&#39;) %&gt;%
+  dplyr::group_by(team_name, game_id, home_away, strata_var, join_var, wl) %&gt;%
+  dplyr::summarise(
+    game_date = min(as.Date(game_date)),
+    total_minutes = sum(min, na.rm = TRUE), # we&#39;re going to use this to count overtimes later on
+    players_in_rotation = dplyr::n_distinct(player_id[min &gt; 0]),
+    dplyr::across(
+      c(pts, fga, fgm, fta, ftm, pf),
+      sum,
+      .names = &#39;{.col}_game&#39;
+      ),
+    .groups = &#39;keep&#39;
+    ) %&gt;%
+  dplyr::ungroup() %&gt;%
+  # we&#39;re going to have to manually calculate the window functions and aggregates and whatever at this step (rather than in a recipe), since we&#39;ll want to join this to itself later to get the opponent&#39;s stats and it&#39;s easier to do it now as far as i can tell; we&#39;re also using some arbitrary rolling periods, but we can update that pretty easily, and probably automate using some purrr stuff, but tktk
+  dplyr::arrange(team_name, game_date) %&gt;%
+  dplyr::group_by(team_name) %&gt;%
+  dplyr::mutate(
+    dplyr::across(
+      ends_with(&#39;_game&#39;),
+      list(rollmean_3 = ~rollmean_p(.x, 3, .complete = TRUE),
+           rollmean_10 = ~rollmean_p(.x, 10, .complete = TRUE),
+           rollmean_20 = ~rollmean_p(.x, 20, .complete = TRUE)))) %&gt;%
+  dplyr::mutate(
+    dplyr::across(
+      ends_with(&#39;_game&#39;),
+      list(rollmax_3 = ~rollmax_p(.x, 3, .complete = TRUE),
+           rollmax_10 = ~rollmax_p(.x, 10, .complete = TRUE),
+           rollmax_20 = ~rollmax_p(.x, 20, .complete = TRUE)))) %&gt;%
+  identity()
+
+# idk if i&#39;ll need this? guess it doesn&#39;t hurt to stash
+# wide_home_away_games &lt;- team_games1 %&gt;%
+#   tidyr::pivot_wider(
+#     id_cols = c(game_id),
+#     names_from = home_away,
+#     values_from = dplyr::ends_with(&#39;_game&#39;),
+#     names_glue = &quot;{home_away}_{.value}&quot;
+#   )
+
+team_games2 &lt;- team_games1 %&gt;%
+  dplyr::inner_join(
+    team_games1 %&gt;%
+      dplyr::select(-strata_var, -join_var, -total_minutes, -wl) %&gt;%
+      dplyr::rename(opp_name = team_name),
+    by = c(&#39;game_id&#39; = &#39;game_id&#39;,
+           &#39;game_date&#39; = &#39;game_date&#39;,
+           &#39;join_var&#39; = &#39;home_away&#39;)) %&gt;%
+  dplyr::select(-join_var) %&gt;%
+  dplyr::ungroup()
+
+# fix the names to be a little clearer what they actually are (there&#39;ll still have to be some kind of explicit documentation about this)
+fixed_names &lt;- gsub(&#39;.x&#39;, &#39;&#39;, names(team_games2), fixed = TRUE)
+fixed_names &lt;- gsub(&#39;.y&#39;, &#39;_allowed&#39;, fixed_names, fixed = TRUE)
+fixed_names &lt;- sub(&#39;players_in_rotation_allowed&#39;, &#39;opp_players_in_rotation&#39;, fixed_names)
+names(team_games2) &lt;- fixed_names
+
+# engineer some important stuff like margin of victory, overtimes, b2b stuff, etc.
+team_games3 &lt;- team_games2 %&gt;%
+  dplyr::mutate(
+    score_margin = pts_game - pts_game_allowed,
+    overtime = dplyr::if_else(total_minutes &gt; 240, TRUE, FALSE),
+    count_overtimes = dplyr::case_when(
+      !overtime ~ 0,
+      overtime ~ (total_minutes - 240) / 25)) %&gt;%
+  dplyr::select(-total_minutes) %&gt;%
+  dplyr::arrange(team_name, game_date) %&gt;%
+  dplyr::group_by(team_name) %&gt;%
+  dplyr::mutate(
+    b2b_g1 = dplyr::case_when(dplyr::lead(game_date) == game_date + 1 ~ TRUE, 
+                              dplyr::lead(game_date) != game_date + 1 ~ FALSE,
+                              row_number() == max(row_number()) ~ FALSE),
+    b2b_g2 = dplyr::case_when(dplyr::lag(game_date) == game_date - 1 ~ TRUE, 
+                              dplyr::lag(game_date) != game_date - 1 ~ FALSE,
+                              row_number() == 1 ~ FALSE)) %&gt;%
+  # means and maxes
+  # TODO: add mins and medians
+  dplyr::mutate(
+    dplyr::across(
+      score_margin,
+      list(rollmean_3 = ~rollmean_p(.x, 3, .complete = TRUE),
+           rollmean_10 = ~rollmean_p(.x, 10, .complete = TRUE),
+           rollmean_20 = ~rollmean_p(.x, 20, .complete = TRUE),
+           rollmax_3 = ~rollmax_p(.x, 3, .complete = TRUE),
+           rollmax_10 = ~rollmax_p(.x, 10, .complete = TRUE),
+           rollmax_20 = ~rollmax_p(.x, 20, .complete = TRUE)))) %&gt;%
+  # sums
+  dplyr::mutate(
+    win = as.numeric(wl == &#39;W&#39;),
+    dplyr::across(
+      win,
+      list(rollsum_3 = ~rollsum_p(.x, 3, .complete = TRUE),
+           rollsum_10 = ~rollsum_p(.x, 10, .complete = TRUE),
+           rollsum_20 = ~rollsum_p(.x, 20, .complete = TRUE)
+    ))) %&gt;%
+  # streaks
+  dplyr::mutate(
+    win_streak = purrr::accumulate(win, incrementor),
+    lose_streak = purrr::accumulate(as.numeric(wl == &#39;L&#39;), incrementor)) %&gt;%
+  dplyr::ungroup()
+
+# add the opponent data to make this stupid wide, but then we&#39;ll know how opponents are playing offense and defense
+team_games4 &lt;- team_games3 %&gt;%
+  dplyr::inner_join(
+    team_games3 %&gt;%
+      dplyr::select(-game_date, -home_away, -strata_var, -wl), 
+    by = c(&#39;game_id&#39; = &#39;game_id&#39;, 
+           &#39;team_name&#39; = &#39;opp_name&#39;)
+  )
+
+# fix the names again
+fixed_names2 &lt;- gsub(&#39;.x&#39;, &#39;&#39;, names(team_games4), fixed = TRUE)
+fixed_names2 &lt;- sapply(fixed_names2, function(x) ifelse(grepl(&#39;.y&#39;, x, fixed = TRUE), paste0(&#39;opp_&#39;, x), x))
+fixed_names2 &lt;- gsub(&#39;.y&#39;, &#39;&#39;, fixed_names2, fixed = TRUE)
+names(team_games4) &lt;- fixed_names2  
+  
+# presto! we&#39;ve got engineered data ready to be used in a recipe
+
+
+
+# ok so now we can use some of the tidymodels functions to calculate shit like averages, back-to-backs, all that jazz...where does that live...
+
+# ok first part lives in rsample apparently; we&#39;re splittin&#39; into test/train here (can parameterize later beyond stratifying by home/away splits)
+train_test_split &lt;- rsample::initial_split(team_games3, strata = &#39;strata_var&#39;)
+team_games_train &lt;- rsample::training(train_test_split)
+team_games_test &lt;- rsample::testing(train_test_split)
+
+recipe_pts_game &lt;- recipes::recipe(pts_game ~ ., data = team_games_train %&gt;% dplyr::select(-strata_var))
+
+# pts_for_rec_windows &lt;- pts_for_recipe %&gt;%
+#   recipes::step_window(
+#     
+#   )</code></pre>
 </div>
 
 

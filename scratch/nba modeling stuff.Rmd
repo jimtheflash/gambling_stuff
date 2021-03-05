@@ -27,7 +27,7 @@ I'm making this in `RMarkdown` so that I can be expository outside of comments. 
 
 ## Load Stuff
 
-We're doing this in `tidyverse` to spite Shook, and also to try and grab the attention of the fine folks at RStudio in case they're looking for someone to try to liase (SP?) with sportsy people, though tbqh they already have those connections and more. AHEM.
+We're doing this in `tidyverse` ~~to spite Shook~~ cuz it's a nice framework, and also to try and grab the attention of the fine folks at RStudio in case they're looking for someone to try to liaise with sports folk, though tbqh they already have those connections and more. AHEM.
 
 ```{r load-stuff}
 
@@ -41,9 +41,9 @@ library(tidyverse)
 # install.packages('tidymodels')
 library(tidymodels)
 
-## timetk to handle some rolling stuff
-# install.packages('timetk')
-library(timetk)
+## slider to handle some rolling stuff
+# install.packages('slider')
+library(slider)
 
 ```
 
@@ -61,22 +61,36 @@ player_games <- read.csv('../data/nba_gamelogs/nba_gamelogs_2018-19.csv',
 
 # this is at the player-game level, so we'll have to roll it up to team-game, and tidy it up a bit to get opponent data and that sorta stuff
 
+# make an incrementor function to use with purrr::accumulate later
+incrementor <- function(prev, new, growth = 1) {
+  dplyr::if_else(new == 0|is.na(new), new, prev + growth)
+}
+
 # also should probably make the rolling functions ahead of time, iirc it moves a lot faster that way
-rollmean_p <- function(x, p) {
+rollsum_p <- function(x, p, ...) {
+  slider::slide_vec(
+    x,
+    sum,
+    .before = p,
+    ...
+  )
+}
+
+rollmean_p <- function(x, p, ...) {
   slider::slide_vec(
     x,
     mean,
     .before = p,
-    .complete = TRUE
+    ...
   )
 }
 
-rollmax_p <- function(x, p) {
+rollmax_p <- function(x, p, ...) {
   slider::slide_vec(
     x,
     max,
     .before = p,
-    .complete = TRUE
+    ...
   )
 }
 
@@ -92,62 +106,131 @@ team_games1 <- player_games %>%
     )
   ) %>%
   dplyr::filter(season_type == 'Regular Season') %>%
-  dplyr::group_by(team_name, game_id, home_away, strata_var, join_var) %>%
+  dplyr::group_by(team_name, game_id, home_away, strata_var, join_var, wl) %>%
   dplyr::summarise(
     game_date = min(as.Date(game_date)),
+    total_minutes = sum(min, na.rm = TRUE), # we're going to use this to count overtimes later on
     players_in_rotation = dplyr::n_distinct(player_id[min > 0]),
     dplyr::across(
       c(pts, fga, fgm, fta, ftm, pf),
       sum,
-      .names = '{.col}_for'
+      .names = '{.col}_game'
       ),
     .groups = 'keep'
     ) %>%
   dplyr::ungroup() %>%
-  # we're going to have to manually calculate the window functions and aggregates and whatever, since we'll want to join this to itself later to get the opponent's stats and it's easier to do it now than later in some recipe or whatever
-  # dplyr::arrange(team_name, game_date) %>%
-  # dplyr::group_by(team_name) %>%
-  # dplyr::mutate(
-  #   dplyr::across(
-  #     dplyr::ends_with('_for'),
-  #     list(
-  #       rollmean_3 = ~rollmean_p(.x, 3),
-  #       rollmax_3 = ~rollmax_p(.x, 3),
-  #     )
-  #   )
-  # ) %>%
+  # we're going to have to manually calculate the window functions and aggregates and whatever at this step (rather than in a recipe), since we'll want to join this to itself later to get the opponent's stats and it's easier to do it now as far as i can tell; we're also using some arbitrary rolling periods, but we can update that pretty easily, and probably automate using some purrr stuff, but tktk
+  dplyr::arrange(team_name, game_date) %>%
+  dplyr::group_by(team_name) %>%
+  dplyr::mutate(
+    dplyr::across(
+      ends_with('_game'),
+      list(rollmean_3 = ~rollmean_p(.x, 3, .complete = TRUE),
+           rollmean_10 = ~rollmean_p(.x, 10, .complete = TRUE),
+           rollmean_20 = ~rollmean_p(.x, 20, .complete = TRUE)))) %>%
+  dplyr::mutate(
+    dplyr::across(
+      ends_with('_game'),
+      list(rollmax_3 = ~rollmax_p(.x, 3, .complete = TRUE),
+           rollmax_10 = ~rollmax_p(.x, 10, .complete = TRUE),
+           rollmax_20 = ~rollmax_p(.x, 20, .complete = TRUE)))) %>%
   identity()
 
+# idk if i'll need this? guess it doesn't hurt to stash
 # wide_home_away_games <- team_games1 %>%
 #   tidyr::pivot_wider(
 #     id_cols = c(game_id),
 #     names_from = home_away,
-#     values_from = dplyr::ends_with('_for'),
+#     values_from = dplyr::ends_with('_game'),
 #     names_glue = "{home_away}_{.value}"
 #   )
-
-# join it back to itself to get opponent stuff
-rename_points_against <- function(x) {
-  gsub('_for', '_against', x)
-}
 
 team_games2 <- team_games1 %>%
   dplyr::inner_join(
     team_games1 %>%
-      dplyr::select(-strata_var) %>%
-      dplyr::rename_all(rename_points_against),
+      dplyr::select(-strata_var, -join_var, -total_minutes, -wl) %>%
+      dplyr::rename(opp_name = team_name),
     by = c('game_id' = 'game_id',
            'game_date' = 'game_date',
-           'join_var' = 'home_away'))
+           'join_var' = 'home_away')) %>%
+  dplyr::select(-join_var) %>%
+  dplyr::ungroup()
+
+# fix the names to be a little clearer what they actually are (there'll still have to be some kind of explicit documentation about this)
+fixed_names <- gsub('.x', '', names(team_games2), fixed = TRUE)
+fixed_names <- gsub('.y', '_allowed', fixed_names, fixed = TRUE)
+fixed_names <- sub('players_in_rotation_allowed', 'opp_players_in_rotation', fixed_names)
+names(team_games2) <- fixed_names
+
+# engineer some important stuff like margin of victory, overtimes, b2b stuff, etc.
+team_games3 <- team_games2 %>%
+  dplyr::mutate(
+    score_margin = pts_game - pts_game_allowed,
+    overtime = dplyr::if_else(total_minutes > 240, TRUE, FALSE),
+    count_overtimes = dplyr::case_when(
+      !overtime ~ 0,
+      overtime ~ (total_minutes - 240) / 25)) %>%
+  dplyr::select(-total_minutes) %>%
+  dplyr::arrange(team_name, game_date) %>%
+  dplyr::group_by(team_name) %>%
+  dplyr::mutate(
+    b2b_g1 = dplyr::case_when(dplyr::lead(game_date) == game_date + 1 ~ TRUE, 
+                              dplyr::lead(game_date) != game_date + 1 ~ FALSE,
+                              row_number() == max(row_number()) ~ FALSE),
+    b2b_g2 = dplyr::case_when(dplyr::lag(game_date) == game_date - 1 ~ TRUE, 
+                              dplyr::lag(game_date) != game_date - 1 ~ FALSE,
+                              row_number() == 1 ~ FALSE)) %>%
+  # means and maxes
+  # TODO: add mins and medians
+  dplyr::mutate(
+    dplyr::across(
+      score_margin,
+      list(rollmean_3 = ~rollmean_p(.x, 3, .complete = TRUE),
+           rollmean_10 = ~rollmean_p(.x, 10, .complete = TRUE),
+           rollmean_20 = ~rollmean_p(.x, 20, .complete = TRUE),
+           rollmax_3 = ~rollmax_p(.x, 3, .complete = TRUE),
+           rollmax_10 = ~rollmax_p(.x, 10, .complete = TRUE),
+           rollmax_20 = ~rollmax_p(.x, 20, .complete = TRUE)))) %>%
+  # sums
+  dplyr::mutate(
+    win = as.numeric(wl == 'W'),
+    dplyr::across(
+      win,
+      list(rollsum_3 = ~rollsum_p(.x, 3, .complete = TRUE),
+           rollsum_10 = ~rollsum_p(.x, 10, .complete = TRUE),
+           rollsum_20 = ~rollsum_p(.x, 20, .complete = TRUE)
+    ))) %>%
+  # streaks
+  dplyr::mutate(
+    win_streak = purrr::accumulate(win, incrementor),
+    lose_streak = purrr::accumulate(as.numeric(wl == 'L'), incrementor)) %>%
+  dplyr::ungroup()
+
+# add the opponent data to make this stupid wide, but then we'll know how opponents are playing offense and defense
+team_games4 <- team_games3 %>%
+  dplyr::inner_join(
+    team_games3 %>%
+      dplyr::select(-game_date, -home_away, -strata_var, -wl), 
+    by = c('game_id' = 'game_id', 
+           'team_name' = 'opp_name')
+  )
+
+# fix the names again
+fixed_names2 <- gsub('.x', '', names(team_games4), fixed = TRUE)
+fixed_names2 <- sapply(fixed_names2, function(x) ifelse(grepl('.y', x, fixed = TRUE), paste0('opp_', x), x))
+fixed_names2 <- gsub('.y', '', fixed_names2, fixed = TRUE)
+names(team_games4) <- fixed_names2  
+  
+# presto! we've got engineered data ready to be used in a recipe
 
 # ok so now we can use some of the tidymodels functions to calculate shit like averages, back-to-backs, all that jazz...where does that live...
 
 # ok first part lives in rsample apparently; we're splittin' into test/train here (can parameterize later beyond stratifying by home/away splits)
-train_test_split <- rsample::initial_split(team_games2, strata = 'strata_var')
+train_test_split <- rsample::initial_split(team_games3, strata = 'strata_var')
 team_games_train <- rsample::training(train_test_split)
 team_games_test <- rsample::testing(train_test_split)
 
-recipe_points_for <- recipes::recipe(pts_for ~ ., data = team_games_train %>% dplyr::select(-strata_var))
+recipe_pts_game <- recipes::recipe(pts_game ~ ., data = team_games_train %>% dplyr::select(-strata_var))
 
 # pts_for_rec_windows <- pts_for_recipe %>%
 #   recipes::step_window(
