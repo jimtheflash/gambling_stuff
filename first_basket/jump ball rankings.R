@@ -3,16 +3,16 @@ library(tidyverse)
 # Parameters
 
 # Example - for full run where you use all history and start the test data at 2019-2020 season
-# earliest_train_data_date <- "2016-10-01"
-# train_test_date_split <- "2019-10-01"
+# earliest_train_data_date <- "2016-09-01"
+# train_test_date_split <- "2018-09-01"
 
 # Current model uses last two completed seasons and current season as train data
 # To run model for current day's ratings, train_test_date_split is set to current day
 # Sets furthest date that train data goes back
-earliest_train_data_date <- "2018-10-01"
+earliest_train_data_date <- "2018-09-01"
 # Setting date we want to start logging test data on 
 # Default uses today's date so that all completed games are used in calcualting ratings
-train_test_date_split <- Sys.Date() 
+train_test_date_split <- Sys.Date()
 
 # Relevant gamelogs
 gamelogs_16_17 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2016-17.csv', 
@@ -123,7 +123,8 @@ for (i in 1:length(unique_dates$game_date)) {
   # Splitting data into train and test sets
   possession_train <-
     possession_df %>%
-    filter(game_date < unique_dates$game_date[i])
+    filter(game_date < unique_dates$game_date[i],
+           game_date >= unique_dates$game_date[i] - lubridate::years(2))
   
   possession_test <-
     possession_df %>%
@@ -298,6 +299,14 @@ test_buckets <-
             true_win_percent = mean(home_won_tip),
             .groups = 'drop') 
 
+# Determines Brier Score for backtesting
+brier_score_df <-
+  test_df_exp_win_master %>%
+  mutate(brier_score = (home_won_tip - exp_win)^2)
+
+brier_score <- mean(brier_score_df$brier_score)
+message("brier_score is equal to ", round(brier_score, 2))
+
 # Using historical dataset chosen with parameters, pick two players and view odds of winning a jump ball
 calculate_jump_odds <- function(player_1, player_2, player_list_df){
   
@@ -325,6 +334,8 @@ calculate_jump_odds <- function(player_1, player_2, player_list_df){
   }
 }
 
-player_1 <- "Deandre Ayton"
-player_2 <- "Marc Gasol"
+player_1 <- "Nikola Jokic"
+player_2 <- "Joel Embiid"
 calculate_jump_odds(player_1, player_2, player_list_df)
+
+write.csv(player_list_df, "data/curated/nba/jump_ball_ratings.csv.gz", row.names = FALSE)

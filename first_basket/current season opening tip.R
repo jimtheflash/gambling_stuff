@@ -34,8 +34,10 @@ for (g in unique_games) {
            PERIOD == "1",
            PCTIMESTRING == "12:00")
   
+  home_team_id <- as.character(as.integer(pbp$PLAYER1_TEAM_ID))
   home_team_abbrev <- as.character(pbp$PLAYER1_TEAM_ABBREVIATION)
   home_team_jumper <- as.character(pbp$PLAYER1_NAME)
+  away_team_id <- as.character(as.integer(pbp$PLAYER2_TEAM_ID))
   away_team_abbrev <- as.character(pbp$PLAYER2_TEAM_ABBREVIATION)
   away_team_jumper <- as.character(pbp$PLAYER2_NAME)
   first_possession <- as.character(pbp$PLAYER3_TEAM_ABBREVIATION)
@@ -47,8 +49,10 @@ for (g in unique_games) {
     game_id = g,
     matchup = matchup,
     home_team_abbrev = home_team_abbrev,
+    home_team_id = home_team_id,
     home_team_jumper = home_team_jumper,
     away_team_abbrev = away_team_abbrev,
+    away_team_id = away_team_id,
     away_team_jumper = away_team_jumper,
     first_possession = first_possession
   )
@@ -67,12 +71,12 @@ first_possession_df <-
 # Creates table of each jumper and their opening jump stats for this season
 jump_balls_df <-
   first_possession_df %>%
-  select(jumper = home_team_jumper, team_abbrev = home_team_abbrev, home_win_tip) %>%
+  select(jumper = home_team_jumper, team_abbrev = home_team_abbrev, team_id = home_team_id, home_win_tip) %>%
   bind_rows(first_possession_df %>% 
-              select(jumper = away_team_jumper, team_abbrev = away_team_abbrev, home_win_tip) %>%
+              select(jumper = away_team_jumper, team_abbrev = away_team_abbrev, team_id = away_team_id, home_win_tip) %>%
               #Reverse home_win_tip for away players
               mutate(home_win_tip = if_else(home_win_tip, FALSE, TRUE))) %>%
-  group_by(jumper) %>%
+  group_by(jumper, team_abbrev, team_id) %>%
   summarise(jumps = n(), 
             wins = sum(home_win_tip), 
             win_rate = wins/jumps,
@@ -80,3 +84,4 @@ jump_balls_df <-
 
 view(jump_balls_df)
 
+write.csv(jump_balls_df, "data/curated/nba/current_season_opening_tip.csv.gz", row.names = FALSE)

@@ -115,3 +115,6 @@ first_shot_odds_df <-
   arrange(team_abbrev, odds)
   
 view(first_shot_odds_df)
+
+write.csv(first_shot_odds_df, "data/curated/nba/current_season_first_shot.csv.gz", row.names = FALSE)
+
