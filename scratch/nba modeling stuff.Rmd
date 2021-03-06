@@ -53,13 +53,9 @@ All these conflicts are another good reason to explicitly specify which package 
 
 These models are going to predict team-games, so that we can estimate conventional bets, and also so we can mix team-level estimates with player-level estimates to get the best of everything.
 
-```{r team-game models}
+I'm gonna make a slew of custom functions for recursive and windowed functions.
 
-# first we gotta read in some data; how about, the 2018-19 season: pre-pandemic! completed season! 
-player_games <- read.csv('../data/nba_gamelogs/nba_gamelogs_2018-19.csv',
-                         colClasses = 'character') 
-
-# this is at the player-game level, so we'll have to roll it up to team-game, and tidy it up a bit to get opponent data and that sorta stuff
+```{r tg-engineering-prep}
 
 # make an incrementor function to use with purrr::accumulate later
 incrementor <- function(prev, new, growth = 1) {
@@ -94,6 +90,94 @@ rollmax_p <- function(x, p, ...) {
   )
 }
 
+rollmin_p <- function(x, p, ...) {
+  slider::slide_vec(
+    x,
+    min,
+    .before = p,
+    ...
+  )
+}
+
+rollmedian_p <- function(x, p, ...) {
+  slider::slide_vec(
+    x,
+    median,
+    .before = p,
+    ...
+  )
+}
+
+rollvar_p <- function(x, p, ...) {
+  slider::slide_vec(
+    x,
+    var,
+    .before = p,
+    ...
+  )
+}
+
+## OH, you can specify the list of funs as purrr formulae for dplyr::across in advance!
+## TIME TO GO NUTS Y'ALL; not including the sums cuz that's gonna be a special case, and since all the windows are the same size then there's no reason to include both a sum and a mean/median
+rolling_list <- list(
+  # means
+  rollmean_3 = ~rollmean_p(.x, 3, .complete = TRUE),
+  rollmean_5 = ~rollmean_p(.x, 5, .complete = TRUE),
+  rollmean_7 = ~rollmean_p(.x, 7, .complete = TRUE),
+  rollmean_11 = ~rollmean_p(.x, 11, .complete = TRUE),
+  rollmean_13 = ~rollmean_p(.x, 13, .complete = TRUE),
+  rollmean_17 = ~rollmean_p(.x, 17, .complete = TRUE),
+  rollmean_19 = ~rollmean_p(.x, 19, .complete = TRUE),
+  rollmean_23 = ~rollmean_p(.x, 23, .complete = TRUE),
+  # maxes
+  rollmax_3 = ~rollmax_p(.x, 3, .complete = TRUE),
+  rollmax_5 = ~rollmax_p(.x, 5, .complete = TRUE),
+  rollmax_7 = ~rollmax_p(.x, 7, .complete = TRUE),
+  rollmax_11 = ~rollmax_p(.x, 11, .complete = TRUE),
+  rollmax_13 = ~rollmax_p(.x, 13, .complete = TRUE),
+  rollmax_17 = ~rollmax_p(.x, 17, .complete = TRUE),
+  rollmax_19 = ~rollmax_p(.x, 19, .complete = TRUE),
+  rollmax_23 = ~rollmax_p(.x, 23, .complete = TRUE),
+  # mins
+  rollmin_3 = ~rollmin_p(.x, 3, .complete = TRUE),
+  rollmin_5 = ~rollmin_p(.x, 5, .complete = TRUE),
+  rollmin_7 = ~rollmin_p(.x, 7, .complete = TRUE),
+  rollmin_11 = ~rollmin_p(.x, 11, .complete = TRUE),
+  rollmin_13 = ~rollmin_p(.x, 13, .complete = TRUE),
+  rollmin_17 = ~rollmin_p(.x, 17, .complete = TRUE),
+  rollmin_19 = ~rollmin_p(.x, 19, .complete = TRUE),
+  rollmin_23 = ~rollmin_p(.x, 23, .complete = TRUE),
+  # medians
+  rollmedian_3 = ~rollmedian_p(.x, 3, .complete = TRUE),
+  rollmedian_5 = ~rollmedian_p(.x, 5, .complete = TRUE),
+  rollmedian_7 = ~rollmedian_p(.x, 7, .complete = TRUE),
+  rollmedian_11 = ~rollmedian_p(.x, 11, .complete = TRUE),
+  rollmedian_13 = ~rollmedian_p(.x, 13, .complete = TRUE),
+  rollmedian_17 = ~rollmedian_p(.x, 17, .complete = TRUE),
+  rollmedian_19 = ~rollmedian_p(.x, 19, .complete = TRUE),
+  rollmedian_23 = ~rollmedian_p(.x, 23, .complete = TRUE),
+  # vars
+  rollvar_3 = ~rollvar_p(.x, 3, .complete = TRUE),
+  rollvar_5 = ~rollvar_p(.x, 5, .complete = TRUE),
+  rollvar_7 = ~rollvar_p(.x, 7, .complete = TRUE),
+  rollvar_11 = ~rollvar_p(.x, 11, .complete = TRUE),
+  rollvar_13 = ~rollvar_p(.x, 13, .complete = TRUE),
+  rollvar_17 = ~rollvar_p(.x, 17, .complete = TRUE),
+  rollvar_19 = ~rollvar_p(.x, 19, .complete = TRUE),
+  rollvar_23 = ~rollvar_p(.x, 23, .complete = TRUE)
+)
+```
+
+Helper functions in hand, we can start engineering our data for preprocessing.
+
+``` {r tg-engineering}
+# first we gotta read in some data; how about, the 2018-19 season: pre-pandemic! completed season! We'll filter to regular season in a moment
+player_games <- read.csv('../data/nba_gamelogs/nba_gamelogs_2018-19.csv',
+                         colClasses = 'character')
+
+# this is at the player-game level, so we'll have to roll it up to team-game, and tidy it up a bit to get opponent data and that sorta stuff
+
+# ok now time to engineer some data
 team_games1 <- player_games %>%
   janitor::clean_names() %>%
   dplyr::mutate(home_away = dplyr::if_else(grepl('@', matchup), 'away', 'home'),
@@ -119,22 +203,13 @@ team_games1 <- player_games %>%
     .groups = 'keep'
     ) %>%
   dplyr::ungroup() %>%
-  # we're going to have to manually calculate the window functions and aggregates and whatever at this step (rather than in a recipe), since we'll want to join this to itself later to get the opponent's stats and it's easier to do it now as far as i can tell; we're also using some arbitrary rolling periods, but we can update that pretty easily, and probably automate using some purrr stuff, but tktk
   dplyr::arrange(team_name, game_date) %>%
   dplyr::group_by(team_name) %>%
   dplyr::mutate(
     dplyr::across(
       ends_with('_game'),
-      list(rollmean_3 = ~rollmean_p(.x, 3, .complete = TRUE),
-           rollmean_10 = ~rollmean_p(.x, 10, .complete = TRUE),
-           rollmean_20 = ~rollmean_p(.x, 20, .complete = TRUE)))) %>%
-  dplyr::mutate(
-    dplyr::across(
-      ends_with('_game'),
-      list(rollmax_3 = ~rollmax_p(.x, 3, .complete = TRUE),
-           rollmax_10 = ~rollmax_p(.x, 10, .complete = TRUE),
-           rollmax_20 = ~rollmax_p(.x, 20, .complete = TRUE)))) %>%
-  identity()
+      rolling_list)) %>%
+  dplyr::ungroup()
 
 # idk if i'll need this? guess it doesn't hurt to stash
 # wide_home_away_games <- team_games1 %>%
@@ -165,11 +240,11 @@ names(team_games2) <- fixed_names
 # engineer some important stuff like margin of victory, overtimes, b2b stuff, etc.
 team_games3 <- team_games2 %>%
   dplyr::mutate(
-    score_margin = pts_game - pts_game_allowed,
-    overtime = dplyr::if_else(total_minutes > 240, TRUE, FALSE),
-    count_overtimes = dplyr::case_when(
-      !overtime ~ 0,
-      overtime ~ (total_minutes - 240) / 25)) %>%
+    score_margin_game = pts_game - pts_game_allowed,
+    overtime_game = dplyr::if_else(total_minutes > 240, TRUE, FALSE),
+    count_overtimes_game = dplyr::case_when(
+      !overtime_game ~ 0,
+      overtime_game ~ (total_minutes - 240) / 25)) %>%
   dplyr::select(-total_minutes) %>%
   dplyr::arrange(team_name, game_date) %>%
   dplyr::group_by(team_name) %>%
@@ -180,17 +255,11 @@ team_games3 <- team_games2 %>%
     b2b_g2 = dplyr::case_when(dplyr::lag(game_date) == game_date - 1 ~ TRUE, 
                               dplyr::lag(game_date) != game_date - 1 ~ FALSE,
                               row_number() == 1 ~ FALSE)) %>%
-  # means and maxes
-  # TODO: add mins and medians
+  # windows
   dplyr::mutate(
     dplyr::across(
-      score_margin,
-      list(rollmean_3 = ~rollmean_p(.x, 3, .complete = TRUE),
-           rollmean_10 = ~rollmean_p(.x, 10, .complete = TRUE),
-           rollmean_20 = ~rollmean_p(.x, 20, .complete = TRUE),
-           rollmax_3 = ~rollmax_p(.x, 3, .complete = TRUE),
-           rollmax_10 = ~rollmax_p(.x, 10, .complete = TRUE),
-           rollmax_20 = ~rollmax_p(.x, 20, .complete = TRUE)))) %>%
+      score_margin_game,
+      rolling_list)) %>%
   # sums
   dplyr::mutate(
     win = as.numeric(wl == 'W'),
@@ -206,36 +275,188 @@ team_games3 <- team_games2 %>%
     lose_streak = purrr::accumulate(as.numeric(wl == 'L'), incrementor)) %>%
   dplyr::ungroup()
 
+## TODO: add games in last n days (e.g. played 5 games in 10 days, 2 in 3, etc.)
+
 # add the opponent data to make this stupid wide, but then we'll know how opponents are playing offense and defense
 team_games4 <- team_games3 %>%
   dplyr::inner_join(
     team_games3 %>%
-      dplyr::select(-game_date, -home_away, -strata_var, -wl), 
+      dplyr::select(-game_date, -home_away, -strata_var, -wl, -dplyr::matches('players_in_rotation')), 
     by = c('game_id' = 'game_id', 
            'team_name' = 'opp_name')
-  )
+  ) 
 
 # fix the names again
 fixed_names2 <- gsub('.x', '', names(team_games4), fixed = TRUE)
 fixed_names2 <- sapply(fixed_names2, function(x) ifelse(grepl('.y', x, fixed = TRUE), paste0('opp_', x), x))
 fixed_names2 <- gsub('.y', '', fixed_names2, fixed = TRUE)
 names(team_games4) <- fixed_names2  
-  
-# presto! we've got engineered data ready to be used in a recipe
 
-# ok so now we can use some of the tidymodels functions to calculate shit like averages, back-to-backs, all that jazz...where does that live...
+# and now the real kicker - we gotta use data from date n to predict outcomes in game n+1; gonna have to lag a bunch of shit and remove unlagged versions
+team_games5 <- team_games4 %>%
+  dplyr::arrange(team_name, game_date) %>%
+  dplyr::group_by(team_name) %>%
+  dplyr::mutate(
+    dplyr::across(
+      dplyr::matches('_game|_allowed|_roll|_streak|_rotation'),
+      list(
+        lagged = ~dplyr::lag(.x)
+      )
+    )
+  ) %>%
+  dplyr::mutate(
+    pts_game_outcome = pts_game,
+    pts_game_allowed_outcome = pts_game_allowed,
+    score_margin_game_outcome = score_margin_game,
+    win_outcome = win
+  ) %>%
+  dplyr::select(
+    -win, -opp_win, -wl,
+    -dplyr::ends_with('_allowed'),
+    -dplyr::ends_with('_game'),
+    -dplyr::ends_with('streak'),
+    -dplyr::ends_with('rotation'),
+    -dplyr::matches('_[1-9]?.$')
+  ) %>%
+  dplyr::ungroup()
 
-# ok first part lives in rsample apparently; we're splittin' into test/train here (can parameterize later beyond stratifying by home/away splits)
-train_test_split <- rsample::initial_split(team_games3, strata = 'strata_var')
+# for this model, we're nuking everything with NAs, which means we'll only start predicting for games that happen after the 23rd game (since that's the longest rolling window we're using); if we take a reduced models approach (i think we should!) then this is gonna mean making at least n models where n is the number of different rolling windows...
+to_model <- team_games5 %>%
+  na.omit() %>%
+  dplyr::mutate(
+    dplyr::across(
+      tidyselect:::where(is.logical),
+      as.numeric
+    )
+  ) %>%
+  dplyr::select(-opp_name)
+
+message("we've got ", ncol(team_games4), " columns at this point")  
+```
+
+Now that the data are engineered, we can start feeding to the `tidymodels` framework for pre-processing. A few things we should be considering, and I'm not sure the best approach tbqh:
+
+* should there only be one observation per game_id?
+* can same games live in the test and training sets? is that fair?
+* 
+
+``` {r start-cooking}
+
+# so the split is important here - we don't want any of the same game_ids (or do we? actually idk...)
+
+train_test_split <- rsample::initial_split(to_model, strata = 'strata_var')
 team_games_train <- rsample::training(train_test_split)
 team_games_test <- rsample::testing(train_test_split)
 
-recipe_pts_game <- recipes::recipe(pts_game ~ ., data = team_games_train %>% dplyr::select(-strata_var))
+# so now we build a recipe
+rec <- recipes::recipe(pts_game_outcome ~ ., data = team_games_train) %>%
+  recipes::update_role(strata_var, new_role = 'splitting') %>%
+  recipes::update_role(game_id, new_role = 'id') %>%
+  recipes::update_role(pts_game_allowed_outcome, score_margin_game_outcome, win_outcome, new_role = 'other_outcome') %>%
+  recipes::step_date(game_date, features = "dow") %>%
+  recipes::step_date(game_date, features = "month") %>%
+  recipes::step_holiday(game_date) %>%
+  recipes::step_rm(game_date) %>%
+  recipes::step_dummy(recipes::all_predictors(), one_hot = TRUE) %>%
+  recipes::step_naomit(recipes::all_predictors()) %>%
+  recipes::step_zv(recipes::all_predictors()) %>%
+  # recipes::step_nzv(recipes::all_predictors()) %>% # may need to figure out a way to tune these parameters before using effectively
+  recipes::step_corr(recipes::all_predictors()) %>%
+  recipes::prep()
 
-# pts_for_rec_windows <- pts_for_recipe %>%
-#   recipes::step_window(
-#     
-#   )
+# bake it to see the final input data for your model
+baked <- recipes::bake(rec, team_games_train)
 
+## NOT RUN
+## NOT RUN
+## NOT RUN
+## (but maybe if you're bored)
+# skimr::skim(baked)
 ```
 
+Now we can build some models using `parsnip` and tune 'em using `tune` and pipeline 'em using `workflows` and all sorts of other nifty shit.
+
+``` {r build-models}
+
+# we're gonna cross-validate here
+folds_3 <- rsample::vfold_cv(team_games_train, v = 3, 
+                             repeats = 2)
+
+# good ol' glmnet to start
+linreg_mod <- parsnip::linear_reg(mode = 'regression',
+                                  penalty = tune::tune(), 
+                                  mixture = 1) %>%
+  parsnip::set_engine('glmnet')
+
+linreg_workflow <- workflows::workflow() %>%
+  workflows::add_model(linreg_mod) %>%
+  workflows::add_recipe(rec) 
+
+linreg_tg <- linreg_workflow %>%
+  tune::tune_grid(resamples = folds_3,
+                  control = stacks::control_stack_grid(),
+                  grid = 10)
+
+# linreg_fit <- linreg_workflow %>%
+#   parsnip::fit(data = team_games_train)
+
+# how bout some boosted trees
+xgb_mod <- parsnip::boost_tree(mode = 'regression',
+                               trees = tune::tune(),
+                               tree_depth = 3) %>%
+  parsnip::set_engine('xgboost')
+
+xgb_workflow <- workflows::workflow() %>%
+  workflows::add_model(xgb_mod) %>%
+  workflows::add_recipe(rec) 
+
+xgb_tg <- xgb_workflow %>%
+  tune::tune_grid(resamples = folds_3,
+                  control = stacks::control_stack_grid(),
+                  grid = 3)
+
+# xgb_fit <- xgb_workflow %>%
+#   parsnip::fit(data = team_games_train)
+
+# random forest
+rf_mod <- parsnip::rand_forest(mode = 'regression',
+                               mtry = tune::tune(),
+                               trees = tune::tune()) %>%
+  parsnip::set_engine('ranger')
+
+rf_workflow <- workflows::workflow() %>%
+  workflows::add_model(rf_mod) %>%
+  workflows::add_recipe(rec)
+
+rf_tg <- rf_workflow %>%
+  tune::tune_grid(resamples = folds_3,
+                  dials::mtry(range = c(1, 30)),
+                  dials::trees(range = c(100, 100000)),
+                  control = stacks::control_stack_grid())
+
+# rf_fit <- rf_workflow %>%
+#   parsnip::fit(data = team_games_train)
+
+## stack em up!
+st <- stacks::stacks() %>%
+  stacks::add_candidates(linreg_tg) %>%
+  stacks::add_candidates(xgb_tg) %>%
+  stacks::add_candidates(rf_tg)
+
+st_blended_preds <- st %>%
+  stacks::blend_predictions()
+
+wf <- st %>%
+  finali
+# TODO: 
+# get model performance stuff calculated i think with the yardstick package
+# test better tuning grid options, these are just from a tutorial
+# get those boosted models tuned up
+# get some earth models tuned up
+# GET THAT TENSORFLOWWWWWWWWWWWWWW ROLLING
+# setup some stacks using the stacks package
+# also add a bunch more seasons of data, at least a few right
+# also add odds data --this should be the highest priority i think
+# and then start functionalizing and packagizing so we can dockerize and automate 😍
+
+```
