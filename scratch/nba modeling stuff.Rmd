@@ -45,6 +45,8 @@ library(tidymodels)
 # install.packages('slider')
 library(slider)
 
+# also lets start a timer
+t1 <- Sys.time()
 ```
 
 All these conflicts are another good reason to explicitly specify which package you're using for a given function.
@@ -172,8 +174,18 @@ Helper functions in hand, we can start engineering our data for preprocessing.
 
 ``` {r tg-engineering}
 # first we gotta read in some data; how about, the 2018-19 season: pre-pandemic! completed season! We'll filter to regular season in a moment
-player_games <- read.csv('../data/nba_gamelogs/nba_gamelogs_2018-19.csv',
+player_games <- read.csv('../data/nba_gamelogs/nba_gamelogs_2016-17.csv',
+                         colClasses = 'character') %>%
+  dplyr::bind_rows(
+    read.csv('../data/nba_gamelogs/nba_gamelogs_2017-18.csv',
                          colClasses = 'character')
+  ) %>%
+  dplyr::bind_rows(
+    read.csv('../data/nba_gamelogs/nba_gamelogs_2018-19.csv',
+                         colClasses = 'character')) %>%
+  dplyr::bind_rows(
+    read.csv('../data/nba_gamelogs/nba_gamelogs_2019-20.csv',
+             colClasses = 'character'))
 
 # this is at the player-game level, so we'll have to roll it up to team-game, and tidy it up a bit to get opponent data and that sorta stuff
 
@@ -190,7 +202,7 @@ team_games1 <- player_games %>%
     )
   ) %>%
   dplyr::filter(season_type == 'Regular Season') %>%
-  dplyr::group_by(team_name, game_id, home_away, strata_var, join_var, wl) %>%
+  dplyr::group_by(season_year, team_name, game_id, home_away, strata_var, join_var, wl) %>%
   dplyr::summarise(
     game_date = min(as.Date(game_date)),
     total_minutes = sum(min, na.rm = TRUE), # we're going to use this to count overtimes later on
@@ -203,8 +215,8 @@ team_games1 <- player_games %>%
     .groups = 'keep'
     ) %>%
   dplyr::ungroup() %>%
-  dplyr::arrange(team_name, game_date) %>%
-  dplyr::group_by(team_name) %>%
+  dplyr::arrange(season_year, team_name, game_date) %>%
+  dplyr::group_by(season_year, team_name) %>%
   dplyr::mutate(
     dplyr::across(
       ends_with('_game'),
@@ -223,7 +235,7 @@ team_games1 <- player_games %>%
 team_games2 <- team_games1 %>%
   dplyr::inner_join(
     team_games1 %>%
-      dplyr::select(-strata_var, -join_var, -total_minutes, -wl) %>%
+      dplyr::select(-strata_var, -join_var, -total_minutes, -wl, -season_year) %>%
       dplyr::rename(opp_name = team_name),
     by = c('game_id' = 'game_id',
            'game_date' = 'game_date',
@@ -246,8 +258,8 @@ team_games3 <- team_games2 %>%
       !overtime_game ~ 0,
       overtime_game ~ (total_minutes - 240) / 25)) %>%
   dplyr::select(-total_minutes) %>%
-  dplyr::arrange(team_name, game_date) %>%
-  dplyr::group_by(team_name) %>%
+  dplyr::arrange(season_year, team_name, game_date) %>%
+  dplyr::group_by(season_year, team_name) %>%
   dplyr::mutate(
     b2b_g1 = dplyr::case_when(dplyr::lead(game_date) == game_date + 1 ~ TRUE, 
                               dplyr::lead(game_date) != game_date + 1 ~ FALSE,
@@ -281,7 +293,7 @@ team_games3 <- team_games2 %>%
 team_games4 <- team_games3 %>%
   dplyr::inner_join(
     team_games3 %>%
-      dplyr::select(-game_date, -home_away, -strata_var, -wl, -dplyr::matches('players_in_rotation')), 
+      dplyr::select(-season_year, -game_date, -home_away, -strata_var, -wl, -dplyr::matches('players_in_rotation')), 
     by = c('game_id' = 'game_id', 
            'team_name' = 'opp_name')
   ) 
@@ -294,8 +306,8 @@ names(team_games4) <- fixed_names2
 
 # and now the real kicker - we gotta use data from date n to predict outcomes in game n+1; gonna have to lag a bunch of shit and remove unlagged versions
 team_games5 <- team_games4 %>%
-  dplyr::arrange(team_name, game_date) %>%
-  dplyr::group_by(team_name) %>%
+  dplyr::arrange(season_year, team_name, game_date) %>%
+  dplyr::group_by(season_year, team_name) %>%
   dplyr::mutate(
     dplyr::across(
       dplyr::matches('_game|_allowed|_roll|_streak|_rotation'),
@@ -357,7 +369,7 @@ rec <- recipes::recipe(pts_game_outcome ~ ., data = team_games_train) %>%
   recipes::step_date(game_date, features = "month") %>%
   recipes::step_holiday(game_date) %>%
   recipes::step_rm(game_date) %>%
-  recipes::step_dummy(recipes::all_predictors(), one_hot = TRUE) %>%
+  recipes::step_dummy(recipes::all_predictors(), -recipes::all_numeric(), one_hot = TRUE) %>%
   recipes::step_naomit(recipes::all_predictors()) %>%
   recipes::step_zv(recipes::all_predictors()) %>%
   # recipes::step_nzv(recipes::all_predictors()) %>% # may need to figure out a way to tune these parameters before using effectively
@@ -379,31 +391,36 @@ Now we can build some models using `parsnip` and tune 'em using `tune` and pipel
 ``` {r build-models}
 
 # we're gonna cross-validate here
-folds_3 <- rsample::vfold_cv(team_games_train, v = 3, 
-                             repeats = 2)
+folds_3 <- rsample::vfold_cv(team_games_train, v = 5, 
+                             repeats = 1)
 
 # good ol' glmnet to start
-linreg_mod <- parsnip::linear_reg(mode = 'regression',
-                                  penalty = tune::tune(), 
-                                  mixture = 1) %>%
+lasso_mod <- parsnip::linear_reg(mode = 'regression',
+                                 penalty = tune::tune(), 
+                                 mixture = 1) %>%
   parsnip::set_engine('glmnet')
 
 linreg_workflow <- workflows::workflow() %>%
-  workflows::add_model(linreg_mod) %>%
+  workflows::add_model(lasso_mod) %>%
   workflows::add_recipe(rec) 
 
 linreg_tg <- linreg_workflow %>%
-  tune::tune_grid(resamples = folds_3,
-                  control = stacks::control_stack_grid(),
-                  grid = 10)
-
+  tune::tune_grid(
+    resamples = folds_3,
+    dials::penalty(),
+    metrics = yardstick::metric_set(rmse),
+    control = stacks::control_stack_grid()
+  )
+tune::collect_metrics(linreg_tg)
 # linreg_fit <- linreg_workflow %>%
 #   parsnip::fit(data = team_games_train)
 
 # how bout some boosted trees
 xgb_mod <- parsnip::boost_tree(mode = 'regression',
-                               trees = tune::tune(),
-                               tree_depth = 3) %>%
+                               mtry = 2,
+                               trees = 1000,
+                               tree_depth = 3,
+                               min_n = tune::tune()) %>%
   parsnip::set_engine('xgboost')
 
 xgb_workflow <- workflows::workflow() %>%
@@ -411,17 +428,21 @@ xgb_workflow <- workflows::workflow() %>%
   workflows::add_recipe(rec) 
 
 xgb_tg <- xgb_workflow %>%
-  tune::tune_grid(resamples = folds_3,
-                  control = stacks::control_stack_grid(),
-                  grid = 3)
-
+  tune::tune_grid(
+    resamples = folds_3,
+    # dials::tree_depth(),
+    dials::min_n(),
+    metrics = yardstick::metric_set(rmse),
+    control = stacks::control_stack_grid()
+  )
+tune::collect_metrics(xgb_tg)
 # xgb_fit <- xgb_workflow %>%
 #   parsnip::fit(data = team_games_train)
 
 # random forest
 rf_mod <- parsnip::rand_forest(mode = 'regression',
-                               mtry = tune::tune(),
-                               trees = tune::tune()) %>%
+                               mtry = 50,
+                               trees = 1000) %>%
   parsnip::set_engine('ranger')
 
 rf_workflow <- workflows::workflow() %>%
@@ -429,11 +450,12 @@ rf_workflow <- workflows::workflow() %>%
   workflows::add_recipe(rec)
 
 rf_tg <- rf_workflow %>%
-  tune::tune_grid(resamples = folds_3,
-                  dials::mtry(range = c(1, 30)),
-                  dials::trees(range = c(100, 100000)),
-                  control = stacks::control_stack_grid())
-
+  tune::tune_grid(
+    resamples = folds_3,
+    # dials::finalize(dials::mtry(c(1, 37)), team_games_train),
+    metrics = yardstick::metric_set(rmse),
+    control = stacks::control_stack_grid())
+tune::collect_metrics(rf_tg)
 # rf_fit <- rf_workflow %>%
 #   parsnip::fit(data = team_games_train)
 
@@ -446,17 +468,28 @@ st <- stacks::stacks() %>%
 st_blended_preds <- st %>%
   stacks::blend_predictions()
 
-wf <- st %>%
-  finali
+st_fitted <- st_blended_preds %>%
+  stacks::fit_members()
+
+test_preds <- predict(st_fitted, team_games_test)
+test_outcome <- team_games_test$pts_game_outcome
+
+ qplot(test_preds$.pred, test_outcome)
+ cor(test_preds$.pred, test_outcome)
 # TODO: 
 # get model performance stuff calculated i think with the yardstick package
-# test better tuning grid options, these are just from a tutorial
-# get those boosted models tuned up
 # get some earth models tuned up
 # GET THAT TENSORFLOWWWWWWWWWWWWWW ROLLING
 # setup some stacks using the stacks package
 # also add a bunch more seasons of data, at least a few right
 # also add odds data --this should be the highest priority i think
 # and then start functionalizing and packagizing so we can dockerize and automate 😍
+t2 <- Sys.time()
 
+t2-t1
 ```
+
+
+Ok, that takes forever `r t2-t1` and doesn't do great `r cor(test_preds$.pred, test_outcome)`.
+
+Let's see how vegas odds do just by themselves? We'll do that in another document...
