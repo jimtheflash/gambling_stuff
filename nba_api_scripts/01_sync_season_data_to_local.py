@@ -70,7 +70,7 @@ def main(args: dict):
         col = sync["column_name"]
         func = sync["function"]
 
-        sync_ids = list(gamelog_df[col].unique())
+        sync_ids = list(gamelog_df[gamelog_df["PLAYER_NAME"].notnull()][col].unique())
         logger.info(f"Syncing season {category} files to local")
         sync_files = glob(os.path.join(base_path, "*.csv"))
         local_ids = [os.path.basename(x).split(".")[0] for x in sync_files]
@@ -89,7 +89,8 @@ def main(args: dict):
                     sync_df.to_csv(sync_file_name, index=False)
                     time.sleep(uniform(1.6, 2.5))
                 except:
-                    logger.warning('Hit unexpected exception. Skipping...')
+                    logger.warning("Hit unexpected exception. Skipping...")
+                    time.sleep(uniform(1.6, 2.5))
                     continue
 
 
