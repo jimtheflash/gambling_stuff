@@ -1,0 +1,101 @@
+---
+title: "NBA Odds Stuff"
+author: "Jim Kloet"
+date: "3/7/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+## Purpose
+
+We're trying to see how good a job Vegas books do at forecasting the outcomes of NBA games.
+
+``` {r vegas-stuff, message=FALSE}
+# the betting stuff lives in...
+odds_dir <- '../data/nba_lines/'
+nba_odds <- list.files(odds_dir, pattern = 'spread|total|moneyline')
+
+# oh, didn't tidy this up very well, but should be easy enough to sort this out
+
+totals_list <- list()
+spreads_list <- list()
+moneylines_list <- list()
+for (f in nba_odds) {
+  
+  odds_file <- read.csv(paste0(odds_dir, f), colClasses = 'character')
+  
+  # if (any(is.na(odds_file$pinnacle2) | odds_file$pinnacle2 == '')) {
+  #   message(f, ' has no odds')
+  #   next
+  # }
+  # 
+  # date_val <- f %>%
+  #   gsub('nba_', '', .) %>%
+  #   gsub('_spread|_total', '', .) %>%
+  #   gsub('.csv', '', ., fixed = TRUE) %>%
+  #   lubridate::as_date()
+  # 
+  # odds_file$game_date <- date_val
+  
+  message('parsed date for ', f)
+  
+  if (grepl('total', f)) {
+    totals_list[[length(totals_list) + 1]] <- odds_file
+    next
+  }
+  
+  if (grepl('spread', f)) {
+    spreads_list[[length(spreads_list) + 1]] <- odds_file
+    next
+  }
+  
+  if (grepl('moneyline', f)) {
+    moneylines_list[[length(moneylines_list) + 1]] <- odds_file
+    next
+  }
+  
+}
+
+spreads <- dplyr::bind_rows(spreads_list)
+tidy_spreads <- spreads %>%
+dplyr::filter(!is.na(home_score),
+              !is.na(away_score)) %>%
+  dplyr::select(-ends_with('line'),
+                -ends_with('odds'))
+
+totals <- dplyr::bind_rows(totals_list)
+
+
+
+moneylines <- dplyr::bind_rows(moneylines_list)
+
+# # filter out the reallllly missing cols
+# 
+# ## spreads
+# spreads_skimmed <- skimr::skim(spreads) %>%
+#   dplyr::filter(complete_rate > 0.7)
+# spreads_cols <- unique(spreads_skimmed$skim_variable)
+# 
+# tidy_spreads <- spreads[, spreads_cols]
+# 
+# ## totals
+# totals_skimmed <- skimr::skim(totals) %>%
+#   dplyr::filter(complete_rate > 0.7)
+# totals_cols <- unique(totals_skimmed$skim_variable)
+# 
+# tidy_totals <- totals[, totals_cols]
+# 
+# ## moneylines
+# moneylines_skimmed <- skimr::skim(moneylines) %>%
+#   dplyr::filter(complete_rate > 0.7)
+# moneylines_cols <- unique(moneylines_skimmed$skim_variable)
+# 
+# tidy_moneylines <- moneylines[, moneylines_cols]
+
+## OHHH, gotta re-pull all this stuff - the API output changed since i did this last :facepalm:
+
+```
