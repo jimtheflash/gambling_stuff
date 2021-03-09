@@ -480,13 +480,8 @@ library(slider)</code></pre>
 <div id="nba-team-game-models" class="section level2">
 <h2>NBA Team-Game Models</h2>
 <p>These models are going to predict team-games, so that we can estimate conventional bets, and also so we can mix team-level estimates with player-level estimates to get the best of everything.</p>
-<pre class="r"><code># first we gotta read in some data; how about, the 2018-19 season: pre-pandemic! completed season! 
-player_games &lt;- read.csv(&#39;../data/nba_gamelogs/nba_gamelogs_2018-19.csv&#39;,
-                         colClasses = &#39;character&#39;) 
-
-# this is at the player-game level, so we&#39;ll have to roll it up to team-game, and tidy it up a bit to get opponent data and that sorta stuff
-
-# make an incrementor function to use with purrr::accumulate later
+<p>I’m gonna make a slew of custom functions for recursive and windowed functions.</p>
+<pre class="r"><code># make an incrementor function to use with purrr::accumulate later
 incrementor &lt;- function(prev, new, growth = 1) {
   dplyr::if_else(new == 0|is.na(new), new, prev + growth)
 }
@@ -519,6 +514,90 @@ rollmax_p &lt;- function(x, p, ...) {
   )
 }
 
+rollmin_p &lt;- function(x, p, ...) {
+  slider::slide_vec(
+    x,
+    min,
+    .before = p,
+    ...
+  )
+}
+
+rollmedian_p &lt;- function(x, p, ...) {
+  slider::slide_vec(
+    x,
+    median,
+    .before = p,
+    ...
+  )
+}
+
+rollvar_p &lt;- function(x, p, ...) {
+  slider::slide_vec(
+    x,
+    var,
+    .before = p,
+    ...
+  )
+}
+
+## OH, you can specify the list of funs as purrr formulae for dplyr::across in advance!
+## TIME TO GO NUTS Y&#39;ALL; not including the sums cuz that&#39;s gonna be a special case, and since all the windows are the same size then there&#39;s no reason to include both a sum and a mean/median
+rolling_list &lt;- list(
+  # means
+  rollmean_3 = ~rollmean_p(.x, 3, .complete = TRUE),
+  rollmean_5 = ~rollmean_p(.x, 5, .complete = TRUE),
+  rollmean_7 = ~rollmean_p(.x, 7, .complete = TRUE),
+  rollmean_11 = ~rollmean_p(.x, 11, .complete = TRUE),
+  rollmean_13 = ~rollmean_p(.x, 13, .complete = TRUE),
+  rollmean_17 = ~rollmean_p(.x, 17, .complete = TRUE),
+  rollmean_19 = ~rollmean_p(.x, 19, .complete = TRUE),
+  rollmean_23 = ~rollmean_p(.x, 23, .complete = TRUE),
+  # maxes
+  rollmax_3 = ~rollmax_p(.x, 3, .complete = TRUE),
+  rollmax_5 = ~rollmax_p(.x, 5, .complete = TRUE),
+  rollmax_7 = ~rollmax_p(.x, 7, .complete = TRUE),
+  rollmax_11 = ~rollmax_p(.x, 11, .complete = TRUE),
+  rollmax_13 = ~rollmax_p(.x, 13, .complete = TRUE),
+  rollmax_17 = ~rollmax_p(.x, 17, .complete = TRUE),
+  rollmax_19 = ~rollmax_p(.x, 19, .complete = TRUE),
+  rollmax_23 = ~rollmax_p(.x, 23, .complete = TRUE),
+  # mins
+  rollmin_3 = ~rollmin_p(.x, 3, .complete = TRUE),
+  rollmin_5 = ~rollmin_p(.x, 5, .complete = TRUE),
+  rollmin_7 = ~rollmin_p(.x, 7, .complete = TRUE),
+  rollmin_11 = ~rollmin_p(.x, 11, .complete = TRUE),
+  rollmin_13 = ~rollmin_p(.x, 13, .complete = TRUE),
+  rollmin_17 = ~rollmin_p(.x, 17, .complete = TRUE),
+  rollmin_19 = ~rollmin_p(.x, 19, .complete = TRUE),
+  rollmin_23 = ~rollmin_p(.x, 23, .complete = TRUE),
+  # medians
+  rollmedian_3 = ~rollmedian_p(.x, 3, .complete = TRUE),
+  rollmedian_5 = ~rollmedian_p(.x, 5, .complete = TRUE),
+  rollmedian_7 = ~rollmedian_p(.x, 7, .complete = TRUE),
+  rollmedian_11 = ~rollmedian_p(.x, 11, .complete = TRUE),
+  rollmedian_13 = ~rollmedian_p(.x, 13, .complete = TRUE),
+  rollmedian_17 = ~rollmedian_p(.x, 17, .complete = TRUE),
+  rollmedian_19 = ~rollmedian_p(.x, 19, .complete = TRUE),
+  rollmedian_23 = ~rollmedian_p(.x, 23, .complete = TRUE),
+  # vars
+  rollvar_3 = ~rollvar_p(.x, 3, .complete = TRUE),
+  rollvar_5 = ~rollvar_p(.x, 5, .complete = TRUE),
+  rollvar_7 = ~rollvar_p(.x, 7, .complete = TRUE),
+  rollvar_11 = ~rollvar_p(.x, 11, .complete = TRUE),
+  rollvar_13 = ~rollvar_p(.x, 13, .complete = TRUE),
+  rollvar_17 = ~rollvar_p(.x, 17, .complete = TRUE),
+  rollvar_19 = ~rollvar_p(.x, 19, .complete = TRUE),
+  rollvar_23 = ~rollvar_p(.x, 23, .complete = TRUE)
+)</code></pre>
+<p>Helper functions in hand, we can start engineering our data for preprocessing.</p>
+<pre class="r"><code># first we gotta read in some data; how about, the 2018-19 season: pre-pandemic! completed season! We&#39;ll filter to regular season in a moment
+player_games &lt;- read.csv(&#39;../data/nba_gamelogs/nba_gamelogs_2018-19.csv&#39;,
+                         colClasses = &#39;character&#39;)
+
+# this is at the player-game level, so we&#39;ll have to roll it up to team-game, and tidy it up a bit to get opponent data and that sorta stuff
+
+# ok now time to engineer some data
 team_games1 &lt;- player_games %&gt;%
   janitor::clean_names() %&gt;%
   dplyr::mutate(home_away = dplyr::if_else(grepl(&#39;@&#39;, matchup), &#39;away&#39;, &#39;home&#39;),
@@ -544,22 +623,13 @@ team_games1 &lt;- player_games %&gt;%
     .groups = &#39;keep&#39;
     ) %&gt;%
   dplyr::ungroup() %&gt;%
-  # we&#39;re going to have to manually calculate the window functions and aggregates and whatever at this step (rather than in a recipe), since we&#39;ll want to join this to itself later to get the opponent&#39;s stats and it&#39;s easier to do it now as far as i can tell; we&#39;re also using some arbitrary rolling periods, but we can update that pretty easily, and probably automate using some purrr stuff, but tktk
   dplyr::arrange(team_name, game_date) %&gt;%
   dplyr::group_by(team_name) %&gt;%
   dplyr::mutate(
     dplyr::across(
       ends_with(&#39;_game&#39;),
-      list(rollmean_3 = ~rollmean_p(.x, 3, .complete = TRUE),
-           rollmean_10 = ~rollmean_p(.x, 10, .complete = TRUE),
-           rollmean_20 = ~rollmean_p(.x, 20, .complete = TRUE)))) %&gt;%
-  dplyr::mutate(
-    dplyr::across(
-      ends_with(&#39;_game&#39;),
-      list(rollmax_3 = ~rollmax_p(.x, 3, .complete = TRUE),
-           rollmax_10 = ~rollmax_p(.x, 10, .complete = TRUE),
-           rollmax_20 = ~rollmax_p(.x, 20, .complete = TRUE)))) %&gt;%
-  identity()
+      rolling_list)) %&gt;%
+  dplyr::ungroup()
 
 # idk if i&#39;ll need this? guess it doesn&#39;t hurt to stash
 # wide_home_away_games &lt;- team_games1 %&gt;%
@@ -590,11 +660,11 @@ names(team_games2) &lt;- fixed_names
 # engineer some important stuff like margin of victory, overtimes, b2b stuff, etc.
 team_games3 &lt;- team_games2 %&gt;%
   dplyr::mutate(
-    score_margin = pts_game - pts_game_allowed,
-    overtime = dplyr::if_else(total_minutes &gt; 240, TRUE, FALSE),
-    count_overtimes = dplyr::case_when(
-      !overtime ~ 0,
-      overtime ~ (total_minutes - 240) / 25)) %&gt;%
+    score_margin_game = pts_game - pts_game_allowed,
+    overtime_game = dplyr::if_else(total_minutes &gt; 240, TRUE, FALSE),
+    count_overtimes_game = dplyr::case_when(
+      !overtime_game ~ 0,
+      overtime_game ~ (total_minutes - 240) / 25)) %&gt;%
   dplyr::select(-total_minutes) %&gt;%
   dplyr::arrange(team_name, game_date) %&gt;%
   dplyr::group_by(team_name) %&gt;%
@@ -605,17 +675,11 @@ team_games3 &lt;- team_games2 %&gt;%
     b2b_g2 = dplyr::case_when(dplyr::lag(game_date) == game_date - 1 ~ TRUE, 
                               dplyr::lag(game_date) != game_date - 1 ~ FALSE,
                               row_number() == 1 ~ FALSE)) %&gt;%
-  # means and maxes
-  # TODO: add mins and medians
+  # windows
   dplyr::mutate(
     dplyr::across(
-      score_margin,
-      list(rollmean_3 = ~rollmean_p(.x, 3, .complete = TRUE),
-           rollmean_10 = ~rollmean_p(.x, 10, .complete = TRUE),
-           rollmean_20 = ~rollmean_p(.x, 20, .complete = TRUE),
-           rollmax_3 = ~rollmax_p(.x, 3, .complete = TRUE),
-           rollmax_10 = ~rollmax_p(.x, 10, .complete = TRUE),
-           rollmax_20 = ~rollmax_p(.x, 20, .complete = TRUE)))) %&gt;%
+      score_margin_game,
+      rolling_list)) %&gt;%
   # sums
   dplyr::mutate(
     win = as.numeric(wl == &#39;W&#39;),
@@ -631,33 +695,61 @@ team_games3 &lt;- team_games2 %&gt;%
     lose_streak = purrr::accumulate(as.numeric(wl == &#39;L&#39;), incrementor)) %&gt;%
   dplyr::ungroup()
 
+## TODO: add games in last n days (e.g. played 5 games in 10 days, 2 in 3, etc.)
+
 # add the opponent data to make this stupid wide, but then we&#39;ll know how opponents are playing offense and defense
 team_games4 &lt;- team_games3 %&gt;%
   dplyr::inner_join(
     team_games3 %&gt;%
-      dplyr::select(-game_date, -home_away, -strata_var, -wl), 
+      dplyr::select(-game_date, -home_away, -strata_var, -wl, -dplyr::matches(&#39;players_in_rotation&#39;)), 
     by = c(&#39;game_id&#39; = &#39;game_id&#39;, 
            &#39;team_name&#39; = &#39;opp_name&#39;)
-  )
+  ) 
 
 # fix the names again
 fixed_names2 &lt;- gsub(&#39;.x&#39;, &#39;&#39;, names(team_games4), fixed = TRUE)
 fixed_names2 &lt;- sapply(fixed_names2, function(x) ifelse(grepl(&#39;.y&#39;, x, fixed = TRUE), paste0(&#39;opp_&#39;, x), x))
 fixed_names2 &lt;- gsub(&#39;.y&#39;, &#39;&#39;, fixed_names2, fixed = TRUE)
 names(team_games4) &lt;- fixed_names2  
-  
-# presto! we&#39;ve got engineered data ready to be used in a recipe
+
+# and now the real kicker - we gotta use data from date n to predict outcomes in game n+1; gonna have to lag a bunch of shit and remove unlagged versions
+team_games5 &lt;- team_games4 %&gt;%
+  dplyr::arrange(team_name, game_date) %&gt;%
+  dplyr::group_by(team_name) %&gt;%
+  dplyr::mutate(
+    dplyr::across(
+      dplyr::matches(&#39;_game|_allowed|_roll|_streak|_rotation&#39;),
+      list(
+        lagged = ~dplyr::lag(.x)
+      )
+    )
+  ) %&gt;%
+  dplyr::mutate(
+    pts_game_outcome = pts_game,
+    pts_game_allowed_outcome = pts_game_allowed,
+    score_margin_game_outcome = score_margin_game,
+    win_outcome = win
+  ) %&gt;%
+  dplyr::select(
+    -win, -opp_win, -wl,
+    -dplyr::ends_with(&#39;_allowed&#39;),
+    -dplyr::ends_with(&#39;_game&#39;),
+    -dplyr::ends_with(&#39;streak&#39;),
+    -dplyr::ends_with(&#39;rotation&#39;),
+    -dplyr::matches(&#39;_[1-9]?.$&#39;)
+  ) %&gt;%
+  dplyr::ungroup()
 
 
-
-# ok so now we can use some of the tidymodels functions to calculate shit like averages, back-to-backs, all that jazz...where does that live...
-
-# ok first part lives in rsample apparently; we&#39;re splittin&#39; into test/train here (can parameterize later beyond stratifying by home/away splits)
-train_test_split &lt;- rsample::initial_split(team_games3, strata = &#39;strata_var&#39;)
+message(&quot;we&#39;ve got &quot;, ncol(team_games4), &quot; columns at this point&quot;)  </code></pre>
+<pre><code>## we&#39;ve got 1096 columns at this point</code></pre>
+<p>Now that the data are engineered, we can start feeding to the <code>tidymodels</code> framework for pre-processing.</p>
+<pre class="r"><code># ok first part lives in rsample apparently; we&#39;re splittin&#39; into test/train here (can parameterize later beyond stratifying by home/away splits)
+train_test_split &lt;- rsample::initial_split(team_games5, strata = &#39;strata_var&#39;)
 team_games_train &lt;- rsample::training(train_test_split)
 team_games_test &lt;- rsample::testing(train_test_split)
 
-recipe_pts_game &lt;- recipes::recipe(pts_game ~ ., data = team_games_train %&gt;% dplyr::select(-strata_var))
+recipe_pts_game &lt;- recipes::recipe(pts_game_outcome ~ ., data = team_games_train %&gt;% dplyr::select(-strata_var))
 
 # pts_for_rec_windows &lt;- pts_for_recipe %&gt;%
 #   recipes::step_window(
