@@ -1,3 +1,4 @@
+from datetime import date
 import os
 import time
 from glob import glob
@@ -9,6 +10,7 @@ from args import get_cli_args
 from game import get_game_pbp, get_game_boxscore
 from get_logger import get_logger
 from player import get_player_info
+from schedule import get_day_schedule
 from season import format_season_string, get_current_season, get_season_gamelog
 
 
@@ -28,6 +30,11 @@ BS_PATH = os.path.join(
     os.path.dirname(os.path.dirname(os.path.realpath(__file__))),
     "data",
     "nba_boxscores",
+)
+SCHEDULE_PATH = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.realpath(__file__))),
+    "data",
+    "nba_schedules",
 )
 PI_PATH = os.path.join(
     os.path.dirname(os.path.dirname(os.path.realpath(__file__))),
@@ -63,6 +70,13 @@ def main(args: dict):
     gamelog_df = get_season_gamelog(season)
     source_file_name = os.path.join(GAMELOG_PATH, f"nba_gamelogs_{season}.csv")
     gamelog_df.to_csv(source_file_name, index=False)
+
+    schedule_df = get_day_schedule(date.today())
+    if len(schedule_df) > 0:
+        schedule_file_name = os.path.join(
+            SCHEDULE_PATH, f"{str(date.today()).replace('-', '')}.csv"
+        )
+        schedule_df.to_csv(schedule_file_name, index=False)
 
     for sync in SYNC_CATEGORIES:
         category = sync["category"]
