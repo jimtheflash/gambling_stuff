@@ -169,8 +169,8 @@ for (i in 1:length(unique_dates$game_date)) {
   # Splitting data into train and test sets
   possession_train <-
     possession_df %>%
-    filter(game_date < unique_dates$game_date[i],
-           game_date >= unique_dates$game_date[i] - lubridate::years(2))
+    filter(game_date < unique_dates$game_date[i])
+           #game_date >= unique_dates$game_date[i]) #- lubridate::years(2))
   
   possession_test <-
     possession_df %>%
@@ -376,7 +376,6 @@ for (i in 1:length(unique_dates$game_date)) {
   
 }
 
-
 # Views performance of model on test data
 # Is split into buckets of predicted win probability, and compares to performance of those predictions
 # Ideally, the average win percentage of a bucket should match the bucket it is in
@@ -399,11 +398,23 @@ test_buckets_height <-
 # Determines Brier Score for backtesting
 brier_score_df <-
   test_df_exp_win_master %>%
-  mutate(brier_score = (home_won_tip - exp_win)^2) %>%
-  filter(!is.na(brier_score))
+  mutate(brier_score_normal = (home_won_tip - exp_win)^2,
+         brier_score_height = (home_won_tip - final_win_prob)^2) %>%
+  filter(!is.na(brier_score_normal), !is.na(brier_score_height))
 
 brier_score <- mean(brier_score_df$brier_score)
 message("brier_score is equal to ", round(brier_score, 2))
+
+brier_buckets <-
+  brier_score_df %>%
+  mutate(home_jumps_buckets = cut(home_jumps, breaks = seq(0, 250, by = 10), right = FALSE),
+         away_jumps_buckets = cut(away_jumps, breaks = seq(0, 250, by = 10), right = FALSE)) %>%
+  group_by(home_jumps_buckets, away_jumps_buckets) %>%
+  summarise(jumps = n(),
+            brier_normal_avg = mean(brier_score_normal),
+            brier_height_avg = mean(brier_score_height),
+            .groups = 'drop') 
+
 
 # Using historical dataset chosen with parameters, pick two players and view odds of winning a jump ball
 calculate_jump_odds <- function(player_1, player_2, player_list_df){
@@ -437,3 +448,40 @@ player_2 <- "Joel Embiid"
 calculate_jump_odds(player_1, player_2, player_list_df)
 
 write.csv(player_list_df, "data/curated/nba/jump_ball_ratings.csv.gz", row.names = FALSE)
+
+
+
+
+
+
+# When do player ratings stay the same?
+jumps_counts_players_home <-
+  test_df_exp_win_master %>%
+  select(person_id = home_team_person_id, jumps = home_jumps, exp_win = home_exp_win)
+
+jumps_counts_players_away <-
+  test_df_exp_win_master %>%
+  select(person_id = away_team_person_id, jumps = away_jumps, exp_win = away_exp_win)
+
+jump_counts_players <-
+  rbind.data.frame(jumps_counts_players_home, jumps_counts_players_away) %>%
+  arrange(person_id, jumps) %>%
+  distinct() %>%
+  group_by(person_id) %>%
+  mutate(difference = abs(exp_win - lag(exp_win)))
+
+difference_by_jumps <-
+  jump_counts_players %>%
+  group_by(jumps) %>%
+  summarise(avg_diff = mean(difference, na.rm = T))
+
+plot(difference_by_jumps$jumps, difference_by_jumps$avg_diff)
+
+
+
+
+
+
+
+
+
