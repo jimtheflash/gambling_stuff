@@ -395,7 +395,7 @@ baked <- recipes::bake(rec, team_games_train)
 ## NOT RUN
 ## NOT RUN
 ## (but maybe if you're bored)
-# skimr::skim(baked)
+View(skimr::skim(baked))
 ```
 
 Now we can build some models using `parsnip` and tune 'em using `tune` and pipeline 'em using `workflows` and all sorts of other nifty shit.
