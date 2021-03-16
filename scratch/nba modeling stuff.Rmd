@@ -119,6 +119,17 @@ rollvar_p <- function(x, p, ...) {
   )
 }
 
+rollcount_days_p <- function(x, date_index, p, ...) {
+  slider::slide_period_vec(
+    x,
+    date_index,
+    "day",
+    dplyr::n_distinct,
+    .before = p,
+    ...
+  )
+}
+
 ## OH, you can specify the list of funs as purrr formulae for dplyr::across in advance!
 ## TIME TO GO NUTS Y'ALL; not including the sums cuz that's gonna be a special case, and since all the windows are the same size then there's no reason to include both a sum and a mean/median
 rolling_list <- list(
@@ -168,6 +179,29 @@ rolling_list <- list(
   rollvar_19 = ~rollvar_p(.x, 19, .complete = TRUE),
   rollvar_23 = ~rollvar_p(.x, 23, .complete = TRUE)
 )
+
+rollsum_list <- list(
+  rollsum_3 = ~rollsum_p(.x, 3, .complete = TRUE),
+  rollsum_5 = ~rollsum_p(.x, 5, .complete = TRUE),
+  rollsum_7 = ~rollsum_p(.x, 7, .complete = TRUE),
+  rollsum_11 = ~rollsum_p(.x, 11, .complete = TRUE),
+  rollsum_13 = ~rollsum_p(.x, 13, .complete = TRUE),
+  rollsum_17 = ~rollsum_p(.x, 17, .complete = TRUE),
+  rollsum_19 = ~rollsum_p(.x, 19, .complete = TRUE),
+  rollsum_23 = ~rollsum_p(.x, 23, .complete = TRUE)
+  )
+
+# rollcount_list <- list(
+#         last3days = ~rollcount_days_p(game_id, game_date, 3, .complete = TRUE),
+#         last5days = ~rollcount_days_p(game_id, game_date, 5, .complete = TRUE),
+#         last7days = ~rollcount_days_p(game_id, game_date, 7, .complete = TRUE),
+#         last11days = ~rollcount_days_p(game_id, game_date, 11, .complete = TRUE),
+#         last13days = ~rollcount_days_p(game_id, game_date, 13, .complete = TRUE),
+#         last17days = ~rollcount_days_p(game_id, game_date, 17, .complete = TRUE),
+#         last19days = ~rollcount_days_p(game_id, game_date, 19, .complete = TRUE),
+#         last23days = ~rollcount_days_p(game_id, game_date, 23, .complete = TRUE)
+#         )
+
 ```
 
 Helper functions in hand, we can start engineering our data for preprocessing.
@@ -176,18 +210,19 @@ Helper functions in hand, we can start engineering our data for preprocessing.
 # first we gotta read in some data; how about, the 2018-19 season: pre-pandemic! completed season! We'll filter to regular season in a moment
 player_games <- read.csv('../data/nba_gamelogs/nba_gamelogs_2016-17.csv',
                          colClasses = 'character') %>%
-  dplyr::bind_rows(
-    read.csv('../data/nba_gamelogs/nba_gamelogs_2017-18.csv',
-                         colClasses = 'character')) %>%
-  dplyr::bind_rows(
-    read.csv('../data/nba_gamelogs/nba_gamelogs_2018-19.csv',
-                         colClasses = 'character')) %>%
-  dplyr::bind_rows(
-    read.csv('../data/nba_gamelogs/nba_gamelogs_2019-20.csv',
-             colClasses = 'character')) %>%
-  dplyr::bind_rows(
-    read.csv('../data/nba_gamelogs/nba_gamelogs_2020-21.csv',
-             colClasses = 'character')) 
+  # dplyr::bind_rows(
+  #   read.csv('../data/nba_gamelogs/nba_gamelogs_2017-18.csv',
+  #                        colClasses = 'character')) %>%
+  # dplyr::bind_rows(
+  #   read.csv('../data/nba_gamelogs/nba_gamelogs_2018-19.csv',
+  #                        colClasses = 'character')) %>%
+  # dplyr::bind_rows(
+  #   read.csv('../data/nba_gamelogs/nba_gamelogs_2019-20.csv',
+  #            colClasses = 'character')) %>%
+  # dplyr::bind_rows(
+  #   read.csv('../data/nba_gamelogs/nba_gamelogs_2020-21.csv',
+  #            colClasses = 'character')) %>%
+  identity()
 
 # this is at the player-game level, so we'll have to roll it up to team-game, and tidy it up a bit to get opponent data and that sorta stuff
 
@@ -277,19 +312,31 @@ team_games3 <- team_games2 %>%
   # sums
   dplyr::mutate(
     win = as.numeric(wl == 'W'),
+    lose = as.numeric(wl == 'L'),
+    home = as.numeric(home_away == 'home'),
+    away = as.numeric(home_away == 'away'),
     dplyr::across(
-      win,
-      list(rollsum_3 = ~rollsum_p(.x, 3, .complete = TRUE),
-           rollsum_10 = ~rollsum_p(.x, 10, .complete = TRUE),
-           rollsum_20 = ~rollsum_p(.x, 20, .complete = TRUE)
-    ))) %>%
+      c(win, lose, home, away),
+      rollsum_list)) %>%
   # streaks
   dplyr::mutate(
-    win_streak = purrr::accumulate(win, incrementor),
-    lose_streak = purrr::accumulate(as.numeric(wl == 'L'), incrementor)) %>%
+    dplyr::across(
+      c(win, lose, home, away),
+      list(streak = ~accumulate(.x, incrementor)))) %>%
+  dplyr::mutate(
+    dplyr::across(
+      game_id,
+      list(
+        last3days = ~rollcount_days_p(.x, game_date, 3, .complete = TRUE),
+        last5days = ~rollcount_days_p(.x, game_date, 5, .complete = TRUE),
+        last7days = ~rollcount_days_p(.x, game_date, 7, .complete = TRUE),
+        last11days = ~rollcount_days_p(.x, game_date, 11, .complete = TRUE),
+        last13days = ~rollcount_days_p(.x, game_date, 13, .complete = TRUE),
+        last17days = ~rollcount_days_p(.x, game_date, 17, .complete = TRUE),
+        last19days = ~rollcount_days_p(.x, game_date, 19, .complete = TRUE),
+        last23days = ~rollcount_days_p(.x, game_date, 23, .complete = TRUE)
+        ))) %>%
   dplyr::ungroup()
-
-## TODO: add games in last n days (e.g. played 5 games in 10 days, 2 in 3, etc.)
 
 # add the opponent data to make this stupid wide, but then we'll know how opponents are playing offense and defense
 team_games4 <- team_games3 %>%
@@ -352,22 +399,28 @@ to_model <- team_games6 %>%
       as.numeric
     )
   ) %>%
-  dplyr::select(-opp_name)
+  # # this mutate should happen elsewhere in the pipeline?
+  # dplyr::mutate(
+  #   season_team_name = paste0(season_year, team_name),
+  #   season_opp_team_name = paste0(season_year, opp_team_name)
+  # ) %>%
+  dplyr::select(-opp_name) %>%
+  dplyr::ungroup()
 
-message("we've got ", ncol(team_games4), " columns at this point")  
+message('we have ', ncol(to_model), ' variables for modeling and ', nrow(to_model), ' observations for the modeling process')  
 ```
 
 Now that the data are engineered, we can start feeding to the `tidymodels` framework for pre-processing. A few things we should be considering, and I'm not sure the best approach tbqh:
 
 * should there only be one observation per game_id?
 * can same games live in the test and training sets? is that fair?
-* 
+
 
 ``` {r start-cooking}
 
 # so the split is important here - we don't want any of the same game_ids (or do we? actually idk...)
 
-train_test_split <- rsample::initial_split(to_model, strata = 'strata_var')
+train_test_split <- rsample::initial_split(to_model, prop = 3/4, strata = strata_var)
 team_games_train <- rsample::training(train_test_split)
 team_games_test <- rsample::testing(train_test_split)
 
@@ -383,19 +436,18 @@ rec <- recipes::recipe(pts_game_outcome ~ ., data = team_games_train) %>%
   recipes::step_dummy(recipes::all_predictors(), -recipes::all_numeric(), one_hot = TRUE) %>%
   recipes::step_naomit(recipes::all_predictors()) %>%
   recipes::step_zv(recipes::all_predictors()) %>%
-  recipes::step_nzv(recipes::all_predictors(), freq_cut = 99, unique_cut = .00002) %>% 
+  recipes::step_nzv(recipes::all_predictors(), freq_cut = 4999, unique_cut = .0002) %>%
   recipes::step_lincomb(recipes::all_predictors()) %>%
-  recipes::step_corr(recipes::all_predictors(), threshold = 0.99) %>%
+  recipes::step_corr(recipes::all_predictors(), threshold = 0.95) %>%
   recipes::prep()
 
 # bake it to see the final input data for your model
 baked <- recipes::bake(rec, team_games_train)
 
 ## NOT RUN
-## NOT RUN
-## NOT RUN
-## (but maybe if you're bored)
-View(skimr::skim(baked))
+# View(skimr::skim(baked))
+message('now we have ', ncol(baked), ' variables and ', nrow(baked), ' observations for training')
+
 ```
 
 Now we can build some models using `parsnip` and tune 'em using `tune` and pipeline 'em using `workflows` and all sorts of other nifty shit.
@@ -403,10 +455,33 @@ Now we can build some models using `parsnip` and tune 'em using `tune` and pipel
 ``` {r build-models}
 
 # we're gonna cross-validate here
-folds_3 <- rsample::vfold_cv(team_games_train, v = 3,
+cv_folds <- rsample::vfold_cv(team_games_train, v = 3,
+                             strata = strata_var)
+# and sometimes bootstrap
+boots <- rsample::bootstraps(team_games_train, times = 3,
                              strata = strata_var)
 
-# good ol' glmnet lasso to start
+# # parallelize
+# cores <- parallel::detectCores()
+# #Create cluster with desired number of cores, leave one open for the machine         
+# #core processes
+# cl <- doParallel::makeCluster(cores[1]-1)
+# #Register cluster
+# doParallel::registerDoParallel(cl)
+
+# control settings for simualted annealing tuning
+sim_anneal_ctrl <- finetune::control_sim_anneal(
+  no_improve = 10L,
+  restart = 3,
+  cooling_coef = .3,
+  verbose = TRUE, 
+  save_pred = TRUE, 
+  save_workflow = TRUE
+)
+
+#### lasso ####
+st0 <- Sys.time()
+
 lasso_mod <- parsnip::linear_reg(mode = 'regression',
                                  penalty = tune::tune(), 
                                  mixture = 1) %>%
@@ -416,134 +491,195 @@ lasso_workflow <- workflows::workflow() %>%
   workflows::add_model(lasso_mod) %>%
   workflows::add_recipe(rec) 
 
-lasso_tg <- lasso_workflow %>%
+lasso_tg <- try(
   finetune::tune_sim_anneal(
-    resamples = folds_3,
-    iter = 10,
-    initial = 1,
-    metrics = yardstick::metric_set(rmse),
-    control = finetune::control_sim_anneal(verbose = TRUE, save_pred = TRUE, save_workflow = TRUE)
-  )
-# tune::collect_metrics(lasso_tg)
-# lasso_fit <- lasso_workflow %>%
-#   parsnip::fit(data = team_games_train)
+    lasso_workflow,
+    resamples = cv_folds,
+    iter = 100,
+    initial = 3,
+    metrics = yardstick::metric_set(yardstick::rmse, yardstick::rsq),
+    control = sim_anneal_ctrl
+  ), silent = TRUE)
 
-# good ol' glmnet ridge to start
+lasso_final_params <- lasso_tg %>%
+  tune::select_best("rmse")
+
+lasso_final_wf <- lasso_workflow %>%
+  tune::finalize_workflow(lasso_final_params)
+
+lasso_final_fit <- lasso_final_wf %>%
+  parsnip::fit(team_games_train)
+
+#### ridge-ish ####
 ridge_mod <- parsnip::linear_reg(mode = 'regression',
                                  penalty = tune::tune(), 
-                                 mixture = 0) %>%
+                                 mixture = .5) %>%
   parsnip::set_engine('glmnet')
 
 ridge_workflow <- workflows::workflow() %>%
   workflows::add_model(ridge_mod) %>%
   workflows::add_recipe(rec) 
 
-ridge_grid <- ridge_mod %>%
-  dials::parameters() %>%
-  dials::grid_max_entropy(size = 10)
-
-ridge_tg <- ridge_workflow %>%
+ridge_tg <- try(
   finetune::tune_sim_anneal(
-    resamples = folds_3,
-    iter = 10,
-    initial = 1,
-    metrics = yardstick::metric_set(rmse),
-    control = finetune::control_sim_anneal(verbose = TRUE, save_pred = TRUE, save_workflow = TRUE)
-  )
+    ridge_workflow,
+    resamples = cv_folds,
+    iter = 100,
+    initial = 3,
+    metrics = yardstick::metric_set(yardstick::rmse, yardstick::rsq),
+    control = sim_anneal_ctrl
+  ), silent = TRUE)
+
 # tune::collect_metrics(ridge_tg)
 # ridge_fit <- ridge_workflow %>%
 #   parsnip::fit(data = team_games_train)
+et0 <- Sys.time()
+et0 - st0
+```
 
-# how bout some boosted trees
-remotes::install_github("curso-r/treesnip")
-library(treesnip)
-lgbm_mod <- parsnip::boost_tree(mode = 'regression',
-                                trees = tune::tune(),
-                                min_n = tune::tune(),
-                                tree_depth = tune::tune()) %>%
-  parsnip::set_engine('lightgbm', objective = "reg:squarederror", verbose = -1)
+OK, these work, but the rest of them are funky, so breaking into 2 chunks for easier construction of reprexes.
 
-lgbm_workflow <- workflows::workflow() %>%
-  workflows::add_model(lgbm_mod) %>%
-  workflows::add_recipe(rec)
+``` {r other-models}
+#### lgbm ####
+# remotes::install_github("curso-r/treesnip")
+# st1 <- Sys.time()
+# library(treesnip)
+# 
+# lgbm_params <- dials::parameters(
+#   dials::finalize(dials::mtry(), team_games_train),
+#   dials::trees(),
+#   dials::tree_depth(),
+#   dials::learn_rate()
+# )
+# 
+# lgbm_mod <- parsnip::boost_tree(mode = 'regression',
+#                                 mtry = tune::tune(),
+#                                 trees = tune::tune(),
+#                                 tree_depth = tune::tune(),
+#                                 learn_rate = tune::tune()
+#                                 ) %>%
+#   parsnip::set_engine('lightgbm')
+# 
+# lgbm_workflow <- workflows::workflow() %>%
+#   workflows::add_model(lgbm_mod) %>%
+#   workflows::add_recipe(rec)
+# 
+# lgbm_tg <- lgbm_workflow %>%
+#     tune::tune_grid(
+#     resamples = cv_folds,
+#     param_info = lgbm_params,
+#     grid = 10,
+#     metrics = yardstick::metric_set(yardstick::rmse, yardstick::rsq),
+#     control = stacks::control_stack_grid()
+#   )
+# 
+# et1 <- Sys.time()
+# et1 - st1
 
-lgbm_tg <- lgbm_workflow %>%
-  finetune::tune_sim_anneal(
-    resamples = folds_3,
-    iter = 10,
-    initial = 1,
-    metrics = yardstick::metric_set(rmse),
-    control = finetune::control_sim_anneal(verbose = TRUE, save_pred = TRUE, save_workflow = TRUE)
-  )
+#### xgboost ####
 
+st2 <- Sys.time()
 
+xgb_params <- dials::parameters(
+  dials::finalize(dials::mtry(), team_games_train),
+  dials::trees(),
+  dials::min_n(),
+  dials::tree_depth(),
+  dials::learn_rate(),
+  dials::loss_reduction())
 
 xgb_mod <- parsnip::boost_tree(mode = 'regression',
+                               mtry = tune::tune(),
                                trees = tune::tune(),
+                               min_n = tune::tune(),
                                tree_depth = tune::tune(),
                                learn_rate = tune::tune(),
-                               min_n = 5) %>%
+                               loss_reduction = tune::tune()) %>%
   parsnip::set_engine('xgboost')
 
 xgb_workflow <- workflows::workflow() %>%
   workflows::add_model(xgb_mod) %>%
   workflows::add_recipe(rec) 
 
-xgb_tg <- xgb_workflow %>%
+xgb_tg <- try(
   finetune::tune_sim_anneal(
-    resamples = folds_3,
-    iter = 10,
-    initial = 1,
-    metrics = yardstick::metric_set(rmse),
-    control = finetune::control_sim_anneal(verbose = TRUE, save_pred = TRUE, save_workflow = TRUE)
-  )
+    xgb_workflow,
+    resamples = cv_folds,
+    iter = 100,
+    initial = 3,
+    param_info = xgb_params,
+    metrics = yardstick::metric_set(yardstick::rmse, yardstick::rsq),
+    control = sim_anneal_ctrl
+  ), silent = TRUE)
+et2 <- Sys.time()
+et2 - st2
 
-xgb_tg <- xgb_workflow %>%
-  tune::tune_grid(
-    resamples = folds_3,
-    grid = dials::grid_regular(
-      dials::trees(),
-      dials::tree_depth(),
-      dials::learn_rate(),
-      dials::finalize(dials::mtry(), team_games_train),
-      levels = 3),
-    metrics = yardstick::metric_set(rmse),
-    control = stacks::control_stack_grid()
-  )
 # tune::collect_metrics(xgb_tg)
 # xgb_fit <- xgb_workflow %>%
 #   parsnip::fit(data = team_games_train)
 
-# random forest
+#### ranger ####
+
+st3 <- Sys.time()
+
+# TODO: find a way to get *some* aspect of a rf to run
+# rf_mod <- parsnip::rand_forest(mode = 'regression') %>%
+#   parsnip::set_engine('ranger')
+# 
+# rf_workflow <- workflows::workflow() %>%
+#   workflows::add_model(rf_mod) %>%
+#   workflows::add_recipe(rec)
+# 
+# rf_tg <- rf_workflow %>%
+#   tune::fit_resamples(
+#     resamples = cv_folds,
+#     metrics = yardstick::metric_set(yardstick::rmse, yardstick::rsq),
+#     control = tune::control_resamples(verbose = TRUE, save_workflow = TRUE, save_pred = TRUE)
+#   )
+
+rf_params <- dials::parameters(
+  dials::finalize(dials::mtry(c(15, 150)), team_games_train),
+  dials::trees(),
+  dials::min_n()
+)
 rf_mod <- parsnip::rand_forest(mode = 'regression',
                                mtry = tune::tune(),
                                trees = tune::tune(),
                                min_n = tune::tune()) %>%
-  parsnip::set_engine('ranger')
+  parsnip::set_engine('randomForest')
 
 rf_workflow <- workflows::workflow() %>%
   workflows::add_model(rf_mod) %>%
   workflows::add_recipe(rec)
 
-rf_tg <- rf_workflow %>%
-  tune::tune_grid(
-    resamples = folds_3,
-    grid = dials::grid_regular(
-      dials::trees(),
-      dials::min_n(),
-      dials::finalize(dials::mtry(), team_games_train),
-      levels = 3)),
-    metrics = yardstick::metric_set(rmse),
-    control = stacks::control_stack_grid())
+rf_tg <- try(
+  finetune::tune_sim_anneal(
+    rf_workflow,
+    resamples = cv_folds,
+    iter = 100,
+    initial = 3,
+    param_info = rf_params,
+    metrics = yardstick::metric_set(yardstick::rmse, yardstick::rsq),
+    control = sim_anneal_ctrl
+  ), silent = TRUE)
+et3 <- Sys.time()
+et3 - st3
 
 # tune::collect_metrics(rf_tg)
 # rf_fit <- rf_workflow %>%
 #   parsnip::fit(data = team_games_train)
 
-## stack em up!
+# stack em up!
+remotes::install_github("tidymodels/stacks", ref = "main")
+
 st <- stacks::stacks() %>%
   stacks::add_candidates(lasso_tg) %>%
-  stacks::add_candidates(xgb_tg) %>%
+  stacks::add_candidates(ridge_tg)
+
+%>%
+  stacks::add_candidates(xgb_tg) 
+
+%>%
   stacks::add_candidates(rf_tg)
 
 st_blended_preds <- st %>%
