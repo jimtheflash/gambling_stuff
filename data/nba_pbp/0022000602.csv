@@ -1,0 +1,470 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022000602,2,12,0,1,7:12 PM,12:00,,Start of 1st Period (7:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,4,10,0,1,7:12 PM,12:00,Jump Ball Zeller vs. Holmes: Tip to Bagley III,,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,1
+0022000602,7,2,80,1,7:12 PM,11:46,,,MISS Barnes 26' 3PT Step Back Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,8,4,0,1,7:12 PM,11:42,Washington REBOUND (Off:0 Def:1),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,9,2,3,1,7:12 PM,11:27,MISS Zeller 5' Hook Shot,,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,10,4,0,1,7:12 PM,11:24,,,Hield REBOUND (Off:0 Def:1),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,11,5,45,1,7:12 PM,11:16,,,Barnes Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022000602,12,2,5,1,7:13 PM,11:02,MISS Washington 3' Layup,,Bagley III BLOCK (1 BLK),,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,1
+0022000602,14,4,0,1,7:13 PM,10:59,,,Holmes REBOUND (Off:0 Def:1),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,15,1,41,1,7:13 PM,10:57,,,Bagley III 1' Running Layup (2 PTS) (Hield 1 AST),2 - 0,-2,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,17,6,2,1,7:13 PM,10:47,,,Hield S.FOUL (P1.T1) (S.Corbin),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,19,3,11,1,7:14 PM,10:47,MISS Zeller Free Throw 1 of 2,,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,20,4,1,1,7:14 PM,10:47,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,21,3,12,1,7:14 PM,10:47,Zeller Free Throw 2 of 2 (1 PTS),,,2 - 1,-1,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,22,1,6,1,7:14 PM,10:36,,,Hield 2' Driving Layup (2 PTS),4 - 1,-3,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,23,6,2,1,7:14 PM,10:36,Ball S.FOUL (P1.T1) (S.Corbin),,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000602,25,3,10,1,7:14 PM,10:36,,,Hield Free Throw 1 of 1 (3 PTS),5 - 1,-4,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,26,1,5,1,7:15 PM,10:20,Hayward 6' Layup (2 PTS) (Ball 1 AST),,,5 - 3,-2,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,27,1,5,1,7:15 PM,10:09,,,Fox 1' Layup (2 PTS),7 - 3,-4,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,28,2,1,1,7:15 PM,9:56,MISS Rozier 18' Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,29,4,0,1,7:15 PM,9:53,,,Barnes REBOUND (Off:0 Def:1),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,30,1,5,1,7:15 PM,9:45,,,Bagley III 1' Layup (4 PTS) (Holmes 1 AST),9 - 3,-6,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,32,1,5,1,7:15 PM,9:32,Washington 1' Layup (2 PTS) (Ball 2 AST),,,9 - 5,-4,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,34,2,1,1,7:16 PM,9:16,,,MISS Bagley III 3PT Jump Shot,,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,35,4,0,1,7:16 PM,9:14,,,Holmes REBOUND (Off:1 Def:1),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,36,2,5,1,7:16 PM,9:13,,,MISS Holmes 2' Layup,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,37,4,0,1,7:16 PM,9:10,Zeller REBOUND (Off:0 Def:1),,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,38,2,1,1,7:16 PM,9:03,MISS Ball 26' 3PT Jump Shot,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,39,4,0,1,7:16 PM,8:59,,,Fox REBOUND (Off:0 Def:1),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,40,1,5,1,7:16 PM,8:54,,,Fox 1' Layup (4 PTS),11 - 5,-6,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,41,1,1,1,7:16 PM,8:47,Rozier 26' 3PT Jump Shot (3 PTS) (Ball 3 AST),,,11 - 8,-3,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,43,1,78,1,7:16 PM,8:34,,,Holmes 10' Floating Jump Shot (2 PTS) (Fox 1 AST),13 - 8,-5,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,46,1,1,1,7:17 PM,8:20,Rozier 17' Jump Shot (5 PTS) (Zeller 1 AST),,,13 - 10,-3,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,48,1,6,1,7:17 PM,8:10,,,Fox 1' Driving Layup (6 PTS),15 - 10,-5,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,49,9,1,1,7:17 PM,8:10,HORNETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,50,1,1,1,7:20 PM,7:55,Hayward 25' 3PT Jump Shot (5 PTS) (Washington 1 AST),,,15 - 13,-2,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,52,2,6,1,7:21 PM,7:34,,,MISS Bagley III 3' Driving Layup,,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,54,4,0,1,7:21 PM,7:29,,,Bagley III REBOUND (Off:1 Def:0),,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,55,1,72,1,7:21 PM,7:28,,,Bagley III 2' Putback Layup (6 PTS),17 - 13,-4,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,56,1,5,1,7:21 PM,7:23,Hayward 2' Layup (7 PTS) (Zeller 2 AST),,,17 - 15,-2,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,58,7,2,1,7:21 PM,7:23,,,Holmes Violation:Defensive Goaltending (S.Corbin),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022000602,59,1,9,1,7:21 PM,7:02,,,Barnes 1' Driving Dunk (2 PTS) (Hield 2 AST),19 - 15,-4,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,61,1,1,1,7:22 PM,6:42,Rozier 3PT Jump Shot (8 PTS) (Washington 2 AST),,,19 - 18,-1,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,63,1,6,1,7:22 PM,6:28,,,Fox 1' Driving Layup (8 PTS),21 - 18,-3,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,64,2,6,1,7:22 PM,6:18,MISS Zeller 2' Driving Layup,,Holmes BLOCK (1 BLK),,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1
+0022000602,66,4,0,1,7:22 PM,6:15,,,Hield REBOUND (Off:0 Def:2),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,67,1,7,1,7:22 PM,6:07,,,Bagley III 1' Dunk (8 PTS) (Holmes 2 AST),23 - 18,-5,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,69,2,6,1,7:23 PM,5:51,MISS Ball 2' Driving Layup,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,71,4,0,1,7:23 PM,5:47,,,Holmes REBOUND (Off:1 Def:2),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,72,2,1,1,7:23 PM,5:43,,,MISS Bagley III 25' 3PT Jump Shot,,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,73,4,0,1,7:23 PM,5:38,Ball REBOUND (Off:0 Def:1),,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,74,5,1,1,7:23 PM,5:32,Hayward Bad Pass Turnover (P1.T1),,Barnes STEAL (1 STL),,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,76,1,1,1,7:23 PM,5:26,,,Hield 26' 3PT Jump Shot (6 PTS) (Holmes 3 AST),26 - 18,-8,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,78,2,80,1,7:23 PM,5:06,MISS Hayward 26' 3PT Step Back Jump Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,79,4,0,1,7:23 PM,5:04,,,Barnes REBOUND (Off:0 Def:2),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,80,2,79,1,7:23 PM,4:59,,,MISS Fox 25' 3PT Pullup Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,81,4,0,1,7:23 PM,4:56,Ball REBOUND (Off:0 Def:2),,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,82,1,1,1,7:24 PM,4:49,Rozier 24' 3PT Jump Shot (11 PTS) (Zeller 3 AST),,,26 - 21,-5,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,84,9,1,1,7:24 PM,4:49,,,Kings Timeout: Regular (Reg.1 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,85,8,0,1,7:26 PM,4:49,SUB: Bridges FOR Ball,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,86,8,0,1,7:26 PM,4:49,SUB: Monk FOR Rozier,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,87,8,0,1,7:26 PM,4:49,SUB: Graham FOR Washington,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,88,8,0,1,7:26 PM,4:49,SUB: Biyombo FOR Zeller,,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,89,8,0,1,7:26 PM,4:49,,,SUB: Haliburton FOR Holmes,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,95,1,7,1,7:27 PM,4:27,,,Bagley III Dunk (10 PTS) (Barnes 1 AST),28 - 21,-7,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,97,6,1,1,7:27 PM,4:16,,,Haliburton P.FOUL (P1.T2) (N.Green),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,99,5,11,1,7:28 PM,4:02,HORNETS Turnover: Shot Clock (T#2),,,,,2,1610612766,,,,,,0,0,,,,,,1,0,,,,,,0
+0022000602,100,1,6,1,7:28 PM,3:45,,,Barnes 2' Driving Layup (4 PTS),30 - 21,-9,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,101,2,1,1,7:28 PM,3:34,MISS Graham 26' 3PT Jump Shot,,,,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,102,4,0,1,7:28 PM,3:30,Monk REBOUND (Off:1 Def:0),,,,,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,103,2,5,1,7:28 PM,3:29,MISS Monk 3' Layup,,Haliburton BLOCK (1 BLK),,,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,1
+0022000602,105,4,0,1,7:28 PM,3:26,,,Hield REBOUND (Off:0 Def:3),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,106,1,3,1,7:29 PM,3:18,,,Barnes 4' Hook Shot (6 PTS),32 - 21,-11,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,107,1,47,1,7:29 PM,3:09,Bridges 1' Turnaround Jump Shot (2 PTS) (Monk 1 AST),,,32 - 23,-9,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,109,6,4,1,7:29 PM,3:05,,,Fox OFF.Foul (P1) (N.Green),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,111,5,37,1,7:29 PM,3:05,,,Fox Offensive Foul Turnover (P1.T2),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022000602,113,8,0,1,7:29 PM,3:05,,,SUB: Joseph FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,115,1,5,1,7:29 PM,2:49,Hayward 2' Layup (9 PTS) (Monk 2 AST),,,32 - 25,-7,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,117,2,79,1,7:30 PM,2:32,,,MISS Haliburton 25' 3PT Pullup Jump Shot,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,118,4,0,1,7:30 PM,2:30,Bridges REBOUND (Off:0 Def:1),,,,,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,119,2,1,1,7:30 PM,2:24,MISS Monk 3PT Jump Shot,,,,,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,120,4,0,1,7:30 PM,2:24,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,121,6,3,1,7:30 PM,2:24,,,Joseph L.B.FOUL (P1.T3) (M.Lindsay),,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,123,8,0,1,7:30 PM,2:24,,,SUB: Bjelica FOR Bagley III,,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,124,8,0,1,7:30 PM,2:24,,,SUB: Holmes FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,127,2,79,1,7:30 PM,2:14,MISS Hayward 16' Pullup Jump Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,128,4,0,1,7:30 PM,2:11,,,Joseph REBOUND (Off:0 Def:1),,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,130,8,0,1,7:31 PM,2:08,SUB: Martin FOR Hayward,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,131,8,0,1,7:31 PM,2:08,,,SUB: James FOR Hield,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,134,2,1,1,7:31 PM,1:58,,,MISS Bjelica 29' 3PT Jump Shot,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,135,4,0,1,7:31 PM,1:55,Monk REBOUND (Off:1 Def:1),,,,,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,136,2,7,1,7:31 PM,1:44,MISS Biyombo 2' Dunk,,Holmes BLOCK (2 BLK),,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1
+0022000602,138,4,0,1,7:31 PM,1:38,,,Bjelica REBOUND (Off:0 Def:1),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,140,1,1,1,7:32 PM,1:30,,,James 26' 3PT Jump Shot (3 PTS) (Bjelica 1 AST),35 - 25,-10,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,142,2,80,1,7:32 PM,1:07,MISS Graham 21' Step Back Jump Shot,,,,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,143,4,0,1,7:32 PM,1:04,Martin REBOUND (Off:1 Def:0),,,,,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,144,1,72,1,7:32 PM,1:02,Martin 1' Putback Layup (2 PTS),,,35 - 27,-8,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,145,1,78,1,7:32 PM,0:49,,,Holmes 14' Floating Jump Shot (4 PTS) (James 1 AST),37 - 27,-10,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,147,1,3,1,7:33 PM,0:35,Biyombo 8' Hook Shot (2 PTS) (Graham 1 AST),,,37 - 29,-8,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,149,2,78,1,7:33 PM,0:21,,,MISS Holmes 12' Floating Jump Shot,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,150,4,0,1,7:33 PM,0:19,Monk REBOUND (Off:1 Def:2),,,,,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,151,6,1,1,7:33 PM,0:07,,,Haliburton P.FOUL (P2.T4) (M.Lindsay),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,153,8,0,1,7:34 PM,0:07,SUB: Washington FOR Biyombo,,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,154,8,0,1,7:34 PM,0:07,,,SUB: Barnes FOR Bjelica,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,157,1,1,1,7:34 PM,0:01,Washington 26' 3PT Jump Shot (5 PTS) (Graham 2 AST),,,37 - 32,-5,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,159,13,0,1,7:34 PM,0:00,,End of 1st Period (7:34 PM EST),,37 - 32,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000602,164,12,0,2,7:37 PM,12:00,,Start of 2nd Period (7:37 PM EST),,37 - 32,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,165,2,6,2,7:37 PM,11:48,MISS Monk 3' Driving Layup,,,,,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,166,4,0,2,7:37 PM,11:46,,,Holmes REBOUND (Off:1 Def:3),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,167,1,5,2,7:37 PM,11:23,,,Holmes 2' Layup (6 PTS) (Joseph 1 AST),39 - 32,-7,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,169,1,66,2,7:38 PM,11:09,Martin 3' Jump Bank Shot (4 PTS),,,39 - 34,-5,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,170,2,6,2,7:38 PM,10:55,,,MISS Bjelica 2' Driving Layup,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,171,4,0,2,7:38 PM,10:53,Biyombo REBOUND (Off:0 Def:1),,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,172,6,2,2,7:38 PM,10:36,,,Bjelica S.FOUL (P1.T1) (M.Lindsay),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,174,3,11,2,7:39 PM,10:36,Bridges Free Throw 1 of 2 (3 PTS),,,39 - 35,-4,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,175,3,12,2,7:39 PM,10:36,MISS Bridges Free Throw 2 of 2,,,,,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,176,4,0,2,7:39 PM,10:33,,,Bjelica REBOUND (Off:0 Def:2),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,177,2,7,2,7:39 PM,10:19,Bridges BLOCK (1 BLK),,MISS James 2' Dunk,,,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,1
+0022000602,179,4,0,2,7:39 PM,10:16,Biyombo REBOUND (Off:0 Def:2),,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,180,6,1,2,7:39 PM,10:13,,,Bjelica P.FOUL (P2.T2) (S.Corbin),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,182,8,0,2,7:40 PM,10:13,SUB: Washington FOR Graham,,,,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,183,8,0,2,7:40 PM,10:13,SUB: Ball FOR Biyombo,,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,184,8,0,2,7:40 PM,10:13,,,SUB: Fox FOR James,,,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,188,1,6,2,7:40 PM,10:06,Ball 1' Driving Layup (2 PTS),,,39 - 37,-2,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,189,2,1,2,7:40 PM,9:56,,,MISS Bjelica 26' 3PT Jump Shot,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,190,4,0,2,7:40 PM,9:54,Ball REBOUND (Off:0 Def:3),,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,191,2,79,2,7:40 PM,9:47,MISS Ball 4' Pullup Jump Shot,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,192,4,0,2,7:40 PM,9:45,,,Holmes REBOUND (Off:1 Def:4),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,193,1,1,2,7:40 PM,9:35,,,Bjelica 26' 3PT Jump Shot (3 PTS) (Joseph 2 AST),42 - 37,-5,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,195,1,9,2,7:41 PM,9:28,Bridges 1' Driving Dunk (5 PTS) (Washington 3 AST),,,42 - 39,-3,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,197,2,1,2,7:41 PM,9:21,,,MISS Haliburton 26' 3PT Jump Shot,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,198,4,0,2,7:41 PM,9:19,Bridges REBOUND (Off:0 Def:2),,,,,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,199,6,1,2,7:41 PM,9:18,,,Fox P.FOUL (P2.T3) (M.Lindsay),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,203,8,0,2,7:42 PM,9:18,,,SUB: Bagley III FOR Bjelica,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,201,6,2,2,7:42 PM,9:10,,,Haliburton S.FOUL (P3.T4) (S.Corbin),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,205,3,11,2,7:42 PM,9:10,Ball Free Throw 1 of 2 (3 PTS),,,42 - 40,-2,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,206,8,0,2,7:42 PM,9:10,,,SUB: Hield FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,207,8,0,2,7:42 PM,9:10,,,SUB: Barnes FOR Holmes,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,210,3,12,2,7:42 PM,9:10,Ball Free Throw 2 of 2 (4 PTS),,,42 - 41,-1,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,212,5,2,2,7:43 PM,8:55,Monk STEAL (1 STL),,Fox Lost Ball Turnover (P2.T3),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,214,5,2,2,7:43 PM,8:51,Monk Lost Ball Turnover (P1.T3),,Hield STEAL (1 STL),,,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,216,6,1,2,7:43 PM,8:46,Washington P.FOUL (P1.T1) (M.Lindsay),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000602,218,8,0,2,7:44 PM,8:46,SUB: Rozier FOR Monk,,,,,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,220,1,86,2,7:44 PM,8:37,,,Joseph 7' Turnaround Fadeaway (2 PTS),44 - 41,-3,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,221,5,1,2,7:44 PM,8:27,Washington Bad Pass Turnover (P1.T4),,Joseph STEAL (1 STL),,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,223,2,1,2,7:44 PM,8:22,,,MISS Fox 23' Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,224,4,0,2,7:44 PM,8:18,Rozier REBOUND (Off:0 Def:1),,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,225,1,5,2,7:44 PM,8:03,Bridges 2' Layup (7 PTS) (Washington 4 AST),,,44 - 43,-1,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,227,6,17,2,7:45 PM,7:49,HORNETS T.Foul (Def. 3 Sec Rozier ) (S.Corbin),,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022000602,228,3,16,2,7:45 PM,7:49,,,Hield Free Throw Technical (7 PTS),45 - 43,-2,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,229,1,5,2,7:45 PM,7:40,,,Joseph 2' Layup (4 PTS),47 - 43,-4,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,230,2,5,2,7:46 PM,7:32,MISS Ball 2' Layup,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,231,4,0,2,7:46 PM,7:30,,,Bagley III REBOUND (Off:1 Def:1),,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,232,2,1,2,7:46 PM,7:25,,,MISS Hield 26' 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,233,4,0,2,7:46 PM,7:21,Bridges REBOUND (Off:0 Def:3),,,,,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,234,2,1,2,7:46 PM,7:14,MISS Ball 3PT Jump Shot,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,235,4,0,2,7:46 PM,7:11,,,Joseph REBOUND (Off:0 Def:2),,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,236,6,1,2,7:46 PM,7:06,Martin P.FOUL (P1.T2) (M.Lindsay),,,,,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000602,238,8,0,2,7:46 PM,7:06,SUB: Hayward FOR Bridges,,,,,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,240,2,1,2,7:47 PM,6:54,,,MISS Barnes 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,241,4,0,2,7:47 PM,6:54,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,243,9,1,2,7:47 PM,6:54,HORNETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,244,8,0,2,7:47 PM,6:54,,,SUB: Holmes FOR Joseph,,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,246,2,1,2,7:50 PM,6:41,MISS Rozier 25' 3PT Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,247,4,0,2,7:50 PM,6:38,,,Bagley III REBOUND (Off:1 Def:2),,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,248,6,2,2,7:50 PM,6:26,Washington S.FOUL (P2.T3) (N.Green),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000602,250,3,11,2,7:51 PM,6:26,,,Fox Free Throw 1 of 2 (9 PTS),48 - 43,-5,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,251,8,0,2,7:51 PM,6:26,SUB: Zeller FOR Martin,,,,,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,253,3,12,2,7:51 PM,6:26,,,Fox Free Throw 2 of 2 (10 PTS),49 - 43,-6,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,254,1,57,2,7:52 PM,6:09,Washington 3' Driving Hook Shot (7 PTS),,,49 - 45,-4,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,255,1,7,2,7:52 PM,5:47,,,Holmes 1' Dunk (8 PTS) (Fox 2 AST),51 - 45,-6,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,257,6,2,2,7:52 PM,5:29,,,Bagley III S.FOUL (P1.PN) (M.Lindsay),,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,259,3,13,2,7:53 PM,5:29,Rozier Free Throw 1 of 3 (12 PTS),,,51 - 46,-5,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,260,3,14,2,7:53 PM,5:29,Rozier Free Throw 2 of 3 (13 PTS),,,51 - 47,-4,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,261,3,15,2,7:53 PM,5:29,Rozier Free Throw 3 of 3 (14 PTS),,,51 - 48,-3,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,262,1,80,2,7:54 PM,5:14,,,Bagley III 15' Step Back Jump Shot (12 PTS) (Barnes 2 AST),53 - 48,-5,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,264,6,1,2,7:54 PM,5:06,,,Fox P.FOUL (P3.PN) (S.Corbin),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,266,3,11,2,7:55 PM,5:06,Hayward Free Throw 1 of 2 (10 PTS),,,53 - 49,-4,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,267,3,12,2,7:55 PM,5:06,Hayward Free Throw 2 of 2 (11 PTS),,,53 - 50,-3,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,268,1,78,2,7:55 PM,4:53,,,Fox 9' Floating Jump Shot (12 PTS) (Holmes 4 AST),55 - 50,-5,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,270,1,43,2,7:55 PM,4:41,Hayward 2' Alley Oop Layup (13 PTS) (Zeller 4 AST),,,55 - 52,-3,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,272,2,6,2,7:56 PM,4:28,,,MISS Fox 2' Driving Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,273,4,0,2,7:56 PM,4:26,Zeller REBOUND (Off:0 Def:2),,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,274,5,1,2,7:56 PM,4:24,Zeller Bad Pass Turnover (P1.T5),,Hield STEAL (2 STL),,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,276,6,2,2,7:56 PM,4:21,Zeller S.FOUL (P1.T4) (S.Corbin),,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000602,278,3,11,2,7:56 PM,4:21,,,Fox Free Throw 1 of 2 (13 PTS),56 - 52,-4,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,279,3,12,2,7:56 PM,4:21,,,Fox Free Throw 2 of 2 (14 PTS),57 - 52,-5,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,280,2,6,2,7:57 PM,4:04,MISS Zeller 3' Driving Layup,,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,281,4,0,2,7:57 PM,4:00,Zeller REBOUND (Off:1 Def:2),,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,282,1,97,2,7:57 PM,4:00,Zeller Tip Layup Shot (3 PTS),,,57 - 54,-3,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,283,2,1,2,7:57 PM,3:43,,,MISS Hield 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,284,4,0,2,7:57 PM,3:40,Zeller REBOUND (Off:1 Def:3),,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,286,2,1,2,7:58 PM,3:23,MISS Rozier 26' 3PT Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,287,4,0,2,7:58 PM,3:18,,,Fox REBOUND (Off:0 Def:2),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,288,1,1,2,7:58 PM,3:15,,,Hield 25' 3PT Jump Shot (10 PTS) (Fox 3 AST),60 - 54,-6,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,290,2,6,2,7:58 PM,3:06,MISS Rozier 3' Driving Layup,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,291,4,0,2,7:58 PM,3:03,Zeller REBOUND (Off:2 Def:3),,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,292,2,97,2,7:58 PM,3:03,MISS Zeller Tip Layup Shot,,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,293,4,0,2,7:58 PM,3:01,Zeller REBOUND (Off:3 Def:3),,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,294,2,97,2,7:58 PM,3:01,MISS Zeller Tip Layup Shot,,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,295,4,0,2,7:58 PM,3:01,,,Holmes REBOUND (Off:1 Def:5),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,296,9,1,2,7:58 PM,2:59,,,Kings Timeout: Regular (Reg.2 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,297,8,0,2,7:58 PM,2:59,SUB: Graham FOR Ball,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,298,8,0,2,7:58 PM,2:59,SUB: Bridges FOR Washington,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,299,8,0,2,7:58 PM,2:59,,,SUB: Bjelica FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,300,8,0,2,7:58 PM,2:59,,,SUB: Joseph FOR Bagley III,,,5,1628963,Marvin Bagley III,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,305,6,2,2,8:01 PM,2:52,Bridges S.FOUL (P1.PN) (N.Green),,,,,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000602,307,3,11,2,8:02 PM,2:52,,,Holmes Free Throw 1 of 2 (9 PTS),61 - 54,-7,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,308,3,12,2,8:02 PM,2:52,,,MISS Holmes Free Throw 2 of 2,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,309,4,0,2,8:02 PM,2:49,Hayward REBOUND (Off:0 Def:1),,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,310,1,1,2,8:02 PM,2:32,Hayward 26' 3PT Jump Shot (16 PTS) (Rozier 1 AST),,,61 - 57,-4,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,312,1,86,2,8:02 PM,2:10,,,Joseph 9' Turnaround Fadeaway (6 PTS),63 - 57,-6,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,313,2,1,2,8:03 PM,2:05,MISS Graham 28' 3PT Jump Shot,,,,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,314,4,0,2,8:03 PM,2:00,,,Holmes REBOUND (Off:1 Def:6),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,315,5,1,2,8:03 PM,1:52,Hayward STEAL (1 STL),,Hield Bad Pass Turnover (P1.T4),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,317,2,5,2,8:03 PM,1:46,MISS Bridges 2' Layup,,,,,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,318,4,0,2,8:03 PM,1:44,,,Bjelica REBOUND (Off:0 Def:3),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,319,6,2,2,8:03 PM,1:35,Graham S.FOUL (P1.PN) (N.Green),,,,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000602,321,3,11,2,8:04 PM,1:35,,,Barnes Free Throw 1 of 2 (7 PTS),64 - 57,-7,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,322,8,0,2,8:04 PM,1:35,SUB: Washington FOR Zeller,,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,324,3,12,2,8:04 PM,1:35,,,Barnes Free Throw 2 of 2 (8 PTS),65 - 57,-8,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,325,2,63,2,8:04 PM,1:14,MISS Hayward 6' Fadeaway Jumper,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,326,4,0,2,8:04 PM,1:12,,,Holmes REBOUND (Off:1 Def:7),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,327,1,98,2,8:05 PM,0:58,,,Bjelica 2' Cutting Layup Shot (5 PTS) (Barnes 3 AST),67 - 57,-10,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,329,6,17,2,8:05 PM,0:47,,,Kings T.Foul (Def. 3 Sec Bjelica ) (N.Green),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022000602,330,3,16,2,8:05 PM,0:47,Rozier Free Throw Technical (15 PTS),,,67 - 58,-9,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,331,1,1,2,8:06 PM,0:33,Washington 3PT Jump Shot (10 PTS) (Graham 3 AST),,,67 - 61,-6,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,333,2,78,2,8:06 PM,0:18,,,MISS Holmes 8' Floating Jump Shot,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,334,4,0,2,8:06 PM,0:16,,,Bjelica REBOUND (Off:1 Def:3),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,335,6,2,2,8:06 PM,0:16,Washington S.FOUL (P3.PN) (S.Corbin),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000602,337,3,11,2,8:06 PM,0:16,,,MISS Bjelica Free Throw 1 of 2,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,338,4,1,2,8:06 PM,0:16,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,341,3,12,2,8:06 PM,0:16,,,MISS Bjelica Free Throw 2 of 2,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,339,8,0,2,8:07 PM,0:16,SUB: Ball FOR Bridges,,,,,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,342,4,0,2,8:07 PM,0:14,Hayward REBOUND (Off:0 Def:2),,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,343,2,1,2,8:07 PM,0:00,MISS Rozier 3PT Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,344,4,0,2,8:07 PM,0:00,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,345,13,0,2,8:07 PM,0:00,,End of 2nd Period (8:07 PM EST),,67 - 61,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000602,352,12,0,3,8:23 PM,12:00,,Start of 3rd Period (8:23 PM EST),,67 - 61,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,353,1,63,3,8:23 PM,11:43,Hayward 7' Fadeaway Jumper (18 PTS) (Ball 4 AST),,,67 - 63,-4,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,355,1,6,3,8:23 PM,11:29,,,Barnes 2' Driving Layup (10 PTS) (Holmes 5 AST),69 - 63,-6,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,357,1,6,3,8:24 PM,11:20,Ball 1' Driving Layup (6 PTS),,,69 - 65,-4,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,358,6,2,3,8:24 PM,11:20,,,Holmes S.FOUL (P1.T1) (S.Corbin),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,360,3,10,3,8:24 PM,11:20,MISS Ball Free Throw 1 of 1,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,361,4,0,3,8:24 PM,11:16,,,Holmes REBOUND (Off:1 Def:8),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,362,1,63,3,8:25 PM,11:13,,,Fox 5' Fadeaway Jumper (16 PTS),71 - 65,-6,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,363,6,2,3,8:25 PM,11:13,Washington S.FOUL (P4.T1) (M.Lindsay),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000602,365,8,0,3,8:25 PM,11:13,SUB: Bridges FOR Washington,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,367,3,10,3,8:25 PM,11:13,,,Fox Free Throw 1 of 1 (17 PTS),72 - 65,-7,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,368,2,6,3,8:25 PM,11:03,MISS Ball 2' Driving Layup,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,369,4,0,3,8:25 PM,11:00,,,Haliburton REBOUND (Off:0 Def:1),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,370,1,41,3,8:25 PM,10:56,,,Fox 1' Running Layup (19 PTS),74 - 65,-9,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,371,2,57,3,8:26 PM,10:34,MISS Hayward 9' Driving Hook Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,372,4,0,3,8:26 PM,10:31,,,Barnes REBOUND (Off:0 Def:3),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,373,1,6,3,8:26 PM,10:20,,,Hield 1' Driving Layup (12 PTS),76 - 65,-11,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,374,9,1,3,8:26 PM,10:20,HORNETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,375,2,67,3,8:29 PM,9:59,MISS Zeller 7' Hook Bank Shot,,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,376,4,0,3,8:29 PM,9:57,,,Hield REBOUND (Off:0 Def:4),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,377,1,1,3,8:29 PM,9:44,,,Hield 25' 3PT Jump Shot (15 PTS) (Haliburton 1 AST),79 - 65,-14,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,379,1,79,3,8:30 PM,9:26,Ball 3' Pullup Jump Shot (8 PTS),,,79 - 67,-12,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,380,1,1,3,8:30 PM,9:17,,,Fox 26' 3PT Jump Shot (22 PTS),82 - 67,-15,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,381,2,1,3,8:30 PM,8:57,MISS Rozier 3PT Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,382,4,0,3,8:30 PM,8:55,Zeller REBOUND (Off:4 Def:3),,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,383,1,6,3,8:30 PM,8:54,Bridges 2' Driving Layup (9 PTS) (Zeller 5 AST),,,82 - 69,-13,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,385,6,2,3,8:30 PM,8:54,,,Holmes S.FOUL (P2.T2) (M.Lindsay),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,387,8,0,3,8:31 PM,8:54,SUB: Biyombo FOR Ball,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,388,8,0,3,8:31 PM,8:54,SUB: Graham FOR Zeller,,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,391,3,10,3,8:31 PM,8:54,Bridges Free Throw 1 of 1 (10 PTS),,,82 - 70,-12,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,392,2,1,3,8:31 PM,8:27,,,MISS Fox 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,393,4,0,3,8:31 PM,8:24,Hayward REBOUND (Off:0 Def:3),,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,394,1,101,3,8:32 PM,8:13,Rozier 12' Driving Floating Jump Shot (17 PTS),,,82 - 72,-10,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,395,2,6,3,8:32 PM,7:47,Biyombo BLOCK (1 BLK),,MISS Fox 1' Driving Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,1
+0022000602,397,4,0,3,8:32 PM,7:47,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,425,18,1,3,8:32 PM,7:47,,Instant Replay3rd Period (8:32 PM EST),,82 - 72,-10,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0022000602,424,5,11,3,8:32 PM,7:47,,,Kings Turnover: Shot Clock (T#5),,,3,1610612758,,,,,,0,0,,,,,,1,0,,,,,,0
+0022000602,401,2,1,3,8:33 PM,7:23,MISS Rozier 26' 3PT Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,402,4,0,3,8:33 PM,7:19,,,Barnes REBOUND (Off:0 Def:4),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,403,2,5,3,8:33 PM,7:10,,,MISS Holmes 2' Layup,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,404,4,0,3,8:33 PM,7:08,Rozier REBOUND (Off:0 Def:2),,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,405,1,79,3,8:33 PM,6:55,Graham 26' 3PT Pullup Jump Shot (3 PTS),,,82 - 75,-7,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,406,1,6,3,8:34 PM,6:37,,,Holmes 1' Driving Layup (11 PTS),84 - 75,-9,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,407,5,45,3,8:34 PM,6:26,Graham Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022000602,408,1,78,3,8:34 PM,6:10,,,Holmes 12' Floating Jump Shot (13 PTS) (Haliburton 2 AST),86 - 75,-11,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,410,2,3,3,8:34 PM,5:49,MISS Rozier 8' Hook Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,411,4,0,3,8:34 PM,5:48,Biyombo REBOUND (Off:1 Def:2),,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,412,2,1,3,8:35 PM,5:44,MISS Rozier 3PT Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,413,4,0,3,8:35 PM,5:42,,,Holmes REBOUND (Off:1 Def:9),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,414,2,1,3,8:35 PM,5:25,,,MISS Fox 25' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,415,4,0,3,8:35 PM,5:22,Rozier REBOUND (Off:0 Def:3),,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,416,2,47,3,8:35 PM,5:14,MISS Hayward 8' Turnaround Jump Shot,,Holmes BLOCK (3 BLK),,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1
+0022000602,418,4,0,3,8:35 PM,5:13,,,Holmes REBOUND (Off:1 Def:10),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,419,5,45,3,8:35 PM,5:13,,,Holmes Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022000602,420,8,0,3,8:36 PM,5:13,,,SUB: Joseph FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,422,1,1,3,8:36 PM,5:04,Graham 25' 3PT Jump Shot (6 PTS),,,86 - 78,-8,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,423,9,1,3,8:36 PM,5:03,,,Kings Timeout: Regular (Reg.3 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,426,8,0,3,8:38 PM,5:03,,,SUB: Bjelica FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,428,5,1,3,8:39 PM,4:45,Hayward STEAL (2 STL),,Hield Bad Pass Turnover (P2.T7),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,430,2,101,3,8:39 PM,4:33,MISS Graham 11' Driving Floating Jump Shot,,,,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,431,4,0,3,8:39 PM,4:31,,,Holmes REBOUND (Off:1 Def:11),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,433,8,0,3,8:40 PM,4:18,SUB: Martin FOR Bridges,,,,,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,435,2,1,3,8:40 PM,4:07,,,MISS Bjelica 24' 3PT Jump Shot,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,436,4,0,3,8:40 PM,4:05,Biyombo REBOUND (Off:1 Def:3),,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,437,2,80,3,8:40 PM,3:55,MISS Rozier 18' Step Back Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,438,4,0,3,8:40 PM,3:51,,,Holmes REBOUND (Off:1 Def:12),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,439,1,1,3,8:40 PM,3:46,,,Hield 26' 3PT Jump Shot (18 PTS) (Haliburton 3 AST),89 - 78,-11,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,441,2,1,3,8:41 PM,3:20,MISS Graham 25' 3PT Jump Shot,,,,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,442,4,0,3,8:41 PM,3:16,,,Hield REBOUND (Off:0 Def:5),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,443,5,1,3,8:41 PM,3:01,Hayward STEAL (3 STL),,Bjelica Bad Pass Turnover (P1.T8),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,445,1,7,3,8:41 PM,2:56,Biyombo 1' Dunk (4 PTS) (Graham 4 AST),,,89 - 80,-9,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,447,2,78,3,8:42 PM,2:34,,,MISS Holmes 14' Floating Jump Shot,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,448,4,0,3,8:42 PM,2:32,Biyombo REBOUND (Off:1 Def:4),,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,449,5,2,3,8:42 PM,2:22,Graham Lost Ball Turnover (P2.T7),,Holmes STEAL (1 STL),,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,451,6,1,3,8:42 PM,2:20,Martin P.FOUL (P2.T2) (S.Corbin),,,,,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000602,453,8,0,3,8:42 PM,2:20,SUB: Bridges FOR Rozier,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,454,8,0,3,8:42 PM,2:20,SUB: Monk FOR Hayward,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,455,8,0,3,8:42 PM,2:20,,,SUB: Parker FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,5,203953,Jabari Parker,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,456,8,0,3,8:42 PM,2:20,,,SUB: Barnes FOR Hield,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,461,8,0,3,8:42 PM,2:20,,,SUB: Fox FOR Holmes,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,463,1,6,3,8:43 PM,2:13,,,Fox 1' Driving Layup (24 PTS),91 - 80,-11,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,464,2,86,3,8:43 PM,1:53,MISS Monk 5' Turnaround Fadeaway Shot,,,,,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,465,4,0,3,8:43 PM,1:50,Biyombo REBOUND (Off:2 Def:4),,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,466,1,97,3,8:43 PM,1:50,Biyombo Tip Layup Shot (6 PTS),,,91 - 82,-9,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,467,2,80,3,8:43 PM,1:28,,,MISS Fox 19' Step Back Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,468,4,0,3,8:43 PM,1:26,Biyombo REBOUND (Off:2 Def:5),,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,469,1,79,3,8:44 PM,1:19,Graham 27' 3PT Pullup Jump Shot (9 PTS),,,91 - 85,-6,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,470,9,1,3,8:44 PM,1:18,,,Kings Timeout: Regular (Reg.4 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,471,8,0,3,8:44 PM,1:18,SUB: Ball FOR Graham,,,,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,473,5,2,3,8:45 PM,0:58,Ball STEAL (1 STL),,Joseph Lost Ball Turnover (P1.T9),,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,475,1,6,3,8:46 PM,0:55,Martin 2' Driving Layup (6 PTS) (Monk 3 AST),,,91 - 87,-4,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,477,6,2,3,8:46 PM,0:55,,,Joseph S.FOUL (P2.T3) (M.Lindsay),,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,479,3,10,3,8:46 PM,0:55,Martin Free Throw 1 of 1 (7 PTS),,,91 - 88,-3,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,480,1,1,3,8:46 PM,0:34,,,Barnes 24' 3PT Jump Shot (13 PTS) (Fox 4 AST),94 - 88,-6,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,482,1,9,3,8:47 PM,0:20,Monk 1' Driving Dunk (2 PTS),,,94 - 90,-4,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,483,6,11,3,8:47 PM,0:12,,Luke Walton Foul:T.FOUL (M.Lindsay),,,,7,204012,,,,,,0,0,,,,,,1,0,,,,,,1
+0022000602,484,3,16,3,8:47 PM,0:12,Monk Free Throw Technical (3 PTS),,,94 - 91,-3,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,486,8,0,3,8:48 PM,0:01,SUB: Washington FOR Ball,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,487,8,0,3,8:48 PM,0:01,,,SUB: Hield FOR Parker,,,5,203953,Jabari Parker,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,495,1,67,3,8:48 PM,0:01,,,Bjelica 21' Hook Bank Shot (7 PTS) (Fox 5 AST),96 - 91,-5,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,492,13,0,3,8:49 PM,0:00,,End of 3rd Period (8:49 PM EST),,96 - 91,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000602,494,18,1,3,8:49 PM,0:00,,Instant Replay3rd Period (8:49 PM EST),,96 - 91,-5,0,485,,,,,,0,0,,,,,,1,0,,,,,,0
+0022000602,503,12,0,4,8:51 PM,12:00,,Start of 4th Period (8:51 PM EST),,96 - 91,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,504,2,1,4,8:52 PM,11:41,,,MISS Haliburton 3PT Jump Shot,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,505,4,0,4,8:52 PM,11:38,Biyombo REBOUND (Off:2 Def:6),,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,506,2,5,4,8:52 PM,11:28,MISS Biyombo 3' Layup,,Holmes BLOCK (4 BLK),,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1
+0022000602,508,4,0,4,8:52 PM,11:25,,,Fox REBOUND (Off:0 Def:3),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,509,1,7,4,8:52 PM,11:25,,,Haliburton 1' Dunk (2 PTS) (Fox 6 AST),98 - 91,-7,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,511,1,108,4,8:52 PM,11:07,Monk 1' Cutting Dunk Shot (5 PTS) (Washington 5 AST),,,98 - 93,-5,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,513,1,5,4,8:53 PM,10:49,,,Holmes 1' Layup (15 PTS) (Fox 7 AST),100 - 93,-7,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,515,1,101,4,8:53 PM,10:37,Ball 15' Driving Floating Jump Shot (10 PTS),,,100 - 95,-5,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,516,6,2,4,8:53 PM,10:28,Ball S.FOUL (P2.T1) (N.Green),,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000602,518,3,11,4,8:53 PM,10:28,,,MISS Fox Free Throw 1 of 2,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,519,4,1,4,8:53 PM,10:28,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,520,3,12,4,8:53 PM,10:28,,,MISS Fox Free Throw 2 of 2,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,521,4,0,4,8:53 PM,10:25,Martin REBOUND (Off:1 Def:1),,,,,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,522,2,86,4,8:54 PM,10:11,MISS Monk 8' Turnaround Fadeaway Shot,,,,,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,523,4,0,4,8:54 PM,10:09,Biyombo REBOUND (Off:3 Def:6),,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,524,2,1,4,8:54 PM,10:05,MISS Monk 26' 3PT Jump Shot,,,,,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,525,4,0,4,8:54 PM,10:00,,,Haliburton REBOUND (Off:0 Def:2),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,526,1,5,4,8:54 PM,9:54,,,Bjelica 1' Layup (9 PTS) (Joseph 3 AST),102 - 95,-7,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,529,8,0,4,8:55 PM,9:41,SUB: Hayward FOR Martin,,,,,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,531,1,1,4,8:55 PM,9:29,Ball 18' Jump Shot (12 PTS),,,102 - 97,-5,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,532,5,1,4,8:56 PM,9:08,Monk STEAL (2 STL),,Haliburton Bad Pass Turnover (P1.T10),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,534,1,41,4,8:56 PM,9:02,Ball 1' Running Layup (14 PTS) (Monk 4 AST),,,102 - 99,-3,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,536,1,5,4,8:56 PM,8:46,,,Holmes 2' Layup (17 PTS) (Fox 8 AST),104 - 99,-5,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,538,2,1,4,8:56 PM,8:28,MISS Washington 24' 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,539,4,0,4,8:56 PM,8:26,,,Haliburton REBOUND (Off:0 Def:3),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,540,2,1,4,8:57 PM,8:10,Biyombo BLOCK (2 BLK),,MISS Fox 8' Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,1
+0022000602,541,4,0,4,8:57 PM,8:09,Ball REBOUND (Off:0 Def:4),,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,542,2,5,4,8:57 PM,8:06,MISS Ball 6' Layup,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,543,4,0,4,8:57 PM,8:06,,,Joseph REBOUND (Off:0 Def:3),,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,544,6,1,4,8:57 PM,8:06,Biyombo P.FOUL (P1.T2) (N.Green),,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000602,546,8,0,4,8:57 PM,8:06,SUB: Zeller FOR Monk,,,,,4,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,547,8,0,4,8:57 PM,8:06,SUB: Rozier FOR Biyombo,,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,548,8,0,4,8:57 PM,8:06,,,SUB: Barnes FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,549,8,0,4,8:57 PM,8:06,,,SUB: Hield FOR Bjelica,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,554,2,1,4,8:58 PM,7:51,,,MISS Hield 27' 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,555,4,0,4,8:58 PM,7:46,Zeller REBOUND (Off:4 Def:4),,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,556,1,78,4,8:58 PM,7:36,Ball 17' Floating Jump Shot (16 PTS) (Zeller 6 AST),,,104 - 101,-3,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,558,2,1,4,8:58 PM,7:13,,,MISS Barnes 26' 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,559,4,0,4,8:58 PM,7:10,Zeller REBOUND (Off:4 Def:5),,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,560,2,80,4,8:59 PM,7:00,MISS Ball 25' 3PT Step Back Jump Shot,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,561,4,0,4,8:59 PM,6:58,,,Hield REBOUND (Off:0 Def:6),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,562,1,41,4,8:59 PM,6:53,,,Fox 2' Running Layup (26 PTS),106 - 101,-5,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,563,9,1,4,8:59 PM,6:53,HORNETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,564,8,0,4,9:00 PM,6:53,,,SUB: Haliburton FOR Joseph,,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000602,566,2,1,4,9:02 PM,6:42,MISS Rozier 3PT Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,567,4,0,4,9:02 PM,6:39,,,Holmes REBOUND (Off:1 Def:13),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,569,5,11,4,9:02 PM,6:19,,,Kings Turnover: Shot Clock (T#11),,,3,1610612758,,,,,,0,0,,,,,,1,0,,,,,,0
+0022000602,570,8,0,4,9:02 PM,6:19,SUB: Bridges FOR Washington,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,572,2,6,4,9:03 PM,5:57,MISS Hayward 2' Driving Layup,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,573,4,0,4,9:03 PM,5:54,Hayward REBOUND (Off:1 Def:3),,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,574,2,97,4,9:03 PM,5:54,MISS Hayward Tip Layup Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,575,4,0,4,9:03 PM,5:53,,,Haliburton REBOUND (Off:0 Def:4),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,576,6,1,4,9:03 PM,5:46,Ball P.FOUL (P3.T3) (N.Green),,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000602,578,8,0,4,9:04 PM,5:46,SUB: Graham FOR Ball,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,580,1,79,4,9:04 PM,5:38,,,Haliburton 9' Pullup Jump Shot (4 PTS),108 - 101,-7,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,581,1,102,4,9:04 PM,5:08,Rozier 12' Driving Floating Bank Jump Shot (19 PTS) (Hayward 1 AST),,,108 - 103,-5,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,583,2,79,4,9:05 PM,4:46,,,MISS Haliburton 10' Pullup Jump Shot,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,584,4,0,4,9:05 PM,4:44,Hayward REBOUND (Off:1 Def:4),,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,585,5,2,4,9:05 PM,4:39,Hayward Lost Ball Turnover (P2.T8),,Haliburton STEAL (1 STL),,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,587,1,41,4,9:05 PM,4:34,,,Fox 2' Running Layup (28 PTS) (Hield 3 AST),110 - 103,-7,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,589,6,2,4,9:05 PM,4:26,,,Haliburton S.FOUL (P4.T1) (M.Lindsay),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,591,3,11,4,9:06 PM,4:26,Rozier Free Throw 1 of 2 (20 PTS),,,110 - 104,-6,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,592,9,1,4,9:06 PM,4:26,,,Kings Timeout: Regular (Reg.5 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,593,8,0,4,9:06 PM,4:26,SUB: Washington FOR Zeller,,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,595,3,12,4,9:09 PM,4:26,Rozier Free Throw 2 of 2 (21 PTS),,,110 - 105,-5,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,596,2,78,4,9:10 PM,4:04,,,MISS Fox 5' Floating Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,597,4,0,4,9:10 PM,4:02,Washington REBOUND (Off:0 Def:2),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,598,1,1,4,9:10 PM,3:45,Graham 27' 3PT Jump Shot (12 PTS) (Hayward 2 AST),,,110 - 108,-2,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,600,6,1,4,9:10 PM,3:27,Washington P.FOUL (P5.T4) (S.Corbin),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000602,602,2,1,4,9:11 PM,3:15,,,MISS Hield 24' 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,603,4,0,4,9:11 PM,3:12,Rozier REBOUND (Off:0 Def:4),,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,604,1,5,4,9:11 PM,3:04,Hayward 2' Layup (20 PTS) (Rozier 2 AST),,,110 - 110,TIE,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,606,6,2,4,9:11 PM,2:47,Graham S.FOUL (P2.PN) (S.Corbin),,,,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000602,608,3,11,4,9:12 PM,2:47,,,Fox Free Throw 1 of 2 (29 PTS),111 - 110,-1,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,609,3,12,4,9:12 PM,2:47,,,MISS Fox Free Throw 2 of 2,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,610,4,0,4,9:12 PM,2:44,Hayward REBOUND (Off:1 Def:5),,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,611,5,1,4,9:12 PM,2:28,Bridges Bad Pass Turnover (P1.T9),,Holmes STEAL (2 STL),,,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,613,2,1,4,9:13 PM,2:12,,,MISS Barnes 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,614,4,0,4,9:13 PM,2:09,Graham REBOUND (Off:0 Def:1),,,,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,615,2,1,4,9:13 PM,1:59,MISS Graham 26' 3PT Jump Shot,,,,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,616,4,0,4,9:13 PM,1:56,,,Fox REBOUND (Off:0 Def:4),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,617,5,1,4,9:13 PM,1:36,Hayward STEAL (4 STL),,Barnes Bad Pass Turnover (P2.T12),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,619,1,50,4,9:13 PM,1:33,Hayward 1' Running Dunk (22 PTS) (Rozier 3 AST),,,111 - 112,1,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,621,6,2,4,9:14 PM,1:33,,,Fox S.FOUL (P4.T2) (S.Corbin),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,623,8,0,4,9:14 PM,1:33,SUB: Martin FOR Graham,,,,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,624,8,0,4,9:14 PM,1:33,SUB: Biyombo FOR Washington,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,627,3,10,4,9:14 PM,1:33,Hayward Free Throw 1 of 1 (23 PTS),,,111 - 113,2,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,628,2,1,4,9:15 PM,1:13,,,MISS Fox 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,629,4,0,4,9:15 PM,1:10,,,Barnes REBOUND (Off:1 Def:4),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,630,1,6,4,9:15 PM,1:02,,,Hield Driving Layup (20 PTS),113 - 113,TIE,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,631,9,1,4,9:15 PM,1:02,HORNETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,632,8,0,4,9:15 PM,1:02,SUB: Washington FOR Bridges,,,,,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,633,8,0,4,9:15 PM,1:02,SUB: Graham FOR Martin,,,,,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,634,8,0,4,9:15 PM,1:02,SUB: Ball FOR Biyombo,,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,638,1,1,4,9:17 PM,0:54,Rozier 26' 3PT Jump Shot (24 PTS) (Hayward 3 AST),,,113 - 116,3,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,640,9,1,4,9:17 PM,0:54,,,Kings Timeout: Regular (Reg.6 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,641,8,0,4,9:18 PM,0:54,SUB: Bridges FOR Washington,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,642,8,0,4,9:18 PM,0:54,SUB: Martin FOR Graham,,,,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,643,8,0,4,9:18 PM,0:54,SUB: Biyombo FOR Ball,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,648,2,1,4,9:19 PM,0:48,,,MISS Hield 24' 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,649,4,0,4,9:19 PM,0:47,Biyombo REBOUND (Off:3 Def:7),,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,650,6,1,4,9:19 PM,0:47,,,Holmes P.FOUL (P3.PN) (N.Green),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,652,3,11,4,9:20 PM,0:47,MISS Biyombo Free Throw 1 of 2,,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,653,4,1,4,9:20 PM,0:47,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,654,3,12,4,9:20 PM,0:47,MISS Biyombo Free Throw 2 of 2,,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,655,4,0,4,9:20 PM,0:44,,,Holmes REBOUND (Off:1 Def:14),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,656,2,6,4,9:20 PM,0:34,,,MISS Fox 4' Driving Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,658,4,0,4,9:20 PM,0:31,Hayward REBOUND (Off:1 Def:6),,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,659,9,1,4,9:21 PM,0:28,HORNETS Timeout: Regular (Full 6 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,660,8,0,4,9:21 PM,0:28,SUB: Graham FOR Bridges,,,,,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,661,8,0,4,9:21 PM,0:28,SUB: Washington FOR Martin,,,,,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,662,8,0,4,9:21 PM,0:28,SUB: Ball FOR Biyombo,,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,666,6,1,4,9:22 PM,0:26,,,Barnes P.FOUL (P1.PN) (S.Corbin),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,668,3,11,4,9:23 PM,0:26,Rozier Free Throw 1 of 2 (25 PTS),,,113 - 117,4,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,669,8,0,4,9:23 PM,0:26,SUB: Martin FOR Graham,,,,,4,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,670,8,0,4,9:23 PM,0:26,SUB: Biyombo FOR Washington,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,671,8,0,4,9:23 PM,0:26,SUB: Bridges FOR Ball,,,,,4,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,675,3,12,4,9:24 PM,0:26,Rozier Free Throw 2 of 2 (26 PTS),,,113 - 118,5,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,676,2,1,4,9:24 PM,0:18,,,MISS Hield 26' 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000602,677,4,0,4,9:24 PM,0:15,Hayward REBOUND (Off:1 Def:7),,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,678,6,28,4,9:24 PM,0:15,,,Fox Personal Take Foul (P5.PN) (S.Corbin),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000602,680,3,11,4,9:25 PM,0:15,Hayward Free Throw 1 of 2 (24 PTS),,,113 - 119,6,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,681,3,12,4,9:25 PM,0:15,Hayward Free Throw 2 of 2 (25 PTS),,,113 - 120,7,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000602,682,9,1,4,9:25 PM,0:15,,,Kings Timeout: Regular (Reg.7 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000602,683,8,0,4,9:25 PM,0:15,SUB: Washington FOR Biyombo,,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000602,685,1,1,4,9:27 PM,0:08,,,Hield 26' 3PT Jump Shot (23 PTS) (Holmes 6 AST),116 - 120,4,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000602,687,1,50,4,9:27 PM,0:03,Martin 1' Running Dunk (9 PTS) (Hayward 4 AST),,,116 - 122,6,4,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000602,689,13,0,4,9:27 PM,0:00,,End of 4th Period (9:27 PM EST),,116 - 122,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
