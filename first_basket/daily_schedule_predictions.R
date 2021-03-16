@@ -8,6 +8,7 @@ opening_tip <- fread("data/curated/nba/current_season_opening_tip.csv.gz")
 first_shot <- fread("data/curated/nba/current_season_first_shot.csv.gz")
 schedule <- fread(paste0("data/nba_schedules/", today_date, ".csv"))
 current_centers <- fread("data/curated/nba/current_centers.csv")
+player_usage <- fread("data/curated/nba/current_season_usage_rate.csv.gz")
 
 current_centers_concat <-
   current_centers %>%
@@ -56,7 +57,7 @@ today_games_jumper <-
          odds = round(case_when(exp_win > .5 ~ (exp_win / (1 - (exp_win))) * -100,
                                 TRUE ~ (100/exp_win) - 100), 0))
 
-ordered_df <-
+win_tip_df <-
   today_games_jumper %>%
   mutate(home_concat = paste0(home_team_abbrev, home_jumper),
          away_concat = paste0(away_team_abbrev, away_jumper)) %>%
@@ -72,10 +73,10 @@ ordered_df <-
          win_prob = round(win_prob, 3))
 
 team_odds <-
-  ordered_df %>%
+  win_tip_df %>%
   mutate(team_win_tip = if_else(home_jumper == winning_jumper, win_prob, 1 - win_prob)) %>%
   select(team = home, team_win_tip) %>%
-  bind_rows(ordered_df %>%
+  bind_rows(win_tip_df %>%
               mutate(team_win_tip = if_else(away_jumper == winning_jumper, win_prob, 1 - win_prob)) %>%
               select(team = away, team_win_tip))
 
@@ -87,7 +88,11 @@ first_shot_odds_df <-
   mutate(game_percentage = percentage * team_win_tip,
          game_odds = case_when(game_percentage > .5 ~ (game_percentage / (1 - (game_percentage))) * -100,
                                TRUE ~ (100/game_percentage) - 100)) %>%
-  arrange(team, game_odds)
+  left_join(select(player_usage, PLAYER_NAME, TEAM_ABBREVIATION, USG), by = c("team" = "TEAM_ABBREVIATION", "player" = "PLAYER_NAME")) %>%
+  mutate(game_usage = ((percentage * team_win_tip) + (USG * team_win_tip)) / 2,
+         usage_odds = case_when(game_usage > .5 ~ (game_usage / (1 - (game_usage))) * -100,
+                               TRUE ~ (100/game_usage) - 100)) %>%
+  arrange(team, usage_odds)
 
 
 
