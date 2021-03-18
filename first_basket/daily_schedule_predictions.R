@@ -1,17 +1,26 @@
 library(data.table)
 library(tidyverse)
 
-today_date <- gsub("-", "", Sys.Date())
+today_date <- gsub("-", "", Sys.Date()-1)
 
 player_ratings <- fread("data/curated/nba/jump_ball_ratings.csv.gz")
 opening_tip <- fread("data/curated/nba/current_season_opening_tip.csv.gz")
 first_shot <- fread("data/curated/nba/current_season_first_shot.csv.gz")
 schedule <- fread(paste0("data/nba_schedules/", today_date, ".csv"))
 current_centers <- fread("data/curated/nba/current_centers.csv")
+current_starters <- fread("data/curated/nba/current_starters.csv")
 player_usage <- fread("data/curated/nba/current_season_usage_rate.csv.gz")
+
+first_shot_concat <-
+  first_shot %>%
+  mutate(concat_field = paste0(team_abbrev, player))
 
 current_centers_concat <-
   current_centers %>%
+  mutate(concat_field = paste0(team_abbrev, player))
+
+current_starters_concat <-
+  current_starters %>%
   mutate(concat_field = paste0(team_abbrev, player))
 
 today_games <-
@@ -34,28 +43,29 @@ jumper_joined <-
 today_games_jumper <-
   today_games %>%
   left_join(jumper_joined, by = c("HOME_TEAM_ID" = "team_id")) %>%
-  left_join(select(player_ratings, jumper, exp_win)) %>%
+  left_join(select(player_ratings, jumper, exp_win_adj)) %>%
   rename(home_jumper = jumper,
          home_team_abbrev = team_abbrev,
          home_jumps = jumps,
          home_wins = wins,
          home_win_rate = win_rate,
-         home_rating = exp_win) %>%
+         home_rating = exp_win_adj) %>%
   left_join(jumper_joined, by = c("VISITOR_TEAM_ID" = "team_id")) %>%
-  left_join(select(player_ratings, jumper, exp_win)) %>%
+  left_join(select(player_ratings, jumper, exp_win_adj)) %>%
   rename(away_jumper = jumper,
          away_team_abbrev = team_abbrev,
          away_jumps = jumps,
          away_wins = wins,
          away_win_rate = win_rate,
-         away_rating = exp_win) %>%
+         away_rating = exp_win_adj) %>%
   mutate(home_exp_win = (home_rating*(1-away_rating)) / 
-                        ((home_rating*(1-away_rating)) + (away_rating*(1-home_rating))),
+                            ((home_rating*(1-away_rating)) + (away_rating*(1-home_rating))),
          away_exp_win = 1 - home_exp_win,
-         winning_jumper = if_else(home_exp_win >= away_exp_win, home_jumper, away_jumper),
+         exp_winning_jumper = if_else(home_exp_win >= away_exp_win, home_jumper, away_jumper),
          exp_win = if_else(home_exp_win >= away_exp_win, home_exp_win, away_exp_win),
-         odds = round(case_when(exp_win > .5 ~ (exp_win / (1 - (exp_win))) * -100,
-                                TRUE ~ (100/exp_win) - 100), 0))
+         exp_score_first = (exp_win*(2/3)) + ((1 - exp_win)*(1/3)),
+         odds = round(case_when(exp_score_first > .5 ~ (exp_score_first / (1 - (exp_score_first))) * -100,
+                                TRUE ~ (100/exp_score_first) - 100), 0))
 
 win_tip_df <-
   today_games_jumper %>%
@@ -63,36 +73,69 @@ win_tip_df <-
          away_concat = paste0(away_team_abbrev, away_jumper)) %>%
   filter(home_concat %in% current_centers_concat$concat_field,
          away_concat %in% current_centers_concat$concat_field) %>%
-  select(home = home_team_abbrev, home_jumper, home_wins, home_jumps, home_win_rate, 
-         away = away_team_abbrev, away_jumper, away_wins, away_jumps, away_win_rate,
-         home_rating, away_rating, winning_jumper, win_prob = exp_win, winner_odds = odds) %>%
   mutate(home_win_rate = round(home_win_rate, 3),
-         away_win_rate = round(away_win_rate, 3),
-         home_rating = round(home_rating, 3),
          away_rating = round(away_rating, 3),
-         win_prob = round(win_prob, 3))
+         home_rating = round(home_rating, 3),
+         win_tip_prob = round(exp_win, 3),
+         team_score_first_prob = round(exp_score_first, 3),
+         away_szn_open_tips = paste0(away_wins,"/",away_jumps," (",round(away_win_rate*100, 1),"%)"),
+         home_szn_open_tips = paste0(home_wins,"/",home_jumps," (",round(home_win_rate*100, 1),"%)")) %>%
+  select(away_team = away_team_abbrev, away_jumper, away_szn_open_tips, away_rating,
+         home_team = home_team_abbrev, home_jumper, home_szn_open_tips, home_rating,
+         exp_winning_jumper, win_tip_prob, team_score_first_prob, odds)
+
 
 team_odds <-
   win_tip_df %>%
-  mutate(team_win_tip = if_else(home_jumper == winning_jumper, win_prob, 1 - win_prob)) %>%
-  select(team = home, team_win_tip) %>%
+  mutate(team_win_tip = if_else(home_jumper == exp_winning_jumper, win_tip_prob, 1 - win_tip_prob),
+         team_score_first = if_else(home_jumper == exp_winning_jumper, team_score_first_prob, 1 - team_score_first_prob)) %>%
+  select(team = home_team, jumper = home_jumper, team_win_tip, team_score_first) %>%
   bind_rows(win_tip_df %>%
-              mutate(team_win_tip = if_else(away_jumper == winning_jumper, win_prob, 1 - win_prob)) %>%
-              select(team = away, team_win_tip))
+              mutate(team_win_tip = if_else(away_jumper == exp_winning_jumper, win_tip_prob, 1 - win_tip_prob),
+                     team_score_first = if_else(away_jumper == exp_winning_jumper, team_score_first_prob, 1 - team_score_first_prob)) %>%
+              select(team = away_team, jumper = away_jumper, team_win_tip, team_score_first))
+# 
+# first_shot_df_starters <-
+#   first_shot_concat %>%
+#   rename(first_shots = shots,
+#          first_shot_percent = percentage) %>%
+#   select(-odds) %>%
+#   mutate(concat_field = paste0(team_abbrev, player)) %>%
+#   left_join(current_starters_concat) %>%
+#   filter(team_abbrev %in% team_odds$team)
+
+first_shot_df_starters <-
+  current_starters_concat %>%
+  left_join(first_shot_concat) %>%
+  mutate(starts = coalesce(starts, 0),
+         first_shots = coalesce(shots, 0),
+         first_shot_percent = coalesce(percentage, 0)) %>%
+  select(-c(odds, shots, percentage, concat_field)) %>%
+  filter(team_abbrev %in% team_odds$team)
 
 first_shot_odds_df <-
-  first_shot %>%
+  first_shot_df_starters %>%
   rename(team = team_abbrev) %>%
-  filter(team %in% team_odds$team) %>%
   left_join(team_odds) %>%
-  mutate(game_percentage = percentage * team_win_tip,
-         game_odds = case_when(game_percentage > .5 ~ (game_percentage / (1 - (game_percentage))) * -100,
-                               TRUE ~ (100/game_percentage) - 100)) %>%
-  left_join(select(player_usage, PLAYER_NAME, TEAM_ABBREVIATION, USG), by = c("team" = "TEAM_ABBREVIATION", "player" = "PLAYER_NAME")) %>%
-  mutate(game_usage = ((percentage * team_win_tip) + (USG * team_win_tip)) / 2,
-         usage_odds = case_when(game_usage > .5 ~ (game_usage / (1 - (game_usage))) * -100,
-                               TRUE ~ (100/game_usage) - 100)) %>%
-  arrange(team, usage_odds)
+  left_join(select(player_usage, PLAYER_NAME, TEAM_ABBREVIATION, USG, FG_USG, FG_PCT), by = c("team" = "TEAM_ABBREVIATION", "player" = "PLAYER_NAME")) %>%
+  mutate(first_shot_usg = (first_shot_percent + FG_USG) / 2,
+         first_shot_make = first_shot_usg * FG_PCT)
+         # game_first_poss_usg_odds = case_when(game_first_shot_usg > .5 ~ (game_first_shot_usg / (1 - (game_first_shot_usg))) * -100,
+         #                       TRUE ~ (100/game_first_shot_usg) - 100)) %>%
+
+first_shot_new_df <-
+  first_shot_odds_df %>%
+  group_by(team, team_score_first) %>%
+  mutate(starters_first_make = first_shot_make/sum(first_shot_make),
+         game_first_make = starters_first_make * team_score_first,
+         game_first_poss_make_odds = case_when(game_first_make > .5 ~ (game_first_make / (1 - (game_first_make))) * -100,
+                                               TRUE ~ (100/game_first_make) - 100))
+
+first_shot_score <-
+  first_shot_odds_df %>%
+  mutate(first_poss_end_on_made_fg = team_first_shot_usg * FG_PCT) %>%
+  arrange(team, first_poss_end_on_made_fg)
+         #score_basket_on_first_poss = any_poss_end_on_made_fg * team_score_first)
 
 
 

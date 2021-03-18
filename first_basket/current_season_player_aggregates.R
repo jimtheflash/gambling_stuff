@@ -79,12 +79,13 @@ player_team_joined <-
   player_season_aggregates %>%
   left_join(team_season_aggregates) %>%
   mutate(USG = ((FGA + 0.44*FTA + TOV) * (TM_MIN / 5)) /
-               (MIN * (TM_FGA + 0.44*TM_FTA + TM_TOV)))
+               (MIN * (TM_FGA + 0.44*TM_FTA + TM_TOV)),
+         FG_USG = (FGA * TM_MIN / 5) / (MIN * TM_FGA))
 
 player_usage <-
   player_team_joined %>%
   filter(SEASON_YEAR == "2020-21", SEASON_TYPE == "Regular Season") %>%
-  select(PLAYER_ID, PLAYER_NAME, TEAM_ABBREVIATION, SEASON_TYPE, USG)
+  select(PLAYER_ID, PLAYER_NAME, TEAM_ABBREVIATION, SEASON_TYPE, USG, FG_USG, FG_PCT)
 
 write.csv(player_usage, "data/curated/nba/current_season_usage_rate.csv.gz", row.names = FALSE)
 

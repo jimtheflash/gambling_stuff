@@ -88,6 +88,14 @@ for (g in unique_games) {
     filter(grepl("jump ball", tolower(HOMEDESCRIPTION))) %>%
     mutate(opening_jump = if_else(PERIOD == "1" & PCTIMESTRING == "12:00", TRUE, FALSE))
   
+  score_first_df <- 
+    read.csv(csv_path, 
+             colClasses = 'character',
+             na.strings = c('')) %>%
+    mutate(EVENTNUM = as.numeric(EVENTNUM)) %>%
+    filter(SCORE != '' & !is.na(SCORE) & !is.na(EVENTNUM)) %>%
+    filter(row_number() == min(row_number()))
+  
   home_team_abbrev <- as.character(pbp$PLAYER1_TEAM_ABBREVIATION)
   home_team_jumper <- as.character(pbp$PLAYER1_NAME)
   home_team_person_id <- as.character(pbp$PLAYER1_ID)
@@ -95,6 +103,7 @@ for (g in unique_games) {
   away_team_jumper <- as.character(pbp$PLAYER2_NAME)
   away_team_person_id <- as.character(pbp$PLAYER2_ID)
   possession <- as.character(pbp$PLAYER3_TEAM_ABBREVIATION)
+  score_first <- as.character(score_first_df$PLAYER1_TEAM_ABBREVIATION)
   opening_jump <- as.character(pbp$opening_jump)
   
   # Final output of relevant info about jumps
@@ -110,7 +119,8 @@ for (g in unique_games) {
     away_team_jumper = away_team_jumper,
     away_team_person_id = away_team_person_id,
     away_team_abbrev = away_team_abbrev,
-    possession = possession
+    possession = possession,
+    score_first = score_first
   )
   
   possession_list[[g]] <- output
@@ -122,7 +132,8 @@ for (g in unique_games) {
 possession_binded <- 
   bind_rows(possession_list) %>%
   filter(!is.na(possession)) %>%
-  mutate(home_won_tip = if_else(home_team_abbrev == possession, TRUE, FALSE))
+  mutate(home_won_tip = if_else(home_team_abbrev == possession, TRUE, FALSE),
+         home_score_first = if_else(home_team_abbrev == score_first, TRUE, FALSE))
   
 # Adds in player height and weight
 possession_player_info <-
@@ -139,7 +150,7 @@ possession_df <-
   select(season, game_date, game_id, matchup, opening_jump,
          home_team_person_id, home_team_jumper, home_team_height, home_team_abbrev,
          away_team_person_id, away_team_jumper, away_team_height, away_team_abbrev,
-         possession, height_diff, home_won_tip) %>%
+         possession, height_diff, home_won_tip, home_score_first) %>%
   filter(!is.na(home_team_height),
          !is.na(away_team_height))
 
@@ -422,6 +433,10 @@ for (i in 1:length(unique_dates$game_date)) {
   
 }
 
+# Adding score first percentage (given tip win prediction)
+test_df_exp_win_master <-
+  test_df_exp_win_master %>%
+  mutate(exp_score_first = (final_exp_win_adj*(2/3)) + ((1 - final_exp_win_adj)*(1/3)))
 
 # Views performance of model on test data
 # Is split into buckets of predicted win probability, and compares to performance of those predictions
@@ -442,6 +457,25 @@ test_buckets_height <-
             true_win_percent = mean(home_won_tip),
             .groups = 'drop') 
 
+test_buckets_height_score <-
+  test_df_exp_win_master %>%
+  mutate(exp_score_first_prob = cut(exp_score_first, breaks = seq(0, 100, by = 0.05), right = FALSE)) %>%
+  group_by(exp_score_first_prob) %>%
+  summarise(jumps = n(),
+            true_win_percent = mean(home_won_tip),
+            true_score_percent = mean(home_score_first),
+            .groups = 'drop') 
+
+test_score_first_by_exp_tip <-
+  test_df_exp_win_master %>%
+  mutate(exp_win_tip_prob = cut(final_exp_win_adj, breaks = seq(0, 100, by = 0.1), right = FALSE)) %>%
+  group_by(exp_win_tip_prob) %>%
+  summarise(jumps = n(),
+            true_win_percent = mean(home_won_tip),
+            exp_score_percent = mean(exp_score_first),
+            true_score_percent = mean(home_score_first),
+            .groups = 'drop') 
+
 # Determines Brier Score for backtesting
 brier_score_df <-
   test_df_exp_win_master %>%
@@ -452,14 +486,28 @@ brier_score_df <-
 brier_score <- mean(brier_score_df$brier_score_height)
 message("brier_score is equal to ", round(brier_score, 5))
 
+
+# Determines Brier Score for backtesting
+brier_score_first_df <-
+  test_df_exp_win_master %>%
+  mutate(brier_score_height = (final_exp_win_adj - home_score_first)^2,
+         brier_score_prob = (exp_score_first - home_score_first)^2) %>%
+  filter(!is.na(brier_score_height), !is.na(brier_score_prob))
+
+brier_score <- mean(brier_score_first_df$brier_score_height)
+message("brier_score is equal to ", round(brier_score, 5))
+
+brier_score <- mean(brier_score_first_df$brier_score_prob)
+message("brier_score is equal to ", round(brier_score, 5))
+
+
 brier_buckets <-
-  brier_score_df %>%
-  mutate(home_jumps_buckets = cut(home_jumps, breaks = seq(0, 450, by = 25), right = FALSE),
-         away_jumps_buckets = cut(away_jumps, breaks = seq(0, 450, by = 25), right = FALSE)) %>%
+  brier_score_first_df %>%
+  mutate(home_jumps_buckets = cut(home_jumps, breaks = seq(0, 450, by = 50), right = FALSE),
+         away_jumps_buckets = cut(away_jumps, breaks = seq(0, 450, by = 50), right = FALSE)) %>%
   group_by(home_jumps_buckets, away_jumps_buckets) %>%
   summarise(jumps = n(),
-            brier_normal_avg = mean(brier_score_normal),
-            brier_height_avg = mean(brier_score_height),
+            brier_avg = mean(brier_score_prob),
             .groups = 'drop') 
 
 # Using historical dataset chosen with parameters, pick two players and view odds of winning a jump ball
@@ -494,9 +542,6 @@ player_2 <- "Joel Embiid"
 calculate_jump_odds(player_1, player_2, player_list_df)
 
 write.csv(player_list_df, "data/curated/nba/jump_ball_ratings.csv.gz", row.names = FALSE)
-
-
-
 
 
 
