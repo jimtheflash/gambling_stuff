@@ -1,0 +1,514 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022000619,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,4,10,0,1,7:11 PM,12:00,Jump Ball Len vs. Holmes: Tip to Fox,,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1
+0022000619,7,2,1,1,7:11 PM,11:43,,,MISS Haliburton 3PT Jump Shot,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,8,4,0,1,7:11 PM,11:40,Hachimura REBOUND (Off:0 Def:1),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,9,2,1,1,7:12 PM,11:23,MISS Hachimura 7' Jump Shot,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,10,4,0,1,7:12 PM,11:18,Hachimura REBOUND (Off:1 Def:1),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,11,1,97,1,7:12 PM,11:18,Hachimura Tip Layup Shot (2 PTS),,,0 - 2,2,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,12,1,78,1,7:12 PM,11:05,,,Barnes 7' Floating Jump Shot (2 PTS),2 - 2,TIE,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,13,1,80,1,7:12 PM,10:49,Beal 15' Step Back Jump Shot (2 PTS) (Len 1 AST),,,2 - 4,2,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,15,2,1,1,7:12 PM,10:40,,,MISS Fox 25' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,16,4,0,1,7:12 PM,10:37,Westbrook REBOUND (Off:0 Def:1),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,17,2,79,1,7:12 PM,10:32,MISS Westbrook 21' Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,18,4,0,1,7:13 PM,10:28,,,Hield REBOUND (Off:0 Def:1),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,19,1,79,1,7:13 PM,10:25,,,Haliburton 20' Pullup Jump Shot (2 PTS),4 - 4,TIE,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,20,5,40,1,7:13 PM,10:15,Hachimura Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022000619,22,1,1,1,7:13 PM,10:05,,,Hield 29' 3PT Jump Shot (3 PTS) (Fox 1 AST),7 - 4,-3,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,24,6,2,1,7:13 PM,9:57,,,Fox S.FOUL (P1.T1) (C.Washington),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,26,3,11,1,7:14 PM,9:57,Westbrook Free Throw 1 of 2 (1 PTS),,,7 - 5,-2,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,27,3,12,1,7:14 PM,9:57,Westbrook Free Throw 2 of 2 (2 PTS),,,7 - 6,-1,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,28,1,78,1,7:14 PM,9:43,,,Holmes 18' Floating Jump Shot (2 PTS) (Barnes 1 AST),9 - 6,-3,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,30,2,6,1,7:14 PM,9:29,MISS Beal 14' Driving Layup,,Holmes BLOCK (1 BLK),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1
+0022000619,32,4,0,1,7:14 PM,9:29,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,34,1,98,1,7:15 PM,9:23,Beal 3' Cutting Layup Shot (4 PTS) (Westbrook 1 AST),,,9 - 8,-1,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,36,6,2,1,7:15 PM,9:23,,,Hield S.FOUL (P1.T2) (B.Barnaky),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,38,3,10,1,7:15 PM,9:23,Beal Free Throw 1 of 1 (5 PTS),,,9 - 9,TIE,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,39,1,47,1,7:15 PM,9:12,,,Fox 12' Turnaround Jump Shot (2 PTS),11 - 9,-2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,40,1,66,1,7:16 PM,9:04,Beal 6' Jump Bank Shot (7 PTS) (Westbrook 2 AST),,,11 - 11,TIE,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,42,6,2,1,7:16 PM,8:57,Mathews S.FOUL (P1.T1) (B.Barnaky),,,,,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,44,3,11,1,7:16 PM,8:57,,,Fox Free Throw 1 of 2 (3 PTS),12 - 11,-1,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,45,3,12,1,7:16 PM,8:57,,,Fox Free Throw 2 of 2 (4 PTS),13 - 11,-2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,46,1,6,1,7:17 PM,8:46,Hachimura 6' Driving Layup (4 PTS) (Westbrook 3 AST),,,13 - 13,TIE,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,48,2,79,1,7:17 PM,8:38,,,MISS Haliburton 28' 3PT Pullup Jump Shot,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,49,4,0,1,7:17 PM,8:36,Beal REBOUND (Off:0 Def:1),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,50,5,1,1,7:17 PM,8:33,Beal Bad Pass Turnover (P1.T2),,Fox STEAL (1 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,52,2,1,1,7:17 PM,8:29,,,MISS Hield 24' 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,53,4,0,1,7:17 PM,8:20,,,Haliburton REBOUND (Off:1 Def:0),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,54,2,97,1,7:17 PM,8:20,,,MISS Haliburton Tip Layup Shot,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,55,4,0,1,7:17 PM,8:20,Len REBOUND (Off:0 Def:1),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,56,5,45,1,7:17 PM,8:18,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022000619,57,1,6,1,7:17 PM,8:10,,,Fox 6' Driving Layup (6 PTS),15 - 13,-2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,58,6,2,1,7:17 PM,8:10,Mathews S.FOUL (P2.T2) (C.Washington),,,,,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,60,8,0,1,7:18 PM,8:10,SUB: Bertans FOR Mathews,,,,,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,62,3,10,1,7:18 PM,8:10,,,Fox Free Throw 1 of 1 (7 PTS),16 - 13,-3,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,63,2,104,1,7:18 PM,7:59,MISS Westbrook 7' Step Back Bank Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,64,4,0,1,7:18 PM,7:56,,,Barnes REBOUND (Off:0 Def:1),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,65,2,1,1,7:18 PM,7:49,,,MISS Barnes 30' 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,66,4,0,1,7:18 PM,7:46,Bertans REBOUND (Off:0 Def:1),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,67,1,6,1,7:19 PM,7:42,Westbrook 5' Driving Layup (4 PTS),,,16 - 15,-1,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,68,7,2,1,7:19 PM,7:42,,,Holmes Violation:Defensive Goaltending (S.Wright),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022000619,69,1,1,1,7:19 PM,7:30,,,Barnes 25' 3PT Jump Shot (5 PTS) (Fox 2 AST),19 - 15,-4,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,71,2,1,1,7:19 PM,7:19,MISS Bertans 29' 3PT Jump Shot,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,72,4,0,1,7:19 PM,7:15,Len REBOUND (Off:1 Def:1),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,73,1,1,1,7:19 PM,7:10,Beal 21' Jump Shot (9 PTS),,,19 - 17,-2,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,75,2,1,1,7:19 PM,6:56,,,MISS Barnes 25' 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,76,4,0,1,7:19 PM,6:53,Westbrook REBOUND (Off:0 Def:2),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,77,1,99,1,7:20 PM,6:50,Hachimura 4' Cutting Finger Roll Layup Shot (6 PTS) (Westbrook 4 AST),,,19 - 19,TIE,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,79,6,2,1,7:20 PM,6:44,Len S.FOUL (P1.T3) (S.Wright),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,81,9,1,1,7:20 PM,6:44,WIZARDS Timeout: Regular (Full 1 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,82,8,0,1,7:22 PM,6:44,,,SUB: Joseph FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,84,3,11,1,7:23 PM,6:44,,,Barnes Free Throw 1 of 2 (6 PTS),20 - 19,-1,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,85,3,12,1,7:23 PM,6:44,,,Barnes Free Throw 2 of 2 (7 PTS),21 - 19,-2,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,86,1,57,1,7:24 PM,6:28,Len 5' Driving Hook Shot (2 PTS),,,21 - 21,TIE,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,87,2,79,1,7:24 PM,6:16,,,MISS Fox 21' Pullup Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,88,4,0,1,7:24 PM,6:13,Beal REBOUND (Off:0 Def:2),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,89,2,1,1,7:24 PM,6:10,MISS Bertans 28' 3PT Jump Shot,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,90,4,0,1,7:24 PM,6:07,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,92,6,17,1,7:25 PM,5:53,WIZARDS T.Foul (Def. 3 Sec Len ) (C.Washington),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022000619,93,3,16,1,7:25 PM,5:53,,,Hield Free Throw Technical (4 PTS),22 - 21,-1,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,94,8,0,1,7:25 PM,5:53,SUB: Neto FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,96,2,78,1,7:25 PM,5:42,,,MISS Holmes 12' Floating Jump Shot,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,97,4,0,1,7:26 PM,5:38,Len REBOUND (Off:1 Def:2),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,98,2,5,1,7:26 PM,5:31,MISS Hachimura 4' Layup,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,99,4,0,1,7:26 PM,5:28,Bertans REBOUND (Off:1 Def:1),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,100,6,2,1,7:26 PM,5:19,,,Fox S.FOUL (P2.T3) (B.Barnaky),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,102,3,11,1,7:26 PM,5:19,Beal Free Throw 1 of 2 (10 PTS),,,22 - 22,TIE,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,103,8,0,1,7:26 PM,5:19,,,SUB: Haliburton FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,105,3,12,1,7:27 PM,5:19,Beal Free Throw 2 of 2 (11 PTS),,,22 - 23,1,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,106,2,78,1,7:27 PM,5:06,,,MISS Holmes 11' Floating Jump Shot,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,107,4,0,1,7:27 PM,5:03,Len REBOUND (Off:1 Def:3),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,108,1,78,1,7:27 PM,4:56,Beal 6' Floating Jump Shot (13 PTS) (Neto 1 AST),,,22 - 25,3,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,110,2,1,1,7:27 PM,4:41,,,MISS Holmes 18' Jump Shot,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,111,4,0,1,7:27 PM,4:38,Beal REBOUND (Off:0 Def:3),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,112,2,1,1,7:28 PM,4:32,MISS Bertans 28' 3PT Jump Shot,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,113,4,0,1,7:28 PM,4:29,Len REBOUND (Off:2 Def:3),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,114,1,5,1,7:28 PM,4:29,Len 5' Layup (4 PTS),,,22 - 27,5,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,115,6,2,1,7:28 PM,4:29,,,Holmes S.FOUL (P1.T4) (C.Washington),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,117,9,1,1,7:28 PM,4:29,,,Kings Timeout: Regular (Reg.1 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,118,3,10,1,7:31 PM,4:29,Len Free Throw 1 of 1 (5 PTS),,,22 - 28,6,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,120,8,0,1,7:31 PM,4:08,,,SUB: Bjelica FOR Holmes,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,121,8,0,1,7:31 PM,4:08,,,SUB: Whiteside FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,124,2,78,1,7:32 PM,4:04,,,MISS Haliburton 16' Floating Jump Shot,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,125,4,0,1,7:32 PM,3:57,,,Bjelica REBOUND (Off:1 Def:0),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,126,2,97,1,7:32 PM,3:57,,,MISS Bjelica Tip Layup Shot,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,127,4,0,1,7:32 PM,3:57,Len REBOUND (Off:2 Def:4),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,128,2,1,1,7:32 PM,3:53,MISS Beal 27' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,129,4,0,1,7:32 PM,3:47,,,Bjelica REBOUND (Off:1 Def:1),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,130,2,105,1,7:32 PM,3:36,,,MISS Joseph 11' Turnaround Fadeaway Bank Jump Shot,,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,131,4,0,1,7:32 PM,3:34,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,133,2,1,1,7:33 PM,3:32,,,MISS Hield 25' 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,134,4,0,1,7:33 PM,3:28,Neto REBOUND (Off:0 Def:1),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,135,5,1,1,7:33 PM,3:15,Len Bad Pass Turnover (P1.T4),,Joseph STEAL (1 STL),,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,137,1,1,1,7:33 PM,3:09,,,Haliburton 3PT Jump Shot (5 PTS) (Hield 1 AST),25 - 28,3,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,139,6,2,1,7:33 PM,3:09,Len S.FOUL (P2.T4) (C.Washington),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,141,8,0,1,7:33 PM,3:09,SUB: Lopez FOR Len,,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,143,8,0,1,7:34 PM,3:09,SUB: Westbrook FOR Beal,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,145,3,10,1,7:34 PM,3:09,,,Haliburton Free Throw 1 of 1 (6 PTS),26 - 28,2,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,146,1,1,1,7:34 PM,2:57,Bertans 29' 3PT Jump Shot (3 PTS) (Westbrook 5 AST),,,26 - 31,5,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,148,6,1,1,7:34 PM,2:44,Bertans P.FOUL (P1.PN) (S.Wright),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,150,3,11,1,7:35 PM,2:44,,,MISS Haliburton Free Throw 1 of 2,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,151,4,1,1,7:35 PM,2:44,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,152,8,0,1,7:35 PM,2:44,SUB: Avdija FOR Hachimura,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,154,3,12,1,7:35 PM,2:44,,,Haliburton Free Throw 2 of 2 (7 PTS),27 - 31,4,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,155,2,58,1,7:35 PM,2:27,MISS Lopez 9' Turnaround Hook Shot,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,156,4,0,1,7:35 PM,2:24,,,Whiteside REBOUND (Off:0 Def:1),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,157,6,2,1,7:36 PM,2:12,Avdija S.FOUL (P1.PN) (C.Washington),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,159,3,11,1,7:36 PM,2:12,,,Hield Free Throw 1 of 2 (5 PTS),28 - 31,3,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,160,3,12,1,7:36 PM,2:12,,,Hield Free Throw 2 of 2 (6 PTS),29 - 31,2,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,161,2,79,1,7:36 PM,2:03,MISS Westbrook 28' 3PT Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,162,4,0,1,7:37 PM,2:00,,,Bjelica REBOUND (Off:1 Def:2),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,163,2,3,1,7:37 PM,1:45,,,MISS Whiteside 15' Hook Shot,,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,164,4,0,1,7:37 PM,1:42,Neto REBOUND (Off:0 Def:2),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,165,2,78,1,7:37 PM,1:36,MISS Neto 16' Floating Jump Shot,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,166,4,0,1,7:37 PM,1:32,,,Joseph REBOUND (Off:0 Def:1),,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,167,1,5,1,7:37 PM,1:24,,,Joseph 7' Layup (2 PTS),31 - 31,TIE,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,168,1,98,1,7:37 PM,1:15,Avdija 4' Cutting Layup Shot (2 PTS) (Westbrook 6 AST),,,31 - 33,2,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,170,2,105,1,7:38 PM,0:58,,,MISS Joseph 17' Turnaround Fadeaway Bank Jump Shot,,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,171,4,0,1,7:38 PM,0:52,Westbrook REBOUND (Off:0 Def:3),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,172,1,1,1,7:38 PM,0:48,Lopez 27' 3PT Jump Shot (3 PTS) (Avdija 1 AST),,,31 - 36,5,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,174,1,79,1,7:38 PM,0:33,,,Haliburton 29' 3PT Pullup Jump Shot (10 PTS),34 - 36,2,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,175,1,6,1,7:38 PM,0:26,Avdija 1' Driving Layup (4 PTS) (Westbrook 7 AST),,,34 - 38,4,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,177,2,73,1,7:39 PM,0:07,Lopez BLOCK (1 BLK),,MISS Haliburton 7' Driving Reverse Layup,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,1
+0022000619,179,4,0,1,7:39 PM,0:03,Avdija REBOUND (Off:0 Def:1),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,180,2,1,1,7:39 PM,0:01,MISS Bertans 3PT Jump Shot,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,181,4,0,1,7:39 PM,0:01,Lopez REBOUND (Off:1 Def:0),,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,183,2,97,1,7:39 PM,0:01,MISS Lopez 10' Tip Layup Shot,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,184,4,0,1,7:39 PM,0:01,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,182,13,0,1,7:39 PM,0:00,,End of 1st Period (7:39 PM EST),,34 - 38,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000619,189,12,0,2,7:42 PM,12:00,,Start of 2nd Period (7:42 PM EST),,34 - 38,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,190,2,1,2,7:42 PM,11:43,MISS Westbrook 17' Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,191,4,0,2,7:42 PM,11:38,,,Bjelica REBOUND (Off:1 Def:3),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,192,2,1,2,7:42 PM,11:31,,,MISS Bjelica 31' 3PT Jump Shot,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,193,4,0,2,7:42 PM,11:26,Westbrook REBOUND (Off:0 Def:4),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,194,2,5,2,7:42 PM,11:24,MISS Lopez 4' Layup,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,195,4,0,2,7:42 PM,11:21,,,Bjelica REBOUND (Off:1 Def:4),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,196,6,1,2,7:42 PM,11:21,Neto P.FOUL (P1.T1) (C.Washington),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,198,8,0,2,7:42 PM,11:21,SUB: Mathews FOR Bertans,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,200,2,1,2,7:43 PM,11:09,,,MISS Bjelica 24' 3PT Jump Shot,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,201,4,0,2,7:43 PM,11:06,,,Whiteside REBOUND (Off:1 Def:1),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,202,6,2,2,7:43 PM,11:06,Lopez S.FOUL (P1.T2) (C.Washington),,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,204,3,11,2,7:43 PM,11:06,,,MISS Whiteside Free Throw 1 of 2,,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,205,4,1,2,7:43 PM,11:06,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,206,3,12,2,7:43 PM,11:06,,,MISS Whiteside Free Throw 2 of 2,,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,207,4,0,2,7:43 PM,11:04,Neto REBOUND (Off:0 Def:3),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,208,2,50,2,7:44 PM,10:59,MISS Westbrook 2' Running Dunk,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,209,4,0,2,7:44 PM,10:58,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,211,2,1,2,7:44 PM,10:45,,,MISS Barnes 27' 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,212,4,0,2,7:44 PM,10:40,Mathews REBOUND (Off:0 Def:1),,,,,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,213,1,73,2,7:44 PM,10:35,Neto 1' Driving Reverse Layup (2 PTS),,,34 - 40,6,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,214,2,6,2,7:45 PM,10:17,Avdija BLOCK (1 BLK),,MISS Whiteside 9' Driving Layup,,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,1
+0022000619,216,4,0,2,7:45 PM,10:14,Avdija REBOUND (Off:0 Def:2),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,217,5,2,2,7:45 PM,10:11,Avdija Lost Ball Turnover (P1.T5),,Fox STEAL (2 STL),,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,219,1,80,2,7:45 PM,10:03,,,Joseph 28' 3PT Step Back Jump Shot (5 PTS) (Bjelica 1 AST),37 - 40,3,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,221,2,79,2,7:45 PM,9:43,MISS Westbrook 21' Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,222,4,0,2,7:45 PM,9:40,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,224,1,1,2,7:46 PM,9:25,,,Fox 25' 3PT Jump Shot (10 PTS) (Barnes 2 AST),40 - 40,TIE,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,226,1,78,2,7:46 PM,9:12,Neto 11' Floating Jump Shot (4 PTS),,,40 - 42,2,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,227,2,79,2,7:46 PM,9:04,,,MISS Fox 17' Pullup Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,228,4,0,2,7:46 PM,9:01,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,230,1,3,2,7:47 PM,8:47,Lopez 4' Hook Shot (5 PTS) (Westbrook 8 AST),,,40 - 44,4,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,232,1,5,2,7:47 PM,8:37,,,Barnes 4' Layup (9 PTS) (Joseph 1 AST),42 - 44,2,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,234,6,1,2,7:47 PM,8:30,,,Bjelica P.FOUL (P1.T1) (S.Wright),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,236,8,0,2,7:47 PM,8:30,,,SUB: Holmes FOR Whiteside,,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,238,8,0,2,7:47 PM,8:30,,,SUB: James FOR Bjelica,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,240,2,104,2,7:48 PM,8:24,MISS Westbrook 14' Step Back Bank Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,241,4,0,2,7:48 PM,8:17,,,Holmes REBOUND (Off:0 Def:1),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,242,2,1,2,7:48 PM,8:11,,,MISS James 24' 3PT Jump Shot,,,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,243,4,0,2,7:48 PM,8:09,Westbrook REBOUND (Off:0 Def:5),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,244,6,1,2,7:48 PM,8:03,,,Holmes P.FOUL (P2.T2) (S.Wright),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,246,8,0,2,7:48 PM,8:03,SUB: Beal FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,248,1,5,2,7:49 PM,7:59,Neto 6' Layup (6 PTS) (Beal 1 AST),,,42 - 46,4,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,250,1,3,2,7:49 PM,7:41,,,Joseph 13' Hook Shot (7 PTS) (Barnes 3 AST),44 - 46,2,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,252,1,75,2,7:49 PM,7:32,Neto 2' Driving Finger Roll Layup (8 PTS),,,44 - 48,4,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,253,2,5,2,7:49 PM,7:12,,,MISS Barnes 6' Layup,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,254,4,0,2,7:49 PM,7:09,,,Barnes REBOUND (Off:1 Def:1),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,255,1,108,2,7:49 PM,7:05,,,Holmes 5' Cutting Dunk Shot (4 PTS) (James 1 AST),46 - 48,2,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,257,6,26,2,7:50 PM,6:58,Neto Offensive Charge Foul (P2.T3) (C.Washington),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,259,5,37,2,7:50 PM,6:58,Neto Offensive Foul Turnover (P1.T6),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022000619,260,9,1,2,7:50 PM,6:58,WIZARDS Timeout: Regular (Full 2 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,261,8,0,2,7:50 PM,6:58,SUB: Hachimura FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,263,1,5,2,7:53 PM,6:41,,,Holmes 3' Layup (6 PTS) (Fox 3 AST),48 - 48,TIE,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,265,1,57,2,7:53 PM,6:26,Lopez 5' Driving Hook Shot (7 PTS),,,48 - 50,2,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,266,1,98,2,7:53 PM,6:12,,,Barnes 4' Cutting Layup Shot (11 PTS) (James 2 AST),50 - 50,TIE,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,268,6,2,2,7:54 PM,6:05,,,James S.FOUL (P1.T3) (C.Washington),,,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,270,3,11,2,7:54 PM,6:05,Neto Free Throw 1 of 2 (9 PTS),,,50 - 51,1,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,271,8,0,2,7:54 PM,6:05,SUB: Len FOR Lopez,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,272,8,0,2,7:54 PM,6:05,,,SUB: Hield FOR Joseph,,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,275,3,12,2,7:54 PM,6:05,Neto Free Throw 2 of 2 (10 PTS),,,50 - 52,2,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,276,2,6,2,7:55 PM,5:51,,,MISS Barnes 7' Driving Layup,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,277,4,0,2,7:55 PM,5:49,Len REBOUND (Off:2 Def:5),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,278,1,3,2,7:55 PM,5:34,Hachimura 3' Hook Shot (8 PTS),,,50 - 54,4,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,279,2,5,2,7:55 PM,5:20,,,MISS Fox 12' Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,281,4,0,2,7:55 PM,5:17,Len REBOUND (Off:2 Def:6),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,282,5,1,2,7:55 PM,5:02,Beal Bad Pass Turnover (P2.T7),,Hield STEAL (1 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,284,6,1,2,7:56 PM,5:01,Mathews P.FOUL (P3.T4) (B.Barnaky),,,,,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,286,8,0,2,7:56 PM,5:01,SUB: Westbrook FOR Neto,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,287,8,0,2,7:56 PM,5:01,SUB: Avdija FOR Mathews,,,,,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,288,8,0,2,7:56 PM,5:01,,,SUB: Haliburton FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,292,2,79,2,7:56 PM,4:54,,,MISS Hield 17' Pullup Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,293,4,0,2,7:56 PM,4:51,Westbrook REBOUND (Off:0 Def:6),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,294,6,1,2,7:56 PM,4:49,,,Holmes P.FOUL (P3.T4) (S.Wright),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,296,8,0,2,7:56 PM,4:49,,,SUB: Whiteside FOR Holmes,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,298,2,5,2,7:57 PM,4:39,MISS Beal 5' Layup,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,299,4,0,2,7:57 PM,4:37,,,Whiteside REBOUND (Off:1 Def:2),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,300,2,1,2,7:57 PM,4:34,,,MISS Hield 28' 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,301,4,0,2,7:57 PM,4:29,Len REBOUND (Off:2 Def:7),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,302,5,2,2,7:57 PM,4:23,Westbrook Lost Ball Turnover (P2.T8),,Fox STEAL (3 STL),,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,304,1,41,2,7:57 PM,4:20,,,Hield 5' Running Layup (8 PTS) (Fox 4 AST),52 - 54,2,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,306,2,5,2,7:57 PM,4:12,MISS Hachimura 4' Layup,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,307,4,0,2,7:57 PM,4:12,,,Hield REBOUND (Off:0 Def:2),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,308,5,2,2,7:57 PM,4:03,Hachimura STEAL (1 STL),,Fox Lost Ball Turnover (P1.T1),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,310,6,1,2,7:58 PM,4:01,,,Haliburton P.FOUL (P1.PN) (C.Washington),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,312,3,11,2,7:58 PM,4:01,Westbrook Free Throw 1 of 2 (5 PTS),,,52 - 55,3,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,314,3,12,2,7:58 PM,4:01,Westbrook Free Throw 2 of 2 (6 PTS),,,52 - 56,4,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,313,9,1,2,7:58 PM,4:01,,,Kings Timeout: Regular (Reg.2 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,315,1,79,2,8:02 PM,3:40,,,James 15' Pullup Jump Shot (2 PTS) (Haliburton 1 AST),54 - 56,2,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,317,1,101,2,8:02 PM,3:21,Beal 13' Driving Floating Jump Shot (15 PTS),,,54 - 58,4,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,318,1,80,2,8:02 PM,3:04,,,Hield 3PT Step Back Jump Shot (11 PTS),57 - 58,1,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,319,2,1,2,8:03 PM,2:55,MISS Beal 26' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,320,4,0,2,8:03 PM,2:51,,,Hield REBOUND (Off:0 Def:3),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,321,1,1,2,8:03 PM,2:37,,,Whiteside 18' Jump Shot (2 PTS) (Hield 2 AST),59 - 58,-1,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,323,6,2,2,8:03 PM,2:25,,,Hield S.FOUL (P2.PN) (S.Wright),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,325,3,11,2,8:04 PM,2:25,Len Free Throw 1 of 2 (6 PTS),,,59 - 59,TIE,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,326,8,0,2,8:04 PM,2:25,,,SUB: Barnes FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,328,8,0,2,8:04 PM,2:25,SUB: Bertans FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,330,3,12,2,8:04 PM,2:25,Len Free Throw 2 of 2 (7 PTS),,,59 - 60,1,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,331,1,47,2,8:05 PM,2:09,,,Hield 3PT Turnaround Jump Shot (14 PTS) (Haliburton 2 AST),62 - 60,-2,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,333,1,5,2,8:05 PM,1:56,Westbrook 2' Layup (8 PTS),,,62 - 62,TIE,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,334,5,2,2,8:05 PM,1:41,Hachimura STEAL (2 STL),,Haliburton Lost Ball Turnover (P1.T2),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,336,1,86,2,8:05 PM,1:30,Hachimura 13' Turnaround Fadeaway (10 PTS),,,62 - 64,2,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,337,1,44,2,8:06 PM,1:12,,,Barnes 5' Reverse Layup (13 PTS) (Haliburton 3 AST),64 - 64,TIE,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,339,6,2,2,8:06 PM,1:04,,,Haliburton S.FOUL (P2.PN) (C.Washington),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,393,3,11,2,8:06 PM,1:04,MISS Westbrook Free Throw 1 of 2,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022000619,394,4,1,2,8:06 PM,1:04,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,395,5,17,2,8:06 PM,1:04,Len Lane Violation Turnover (P2.T9),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022000619,344,2,3,2,8:07 PM,0:52,,,MISS Barnes 4' Hook Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,345,4,0,2,8:07 PM,0:50,Hachimura REBOUND (Off:1 Def:2),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,346,6,2,2,8:07 PM,0:48,,,Hield S.FOUL (P3.PN) (S.Wright),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,348,3,11,2,8:08 PM,0:48,Hachimura Free Throw 1 of 2 (11 PTS),,,64 - 65,1,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,349,8,0,2,8:08 PM,0:48,SUB: Avdija FOR Len,,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,350,8,0,2,8:08 PM,0:48,,,SUB: Joseph FOR Hield,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,353,3,12,2,8:08 PM,0:48,Hachimura Free Throw 2 of 2 (12 PTS),,,64 - 66,2,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,354,1,52,2,8:08 PM,0:38,,,Whiteside 6' Alley Oop Dunk (4 PTS) (Haliburton 4 AST),66 - 66,TIE,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,356,2,1,2,8:08 PM,0:29,MISS Avdija 25' 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,357,4,0,2,8:08 PM,0:26,,,James REBOUND (Off:0 Def:1),,,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,359,8,0,2,8:09 PM,0:08,,,SUB: Hield FOR James,,,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,361,5,4,2,8:09 PM,0:04,,,Hield Traveling Turnover (P1.T3),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022000619,368,8,0,2,8:09 PM,0:04,,,SUB: James FOR Hield,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,364,2,6,2,8:10 PM,0:00,MISS Westbrook 5' Driving Layup,,Whiteside BLOCK (1 BLK),,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,1
+0022000619,366,4,0,2,8:10 PM,0:00,,,Joseph REBOUND (Off:0 Def:2),,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,367,13,0,2,8:11 PM,0:00,,End of 2nd Period (8:11 PM EST),,66 - 66,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000619,380,12,0,3,8:25 PM,12:00,,Start of 3rd Period (8:25 PM EST),,66 - 66,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,381,1,5,3,8:25 PM,11:44,Len 3' Layup (9 PTS) (Beal 2 AST),,,66 - 68,2,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,383,2,1,3,8:26 PM,11:30,,,MISS Hield 28' 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,384,4,0,3,8:26 PM,11:27,Len REBOUND (Off:2 Def:8),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,386,2,79,3,8:26 PM,11:16,MISS Beal 15' Pullup Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,387,4,0,3,8:26 PM,11:14,,,Barnes REBOUND (Off:1 Def:2),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,388,2,1,3,8:26 PM,11:06,,,MISS Fox 26' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,389,4,0,3,8:26 PM,11:05,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000619,390,6,3,3,8:26 PM,11:05,Westbrook L.B.FOUL (P1.T1) (S.Wright),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,429,2,79,3,8:27 PM,10:51,,,MISS Fox 27' 3PT Pullup Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,430,4,0,3,8:27 PM,10:51,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,392,5,11,3,8:27 PM,10:51,,,Kings Turnover: Shot Clock (T#4),,,3,1610612758,,,,,,0,0,,,,,,1,0,,,,,,0
+0022000619,396,2,5,3,8:27 PM,10:36,MISS Mathews 3' Layup,,,,,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,397,4,0,3,8:27 PM,10:32,Len REBOUND (Off:3 Def:8),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,398,2,97,3,8:27 PM,10:32,MISS Len Tip Layup Shot,,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,399,4,0,3,8:27 PM,10:31,,,Barnes REBOUND (Off:1 Def:3),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,400,1,79,3,8:27 PM,10:27,,,Holmes 16' Pullup Jump Shot (8 PTS) (Barnes 4 AST),68 - 68,TIE,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,402,2,3,3,8:28 PM,10:14,MISS Len 6' Hook Shot,,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,403,4,0,3,8:28 PM,10:09,,,Fox REBOUND (Off:0 Def:1),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,404,1,41,3,8:28 PM,10:06,,,Fox 1' Running Layup (12 PTS),70 - 68,-2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,405,5,1,3,8:28 PM,9:54,Beal Bad Pass Turnover (P3.T10),,Fox STEAL (4 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,407,2,1,3,8:28 PM,9:49,,,MISS Haliburton 24' 3PT Jump Shot,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,408,4,0,3,8:28 PM,9:46,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,410,2,79,3,8:28 PM,9:41,,,MISS Hield 16' Pullup Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,411,4,0,3,8:28 PM,9:38,Westbrook REBOUND (Off:0 Def:7),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,412,1,5,3,8:29 PM,9:33,Westbrook 7' Layup (10 PTS),,,70 - 70,TIE,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,413,6,2,3,8:29 PM,9:24,Len S.FOUL (P3.T2) (C.Washington),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,415,3,11,3,8:29 PM,9:24,,,Fox Free Throw 1 of 2 (13 PTS),71 - 70,-1,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,416,3,12,3,8:29 PM,9:24,,,Fox Free Throw 2 of 2 (14 PTS),72 - 70,-2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,417,2,6,3,8:30 PM,9:05,MISS Hachimura 6' Driving Layup,,Holmes BLOCK (2 BLK),,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1
+0022000619,419,4,0,3,8:30 PM,9:01,,,Haliburton REBOUND (Off:1 Def:1),,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,420,6,2,3,8:30 PM,8:53,Westbrook S.FOUL (P2.T3) (B.Barnaky),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,422,3,11,3,8:30 PM,8:53,,,Holmes Free Throw 1 of 2 (9 PTS),73 - 70,-3,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,423,3,12,3,8:30 PM,8:53,,,Holmes Free Throw 2 of 2 (10 PTS),74 - 70,-4,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,424,5,2,3,8:31 PM,8:45,Westbrook Lost Ball Turnover (P3.T11),,Fox STEAL (5 STL),,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,426,1,79,3,8:31 PM,8:40,,,Haliburton 26' 3PT Pullup Jump Shot (13 PTS) (Fox 5 AST),77 - 70,-7,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,428,9,1,3,8:31 PM,8:40,WIZARDS Timeout: Regular (Full 3 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000619,431,1,7,3,8:34 PM,8:28,Len 5' Dunk (11 PTS) (Beal 3 AST),,,77 - 72,-5,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,433,1,3,3,8:34 PM,8:09,,,Holmes 5' Hook Shot (12 PTS),79 - 72,-7,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,434,1,78,3,8:34 PM,7:55,Beal 14' Floating Jump Shot (17 PTS) (Len 2 AST),,,79 - 74,-5,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,436,6,2,3,8:35 PM,7:39,Len S.FOUL (P4.T4) (C.Washington),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,438,3,11,3,8:35 PM,7:39,,,MISS Fox Free Throw 1 of 2,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,439,4,1,3,8:35 PM,7:39,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,440,8,0,3,8:35 PM,7:39,SUB: Lopez FOR Mathews,,,,,4,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,441,8,0,3,8:35 PM,7:39,SUB: Bertans FOR Len,,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,444,3,12,3,8:36 PM,7:39,,,Fox Free Throw 2 of 2 (15 PTS),80 - 74,-6,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,445,1,79,3,8:36 PM,7:22,Beal 16' Pullup Jump Shot (19 PTS),,,80 - 76,-4,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,446,2,6,3,8:36 PM,7:02,,,MISS Fox 5' Driving Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,447,4,0,3,8:36 PM,6:57,,,Barnes REBOUND (Off:2 Def:3),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,448,1,72,3,8:36 PM,6:57,,,Barnes Putback Layup (15 PTS),82 - 76,-6,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,449,5,1,3,8:36 PM,6:47,Beal Bad Pass Turnover (P4.T12),,Barnes STEAL (1 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,451,1,79,3,8:37 PM,6:41,,,Fox 11' Pullup Jump Shot (17 PTS),84 - 76,-8,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,452,2,1,3,8:37 PM,6:24,MISS Bertans 25' 3PT Jump Shot,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,453,4,0,3,8:37 PM,6:19,,,Hield REBOUND (Off:0 Def:4),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,454,1,1,3,8:37 PM,6:13,,,Holmes 18' Jump Shot (14 PTS) (Hield 3 AST),86 - 76,-10,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,456,9,1,3,8:37 PM,6:13,WIZARDS Timeout: Regular (Full 4 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,457,8,0,3,8:39 PM,6:13,SUB: Neto FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,458,8,0,3,8:39 PM,6:13,,,SUB: Joseph FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,461,6,1,3,8:40 PM,6:08,,,Hield P.FOUL (P4.T1) (C.Washington),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,463,2,1,3,8:41 PM,5:59,MISS Hachimura 24' 3PT Jump Shot,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,464,4,0,3,8:41 PM,5:56,Lopez REBOUND (Off:2 Def:0),,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,465,2,1,3,8:41 PM,5:54,MISS Neto 27' 3PT Jump Shot,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,466,4,0,3,8:41 PM,5:48,,,Holmes REBOUND (Off:0 Def:2),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,467,2,1,3,8:41 PM,5:40,,,MISS Fox 16' Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,468,4,0,3,8:41 PM,5:37,Hachimura REBOUND (Off:1 Def:3),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,469,1,73,3,8:41 PM,5:27,Beal 5' Driving Reverse Layup (21 PTS),,,86 - 78,-8,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,470,6,1,3,8:41 PM,5:14,Hachimura P.FOUL (P1.PN) (C.Washington),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,472,3,11,3,8:42 PM,5:14,,,Barnes Free Throw 1 of 2 (16 PTS),87 - 78,-9,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,473,8,0,3,8:42 PM,5:14,,,SUB: James FOR Hield,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,475,3,12,3,8:42 PM,5:14,,,MISS Barnes Free Throw 2 of 2,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,476,4,0,3,8:42 PM,5:12,Hachimura REBOUND (Off:1 Def:4),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,477,1,78,3,8:43 PM,4:55,Neto 5' Floating Jump Shot (12 PTS) (Bertans 1 AST),,,87 - 80,-7,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,479,1,108,3,8:43 PM,4:32,,,Holmes 6' Cutting Dunk Shot (16 PTS) (Joseph 2 AST),89 - 80,-9,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,481,2,3,3,8:43 PM,4:15,MISS Lopez 6' Hook Shot,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,482,4,0,3,8:43 PM,4:12,,,Holmes REBOUND (Off:0 Def:3),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,483,1,6,3,8:43 PM,4:06,,,Joseph 4' Driving Layup (9 PTS) (Fox 6 AST),91 - 80,-11,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,485,6,1,3,8:44 PM,3:49,,,Holmes P.FOUL (P4.T2) (S.Wright),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,487,1,6,3,8:44 PM,3:36,Beal 5' Driving Layup (23 PTS) (Bertans 2 AST),,,91 - 82,-9,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,489,6,2,3,8:44 PM,3:36,,,Fox S.FOUL (P3.T3) (B.Barnaky),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,491,8,0,3,8:44 PM,3:36,,,SUB: Whiteside FOR Holmes,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,493,3,10,3,8:45 PM,3:36,Beal Free Throw 1 of 1 (24 PTS),,,91 - 83,-8,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,494,1,1,3,8:45 PM,3:23,,,Joseph 3PT Jump Shot (12 PTS) (Barnes 5 AST),94 - 83,-11,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,496,1,80,3,8:45 PM,3:07,Beal 17' Step Back Jump Shot (26 PTS),,,94 - 85,-9,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,497,9,1,3,8:45 PM,3:06,,,Kings Timeout: Regular (Reg.3 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,498,8,0,3,8:45 PM,3:06,SUB: Westbrook FOR Beal,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,500,2,1,3,8:47 PM,2:49,,,MISS Joseph 24' 3PT Jump Shot,,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,501,4,0,3,8:47 PM,2:48,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,502,6,3,3,8:48 PM,2:48,,,Whiteside L.B.FOUL (P1.T4) (S.Wright),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,504,8,0,3,8:48 PM,2:48,,,SUB: Haliburton FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,506,1,58,3,8:48 PM,2:31,Lopez 6' Turnaround Hook Shot (9 PTS) (Westbrook 9 AST),,,94 - 87,-7,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,509,6,4,3,8:48 PM,2:22,,,Whiteside OFF.Foul (P2) (C.Washington),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,511,5,37,3,8:48 PM,2:22,,,Whiteside Offensive Foul Turnover (P1.T5),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022000619,512,1,80,3,8:49 PM,2:05,Hachimura 9' Step Back Jump Shot (14 PTS) (Neto 2 AST),,,94 - 89,-5,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,514,2,3,3,8:49 PM,1:39,,,MISS Whiteside 7' Hook Shot,,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,515,4,0,3,8:49 PM,1:33,Westbrook REBOUND (Off:0 Def:8),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,516,2,5,3,8:50 PM,1:28,MISS Bertans 3' Layup,,Whiteside BLOCK (2 BLK),,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,1
+0022000619,518,4,0,3,8:50 PM,1:20,,,Whiteside REBOUND (Off:1 Def:3),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,519,1,5,3,8:50 PM,1:19,,,James 5' Layup (4 PTS),96 - 89,-7,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,521,1,1,3,8:50 PM,1:07,Westbrook 28' 3PT Jump Shot (13 PTS) (Neto 3 AST),,,96 - 92,-4,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,523,6,2,3,8:50 PM,0:45,Hachimura S.FOUL (P2.PN) (S.Wright),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,525,3,11,3,8:51 PM,0:45,,,Haliburton Free Throw 1 of 2 (14 PTS),97 - 92,-5,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,528,3,12,3,8:51 PM,0:45,,,Haliburton Free Throw 2 of 2 (15 PTS),98 - 92,-6,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,526,8,0,3,8:51 PM,0:45,,,SUB: Bjelica FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,529,2,79,3,8:51 PM,0:35,MISS Hachimura 18' Pullup Jump Shot,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,530,4,0,3,8:51 PM,0:34,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,531,6,3,3,8:52 PM,0:34,,,Whiteside L.B.FOUL (P3.PN) (S.Wright),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,533,3,11,3,8:52 PM,0:34,Lopez Free Throw 1 of 2 (10 PTS),,,98 - 93,-5,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,534,3,12,3,8:52 PM,0:34,MISS Lopez Free Throw 2 of 2,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,535,4,0,3,8:52 PM,0:32,,,Whiteside REBOUND (Off:1 Def:4),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,536,1,6,3,8:52 PM,0:25,,,Haliburton 4' Driving Layup (17 PTS),100 - 93,-7,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,537,5,2,3,8:53 PM,0:04,Westbrook Lost Ball Turnover (P4.T13),,Joseph STEAL (2 STL),,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,539,6,2,3,8:53 PM,0:01,Lopez S.FOUL (P2.PN) (S.Wright),,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,541,3,11,3,8:53 PM,0:01,,,James Free Throw 1 of 2 (5 PTS),101 - 93,-8,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,542,3,12,3,8:53 PM,0:01,,,James Free Throw 2 of 2 (6 PTS),102 - 93,-9,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,543,13,0,3,8:54 PM,0:00,,End of 3rd Period (8:54 PM EST),,102 - 93,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000619,546,12,0,4,8:56 PM,12:00,,Start of 4th Period (8:56 PM EST),,102 - 93,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,547,2,80,4,8:57 PM,11:44,,,MISS Haliburton 19' Step Back Jump Shot,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,548,4,0,4,8:57 PM,11:41,Westbrook REBOUND (Off:0 Def:9),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,549,6,2,4,8:57 PM,11:37,,,Joseph S.FOUL (P1.T1) (C.Washington),,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,551,3,11,4,8:57 PM,11:37,Westbrook Free Throw 1 of 2 (14 PTS),,,102 - 94,-8,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,552,3,12,4,8:58 PM,11:37,Westbrook Free Throw 2 of 2 (15 PTS),,,102 - 95,-7,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,553,6,1,4,8:58 PM,11:23,Hachimura P.FOUL (P3.T1) (C.Washington),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,555,1,108,4,8:58 PM,11:08,,,Whiteside 3' Cutting Dunk Shot (6 PTS) (Bjelica 2 AST),104 - 95,-9,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,558,1,6,4,8:59 PM,10:47,Hachimura 5' Driving Layup (16 PTS) (Westbrook 10 AST),,,104 - 97,-7,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,559,6,2,4,8:59 PM,10:47,,,Bjelica S.FOUL (P2.T2) (S.Wright),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,562,18,6,4,9:00 PM,10:47,,Instant Replay4th Period (9:00 PM EST),,104 - 97,-7,0,559,,,,,,0,0,,,,,,1,0,,,,,,0
+0022000619,563,9,1,4,9:00 PM,10:47,,,Kings Timeout: Regular (Reg.4 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,564,8,0,4,9:02 PM,10:47,,,SUB: Holmes FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,565,8,0,4,9:02 PM,10:47,,,SUB: Fox FOR Whiteside,,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,568,3,10,4,9:03 PM,10:47,Hachimura Free Throw 1 of 1 (17 PTS),,,104 - 98,-6,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,569,5,1,4,9:03 PM,10:29,Neto STEAL (1 STL),,Fox Bad Pass Turnover (P2.T6),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,571,5,1,4,9:03 PM,10:18,Westbrook Bad Pass Turnover (P5.T14),,Joseph STEAL (3 STL),,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,573,1,3,4,9:03 PM,10:09,,,Holmes 9' Hook Shot (18 PTS) (Fox 7 AST),106 - 98,-8,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022000619,575,2,1,4,9:04 PM,9:48,MISS Hachimura 28' 3PT Jump Shot,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,576,4,0,4,9:04 PM,9:45,Westbrook REBOUND (Off:1 Def:9),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,577,2,1,4,9:04 PM,9:43,MISS Neto 27' 3PT Jump Shot,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,578,4,0,4,9:04 PM,9:43,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,580,8,0,4,9:04 PM,9:43,SUB: Beal FOR Hachimura,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,582,1,6,4,9:04 PM,9:33,,,Fox 6' Driving Layup (19 PTS),108 - 98,-10,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,583,6,2,4,9:04 PM,9:33,Avdija S.FOUL (P2.T2) (C.Washington),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,585,3,10,4,9:05 PM,9:33,,,MISS Fox Free Throw 1 of 1,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,586,4,0,4,9:05 PM,9:30,Westbrook REBOUND (Off:1 Def:10),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,587,2,73,4,9:05 PM,9:10,MISS Westbrook 6' Driving Reverse Layup,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,588,4,0,4,9:05 PM,9:08,,,Holmes REBOUND (Off:0 Def:4),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,589,2,1,4,9:05 PM,9:04,,,MISS Bjelica 30' 3PT Jump Shot,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,590,4,0,4,9:05 PM,9:01,Beal REBOUND (Off:0 Def:4),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,591,2,1,4,9:05 PM,8:52,MISS Avdija 27' 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,592,4,0,4,9:05 PM,8:49,,,Holmes REBOUND (Off:0 Def:5),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,593,5,2,4,9:06 PM,8:38,Neto STEAL (2 STL),,Fox Lost Ball Turnover (P3.T7),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,595,1,50,4,9:06 PM,8:34,Avdija 6' Running Dunk (6 PTS),,,108 - 100,-8,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,596,2,3,4,9:06 PM,8:13,,,MISS Holmes 15' Hook Shot,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,597,4,0,4,9:06 PM,8:10,Beal REBOUND (Off:0 Def:5),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,598,2,1,4,9:06 PM,8:04,MISS Beal 27' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,599,4,0,4,9:06 PM,8:02,Lopez REBOUND (Off:3 Def:0),,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,600,2,1,4,9:06 PM,7:58,MISS Neto 8' Jump Shot,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,601,4,0,4,9:06 PM,7:55,,,Bjelica REBOUND (Off:1 Def:5),,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,602,2,79,4,9:07 PM,7:45,,,MISS Fox 15' Pullup Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,603,4,0,4,9:07 PM,7:42,Beal REBOUND (Off:0 Def:6),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,604,2,79,4,9:07 PM,7:27,MISS Westbrook 29' 3PT Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,605,4,0,4,9:07 PM,7:24,,,Holmes REBOUND (Off:0 Def:6),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,606,2,78,4,9:07 PM,7:14,,,MISS Holmes 16' Floating Jump Shot,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,607,4,0,4,9:07 PM,7:12,Westbrook REBOUND (Off:1 Def:11),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,608,6,1,4,9:07 PM,7:06,,,Holmes P.FOUL (P5.T3) (C.Washington),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,610,8,0,4,9:07 PM,7:06,SUB: Len FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,611,8,0,4,9:07 PM,7:06,SUB: Hachimura FOR Lopez,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,612,8,0,4,9:07 PM,7:06,,,SUB: Barnes FOR Bjelica,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,616,8,0,4,9:08 PM,7:06,,,SUB: Haliburton FOR James,,,5,1629713,Justin James,1610612758.0,Sacramento,Kings,SAC,5,1630169,Tyrese Haliburton,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,618,2,1,4,9:08 PM,6:51,MISS Neto 3PT Jump Shot,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,619,4,0,4,9:08 PM,6:49,,,Barnes REBOUND (Off:2 Def:4),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,620,6,1,4,9:08 PM,6:40,Neto P.FOUL (P3.T3) (B.Barnaky),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,623,8,0,4,9:09 PM,6:40,,,SUB: Whiteside FOR Joseph,,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,624,8,0,4,9:09 PM,6:40,,,SUB: Hield FOR Holmes,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,627,6,4,4,9:09 PM,6:36,,,Whiteside OFF.Foul (P4) (B.Barnaky),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,629,5,37,4,9:09 PM,6:36,,,Whiteside Offensive Foul Turnover (P2.T8),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022000619,630,1,7,4,9:09 PM,6:18,Len 6' Dunk (13 PTS) (Neto 4 AST),,,108 - 102,-6,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,632,6,2,4,9:10 PM,5:55,Westbrook S.FOUL (P3.T4) (S.Wright),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,634,3,11,4,9:10 PM,5:55,,,Hield Free Throw 1 of 2 (15 PTS),109 - 102,-7,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,635,8,0,4,9:10 PM,5:55,SUB: Bertans FOR Neto,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,637,3,12,4,9:11 PM,5:55,,,Hield Free Throw 2 of 2 (16 PTS),110 - 102,-8,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,638,1,6,4,9:11 PM,5:38,Beal 4' Driving Layup (28 PTS) (Len 3 AST),,,110 - 104,-6,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,640,2,80,4,9:11 PM,5:26,,,MISS Fox 14' Step Back Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,641,4,0,4,9:11 PM,5:23,Hachimura REBOUND (Off:1 Def:5),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,642,2,1,4,9:11 PM,5:18,MISS Bertans 28' 3PT Jump Shot,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,643,4,0,4,9:11 PM,5:14,,,Whiteside REBOUND (Off:1 Def:5),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,644,2,1,4,9:12 PM,5:00,,,MISS Hield 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,645,4,0,4,9:12 PM,4:56,Westbrook REBOUND (Off:1 Def:12),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,646,6,2,4,9:12 PM,4:49,,,Whiteside S.FOUL (P5.T4) (S.Wright),,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,648,3,11,4,9:12 PM,4:49,MISS Beal Free Throw 1 of 2,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,649,4,1,4,9:12 PM,4:49,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,650,3,12,4,9:13 PM,4:49,Beal Free Throw 2 of 2 (29 PTS),,,110 - 105,-5,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,651,2,79,4,9:13 PM,4:23,,,MISS Fox 28' 3PT Pullup Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,652,4,0,4,9:13 PM,4:20,Hachimura REBOUND (Off:1 Def:6),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,653,1,6,4,9:13 PM,4:14,Westbrook 5' Driving Layup (17 PTS),,,110 - 107,-3,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,654,6,2,4,9:13 PM,4:14,,,Fox S.FOUL (P4.PN) (C.Washington),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,656,8,0,4,9:13 PM,4:14,,,SUB: Holmes FOR Whiteside,,,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,658,3,10,4,9:14 PM,4:14,Westbrook Free Throw 1 of 1 (18 PTS),,,110 - 108,-2,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,659,6,1,4,9:14 PM,4:01,Hachimura P.FOUL (P4.PN) (B.Barnaky),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,661,3,11,4,9:15 PM,4:01,,,Barnes Free Throw 1 of 2 (17 PTS),111 - 108,-3,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,662,3,12,4,9:15 PM,4:01,,,Barnes Free Throw 2 of 2 (18 PTS),112 - 108,-4,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,663,2,1,4,9:15 PM,3:54,MISS Beal 26' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,664,4,0,4,9:15 PM,3:51,,,Barnes REBOUND (Off:2 Def:5),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,665,9,1,4,9:15 PM,3:36,,,Kings Timeout: Regular (Reg.5 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,666,5,2,4,9:19 PM,3:32,Westbrook STEAL (1 STL),,Hield Lost Ball Turnover (P2.T9),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,668,2,50,4,9:19 PM,3:30,MISS Westbrook 5' Running Dunk,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,669,4,0,4,9:19 PM,3:30,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,670,2,1,4,9:19 PM,3:14,,,MISS Hield 3PT Jump Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,671,4,0,4,9:19 PM,3:11,Westbrook REBOUND (Off:1 Def:13),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,672,1,1,4,9:19 PM,3:02,Bertans 24' 3PT Jump Shot (6 PTS) (Beal 4 AST),,,112 - 111,-1,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,674,6,1,4,9:20 PM,2:41,Beal P.FOUL (P1.PN) (C.Washington),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,676,3,11,4,9:20 PM,2:41,,,Fox Free Throw 1 of 2 (20 PTS),113 - 111,-2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,677,3,12,4,9:20 PM,2:41,,,Fox Free Throw 2 of 2 (21 PTS),114 - 111,-3,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,678,2,1,4,9:21 PM,2:26,MISS Hachimura 24' 3PT Jump Shot,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,679,4,0,4,9:21 PM,2:23,Len REBOUND (Off:4 Def:8),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,680,1,6,4,9:21 PM,2:17,Westbrook 3' Driving Layup (20 PTS),,,114 - 113,-1,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,681,1,6,4,9:21 PM,2:05,,,Fox 4' Driving Layup (23 PTS),116 - 113,-3,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,682,6,2,4,9:21 PM,2:05,Bertans S.FOUL (P2.PN) (S.Wright),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,684,3,10,4,9:21 PM,2:05,,,Fox Free Throw 1 of 1 (24 PTS),117 - 113,-4,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,685,2,1,4,9:22 PM,1:56,MISS Beal 27' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,686,4,0,4,9:22 PM,1:53,,,Holmes REBOUND (Off:0 Def:7),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,687,6,1,4,9:22 PM,1:46,Bertans P.FOUL (P3.PN) (B.Barnaky),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022000619,689,3,11,4,9:22 PM,1:46,,,Fox Free Throw 1 of 2 (25 PTS),118 - 113,-5,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,690,3,12,4,9:22 PM,1:46,,,Fox Free Throw 2 of 2 (26 PTS),119 - 113,-6,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,691,6,2,4,9:23 PM,1:40,,,Holmes S.FOUL (P6.PN) (B.Barnaky),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,693,8,0,4,9:23 PM,1:40,SUB: Neto FOR Bertans,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,695,8,0,4,9:24 PM,1:40,,,SUB: Bjelica FOR Holmes,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,697,3,11,4,9:24 PM,1:40,MISS Westbrook Free Throw 1 of 2,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,698,4,1,4,9:24 PM,1:40,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,701,3,12,4,9:24 PM,1:40,MISS Westbrook Free Throw 2 of 2,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,699,8,0,4,9:24 PM,1:40,SUB: Avdija FOR Len,,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022000619,702,4,0,4,9:24 PM,1:37,,,Barnes REBOUND (Off:2 Def:6),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,703,2,79,4,9:25 PM,1:16,,,MISS Fox 26' 3PT Pullup Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,704,4,0,4,9:25 PM,1:14,Hachimura REBOUND (Off:1 Def:7),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,705,6,1,4,9:25 PM,1:10,,,Fox P.FOUL (P5.PN) (S.Wright),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022000619,707,3,11,4,9:25 PM,1:10,Westbrook Free Throw 1 of 2 (21 PTS),,,119 - 114,-5,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,708,3,12,4,9:26 PM,1:10,Westbrook Free Throw 2 of 2 (22 PTS),,,119 - 115,-4,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,709,2,80,4,9:26 PM,0:48,,,MISS Bjelica 29' 3PT Step Back Jump Shot,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,710,4,0,4,9:26 PM,0:47,,,Hield REBOUND (Off:1 Def:4),,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,711,2,3,4,9:26 PM,0:46,,,MISS Hield 11' Hook Shot,,,5,1627741,Buddy Hield,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,712,4,0,4,9:26 PM,0:46,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,713,5,11,4,9:26 PM,0:46,,,Kings Turnover: Shot Clock (T#10),,,3,1610612758,,,,,,0,0,,,,,,1,0,,,,,,0
+0022000619,714,8,0,4,9:26 PM,0:46,,,SUB: Joseph FOR Bjelica,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,716,1,6,4,9:27 PM,0:41,Westbrook 4' Driving Layup (24 PTS),,,119 - 117,-2,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,717,2,5,4,9:27 PM,0:27,,,MISS Fox 2' Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,718,4,0,4,9:27 PM,0:25,Hachimura REBOUND (Off:1 Def:8),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022000619,719,1,6,4,9:27 PM,0:22,Westbrook 5' Driving Layup (26 PTS) (Beal 5 AST),,,119 - 119,TIE,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022000619,721,9,1,4,9:27 PM,0:22,,,Kings Timeout: Regular (Reg.6 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,722,8,0,4,9:28 PM,0:22,,,SUB: Bjelica FOR Joseph,,,5,202709,Cory Joseph,1610612758.0,Sacramento,Kings,SAC,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,724,1,79,4,9:29 PM,0:01,,,Fox 19' Pullup Jump Shot (28 PTS),121 - 119,-2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022000619,725,9,1,4,9:30 PM,0:00,WIZARDS Timeout: Regular (Full 5 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,726,8,0,4,9:30 PM,0:00,,,SUB: Whiteside FOR Bjelica,,,5,202357,Nemanja Bjelica,1610612758.0,Sacramento,Kings,SAC,5,202355,Hassan Whiteside,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022000619,728,9,1,4,9:31 PM,0:00,WIZARDS Timeout: Regular (Full 6 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000619,729,5,45,4,9:33 PM,0:00,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P6.T15),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022000619,731,13,0,4,9:33 PM,0:00,,End of 4th Period (9:33 PM EST),,121 - 119,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
