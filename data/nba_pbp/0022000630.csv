@@ -1,0 +1,464 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022000630,2,12,0,1,10:42 PM,12:00,,Start of 1st Period (10:42 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,4,10,0,1,10:42 PM,12:00,Jump Ball Jones vs. Zeller: Tip to James,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1
+0022000630,7,5,1,1,10:42 PM,11:45,James Bad Pass Turnover (P1.T1),,Ball STEAL (1 STL),,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,9,1,41,1,10:42 PM,11:42,,,Rozier 4' Running Layup (2 PTS),2 - 0,-2,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,10,6,2,1,10:42 PM,11:42,Caldwell-Pope S.FOUL (P1.T1) (J.Tiven),,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,12,3,10,1,10:42 PM,11:42,,,Rozier Free Throw 1 of 1 (3 PTS),3 - 0,-3,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,13,1,1,1,10:43 PM,11:31,James 26' 3PT Jump Shot (3 PTS) (Schroder 1 AST),,,3 - 3,TIE,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,15,2,1,1,10:43 PM,11:08,,,MISS Hayward 27' 3PT Jump Shot,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,16,4,0,1,10:43 PM,11:05,Jones REBOUND (Off:0 Def:1),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,17,2,1,1,10:43 PM,10:46,MISS Schroder 25' 3PT Jump Shot,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,18,4,0,1,10:43 PM,10:41,,,Hayward REBOUND (Off:0 Def:1),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,19,2,6,1,10:43 PM,10:36,Jones BLOCK (1 BLK),,MISS Rozier 5' Driving Layup,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,1
+0022000630,21,4,0,1,10:44 PM,10:33,Morris REBOUND (Off:0 Def:1),,,,,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,22,1,50,1,10:44 PM,10:32,James 1' Running Dunk (5 PTS) (Morris 1 AST),,,3 - 5,2,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,24,7,5,1,10:44 PM,10:19,Morris Violation:Kicked Ball (H.Workman),,,,,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0022000630,25,1,6,1,10:44 PM,10:14,,,Hayward 2' Driving Layup (2 PTS) (Ball 1 AST),5 - 5,TIE,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,27,2,1,1,10:44 PM,9:58,MISS James 27' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,28,4,0,1,10:44 PM,9:55,,,Rozier REBOUND (Off:0 Def:1),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,30,1,108,1,10:45 PM,9:37,,,Zeller 1' Cutting Dunk Shot (2 PTS) (Hayward 1 AST),7 - 5,-2,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,32,1,79,1,10:45 PM,9:17,Schroder 10' Pullup Jump Shot (2 PTS),,,7 - 7,TIE,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,34,5,1,1,10:46 PM,8:57,Schroder STEAL (1 STL),,Ball Bad Pass Turnover (P1.T1),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,36,1,41,1,10:46 PM,8:52,James 1' Running Layup (7 PTS),,,7 - 9,2,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,37,1,102,1,10:46 PM,8:44,,,Washington 6' Driving Floating Bank Jump Shot (2 PTS) (Hayward 2 AST),9 - 9,TIE,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,38,6,2,1,10:46 PM,8:44,James S.FOUL (P1.T2) (J.Tiven),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,41,3,10,1,10:46 PM,8:44,,,Washington Free Throw 1 of 1 (3 PTS),10 - 9,-1,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,42,1,6,1,10:47 PM,8:26,Schroder 2' Driving Layup (4 PTS) (James 1 AST),,,10 - 11,1,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,44,2,63,1,10:47 PM,8:15,,,MISS Ball 4' Fadeaway Jumper,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,45,4,0,1,10:47 PM,8:13,Jones REBOUND (Off:0 Def:2),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,46,6,2,1,10:47 PM,8:06,,,Zeller S.FOUL (P1.T1) (J.Tiven),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,48,3,11,1,10:48 PM,8:06,James Free Throw 1 of 2 (8 PTS),,,10 - 12,2,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022000630,49,3,12,1,10:48 PM,8:06,James Free Throw 2 of 2 (9 PTS),,,10 - 13,3,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022000630,50,1,101,1,10:48 PM,7:53,,,Zeller 6' Driving Floating Jump Shot (4 PTS) (Ball 2 AST),12 - 13,1,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,52,2,1,1,10:48 PM,7:34,MISS Schroder 26' 3PT Jump Shot,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,53,4,0,1,10:48 PM,7:31,,,Rozier REBOUND (Off:0 Def:2),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,54,5,1,1,10:49 PM,7:25,Caldwell-Pope STEAL (1 STL),,Rozier Bad Pass Turnover (P1.T2),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,56,1,1,1,10:49 PM,7:05,Morris 11' Jump Shot (2 PTS),,,12 - 15,3,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,58,1,73,1,10:49 PM,6:51,,,Ball 2' Driving Reverse Layup (2 PTS),14 - 15,1,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,59,9,1,1,10:49 PM,6:50,LAKERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,60,1,63,1,10:53 PM,6:29,James 3PT Fadeaway Jumper (12 PTS),,,14 - 18,4,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,61,2,86,1,10:53 PM,6:10,,,MISS Hayward 13' Turnaround Fadeaway Shot,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,62,4,0,1,10:53 PM,6:08,Morris REBOUND (Off:0 Def:2),,,,,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,63,2,1,1,10:53 PM,5:52,MISS Morris 3PT Jump Shot,,,,,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,64,4,0,1,10:53 PM,5:49,,,Ball REBOUND (Off:0 Def:1),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,65,6,2,1,10:53 PM,5:45,Jones S.FOUL (P1.T3) (J.Tiven),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,67,3,11,1,10:54 PM,5:45,,,MISS Zeller Free Throw 1 of 2,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,68,4,1,1,10:54 PM,5:45,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,73,3,12,1,10:54 PM,5:45,,,MISS Zeller Free Throw 2 of 2,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,74,4,0,1,10:54 PM,5:45,Morris REBOUND (Off:0 Def:3),,,,,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,69,8,0,1,10:54 PM,5:45,SUB: Caruso FOR Schroder,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,71,8,0,1,10:54 PM,5:45,,,SUB: Bridges FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,75,1,108,1,10:55 PM,5:25,Jones 1' Cutting Dunk Shot (2 PTS) (Caruso 1 AST),,,14 - 20,6,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,77,5,40,1,10:55 PM,5:01,,,Hayward Out of Bounds Lost Ball Turnover (P1.T3),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022000630,78,8,0,1,10:55 PM,5:01,SUB: Harrell FOR Caldwell-Pope,,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,79,8,0,1,10:55 PM,5:01,SUB: Horton-Tucker FOR Jones,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,80,8,0,1,10:55 PM,5:01,SUB: Kuzma FOR Morris,,,,,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,81,8,0,1,10:55 PM,5:01,,,SUB: Biyombo FOR Zeller,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,86,6,2,1,10:56 PM,4:45,,,Biyombo S.FOUL (P1.T2) (M.Ayotte),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,88,3,11,1,10:56 PM,4:45,James Free Throw 1 of 2 (13 PTS),,,14 - 21,7,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,92,3,12,1,10:56 PM,4:45,MISS James Free Throw 2 of 2,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,93,4,0,1,10:56 PM,4:45,,,Bridges REBOUND (Off:0 Def:1),,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,89,9,1,1,10:56 PM,4:45,,,Hornets Timeout: Regular (Reg.1 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,90,8,0,1,10:59 PM,4:45,,,SUB: Graham FOR Ball,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,94,5,1,1,11:00 PM,4:33,,,Hayward Bad Pass Turnover (P2.T4),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022000630,95,2,1,1,11:00 PM,4:19,MISS Caruso 27' 3PT Jump Shot,,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,96,4,0,1,11:00 PM,4:15,,,Bridges REBOUND (Off:0 Def:2),,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,97,2,1,1,11:00 PM,4:02,,,MISS Rozier 3PT Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,98,4,0,1,11:00 PM,3:59,,,Hayward REBOUND (Off:1 Def:1),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,99,1,1,1,11:00 PM,3:57,,,Graham 26' 3PT Jump Shot (3 PTS) (Hayward 3 AST),17 - 21,4,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,101,2,5,1,11:01 PM,3:39,MISS Harrell 2' Layup,,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,102,4,0,1,11:01 PM,3:38,,,Hayward REBOUND (Off:1 Def:2),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,103,7,5,1,11:01 PM,3:32,Caruso Violation:Kicked Ball (M.Ayotte),,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0022000630,104,8,0,1,11:01 PM,3:32,SUB: Schroder FOR James,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,106,1,101,1,11:01 PM,3:23,,,Rozier 11' Driving Floating Jump Shot (5 PTS),19 - 21,2,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,107,1,1,1,11:01 PM,3:11,Schroder 22' Jump Shot (6 PTS),,,19 - 23,4,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,118,2,80,1,11:02 PM,2:54,,,MISS Rozier 17' Step Back Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,119,4,0,1,11:02 PM,2:51,Schroder REBOUND (Off:0 Def:1),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,108,2,1,1,11:02 PM,2:45,MISS Horton-Tucker 26' 3PT Jump Shot,,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,109,4,0,1,11:02 PM,2:41,Kuzma REBOUND (Off:1 Def:0),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,110,2,1,1,11:02 PM,2:37,MISS Schroder 26' 3PT Jump Shot,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,111,4,0,1,11:02 PM,2:36,Caruso REBOUND (Off:1 Def:0),,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,112,6,2,1,11:02 PM,2:34,,,Biyombo S.FOUL (P2.T3) (M.Ayotte),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,114,3,11,1,11:02 PM,2:34,Schroder Free Throw 1 of 2 (7 PTS),,,19 - 24,5,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,115,8,0,1,11:02 PM,2:34,,,SUB: Monk FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,117,3,12,1,11:03 PM,2:34,Schroder Free Throw 2 of 2 (8 PTS),,,19 - 25,6,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,120,5,1,1,11:03 PM,2:20,Caruso STEAL (1 STL),,Biyombo Bad Pass Turnover (P1.T5),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,122,2,41,1,11:03 PM,2:16,MISS Caruso 3' Running Layup,,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,123,4,0,1,11:03 PM,2:14,,,Graham REBOUND (Off:0 Def:1),,,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,124,1,5,1,11:03 PM,2:06,,,Biyombo 2' Layup (2 PTS) (Hayward 4 AST),21 - 25,4,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,126,6,2,1,11:04 PM,2:06,Kuzma S.FOUL (P1.T4) (H.Workman),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,128,3,10,1,11:04 PM,2:06,,,Biyombo Free Throw 1 of 1 (3 PTS),22 - 25,3,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,129,5,1,1,11:04 PM,1:50,Horton-Tucker Bad Pass Turnover (P1.T2),,Bridges STEAL (1 STL),,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,131,2,103,1,11:04 PM,1:46,,,MISS Graham 26' 3PT Running Pull-Up Jump Shot,,,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,132,4,0,1,11:04 PM,1:42,,,Hayward REBOUND (Off:2 Def:2),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,133,2,1,1,11:04 PM,1:42,,,MISS Monk 28' 3PT Jump Shot,,,5,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,134,4,0,1,11:04 PM,1:40,Caruso REBOUND (Off:1 Def:1),,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,135,1,79,1,11:05 PM,1:17,Schroder 15' Pullup Jump Shot (10 PTS),,,22 - 27,5,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,136,2,1,1,11:05 PM,1:01,,,MISS Bridges 24' 3PT Jump Shot,,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,137,4,0,1,11:05 PM,0:57,Kuzma REBOUND (Off:1 Def:1),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,138,2,5,1,11:05 PM,0:45,MISS Horton-Tucker 2' Layup,,Biyombo BLOCK (1 BLK),,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,1
+0022000630,140,4,0,1,11:05 PM,0:45,Harrell REBOUND (Off:1 Def:0),,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,141,6,2,1,11:05 PM,0:45,,,Bridges S.FOUL (P1.T4) (H.Workman),,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,143,3,11,1,11:06 PM,0:45,MISS Harrell Free Throw 1 of 2,,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,144,4,1,1,11:06 PM,0:45,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,145,3,12,1,11:06 PM,0:45,Harrell Free Throw 2 of 2 (1 PTS),,,22 - 28,6,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,146,1,5,1,11:07 PM,0:35,,,Biyombo 2' Layup (5 PTS) (Bridges 1 AST),24 - 28,4,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,148,6,2,1,11:07 PM,0:35,Schroder S.FOUL (P1.PN) (M.Ayotte),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,150,3,10,1,11:07 PM,0:35,,,MISS Biyombo Free Throw 1 of 1,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,151,4,0,1,11:07 PM,0:35,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,153,1,1,1,11:08 PM,0:26,Kuzma 26' 3PT Jump Shot (3 PTS) (Schroder 2 AST),,,24 - 31,7,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,155,6,4,1,11:08 PM,0:07,,,Hayward OFF.Foul (P1) (H.Workman),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,157,5,37,1,11:08 PM,0:07,,,Hayward Offensive Foul Turnover (P3.T6),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022000630,158,8,0,1,11:08 PM,0:07,,,SUB: Martin FOR Hayward,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,160,2,1,1,11:09 PM,0:01,MISS Kuzma 26' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,161,4,0,1,11:09 PM,0:01,Caruso REBOUND (Off:2 Def:1),,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,162,13,0,1,11:09 PM,0:00,,End of 1st Period (11:09 PM EST),,24 - 31,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000630,171,12,0,2,11:11 PM,12:00,,Start of 2nd Period (11:11 PM EST),,24 - 31,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,172,1,3,2,11:12 PM,11:43,,,Washington 7' Hook Shot (5 PTS) (Ball 3 AST),26 - 31,5,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,175,2,86,2,11:12 PM,11:26,MISS Kuzma 9' Turnaround Fadeaway Shot,,Biyombo BLOCK (2 BLK),,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,1
+0022000630,177,4,0,2,11:12 PM,11:23,Harrell REBOUND (Off:2 Def:0),,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,178,2,1,2,11:12 PM,11:21,MISS Matthews 25' 3PT Jump Shot,,,,,4,202083,Wesley Matthews,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,179,4,0,2,11:12 PM,11:18,,,Monk REBOUND (Off:0 Def:1),,,5,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,180,2,3,2,11:12 PM,11:12,Matthews BLOCK (1 BLK),,MISS Washington 11' Hook Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,202083,Wesley Matthews,1610612747.0,Los Angeles,Lakers,LAL,1
+0022000630,182,4,0,2,11:12 PM,11:09,Matthews REBOUND (Off:0 Def:1),,,,,4,202083,Wesley Matthews,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,183,2,6,2,11:13 PM,11:04,MISS Harrell 2' Driving Layup,,Biyombo BLOCK (3 BLK),,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,1
+0022000630,185,4,0,2,11:13 PM,11:01,,,Ball REBOUND (Off:0 Def:2),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,186,5,2,2,11:13 PM,10:58,Matthews STEAL (1 STL),,Ball Lost Ball Turnover (P2.T7),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,202083,Wesley Matthews,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,188,1,50,2,11:13 PM,10:53,James 1' Running Dunk (15 PTS) (Horton-Tucker 1 AST),,,26 - 33,7,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,190,2,79,2,11:13 PM,10:31,,,MISS Monk 9' Pullup Jump Shot,,,5,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,191,4,0,2,11:13 PM,10:29,Harrell REBOUND (Off:2 Def:1),,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,192,5,1,2,11:13 PM,10:27,James Bad Pass Turnover (P2.T3),,Graham STEAL (1 STL),,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,194,1,103,2,11:13 PM,10:23,,,Graham 27' 3PT Running Pull-Up Jump Shot (6 PTS),29 - 33,4,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,195,6,2,2,11:14 PM,10:02,,,Washington S.FOUL (P1.T1) (J.Tiven),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,197,3,11,2,11:14 PM,10:02,Harrell Free Throw 1 of 2 (2 PTS),,,29 - 34,5,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,198,3,12,2,11:15 PM,10:02,Harrell Free Throw 2 of 2 (3 PTS),,,29 - 35,6,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,199,2,1,2,11:15 PM,9:55,,,MISS Ball 26' 3PT Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,200,4,0,2,11:15 PM,9:52,James REBOUND (Off:0 Def:1),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,210,2,2,2,11:15 PM,9:48,MISS Horton-Tucker Running Jump Shot,,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,204,18,5,2,11:16 PM,9:48,,Instant Replay2nd Period (11:16 PM EST),,29 - 35,6,0,201,Chris Dudley,,,,,0,0,,,,,,1,0,,,,,,1
+0022000630,205,8,0,2,11:18 PM,9:48,,,SUB: Zeller FOR Biyombo,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,214,4,0,2,11:15 PM,9:45,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,203,9,1,2,11:18 PM,9:45,,,Hornets Timeout: Regular (Reg.2 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,207,10,1,2,11:19 PM,9:45,Jump Ball (CC) Harrell vs. Washington: Tip to James,,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1
+0022000630,211,2,5,2,11:19 PM,9:30,MISS Harrell 2' Layup,,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,212,4,0,2,11:19 PM,9:26,Harrell REBOUND (Off:3 Def:1),,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,213,1,87,2,11:19 PM,9:26,Harrell Putback Dunk (5 PTS),,,29 - 37,8,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,215,6,2,2,11:19 PM,9:12,Horton-Tucker S.FOUL (P1.T1) (H.Workman),,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,217,3,11,2,11:20 PM,9:12,,,MISS Zeller Free Throw 1 of 2,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,218,4,1,2,11:20 PM,9:12,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,219,3,12,2,11:20 PM,9:12,,,MISS Zeller Free Throw 2 of 2,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,220,4,0,2,11:20 PM,9:12,Harrell REBOUND (Off:3 Def:2),,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,221,2,1,2,11:20 PM,8:51,MISS Matthews 25' 3PT Jump Shot,,,,,4,202083,Wesley Matthews,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,222,4,0,2,11:21 PM,8:48,,,Zeller REBOUND (Off:0 Def:1),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,223,6,2,2,11:21 PM,8:43,Harrell S.FOUL (P1.T2) (J.Tiven),,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,225,3,11,2,11:21 PM,8:43,,,Ball Free Throw 1 of 2 (3 PTS),30 - 37,7,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,226,8,0,2,11:21 PM,8:43,,,SUB: Rozier FOR Graham,,,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,228,3,12,2,11:21 PM,8:43,,,Ball Free Throw 2 of 2 (4 PTS),31 - 37,6,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,229,1,6,2,11:22 PM,8:28,Horton-Tucker 1' Driving Layup (2 PTS),,,31 - 39,8,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,230,5,2,2,11:22 PM,8:14,Matthews STEAL (2 STL),,Rozier Lost Ball Turnover (P2.T8),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,202083,Wesley Matthews,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,232,1,50,2,11:22 PM,8:10,James Running Dunk (17 PTS) (Kuzma 1 AST),,,31 - 41,10,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,234,9,1,2,11:22 PM,8:10,,,Hornets Timeout: Regular (Reg.3 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,235,2,1,2,11:25 PM,7:57,,,MISS Rozier 26' 3PT Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,236,4,0,2,11:25 PM,7:54,James REBOUND (Off:0 Def:2),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,237,5,45,2,11:25 PM,7:50,James Out of Bounds - Bad Pass Turnover Turnover (P3.T4),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022000630,238,2,6,2,11:26 PM,7:40,,,MISS Ball 3' Driving Layup,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,239,4,0,2,11:26 PM,7:39,Kuzma REBOUND (Off:1 Def:2),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,240,1,6,2,11:26 PM,7:25,Horton-Tucker 2' Driving Layup (4 PTS),,,31 - 43,12,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,241,1,6,2,11:26 PM,7:06,,,Washington 2' Driving Layup (7 PTS) (Ball 4 AST),33 - 43,10,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,243,2,1,2,11:27 PM,6:37,MISS Horton-Tucker 28' 3PT Jump Shot,,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,244,4,0,2,11:27 PM,6:32,,,Zeller REBOUND (Off:0 Def:2),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,245,2,1,2,11:27 PM,6:25,,,MISS Monk 26' 3PT Jump Shot,,,5,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,246,4,0,2,11:27 PM,6:22,Harrell REBOUND (Off:3 Def:3),,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,247,1,1,2,11:27 PM,6:13,Matthews 26' 3PT Jump Shot (3 PTS) (Kuzma 2 AST),,,33 - 46,13,4,202083,Wesley Matthews,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,249,2,6,2,11:27 PM,5:56,,,MISS Ball 3' Driving Layup,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,250,4,0,2,11:28 PM,5:54,Harrell REBOUND (Off:3 Def:4),,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,251,1,41,2,11:28 PM,5:47,Horton-Tucker 2' Running Layup (6 PTS) (Kuzma 3 AST),,,33 - 48,15,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,253,2,1,2,11:28 PM,5:40,,,MISS Ball 26' 3PT Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,254,4,0,2,11:28 PM,5:35,Matthews REBOUND (Off:0 Def:2),,,,,4,202083,Wesley Matthews,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,256,5,1,2,11:28 PM,5:35,Horton-Tucker Bad Pass Turnover (P2.T5),,Washington STEAL (1 STL),,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,258,5,45,2,11:28 PM,5:29,,,Washington Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022000630,259,8,0,2,11:28 PM,5:29,SUB: Schroder FOR Horton-Tucker,,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,260,8,0,2,11:28 PM,5:29,SUB: Caruso FOR James,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,261,8,0,2,11:28 PM,5:29,,,SUB: Biyombo FOR Zeller,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,277,8,0,2,11:28 PM,5:29,,,SUB: Hayward FOR Monk,,,5,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,265,1,1,2,11:29 PM,5:21,Kuzma 26' 3PT Jump Shot (6 PTS) (Schroder 3 AST),,,33 - 51,18,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,267,2,5,2,11:29 PM,4:59,Kuzma BLOCK (1 BLK),,MISS Ball 8' Layup,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,1
+0022000630,269,4,0,2,11:29 PM,4:58,Harrell REBOUND (Off:3 Def:5),,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,270,2,41,2,11:29 PM,4:54,MISS Caruso 3' Running Layup,,Washington BLOCK (1 BLK),,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1
+0022000630,272,4,0,2,11:29 PM,4:52,,,Washington REBOUND (Off:0 Def:1),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,273,2,103,2,11:29 PM,4:49,,,MISS Rozier 25' 3PT Running Pull-Up Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,274,4,0,2,11:29 PM,4:45,,,Biyombo REBOUND (Off:1 Def:0),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,275,1,5,2,11:29 PM,4:43,,,Rozier 2' Layup (7 PTS) (Hayward 5 AST),35 - 51,16,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,279,9,1,2,11:30 PM,4:42,LAKERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,280,8,0,2,11:31 PM,4:42,SUB: Jones FOR Matthews,,,,,4,202083,Wesley Matthews,1610612747.0,Los Angeles,Lakers,LAL,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,281,8,0,2,11:31 PM,4:42,SUB: Caldwell-Pope FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,284,2,1,2,11:31 PM,4:28,MISS Kuzma 27' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,285,4,0,2,11:31 PM,4:26,,,Hayward REBOUND (Off:2 Def:3),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,286,1,1,2,11:31 PM,4:13,,,Washington 26' 3PT Jump Shot (10 PTS) (Rozier 1 AST),38 - 51,13,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,288,2,5,2,11:31 PM,4:04,MISS Kuzma 4' Layup,,Washington BLOCK (2 BLK),,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1
+0022000630,290,4,0,2,11:31 PM,4:02,,,Washington REBOUND (Off:0 Def:2),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,291,1,6,2,11:32 PM,3:55,,,Ball 4' Driving Layup (6 PTS),40 - 51,11,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,292,2,79,2,11:32 PM,3:38,MISS Schroder 11' Pullup Jump Shot,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,293,4,0,2,11:32 PM,3:38,,,Rozier REBOUND (Off:0 Def:3),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,294,2,3,2,11:32 PM,3:25,Caldwell-Pope BLOCK (1 BLK),,MISS Biyombo 5' Hook Shot,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,1
+0022000630,296,4,0,2,11:32 PM,3:24,Schroder REBOUND (Off:0 Def:2),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,297,6,28,2,11:32 PM,3:24,,,Hayward Personal Take Foul (P2.T2) (J.Tiven),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,299,8,0,2,11:32 PM,3:24,SUB: Morris FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,301,2,5,2,11:33 PM,3:11,MISS Caruso 4' Layup,,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,302,4,0,2,11:33 PM,3:09,,,Biyombo REBOUND (Off:1 Def:1),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,303,2,63,2,11:33 PM,3:03,,,MISS Hayward 8' Fadeaway Jumper,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,304,4,0,2,11:33 PM,2:58,Caldwell-Pope REBOUND (Off:0 Def:1),,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,305,1,6,2,11:33 PM,2:38,Schroder 5' Driving Layup (12 PTS),,,40 - 53,13,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,306,2,78,2,11:34 PM,2:20,,,MISS Rozier 10' Floating Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,307,4,0,2,11:34 PM,2:18,Jones REBOUND (Off:0 Def:3),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,308,2,101,2,11:34 PM,2:07,MISS Schroder 4' Driving Floating Jump Shot,,Biyombo BLOCK (4 BLK),,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,1
+0022000630,310,4,0,2,11:34 PM,2:01,Jones REBOUND (Off:1 Def:3),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,311,1,97,2,11:34 PM,2:01,Jones Tip Layup Shot (4 PTS),,,40 - 55,15,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,312,6,1,2,11:34 PM,1:57,Caruso P.FOUL (P1.T3) (J.Tiven),,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,314,8,0,2,11:34 PM,1:57,SUB: James FOR Caruso,,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,316,8,0,2,11:34 PM,1:57,,,SUB: Graham FOR Ball,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,348,9,7,2,11:35 PM,1:45,LAKERS Timeout: Coach Challenge (Full 2 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,321,18,5,2,11:35 PM,1:45,,Instant Replay2nd Period (11:35 PM EST),,40 - 55,15,0,318,,,,,,0,0,,,,,,1,0,,,,,,1
+0022000630,322,6,4,2,11:35 PM,1:45,,,Biyombo OFF.Foul (P3) (H.Workman),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,324,5,37,2,11:35 PM,1:45,,,Biyombo Offensive Foul Turnover (P2.T10),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022000630,325,8,0,2,11:37 PM,1:45,,,SUB: Bridges FOR Biyombo,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,327,8,0,2,11:38 PM,1:45,SUB: Kuzma FOR Jones,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,329,2,1,2,11:38 PM,1:23,MISS Schroder 26' 3PT Jump Shot,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,330,4,0,2,11:38 PM,1:19,,,Washington REBOUND (Off:0 Def:3),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,331,7,5,2,11:39 PM,1:14,Morris Violation:Kicked Ball (M.Ayotte),,,,,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0022000630,332,1,52,2,11:39 PM,1:06,,,Bridges 1' Alley Oop Dunk (2 PTS) (Graham 1 AST),42 - 55,13,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,334,2,1,2,11:39 PM,0:56,MISS Caldwell-Pope 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,335,4,0,2,11:39 PM,0:56,,,Hayward REBOUND (Off:2 Def:4),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,336,1,5,2,11:39 PM,0:48,,,Rozier 3' Layup (9 PTS) (Hayward 6 AST),44 - 55,11,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,338,6,2,2,11:39 PM,0:48,Caldwell-Pope S.FOUL (P2.PN) (H.Workman),,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,340,3,10,2,11:40 PM,0:48,,,Rozier Free Throw 1 of 1 (10 PTS),45 - 55,10,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,341,1,1,2,11:40 PM,0:35,James 27' 3PT Jump Shot (20 PTS) (Schroder 4 AST),,,45 - 58,13,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,343,2,1,2,11:40 PM,0:17,,,MISS Graham 29' 3PT Jump Shot,,,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,344,4,0,2,11:40 PM,0:17,Kuzma REBOUND (Off:1 Def:3),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,345,1,6,2,11:41 PM,0:00,James 2' Driving Layup (22 PTS),,,45 - 60,15,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,347,18,3,2,11:41 PM,0:00,,Instant Replay2nd Period (11:41 PM EST),,45 - 60,15,0,345,Terry Porter,,,,,0,0,,,,,,1,0,,,,,,0
+0022000630,346,13,0,2,11:41 PM,0:00,,End of 2nd Period (11:41 PM EST),,45 - 60,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000630,353,12,0,3,11:56 PM,12:00,,Start of 3rd Period (11:56 PM EST),,45 - 60,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,354,1,101,3,11:56 PM,11:38,,,Hayward 13' Driving Floating Jump Shot (4 PTS),47 - 60,13,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,355,6,2,3,11:56 PM,11:38,Jones S.FOUL (P2.T1) (H.Workman),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,357,3,10,3,11:57 PM,11:38,,,Hayward Free Throw 1 of 1 (5 PTS),48 - 60,12,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,358,2,1,3,11:57 PM,11:19,MISS James 25' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,359,4,0,3,11:57 PM,11:16,,,Ball REBOUND (Off:0 Def:3),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,360,1,78,3,11:57 PM,11:11,,,Rozier 8' Floating Jump Shot (12 PTS),50 - 60,10,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,362,2,1,3,11:57 PM,11:00,MISS Caldwell-Pope 25' 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,363,4,0,3,11:57 PM,10:58,,,Washington REBOUND (Off:0 Def:4),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,364,1,6,3,11:58 PM,10:42,,,Bridges 2' Driving Layup (4 PTS) (Hayward 7 AST),52 - 60,8,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,366,6,2,3,11:58 PM,10:42,Jones S.FOUL (P3.T2) (J.Tiven),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,368,3,10,3,11:58 PM,10:42,,,MISS Bridges Free Throw 1 of 1,,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,369,4,0,3,11:58 PM,10:42,Morris REBOUND (Off:0 Def:4),,,,,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,370,2,5,3,11:59 PM,10:24,MISS James 3' Layup,,Washington BLOCK (3 BLK),,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1
+0022000630,375,4,0,3,11:59 PM,10:21,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,372,10,0,3,11:59 PM,10:21,Jump Ball James vs. Washington: Tip to Schroder,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,1
+0022000630,376,2,78,3,11:59 PM,10:18,MISS Schroder 8' Floating Jump Shot,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,377,4,0,3,11:59 PM,10:18,James REBOUND (Off:1 Def:2),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,378,1,72,3,11:59 PM,10:15,James 1' Putback Layup (24 PTS),,,52 - 62,10,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,379,6,1,3,11:59 PM,10:04,James P.FOUL (P2.T3) (M.Ayotte),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,381,2,1,3,12:00 AM,9:59,,,MISS Bridges 26' 3PT Jump Shot,,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,382,4,0,3,12:00 AM,9:55,James REBOUND (Off:1 Def:3),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,383,6,4,3,12:00 AM,9:46,Jones OFF.Foul (P4) (J.Tiven),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,385,5,37,3,12:00 AM,9:46,Jones Offensive Foul Turnover (P1.T6),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022000630,386,1,1,3,12:00 AM,9:36,,,Rozier 27' 3PT Jump Shot (15 PTS) (Ball 5 AST),55 - 62,7,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,388,9,1,3,12:00 AM,9:33,LAKERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,389,8,0,3,12:03 AM,9:33,SUB: Kuzma FOR Jones,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,391,1,98,3,12:04 AM,9:21,James 1' Cutting Layup Shot (26 PTS) (Morris 2 AST),,,55 - 64,9,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,393,1,1,3,12:04 AM,9:06,,,Washington 25' 3PT Jump Shot (13 PTS) (Hayward 8 AST),58 - 64,6,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,395,2,1,3,12:04 AM,8:50,MISS James 28' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,396,4,0,3,12:04 AM,8:47,,,Ball REBOUND (Off:0 Def:4),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,397,1,1,3,12:04 AM,8:40,,,Ball 29' 3PT Jump Shot (9 PTS) (Hayward 9 AST),61 - 64,3,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,399,2,79,3,12:04 AM,8:22,MISS Schroder 15' Pullup Jump Shot,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,400,4,0,3,12:05 AM,8:19,,,Hayward REBOUND (Off:2 Def:5),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,401,2,3,3,12:05 AM,8:09,,,MISS Washington 7' Hook Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,402,4,0,3,12:05 AM,8:07,Morris REBOUND (Off:0 Def:5),,,,,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,403,2,5,3,12:05 AM,7:52,MISS Caldwell-Pope 3' Layup,,Washington BLOCK (4 BLK),,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1
+0022000630,405,4,0,3,12:05 AM,7:50,,,Washington REBOUND (Off:0 Def:5),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,406,6,2,3,12:05 AM,7:50,Schroder S.FOUL (P2.T4) (H.Workman),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,408,3,11,3,12:06 AM,7:50,,,MISS Ball Free Throw 1 of 2,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,409,4,1,3,12:06 AM,7:50,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,410,3,12,3,12:06 AM,7:50,,,Ball Free Throw 2 of 2 (10 PTS),62 - 64,2,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,411,6,1,3,12:06 AM,7:42,,,Ball P.FOUL (P1.T1) (J.Tiven),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,413,2,63,3,12:07 AM,7:35,MISS James 24' 3PT Fadeaway Jumper,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,414,4,0,3,12:07 AM,7:32,,,Ball REBOUND (Off:0 Def:5),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,415,5,45,3,12:07 AM,7:28,,,Ball Out of Bounds - Bad Pass Turnover Turnover (P3.T11),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022000630,416,2,80,3,12:07 AM,7:03,MISS Morris 21' Step Back Jump Shot,,,,,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,417,4,0,3,12:07 AM,7:01,,,Rozier REBOUND (Off:0 Def:4),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,418,1,6,3,12:08 AM,6:51,,,Ball 1' Driving Layup (12 PTS),64 - 64,TIE,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,419,9,1,3,12:08 AM,6:50,LAKERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,420,8,0,3,12:10 AM,6:50,SUB: Harrell FOR Schroder,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,421,8,0,3,12:10 AM,6:50,SUB: Caruso FOR Morris,,,,,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,424,2,75,3,12:11 AM,6:30,MISS Caruso 3' Driving Finger Roll Layup,,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,425,4,0,3,12:11 AM,6:27,,,Washington REBOUND (Off:0 Def:6),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,426,2,75,3,12:11 AM,6:10,,,MISS Rozier 4' Driving Finger Roll Layup,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,427,4,0,3,12:11 AM,6:08,James REBOUND (Off:1 Def:4),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,428,6,2,3,12:11 AM,6:06,,,Washington S.FOUL (P2.T2) (M.Ayotte),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,430,3,11,3,12:12 AM,6:06,Caruso Free Throw 1 of 2 (1 PTS),,,64 - 65,1,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,431,3,12,3,12:12 AM,6:06,MISS Caruso Free Throw 2 of 2,,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,432,4,0,3,12:12 AM,6:06,,,Bridges REBOUND (Off:0 Def:3),,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,433,2,3,3,12:12 AM,5:45,,,MISS Washington 4' Hook Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,434,4,0,3,12:12 AM,5:43,Harrell REBOUND (Off:3 Def:6),,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,435,1,1,3,12:13 AM,5:32,Kuzma 24' 3PT Jump Shot (9 PTS) (James 2 AST),,,64 - 68,4,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,437,1,63,3,12:13 AM,5:18,,,Ball 11' Fadeaway Jumper (14 PTS),66 - 68,2,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,438,1,1,3,12:13 AM,5:02,Kuzma 27' 3PT Jump Shot (12 PTS) (James 3 AST),,,66 - 71,5,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,440,2,78,3,12:13 AM,4:45,,,MISS Ball 12' Floating Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,441,4,0,3,12:14 AM,4:41,,,Bridges REBOUND (Off:1 Def:3),,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,442,2,1,3,12:14 AM,4:40,,,MISS Washington 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,443,4,0,3,12:14 AM,4:37,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000630,447,1,1,3,12:14 AM,4:28,Caldwell-Pope 3PT Jump Shot (3 PTS) (Caruso 2 AST),,,66 - 74,8,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,449,9,1,3,12:14 AM,4:26,,,Hornets Timeout: Regular (Reg.4 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,450,8,0,3,12:15 AM,4:26,,,SUB: Monk FOR Bridges,,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,451,8,0,3,12:15 AM,4:26,,,SUB: Graham FOR Ball,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,452,8,0,3,12:15 AM,4:26,,,SUB: Martin FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,456,2,1,3,12:16 AM,4:14,,,MISS Hayward 10' Jump Shot,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,457,4,0,3,12:16 AM,4:11,James REBOUND (Off:1 Def:5),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,458,5,2,3,12:16 AM,4:00,Kuzma Lost Ball Turnover (P1.T7),,Hayward STEAL (1 STL),,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,460,1,41,3,12:16 AM,3:57,,,Martin Running Layup (2 PTS) (Hayward 10 AST),68 - 74,6,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,462,2,1,3,12:16 AM,3:47,MISS Kuzma 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,463,4,0,3,12:16 AM,3:44,,,Hayward REBOUND (Off:2 Def:6),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,464,2,47,3,12:17 AM,3:22,,,MISS Monk 19' Turnaround Jump Shot,,,5,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,465,4,0,3,12:17 AM,3:16,,,Washington REBOUND (Off:1 Def:6),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,466,1,1,3,12:17 AM,3:15,,,Graham 25' 3PT Jump Shot (9 PTS) (Washington 1 AST),71 - 74,3,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,468,5,1,3,12:17 AM,3:05,Harrell Bad Pass Turnover (P1.T8),,Graham STEAL (2 STL),,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,470,2,103,3,12:17 AM,2:59,,,MISS Graham 27' 3PT Running Pull-Up Jump Shot,,,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,471,4,0,3,12:17 AM,2:56,James REBOUND (Off:1 Def:6),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,472,1,1,3,12:17 AM,2:43,James 27' 3PT Jump Shot (29 PTS),,,71 - 77,6,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,473,1,1,3,12:18 AM,2:29,,,Washington 26' 3PT Jump Shot (16 PTS) (Graham 2 AST),74 - 77,3,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,475,1,6,3,12:18 AM,2:10,Caldwell-Pope 4' Driving Layup (5 PTS) (James 4 AST),,,74 - 79,5,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,477,5,1,3,12:18 AM,1:55,Caruso STEAL (2 STL),,Monk Bad Pass Turnover (P1.T12),,,5,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,479,6,28,3,12:18 AM,1:52,,,Martin Personal Take Foul (P1.T3) (J.Tiven),,,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,481,8,0,3,12:18 AM,1:52,SUB: Schroder FOR Caldwell-Pope,,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,482,8,0,3,12:18 AM,1:52,SUB: Horton-Tucker FOR James,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,483,8,0,3,12:18 AM,1:52,,,SUB: Biyombo FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,487,8,0,3,12:18 AM,1:52,,,SUB: Ball FOR Hayward,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,489,2,1,3,12:19 AM,1:38,MISS Caruso 26' 3PT Jump Shot,,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,493,4,0,3,12:19 AM,1:31,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,490,10,0,3,12:20 AM,1:31,Jump Ball Harrell vs. Biyombo: Tip to Ball,,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1
+0022000630,494,1,108,3,12:20 AM,1:26,,,Biyombo Cutting Dunk Shot (7 PTS) (Ball 6 AST),76 - 79,3,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,496,2,1,3,12:20 AM,1:12,MISS Kuzma 26' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,497,4,0,3,12:20 AM,1:07,Harrell REBOUND (Off:4 Def:6),,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,498,1,107,3,12:20 AM,1:07,Harrell Tip Dunk Shot (7 PTS),,,76 - 81,5,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,499,1,1,3,12:21 AM,0:50,,,Martin 25' 3PT Jump Shot (5 PTS),79 - 81,2,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,500,2,1,3,12:21 AM,0:26,MISS Harrell 25' 3PT Jump Shot,,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,501,4,0,3,12:21 AM,0:22,Horton-Tucker REBOUND (Off:1 Def:0),,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,502,1,6,3,12:21 AM,0:22,Horton-Tucker 3' Driving Layup (8 PTS),,,79 - 83,4,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,503,5,4,3,12:22 AM,0:04,,,Monk Traveling Turnover (P2.T13),,,5,1628370,Malik Monk,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022000630,504,8,0,3,12:22 AM,0:04,,,SUB: Bridges FOR Ball,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,506,5,45,3,12:22 AM,0:01,Kuzma Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022000630,507,8,0,3,12:22 AM,0:01,,,SUB: Ball FOR Biyombo,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,510,5,45,3,12:23 AM,0:01,,,Ball Out of Bounds - Bad Pass Turnover Turnover (P4.T14),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022000630,511,13,0,3,12:23 AM,0:00,,End of 3rd Period (12:23 AM EST),,79 - 83,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000630,520,12,0,4,12:25 AM,12:00,,Start of 4th Period (12:25 AM EST),,79 - 83,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,521,1,1,4,12:26 AM,11:45,Schroder 27' 3PT Jump Shot (15 PTS) (Horton-Tucker 2 AST),,,79 - 86,7,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,523,6,26,4,12:26 AM,11:24,,,Ball Offensive Charge Foul (P2.T1) (M.Ayotte),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,525,5,37,4,12:26 AM,11:24,,,Ball Offensive Foul Turnover (P5.T15),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022000630,526,2,75,4,12:27 AM,11:05,MISS Schroder 4' Driving Finger Roll Layup,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,527,4,0,4,12:27 AM,11:02,Harrell REBOUND (Off:5 Def:6),,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,528,6,2,4,12:27 AM,11:01,,,Graham S.FOUL (P1.T2) (J.Tiven),,,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,530,3,11,4,12:27 AM,11:01,MISS Harrell Free Throw 1 of 2,,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,531,4,1,4,12:27 AM,11:01,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,534,3,12,4,12:27 AM,11:01,MISS Harrell Free Throw 2 of 2,,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,535,4,0,4,12:27 AM,11:01,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,532,8,0,4,12:28 AM,11:01,,,SUB: Washington FOR Biyombo,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,536,6,3,4,12:28 AM,11:01,Morris L.B.FOUL (P1.T1) (M.Ayotte),,,,,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,538,5,40,4,12:29 AM,10:50,,,Washington Out of Bounds Lost Ball Turnover (P2.T16),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022000630,539,5,4,4,12:29 AM,10:41,Schroder Traveling Turnover (P1.T10),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022000630,540,1,1,4,12:29 AM,10:33,,,Rozier 25' 3PT Jump Shot (18 PTS) (Ball 7 AST),82 - 86,4,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,542,5,2,4,12:29 AM,10:18,Horton-Tucker Lost Ball Turnover (P3.T11),,Martin STEAL (1 STL),,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,544,1,1,4,12:30 AM,10:13,,,Ball 27' 3PT Jump Shot (17 PTS) (Rozier 2 AST),85 - 86,1,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,546,9,1,4,12:30 AM,10:11,LAKERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,548,1,1,4,12:33 AM,9:58,Morris 3PT Jump Shot (5 PTS) (Schroder 5 AST),,,85 - 89,4,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,550,2,1,4,12:33 AM,9:38,,,MISS Graham 26' 3PT Jump Shot,,,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,551,4,0,4,12:33 AM,9:36,Schroder REBOUND (Off:0 Def:3),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,552,1,3,4,12:33 AM,9:27,Morris 9' Hook Shot (7 PTS) (Schroder 6 AST),,,85 - 91,6,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,554,9,1,4,12:33 AM,9:26,,,Hornets Timeout: Regular (Reg.5 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,555,8,0,4,12:36 AM,9:26,SUB: James FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,556,8,0,4,12:36 AM,9:26,,,SUB: Bridges FOR Graham,,,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,557,8,0,4,12:36 AM,9:26,,,SUB: Hayward FOR Martin,,,5,1628998,Cody Martin,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,561,2,1,4,12:36 AM,9:09,Morris BLOCK (1 BLK),,MISS Rozier 8' Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,1
+0022000630,562,4,0,4,12:36 AM,9:07,,,Washington REBOUND (Off:2 Def:6),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,563,2,6,4,12:36 AM,9:06,,,MISS Bridges 3' Driving Layup,,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,564,4,0,4,12:36 AM,9:04,Morris REBOUND (Off:0 Def:6),,,,,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,565,1,47,4,12:37 AM,8:50,James 15' Turnaround Jump Shot (31 PTS),,,85 - 93,8,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,566,2,98,4,12:37 AM,8:36,,,MISS Hayward 4' Cutting Layup Shot,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,567,4,0,4,12:37 AM,8:33,Schroder REBOUND (Off:0 Def:4),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,568,6,1,4,12:37 AM,8:33,,,Ball P.FOUL (P3.T3) (M.Ayotte),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,570,1,1,4,12:37 AM,8:26,Schroder 25' 3PT Jump Shot (18 PTS) (James 5 AST),,,85 - 96,11,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,572,1,75,4,12:38 AM,8:09,,,Bridges 3' Driving Finger Roll Layup (6 PTS) (Rozier 3 AST),87 - 96,9,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,573,1,6,4,12:38 AM,8:01,Schroder 2' Driving Layup (20 PTS),,,87 - 98,11,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,574,1,6,4,12:38 AM,7:53,,,Ball 2' Driving Layup (19 PTS),89 - 98,9,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,575,1,73,4,12:38 AM,7:29,Horton-Tucker 3' Driving Reverse Layup (10 PTS),,,89 - 100,11,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,577,1,101,4,12:39 AM,7:23,,,Ball 9' Driving Floating Jump Shot (21 PTS),91 - 100,9,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,578,6,2,4,12:39 AM,7:23,Matthews S.FOUL (P1.T2) (J.Tiven),,,,,4,202083,Wesley Matthews,1610612747.0,Los Angeles,Lakers,LAL,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,580,8,0,4,12:39 AM,7:23,SUB: Kuzma FOR Morris,,,,,4,202693,Markieff Morris,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,582,8,0,4,12:39 AM,7:23,SUB: Caldwell-Pope FOR Matthews,,,,,4,202083,Wesley Matthews,1610612747.0,Los Angeles,Lakers,LAL,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,583,8,0,4,12:39 AM,7:23,SUB: Caruso FOR Schroder,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,586,3,10,4,12:39 AM,7:23,,,Ball Free Throw 1 of 1 (22 PTS),92 - 100,8,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,587,6,2,4,12:40 AM,7:10,,,Ball S.FOUL (P4.T4) (J.Tiven),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,589,3,11,4,12:40 AM,7:10,Horton-Tucker Free Throw 1 of 2 (11 PTS),,,92 - 101,9,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,590,3,12,4,12:40 AM,7:10,Horton-Tucker Free Throw 2 of 2 (12 PTS),,,92 - 102,10,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,591,5,1,4,12:40 AM,7:01,James STEAL (1 STL),,Ball Bad Pass Turnover (P6.T17),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,594,6,9,4,12:41 AM,7:01,,,Ball C.P.FOUL (P5.PN) (H.Workman),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,596,18,0,4,12:41 AM,7:01,,Instant Replay4th Period (12:41 AM EST),,92 - 102,10,0,594,,,,,,0,0,,,,,,1,0,,,,,,0
+0022000630,597,3,25,4,12:43 AM,7:01,James Free Throw Clear Path 1 of 2 (32 PTS),,,92 - 103,11,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,598,3,26,4,12:43 AM,7:01,James Free Throw Clear Path 2 of 2 (33 PTS),,,92 - 104,12,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,599,8,0,4,12:44 AM,7:01,,,SUB: Graham FOR Ball,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,601,2,1,4,12:44 AM,6:40,MISS James 28' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,602,4,0,4,12:44 AM,6:36,,,Rozier REBOUND (Off:0 Def:5),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,603,6,1,4,12:44 AM,6:30,Horton-Tucker P.FOUL (P2.T3) (J.Tiven),,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,605,8,0,4,12:44 AM,6:30,SUB: Schroder FOR Horton-Tucker,,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022000630,607,2,1,4,12:45 AM,6:19,,,MISS Rozier 22' Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,608,4,0,4,12:45 AM,6:16,,,Bridges REBOUND (Off:2 Def:3),,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,609,2,1,4,12:45 AM,6:14,,,MISS Rozier 30' 3PT Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,610,4,0,4,12:45 AM,6:11,Caruso REBOUND (Off:2 Def:2),,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,611,2,1,4,12:45 AM,6:03,MISS Schroder 26' 3PT Jump Shot,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,612,4,0,4,12:45 AM,6:00,,,Bridges REBOUND (Off:2 Def:4),,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,613,1,41,4,12:45 AM,5:58,,,Rozier 4' Running Layup (20 PTS) (Bridges 2 AST),94 - 104,10,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,615,7,2,4,12:45 AM,5:58,James Violation:Defensive Goaltending (H.Workman),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022000630,616,5,2,4,12:46 AM,5:45,Schroder Lost Ball Turnover (P2.T12),,Rozier STEAL (1 STL),,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,618,6,2,4,12:46 AM,5:39,Caruso S.FOUL (P2.T4) (H.Workman),,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,620,3,11,4,12:46 AM,5:39,,,Graham Free Throw 1 of 2 (10 PTS),95 - 104,9,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,621,3,12,4,12:46 AM,5:39,,,MISS Graham Free Throw 2 of 2,,,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,622,4,0,4,12:46 AM,5:37,Caruso REBOUND (Off:2 Def:3),,,,,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,623,2,1,4,12:47 AM,5:19,MISS Kuzma 26' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,624,4,0,4,12:47 AM,5:15,,,Bridges REBOUND (Off:2 Def:5),,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,625,1,7,4,12:47 AM,5:04,,,Washington Dunk (18 PTS) (Graham 3 AST),97 - 104,7,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022000630,627,1,98,4,12:48 AM,4:38,Caruso 2' Cutting Layup Shot (3 PTS) (James 6 AST),,,97 - 106,9,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,630,1,1,4,12:48 AM,4:15,,,Hayward 10' Jump Shot (7 PTS),99 - 106,7,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,631,1,6,4,12:49 AM,3:58,Schroder 3' Driving Layup (22 PTS),,,99 - 108,9,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,632,6,4,4,12:49 AM,3:45,,,Washington OFF.Foul (P3) (J.Tiven),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,634,5,37,4,12:49 AM,3:45,,,Washington Offensive Foul Turnover (P3.T18),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022000630,635,2,47,4,12:49 AM,3:29,MISS James 13' Turnaround Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,636,4,0,4,12:49 AM,3:25,,,Graham REBOUND (Off:0 Def:2),,,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,637,2,6,4,12:50 AM,3:18,James BLOCK (1 BLK),,MISS Rozier 4' Driving Layup,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1
+0022000630,639,4,0,4,12:50 AM,3:16,,,Bridges REBOUND (Off:3 Def:5),,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,640,2,1,4,12:50 AM,3:05,,,MISS Washington 21' Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,641,4,0,4,12:50 AM,3:03,Caldwell-Pope REBOUND (Off:0 Def:2),,,,,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,642,9,1,4,12:50 AM,3:01,LAKERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,643,2,1,4,12:52 AM,2:43,MISS Kuzma 26' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,644,4,0,4,12:52 AM,2:39,,,Bridges REBOUND (Off:3 Def:6),,,5,1628970,Miles Bridges,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,645,6,1,4,12:52 AM,2:36,Schroder P.FOUL (P3.PN) (M.Ayotte),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022000630,647,3,11,4,12:53 AM,2:36,,,Graham Free Throw 1 of 2 (11 PTS),100 - 108,8,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,648,3,12,4,12:53 AM,2:36,,,Graham Free Throw 2 of 2 (12 PTS),101 - 108,7,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,649,1,5,4,12:53 AM,2:19,James 2' Layup (35 PTS) (Schroder 7 AST),,,101 - 110,9,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,651,2,1,4,12:53 AM,2:05,,,MISS Graham 25' 3PT Jump Shot,,,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,652,4,0,4,12:54 AM,2:02,James REBOUND (Off:1 Def:7),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,653,1,6,4,12:54 AM,1:43,Caldwell-Pope 1' Driving Layup (7 PTS) (Caruso 3 AST),,,101 - 112,11,4,203484,Kentavious Caldwell-Pope,1610612747.0,Los Angeles,Lakers,LAL,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022000630,655,9,1,4,12:54 AM,1:43,,,Hornets Timeout: Regular (Reg.6 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000630,656,8,0,4,12:55 AM,1:43,,,SUB: Ball FOR Graham,,,5,1628984,Devonte' Graham,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022000630,658,1,1,4,12:56 AM,1:33,,,Ball 4' Jump Shot (24 PTS),103 - 112,9,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,659,6,1,4,12:56 AM,1:23,,,Rozier P.FOUL (P1.PN) (J.Tiven),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,661,3,11,4,12:57 AM,1:23,Caruso Free Throw 1 of 2 (4 PTS),,,103 - 113,10,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,662,3,12,4,12:57 AM,1:23,Caruso Free Throw 2 of 2 (5 PTS),,,103 - 114,11,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,663,6,4,4,12:57 AM,1:12,,,Hayward OFF.Foul (P3) (J.Tiven),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1627936,Alex Caruso,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022000630,665,5,37,4,12:57 AM,1:12,,,Hayward Offensive Foul Turnover (P4.T19),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022000630,666,2,63,4,12:58 AM,0:47,MISS James 17' Fadeaway Jumper,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,667,4,0,4,12:58 AM,0:45,,,Hayward REBOUND (Off:2 Def:7),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,668,2,1,4,12:58 AM,0:39,,,MISS Ball 28' 3PT Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,669,4,0,4,12:58 AM,0:37,Kuzma REBOUND (Off:1 Def:4),,,,,4,1628398,Kyle Kuzma,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,670,1,6,4,12:59 AM,0:15,James 3' Driving Layup (37 PTS),,,103 - 116,13,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022000630,671,1,78,4,12:59 AM,0:06,,,Ball 9' Floating Jump Shot (26 PTS),105 - 116,11,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022000630,672,13,0,4,12:59 AM,0:00,,End of 4th Period (12:59 AM EST),,105 - 116,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
