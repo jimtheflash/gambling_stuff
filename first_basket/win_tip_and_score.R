@@ -121,4 +121,6 @@ test_df <-
             score_first = sum(home_score_first),
             score_first_percent = mean(home_score_first))
 
+home_win_tip <- mean(possession_binded$home_won_tip)
+print(home_win_tip)
 

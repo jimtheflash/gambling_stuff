@@ -9,10 +9,10 @@ library(tidyverse)
 # Current model uses last two completed seasons and current season as train data
 # To run model for current day's ratings, train_test_date_split is set to current day
 # Sets furthest date that train data goes back
-earliest_train_data_date <- "2018-09-01"
+earliest_train_data_date <- "2016-09-01"
 # Setting date we want to start logging test data on 
 # Default uses today's date so that all completed games are used in calcualting ratings
-train_test_date_split <- Sys.Date() #"2018-09-01"
+train_test_date_split <- "2018-09-01"
 
 # Read in all player csvs
 file_list <- list.files(path="./data/nba_player_info/")
@@ -64,6 +64,8 @@ unique_games <- unique(gamelogs$GAME_ID)
 
 # Initializing list
 possession_list <- list()
+
+home_tip_win_parameter <- .508
 
 for (g in unique_games) {
   
@@ -373,8 +375,8 @@ for (i in 1:length(unique_dates$game_date)) {
                                          away_jumps < 75 ~ away_height_win*.25 + away_win_rate*.75,
                                          away_jumps < 100 ~ away_height_win*.1 + away_win_rate*.9,
                                          TRUE ~ away_win_rate)) %>%
-    mutate(home_exp_win_adj = (home_win_rate_adj*(1-away_win_rate_adj)) / 
-             ((home_win_rate_adj*(1-away_win_rate_adj)) + (away_win_rate_adj*(1-home_win_rate_adj))))
+    mutate(home_exp_win_adj = (home_win_rate_adj*(1-away_win_rate_adj)*home_tip_win_parameter) / 
+                              ((home_win_rate_adj*(1-away_win_rate_adj)*home_tip_win_parameter) + (away_win_rate_adj*(1-home_win_rate_adj)*(1-home_tip_win_parameter))))
   
   # Viewing performance of fitted win probabilities by expected win proabibility buckets (every 10 percent are grouped)
   train_buckets <-
@@ -421,8 +423,10 @@ for (i in 1:length(unique_dates$game_date)) {
   
   test_df_exp_win <-
     test_df_filtered %>%
-    mutate(exp_win = (home_exp_win*(1-away_exp_win)) / ((home_exp_win*(1-away_exp_win)) + (away_exp_win*(1-home_exp_win))),
-           exp_win_adj = (home_exp_win_adj*(1-away_exp_win_adj)) / ((home_exp_win_adj*(1-away_exp_win_adj)) + (away_exp_win_adj*(1-home_exp_win_adj))))
+    mutate(exp_win = (home_exp_win*(1-away_exp_win)*home_tip_win_parameter) / 
+                     ((home_exp_win*(1-away_exp_win)*home_tip_win_parameter) + (away_exp_win*(1-home_exp_win)*(1-home_tip_win_parameter))),
+           exp_win_adj = (home_exp_win_adj*(1-away_exp_win_adj)*home_tip_win_parameter) / 
+                         ((home_exp_win_adj*(1-away_exp_win_adj)*home_tip_win_parameter) + (away_exp_win_adj*(1-home_exp_win_adj)*(1-home_tip_win_parameter))))
   
   test_df_exp_win <-
     test_df_exp_win %>%
@@ -476,32 +480,38 @@ test_score_first_by_exp_tip <-
             true_score_percent = mean(home_score_first),
             .groups = 'drop') 
 
-# Determines Brier Score for backtesting
+# Determines Brier Score for win tip backtesting
 brier_score_df <-
   test_df_exp_win_master %>%
   mutate(brier_score_normal = (final_exp_win - home_won_tip)^2,
          brier_score_height = (final_exp_win_adj - home_won_tip)^2) %>%
   filter(!is.na(brier_score_normal), !is.na(brier_score_height))
 
+brier_score <- mean(brier_score_df$brier_score_normal)
+message("brier score of win tips is equal to ", round(brier_score, 5))
+
 brier_score <- mean(brier_score_df$brier_score_height)
-message("brier_score is equal to ", round(brier_score, 5))
+message("brier score of height win tips is equal to ", round(brier_score, 5))
 
+brier_buckets_tip <-
+  brier_score_df %>%
+  mutate(home_jumps_buckets = cut(home_jumps, breaks = seq(0, 450, by = 50), right = FALSE),
+         away_jumps_buckets = cut(away_jumps, breaks = seq(0, 450, by = 50), right = FALSE)) %>%
+  group_by(home_jumps_buckets, away_jumps_buckets) %>%
+  summarise(jumps = n(),
+            brier_avg = mean(brier_score_height),
+            .groups = 'drop') 
 
-# Determines Brier Score for backtesting
+# Determines Brier Score for score first backtesting
 brier_score_first_df <-
   test_df_exp_win_master %>%
-  mutate(brier_score_height = (final_exp_win_adj - home_score_first)^2,
-         brier_score_prob = (exp_score_first - home_score_first)^2) %>%
-  filter(!is.na(brier_score_height), !is.na(brier_score_prob))
-
-brier_score <- mean(brier_score_first_df$brier_score_height)
-message("brier_score is equal to ", round(brier_score, 5))
+  mutate(brier_score_prob = (exp_score_first - home_score_first)^2) %>%
+  filter(!is.na(brier_score_prob))
 
 brier_score <- mean(brier_score_first_df$brier_score_prob)
-message("brier_score is equal to ", round(brier_score, 5))
+message("brier score of score first is equal to ", round(brier_score, 5))
 
-
-brier_buckets <-
+brier_buckets_score <-
   brier_score_first_df %>%
   mutate(home_jumps_buckets = cut(home_jumps, breaks = seq(0, 450, by = 50), right = FALSE),
          away_jumps_buckets = cut(away_jumps, breaks = seq(0, 450, by = 50), right = FALSE)) %>%

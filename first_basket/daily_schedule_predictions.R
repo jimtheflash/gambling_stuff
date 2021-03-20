@@ -11,6 +11,8 @@ current_centers <- fread("data/curated/nba/current_centers.csv")
 current_starters <- fread("data/curated/nba/current_starters.csv")
 player_usage <- fread("data/curated/nba/current_season_usage_rate.csv.gz")
 
+home_tip_win_parameter <- .508
+
 first_shot_concat <-
   first_shot %>%
   mutate(concat_field = paste0(team_abbrev, player))
@@ -63,8 +65,8 @@ today_games_jumper <-
          away_wins = wins,
          away_win_rate = win_rate,
          away_rating = exp_win_adj) %>%
-  mutate(home_exp_win = (home_rating*(1-away_rating)) / 
-                            ((home_rating*(1-away_rating)) + (away_rating*(1-home_rating))),
+  mutate(home_exp_win = (home_rating*(1-away_rating)*home_tip_win_parameter) / 
+                            ((home_rating*(1-away_rating)*home_tip_win_parameter) + (away_rating*(1-home_rating)*(1-home_tip_win_parameter))),
          away_exp_win = 1 - home_exp_win,
          exp_winning_jumper = if_else(home_exp_win >= away_exp_win, home_jumper, away_jumper),
          exp_win_tip = if_else(home_exp_win >= away_exp_win, home_exp_win, away_exp_win),
@@ -153,6 +155,7 @@ team_to_score_first <-
 #   if (nrow(player_1_data) == 0 | nrow(player_2_data) == 0) {
 #     stop("Check to make sure you spelled a player's name correctly!")
 #   }
+#   include hoem win parameter
 #   
 #   player_1_win <- 
 #     round((player_1_data$exp_win*(1-player_2_data$exp_win)) / 
