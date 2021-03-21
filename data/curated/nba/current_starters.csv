@@ -4,11 +4,6 @@ ATL,1,SG,Kevin Huerter
 ATL,1,SF,Tony Snell
 ATL,1,PF,John Collins
 ATL,1,C,Clint Capela
-ATL,2,PG,Trae Young
-ATL,2,SG,Kevin Huerter
-ATL,2,SF,Tony Snell
-ATL,2,PF,Danilo Gallinari
-ATL,2,C,John Collins
 BKN,1,PG,Kyrie Irving
 BKN,1,SG,James Harden
 BKN,1,SF,Joe Harris
@@ -23,7 +18,7 @@ CHA,1,PG,Terry Rozier
 CHA,1,SG,LaMelo Ball
 CHA,1,SF,Gordon Hayward
 CHA,1,PF,P.J. Washington
-CHA,1,C,Cody Zeller
+CHA,1,C,Bismack Biyombo
 CHI,1,PG,Tomas Satoransky
 CHI,1,SG,Patrick Williams
 CHI,1,SF,Zach LaVine
@@ -49,11 +44,11 @@ DET,1,SG,Delon Wright
 DET,1,SF,Saddiq Bey
 DET,1,PF,Jerami Grant
 DET,1,C,Mason Plumlee
-GSW,1,PG,Nico Mannion
-GSW,1,SG,Andrew Wiggins
-GSW,1,SF,Juan Toscano-Anderson
+GSW,1,PG,Jordan Poole
+GSW,1,SG,Kelly Oubre Jr.
+GSW,1,SF,Alen Smailagic
 GSW,1,PF,Draymond Green
-GSW,1,C,Kevon Looney
+GSW,1,C,Andrew Wiggins
 HOU,1,PG,John Wall
 HOU,1,SG,Victor Oladipo
 HOU,1,SF,Danuel House Jr.
@@ -68,12 +63,17 @@ LAC,1,PG,Reggie Jackson
 LAC,1,SG,Paul George
 LAC,1,SF,Kawhi Leonard
 LAC,1,PF,Marcus Morris Sr.
-LAC,1,C,Ivica Zubac
+LAC,1,C,Serge Ibaka
 LAL,1,PG,Dennis Schroder
 LAL,1,SG,Kentavious Caldwell-Pope
-LAL,1,SF,LeBron James
-LAL,1,PF,Markieff Morris
+LAL,1,SF,Markieff Morris
+LAL,1,PF,Kyle Kuzma
 LAL,1,C,Damian Jones
+LAL,2,PG,Dennis Schroder
+LAL,1,SG,Kentavious Caldwell-Pope
+LAL,1,SF,Markieff Morris
+LAL,1,PF,Kyle Kuzma
+LAL,1,C,Marc Gasol
 MEM,1,PG,Ja Morant
 MEM,1,SG,Grayson Allen
 MEM,1,SF,Dillon Brooks
@@ -99,23 +99,23 @@ NOP,1,SG,Eric Bledsoe
 NOP,1,SF,Brandon Ingram
 NOP,1,PF,Zion Williamson
 NOP,1,C,Steven Adams
-NYK,1,PG,Immanuel Quickley
+NYK,1,PG,Elfrid Payton
 NYK,1,SG,RJ Barrett
 NYK,1,SF,Reggie Bullock
 NYK,1,PF,Julius Randle
 NYK,1,C,Nerlens Noel
-OKC,1,PG,Theo Maledon
-OKC,1,SG,Shai Gilgeous-Alexander
+OKC,1,PG,Ty Jerome
+OKC,1,SG,Luguentz Dort
 OKC,1,SF,Isaiah Roby
 OKC,1,PF,Aleksej Pokusevski
-OKC,1,C,Al Horford
+OKC,1,C,Moses Brown
 ORL,1,PG,Michael Carter-Williams
 ORL,1,SG,Evan Fournier
 ORL,1,SF,Aaron Gordon
 ORL,1,PF,Al-Farouq Aminu
 ORL,1,C,Nikola Vucevic
 PHI,1,PG,Ben Simmons
-PHI,1,SG,Seth Curry
+PHI,1,SG,Shake Milton
 PHI,1,SF,Danny Green
 PHI,1,PF,Tobias Harris
 PHI,1,C,Tony Bradley
@@ -134,7 +134,7 @@ SAC,1,SG,Buddy Hield
 SAC,1,SF,Tyrese Haliburton
 SAC,1,PF,Harrison Barnes
 SAC,1,C,Richaun Holmes
-SAS,1,PG,Dejounte Murray
+SAS,1,PG,DeMar DeRozan
 SAS,1,SG,Lonnie Walker IV
 SAS,1,SF,Derrick White
 SAS,1,PF,Keldon Johnson
@@ -142,8 +142,8 @@ SAS,1,C,Jakob Poeltl
 TOR,1,PG,Kyle Lowry
 TOR,1,SG,Fred VanVleet
 TOR,1,SF,Norman Powell
-TOR,1,PF,Pascal Siakam
-TOR,1,C,Chris Boucher
+TOR,1,PF,OG Anunoby
+TOR,1,C,Pascal Siakam
 UTA,1,PG,Mike Conley
 UTA,1,SG,Donovan Mitchell
 UTA,1,SF,Royce O'Neale
