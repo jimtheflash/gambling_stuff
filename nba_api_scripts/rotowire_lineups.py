@@ -74,3 +74,11 @@ for matchup_html in matchups_html:
 lineup_df = pd.DataFrame(lineup_players_list).drop_duplicates()
 Path(curated_filename).parent.mkdir(parents=True, exist_ok=True)
 lineup_df.to_csv(curated_filename, index=False)
+
+
+def main():
+    pass
+
+
+if __name__ == "__main__":
+    main()
