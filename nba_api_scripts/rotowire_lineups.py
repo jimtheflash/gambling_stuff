@@ -89,6 +89,15 @@ def main():
     curated_filename = Path.joinpath(
         base_path, "data", "02_curated", "nba_lineups", *file_date, "rotowire.csv"
     )
+    Path(raw_filename).parent.mkdir(parents=True, exist_ok=True)
+    with open(raw_filename, "w", encoding="utf-8") as fp:
+        fp.write(str(lineups_html))
+
+    matchups_html = [
+        x
+        for x in lineups_html.find_all("div", attrs={"class": "lineup__box"})
+        if "lineup__teams" in str(x)
+    ]
 
 
 if __name__ == "__main__":
