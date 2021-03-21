@@ -77,7 +77,12 @@ lineup_df.to_csv(curated_filename, index=False)
 
 
 def main():
-    pass
+    base_url = "https://www.rotowire.com/basketball/nba-lineups.php"
+    response = req.get(base_url)
+    soup = BeautifulSoup(response.text, features="html.parser")
+    lineups_html = soup.find("div", attrs={"class": "lineups"})
+    file_date = str(date.today()).split("-")
+    base_path = Path(__file__).parent.parent.absolute()
 
 
 if __name__ == "__main__":
