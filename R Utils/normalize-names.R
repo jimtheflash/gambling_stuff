@@ -40,7 +40,8 @@ normalize_names <- function(x, key, warn = TRUE) {
   
   # Yell if there is something in the list that was not in the names OR aliases
   # We can just look at Names now, because if it WAS in the aliases, it would
-  # have been replaced by a name.  So any leftover item in the list that 
+  # have been replaced by a name.  So any leftover item in the list that isn't
+  # in "all_names" is something we didn't expect to see
   all_names <- sapply(key, '[[', 'name')
   if (!all(x %in% all_names) && warn == TRUE) {
     msg <- paste0("X contained Strings not found in 'name' - ", 
