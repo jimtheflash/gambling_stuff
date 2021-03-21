@@ -83,6 +83,12 @@ def main():
     lineups_html = soup.find("div", attrs={"class": "lineups"})
     file_date = str(date.today()).split("-")
     base_path = Path(__file__).parent.parent.absolute()
+    raw_filename = Path.joinpath(
+        base_path, "data", "01_raw", "nba_lineups", *file_date, "rotowire.html"
+    )
+    curated_filename = Path.joinpath(
+        base_path, "data", "02_curated", "nba_lineups", *file_date, "rotowire.csv"
+    )
 
 
 if __name__ == "__main__":
