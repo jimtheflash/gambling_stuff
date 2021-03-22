@@ -52,6 +52,7 @@ def lineups_from_matchups_html(matchups_html):
 
 
 def main():
+    file_create = str(datetime.now())
     file_date = datetime.now().strftime(r"%Y-%m-%d-%H").split("-")
     base_path = Path(__file__).parent.parent.absolute()
     raw_filename = Path.joinpath(
@@ -75,6 +76,7 @@ def main():
     ]
     lineup_players_list = lineups_from_matchups_html(matchups_html)
     lineup_df = pd.DataFrame(lineup_players_list).drop_duplicates()
+    lineup_df['CREATE_DTTM'] = file_create
     Path(curated_filename).parent.mkdir(parents=True, exist_ok=True)
     lineup_df.to_csv(curated_filename, index=False)
 
