@@ -1,23 +1,8 @@
 library(tidyverse)
 
 # Relevant gamelogs
-gamelogs_16_17 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2016-17.csv', 
-                           colClasses = 'character')
-gamelogs_17_18 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2017-18.csv', 
-                           colClasses = 'character')
-gamelogs_18_19 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2018-19.csv', 
-                           colClasses = 'character')
-gamelogs_19_20 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2019-20.csv', 
-                           colClasses = 'character')
-gamelogs_20_21 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2020-21.csv', 
-                           colClasses = 'character')
-
-gamelogs <-
-  rbind.data.frame(gamelogs_16_17, 
-                   gamelogs_17_18, 
-                   gamelogs_18_19, 
-                   gamelogs_19_20, 
-                   gamelogs_20_21)
+gamelogs <- read.csv('./data/nba_gamelogs/nba_gamelogs_2020-21.csv', 
+                     colClasses = 'character')
 
 gamelogs <-
   gamelogs %>%

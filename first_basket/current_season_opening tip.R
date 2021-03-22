@@ -82,6 +82,4 @@ jump_balls_df <-
             win_rate = wins/jumps,
             .groups = 'drop')
 
-view(jump_balls_df)
-
 write.csv(jump_balls_df, "data/curated/nba/current_season_opening_tip.csv.gz", row.names = FALSE)
