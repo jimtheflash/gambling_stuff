@@ -12,7 +12,7 @@ library(tidyverse)
 earliest_train_data_date <- "2015-09-01"
 # Setting date we want to start logging test data on 
 # Default uses today's date so that all completed games are used in calcualting ratings
-train_test_date_split <- "2018-09-01"
+train_test_date_split <- Sys.Date()
 
 # Read in all player csvs
 file_list <- list.files(path="./data/nba_player_info/")
