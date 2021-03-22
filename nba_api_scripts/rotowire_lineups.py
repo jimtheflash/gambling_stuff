@@ -55,6 +55,12 @@ def main():
     file_create = str(datetime.now())
     file_date = datetime.now().strftime(r"%Y-%m-%d-%H").split("-")
     base_path = Path(__file__).parent.parent.absolute()
+    raw_current_filename = Path.joinpath(
+        base_path, "data", "01_raw", "nba_lineups", "rotowire.html"
+    )
+    curated_current_filename = Path.joinpath(
+        base_path, "data", "02_curated", "nba_lineups", "rotowire.csv"
+    )
     raw_filename = Path.joinpath(
         base_path, "data", "01_raw", "nba_lineups", *file_date, "rotowire.html"
     )
@@ -68,6 +74,8 @@ def main():
     Path(raw_filename).parent.mkdir(parents=True, exist_ok=True)
     with open(raw_filename, "w", encoding="utf-8") as fp:
         fp.write(str(lineups_html))
+    with open(raw_current_filename, "w", encoding="utf-8") as fp:
+        fp.write(str(lineups_html))
 
     matchups_html = [
         x
@@ -79,6 +87,7 @@ def main():
     lineup_df['CREATE_DTTM'] = file_create
     Path(curated_filename).parent.mkdir(parents=True, exist_ok=True)
     lineup_df.to_csv(curated_filename, index=False)
+    lineup_df.to_csv(curated_current_filename, index=False)
 
 
 if __name__ == "__main__":
