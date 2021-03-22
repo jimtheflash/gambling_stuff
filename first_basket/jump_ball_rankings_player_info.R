@@ -3,16 +3,16 @@ library(tidyverse)
 # Parameters
 
 # Example - for full run where you use all history and start the test data at 2019-2020 season
-# earliest_train_data_date <- "2016-09-01"
+# earliest_train_data_date <- "2015-09-01"
 # train_test_date_split <- "2018-09-01"
 
 # Current model uses last two completed seasons and current season as train data
 # To run model for current day's ratings, train_test_date_split is set to current day
 # Sets furthest date that train data goes back
-earliest_train_data_date <- "2018-09-01"
+earliest_train_data_date <- "2015-09-01"
 # Setting date we want to start logging test data on 
 # Default uses today's date so that all completed games are used in calcualting ratings
-train_test_date_split <- Sys.Date()
+train_test_date_split <- "2018-09-01"
 
 # Read in all player csvs
 file_list <- list.files(path="./data/nba_player_info/")
@@ -37,6 +37,8 @@ player_info_mutated <-
   select(PERSON_ID, HEIGHT, WEIGHT)
 
 # Relevant gamelogs
+gamelogs_15_16 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2015-16.csv', 
+                           colClasses = 'character')
 gamelogs_16_17 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2016-17.csv', 
                            colClasses = 'character')
 gamelogs_17_18 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2017-18.csv', 
@@ -49,7 +51,8 @@ gamelogs_20_21 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2020-21.csv',
                            colClasses = 'character')
 
 gamelogs <-
-  rbind.data.frame(gamelogs_16_17, 
+  rbind.data.frame(gamelogs_15_16,
+                   gamelogs_16_17, 
                    gamelogs_17_18, 
                    gamelogs_18_19, 
                    gamelogs_19_20, 
@@ -181,8 +184,8 @@ for (i in 1:length(unique_dates$game_date)) {
   # Splitting data into train and test sets
   possession_train <-
     possession_df %>%
-    filter(game_date < unique_dates$game_date[i])
-           #game_date >= unique_dates$game_date[i]) #- lubridate::years(2))
+    filter(game_date < unique_dates$game_date[i],
+           game_date >= unique_dates$game_date[i] - lubridate::days(760))
   
   possession_test <-
     possession_df %>%
@@ -466,8 +469,8 @@ test_buckets_height_score <-
   mutate(exp_score_first_prob = cut(exp_score_first, breaks = seq(0, 100, by = 0.05), right = FALSE)) %>%
   group_by(exp_score_first_prob) %>%
   summarise(jumps = n(),
-            true_win_percent = mean(home_won_tip),
-            true_score_percent = mean(home_score_first),
+            tip_win_percent = mean(home_won_tip),
+            first_score_percent = mean(home_score_first),
             .groups = 'drop') 
 
 test_score_first_by_exp_tip <-
@@ -475,9 +478,9 @@ test_score_first_by_exp_tip <-
   mutate(exp_win_tip_prob = cut(final_exp_win_adj, breaks = seq(0, 100, by = 0.1), right = FALSE)) %>%
   group_by(exp_win_tip_prob) %>%
   summarise(jumps = n(),
-            true_win_percent = mean(home_won_tip),
-            exp_score_percent = mean(exp_score_first),
-            true_score_percent = mean(home_score_first),
+            tip_win_percent = mean(home_won_tip),
+            exp_first_score_percent = mean(exp_score_first),
+            true_first_score_percent = mean(home_score_first),
             .groups = 'drop') 
 
 # Determines Brier Score for win tip backtesting

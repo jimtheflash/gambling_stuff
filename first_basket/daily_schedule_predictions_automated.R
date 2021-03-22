@@ -1,6 +1,6 @@
 library(data.table)
 library(tidyverse)
-library(lubr)
+library(lubridate)
 
 today_year <- as.character(year(Sys.Date()))
 today_month <- str_pad(month(Sys.Date()), 2, pad = "0")
@@ -15,7 +15,7 @@ current_centers <- fread("data/curated/nba/current_centers.csv")
 current_starters <- fread("data/curated/nba/current_starters.csv")
 player_usage <- fread("data/curated/nba/current_season_usage_rate.csv.gz")
 
-current_lineups <- fread(paste0("data/02_curated/nba_lineups/",today_year,"/",today_month,"/",today_day,"/rotowire.csv"))
+current_lineups <- fread(paste0("data/02_curated/nba_lineups/",today_year,"/",today_month,"/",today_day,"/17/rotowire.csv"))
 
 home_tip_win_parameter <- .508
 
@@ -23,18 +23,19 @@ first_shot_concat <-
   first_shot %>%
   mutate(concat_field = paste0(team_abbrev, player))
 
-current_centers_concat <-
-  current_centers %>%
-  rename(center = player)
+lineup_all <-
+  current_lineups %>%
+  filter(LINEUP_DESC != "")
 
-current_lineups <-
-  current_starters %>%
-  left_join(current_centers_concat)
+lineup_centers <-
+  current_lineups %>%
+  filter(LINEUP_DESC != "",
+         STARTING_POSITION == "C") %>%
+  mutate(center_concat_field = paste0(TEAM_ABBREVIATION, "_", PLAYER_NAME))
 
 current_lineups_concat <-
-  current_lineups %>%
-  mutate(starter_concat_field = paste0(team_abbrev, player),
-         center_concat_field = paste0(team_abbrev, center))
+  lineup_all %>%
+  mutate(starter_concat_field = paste0(TEAM_ABBREVIATION, "_", PLAYER_NAME))
 
 today_games <-
   schedule %>%
@@ -53,10 +54,25 @@ jumper_joined <-
   select(jumper, team_abbrev, team_id) %>%
   left_join(jumper_aggregates)
 
+all_jumpers <-
+  player_ratings %>%
+  select(jumper, exp_win_adj) %>%
+  left_join(jumper_joined) %>%
+  mutate(player_concat = paste0(team_abbrev, "_", jumper))
+
+all_jumpers_today <-
+  all_jumpers %>% 
+  filter(player_concat %in% current_lineups_concat$starter_concat_field)
+
+
+
+
+
+
+
 today_games_jumper <-
   today_games %>%
-  left_join(jumper_joined, by = c("HOME_TEAM_ID" = "team_id")) %>%
-  left_join(select(player_ratings, jumper, exp_win_adj)) %>%
+  left_join(all_jumpers, by = c("HOME_TEAM_ID" = "team_id")) %>%
   rename(home_jumper = jumper,
          home_team_abbrev = team_abbrev,
          home_jumps = jumps,
