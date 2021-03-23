@@ -15,7 +15,7 @@ current_centers <- fread("data/curated/nba/current_centers.csv")
 current_starters <- fread("data/curated/nba/current_starters.csv")
 player_usage <- fread("data/curated/nba/current_season_usage_rate.csv.gz")
 
-current_lineups <- fread(paste0("data/02_curated/nba_lineups/",today_year,"/",today_month,"/",today_day,"/17/rotowire.csv"))
+current_lineups <- fread("data/02_curated/nba_lineups/rotowire.csv")
 
 home_tip_win_parameter <- .508
 

@@ -9,7 +9,7 @@ library(tidyverse)
 # Current model uses last two completed seasons and current season as train data
 # To run model for current day's ratings, train_test_date_split is set to current day
 # Sets furthest date that train data goes back
-earliest_train_data_date <- "2015-09-01"
+earliest_train_data_date <- "2018-09-01"
 # Setting date we want to start logging test data on 
 # Default uses today's date so that all completed games are used in calcualting ratings
 train_test_date_split <- Sys.Date()
@@ -184,8 +184,7 @@ for (i in 1:length(unique_dates$game_date)) {
   # Splitting data into train and test sets
   possession_train <-
     possession_df %>%
-    filter(game_date < unique_dates$game_date[i],
-           game_date >= unique_dates$game_date[i] - lubridate::days(760))
+    filter(game_date < unique_dates$game_date[i])
   
   possession_test <-
     possession_df %>%
@@ -307,18 +306,6 @@ for (i in 1:length(unique_dates$game_date)) {
     expected_win_prob %>%
     mutate(home_exp_win = if_else(is.nan(home_exp_win), 0.5, home_exp_win))
   
-  # # Table that stores wins rates for each height by difference
-  # height_rating_home <-
-  #   expected_win_prob %>%
-  #   group_by(height_diff) %>%
-  #   summarise(tips = n(), wins = sum(home_won_tip))
-  # 
-  # height_rating_away <-
-  #   expected_win_prob %>%
-  #   group_by(height_diff) %>%
-  #   summarise(tips = n(), wins = tips - sum(home_won_tip)) %>%
-  #   mutate(height_diff = -height_diff)
-  
   # Table that stores wins rates for each height
   height_rating_home <-
     expected_win_prob %>%
@@ -346,14 +333,11 @@ for (i in 1:length(unique_dates$game_date)) {
               height_win_rate = wins/tips,
               .groups = 'drop')
   
-  # loess_win_rate_60 <- loess(height_win_rate ~ height, data = height_rating_df, span = 0.60)
-  # smoothed60 <- predict(loess_win_rate_60)
-  
-  loess_win_rate_75 <- loess(height_win_rate ~ height, data = height_rating_df, span = 0.75)
-  smoothed75 <- predict(loess_win_rate_75)
+  loess_win_rate_95 <- loess(height_win_rate ~ height, data = height_rating_df, span = 0.95)
+  smoothed95 <- predict(loess_win_rate_95)
   
   smoothed_height_win_rate <-
-    cbind.data.frame(height_rating_df, smoothed_height_win_rate = smoothed75)
+    cbind.data.frame(height_rating_df, smoothed_height_win_rate = smoothed95)
   
   expected_win_with_height <-
     expected_win_prob %>%
