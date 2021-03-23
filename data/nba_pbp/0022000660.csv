@@ -1,0 +1,433 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022000660,2,12,0,1,10:11 PM,12:00,,Start of 1st Period (10:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,4,10,0,1,10:11 PM,12:00, ,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,3,1610612737,,,,,,1
+0022000660,7,5,2,1,10:12 PM,11:39,George STEAL (1 STL),,Collins Lost Ball Turnover (P1.T1),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,9,1,1,1,10:12 PM,11:30,Morris Sr. 26' 3PT Jump Shot (3 PTS) (George 1 AST),,,0 - 3,3,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,11,2,79,1,10:12 PM,11:15,,,MISS Huerter 14' Pullup Jump Shot,,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,12,4,0,1,10:12 PM,11:08,,,Collins REBOUND (Off:1 Def:0),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,13,1,87,1,10:12 PM,11:08,,,Collins Putback Dunk (2 PTS),2 - 3,1,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,14,1,52,1,10:13 PM,10:55,Leonard 1' Alley Oop Dunk (2 PTS) (Morris Sr. 1 AST),,,2 - 5,3,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,16,2,3,1,10:13 PM,10:40,,,MISS Capela 8' Hook Shot,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,17,4,0,1,10:13 PM,10:38,Zubac REBOUND (Off:0 Def:1),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,18,7,5,1,10:13 PM,10:26,,,Capela Violation:Kicked Ball (D.Taylor),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0022000660,19,2,6,1,10:14 PM,10:17,MISS George 3' Driving Layup,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,21,1,107,1,10:14 PM,10:12,Zubac Tip Dunk Shot (2 PTS),,,2 - 7,5,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,20,4,0,1,10:14 PM,10:12,Zubac REBOUND (Off:1 Def:1),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,22,6,2,1,10:14 PM,10:10,Morris Sr. S.FOUL (P1.T1) (J.Tiven),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,24,3,11,1,10:14 PM,10:10,,,MISS Collins Free Throw 1 of 2,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,25,4,1,1,10:14 PM,10:10,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,26,3,12,1,10:14 PM,10:10,,,MISS Collins Free Throw 2 of 2,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,27,4,0,1,10:14 PM,10:07,Leonard REBOUND (Off:0 Def:1),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,28,6,1,1,10:14 PM,9:59,,,Collins P.FOUL (P1.T1) (J.Tiven),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,30,1,52,1,10:15 PM,9:53,Zubac 1' Alley Oop Dunk (4 PTS) (George 2 AST),,,2 - 9,7,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,32,2,6,1,10:15 PM,9:40,George BLOCK (1 BLK),,MISS Young 3' Driving Layup,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1
+0022000660,34,4,0,1,10:15 PM,9:38,Zubac REBOUND (Off:1 Def:2),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,35,2,1,1,10:15 PM,9:20,MISS Jackson 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,36,4,0,1,10:15 PM,9:17,,,Snell REBOUND (Off:0 Def:1),,,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,37,5,45,1,10:16 PM,9:06,,,Young Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022000660,38,5,40,1,10:16 PM,8:56,George Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022000660,39,6,1,1,10:16 PM,8:45,Leonard P.FOUL (P1.T2) (B.Adams),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,41,1,79,1,10:17 PM,8:37,,,Huerter 6' Pullup Jump Shot (2 PTS),4 - 9,5,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,42,1,1,1,10:17 PM,8:19,Morris Sr. 3PT Jump Shot (6 PTS) (Zubac 1 AST),,,4 - 12,8,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,44,1,3,1,10:17 PM,7:57,,,Capela 5' Hook Shot (2 PTS) (Snell 1 AST),6 - 12,6,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,46,2,1,1,10:18 PM,7:41,MISS Jackson 27' 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,47,4,0,1,10:18 PM,7:37,Morris Sr. REBOUND (Off:1 Def:0),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,48,1,79,1,10:18 PM,7:36,Morris Sr. 13' Pullup Jump Shot (8 PTS),,,6 - 14,8,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,49,2,98,1,10:18 PM,7:18,Zubac BLOCK (1 BLK),,MISS Collins 4' Cutting Layup Shot,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1
+0022000660,51,4,0,1,10:18 PM,7:17,Jackson REBOUND (Off:0 Def:1),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,52,6,28,1,10:18 PM,7:17,,,Huerter Personal Take Foul (P1.T2) (D.Taylor),,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,54,2,80,1,10:19 PM,7:03,MISS George 19' Step Back Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,55,4,0,1,10:19 PM,6:59,,,Collins REBOUND (Off:1 Def:1),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,56,6,2,1,10:19 PM,6:56,Jackson S.FOUL (P1.T3) (D.Taylor),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,58,9,1,1,10:19 PM,6:56,CLIPPERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,59,3,11,1,10:22 PM,6:56,,,Young Free Throw 1 of 2 (1 PTS),7 - 14,7,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,60,3,12,1,10:23 PM,6:56,,,Young Free Throw 2 of 2 (2 PTS),8 - 14,6,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022000660,61,6,2,1,10:23 PM,6:36,,,Collins S.FOUL (P2.T3) (J.Tiven),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,63,3,13,1,10:23 PM,6:36,MISS Morris Sr. Free Throw 1 of 3,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,64,4,1,1,10:23 PM,6:36,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,65,3,14,1,10:24 PM,6:36,Morris Sr. Free Throw 2 of 3 (9 PTS),,,8 - 15,7,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,66,8,0,1,10:24 PM,6:36,,,SUB: Gallinari FOR Collins,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,68,3,15,1,10:24 PM,6:36,Morris Sr. Free Throw 3 of 3 (10 PTS),,,8 - 16,8,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,69,2,79,1,10:25 PM,6:19,,,MISS Huerter 9' Pullup Jump Shot,,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,70,4,0,1,10:25 PM,6:17,Morris Sr. REBOUND (Off:1 Def:1),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,71,2,1,1,10:25 PM,6:10,MISS Morris Sr. 25' 3PT Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,72,4,0,1,10:25 PM,6:06,,,Gallinari REBOUND (Off:0 Def:1),,,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,73,5,1,1,10:25 PM,6:01,Leonard STEAL (1 STL),,Young Bad Pass Turnover (P2.T3),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,75,6,1,1,10:25 PM,5:53,,,Huerter P.FOUL (P2.T4) (B.Adams),,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,77,8,0,1,10:25 PM,5:53,,,SUB: Bogdanovic FOR Huerter,,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,79,1,58,1,10:26 PM,5:37,Zubac 6' Turnaround Hook Shot (6 PTS) (George 3 AST),,,8 - 18,10,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,81,2,98,1,10:26 PM,5:22,Morris Sr. BLOCK (1 BLK),,MISS Capela 3' Cutting Layup Shot,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1
+0022000660,83,4,0,1,10:26 PM,5:18,,,Young REBOUND (Off:1 Def:0),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,84,1,79,1,10:26 PM,5:13,,,Bogdanovic 31' 3PT Pullup Jump Shot (3 PTS),11 - 18,7,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,85,1,79,1,10:26 PM,5:00,George 26' 3PT Pullup Jump Shot (3 PTS),,,11 - 21,10,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,86,1,80,1,10:27 PM,4:48,,,Young 18' Step Back Jump Shot (4 PTS),13 - 21,8,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,87,2,102,1,10:27 PM,4:35,MISS Jackson 5' Driving Floating Bank Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,88,4,0,1,10:27 PM,4:32,,,Capela REBOUND (Off:0 Def:1),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,89,2,101,1,10:27 PM,4:25,,,MISS Young 5' Driving Floating Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,90,4,0,1,10:27 PM,4:24,,,Capela REBOUND (Off:1 Def:1),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,91,1,97,1,10:27 PM,4:24,,,Capela Tip Layup Shot (4 PTS),15 - 21,6,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,92,9,1,1,10:27 PM,4:24,CLIPPERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,93,8,0,1,10:30 PM,4:24,SUB: Williams FOR Jackson,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,94,8,0,1,10:30 PM,4:24,,,SUB: Hunter FOR Snell,,,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,97,1,5,1,10:30 PM,4:10,Zubac 3' Layup (8 PTS) (Leonard 1 AST),,,15 - 23,8,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,99,1,1,1,10:31 PM,3:51,,,Gallinari 26' 3PT Jump Shot (3 PTS) (Young 1 AST),18 - 23,5,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,101,1,1,1,10:31 PM,3:37,Morris Sr. 24' 3PT Jump Shot (13 PTS) (Leonard 2 AST),,,18 - 26,8,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,103,2,1,1,10:31 PM,3:25,,,MISS Gallinari 26' 3PT Jump Shot,,,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,104,4,0,1,10:31 PM,3:21,,,Capela REBOUND (Off:2 Def:1),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,105,1,1,1,10:31 PM,3:17,,,Gallinari 20' Jump Shot (5 PTS) (Young 2 AST),20 - 26,6,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,107,5,45,1,10:32 PM,3:02,George Out of Bounds - Bad Pass Turnover Turnover (P2.T2),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022000660,108,8,0,1,10:32 PM,3:02,SUB: Batum FOR George,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,109,8,0,1,10:32 PM,3:02,,,SUB: Okongwu FOR Capela,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,112,2,80,1,10:32 PM,2:44,,,MISS Bogdanovic 14' Step Back Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,114,1,72,1,10:32 PM,2:37,,,Okongwu Putback Layup (2 PTS),22 - 26,4,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,113,4,0,1,10:32 PM,2:37,,,Okongwu REBOUND (Off:1 Def:0),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,115,5,1,1,10:32 PM,2:23,Williams Bad Pass Turnover (P1.T3),,Hunter STEAL (1 STL),,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,117,1,43,1,10:33 PM,2:12,,,Okongwu 3' Alley Oop Layup (4 PTS) (Young 3 AST),24 - 26,2,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,119,2,1,1,10:33 PM,1:59,MISS Batum 24' 3PT Jump Shot,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,120,4,0,1,10:33 PM,1:56,,,Bogdanovic REBOUND (Off:0 Def:1),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,121,1,1,1,10:33 PM,1:48,,,Young 27' 3PT Jump Shot (7 PTS) (Gallinari 1 AST),27 - 26,-1,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,124,8,0,1,10:33 PM,1:28,SUB: Mann FOR Morris Sr.,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,125,8,0,1,10:33 PM,1:28,SUB: Patterson FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,126,8,0,1,10:33 PM,1:28,,,SUB: Rondo FOR Young,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,131,2,6,1,10:34 PM,1:16,MISS Williams 2' Driving Layup,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,132,4,0,1,10:34 PM,1:13,,,Gallinari REBOUND (Off:0 Def:2),,,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,133,2,103,1,10:34 PM,1:10,,,MISS Gallinari 30' 3PT Running Pull-Up Jump Shot,,,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,134,4,0,1,10:34 PM,1:07,Batum REBOUND (Off:0 Def:1),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,135,6,1,1,10:35 PM,0:59,,,Rondo P.FOUL (P1.PN) (B.Adams),,,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,137,3,11,1,10:35 PM,0:59,Williams Free Throw 1 of 2 (1 PTS),,,27 - 27,TIE,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0022000660,138,3,12,1,10:35 PM,0:59,Williams Free Throw 2 of 2 (2 PTS),,,27 - 28,1,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,139,2,1,1,10:35 PM,0:47,,,MISS Bogdanovic 26' 3PT Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,140,4,0,1,10:36 PM,0:43,Leonard REBOUND (Off:0 Def:2),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,141,5,1,1,10:36 PM,0:32,Leonard Bad Pass Turnover (P1.T4),,Bogdanovic STEAL (1 STL),,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,143,1,74,1,10:36 PM,0:28,,,Rondo 3' Running Reverse Layup (2 PTS) (Bogdanovic 1 AST),29 - 28,-1,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,145,1,108,1,10:36 PM,0:09,Mann Cutting Dunk Shot (2 PTS) (Williams 1 AST),,,29 - 30,1,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,147,6,28,1,10:36 PM,0:04,Williams Personal Take Foul (P1.T4) (D.Taylor),,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,149,8,0,1,10:36 PM,0:04,SUB: Coffey FOR Williams,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,151,2,47,1,10:37 PM,0:01,,,MISS Okongwu 19' Turnaround Jump Shot,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,152,4,0,1,10:37 PM,0:00,Mann REBOUND (Off:0 Def:1),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,153,13,0,1,10:37 PM,0:00,,End of 1st Period (10:37 PM EST),,29 - 30,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000660,158,12,0,2,10:40 PM,12:00,,Start of 2nd Period (10:40 PM EST),,29 - 30,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,159,1,47,2,10:40 PM,11:36,George 10' Turnaround Jump Shot (5 PTS),,,29 - 32,3,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,160,6,2,2,10:40 PM,11:19,Mann S.FOUL (P1.T1) (J.Tiven),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,162,3,11,2,10:41 PM,11:19,,,MISS Hunter Free Throw 1 of 2,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,163,4,1,2,10:41 PM,11:19,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,164,8,0,2,10:41 PM,11:19,,,SUB: Collins FOR Okongwu,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,166,3,12,2,10:41 PM,11:19,,,Hunter Free Throw 2 of 2 (1 PTS),30 - 32,2,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,167,6,4,2,10:41 PM,11:06,George OFF.Foul (P1) (B.Adams),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,169,5,37,2,10:41 PM,11:06,George Offensive Foul Turnover (P3.T5),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022000660,170,2,79,2,10:42 PM,10:53,,,MISS Hunter 26' 3PT Pullup Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,171,4,0,2,10:42 PM,10:49,Mann REBOUND (Off:0 Def:2),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,172,1,76,2,10:42 PM,10:45,Mann Running Finger Roll Layup (4 PTS),,,30 - 34,4,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,173,2,1,2,10:42 PM,10:31,,,MISS Collins 26' 3PT Jump Shot,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,174,4,0,2,10:42 PM,10:27,Batum REBOUND (Off:0 Def:2),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,175,2,1,2,10:42 PM,10:22,MISS Patterson 25' 3PT Jump Shot,,,,,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,176,4,0,2,10:42 PM,10:17,,,Rondo REBOUND (Off:0 Def:1),,,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,177,2,6,2,10:43 PM,10:12,,,MISS Rondo 3' Driving Layup,,,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,178,4,0,2,10:43 PM,10:10,Mann REBOUND (Off:0 Def:3),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,179,6,28,2,10:43 PM,10:09,,,Bogdanovic Personal Take Foul (P1.T1) (D.Taylor),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,181,2,79,2,10:43 PM,10:02,MISS Patterson 17' Pullup Jump Shot,,,,,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,182,4,0,2,10:43 PM,9:59,,,Bogdanovic REBOUND (Off:0 Def:2),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,183,1,5,2,10:43 PM,9:43,,,Collins 4' Layup (4 PTS),32 - 34,2,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,184,2,1,2,10:44 PM,9:34,MISS George 26' 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,185,4,0,2,10:44 PM,9:31,,,Collins REBOUND (Off:1 Def:2),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,186,2,47,2,10:44 PM,9:16,,,MISS Gallinari 13' Turnaround Jump Shot,,,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,187,4,0,2,10:44 PM,9:14,George REBOUND (Off:0 Def:1),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,188,2,1,2,10:44 PM,9:02,MISS George 26' 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,189,4,0,2,10:44 PM,8:56,,,Gallinari REBOUND (Off:0 Def:3),,,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,190,1,71,2,10:44 PM,8:55,,,Collins 5' Finger Roll Layup (6 PTS) (Rondo 1 AST),34 - 34,TIE,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,192,6,2,2,10:44 PM,8:55,Williams S.FOUL (P2.T2) (D.Taylor),,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,194,8,0,2,10:45 PM,8:55,,,SUB: Snell FOR Hunter,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,196,3,10,2,10:45 PM,8:55,,,Collins Free Throw 1 of 1 (7 PTS),35 - 34,-1,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,197,2,1,2,10:45 PM,8:42,MISS Mann 5' Jump Shot,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,198,4,0,2,10:45 PM,8:40,,,Collins REBOUND (Off:1 Def:3),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,199,2,1,2,10:45 PM,8:30,,,MISS Bogdanovic 3PT Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,200,4,0,2,10:45 PM,8:28,,,Collins REBOUND (Off:2 Def:3),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,201,1,72,2,10:45 PM,8:28,,,Collins Putback Layup (9 PTS),37 - 34,-3,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,202,6,2,2,10:45 PM,8:28,Mann S.FOUL (P2.T3) (J.Tiven),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,204,8,0,2,10:46 PM,8:28,SUB: Zubac FOR Patterson,,,,,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,206,3,10,2,10:46 PM,8:28,,,Collins Free Throw 1 of 1 (10 PTS),38 - 34,-4,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,207,2,1,2,10:46 PM,8:15,MISS Williams 3PT Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,208,4,0,2,10:46 PM,8:11,,,Snell REBOUND (Off:0 Def:2),,,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,209,1,1,2,10:46 PM,8:00,,,Snell 27' 3PT Jump Shot (3 PTS) (Bogdanovic 2 AST),41 - 34,-7,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,211,5,45,2,10:47 PM,7:51,Williams Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022000660,212,8,0,2,10:47 PM,7:51,,,SUB: Capela FOR Gallinari,,,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,214,2,1,2,10:47 PM,7:39,,,MISS Snell 26' 3PT Jump Shot,,,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,215,4,0,2,10:47 PM,7:37,Batum REBOUND (Off:0 Def:3),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,216,2,1,2,10:47 PM,7:29,MISS Williams 24' 3PT Jump Shot,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,217,4,0,2,10:47 PM,7:27,Zubac REBOUND (Off:2 Def:2),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,285,2,97,2,10:47 PM,7:26,MISS Zubac 4' Tip Layup Shot,,Capela BLOCK (1 BLK),,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1
+0022000660,287,4,0,2,10:47 PM,7:26,Zubac REBOUND (Off:3 Def:2),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,218,1,72,2,10:47 PM,7:22,Zubac Putback Layup (10 PTS),,,41 - 36,-5,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,219,2,80,2,10:47 PM,7:14,,,MISS Rondo 22' Step Back Jump Shot,,,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,220,4,0,2,10:48 PM,7:10,Zubac REBOUND (Off:3 Def:3),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,221,2,6,2,10:48 PM,7:01,MISS George 4' Driving Layup,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,222,4,0,2,10:48 PM,6:57,Zubac REBOUND (Off:4 Def:3),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,223,2,72,2,10:48 PM,6:57,MISS Zubac 2' Putback Layup,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,224,4,0,2,10:48 PM,6:57,,,Capela REBOUND (Off:2 Def:2),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,225,6,28,2,10:48 PM,6:53,Batum Personal Take Foul (P1.T4) (B.Adams),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,227,9,1,2,10:48 PM,6:53,CLIPPERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,228,8,0,2,10:50 PM,6:53,SUB: Leonard FOR Williams,,,,,4,101150,Lou Williams,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,229,8,0,2,10:50 PM,6:53,,,SUB: Huerter FOR Rondo,,,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,230,8,0,2,10:50 PM,6:53,,,SUB: Young FOR Bogdanovic,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,234,1,1,2,10:51 PM,6:37,,,Young 29' 3PT Jump Shot (10 PTS),44 - 36,-8,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,235,2,63,2,10:52 PM,6:12,MISS Leonard 15' Fadeaway Jumper,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,236,4,0,2,10:52 PM,6:10,,,Collins REBOUND (Off:2 Def:4),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,237,2,79,2,10:52 PM,5:58,,,MISS Young 32' 3PT Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,238,4,0,2,10:52 PM,5:54,Mann REBOUND (Off:0 Def:4),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,239,1,58,2,10:52 PM,5:46,Leonard 9' Turnaround Hook Shot (4 PTS),,,44 - 38,-6,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,240,1,102,2,10:53 PM,5:22,,,Snell 4' Driving Floating Bank Jump Shot (5 PTS),46 - 38,-8,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,241,2,86,2,10:53 PM,5:06,MISS Leonard 17' Turnaround Fadeaway Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,242,4,0,2,10:53 PM,5:02,,,Huerter REBOUND (Off:0 Def:1),,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,243,2,79,2,10:53 PM,4:55,,,MISS Huerter 28' 3PT Pullup Jump Shot,,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,244,4,0,2,10:53 PM,4:52,,,Capela REBOUND (Off:3 Def:2),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,245,6,2,2,10:53 PM,4:52,Zubac S.FOUL (P1.PN) (J.Tiven),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,247,3,11,2,10:53 PM,4:52,,,Capela Free Throw 1 of 2 (5 PTS),47 - 38,-9,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,248,8,0,2,10:53 PM,4:52,SUB: Jackson FOR George,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,249,8,0,2,10:53 PM,4:52,SUB: Morris Sr. FOR Batum,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,252,3,12,2,10:54 PM,4:52,,,Capela Free Throw 2 of 2 (6 PTS),48 - 38,-10,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,253,1,6,2,10:54 PM,4:27,Leonard 4' Driving Layup (6 PTS),,,48 - 40,-8,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,254,2,101,2,10:54 PM,4:17,,,MISS Young 5' Driving Floating Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,255,4,0,2,10:54 PM,4:16,Mann REBOUND (Off:0 Def:5),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,256,1,2,2,10:55 PM,4:15,Leonard 7' Running Jump Shot (8 PTS),,,48 - 42,-6,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,257,6,2,2,10:55 PM,4:15,,,Snell S.FOUL (P1.T2) (J.Tiven),,,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,259,3,10,2,10:55 PM,4:15,Leonard Free Throw 1 of 1 (9 PTS),,,48 - 43,-5,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,260,9,1,2,10:55 PM,4:11,,,Hawks Timeout: Regular (Reg.1 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,261,8,0,2,10:58 PM,4:11,,,SUB: Gallinari FOR Collins,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,263,1,58,2,10:58 PM,3:57,,,Capela 4' Turnaround Hook Shot (8 PTS) (Huerter 1 AST),50 - 43,-7,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,265,5,1,2,10:59 PM,3:35,Leonard Bad Pass Turnover (P2.T7),,Huerter STEAL (1 STL),,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,267,1,106,2,10:59 PM,3:31,,,Capela 1' Running Alley Oop Dunk Shot (10 PTS) (Huerter 2 AST),52 - 43,-9,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,269,2,79,2,10:59 PM,3:21,MISS Leonard 12' Pullup Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,270,4,0,2,10:59 PM,3:18,,,Gallinari REBOUND (Off:0 Def:4),,,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,271,6,1,2,10:59 PM,3:13,Mann P.FOUL (P3.PN) (J.Tiven),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,273,3,11,2,11:00 PM,3:13,,,Young Free Throw 1 of 2 (11 PTS),53 - 43,-10,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,274,3,12,2,11:00 PM,3:13,,,MISS Young Free Throw 2 of 2,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,275,4,0,2,11:00 PM,3:10,Zubac REBOUND (Off:4 Def:4),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,276,6,2,2,11:00 PM,2:56,,,Capela S.FOUL (P1.T3) (J.Tiven),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,278,3,11,2,11:01 PM,2:56,Leonard Free Throw 1 of 2 (10 PTS),,,53 - 44,-9,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,279,8,0,2,11:01 PM,2:56,SUB: George FOR Mann,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,281,3,12,2,11:01 PM,2:56,Leonard Free Throw 2 of 2 (11 PTS),,,53 - 45,-8,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,288,5,1,2,11:01 PM,2:44,George STEAL (2 STL),,Young Bad Pass Turnover (P3.T4),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,290,2,79,2,11:01 PM,2:37,MISS George 20' Pullup Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,291,4,0,2,11:01 PM,2:34,,,Capela REBOUND (Off:3 Def:3),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,292,1,101,2,11:01 PM,2:28,,,Young 7' Driving Floating Jump Shot (13 PTS),55 - 45,-10,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,293,2,3,2,11:02 PM,2:09,MISS Leonard 8' Hook Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,294,4,0,2,11:02 PM,2:06,,,Capela REBOUND (Off:3 Def:4),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,295,1,80,2,11:02 PM,2:01,,,Young 26' 3PT Step Back Jump Shot (16 PTS),58 - 45,-13,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,296,5,45,2,11:02 PM,1:41,George Out of Bounds - Bad Pass Turnover Turnover (P4.T8),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022000660,297,1,79,2,11:03 PM,1:30,,,Young 14' Pullup Jump Shot (18 PTS),60 - 45,-15,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,298,2,78,2,11:03 PM,1:16,MISS Leonard 10' Floating Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,299,4,0,2,11:03 PM,1:14,,,Capela REBOUND (Off:3 Def:5),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,300,5,13,2,11:03 PM,0:52,,,Huerter Backcourt Turnover (P1.T5),,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022000660,301,8,0,2,11:04 PM,0:52,,,SUB: Bogdanovic FOR Huerter,,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,303,2,1,2,11:04 PM,0:41,MISS George 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,304,4,0,2,11:04 PM,0:34,,,Young REBOUND (Off:1 Def:1),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,305,6,1,2,11:04 PM,0:31,George P.FOUL (P2.PN) (B.Adams),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,307,3,11,2,11:05 PM,0:31,,,Young Free Throw 1 of 2 (19 PTS),61 - 45,-16,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,308,8,0,2,11:05 PM,0:31,SUB: Batum FOR George,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,310,6,11,2,11:05 PM,0:31,George T.FOUL (P2.PN) (B.Adams),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0022000660,311,3,16,2,11:05 PM,0:31,,,Gallinari Free Throw Technical (6 PTS),62 - 45,-17,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,312,3,12,2,11:05 PM,0:31,,,Young Free Throw 2 of 2 (20 PTS),63 - 45,-18,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,314,1,1,2,11:06 PM,0:12,Jackson 26' 3PT Jump Shot (3 PTS) (Batum 1 AST),,,63 - 48,-15,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,316,2,1,2,11:06 PM,0:02,,,MISS Young 28' 3PT Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,317,4,0,2,11:06 PM,0:00,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,318,13,0,2,11:06 PM,0:00,,End of 2nd Period (11:06 PM EST),,63 - 48,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000660,325,12,0,3,11:22 PM,12:00,,Start of 3rd Period (11:22 PM EST),,63 - 48,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,326,2,1,3,11:22 PM,11:41,MISS George 24' 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,327,4,0,3,11:22 PM,11:37,,,Capela REBOUND (Off:3 Def:6),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,328,1,1,3,11:22 PM,11:29,,,Snell 24' 3PT Jump Shot (8 PTS) (Young 4 AST),66 - 48,-18,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,330,9,1,3,11:22 PM,11:28,CLIPPERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,331,2,1,3,11:25 PM,11:11,MISS Morris Sr. 26' 3PT Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,332,4,0,3,11:26 PM,11:07,,,Young REBOUND (Off:1 Def:2),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,410,5,1,3,11:26 PM,10:54,Zubac STEAL (1 STL),,Young Bad Pass Turnover (P4.T6),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,335,6,2,3,11:26 PM,10:48,,,Snell S.FOUL (P2.T1) (B.Adams),,,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,337,3,11,3,11:26 PM,10:48,Zubac Free Throw 1 of 2 (11 PTS),,,66 - 49,-17,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,338,3,12,3,11:27 PM,10:48,Zubac Free Throw 2 of 2 (12 PTS),,,66 - 50,-16,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0022000660,339,2,1,3,11:27 PM,10:36,,,MISS Snell 25' 3PT Jump Shot,,,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,340,4,0,3,11:27 PM,10:32,Zubac REBOUND (Off:4 Def:5),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,341,2,1,3,11:27 PM,10:26,MISS Morris Sr. 24' 3PT Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,342,4,0,3,11:27 PM,10:21,,,Huerter REBOUND (Off:0 Def:2),,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,343,2,44,3,11:27 PM,10:05,Zubac BLOCK (2 BLK),,MISS Capela 3' Reverse Layup,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1
+0022000660,345,4,0,3,11:27 PM,10:03,,,Capela REBOUND (Off:4 Def:6),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,346,2,72,3,11:27 PM,10:02,,,MISS Capela 2' Putback Layup,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,347,4,0,3,11:27 PM,10:02,,,Huerter REBOUND (Off:1 Def:2),,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,348,2,97,3,11:27 PM,9:57,,,MISS Huerter Tip Layup Shot,,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,349,4,0,3,11:27 PM,9:56,George REBOUND (Off:0 Def:2),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,350,1,1,3,11:28 PM,9:48,Morris Sr. 24' 3PT Jump Shot (16 PTS) (Leonard 3 AST),,,66 - 53,-13,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,352,1,1,3,11:28 PM,9:23,,,Collins 9' Jump Shot (12 PTS) (Young 5 AST),68 - 53,-15,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,354,1,1,3,11:28 PM,9:07,Leonard 27' 3PT Jump Shot (14 PTS) (George 4 AST),,,68 - 56,-12,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,356,1,6,3,11:29 PM,8:43,,,Collins 2' Driving Layup (14 PTS) (Young 6 AST),70 - 56,-14,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,358,6,2,3,11:29 PM,8:43,George S.FOUL (P3.T1) (D.Taylor),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,360,3,10,3,11:29 PM,8:43,,,Collins Free Throw 1 of 1 (15 PTS),71 - 56,-15,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,361,2,1,3,11:29 PM,8:33,MISS George 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,362,4,0,3,11:29 PM,8:30,,,Snell REBOUND (Off:0 Def:3),,,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,363,2,101,3,11:30 PM,8:16,,,MISS Young 8' Driving Floating Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,365,1,107,3,11:30 PM,8:10,,,Capela Tip Dunk Shot (12 PTS),73 - 56,-17,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,364,4,0,3,11:30 PM,8:10,,,Capela REBOUND (Off:5 Def:6),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,366,6,1,3,11:30 PM,8:01,,,Huerter P.FOUL (P3.T2) (B.Adams),,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,368,2,6,3,11:30 PM,7:52,MISS Morris Sr. 3' Driving Layup,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,369,4,0,3,11:30 PM,7:48,,,Collins REBOUND (Off:2 Def:5),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,370,1,9,3,11:31 PM,7:43,,,Collins 1' Driving Dunk (17 PTS) (Young 7 AST),75 - 56,-19,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,372,1,1,3,11:31 PM,7:24,George 24' 3PT Jump Shot (8 PTS) (Jackson 1 AST),,,75 - 59,-16,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,374,1,1,3,11:31 PM,7:04,,,Snell 24' 3PT Jump Shot (11 PTS) (Collins 1 AST),78 - 59,-19,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,376,2,1,3,11:32 PM,6:43,MISS Jackson 26' 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,377,4,0,3,11:32 PM,6:40,,,Capela REBOUND (Off:5 Def:7),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,378,1,101,3,11:32 PM,6:30,,,Snell 5' Driving Floating Jump Shot (13 PTS) (Young 8 AST),80 - 59,-21,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,380,9,1,3,11:32 PM,6:29,CLIPPERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,381,8,0,3,11:34 PM,6:29,SUB: Kennard FOR Jackson,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,382,8,0,3,11:34 PM,6:29,SUB: Coffey FOR Leonard,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,383,8,0,3,11:34 PM,6:29,SUB: Batum FOR Morris Sr.,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,384,8,0,3,11:34 PM,6:29,SUB: Patterson FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,385,8,0,3,11:34 PM,6:29,SUB: Mann FOR George,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,391,1,73,3,11:35 PM,6:11,Kennard 3' Driving Reverse Layup (2 PTS) (Patterson 1 AST),,,80 - 61,-19,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,393,1,101,3,11:35 PM,5:48,,,Collins 13' Driving Floating Jump Shot (19 PTS) (Huerter 3 AST),82 - 61,-21,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,395,1,6,3,11:36 PM,5:46,Mann 3' Driving Layup (6 PTS),,,82 - 63,-19,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,396,6,2,3,11:36 PM,5:46,,,Collins S.FOUL (P3.T3) (J.Tiven),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,398,8,0,3,11:36 PM,5:46,,,SUB: Bogdanovic FOR Huerter,,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,399,8,0,3,11:36 PM,5:46,,,SUB: Gallinari FOR Capela,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,402,3,10,3,11:36 PM,5:46,Mann Free Throw 1 of 1 (7 PTS),,,82 - 64,-18,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,403,1,6,3,11:36 PM,5:27,,,Bogdanovic 2' Driving Layup (5 PTS),84 - 64,-20,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,404,2,1,3,11:37 PM,5:08,MISS Batum 24' 3PT Jump Shot,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,405,4,0,3,11:37 PM,5:08,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,406,6,3,3,11:37 PM,5:08,,,Collins L.B.FOUL (P4.T4) (D.Taylor),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,408,8,0,3,11:37 PM,5:08,,,SUB: Hunter FOR Snell,,,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,412,8,0,3,11:37 PM,5:08,,,SUB: S. Hill FOR Collins,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,414,1,75,3,11:38 PM,4:54,Coffey 3' Driving Finger Roll Layup (2 PTS) (Kennard 1 AST),,,84 - 66,-18,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,416,1,79,3,11:38 PM,4:30,,,Hunter 22' Pullup Jump Shot (3 PTS),86 - 66,-20,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,418,2,6,3,11:38 PM,4:19,MISS Mann 4' Driving Layup,,Young BLOCK (1 BLK),,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1
+0022000660,420,4,0,3,11:38 PM,4:17,,,Hunter REBOUND (Off:0 Def:1),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,421,1,41,3,11:38 PM,4:15,,,Bogdanovic 1' Running Layup (7 PTS) (Hunter 1 AST),88 - 66,-22,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,423,1,80,3,11:38 PM,4:02,Kennard 15' Step Back Jump Shot (4 PTS) (Batum 2 AST),,,88 - 68,-20,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,425,9,1,3,11:39 PM,3:51,,,Hawks Timeout: Regular (Reg.2 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,426,8,0,3,11:40 PM,3:51,,,SUB: Rondo FOR Young,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,428,2,1,3,11:41 PM,3:44,,,MISS Bogdanovic 3PT Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,429,4,0,3,11:41 PM,3:41,Kennard REBOUND (Off:0 Def:1),,,,,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,430,2,1,3,11:41 PM,3:25,MISS Coffey 26' 3PT Jump Shot,,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,431,4,0,3,11:41 PM,3:23,Batum REBOUND (Off:1 Def:3),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,432,2,97,3,11:41 PM,3:23,MISS Batum Tip Layup Shot,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,433,4,0,3,11:41 PM,3:23,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,434,6,3,3,11:41 PM,3:23,Patterson L.B.FOUL (P1.T2) (B.Adams),,,,,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,436,2,1,3,11:41 PM,3:07,,,MISS Gallinari 17' Jump Shot,,,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,437,4,0,3,11:42 PM,3:02,Mann REBOUND (Off:0 Def:6),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,438,1,1,3,11:42 PM,2:58,Kennard 28' 3PT Jump Shot (7 PTS) (Mann 1 AST),,,88 - 71,-17,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,440,2,63,3,11:42 PM,2:36,,,MISS Bogdanovic 10' Fadeaway Jumper,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,441,4,0,3,11:42 PM,2:31,,,S. Hill REBOUND (Off:1 Def:0),,,5,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,442,2,1,3,11:42 PM,2:26,,,MISS Gallinari 3PT Jump Shot,,,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,443,4,0,3,11:42 PM,2:22,Mann REBOUND (Off:0 Def:7),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,444,6,1,3,11:42 PM,2:22,,,Rondo P.FOUL (P2.PN) (D.Taylor),,,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,446,3,11,3,11:43 PM,2:22,Mann Free Throw 1 of 2 (8 PTS),,,88 - 72,-16,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,447,3,12,3,11:43 PM,2:22,Mann Free Throw 2 of 2 (9 PTS),,,88 - 73,-15,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,448,2,1,3,11:43 PM,2:01,,,MISS Bogdanovic 28' 3PT Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,449,4,0,3,11:43 PM,1:57,Mann REBOUND (Off:0 Def:8),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,451,6,14,3,11:44 PM,1:54,,,Gallinari FLAGRANT.FOUL.TYPE1 (P1.PN) (J.Tiven),,,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,453,18,1,3,11:44 PM,1:54,,Instant Replay3rd Period (11:44 PM EST),,88 - 73,-15,0,451,,,,,,0,0,,,,,,1,0,,,,,,0
+0022000660,454,3,18,3,11:46 PM,1:54,MISS Mann Free Throw Flagrant 1 of 2,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0022000660,455,4,1,3,11:46 PM,1:54,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,456,3,19,3,11:46 PM,1:54,Mann Free Throw Flagrant 2 of 2 (10 PTS),,,88 - 74,-14,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,457,2,1,3,11:47 PM,1:43,MISS Coffey 27' 3PT Jump Shot,,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,458,4,0,3,11:47 PM,1:36,Patterson REBOUND (Off:1 Def:0),,,,,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,459,1,107,3,11:47 PM,1:36,Patterson Tip Dunk Shot (2 PTS),,,88 - 76,-12,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,460,2,1,3,11:47 PM,1:23,,,MISS S. Hill 27' 3PT Jump Shot,,,5,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,461,4,0,3,11:47 PM,1:20,Mann REBOUND (Off:0 Def:9),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,462,2,86,3,11:47 PM,1:12,MISS Mann 10' Turnaround Fadeaway Shot,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,463,4,0,3,11:47 PM,1:09,,,Rondo REBOUND (Off:0 Def:2),,,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,464,2,6,3,11:48 PM,0:58,,,MISS Rondo 5' Driving Layup,,,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,465,4,0,3,11:48 PM,0:57,Kennard REBOUND (Off:0 Def:2),,,,,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,466,1,103,3,11:48 PM,0:54,Kennard 26' 3PT Running Pull-Up Jump Shot (10 PTS),,,88 - 79,-9,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,467,1,6,3,11:48 PM,0:41,,,Hunter 3' Driving Layup (5 PTS),90 - 79,-11,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,469,2,6,3,11:48 PM,0:36,MISS Mann 3' Driving Layup,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,470,4,0,3,11:48 PM,0:31,,,Rondo REBOUND (Off:0 Def:3),,,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,471,6,1,3,11:48 PM,0:19,Kennard P.FOUL (P1.T3) (B.Adams),,,,,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,473,2,101,3,11:49 PM,0:03,,,MISS Rondo 10' Driving Floating Jump Shot,,,5,200765,Rajon Rondo,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,474,4,0,3,11:49 PM,0:01,Kennard REBOUND (Off:0 Def:3),,,,,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,475,1,79,3,11:49 PM,0:00,Kennard 42' 3PT Pullup Jump Shot (13 PTS),,,90 - 82,-8,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,476,18,0,3,11:49 PM,0:00,,Instant Replay3rd Period (11:49 PM EST),,90 - 82,-8,0,473,,,,,,0,0,,,,,,1,0,,,,,,0
+0022000660,477,13,0,3,11:50 PM,0:00,,End of 3rd Period (11:50 PM EST),,90 - 82,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000660,482,12,0,4,11:52 PM,12:00,,Start of 4th Period (11:52 PM EST),,90 - 82,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,483,2,63,4,11:52 PM,11:42,,,MISS Gallinari 13' Fadeaway Jumper,,,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,484,4,0,4,11:52 PM,11:39,Mann REBOUND (Off:0 Def:10),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,485,1,79,4,11:52 PM,11:29,Kennard 17' Pullup Jump Shot (15 PTS),,,90 - 84,-6,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,486,1,1,4,11:52 PM,11:13,,,Hunter 26' 3PT Jump Shot (8 PTS) (Gallinari 2 AST),93 - 84,-9,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,488,6,2,4,11:53 PM,10:49,,,Young S.FOUL (P1.T1) (B.Adams),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,490,3,11,4,11:53 PM,10:49,Coffey Free Throw 1 of 2 (3 PTS),,,93 - 85,-8,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,491,3,12,4,11:54 PM,10:49,Coffey Free Throw 2 of 2 (4 PTS),,,93 - 86,-7,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0022000660,492,2,1,4,11:54 PM,10:37,,,MISS Young 31' 3PT Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,493,4,0,4,11:54 PM,10:33,Kennard REBOUND (Off:0 Def:4),,,,,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,494,1,1,4,11:54 PM,10:22,Patterson 25' 3PT Jump Shot (5 PTS) (Mann 2 AST),,,93 - 89,-4,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,496,1,1,4,11:54 PM,10:00,,,Bogdanovic 26' 3PT Jump Shot (10 PTS),96 - 89,-7,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,497,1,5,4,11:55 PM,9:38,Mann 3' Layup (12 PTS) (Batum 3 AST),,,96 - 91,-5,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,499,2,1,4,11:55 PM,9:14,,,MISS Gallinari 29' 3PT Jump Shot,,,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,500,4,0,4,11:55 PM,9:10,,,Young REBOUND (Off:2 Def:2),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,501,2,1,4,11:55 PM,9:09,,,MISS Hunter 26' 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,502,4,0,4,11:55 PM,9:09,,,Bogdanovic REBOUND (Off:1 Def:2),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,503,1,78,4,11:55 PM,9:04,,,Bogdanovic 6' Floating Jump Shot (12 PTS),98 - 91,-7,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,504,9,1,4,11:55 PM,9:04,CLIPPERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,505,8,0,4,11:58 PM,9:04,SUB: Leonard FOR Coffey,,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,506,8,0,4,11:58 PM,9:04,SUB: George FOR Patterson,,,,,4,202335,Patrick Patterson,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,507,8,0,4,11:58 PM,9:04,,,SUB: Huerter FOR Gallinari,,,5,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,508,8,0,4,11:58 PM,9:04,,,SUB: Snell FOR Hunter,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,509,8,0,4,11:58 PM,9:04,,,SUB: Collins FOR Bogdanovic,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,515,2,98,4,11:59 PM,8:46,MISS Mann 4' Cutting Layup Shot,,Collins BLOCK (1 BLK),,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1
+0022000660,517,4,0,4,11:59 PM,8:42,,,Capela REBOUND (Off:5 Def:8),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,518,2,80,4,11:59 PM,8:30,,,MISS Huerter 11' Step Back Jump Shot,,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,519,4,0,4,11:59 PM,8:26,Leonard REBOUND (Off:0 Def:3),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,520,2,1,4,11:59 PM,8:18,MISS Batum 24' 3PT Jump Shot,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,521,4,0,4,11:59 PM,8:14,,,Capela REBOUND (Off:5 Def:9),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,523,2,80,4,11:59 PM,7:55,,,MISS Young 27' 3PT Step Back Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,524,4,0,4,11:59 PM,7:53,Kennard REBOUND (Off:0 Def:5),,,,,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,525,2,1,4,12:00 AM,7:44,MISS Leonard 27' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,526,4,0,4,12:00 AM,7:39,,,Young REBOUND (Off:2 Def:3),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,527,1,47,4,12:00 AM,7:24,,,Collins 10' Turnaround Jump Shot (21 PTS) (Huerter 4 AST),100 - 91,-9,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,529,1,98,4,12:00 AM,7:02,Mann 1' Cutting Layup Shot (14 PTS) (Kennard 2 AST),,,100 - 93,-7,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,531,1,1,4,12:00 AM,6:48,,,Young 31' 3PT Jump Shot (23 PTS),103 - 93,-10,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,532,1,1,4,12:01 AM,6:31,Kennard 3PT Jump Shot (18 PTS) (Leonard 4 AST),,,103 - 96,-7,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,534,5,45,4,12:01 AM,6:08,,,Huerter Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022000660,535,8,0,4,12:01 AM,6:08,SUB: Morris Sr. FOR Batum,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022000660,537,1,44,4,12:02 AM,5:52,Leonard 1' Reverse Layup (16 PTS) (George 5 AST),,,103 - 98,-5,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,539,6,2,4,12:02 AM,5:52,,,Capela S.FOUL (P2.T2) (D.Taylor),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,541,3,10,4,12:02 AM,5:52,Leonard Free Throw 1 of 1 (17 PTS),,,103 - 99,-4,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,542,9,1,4,12:02 AM,5:52,,,Hawks Timeout: Regular (Reg.3 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,543,8,0,4,12:05 AM,5:52,,,SUB: Hunter FOR Capela,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,545,2,1,4,12:06 AM,5:28,,,MISS Young 27' 3PT Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,546,4,0,4,12:06 AM,5:24,,,Snell REBOUND (Off:1 Def:3),,,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,547,2,102,4,12:06 AM,5:21,,,MISS Snell 5' Driving Floating Bank Jump Shot,,,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,548,4,0,4,12:06 AM,5:19,Leonard REBOUND (Off:0 Def:4),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,549,1,108,4,12:06 AM,5:16,Mann 1' Cutting Dunk Shot (16 PTS) (Leonard 5 AST),,,103 - 101,-2,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,551,2,79,4,12:06 AM,4:51,,,MISS Hunter 18' Pullup Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,552,4,0,4,12:06 AM,4:46,Leonard REBOUND (Off:0 Def:5),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,553,1,6,4,12:07 AM,4:35,Mann 1' Driving Layup (18 PTS) (George 6 AST),,,103 - 103,TIE,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,555,6,1,4,12:07 AM,4:20,Morris Sr. P.FOUL (P2.T1) (B.Adams),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000660,557,1,5,4,12:07 AM,4:07,,,Collins 3' Layup (23 PTS),105 - 103,-2,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,558,1,79,4,12:08 AM,3:39,Kennard 13' Pullup Jump Shot (20 PTS) (George 7 AST),,,105 - 105,TIE,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,559,1,1,4,12:08 AM,3:24,,,Young 32' 3PT Jump Shot (26 PTS),108 - 105,-3,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,560,6,2,4,12:08 AM,3:10,,,Hunter S.FOUL (P1.T3) (B.Adams),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,562,3,11,4,12:09 AM,3:10,Leonard Free Throw 1 of 2 (18 PTS),,,108 - 106,-2,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,563,3,12,4,12:09 AM,3:10,Leonard Free Throw 2 of 2 (19 PTS),,,108 - 107,-1,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,564,2,98,4,12:09 AM,2:50,Kennard BLOCK (1 BLK),,MISS Snell 3' Cutting Layup Shot,,,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,1
+0022000660,566,4,0,4,12:09 AM,2:45,,,Snell REBOUND (Off:2 Def:3),,,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,567,2,97,4,12:09 AM,2:45,Leonard BLOCK (1 BLK),,MISS Snell Tip Layup Shot,,,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1
+0022000660,569,4,0,4,12:09 AM,2:45,Kennard REBOUND (Off:0 Def:6),,,,,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,570,1,1,4,12:10 AM,2:42,Mann 3PT Jump Shot (21 PTS) (Kennard 3 AST),,,108 - 110,2,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,572,9,1,4,12:10 AM,2:42,,,Hawks Timeout: Regular (Reg.4 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,574,8,0,4,12:11 AM,2:42,,,SUB: Bogdanovic FOR Hunter,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,576,2,1,4,12:12 AM,2:21,,,MISS Bogdanovic 26' 3PT Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,577,4,0,4,12:12 AM,2:19,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,579,2,47,4,12:12 AM,2:17,,,MISS Collins 17' Turnaround Jump Shot,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,580,4,0,4,12:12 AM,2:14,Leonard REBOUND (Off:0 Def:6),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,581,1,1,4,12:13 AM,1:57,Morris Sr. 3PT Jump Shot (19 PTS) (Kennard 4 AST),,,108 - 113,5,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022000660,583,2,47,4,12:13 AM,1:47,Leonard BLOCK (2 BLK),,MISS Collins 12' Turnaround Jump Shot,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1
+0022000660,585,4,0,4,12:13 AM,1:46,Leonard REBOUND (Off:0 Def:7),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,586,6,28,4,12:13 AM,1:46,,,Collins Personal Take Foul (P5.T4) (D.Taylor),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022000660,588,8,0,4,12:13 AM,1:46,,,SUB: Hunter FOR Bogdanovic,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000660,590,1,1,4,12:14 AM,1:23,Leonard 29' 3PT Jump Shot (22 PTS),,,108 - 116,8,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,591,9,1,4,12:14 AM,1:23,,,Hawks Timeout: Regular (Reg.5 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,592,1,101,4,12:16 AM,1:20,,,Young 7' Driving Floating Jump Shot (28 PTS) (Huerter 5 AST),110 - 116,6,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000660,594,1,80,4,12:16 AM,0:57,Leonard 27' 3PT Step Back Jump Shot (25 PTS),,,110 - 119,9,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,595,2,6,4,12:16 AM,0:48,,,MISS Young 3' Driving Layup,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,596,4,0,4,12:16 AM,0:46,George REBOUND (Off:0 Def:3),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,597,2,1,4,12:17 AM,0:26,MISS Mann 3PT Jump Shot,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,598,4,0,4,12:17 AM,0:19,Kennard REBOUND (Off:1 Def:6),,,,,4,1628379,Luke Kennard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,599,2,79,4,12:17 AM,0:07,MISS Morris Sr. 8' Pullup Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022000660,600,4,0,4,12:17 AM,0:06,,,Snell REBOUND (Off:2 Def:4),,,5,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,601,2,79,4,12:17 AM,0:02,,,MISS Young 28' 3PT Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000660,602,4,0,4,12:17 AM,0:00,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000660,603,13,0,4,12:17 AM,0:00,,End of 4th Period (12:17 AM EST),,110 - 119,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
