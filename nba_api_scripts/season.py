@@ -1,9 +1,13 @@
-from datetime import datetime
+from datetime import datetime, date
+from pathlib import Path
 import logging
+import json
 
+import gzip
 import nba_api.stats.endpoints.commonteamyears as ct
 import nba_api.stats.endpoints.playergamelogs as pg
 import pandas as pd
+import requests as req
 from dateutil.relativedelta import relativedelta
 
 from get_logger import get_logger
@@ -71,3 +75,26 @@ def get_season_gamelog(season_string: str) -> pd.DataFrame:
     gl_df = gl_df.sort_values(by=["GAME_ID", "PLAYER_ID"])
 
     return gl_df
+
+
+def get_season_schedule(year):
+    season_url = (
+        "https://data.nba.com/data/10s/v2015/json"
+        f"/mobile_teams/nba/{year}/league/00_full_schedule.json"
+    )
+    resp = req.get(season_url)
+    resp_json = json.loads(resp.text)
+    raw_base_path = Path(__file__).parent.parent.joinpath(
+        "data", "01_raw", "nba_season_schedules"
+    )
+    raw_season_json_file = Path(raw_base_path).joinpath(f"{year}.json")
+    write_date = str(date.today()).split("-")
+    raw_season_json_archive = Path(raw_base_path).joinpath(
+        "archive", *write_date, f"{year}.json.gz"
+    )
+    Path(raw_season_json_archive).parent.mkdir(parents=True, exist_ok=True)
+    with open(raw_season_json_file, "w") as fp:
+        json.dump(resp_json, fp, indent=2)
+    with gzip.open(raw_season_json_archive, "wt", encoding="UTF-8") as zipfile:
+        json.dump(resp_json, zipfile)
+    return True
