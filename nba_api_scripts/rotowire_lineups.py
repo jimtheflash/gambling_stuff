@@ -8,6 +8,9 @@ import pandas as pd
 import requests as req
 from bs4 import BeautifulSoup
 
+# first party
+from normalize_name import *
+
 
 def lineups_from_matchups_html(matchups_html):
     lineup_players_list = []
@@ -23,7 +26,7 @@ def lineups_from_matchups_html(matchups_html):
             for x in matchup_teams_html.find_all("a")
         ]
         for team in matchup_teams:
-            abbrev = team.get("TEAM_ABBREVIATION")
+            abbrev = normalize_name(team.get("TEAM_ABBREVIATION"))
             home_away = team.get("HOME_AWAY")
             lineup_raw = [
                 x for x in matchup_html.find_all("ul") if home_away in str(x)
@@ -84,7 +87,7 @@ def main():
     ]
     lineup_players_list = lineups_from_matchups_html(matchups_html)
     lineup_df = pd.DataFrame(lineup_players_list).drop_duplicates()
-    lineup_df['CREATE_DTTM'] = file_create
+    lineup_df["CREATE_DTTM"] = file_create
     Path(curated_filename).parent.mkdir(parents=True, exist_ok=True)
     lineup_df.to_csv(curated_filename, index=False)
     lineup_df.to_csv(curated_current_filename, index=False)
