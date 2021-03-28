@@ -122,4 +122,4 @@ output <- ml_df_long %>%
   select(-matches('pinnacle')) %>%
   na.omit()
 
-write.csv(output, './data/nba_lines/all_historical_lines.csv')
+write_csv(output, './data/nba_lines/all_historical_lines.csv')
