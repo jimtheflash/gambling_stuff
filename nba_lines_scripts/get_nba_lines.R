@@ -2,7 +2,7 @@ library(bettoR)
 
 output_dir <- './data/nba_lines/'
 # start_date <- as.Date('2015-01-01')
-start_date <- as.Date('2021-03-07')
+start_date <- as.Date('2021-03-27')
 end_date <- Sys.Date()
 date_range <- gsub('-', '', as.character(seq.Date(start_date, end_date, by = "day")))
 bet_types <- c("spread", "total", "moneyline")
