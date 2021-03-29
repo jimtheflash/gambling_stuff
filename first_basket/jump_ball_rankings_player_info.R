@@ -507,37 +507,6 @@ brier_buckets_score <-
             brier_avg = mean(brier_score_prob),
             .groups = 'drop') 
 
-# # Using historical dataset chosen with parameters, pick two players and view odds of winning a jump ball
-# calculate_jump_odds <- function(player_1, player_2, player_list_df){
-#   
-#   player_1_data <-
-#     player_list_df %>%
-#     filter(jumper == player_1)
-#   
-#   player_2_data <-
-#     player_list_df %>%
-#     filter(jumper == player_2)
-#   
-#   if (nrow(player_1_data) == 0 | nrow(player_2_data) == 0) {
-#     stop("Check to make sure you spelled a player's name correctly!")
-#   }
-#   
-#   player_1_win <- 
-#     round((player_1_data$exp_win*(1-player_2_data$exp_win)) / 
-#             ((player_1_data$exp_win*(1-player_2_data$exp_win)) + (player_2_data$exp_win*(1-player_1_data$exp_win))), 2)
-#   
-#   # Always print favored player first
-#   if (player_1_win >= .5) {
-#     message(paste0(player_1, " wins a tip vs ", player_2, " ", player_1_win * 100, " percent of the time"))
-#   }else{
-#     message(paste0(player_2, " wins a tip vs ", player_1, " ", (1 - player_1_win)*100, " percent of the time"))
-#   }
-# }
-# 
-# player_1 <- "Nikola Jokic"
-# player_2 <- "Joel Embiid"
-# calculate_jump_odds(player_1, player_2, player_list_df)
-
 write.csv(player_list_df, "data/curated/nba/jump_ball_ratings.csv.gz", row.names = FALSE)
 
 
