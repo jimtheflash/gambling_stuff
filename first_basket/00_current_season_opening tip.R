@@ -2,6 +2,7 @@
 # on JUST opening tips for the current season
 
 library(tidyverse)
+library(lubridate)
 
 # Relevant gamelogs
 gamelogs <- read.csv('./data/nba_gamelogs/nba_gamelogs_2020-21.csv', 
@@ -34,8 +35,10 @@ for (g in unique_games) {
            PERIOD == "1",
            PCTIMESTRING == "12:00")
   
+  home_team_id <- as.character(as.integer(pbp$PLAYER1_TEAM_ID))
   home_team_abbrev <- as.character(pbp$PLAYER1_TEAM_ABBREVIATION)
   home_team_jumper <- as.character(pbp$PLAYER1_NAME)
+  away_team_id <- as.character(as.integer(pbp$PLAYER2_TEAM_ID))
   away_team_abbrev <- as.character(pbp$PLAYER2_TEAM_ABBREVIATION)
   away_team_jumper <- as.character(pbp$PLAYER2_NAME)
   first_possession <- as.character(pbp$PLAYER3_TEAM_ABBREVIATION)
@@ -47,8 +50,10 @@ for (g in unique_games) {
     game_id = g,
     matchup = matchup,
     home_team_abbrev = home_team_abbrev,
+    home_team_id = home_team_id,
     home_team_jumper = home_team_jumper,
     away_team_abbrev = away_team_abbrev,
+    away_team_id = away_team_id,
     away_team_jumper = away_team_jumper,
     first_possession = first_possession
   )
@@ -67,16 +72,29 @@ first_possession_df <-
 # Creates table of each jumper and their opening jump stats for this season
 jump_balls_df <-
   first_possession_df %>%
-  select(jumper = home_team_jumper, team_abbrev = home_team_abbrev, home_win_tip) %>%
+  select(jumper = home_team_jumper, team_abbrev = home_team_abbrev, team_id = home_team_id, home_win_tip) %>%
   bind_rows(first_possession_df %>% 
-              select(jumper = away_team_jumper, team_abbrev = away_team_abbrev, home_win_tip) %>%
+              select(jumper = away_team_jumper, team_abbrev = away_team_abbrev, team_id = away_team_id, home_win_tip) %>%
               #Reverse home_win_tip for away players
               mutate(home_win_tip = if_else(home_win_tip, FALSE, TRUE))) %>%
-  group_by(jumper) %>%
+  group_by(jumper, team_abbrev, team_id) %>%
   summarise(jumps = n(), 
             wins = sum(home_win_tip), 
             win_rate = wins/jumps,
             .groups = 'drop')
 
-view(jump_balls_df)
+## Write out main file
+write.csv(jump_balls_df, "data/02_curated/nba_first_to_score/current_season_opening_tip.csv.gz", row.names = FALSE)
 
+## Write out archive file
+yyyy <- as.character(year(Sys.Date()))
+mm <- str_pad(as.character(month(Sys.Date())), 2, "left", pad = 0)
+dd <- str_pad(as.character(day(Sys.Date())), 2, "left", pad = 0)
+
+if (dir.exists(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)))) {
+  message("directory already exists")
+}else{
+  dir.create(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)), recursive = TRUE)
+}
+
+write.csv(jump_balls_df, paste0("data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd, "/", "current_season_opening_tip.csv.gz"), row.names = FALSE)
