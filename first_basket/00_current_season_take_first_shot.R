@@ -3,6 +3,7 @@
 # out of the number of starts they have made
 
 library(tidyverse)
+library(lubridate)
 
 # Relevant gamelogs
 gamelogs <- read.csv('./data/nba_gamelogs/nba_gamelogs_2020-21.csv', 
@@ -96,23 +97,37 @@ starters_df <-
 shots_df <- 
   bind_rows(first_shot_list) %>%
   group_by(team_abbrev = home_team_abbrev, player = home_first_shot) %>%
-  summarise(shots = n()) %>%
+  summarise(shots = n(),
+            .groups = 'drop') %>%
   bind_rows(bind_rows(first_shot_list) %>%
               group_by(team_abbrev = away_team_abbrev, player = away_first_shot) %>%
-              summarise(shots = n())) %>%
+              summarise(shots = n(),
+                        .groups = 'drop')) %>%
   group_by(team_abbrev, player) %>%
-  summarise(shots = sum(shots))
+  summarise(shots = sum(shots),
+            .groups = 'drop')
 
 # Joining first shots by team and starts to get percentage of first shots by start by player
 # Adds the observed odds of a player shooting a first shot given they are a starter
-first_shot_odds_df <-
+first_shot_df <-
   starters_df %>%
-  left_join(shots_df) %>%
+  left_join(shots_df, by = c("player", "team_abbrev")) %>%
   mutate(shots = if_else(is.na(shots), as.integer(0), shots),
-         percentage = shots/starts,
-         odds = case_when(percentage > .5 ~ (percentage / (1 - (percentage))) * -100,
-                          TRUE ~ (100/percentage) - 100)) %>%
-  arrange(team_abbrev, odds)
-  
-write.csv(first_shot_odds_df, "data/curated/nba/current_season_first_shot.csv.gz", row.names = FALSE)
+         percentage = shots/starts)
+
+## Write out main file
+write.csv(first_shot_df, "data/02_curated/nba_first_to_score/current_season_first_shot.csv.gz", row.names = FALSE)
+
+## Write out archive file
+yyyy <- as.character(year(Sys.Date()))
+mm <- str_pad(as.character(month(Sys.Date())), 2, "left", pad = 0)
+dd <- str_pad(as.character(day(Sys.Date())), 2, "left", pad = 0)
+
+if (dir.exists(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)))) {
+  message("directory already exists")
+}else{
+  dir.create(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)), recursive = TRUE)
+}
+
+write.csv(first_shot_df, paste0("data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd, "/", "current_season_first_shot.csv.gz"), row.names = FALSE)
 

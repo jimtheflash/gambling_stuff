@@ -1,4 +1,5 @@
 library(tidyverse)
+library(lubridate)
 
 # Parameters
 
@@ -298,35 +299,29 @@ for (i in 1:length(unique_dates$game_date)) {
   # Formula P(WPa, WPb) = (WPa(1-WPb) / (WPa(1-WPb) + WPb(1-WPa)))
   expected_win_prob <-
     rating_loop_capped %>%
-    mutate(home_exp_win = (home_win_rate*(1-away_win_rate)) / ((home_win_rate*(1-away_win_rate)) + (away_win_rate*(1-home_win_rate))))
+    mutate(home_exp_win = (home_win_rate*(1-away_win_rate)*home_tip_win_parameter) / 
+                          ((home_win_rate*(1-away_win_rate)*home_tip_win_parameter) + (away_win_rate*(1-home_win_rate)*(1-home_tip_win_parameter))))
   
   # Some player's expected win percentage is 0% against an average jumper - when they jump vs each other this leads to NaN values
   # Resetting these cases to 50%
   expected_win_prob <-
     expected_win_prob %>%
-    mutate(home_exp_win = if_else(is.nan(home_exp_win), 0.5, home_exp_win))
+    mutate(home_exp_win = if_else(is.nan(home_exp_win), 0.508, home_exp_win))
   
   # Table that stores wins rates for each height
-  height_rating_home <-
+  height_rating_df <-
     expected_win_prob %>%
     group_by(home_team_height) %>%
     summarise(tips = n(), 
               wins = sum(home_won_tip),
               .groups = 'drop') %>%
-    rename(height = home_team_height)
-
-  height_rating_away <-
-    expected_win_prob %>%
-    group_by(away_team_height) %>%
-    summarise(tips = n(), 
-              wins = tips - sum(home_won_tip),
-              .groups = 'drop') %>%
-    rename(height = away_team_height)
-  
-  # Add smoothing splines?
-  height_rating_df <-
-    height_rating_home %>%
-    rbind.data.frame(height_rating_away) %>%
+    rename(height = home_team_height) %>%
+    bind_rows(expected_win_prob %>%
+                group_by(away_team_height) %>%
+                summarise(tips = n(), 
+                          wins = tips - sum(home_won_tip),
+                          .groups = 'drop') %>%
+                rename(height = away_team_height)) %>%
     group_by(height) %>%
     summarise(tips = sum(tips), 
               wins = sum(wins), 
@@ -507,8 +502,21 @@ brier_buckets_score <-
             brier_avg = mean(brier_score_prob),
             .groups = 'drop') 
 
-write.csv(player_list_df, "data/curated/nba/jump_ball_ratings.csv.gz", row.names = FALSE)
+## Write out main file
+write.csv(player_list_df, "data/02_curated/nba_first_to_score/jump_ball_ratings.csv.gz", row.names = FALSE)
 
+## Write out archive file
+yyyy <- as.character(year(Sys.Date()))
+mm <- str_pad(as.character(month(Sys.Date())), 2, "left", pad = 0)
+dd <- str_pad(as.character(day(Sys.Date())), 2, "left", pad = 0)
+
+if (dir.exists(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)))) {
+  message("directory already exists")
+}else{
+  dir.create(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)), recursive = TRUE)
+}
+
+write.csv(player_list_df, paste0("data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd, "/", "jump_ball_ratings.csv.gz"), row.names = FALSE)
 
 
 

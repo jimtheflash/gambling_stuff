@@ -2,6 +2,7 @@
 # on JUST opening tips for the current season
 
 library(tidyverse)
+library(lubridate)
 
 # Relevant gamelogs
 gamelogs <- read.csv('./data/nba_gamelogs/nba_gamelogs_2020-21.csv', 
@@ -82,4 +83,18 @@ jump_balls_df <-
             win_rate = wins/jumps,
             .groups = 'drop')
 
-write.csv(jump_balls_df, "data/curated/nba/current_season_opening_tip.csv.gz", row.names = FALSE)
+## Write out main file
+write.csv(jump_balls_df, "data/02_curated/nba_first_to_score/current_season_opening_tip.csv.gz", row.names = FALSE)
+
+## Write out archive file
+yyyy <- as.character(year(Sys.Date()))
+mm <- str_pad(as.character(month(Sys.Date())), 2, "left", pad = 0)
+dd <- str_pad(as.character(day(Sys.Date())), 2, "left", pad = 0)
+
+if (dir.exists(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)))) {
+  message("directory already exists")
+}else{
+  dir.create(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)), recursive = TRUE)
+}
+
+write.csv(jump_balls_df, paste0("data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd, "/", "current_season_opening_tip.csv.gz"), row.names = FALSE)

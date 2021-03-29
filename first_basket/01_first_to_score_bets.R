@@ -2,25 +2,34 @@ library(data.table)
 library(tidyverse)
 library(lubridate)
 
+## Set Parameter values
 today_full_date <- gsub("-", "", Sys.Date())
-
-player_ratings <- fread("data/curated/nba/jump_ball_ratings.csv.gz")
-opening_tip <- fread("data/curated/nba/current_season_opening_tip.csv.gz")
-first_shot <- fread("data/curated/nba/current_season_first_shot.csv.gz")
-schedule <- fread(paste0("data/nba_schedules/", today_full_date, ".csv"))
-player_usage <- fread("data/curated/nba/current_season_usage_rate.csv.gz")
-
-current_lineups <- fread("data/02_curated/nba_lineups/rotowire.csv")
-
 home_tip_win_parameter <- .508
 
+## Read Data into Environment
+schedule <- fread(paste0("data/nba_schedules/", today_full_date, ".csv"))
+player_ratings <- fread("data/02_curated/nba_first_to_score/jump_ball_ratings.csv.gz")
+opening_tip <- fread("data/02_curated/nba_first_to_score/current_season_opening_tip.csv.gz")
+first_shot <- fread("data/02_curated/nba_first_to_score/current_season_first_shot.csv.gz")
+player_usage <- fread("data/02_curated/nba_first_to_score/current_season_usage_rate.csv.gz")
+current_lineups <- fread("data/02_curated/nba_lineups/rotowire.csv")
+current_rosters <- fread("data/02_curated/nba_rosters/current.csv")
+
+## Update Player Names (hopefully change to engineering end eventually)
 player_name_changes <-
   tibble(player_api = character(),
          player_lineup = character()) %>%
   add_row(player_api = "Michael Porter Jr.", player_lineup = "Michael Porter") %>%
   add_row(player_api = "Gary Trent Jr.", player_lineup = "Gary Trent") %>%
-  add_row(player_api = "James Ennis III", player_lineup = "James Ennis")
+  add_row(player_api = "James Ennis III", player_lineup = "James Ennis") %>%
+  add_row(player_api = "Robert Williams III", player_lineup = "Robert Williams") %>%
+  add_row(player_api = "Larry Nance Jr.", player_lineup = "Larry Nance") %>%
+  add_row(player_api = "Kelly Oubre Jr.", player_lineup = "Kelly Oubre") %>%
+  add_row(player_api = "Kevin Porter Jr.", player_lineup = "Kevin Porter") %>%
+  add_row(player_api = "Marcus Morris Sr.", player_lineup = "Marcus Morris") %>%
+  add_row(player_api = "Danuel House Jr.", player_lineup = "Danuel House")
 
+## List of teams playing today for a join
 list_of_team_abbrev_id <-
   opening_tip %>%
   distinct(team_abbrev, team_id)
@@ -59,6 +68,8 @@ projected_centers <-
   current_lineups %>%
   filter(LINEUP_DESC != "",
          STARTING_POSITION == "C") %>%
+  left_join(player_name_changes, by = c("PLAYER_NAME" = "player_lineup")) %>%
+  mutate(PLAYER_NAME = coalesce(player_api, PLAYER_NAME)) %>%
   left_join(jumper_aggregates, by = c("PLAYER_NAME" = "jumper")) %>%
   left_join(list_of_team_abbrev_id, by = c("TEAM_ABBREVIATION" = "team_abbrev")) %>%
   select(TEAM_ABBREVIATION, team_id, PLAYER_NAME, jumps, exp_win_adj, opening_tip_wins, opening_tip_jumps, opening_tip_win_rate)
@@ -96,7 +107,7 @@ today_games_jumper <-
                                                  TRUE ~ (100/exp_score_first) - 100), 0)) %>%
   select(-c(HOME_TEAM_ID, VISITOR_TEAM_ID))
 
-team_to_score_first_df <-
+first_team_to_score_df <-
   today_games_jumper %>%
   mutate(away_rating = round(away_rating, 3),
          home_rating = round(home_rating, 3),
@@ -111,14 +122,14 @@ team_to_score_first_df <-
 
 ########## Determining First Player To Score Odds ############
 team_odds <-
-  team_to_score_first_df %>%
+  first_team_to_score_df %>%
   mutate(team_win_tip = if_else(home_jumper == exp_winning_jumper, win_tip_prob, 1 - win_tip_prob),
          team_score_first = if_else(home_jumper == exp_winning_jumper, team_score_first_prob, 1 - team_score_first_prob)) %>%
-  select(team = home_team, jumper = home_jumper, team_win_tip, team_score_first) %>%
-  bind_rows(team_to_score_first_df %>%
+  select(team = home_team, team_win_tip, team_score_first) %>%
+  bind_rows(first_team_to_score_df %>%
               mutate(team_win_tip = if_else(away_jumper == exp_winning_jumper, win_tip_prob, 1 - win_tip_prob),
                      team_score_first = if_else(away_jumper == exp_winning_jumper, team_score_first_prob, 1 - team_score_first_prob)) %>%
-              select(team = away_team, jumper = away_jumper, team_win_tip, team_score_first))
+              select(team = away_team, team_win_tip, team_score_first))
 
 first_shot_joined <-
   projected_starters %>%
@@ -150,7 +161,37 @@ first_player_to_score_df <-
          first_shot_usg, first_shot_make, team_first_shot_make, game_first_shot_make, first_make_fg_odds) %>%
   arrange(team, first_make_fg_odds)
   
+## Write out main file for first team to score
+write.csv(first_team_to_score_df, "data/02_curated/nba_first_to_score/first_team_to_score.csv.gz", row.names = FALSE)
 
+## Write out archive file for first team to score
+yyyy <- as.character(year(Sys.Date()))
+mm <- str_pad(as.character(month(Sys.Date())), 2, "left", pad = 0)
+dd <- str_pad(as.character(day(Sys.Date())), 2, "left", pad = 0)
+
+if (dir.exists(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)))) {
+  message("directory already exists")
+}else{
+  dir.create(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)), recursive = TRUE)
+}
+
+write.csv(first_team_to_score_df, paste0("data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd, "/", "first_team_to_score.csv.gz"), row.names = FALSE)
+
+## Write out main file for first player to score
+write.csv(first_player_to_score_df, "data/02_curated/nba_first_to_score/first_player_to_score.csv.gz", row.names = FALSE)
+
+## Write out archive file for first player to score
+yyyy <- as.character(year(Sys.Date()))
+mm <- str_pad(as.character(month(Sys.Date())), 2, "left", pad = 0)
+dd <- str_pad(as.character(day(Sys.Date())), 2, "left", pad = 0)
+
+if (dir.exists(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)))) {
+  message("directory already exists")
+}else{
+  dir.create(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)), recursive = TRUE)
+}
+
+write.csv(first_player_to_score_df, paste0("data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd, "/", "first_player_to_score.csv.gz"), row.names = FALSE)
 
 
 # calculate_jump_odds <- function(player_1, player_2, player_list_df){
