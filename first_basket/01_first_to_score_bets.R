@@ -64,14 +64,17 @@ projected_starters <-
   left_join(player_name_changes, by = c("PLAYER_NAME" = "player_lineup")) %>%
   mutate(PLAYER_NAME = coalesce(player_api, PLAYER_NAME))
 
-projected_centers <-
+projected_jumpers <-
   current_lineups %>%
-  filter(LINEUP_DESC != "",
-         STARTING_POSITION == "C") %>%
+  filter(LINEUP_DESC != "") %>%
   left_join(player_name_changes, by = c("PLAYER_NAME" = "player_lineup")) %>%
   mutate(PLAYER_NAME = coalesce(player_api, PLAYER_NAME)) %>%
   left_join(jumper_aggregates, by = c("PLAYER_NAME" = "jumper")) %>%
   left_join(list_of_team_abbrev_id, by = c("TEAM_ABBREVIATION" = "team_abbrev")) %>%
+  group_by(TEAM_ABBREVIATION) %>%
+  filter(opening_tip_jumps == max(opening_tip_jumps)) %>%
+  # If tie on team for opening tip jumps this year, filter by total overall jumps
+  filter(jumps == max(jumps)) %>%
   select(TEAM_ABBREVIATION, team_id, PLAYER_NAME, jumps, exp_win_adj, opening_tip_wins, opening_tip_jumps, opening_tip_win_rate)
 
 today_games <-
@@ -81,7 +84,7 @@ today_games <-
 ####### Determining First Team To Score Probabilities #########
 today_games_jumper <-
   today_games %>%
-  left_join(projected_centers, by = c("HOME_TEAM_ID" = "team_id")) %>%
+  left_join(projected_jumpers, by = c("HOME_TEAM_ID" = "team_id")) %>%
   rename(home_jumper = PLAYER_NAME,
          home_team_abbrev = TEAM_ABBREVIATION,
          home_total_jumps = jumps,
@@ -89,7 +92,7 @@ today_games_jumper <-
          home_opening_jumps = opening_tip_jumps,
          home_opening_win_rate = opening_tip_win_rate,
          home_rating = exp_win_adj) %>%
-  left_join(projected_centers, by = c("VISITOR_TEAM_ID" = "team_id")) %>%
+  left_join(projected_jumpers, by = c("VISITOR_TEAM_ID" = "team_id")) %>%
   rename(away_jumper = PLAYER_NAME,
          away_team_abbrev = TEAM_ABBREVIATION,
          away_total_jumps = jumps,
