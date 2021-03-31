@@ -40,7 +40,7 @@ def get_raw_rosters() -> bool:
 
 
 def main() -> bool:
-    # raw_success = get_raw_rosters()
+    raw_success = get_raw_rosters()
     teams_df = pd.read_csv(
         Path(BASE_DATA_PATH).joinpath("01_raw", "nba_teams", "current.csv")
     )
