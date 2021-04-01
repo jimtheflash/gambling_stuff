@@ -3,7 +3,7 @@ library(dplyr)
 library(ggplot2)
 
 ##### Prop Bet Tracker ######
-bets_df <- read_excel("./data/curated/nba/Prop Bets.xlsx", sheet = "Sheet1")
+bets_df <- read_excel("./scratch/Prop Bets.xlsx", sheet = "Sheet1")
 
 bets_props <- 
   bets_df %>% 
@@ -132,7 +132,6 @@ possession_binded <-
          possession = if_else(possession == "LA Clippers", "Los Angeles Clippers", possession),
          score_first = if_else(score_first == "LA Clippers", "Los Angeles Clippers", score_first)) %>%
   rename(Home = home, Away = away, Date = game_date)
-
 
 test_df <-
   bets_team %>%
