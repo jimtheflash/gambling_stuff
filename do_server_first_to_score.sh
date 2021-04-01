@@ -14,5 +14,6 @@ echo "First to score bets"
 Rscript first_basket/'01_first_to_score_bets.R'
 
 git add data/02_curated/nba_first_to_score/*.csv.gz
+git add data/02_curated/nba_first_to_score/*/*/*/*.csv.gz
 git commit -m "Updating first to score"
 git push
