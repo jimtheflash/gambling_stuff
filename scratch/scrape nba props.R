@@ -27,16 +27,35 @@ game_event_market_groups <- game_event$eventmarketgroups
 
 ## set a timestamp so we know when these odds were refreshed
 time_stamp <- Sys.time()
+
 ## get the big ol' json from dk - this has all the nba markets
 nba_markets <- jsonlite::fromJSON('https://gaming-us-il.draftkings.com//sites/US-IL-SB/api/v1/eventgroup/103/full?includePromotions=true&format=json')
+
 ## start parsing
 offer_categories <- nba_markets$eventGroup$offerCategories
-## under the game props offer category we want the data.frame with the offer subcats (which is nested, and looks weird if unlisted, so accessing the first element)
+
+# player props (for first fg)
+player_props <- offer_categories[offer_categories$name == 'Player Props', ]$offerSubcategoryDescriptors[[1]]$offerSubcategory
+ffg <- player_props$offers[player_props$name == 'First Field Goal'][[1]]           
+
+
+output_list <- list()
+for (i in 1:length(ffg)) {
+  outcomes <- ffg[[i]]$outcomes[[1]]
+  output_list[[i]] <- outcomes
+}
+
+fpts_df <- do.call(rbind, output_list)
+
+# under the game props offer category we want the data.frame with the offer subcats (which is nested, and looks weird if unlisted, so accessing the first element)
 game_props <- offer_categories[offer_categories$name == "Game Props", ]$offerSubcategoryDescriptors[[1]]
+
 ## same deal with the first team to score sub-category
 first_team_to_score <- game_props[game_props$offerSubcategory == "First Team to Score", ]$offerSubcategory$offers[[1]]
+
 ## get all the outcome data.frames into a list for a quick loop
 outcomes <- do.call(rbind, first_team_to_score)$outcomes
+
 ## loop through the outcomes to make a list of data.frames to be combined
 outcomes_df_list <- list()
 for (o in outcomes) {
@@ -48,8 +67,15 @@ for (o in outcomes) {
   )
   outcomes_df_list[[length(outcomes_df_list) + 1]] <- output_df
 }
+
 ## stitch together and presto!
 output <- do.call(rbind, outcomes_df_list)
+
+
+### now trying to get the first player to score props
+sc <- offer_categories$offerSubcategoryDescriptors
+
+
 
 
 # betonline ---------------------------------------------------------------
