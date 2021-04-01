@@ -3,10 +3,17 @@
 
 library(tidyverse)
 library(lubridate)
+library(data.table)
 
 # Relevant gamelogs
 gamelogs <- read.csv('./data/nba_gamelogs/nba_gamelogs_2020-21.csv', 
                      colClasses = 'character')
+
+# Reads in list of teams to join on team id
+team_list <- 
+  fread("./data/01_raw/nba_teams/current.csv") %>%
+  select(TEAM_ID, ABBREVIATION) %>%
+  mutate(TEAM_ID = as.character(TEAM_ID))
 
 unique_games <- unique(gamelogs$GAME_ID)
 
@@ -31,9 +38,12 @@ for (g in unique_games) {
                   colClasses = 'character',
                   na.strings = c('')) %>%
     mutate(EVENTNUM = as.numeric(EVENTNUM)) %>%
-    filter(grepl("jump ball", tolower(HOMEDESCRIPTION)),
+    filter(grepl("jump ball", tolower(HOMEDESCRIPTION)) | HOMEDESCRIPTION == " ",
            PERIOD == "1",
-           PCTIMESTRING == "12:00")
+           PCTIMESTRING == "12:00") %>%
+    left_join(team_list, by = c("PLAYER3_ID" = "TEAM_ID")) %>%
+    mutate(PLAYER3_TEAM_ABBREVIATION = coalesce(PLAYER3_TEAM_ABBREVIATION, ABBREVIATION)) %>%
+    select(-ABBREVIATION)
   
   home_team_id <- as.character(as.integer(pbp$PLAYER1_TEAM_ID))
   home_team_abbrev <- as.character(pbp$PLAYER1_TEAM_ABBREVIATION)

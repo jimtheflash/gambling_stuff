@@ -1,5 +1,6 @@
 library(tidyverse)
 library(lubridate)
+library(data.table)
 
 # Parameters
 
@@ -25,6 +26,12 @@ for (i in 1:length(file_list)){
   # Bind the new data to the dataset
   player_info_df <- rbind.data.frame(player_info_df, temp_player) 
 }
+
+# Reads in list of teams to join on team id
+team_list <- 
+  fread("./data/01_raw/nba_teams/current.csv") %>%
+  select(TEAM_ID, ABBREVIATION) %>%
+  mutate(TEAM_ID = as.character(TEAM_ID))
 
 # Relevant fields for players
 # Changing height to inches
@@ -86,13 +93,19 @@ for (g in unique_games) {
   csv_path <- paste0('./data/nba_pbp/', g, '.csv')
   
   # Finding all jump balls in game, noting if it is opening tip
-  pbp <- 
+  pbp_jumps <- 
     read.csv(csv_path, 
              colClasses = 'character',
              na.strings = c('')) %>%
     mutate(EVENTNUM = as.numeric(EVENTNUM)) %>%
-    filter(grepl("jump ball", tolower(HOMEDESCRIPTION))) %>%
+    filter(grepl("jump ball", tolower(HOMEDESCRIPTION)) | HOMEDESCRIPTION == " ") %>%
     mutate(opening_jump = if_else(PERIOD == "1" & PCTIMESTRING == "12:00", TRUE, FALSE))
+  
+  pbp <-
+    pbp_jumps %>%
+    left_join(team_list, by = c("PLAYER3_ID" = "TEAM_ID")) %>%
+    mutate(PLAYER3_TEAM_ABBREVIATION = coalesce(PLAYER3_TEAM_ABBREVIATION, ABBREVIATION)) %>%
+    select(-ABBREVIATION)
   
   score_first_df <- 
     read.csv(csv_path, 
