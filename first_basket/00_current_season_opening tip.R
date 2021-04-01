@@ -72,15 +72,16 @@ first_possession_df <-
 # Creates table of each jumper and their opening jump stats for this season
 jump_balls_df <-
   first_possession_df %>%
-  select(jumper = home_team_jumper, team_abbrev = home_team_abbrev, team_id = home_team_id, home_win_tip) %>%
+  select(game_date, jumper = home_team_jumper, team_abbrev = home_team_abbrev, team_id = home_team_id, home_win_tip) %>%
   bind_rows(first_possession_df %>% 
-              select(jumper = away_team_jumper, team_abbrev = away_team_abbrev, team_id = away_team_id, home_win_tip) %>%
+              select(game_date, jumper = away_team_jumper, team_abbrev = away_team_abbrev, team_id = away_team_id, home_win_tip) %>%
               #Reverse home_win_tip for away players
               mutate(home_win_tip = if_else(home_win_tip, FALSE, TRUE))) %>%
   group_by(jumper, team_abbrev, team_id) %>%
   summarise(jumps = n(), 
             wins = sum(home_win_tip), 
             win_rate = wins/jumps,
+            last_jump = max(game_date),
             .groups = 'drop')
 
 ## Write out main file

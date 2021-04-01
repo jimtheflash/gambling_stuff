@@ -13,7 +13,7 @@ opening_tip <- fread("data/02_curated/nba_first_to_score/current_season_opening_
 first_shot <- fread("data/02_curated/nba_first_to_score/current_season_first_shot.csv.gz")
 player_usage <- fread("data/02_curated/nba_first_to_score/current_season_usage_rate.csv.gz")
 current_lineups <- fread("data/02_curated/nba_lineups/rotowire.csv")
-current_rosters <- fread("data/02_curated/nba_rosters/current.csv")
+current_rosters <- fread("data/02_curated/nba_rosters/current.csv.gz")
 
 ## Update Player Names (hopefully change to engineering end eventually)
 player_name_changes <-
@@ -40,6 +40,7 @@ opening_tip_aggregates <-
   summarise(opening_tip_jumps = sum(jumps), 
             opening_tip_wins = sum(wins), 
             opening_tip_win_rate = opening_tip_wins/opening_tip_jumps,
+            last_jump = max(last_jump),
             .groups = 'drop')
 
 first_shot_aggregates <-
@@ -50,13 +51,21 @@ first_shot_aggregates <-
             percentage = shots/starts,
             .groups = 'drop')
 
+# Need to fix exp win to the height value of that player
 jumper_aggregates <-
-  player_ratings %>%
+  current_rosters %>%
+  left_join(player_ratings, by = c("PLAYER_NAME" = "jumper")) %>%
+  rename(jumper = PLAYER_NAME) %>%
   select(jumper, jumps, exp_win_adj) %>%
-  left_join(opening_tip_aggregates) %>%
-  mutate(opening_tip_jumps = replace_na(opening_tip_jumps, 0),
+  left_join(opening_tip_aggregates, by = "jumper") %>%
+  left_join(select(first_shot_aggregates, player, starts), by = c("jumper" = "player")) %>%
+  mutate(jumps = replace_na(jumps, 0),
+         exp_win_adj = replace_na(exp_win_adj, 0),
+         opening_tip_jumps = replace_na(opening_tip_jumps, 0),
          opening_tip_wins = replace_na(opening_tip_wins, 0),
-         opening_tip_win_rate = replace_na(opening_tip_win_rate, 0))
+         opening_tip_win_rate = replace_na(opening_tip_win_rate, 0),
+         starts = replace_na(starts, 0)) %>%
+  mutate(jump_rate = opening_tip_jumps/starts)
 
 projected_starters <-
   current_lineups %>%
@@ -72,6 +81,11 @@ projected_jumpers <-
   left_join(jumper_aggregates, by = c("PLAYER_NAME" = "jumper")) %>%
   left_join(list_of_team_abbrev_id, by = c("TEAM_ABBREVIATION" = "team_abbrev")) %>%
   group_by(TEAM_ABBREVIATION) %>%
+  # Filter to player who jumps in highest percent of starts
+  filter(jump_rate == max(jump_rate)) %>%
+  # If a tie, filter to player who jumped on last day
+  filter(last_jump == max(last_jump, na.rm = T)) %>%
+  # If tie on team for last jump date, filter by more opening season jumps
   filter(opening_tip_jumps == max(opening_tip_jumps)) %>%
   # If tie on team for opening tip jumps this year, filter by total overall jumps
   filter(jumps == max(jumps)) %>%
