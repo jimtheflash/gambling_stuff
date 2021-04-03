@@ -27,7 +27,8 @@ player_name_changes <-
   add_row(player_api = "Kelly Oubre Jr.", player_lineup = "Kelly Oubre") %>%
   add_row(player_api = "Kevin Porter Jr.", player_lineup = "Kevin Porter") %>%
   add_row(player_api = "Marcus Morris Sr.", player_lineup = "Marcus Morris") %>%
-  add_row(player_api = "Danuel House Jr.", player_lineup = "Danuel House")
+  add_row(player_api = "Danuel House Jr.", player_lineup = "Danuel House") %>%
+  add_row(player_api = "Tim Hardaway Jr.", player_lineup = "Tim Hardaway")
 
 ## List of teams playing today for a join
 list_of_team_abbrev_id <-
@@ -79,6 +80,7 @@ projected_jumpers <-
   left_join(player_name_changes, by = c("PLAYER_NAME" = "player_lineup")) %>%
   mutate(PLAYER_NAME = coalesce(player_api, PLAYER_NAME)) %>%
   left_join(jumper_aggregates, by = c("PLAYER_NAME" = "jumper")) %>%
+  mutate(jump_rate = if_else(is.nan(jump_rate), 0, jump_rate)) %>%
   left_join(list_of_team_abbrev_id, by = c("TEAM_ABBREVIATION" = "team_abbrev")) %>%
   group_by(TEAM_ABBREVIATION) %>%
   # Filter to player who jumps in highest percent of starts
@@ -152,6 +154,9 @@ first_shot_joined <-
   projected_starters %>%
   left_join(first_shot_aggregates, by = c("PLAYER_NAME" = "player")) %>%
   select(TEAM_ABBREVIATION, LINEUP_DESC, TO_PLAY_DESC, PLAYER_NAME, STARTING_POSITION, starts, shots, percentage) %>%
+  mutate(starts = coalesce(starts, 0),
+         shots = coalesce(shots, 0),
+         percentage = coalesce(percentage, 0)) %>%
   inner_join(team_odds, by = c("TEAM_ABBREVIATION" = "team")) %>%
   select(team = TEAM_ABBREVIATION, player = PLAYER_NAME, starts, first_shots = shots, first_shot_percent = percentage, team_win_tip, team_score_first) %>%
   left_join(select(player_usage, PLAYER_NAME, TEAM_ABBREVIATION, USG, FG_USG, FG_PCT), by = c("team" = "TEAM_ABBREVIATION", "player" = "PLAYER_NAME")) %>%
