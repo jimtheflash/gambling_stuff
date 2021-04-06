@@ -95,7 +95,7 @@ projected_jumpers <-
 
 today_games <-
   schedule %>%
-  select(HOME_TEAM_ID, VISITOR_TEAM_ID)
+  distinct(HOME_TEAM_ID, VISITOR_TEAM_ID)
 
 ####### Determining First Team To Score Probabilities #########
 today_games_jumper <-
