@@ -86,12 +86,13 @@ projected_jumpers <-
   group_by(TEAM_ABBREVIATION) %>%
   # Filter to player who jumps in highest percent of starts
   filter(jump_rate == max(jump_rate)) %>%
-  # If a tie, filter to player who jumped on last day
-  filter(last_jump == max(last_jump, na.rm = T)) %>%
-  # If tie on team for last jump date, filter by more opening season jumps
+  # If team has no players that has jumped this season, filter to Center, otherwise filter to the player who jumped last
+  filter(if (sum(jump_rate) == 0) STARTING_POSITION == "C" else last_jump == max(last_jump, na.rm = T)) %>%
+  # If tie on team for last jump date (trade, etc), filter by more opening season jumps
   filter(opening_tip_jumps == max(opening_tip_jumps)) %>%
   # If tie on team for opening tip jumps this year, filter by total overall jumps
   filter(jumps == max(jumps)) %>%
+  # If no players with opening tip jumps this year, pick the center
   select(TEAM_ABBREVIATION, team_id, PLAYER_NAME, jumps, exp_win_adj, opening_tip_wins, opening_tip_jumps, opening_tip_win_rate)
 
 today_games <-
