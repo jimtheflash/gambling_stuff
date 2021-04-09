@@ -218,25 +218,25 @@ if (dir.exists(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "
 write.csv(first_player_to_score_df, paste0("data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd, "/", "first_player_to_score.csv.gz"), row.names = FALSE)
 
 
-# calculate_jump_odds <- function(player_1, player_2, player_list_df){
-#   
+# calculate_jump_odds <- function(player_1, player_2, player_ratings){
+# 
 #   player_1_data <-
-#     player_list_df %>%
+#     player_ratings %>%
 #     filter(jumper == player_1)
-#   
+# 
 #   player_2_data <-
-#     player_list_df %>%
+#     player_ratings %>%
 #     filter(jumper == player_2)
-#   
+# 
 #   if (nrow(player_1_data) == 0 | nrow(player_2_data) == 0) {
 #     stop("Check to make sure you spelled a player's name correctly!")
 #   }
-#   include hoem win parameter
-#   
-#   player_1_win <- 
-#     round((player_1_data$exp_win*(1-player_2_data$exp_win)) / 
-#             ((player_1_data$exp_win*(1-player_2_data$exp_win)) + (player_2_data$exp_win*(1-player_1_data$exp_win))), 2)
-#   
+#   #include home win parameter
+# 
+#   player_1_win <-
+#     round((player_1_data$exp_win_adj*(1-player_2_data$exp_win_adj)) /
+#             ((player_1_data$exp_win_adj*(1-player_2_data$exp_win_adj)) + (player_2_data$exp_win_adj*(1-player_1_data$exp_win_adj))), 2)
+# 
 #   # Always print favored player first
 #   if (player_1_win >= .5) {
 #     message(paste0(player_1, " wins a tip vs ", player_2, " ", player_1_win * 100, " percent of the time"))
@@ -245,7 +245,7 @@ write.csv(first_player_to_score_df, paste0("data/02_curated/nba_first_to_score/"
 #   }
 # }
 # 
-# player_1 <- "Nikola Jokic"
-# player_2 <- "Joel Embiid"
-# calculate_jump_odds(player_1, player_2, player_list_df)
-# 
+# player_1 <- "Bismack Biyombo"
+# player_2 <- "Brook Lopez"
+# calculate_jump_odds(player_1, player_2, player_ratings)
+
