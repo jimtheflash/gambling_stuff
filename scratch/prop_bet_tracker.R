@@ -2,59 +2,9 @@ library(readxl)
 library(dplyr)
 library(ggplot2)
 
-##### Prop Bet Tracker ######
-bets_df <- read_excel("./scratch/Prop Bets.xlsx", sheet = "Sheet1")
-
-bets_props <- 
-  bets_df %>% 
-  mutate(type = if_else(`Bet 2` == "First Team To Score", "Team", "Player"),
-         decimal_odds = if_else(Odds > 0, (Odds/100) + 1, (100/-Odds) + 1),
-         wager = 1,
-         net = if_else(Outcome == "Win", decimal_odds - wager, -wager))
-
-bets_summary <-
-  bets_props %>%
-  group_by(type) %>%
-  summarise(bets = n(),
-            wins = sum(Result == "Win"),
-            losses = bets - wins,
-            win_rate = wins/bets,
-            net = sum(net))
-
-bets_team <-
-  bets_props %>%
-  filter(type == "Team") %>%
-  mutate(bet_number = row_number(),
-         running_sum = cumsum(net))
-         
-bets_player <-
-  bets_props %>%
-  filter(type == "Player") %>%
-  mutate(bet_number = row_number(),
-         running_sum = cumsum(net))
-
-## Team Rolling Sum
-team_plot <-
-  ggplot(data = bets_team, aes(x= bet_number, y = running_sum)) +
-  geom_line() +
-  ggtitle("First Team To Score") +
-  xlab("Bet Number") +
-  ylab("Units")
-
-## Player Rolling Sum
-player_plot <-
-  ggplot(data = bets_player, aes(x= bet_number, y = running_sum)) +
-  geom_line() +
-  ggtitle("First Player To Score") +
-  xlab("Bet Number") +
-  ylab("Units")
-
-team_plot
-player_plot
-
 ########### Gamelogs ###############
 gamelogs <- read.csv('./data/nba_gamelogs/nba_gamelogs_2020-21.csv', 
-                    colClasses = 'character')
+                     colClasses = 'character')
 
 unique_games <- unique(gamelogs$GAME_ID)
 
@@ -133,6 +83,163 @@ possession_binded <-
          score_first = if_else(score_first == "LA Clippers", "Los Angeles Clippers", score_first)) %>%
   rename(Home = home, Away = away, Date = game_date)
 
+
+
+######### Prop Bet Tracker ############
+bets_df <- read_excel("./scratch/Prop Bets.xlsx", sheet = "Sheet1")
+
+bets_props <- 
+  bets_df %>% 
+  mutate(type = if_else(`Bet 2` == "First Team To Score", "Team", "Player"),
+         decimal_odds = if_else(Odds > 0, (Odds/100) + 1, (100/-Odds) + 1),
+         wager = 1,
+         net = if_else(Outcome == "Win", decimal_odds - wager, -wager)) %>%
+  filter(!is.na(Result)) %>%
+  mutate(model = if_else(Date <= "2021-03-17", "Old", "New"))
+
+bets_summary_all <-
+  bets_props %>%
+  group_by(type) %>%
+  summarise(bets = n(),
+            wins = sum(Outcome == "Win"),
+            losses = bets - wins,
+            win_rate = wins/bets,
+            net = sum(net))
+
+bets_team_all <-
+  bets_props %>%
+  filter(type == "Team") %>%
+  mutate(bet_number = row_number(),
+         running_sum = cumsum(net))
+         
+bets_player_all <-
+  bets_props %>%
+  filter(type == "Player") %>%
+  mutate(bet_number = row_number(),
+         running_sum = cumsum(net))
+
+## Team Rolling Sum
+team_plot_all <-
+  ggplot(data = bets_team_all, aes(x= bet_number, y = running_sum)) +
+  geom_line() +
+  ggtitle("First Team To Score - All") +
+  xlab("Bet Number") +
+  ylab("Units")
+
+## Player Rolling Sum
+player_plot_all <-
+  ggplot(data = bets_player_all, aes(x= bet_number, y = running_sum)) +
+  geom_line() +
+  ggtitle("First Player To Score - All") +
+  xlab("Bet Number") +
+  ylab("Units")
+
+team_plot_all
+player_plot_all
+
+## Prop Bets New Model
+bets_summary_new_model <-
+  bets_props %>%
+  filter(model == "New") %>%
+  group_by(type) %>%
+  summarise(bets = n(),
+            wins = sum(Outcome == "Win"),
+            losses = bets - wins,
+            win_rate = wins/bets,
+            net = sum(net))
+
+bets_team_new_model <-
+  bets_props %>%
+  filter(model == "New") %>%
+  filter(type == "Team") %>%
+  mutate(bet_number = row_number(),
+         running_sum = cumsum(net))
+
+bets_player_new_model<-
+  bets_props %>%
+  filter(model == "New") %>%
+  filter(type == "Player") %>%
+  mutate(bet_number = row_number(),
+         running_sum = cumsum(net))
+
+## Team Rolling Sum
+team_plot_new_model <-
+  ggplot(data = bets_team_new_model, aes(x= bet_number, y = running_sum)) +
+  geom_line() +
+  ggtitle("First Team To Score - New Model") +
+  xlab("Bet Number") +
+  ylab("Units")
+
+## Player Rolling Sum
+player_plot_new_model <-
+  ggplot(data = bets_player_new_model, aes(x= bet_number, y = running_sum)) +
+  geom_line() +
+  ggtitle("First Player To Score - New Model") +
+  xlab("Bet Number") +
+  ylab("Units")
+
+team_plot_new_model
+player_plot_new_model
+
+bets_summary_new_model_team <-
+  bets_team_new_model %>%
+  group_by(`Bet 3`) %>%
+  summarise(bets = n(),
+            wins = sum(Outcome == "Win"),
+            losses = bets - wins,
+            win_rate = wins/bets,
+            net = sum(net))
+
+outcomes_new_model_team <-
+  bets_team_new_model %>%
+  left_join(possession_binded) %>%
+  mutate(pick_win_tip = if_else(Pick == possession, TRUE, FALSE),
+         pick_score_first = if_else(Pick == score_first, TRUE, FALSE),
+         won_tip_and_score_first = if_else(possession == score_first, TRUE, FALSE)) %>%
+  group_by(pick_win_tip, pick_score_first) %>%
+  count()
+
+outcomes_new_model_team_by_favorite <-
+  bets_team_new_model %>%
+  left_join(possession_binded) %>%
+  mutate(pick_win_tip = if_else(Pick == possession, TRUE, FALSE),
+         pick_score_first = if_else(Pick == score_first, TRUE, FALSE),
+         won_tip_and_score_first = if_else(possession == score_first, TRUE, FALSE)) %>%
+  group_by(`Bet 3`, pick_win_tip, pick_score_first) %>%
+  count()
+
+## Team Rolling Sum By Favorites/Underdogs
+bets_favorites <-
+  bets_props %>%
+  filter(type == "Team", `Bet 3` == "Favorite") %>%
+  mutate(bet_number = row_number(),
+         running_sum = cumsum(net))
+
+bets_underdogs <-
+  bets_props %>%
+  filter(type == "Team", `Bet 3` == "Underdog") %>%
+  mutate(bet_number = row_number(),
+         running_sum = cumsum(net))
+
+favorites_plot <-
+  ggplot(data = bets_favorites, aes(x= bet_number, y = running_sum)) +
+  geom_line() +
+  ggtitle("First Team To Score - Favorites") +
+  xlab("Bet Number") +
+  ylab("Units")
+
+underdogs_plot <-
+  ggplot(data = bets_underdogs, aes(x= bet_number, y = running_sum)) +
+  geom_line() +
+  ggtitle("First Team To Score - Underdogs") +
+  xlab("Bet Number") +
+  ylab("Units")
+
+favorites_plot
+underdogs_plot
+
+
+## From before ##
 test_df <-
   bets_team %>%
   left_join(possession_binded) %>%
@@ -149,6 +256,14 @@ mean(test_df$pick_win_tip, na.rm = T)
 mean(test_df$pick_score_first, na.rm = T)
 mean(test_df$won_tip_and_score_first, na.rm = T)
 
-
+##### PLAYER PROP ANALYSIS #####
+player_return <-
+  bets_player_all %>%
+  group_by(Pick) %>%
+  summarise(bets = n(),
+            wins = sum(Outcome == "Win"),
+            losses = bets - wins,
+            win_rate = wins/bets,
+            net = sum(net))
 
 
