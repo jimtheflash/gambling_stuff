@@ -171,7 +171,8 @@ possession_df <-
          away_team_person_id, away_team_jumper, away_team_height, away_team_abbrev,
          possession, height_diff, home_won_tip, home_score_first) %>%
   filter(!is.na(home_team_height),
-         !is.na(away_team_height))
+         !is.na(away_team_height)) %>%
+  mutate(row_count = row_number())
 
 # Set of dates to loop through for test data
 unique_dates <-
@@ -196,20 +197,38 @@ for (i in 1:length(unique_dates$game_date)) {
   message(unique_dates$game_date[i])
   
   # Splitting data into train and test sets
-  possession_train <-
-    possession_df %>%
-    filter(game_date < unique_dates$game_date[i])
-  
   possession_test <-
     possession_df %>%
     filter(game_date == unique_dates$game_date[i])
   
-  # Table that stores win rates for each jumper
-  jump_balls_df <-
-    possession_train %>%
-    select(jumper = home_team_jumper, team_abbrev = home_team_abbrev, opening_jump, home_won_tip) %>%
+  rolling_game_count_df <-
+    possession_df %>%
+    filter(game_date < unique_dates$game_date[i]) %>%
+    select(row_count, game_date, jumper = home_team_jumper) %>%
     bind_rows(possession_train %>%
-                select(jumper = away_team_jumper, team_abbrev = away_team_abbrev, opening_jump, home_won_tip) %>%
+                select(row_count, game_date, jumper = away_team_jumper)) %>%
+    arrange(jumper, row_count) %>%
+    group_by(jumper) %>%
+    mutate(game_count = row_number(),
+           max_game_count = max(game_count),
+           last_30_jumps = if_else(max_game_count - game_count < 30, TRUE, FALSE)) %>%
+    select(-max_game_count)
+  
+  # Creating new dataframe for iterative process, run this line when restarting iteration to reset dataframe
+  possession_train <-
+    possession_df %>%
+    filter(game_date < unique_dates$game_date[i]) %>%
+    left_join(rolling_game_count_df, by = c("row_count", "game_date", "home_team_jumper" = "jumper")) %>%
+    rename(home_game_count = game_count, home_last_30_jumps = last_30_jumps) %>%
+    left_join(rolling_game_count_df, by = c("row_count", "game_date", "away_team_jumper" = "jumper")) %>%
+    rename(away_game_count = game_count, away_last_30_jumps = last_30_jumps)
+  
+  # Table that stores win rates for each jumper
+  jump_balls_all <-
+    possession_train %>%
+    select(jumper = home_team_jumper, team_abbrev = home_team_abbrev, opening_jump, home_won_tip, last_30_jumps = home_last_30_jumps) %>%
+    bind_rows(possession_train %>%
+                select(jumper = away_team_jumper, team_abbrev = away_team_abbrev, opening_jump, home_won_tip, last_30_jumps = away_last_30_jumps) %>%
                 #Reverse home_win_tip for away players
                 mutate(home_won_tip = if_else(home_won_tip, FALSE, TRUE))) %>%
     group_by(jumper) %>%
@@ -218,20 +237,35 @@ for (i in 1:length(unique_dates$game_date)) {
               win_rate = wins/jumps,
               .groups = 'drop')
   
+  jump_balls_last_30 <-
+    possession_train %>%
+    select(jumper = home_team_jumper, team_abbrev = home_team_abbrev, opening_jump, home_won_tip, last_30_jumps = home_last_30_jumps) %>%
+    bind_rows(possession_train %>%
+                select(jumper = away_team_jumper, team_abbrev = away_team_abbrev, opening_jump, home_won_tip, last_30_jumps = away_last_30_jumps) %>%
+                #Reverse home_win_tip for away players
+                mutate(home_won_tip = if_else(home_won_tip, FALSE, TRUE))) %>%
+    filter(last_30_jumps) %>%
+    group_by(jumper) %>%
+    summarise(jumps = n(),
+              wins = sum(home_won_tip),
+              win_rate_30 = wins/jumps,
+              .groups = 'drop')
+  
   jump_balls_for_join <-
-    jump_balls_df %>%
-    select(jumper, jumps, win_rate)
+    jump_balls_all %>%
+    select(jumper, jumps, win_rate) %>%
+    left_join(select(jump_balls_last_30, jumper, win_rate_30), by = "jumper")
   
   # For each jump, adding both player's overall win rate and total jump count
   rating_loop_df_prep <-
     possession_train %>%
     left_join(jump_balls_for_join, by = c("home_team_jumper" = "jumper")) %>%
-    rename(home_win_rate = win_rate, home_jumps = jumps) %>%
+    rename(home_win_rate = win_rate, home_jumps = jumps, home_win_rate_30 = win_rate_30) %>%
     left_join(jump_balls_for_join, by = c("away_team_jumper" = "jumper")) %>%
-    rename(away_win_rate = win_rate, away_jumps = jumps)
+    rename(away_win_rate = win_rate, away_jumps = jumps, away_win_rate_30 = win_rate_30)
   
-  # Creating new dataframe for iterative process, run this line when restarting iteration to reset dataframe
-  rating_loop_df <- rating_loop_df_prep
+  rating_loop_df <-
+    rating_loop_df_prep
   
   # Iterative process of updating player ratings to adjust for opponent strength
   # Output is a player's probability of beating a 50% opponent
@@ -248,6 +282,9 @@ for (i in 1:length(unique_dates$game_date)) {
     #message(j)
     #message(change)
     
+    
+    ###### NEED TO ACCOUNT FOR WHETHER OPPONENT WAS IN LAST 30 GAMES? MAYBE?
+    
     # Scores a player's jump performance for each game
     # If player wins tip, score is opponent win rate + 0.5
     # If player loses tip, score is (opponent win rate - 1) + 0.5
@@ -257,16 +294,41 @@ for (i in 1:length(unique_dates$game_date)) {
     rating_loop_df <-
       rating_loop_df %>%
       mutate(home_win_rate_adj = away_win_rate - 1 + home_won_tip + 0.5,
-             away_win_rate_adj = home_win_rate - home_won_tip + 0.5)
+             home_win_rate_30_adj = away_win_rate_30 - 1 + home_won_tip + 0.5,
+             away_win_rate_adj = home_win_rate - home_won_tip + 0.5,
+             away_win_rate_30_adj = home_win_rate_30 - home_won_tip + 0.5)
     
     # Table that stores win rates for each jumper
     jumper_loop_df <-
       rating_loop_df %>%
-      select(jumper = home_team_jumper, jumps = home_jumps,
-             win_rate = home_win_rate, adj_win_rate = home_win_rate_adj) %>%
+      select(jumper = home_team_jumper, 
+             jumps = home_jumps,
+             win_rate = home_win_rate,
+             adj_win_rate = home_win_rate_adj,
+             adj_win_rate_30 = home_win_rate_30_adj) %>%
       bind_rows(rating_loop_df %>%
-                  select(jumper = away_team_jumper, jumps = away_jumps,
-                         win_rate = away_win_rate, adj_win_rate = away_win_rate_adj)) %>%
+                  select(jumper = away_team_jumper, 
+                         jumps = away_jumps,
+                         win_rate = away_win_rate, 
+                         adj_win_rate = away_win_rate_adj,
+                         adj_win_rate_30 = away_win_rate_30_adj)) %>%
+      group_by(jumper) %>%
+      summarise(jumps = mean(jumps),
+                adj_win_rate = sum(adj_win_rate)/jumps,
+                .groups = 'drop') %>%
+      select(jumper, adj_win_rate)
+    
+    jumper_loop_df_30 <-
+      rating_loop_df %>%
+      select(jumper = home_team_jumper,
+             last_30 = home_last_30_jumps,
+             adj_win_rate_30 = home_win_rate_30_adj) %>%
+      bind_rows(rating_loop_df %>%
+                  select(jumper = away_team_jumper, 
+                         jumps = away_jumps,
+                         win_rate = away_win_rate, 
+                         adj_win_rate = away_win_rate_adj,
+                         adj_win_rate_30 = away_win_rate_30_adj)) %>%
       group_by(jumper) %>%
       summarise(jumps = mean(jumps),
                 adj_win_rate = sum(adj_win_rate)/jumps,
