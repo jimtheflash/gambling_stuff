@@ -124,8 +124,8 @@ today_games_jumper <-
          away_exp_win = 1 - home_exp_win,
          exp_winning_jumper = if_else(home_exp_win >= away_exp_win, home_jumper, away_jumper),
          exp_win_tip = if_else(home_exp_win >= away_exp_win, home_exp_win, away_exp_win),
-         exp_score_first = (exp_win_tip*(2/3)) + ((1 - exp_win_tip)*(1/3)),
-         team_score_first_odds = round(case_when(exp_score_first > .5 ~ (exp_score_first / (1 - (exp_score_first))) * -100,
+         exp_score_first = (exp_win_tip*.61) + ((1 - exp_win_tip)*.41),
+         team_score_first_odds = round(case_when(exp_score_first >= .5 ~ (exp_score_first / (1 - (exp_score_first))) * -100,
                                                  TRUE ~ (100/exp_score_first) - 100), 0)) %>%
   select(-c(HOME_TEAM_ID, VISITOR_TEAM_ID))
 

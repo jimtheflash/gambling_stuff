@@ -435,7 +435,7 @@ for (i in 1:length(unique_dates$game_date)) {
 # Adding score first percentage (given tip win prediction)
 test_df_exp_win_master <-
   test_df_exp_win_master %>%
-  mutate(exp_score_first = (final_exp_win_adj*(2/3)) + ((1 - final_exp_win_adj)*(1/3)))
+  mutate(exp_score_first = (final_exp_win_adj*.61) + ((1 - final_exp_win_adj)*.41))
 
 # Views performance of model on test data
 # Is split into buckets of predicted win probability, and compares to performance of those predictions
@@ -458,7 +458,7 @@ test_buckets_height <-
 
 test_buckets_height_score <-
   test_df_exp_win_master %>%
-  mutate(exp_score_first_prob = cut(exp_score_first, breaks = seq(0, 100, by = 0.05), right = FALSE)) %>%
+  mutate(exp_score_first_prob = cut(exp_score_first, breaks = seq(0, 100, by = 0.025), right = FALSE)) %>%
   group_by(exp_score_first_prob) %>%
   summarise(jumps = n(),
             tip_win_percent = mean(home_won_tip),
@@ -514,6 +514,38 @@ brier_buckets_score <-
   summarise(jumps = n(),
             brier_avg = mean(brier_score_prob),
             .groups = 'drop')
+
+sum(test_df_exp_win_master$final_exp_win_adj)
+sum(test_df_exp_win_master$home_won_tip)
+sum(test_df_exp_win_master$exp_score_first)
+sum(test_df_exp_win_master$home_score_first)
+
+# Score First Rates based on Win Tip, home/away
+score_first_rates_by_season <-
+  test_df_exp_win_master %>%
+  group_by(season, home_won_tip, home_score_first) %>%
+  summarise(score_first = n()) %>%
+  group_by(season) %>%
+  mutate(season_tips = sum(score_first)) %>%
+  group_by(season, home_won_tip) %>%
+  mutate(tip_wins = sum(score_first),
+         tip_wins_pct = tip_wins/season_tips) %>%
+  ungroup() %>%
+  select(season, home_won_tip, home_score_first, season_tips, tip_wins, tip_wins_pct, score_first) %>%
+  mutate(score_first_pct = score_first/tip_wins)
+
+score_first_rates <-
+  test_df_exp_win_master %>%
+  group_by(home_won_tip, home_score_first) %>%
+  summarise(score_first = n()) %>%
+  ungroup() %>%
+  mutate(tips = sum(score_first)) %>%
+  group_by(home_won_tip) %>%
+  mutate(tip_wins = sum(score_first),
+         tip_wins_pct = tip_wins/tips) %>%
+  ungroup() %>%
+  select(home_won_tip, home_score_first, tips, tip_wins, tip_wins_pct, score_first) %>%
+  mutate(score_first_pct = score_first/tip_wins)
 
 ## Write out main file
 write.csv(player_list_df, "data/02_curated/nba_first_to_score/jump_ball_ratings.csv.gz", row.names = FALSE)
