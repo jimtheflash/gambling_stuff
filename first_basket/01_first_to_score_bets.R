@@ -143,16 +143,15 @@ first_team_to_score_df <-
          home_team = home_team_abbrev, home_jumper, home_szn_open_tips, home_rating,
          exp_winning_jumper, win_tip_prob, team_exp_score_first, team_exp_score_first_prob, team_score_first_odds)
 
-
 ########## Determining First Player To Score Odds ############
 team_odds <-
   first_team_to_score_df %>%
   mutate(team_win_tip = if_else(home_jumper == exp_winning_jumper, win_tip_prob, 1 - win_tip_prob),
-         team_score_first = if_else(home_jumper == exp_winning_jumper, team_score_first_prob, 1 - team_score_first_prob)) %>%
+         team_score_first = if_else(team_exp_score_first == home_team, team_exp_score_first_prob, 1 - team_exp_score_first_prob)) %>%
   select(team = home_team, team_win_tip, team_score_first) %>%
   bind_rows(first_team_to_score_df %>%
               mutate(team_win_tip = if_else(away_jumper == exp_winning_jumper, win_tip_prob, 1 - win_tip_prob),
-                     team_score_first = if_else(away_jumper == exp_winning_jumper, team_score_first_prob, 1 - team_score_first_prob)) %>%
+                     team_score_first = if_else(team_exp_score_first == away_team, team_exp_score_first_prob, 1 - team_exp_score_first_prob)) %>%
               select(team = away_team, team_win_tip, team_score_first))
 
 first_shot_joined <-
