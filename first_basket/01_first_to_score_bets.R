@@ -123,23 +123,25 @@ today_games_jumper <-
                         ((home_rating*(1-away_rating)*home_tip_win_parameter) + (away_rating*(1-home_rating)*(1-home_tip_win_parameter))),
          away_exp_win = 1 - home_exp_win,
          exp_winning_jumper = if_else(home_exp_win >= away_exp_win, home_jumper, away_jumper),
-         exp_win_tip = if_else(home_exp_win >= away_exp_win, home_exp_win, away_exp_win),
-         exp_score_first = (exp_win_tip*.61) + ((1 - exp_win_tip)*.41),
-         team_score_first_odds = round(case_when(exp_score_first >= .5 ~ (exp_score_first / (1 - (exp_score_first))) * -100,
-                                                 TRUE ~ (100/exp_score_first) - 100), 0)) %>%
+         home_exp_score_first = (home_exp_win*.61) + (away_exp_win*.41),
+         away_exp_score_first = 1 - home_exp_score_first,
+         team_exp_score_first = if_else(home_exp_score_first >= away_exp_score_first, home_team_abbrev, away_team_abbrev),
+         team_exp_score_first_prob = if_else(home_exp_score_first >= away_exp_score_first, home_exp_score_first, away_exp_score_first),
+         team_score_first_odds = round(case_when(team_exp_score_first == home_team_abbrev ~ (home_exp_score_first / (1 - (home_exp_score_first)) * -100),
+                                                 TRUE ~ (away_exp_score_first / (1 - (away_exp_score_first)) * -100)), 0)) %>%
   select(-c(HOME_TEAM_ID, VISITOR_TEAM_ID))
 
 first_team_to_score_df <-
   today_games_jumper %>%
   mutate(away_rating = round(away_rating, 3),
          home_rating = round(home_rating, 3),
-         win_tip_prob = round(exp_win_tip, 3),
-         team_score_first_prob = round(exp_score_first, 3),
+         win_tip_prob = round(if_else(home_exp_win >= away_exp_win, home_exp_win, away_exp_win), 3),
+         team_exp_score_first_prob = round(team_exp_score_first_prob, 3),
          away_szn_open_tips = paste0(away_opening_wins, "/", away_opening_jumps, " (", round(away_opening_win_rate*100, 1), "%)"),
          home_szn_open_tips = paste0(home_opening_wins, "/", home_opening_jumps, " (", round(home_opening_win_rate*100, 1), "%)")) %>%
   select(away_team = away_team_abbrev, away_jumper, away_szn_open_tips, away_rating,
          home_team = home_team_abbrev, home_jumper, home_szn_open_tips, home_rating,
-         exp_winning_jumper, win_tip_prob, team_score_first_prob, team_score_first_odds)
+         exp_winning_jumper, win_tip_prob, team_exp_score_first, team_exp_score_first_prob, team_score_first_odds)
 
 
 ########## Determining First Player To Score Odds ############
