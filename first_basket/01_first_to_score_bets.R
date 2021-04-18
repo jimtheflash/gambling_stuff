@@ -30,7 +30,8 @@ player_name_changes <-
   add_row(player_api = "Danuel House Jr.", player_lineup = "Danuel House") %>%
   add_row(player_api = "Tim Hardaway Jr.", player_lineup = "Tim Hardaway") %>%
   add_row(player_api = "Wendell Carter Jr.", player_lineup = "Wendell Carter") %>%
-  add_row(player_api = "Dennis Smith Jr.", player_lineup = "Dennis Smith")
+  add_row(player_api = "Dennis Smith Jr.", player_lineup = "Dennis Smith") %>%
+  add_row(player_api = "Derrick Jones Jr.", player_lineup = "Derrick Jones")
 
 ## List of teams playing today for a join
 list_of_team_abbrev_id <-
