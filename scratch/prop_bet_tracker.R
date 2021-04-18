@@ -83,8 +83,6 @@ possession_binded <-
          score_first = if_else(score_first == "LA Clippers", "Los Angeles Clippers", score_first)) %>%
   rename(Home = home, Away = away, Date = game_date)
 
-
-
 ######### Prop Bet Tracker ############
 bets_df <- read_excel("./scratch/Prop Bets.xlsx", sheet = "Sheet1")
 
@@ -92,7 +90,7 @@ bets_props <-
   bets_df %>% 
   mutate(type = if_else(`Bet 2` == "First Team To Score", "Team", "Player"),
          decimal_odds = if_else(Odds > 0, (Odds/100) + 1, (100/-Odds) + 1),
-         wager = 1,
+         wager = Units,
          net = if_else(Outcome == "Win", decimal_odds - wager, -wager)) %>%
   filter(!is.na(Result)) %>%
   mutate(model = if_else(Date <= "2021-03-17", "Old", "New"))
