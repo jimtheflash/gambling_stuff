@@ -34,10 +34,6 @@ team_games <- engineered_data %>%
   mutate(total_pts = sum(team_pts),
          opp_pts = total_pts - team_pts,
          margin = team_pts - opp_pts) %>%
-  ungroup() %>%
-  group_by(team_name) %>%
-  mutate(median_total = median(total_pts),
-         median_margin = median(margin)) %>%
   ungroup()
 
 saveRDS(team_games, 'data/nba_team_games/team_games.rds')
