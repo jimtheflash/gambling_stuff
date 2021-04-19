@@ -1,27 +1,29 @@
 
 # fanduel -----------------------------------------------------------------
 
-# get everything on nba main page
+# get all the nba game id's for the day
 all_nba <- jsonlite::fromJSON('https://il.sportsbook.fanduel.com/cache/psmg/UK/63747.3.json')
-events <- all_nba$events
-## after exploring this, doesn't look to have the props, just the spread, 1st half spread, ML, total (which, not the end of the world!)
+events <- as.character(all_nba$events$idfoevent)
 
-## NOT RUN
-# event_markets = list()
-# for (e in 1:nrow(events)) {
-#   game_markets <- events[e, 'markets']
-#   event_markets[[length(event_markets) + 1]] <- events[e, 'markets']
-# }
-
-
+output_list <- list()
+for (e in events) {
+  message('getting props for event ', e)
+  json_string <- paste0('https://il.sportsbook.fanduel.com/cache/psevent/UK/1/false/', e, '.json')
+  game_event <- jsonlite::fromJSON(json_string)
+  game_event_market_groups <- game_event$eventmarketgroups
+  player_props <- game_event_market_groups$markets[game_event_market_groups$name == 'All Player Props'][[1]]
+  first_basket <- player_props$selections[player_props$name == 'First Basket'][[1]]
+  output_list[[length(output_list) + 1]] <- first_basket
+  Sys.sleep(1.123)
+}
 ## looks like each game gets an id, which may be a better way to dig in
 ## how about the event id's being passed to another url
 
-game_event <- jsonlite::fromJSON('https://il.sportsbook.fanduel.com/cache/psevent/UK/1/false/973064.3.json')
+game_event <- jsonlite::fromJSON('https://il.sportsbook.fanduel.com/cache/psevent/UK/1/false/1000454.3.json')
 game_event_market_groups <- game_event$eventmarketgroups
 
-### ok so it's most certainly there's a link between the selectionid in embedded df's and the price, but it's sooooooooo tedious that i'm gonna have to take a pause
-
+player_props <- game_event_market_groups$markets[game_event_market_groups$name == 'All Player Props'][[1]]
+first_basket <- player_props$selections[player_props$name == 'First Basket'][[1]]
 
 # drafkings ---------------------------------------------------------------
 
@@ -71,9 +73,9 @@ for (o in outcomes) {
 ## stitch together and presto!
 output <- do.call(rbind, outcomes_df_list)
 
+## now some stuff with points?
+pts <- player_props$offers[player_props$name == 'Points'][[1]]           
 
-### now trying to get the first player to score props
-sc <- offer_categories$offerSubcategoryDescriptors
 
 
 
