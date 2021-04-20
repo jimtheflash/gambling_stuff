@@ -179,7 +179,7 @@ fpts_pivot <-
   group_by(player, best_play) %>%
   mutate(best_play = if_else(best_play == "Yes", paste0(best_play, " - ", paste(site_abv, collapse = ', ')), "No")) %>%
   arrange(desc(edge_num)) %>%
-  select(-c(site_abv))
+  select(-c(site_abv, edge_num))
 
 fpts_plays <-
   fpts_pivot %>%
