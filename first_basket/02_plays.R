@@ -1,3 +1,4 @@
+#remotes::install_github('jimtheflash/betfinder')
 library(betfinder)
 library(data.table)
 library(tidyverse)
@@ -33,67 +34,38 @@ model_ftts_new <-
                                           TRUE ~ ((100 / team_score_first_prob) - 100)), 0)) %>%
   select(team, jumper, season_open_tips, win_tip_prob, projected_odds, team_score_first_prob)
 
-
-## Updating by site to align team names
-team_name_changes_dk <-
-  tibble(team = character(),
-         team_dk = character()) %>%
-  add_row(team = "BKN", team_dk = "BKN Nets") %>%
-  add_row(team = "CHA", team_dk = "CHA Hornets") %>%
-  add_row(team = "ORL", team_dk = "ORL Magic") %>%
-  add_row(team = "MIN", team_dk = "MIN Timberwolves") %>%
-  add_row(team = "POR", team_dk = "POR Trail Blazers") %>%
-  add_row(team = "LAC", team_dk = "LA Clippers") %>%
-  add_row(team = "SAC", team_dk = "SAC Kings") %>%
-  add_row(team = "ATL", team_dk = "ATL Hawks") %>%
-  add_row(team = "NYK", team_dk = "NY Knicks") %>%
-  add_row(team = "NOP", team_dk = "NO Pelicans")  
-
-team_name_changes_fd_pb <-
-  tibble(team = character(),
-         team_fd_pb = character()) %>%
-  add_row(team = "BKN", team_fd_pb = "Brooklyn Nets") %>%
-  add_row(team = "CHA", team_fd_pb = "Charlotte Hornets") %>%
-  add_row(team = "ORL", team_fd_pb = "Orlando Magic") %>%
-  add_row(team = "MIN", team_fd_pb = "Minnesota Timberwolves") %>%
-  add_row(team = "POR", team_fd_pb = "Portland Trail Blazers") %>%
-  add_row(team = "LAC", team_fd_pb = "Los Angeles Clippers") %>%
-  add_row(team = "SAC", team_fd_pb = "Sacramento Kings") %>%
-  add_row(team = "ATL", team_fd_pb = "Atlanta Hawks") %>%
-  add_row(team = "NYK", team_fd_pb = "New York Knicks") %>%
-  add_row(team = "NOP", team_fd_pb = "New Orleans Pelicans")   
-
 ftts_df <-
   model_ftts_new %>%
-  left_join(team_name_changes_dk, by = "team") %>%
-  left_join(team_name_changes_fd_pb, by = "team") %>%
-  left_join(dk_ftts, by = c("team_dk" = "team")) %>%
-  rename(DraftKings = odds) %>%
-  mutate(DraftKings = as.integer(DraftKings)) %>%
-  select(-opponent) %>%
-  left_join(select(fd_ftts, name, currentpriceup, currentpricedown), by = c("team_fd_pb" = "name")) %>%
-  mutate(fd_fraction = currentpriceup/currentpricedown) %>%
-  mutate(FanDuel = round(case_when(fd_fraction < 1 ~ -100 / fd_fraction,
-                                             TRUE ~ fd_fraction * 100), 0)) %>%
-  select(-c(currentpriceup, currentpricedown, fd_fraction)) %>%
-  left_join(select(pb_ftts, name, price), by = c("team_fd_pb" = "name")) %>%
-  mutate(PointsBet = round(case_when(price < 2 ~ -100 / (price - 1),
-                                   TRUE ~ (price - 1) * 100), 0)) %>%
-  select(-c(team_dk, team_fd_pb, price))
+  left_join(dk_ftts, by = c("team" = "tidyteam")) %>%
+  rename(DraftKings = tidyamericanodds) %>%
+  select(-prop, -tidyopponent, -sport, -timestamp, -site) %>%
+  left_join(fd_ftts, by = c("team" = "tidyteam")) %>%
+  rename(FanDuel = tidyamericanodds) %>%
+  select(-prop, -tidyopponent, -sport, -timestamp, -site) %>%
+  left_join(pb_ftts, by = c("team" = "tidyteam")) %>%
+  rename(PointsBet = tidyamericanodds) %>%
+  mutate(PointsBet = round(PointsBet, 0)) %>%
+  select(-prop, -tidyopponent, -sport, -timestamp, -site)
 
 ftts_pivot <-
   ftts_df %>%
   pivot_longer(!c(team, jumper, season_open_tips, win_tip_prob, team_score_first_prob, projected_odds),
                names_to = "site_name",
                values_to = "site_odds") %>%
-  mutate(site_prob = round(case_when(site_odds >= 100 ~ 100 / (site_odds + 100),
+  mutate(site_abv = case_when(site_name == "DraftKings" ~ "DK",
+                              site_name == "FanDuel" ~ "FD",
+                              site_name == "PointsBet" ~ "PB"),
+         site_prob = round(case_when(site_odds >= 100 ~ 100 / (site_odds + 100),
                                       TRUE ~ (site_odds * -1) / ((site_odds * -1) + 100)), 3),
          edge_num = ifelse(is.na(site_odds), NA, round((team_score_first_prob - site_prob) * 100, 1)),
          edge = ifelse(is.na(site_odds), NA, paste0(round((team_score_first_prob - site_prob) * 100, 1), "%")),
          play = if_else(team_score_first_prob > site_prob, "Yes", "No")) %>%
   group_by(team) %>%
   mutate(best_play = if_else(play == "Yes" & edge_num == max(edge_num, na.rm = T), "Yes", "No")) %>%
-  arrange(desc(best_play), desc(play), desc(edge_num))
+  arrange(desc(best_play), desc(play), desc(edge_num)) %>%
+  group_by(team, best_play) %>%
+  mutate(best_play = if_else(best_play == "Yes", paste0(best_play, " - ", paste(site_abv, collapse = ', ')), "No")) %>%
+  select(-site_abv)
 
 ftts_output <-
   ftts_pivot %>%
@@ -106,57 +78,52 @@ ftts_by_book <-
 
 ftts_plays <-
   ftts_pivot %>%
-  filter(play == "Yes")
+  filter(play == "Yes") %>%
+  select(-edge_num)
 
 ftts_best_plays <-
   ftts_pivot %>%
-  filter(best_play == "Yes")
+  filter(best_play == "Yes") %>%
+  select(-edge_num)
 
 #################### FIRST PLAYER TO SCORE ######################
-player_name_changes_dk <-
-  tibble(player = character(),
-         player_site = character()) %>%
-  add_row(player = "Bogdan Bogdanovic", player_site = "Bogdan Bogdanović") %>%
-  add_row(player = "P.J. Washington", player_site = "PJ Washington") %>%
-  add_row(player = "Marcus Morris Sr.", player_site = "Marcus Morris")
-
-player_name_changes_fd <-
-  tibble(player = character(),
-         player_site = character()) %>%
-  add_row(player = "Maurice Harkless", player_site = "Moe Harkless") %>%
-  add_row(player = "P.J. Washington", player_site = "P.J Washington") %>%
-  add_row(player = "Wendell Carter Jr.", player_site = "Wendell Carter") %>%
-  add_row(player = "Karl-Anthony Towns", player_site = "Karl Anthony Towns") %>%
-  add_row(player = "Marcus Morris Sr.", player_site = "Marcus Morris")
-
-player_name_changes_pb <-
-  tibble(player = character(),
-         player_site = character()) %>%
-  add_row(player = "P.J. Washington", player_site = "P.J. Washington Jr.") %>%
-  add_row(player = "Wendell Carter Jr.", player_site = "Wendell Carter") %>%
-  add_row(player = "Marcus Morris Sr.", player_site = "Marcus Morris") %>%
-  add_row(player = "CJ McCollum", player_site = "C.J. McCollum")
+# player_name_changes_dk <-
+#   tibble(player = character(),
+#          player_site = character()) %>%
+#   add_row(player = "Bogdan Bogdanovic", player_site = "Bogdan Bogdanović") %>%
+#   add_row(player = "P.J. Washington", player_site = "PJ Washington") %>%
+#   add_row(player = "Marcus Morris Sr.", player_site = "Marcus Morris")
+# 
+# player_name_changes_fd <-
+#   tibble(player = character(),
+#          player_site = character()) %>%
+#   add_row(player = "Maurice Harkless", player_site = "Moe Harkless") %>%
+#   add_row(player = "P.J. Washington", player_site = "P.J Washington") %>%
+#   add_row(player = "Wendell Carter Jr.", player_site = "Wendell Carter") %>%
+#   add_row(player = "Karl-Anthony Towns", player_site = "Karl Anthony Towns") %>%
+#   add_row(player = "Marcus Morris Sr.", player_site = "Marcus Morris")
+# 
+# player_name_changes_pb <-
+#   tibble(player = character(),
+#          player_site = character()) %>%
+#   add_row(player = "P.J. Washington", player_site = "P.J. Washington Jr.") %>%
+#   add_row(player = "Wendell Carter Jr.", player_site = "Wendell Carter") %>%
+#   add_row(player = "Marcus Morris Sr.", player_site = "Marcus Morris") %>%
+#   add_row(player = "CJ McCollum", player_site = "C.J. McCollum")
 
 fpts_joined <-
   model_fpts %>%
-  left_join(player_name_changes_dk, by = "player") %>%
-  mutate(player_site = coalesce(player_site, player)) %>%
-  left_join(select(dk_fpts, label, oddsAmerican) , by = c("player_site" = "label")) %>%
-  mutate(DraftKings = as.integer(oddsAmerican)) %>%
-  select(-c(player_site, oddsAmerican)) %>%
-  left_join(player_name_changes_fd, by = "player") %>%
-  mutate(player_site = coalesce(player_site, player)) %>%
-  left_join(select(fd_fpts, name, currentpriceup, currentpricedown), by = c("player_site" = "name")) %>%
-  mutate(fd_fraction = currentpriceup/currentpricedown) %>%
-  mutate(FanDuel = round(case_when(fd_fraction < 1 ~ -100 / fd_fraction,
-                                   TRUE ~ fd_fraction * 100), 0)) %>%
-  select(-c(player_site, currentpriceup, currentpricedown, fd_fraction)) %>%
-  left_join(player_name_changes_pb, by = "player") %>%
-  mutate(player_site = coalesce(player_site, player)) %>%
-  left_join(select(pb_fpts, name, price) , by = c("player_site" = "name")) %>%
-  mutate(PointsBet = round(case_when(price < 2 ~ -100 / (price - 1),
-                                     TRUE ~ (price - 1) * 100), 0)) %>%
-  select(-c(player_site, price))
+  #left_join(player_name_changes_dk, by = "player") %>%
+  #mutate(player_site = coalesce(player_site, player)) %>%
+  left_join(dk_fpts, by = c("player" = "tidyplayer")) %>%
+  rename(DraftKings = tidyamericanodds) %>%
+  select(-prop, -sport, -timestamp, -site) %>%
+  left_join(fd_fpts, by = c("player" = "tidyplayer")) %>%
+  rename(FanDuel = tidyamericanodds) %>%
+  select(-prop, -sport, -timestamp, -site) %>%
+  left_join(pb_fpts, by = c("player" = "tidyplayer")) %>%
+  rename(PointsBet = tidyamericanodds) %>%
+  select(-prop, -sport, -timestamp, -site)
 
 fpts_pivot <-
   fpts_joined %>%
