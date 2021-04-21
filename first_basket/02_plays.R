@@ -17,22 +17,23 @@ fd_fpts <- get_props('fanduel', 'nba', 'fpts')
 pb_ftts <- get_props('pointsbet', 'nba', 'ftts')
 pb_fpts <- get_props('pointsbet', 'nba', 'fpts')
 
-
 ############# FIRST TEAM TO SCORE ###################
 ## Update model table to align with odds
 model_ftts_new <-
   model_ftts %>%
   select(team = away_team, jumper = away_jumper, season_open_tips = away_szn_open_tips,
-         exp_winning_jumper, win_tip_prob, team_exp_score_first, team_exp_score_first_prob, team_score_first_odds) %>%
+         exp_winning_jumper, win_tip_prob, team_exp_score_first, 
+         team_exp_score_first_prob, team_score_first_odds, status = away_status) %>%
   bind_rows(model_ftts %>%
               select(team = home_team, jumper = home_jumper, season_open_tips = home_szn_open_tips,
-                     exp_winning_jumper, win_tip_prob, team_exp_score_first, team_exp_score_first_prob, team_score_first_odds)) %>%
+                     exp_winning_jumper, win_tip_prob, team_exp_score_first, 
+                     team_exp_score_first_prob, team_score_first_odds, status = home_status)) %>%
   mutate(win_tip_new = if_else(jumper == exp_winning_jumper, win_tip_prob, 1 - win_tip_prob),
          team_score_first_new = if_else(team == team_exp_score_first, team_exp_score_first_prob, 1 - team_exp_score_first_prob)) %>%
-  select(team, jumper, season_open_tips, win_tip_prob = win_tip_new, team_score_first_prob = team_score_first_new) %>%
+  select(team, jumper, season_open_tips, win_tip_prob = win_tip_new, team_score_first_prob = team_score_first_new, status) %>%
   mutate(projected_odds = round(case_when(team_score_first_prob > 0.5 ~ (team_score_first_prob / (1 - (team_score_first_prob)) * -100),
                                           TRUE ~ ((100 / team_score_first_prob) - 100)), 0)) %>%
-  select(team, jumper, season_open_tips, win_tip_prob, projected_odds, team_score_first_prob)
+  select(team, jumper, season_open_tips, win_tip_prob, projected_odds, team_score_first_prob, status)
 
 ftts_df <-
   model_ftts_new %>%
@@ -49,7 +50,7 @@ ftts_df <-
 
 ftts_pivot <-
   ftts_df %>%
-  pivot_longer(!c(team, jumper, season_open_tips, win_tip_prob, team_score_first_prob, projected_odds),
+  pivot_longer(!c(team, jumper, season_open_tips, win_tip_prob, team_score_first_prob, projected_odds, status),
                names_to = "site_name",
                values_to = "site_odds") %>%
   mutate(site_abv = case_when(site_name == "DraftKings" ~ "DK",
@@ -65,7 +66,8 @@ ftts_pivot <-
   arrange(desc(best_play), desc(play), desc(edge_num)) %>%
   group_by(team, best_play) %>%
   mutate(best_play = if_else(best_play == "Yes", paste0(best_play, " - ", paste(site_abv, collapse = ', ')), "No")) %>%
-  select(-site_abv)
+  select(-site_abv) %>%
+  relocate(status, .after = last_col())
 
 ftts_output <-
   ftts_pivot %>%
@@ -83,7 +85,7 @@ ftts_plays <-
 
 ftts_best_plays <-
   ftts_pivot %>%
-  filter(best_play == "Yes") %>%
+  filter(str_detect(best_play, "Yes")) %>%
   select(-edge_num)
 
 #################### FIRST PLAYER TO SCORE ######################
@@ -104,7 +106,7 @@ fpts_pivot <-
   select(-c(first_shot_usg, first_shot_make, team_first_shot_make)) %>%
   rename(player_score_first_prob = game_first_shot_make, projected_odds = first_make_fg_odds) %>%
   pivot_longer(!c(team, player, first_shot_rate, FG_USG, FG_PCT, team_score_first, 
-                  player_score_first_prob, projected_odds),
+                  player_score_first_prob, projected_odds, status),
                names_to = "site_name",
                values_to = "site_odds") %>%
   mutate(site_abv = case_when(site_name == "DraftKings" ~ "DK",
@@ -120,7 +122,8 @@ fpts_pivot <-
   group_by(player, best_play) %>%
   mutate(best_play = if_else(best_play == "Yes", paste0(best_play, " - ", paste(site_abv, collapse = ', ')), "No")) %>%
   arrange(desc(edge_num)) %>%
-  select(-c(site_abv, edge_num))
+  select(-c(site_abv, edge_num)) %>%
+  relocate(status, .after = last_col())
 
 fpts_plays <-
   fpts_pivot %>%
@@ -128,12 +131,3 @@ fpts_plays <-
 
 
 
-
-
-
-
-
-
-
-
-         
