@@ -83,7 +83,14 @@ projected_jumpers <-
   left_join(player_name_changes, by = c("PLAYER_NAME" = "player_lineup")) %>%
   mutate(PLAYER_NAME = coalesce(player_api, PLAYER_NAME)) %>%
   left_join(jumper_aggregates, by = c("PLAYER_NAME" = "jumper")) %>%
-  mutate(jump_rate = if_else(is.nan(jump_rate), 0, jump_rate)) %>%
+  mutate(jump_rate = if_else(is.nan(jump_rate), 0, jump_rate),
+         jumps = replace_na(jumps, 0),
+         exp_win_adj = replace_na(exp_win_adj, 0),
+         opening_tip_jumps = replace_na(opening_tip_jumps, 0),
+         opening_tip_wins = replace_na(opening_tip_wins, 0),
+         opening_tip_win_rate = replace_na(opening_tip_win_rate, 0),
+         starts = replace_na(starts, 0),
+         jump_rate = replace_na(jump_rate, 0)) %>%
   left_join(list_of_team_abbrev_id, by = c("TEAM_ABBREVIATION" = "team_abbrev")) %>%
   group_by(TEAM_ABBREVIATION) %>%
   # Filter to player who jumps in highest percent of starts
