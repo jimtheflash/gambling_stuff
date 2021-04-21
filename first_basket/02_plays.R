@@ -87,34 +87,8 @@ ftts_best_plays <-
   select(-edge_num)
 
 #################### FIRST PLAYER TO SCORE ######################
-# player_name_changes_dk <-
-#   tibble(player = character(),
-#          player_site = character()) %>%
-#   add_row(player = "Bogdan Bogdanovic", player_site = "Bogdan Bogdanović") %>%
-#   add_row(player = "P.J. Washington", player_site = "PJ Washington") %>%
-#   add_row(player = "Marcus Morris Sr.", player_site = "Marcus Morris")
-# 
-# player_name_changes_fd <-
-#   tibble(player = character(),
-#          player_site = character()) %>%
-#   add_row(player = "Maurice Harkless", player_site = "Moe Harkless") %>%
-#   add_row(player = "P.J. Washington", player_site = "P.J Washington") %>%
-#   add_row(player = "Wendell Carter Jr.", player_site = "Wendell Carter") %>%
-#   add_row(player = "Karl-Anthony Towns", player_site = "Karl Anthony Towns") %>%
-#   add_row(player = "Marcus Morris Sr.", player_site = "Marcus Morris")
-# 
-# player_name_changes_pb <-
-#   tibble(player = character(),
-#          player_site = character()) %>%
-#   add_row(player = "P.J. Washington", player_site = "P.J. Washington Jr.") %>%
-#   add_row(player = "Wendell Carter Jr.", player_site = "Wendell Carter") %>%
-#   add_row(player = "Marcus Morris Sr.", player_site = "Marcus Morris") %>%
-#   add_row(player = "CJ McCollum", player_site = "C.J. McCollum")
-
 fpts_joined <-
   model_fpts %>%
-  #left_join(player_name_changes_dk, by = "player") %>%
-  #mutate(player_site = coalesce(player_site, player)) %>%
   left_join(dk_fpts, by = c("player" = "tidyplayer")) %>%
   rename(DraftKings = tidyamericanodds) %>%
   select(-prop, -sport, -timestamp, -site) %>%
