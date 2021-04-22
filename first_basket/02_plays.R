@@ -29,7 +29,7 @@ create_table_function <- function(df_name, df, prop){
                prop = character(),
                site = character(),
                sport = character(),
-               timestamp = POSIXct())
+               timestamp = as.POSIXct(NA))
     }else{
       output <-
         tibble(tidyplayer = character(),
@@ -37,7 +37,7 @@ create_table_function <- function(df_name, df, prop){
                prop = character(),
                site = character(),
                sport = character(),
-               timestamp = POSIXct())
+               timestamp = as.POSIXct())
     }
   }
   return(output)
