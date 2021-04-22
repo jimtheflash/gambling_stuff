@@ -37,7 +37,7 @@ create_table_function <- function(df_name, df, prop){
                prop = character(),
                site = character(),
                sport = character(),
-               timestamp = as.POSIXct())
+               timestamp = as.POSIXct(NA))
     }
   }
   return(output)
