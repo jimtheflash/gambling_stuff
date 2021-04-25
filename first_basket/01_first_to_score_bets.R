@@ -156,6 +156,26 @@ first_team_to_score_df <-
          home_team = home_team_abbrev, home_jumper, home_injury_status, home_szn_open_tips, home_rating,
          exp_winning_jumper, win_tip_prob, team_exp_score_first, team_exp_score_first_prob, team_score_first_odds)
 
+ftts_output <-
+  first_team_to_score_df %>%
+  select(team = away_team, jumper = away_jumper, season_open_tips = away_szn_open_tips,
+         exp_winning_jumper, win_tip_prob, team_exp_score_first, 
+         team_exp_score_first_prob, team_score_first_odds, 
+         injury_status = away_injury_status, opp_injury_status = home_injury_status) %>%
+  bind_rows(first_team_to_score_df %>%
+              select(team = home_team, jumper = home_jumper, season_open_tips = home_szn_open_tips,
+                     exp_winning_jumper, win_tip_prob, team_exp_score_first, 
+                     team_exp_score_first_prob, team_score_first_odds, 
+                     injury_status = home_injury_status, opp_injury_status = away_injury_status)) %>%
+  mutate(win_tip_new = if_else(jumper == exp_winning_jumper, win_tip_prob, 1 - win_tip_prob),
+         team_score_first_new = if_else(team == team_exp_score_first, team_exp_score_first_prob, 1 - team_exp_score_first_prob)) %>%
+  select(team, jumper, season_open_tips, win_tip_prob = win_tip_new, team_score_first_prob = team_score_first_new, injury_status, opp_injury_status) %>%
+  mutate(projected_line = round(case_when(team_score_first_prob > 0.5 ~ (team_score_first_prob / (1 - (team_score_first_prob)) * -100),
+                                          TRUE ~ ((100 / team_score_first_prob) - 100)), 0),
+         sport = 'nba', prop = 'first team to score') %>%
+  select(sport, prop, tidyplayer = jumper, tidyteam = team, projected_line, projected_prob = team_score_first_prob,
+         season_open_tips, win_tip_prob, injury_status, opp_injury_status)
+
 ########## Determining First Player To Score Odds ############
 team_odds <-
   first_team_to_score_df %>%
@@ -181,28 +201,30 @@ first_shot_joined <-
   mutate(first_shot_usg = (first_shot_percent + FG_USG) / 2,
          first_shot_make = first_shot_usg * FG_PCT)
 
-first_player_to_score_df <-
+fpts_output <-
   first_shot_joined %>%
   group_by(team) %>%
   mutate(team_first_shot_make = first_shot_make/sum(first_shot_make),
-         game_first_shot_make = team_first_shot_make * team_score_first,
-         first_make_fg_odds = case_when(game_first_shot_make > .5 ~ (game_first_shot_make / (1 - (game_first_shot_make))) * -100,
-                                               TRUE ~ (100/game_first_shot_make) - 100)) %>%
+         projected_prob = team_first_shot_make * team_score_first,
+         projected_line = case_when(projected_prob > .5 ~ (projected_prob / (1 - (projected_prob))) * -100,
+                                               TRUE ~ (100/projected_prob) - 100)) %>%
   ungroup() %>%
   mutate(first_shot_rate = paste0(first_shots, "/", starts, " (", round(first_shot_percent*100, 1), "%)"),
-         FG_USG = round(FG_USG, 3),
-         FG_PCT = round(FG_PCT, 3),
+         fg_usg = round(FG_USG, 3),
+         fg_pct = round(FG_PCT, 3),
          first_shot_usg = round(first_shot_usg, 3),
          first_shot_make = round(first_shot_make, 3),
          team_first_shot_make = round(team_first_shot_make, 3),
-         game_first_shot_make = round(game_first_shot_make, 3),
-         first_make_fg_odds = round(first_make_fg_odds)) %>%
-  select(team, player, first_shot_rate, FG_USG, FG_PCT, team_score_first, 
-         first_shot_usg, first_shot_make, team_first_shot_make, game_first_shot_make, first_make_fg_odds, injury_status) %>%
-  arrange(team, first_make_fg_odds)
+         projected_prob = round(projected_prob, 3),
+         projected_line = round(projected_line),
+         sport = 'nba', 
+         prop = 'first team to score') %>%
+  select(sport, prop, tidyplayer = player, tidyteam = team, projected_line, projected_prob,
+         first_shot_rate, fg_usg, fg_pct, injury_status) %>%
+  arrange(tidyteam, desc(projected_prob))
   
 ## Write out main file for first team to score
-write.csv(first_team_to_score_df, "data/02_curated/nba_first_to_score/first_team_to_score.csv.gz", row.names = FALSE)
+write.csv(ftts_output, "data/02_curated/nba_first_to_score/first_team_to_score.csv.gz", row.names = FALSE)
 
 ## Write out archive file for first team to score
 yyyy <- as.character(year(Sys.Date()))
@@ -215,10 +237,10 @@ if (dir.exists(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "
   dir.create(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)), recursive = TRUE)
 }
 
-write.csv(first_team_to_score_df, paste0("data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd, "/", "first_team_to_score.csv.gz"), row.names = FALSE)
+write.csv(ftts_output, paste0("data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd, "/", "first_team_to_score.csv.gz"), row.names = FALSE)
 
 ## Write out main file for first player to score
-write.csv(first_player_to_score_df, "data/02_curated/nba_first_to_score/first_player_to_score.csv.gz", row.names = FALSE)
+write.csv(fpts_output, "data/02_curated/nba_first_to_score/first_player_to_score.csv.gz", row.names = FALSE)
 
 ## Write out archive file for first player to score
 yyyy <- as.character(year(Sys.Date()))
@@ -231,7 +253,7 @@ if (dir.exists(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "
   dir.create(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)), recursive = TRUE)
 }
 
-write.csv(first_player_to_score_df, paste0("data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd, "/", "first_player_to_score.csv.gz"), row.names = FALSE)
+write.csv(fpts_output, paste0("data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd, "/", "first_player_to_score.csv.gz"), row.names = FALSE)
 
 
 # calculate_jump_odds <- function(player_1, player_2, player_ratings){

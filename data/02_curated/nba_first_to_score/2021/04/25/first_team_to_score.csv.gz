@@ -1,8 +1,15 @@
-"away_team","away_jumper","away_injury_status","away_szn_open_tips","away_rating","home_team","home_jumper","home_injury_status","home_szn_open_tips","home_rating","exp_winning_jumper","win_tip_prob","team_exp_score_first","team_exp_score_first_prob","team_score_first_odds"
-"BOS","Tristan Thompson","Very Likely To Play","10/25 (40%)",0.429,"CHA","P.J. Washington","Very Likely To Play","0/5 (0%)",0.433,"P.J. Washington",0.513,"CHA",0.513,-105
-"PHX","Deandre Ayton","Very Likely To Play","36/63 (57.1%)",0.491,"BKN","DeAndre Jordan","Very Likely To Play","22/41 (53.7%)",0.619,"DeAndre Jordan",0.635,"BKN",0.537,-116
-"MEM","Jonas Valanciunas","Toss Up To Play","28/52 (53.8%)",0.551,"POR","Jusuf Nurkic","Very Likely To Play","20/26 (76.9%)",0.778,"Jusuf Nurkic",0.746,"POR",0.559,-127
-"CLE","Jarrett Allen","Very Likely To Play","22/32 (68.8%)",0.708,"WAS","Alex Len","Very Likely To Play","6/29 (20.7%)",0.423,"Jarrett Allen",0.762,"CLE",0.542,-119
-"MIL","Brook Lopez","Very Likely To Play","42/60 (70%)",0.77,"ATL","Clint Capela","Toss Up To Play","28/55 (50.9%)",0.579,"Brook Lopez",0.702,"MIL",0.53,-113
-"IND","Goga Bitadze","Toss Up To Play","0/2 (0%)",0.499,"ORL","Wendell Carter Jr.","Toss Up To Play","19/39 (48.7%)",0.555,"Wendell Carter Jr.",0.564,"ORL",0.523,-110
-"SAC","Richaun Holmes","Likely To Play","22/41 (53.7%)",0.529,"GSW","Kevon Looney","Very Likely To Play","14/25 (56%)",0.563,"Kevon Looney",0.542,"GSW",0.518,-108
+"sport","prop","tidyplayer","tidyteam","projected_line","projected_prob","season_open_tips","win_tip_prob","injury_status","opp_injury_status"
+"nba","first team to score","Tristan Thompson","BOS",105,0.487,"10/25 (40%)",0.487,"Very Likely To Play","Very Likely To Play"
+"nba","first team to score","Deandre Ayton","PHX",116,0.463,"36/63 (57.1%)",0.365,"Very Likely To Play","Very Likely To Play"
+"nba","first team to score","Jonas Valanciunas","MEM",127,0.441,"28/52 (53.8%)",0.254,"Toss Up To Play","Very Likely To Play"
+"nba","first team to score","Jarrett Allen","CLE",-118,0.542,"22/32 (68.8%)",0.762,"Very Likely To Play","Very Likely To Play"
+"nba","first team to score","Brook Lopez","MIL",-113,0.53,"42/60 (70%)",0.702,"Very Likely To Play","Toss Up To Play"
+"nba","first team to score","Goga Bitadze","IND",110,0.477,"0/2 (0%)",0.436,"Toss Up To Play","Toss Up To Play"
+"nba","first team to score","Richaun Holmes","SAC",107,0.482,"22/41 (53.7%)",0.458,"Likely To Play","Very Likely To Play"
+"nba","first team to score","P.J. Washington","CHA",-105,0.513,"0/5 (0%)",0.513,"Very Likely To Play","Very Likely To Play"
+"nba","first team to score","DeAndre Jordan","BKN",-116,0.537,"22/41 (53.7%)",0.635,"Very Likely To Play","Very Likely To Play"
+"nba","first team to score","Jusuf Nurkic","POR",-127,0.559,"20/26 (76.9%)",0.746,"Very Likely To Play","Toss Up To Play"
+"nba","first team to score","Alex Len","WAS",118,0.458,"6/29 (20.7%)",0.238,"Very Likely To Play","Very Likely To Play"
+"nba","first team to score","Clint Capela","ATL",113,0.47,"28/55 (50.9%)",0.298,"Toss Up To Play","Very Likely To Play"
+"nba","first team to score","Wendell Carter Jr.","ORL",-110,0.523,"19/39 (48.7%)",0.564,"Toss Up To Play","Toss Up To Play"
+"nba","first team to score","Kevon Looney","GSW",-107,0.518,"14/25 (56%)",0.542,"Very Likely To Play","Likely To Play"
