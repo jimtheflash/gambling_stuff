@@ -24,7 +24,7 @@ create_table_function <- function(df_name, df, prop){
     if (prop == "ftts") {
       output <-
         tibble(tidyteam = character(),
-               tidyopponent = character(),
+               #tidyopponent = character(),
                tidyamericanodds = numeric(),
                prop = character(),
                site = character(),
@@ -74,14 +74,14 @@ ftts_df <-
   model_ftts_df %>%
   left_join(dk_ftts, by = c("team" = "tidyteam")) %>%
   rename(DraftKings = tidyamericanodds) %>%
-  select(-prop, -tidyopponent, -sport, -timestamp, -site) %>%
+  select(-prop, -sport, -timestamp, -site) %>%
   left_join(fd_ftts, by = c("team" = "tidyteam")) %>%
   rename(FanDuel = tidyamericanodds) %>%
-  select(-prop, -tidyopponent, -sport, -timestamp, -site) %>%
+  select(-prop, -sport, -timestamp, -site) %>%
   left_join(pb_ftts, by = c("team" = "tidyteam")) %>%
   rename(PointsBet = tidyamericanodds) %>%
   mutate(PointsBet = round(PointsBet, 0)) %>%
-  select(-prop, -tidyopponent, -sport, -timestamp, -site)
+  select(-prop, -sport, -timestamp, -site)
 
 ftts_pivot <-
   ftts_df %>%
@@ -98,7 +98,7 @@ ftts_pivot <-
          play = if_else(team_score_first_prob > site_prob, "Yes", "No")) %>%
   group_by(team) %>%
   mutate(best_play = if_else(play == "Yes" & edge_num == max(edge_num, na.rm = T), "Yes", "No")) %>%
-  arrange(desc(best_play), desc(play), desc(edge_num)) %>%
+  arrange(desc(edge_num)) %>%
   group_by(team, best_play) %>%
   mutate(best_play = if_else(best_play == "Yes", paste0(best_play, " - ", paste(site_abv, collapse = ', ')), "No")) %>%
   select(-site_abv) %>%
@@ -125,7 +125,7 @@ ftts_best_plays <-
 
 ftts_minimal <-
   ftts_plays %>%
-  select(team, jumper, season_open_tips, projected_odds, site_name, site_odds, edge, play, best_play)
+  select(team, jumper, projected_odds, site_name, site_odds, edge, play, best_play,injury_status)
 
 #################### FIRST PLAYER TO SCORE ######################
 fpts_joined <-
