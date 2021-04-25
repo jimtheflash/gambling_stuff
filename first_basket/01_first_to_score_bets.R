@@ -218,7 +218,7 @@ fpts_output <-
          projected_prob = round(projected_prob, 3),
          projected_line = round(projected_line),
          sport = 'nba', 
-         prop = 'first team to score') %>%
+         prop = 'first player to score') %>%
   select(sport, prop, tidyplayer = player, tidyteam = team, projected_line, projected_prob,
          first_shot_rate, fg_usg, fg_pct, injury_status) %>%
   arrange(tidyteam, desc(projected_prob))
