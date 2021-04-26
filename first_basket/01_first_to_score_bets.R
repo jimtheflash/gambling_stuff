@@ -180,12 +180,14 @@ ftts_output <-
 team_odds <-
   first_team_to_score_df %>%
   mutate(team_win_tip = if_else(home_jumper == exp_winning_jumper, win_tip_prob, 1 - win_tip_prob),
-         team_score_first = if_else(team_exp_score_first == home_team, team_exp_score_first_prob, 1 - team_exp_score_first_prob)) %>%
-  select(team = home_team, team_win_tip, team_score_first) %>%
+         team_score_first = if_else(team_exp_score_first == home_team, team_exp_score_first_prob, 1 - team_exp_score_first_prob),
+         jumper_injury_status = home_injury_status, opp_jumper_injury_status = away_injury_status) %>%
+  select(team = home_team, team_win_tip, team_score_first, jumper_injury_status, opp_jumper_injury_status) %>%
   bind_rows(first_team_to_score_df %>%
               mutate(team_win_tip = if_else(away_jumper == exp_winning_jumper, win_tip_prob, 1 - win_tip_prob),
-                     team_score_first = if_else(team_exp_score_first == away_team, team_exp_score_first_prob, 1 - team_exp_score_first_prob)) %>%
-              select(team = away_team, team_win_tip, team_score_first))
+                     team_score_first = if_else(team_exp_score_first == away_team, team_exp_score_first_prob, 1 - team_exp_score_first_prob),
+                     jumper_injury_status = away_injury_status, opp_jumper_injury_status = home_injury_status) %>%
+              select(team = away_team, team_win_tip, team_score_first, jumper_injury_status, opp_jumper_injury_status))
 
 first_shot_joined <-
   projected_starters %>%
@@ -196,7 +198,8 @@ first_shot_joined <-
          percentage = coalesce(percentage, 0)) %>%
   inner_join(team_odds, by = c("TEAM_ABBREVIATION" = "team")) %>%
   select(team = TEAM_ABBREVIATION, player = PLAYER_NAME, injury_status = TO_PLAY_DESC,
-         starts, first_shots = shots, first_shot_percent = percentage, team_win_tip, team_score_first) %>%
+         starts, first_shots = shots, first_shot_percent = percentage, team_win_tip, team_score_first,
+         jumper_injury_status, opp_jumper_injury_status) %>%
   left_join(select(player_usage, PLAYER_NAME, TEAM_ABBREVIATION, USG, FG_USG, FG_PCT), by = c("team" = "TEAM_ABBREVIATION", "player" = "PLAYER_NAME")) %>%
   mutate(first_shot_usg = (first_shot_percent + FG_USG) / 2,
          first_shot_make = first_shot_usg * FG_PCT)
@@ -220,7 +223,7 @@ fpts_output <-
          sport = 'nba', 
          prop = 'first player to score') %>%
   select(sport, prop, tidyplayer = player, tidyteam = team, projected_line, projected_prob,
-         first_shot_rate, fg_usg, fg_pct, injury_status) %>%
+         first_shot_rate, fg_usg, fg_pct, jumper_injury_status, opp_jumper_injury_status) %>%
   arrange(tidyteam, desc(projected_prob))
   
 ## Write out main file for first team to score
