@@ -1,0 +1,479 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022000925,2,12,0,1,9:11 PM,12:00,,Start of 1st Period (9:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,4,10,0,1,9:11 PM,12:00,Jump Ball Jokic vs. Valanciunas: Tip to Allen,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,1
+0022000925,7,1,86,1,9:11 PM,11:42,,,Valanciunas 8' Turnaround Fadeaway (2 PTS) (Brooks 1 AST),2 - 0,-2,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,8,6,2,1,9:12 PM,11:27,,,Brooks S.FOUL (P1.T1) (E.Lewis),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,10,3,11,1,9:12 PM,11:27,MISS Gordon Free Throw 1 of 2,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,11,4,1,1,9:12 PM,11:27,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,12,3,12,1,9:12 PM,11:27,Gordon Free Throw 2 of 2 (1 PTS),,,2 - 1,-1,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,13,2,1,1,9:13 PM,11:17,,,MISS Morant 25' 3PT Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,14,4,0,1,9:13 PM,11:15,Jokic REBOUND (Off:0 Def:1),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,15,2,1,1,9:13 PM,10:56,MISS Porter Jr. 26' 3PT Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,16,4,0,1,9:13 PM,10:54,,,Morant REBOUND (Off:0 Def:1),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,17,2,1,1,9:13 PM,10:47,,,MISS Brooks 25' 3PT Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,18,4,0,1,9:13 PM,10:44,Jokic REBOUND (Off:0 Def:2),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,19,1,98,1,9:13 PM,10:33,Jokic 2' Cutting Layup Shot (2 PTS) (Campazzo 1 AST),,,2 - 3,1,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,21,2,78,1,9:13 PM,10:24,,,MISS Valanciunas 8' Floating Jump Shot,,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,22,4,0,1,9:14 PM,10:22,Jokic REBOUND (Off:0 Def:3),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,23,1,79,1,9:14 PM,10:10,Porter Jr. 13' Pullup Jump Shot (2 PTS),,,2 - 5,3,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,25,6,2,1,9:14 PM,9:48,Gordon S.FOUL (P1.T1) (N.Green),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,27,3,11,1,9:15 PM,9:48,,,Brooks Free Throw 1 of 2 (1 PTS),3 - 5,2,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,28,3,12,1,9:15 PM,9:48,,,Brooks Free Throw 2 of 2 (2 PTS),4 - 5,1,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0022000925,29,5,2,1,9:15 PM,9:35,Jokic Lost Ball Turnover (P1.T1),,Valanciunas STEAL (1 STL),,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,31,2,2,1,9:16 PM,9:30,,,MISS Morant 3PT Running Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,32,4,0,1,9:16 PM,9:27,,,Allen REBOUND (Off:1 Def:0),,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,33,2,1,1,9:16 PM,9:26,,,MISS Brooks 26' 3PT Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,34,4,0,1,9:16 PM,9:26,Dozier REBOUND (Off:0 Def:1),,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,35,1,76,1,9:16 PM,9:18,Dozier 2' Running Finger Roll Layup (2 PTS),,,4 - 7,3,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,59,5,2,1,9:16 PM,8:52,,,Brooks Lost Ball Turnover (P1.T1),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0022000925,36,6,3,1,9:16 PM,8:52,,,Brooks L.B.FOUL (P2.T2) (L.Wood),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,39,8,0,1,9:17 PM,8:52,,,SUB: Melton FOR Brooks,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,41,6,1,1,9:17 PM,8:35,,,Valanciunas P.FOUL (P1.T3) (L.Wood),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,43,2,78,1,9:17 PM,8:29,MISS Porter Jr. 14' Floating Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,44,4,0,1,9:17 PM,8:27,,,Melton REBOUND (Off:0 Def:1),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,45,6,2,1,9:18 PM,8:22,Dozier S.FOUL (P1.T2) (E.Lewis),,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,47,3,11,1,9:18 PM,8:22,,,Melton Free Throw 1 of 2 (1 PTS),5 - 7,2,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,48,3,12,1,9:18 PM,8:22,,,MISS Melton Free Throw 2 of 2,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,49,4,0,1,9:18 PM,8:20,Porter Jr. REBOUND (Off:0 Def:1),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,50,1,96,1,9:18 PM,8:05,Jokic 7' Turnaround Bank Hook Shot (4 PTS),,,5 - 9,4,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,51,1,101,1,9:19 PM,7:52,,,Morant 9' Driving Floating Jump Shot (2 PTS),7 - 9,2,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,52,2,98,1,9:19 PM,7:36,MISS Dozier 3' Cutting Layup Shot,,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,53,4,0,1,9:19 PM,7:34,Porter Jr. REBOUND (Off:1 Def:1),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,54,1,58,1,9:19 PM,7:32,Porter Jr. 4' Turnaround Hook Shot (4 PTS),,,7 - 11,4,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,55,6,2,1,9:19 PM,7:32,,,Melton S.FOUL (P1.T4) (E.Lewis),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,57,9,1,1,9:19 PM,7:32,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,60,8,0,1,9:22 PM,7:32,SUB: Rivers FOR Dozier,,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,62,3,10,1,9:22 PM,7:32,MISS Porter Jr. Free Throw 1 of 1,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,63,4,0,1,9:22 PM,7:29,,,Anderson REBOUND (Off:0 Def:1),,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,64,2,58,1,9:22 PM,7:18,,,MISS Valanciunas 5' Turnaround Hook Shot,,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,65,4,0,1,9:23 PM,7:11,,,Valanciunas REBOUND (Off:1 Def:0),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,66,1,97,1,9:23 PM,7:11,,,Valanciunas Tip Layup Shot (4 PTS),9 - 11,2,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,67,1,79,1,9:23 PM,6:58,Gordon 16' Pullup Jump Shot (3 PTS) (Jokic 1 AST),,,9 - 13,4,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,69,2,6,1,9:23 PM,6:44,,,MISS Melton 4' Driving Layup,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,70,4,0,1,9:23 PM,6:43,Jokic REBOUND (Off:0 Def:4),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,73,2,1,1,9:23 PM,6:33,MISS Porter Jr. 25' 3PT Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,74,4,0,1,9:23 PM,6:29,,,Morant REBOUND (Off:0 Def:2),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,75,2,79,1,9:24 PM,6:23,,,MISS Anderson 26' 3PT Pullup Jump Shot,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,76,4,0,1,9:24 PM,6:21,Jokic REBOUND (Off:0 Def:5),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,77,5,1,1,9:24 PM,6:08,Campazzo Bad Pass Turnover (P1.T2),,Melton STEAL (1 STL),,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,79,2,2,1,9:24 PM,6:04,,,MISS Allen 3PT Running Jump Shot,,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,80,4,0,1,9:24 PM,6:01,Jokic REBOUND (Off:0 Def:6),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,117,5,1,1,9:24 PM,5:57,Jokic Bad Pass Turnover (P2.T3),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,81,6,3,1,9:24 PM,5:57,Gordon L.B.FOUL (P2.T3) (N.Green),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,84,8,0,1,9:24 PM,5:57,SUB: Green FOR Gordon,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,85,8,0,1,9:24 PM,5:57,,,SUB: Jackson Jr. FOR Anderson,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,86,8,0,1,9:24 PM,5:57,,,SUB: Clarke FOR Valanciunas,,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,90,1,1,1,9:25 PM,5:41,,,Jackson Jr. 3PT Jump Shot (3 PTS) (Morant 1 AST),12 - 13,1,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,92,6,1,1,9:25 PM,5:26,,,Jackson Jr. P.FOUL (P1.PN) (L.Wood),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,94,3,11,1,9:26 PM,5:26,Jokic Free Throw 1 of 2 (5 PTS),,,12 - 14,2,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,95,3,12,1,9:26 PM,5:26,Jokic Free Throw 2 of 2 (6 PTS),,,12 - 15,3,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022000925,96,2,58,1,9:26 PM,5:04,,,MISS Jackson Jr. 4' Turnaround Hook Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,97,4,0,1,9:26 PM,5:03,Green REBOUND (Off:0 Def:1),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,98,5,2,1,9:27 PM,4:47,Porter Jr. Lost Ball Turnover (P1.T4),,Clarke STEAL (1 STL),,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,100,6,2,1,9:27 PM,4:45,Rivers S.FOUL (P1.T4) (E.Lewis),,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,102,9,1,1,9:27 PM,4:45,,,Grizzlies Timeout: Regular (Reg.2 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,103,8,0,1,9:30 PM,4:45,,,SUB: Bane FOR Allen,,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,105,3,11,1,9:30 PM,4:45,,,MISS Morant Free Throw 1 of 2,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,106,4,1,1,9:30 PM,4:45,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,107,3,12,1,9:30 PM,4:45,,,Morant Free Throw 2 of 2 (3 PTS),13 - 15,2,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,108,2,5,1,9:31 PM,4:22,MISS Jokic 6' Layup,,Clarke BLOCK (1 BLK),,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0022000925,110,4,0,1,9:31 PM,4:20,,,Melton REBOUND (Off:0 Def:2),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,111,6,2,1,9:31 PM,4:18,Green S.FOUL (P1.PN) (E.Lewis),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,113,3,11,1,9:31 PM,4:18,,,Morant Free Throw 1 of 2 (4 PTS),14 - 15,1,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,114,3,12,1,9:32 PM,4:18,,,Morant Free Throw 2 of 2 (5 PTS),15 - 15,TIE,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,115,2,79,1,9:32 PM,4:01,MISS Campazzo 12' Pullup Jump Shot,,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,116,4,0,1,9:32 PM,3:56,,,Morant REBOUND (Off:0 Def:3),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,118,2,1,1,9:32 PM,3:50,,,MISS Jackson Jr. 26' 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,119,4,0,1,9:32 PM,3:47,Green REBOUND (Off:0 Def:2),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,120,5,39,1,9:32 PM,3:43,Rivers Step Out of Bounds Turnover (P1.T5),,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022000925,121,8,0,1,9:32 PM,3:43,SUB: Harrison FOR Campazzo,,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,123,1,101,1,9:33 PM,3:30,,,Morant 8' Driving Floating Jump Shot (7 PTS) (Clarke 1 AST),17 - 15,-2,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,125,9,1,1,9:33 PM,3:28,NUGGETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,126,8,0,1,9:34 PM,3:28,SUB: Dozier FOR Porter Jr.,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,128,1,102,1,9:35 PM,3:11,Rivers 4' Driving Floating Bank Jump Shot (2 PTS),,,17 - 17,TIE,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,129,2,78,1,9:35 PM,3:01,,,MISS Clarke 6' Floating Jump Shot,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,130,4,0,1,9:35 PM,3:00,Jokic REBOUND (Off:0 Def:7),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,131,5,1,1,9:35 PM,2:47,Jokic Bad Pass Turnover (P3.T6),,Clarke STEAL (2 STL),,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,133,2,1,1,9:35 PM,2:40,,,MISS Bane 26' 3PT Jump Shot,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,134,4,0,1,9:35 PM,2:37,Dozier REBOUND (Off:0 Def:2),,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,135,6,1,1,9:36 PM,2:27,,,Bane P.FOUL (P1.PN) (E.Lewis),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,137,3,11,1,9:36 PM,2:27,Jokic Free Throw 1 of 2 (7 PTS),,,17 - 18,1,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,138,8,0,1,9:36 PM,2:27,,,SUB: Winslow FOR Morant,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,140,3,12,1,9:36 PM,2:27,Jokic Free Throw 2 of 2 (8 PTS),,,17 - 19,2,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,141,2,1,1,9:36 PM,2:15,,,MISS Melton 26' 3PT Jump Shot,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,142,4,0,1,9:36 PM,2:13,Jokic REBOUND (Off:0 Def:8),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,143,2,101,1,9:37 PM,2:03,MISS Jokic 9' Driving Floating Jump Shot,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,144,4,0,1,9:37 PM,1:59,,,Melton REBOUND (Off:0 Def:3),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,145,6,2,1,9:37 PM,1:54,Harrison S.FOUL (P1.PN) (L.Wood),,,,,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,147,3,11,1,9:37 PM,1:54,,,MISS Jackson Jr. Free Throw 1 of 2,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,148,4,1,1,9:37 PM,1:54,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,149,8,0,1,9:37 PM,1:54,SUB: Millsap FOR Jokic,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,151,3,12,1,9:38 PM,1:54,,,Jackson Jr. Free Throw 2 of 2 (4 PTS),18 - 19,1,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,152,2,101,1,9:38 PM,1:35,MISS Dozier 6' Driving Floating Jump Shot,,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,153,4,0,1,9:38 PM,1:33,,,Jackson Jr. REBOUND (Off:0 Def:1),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,154,2,6,1,9:38 PM,1:28,Rivers BLOCK (1 BLK),,MISS Melton 5' Driving Layup,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,1
+0022000925,156,4,0,1,9:38 PM,1:28,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,157,2,86,1,9:39 PM,1:16,,,MISS Winslow 14' Turnaround Fadeaway Shot,,,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,158,4,0,1,9:39 PM,1:14,Millsap REBOUND (Off:0 Def:1),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,159,2,98,1,9:39 PM,0:52,MISS Harrison 3' Cutting Layup Shot,,Clarke BLOCK (2 BLK),,,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0022000925,161,4,0,1,9:39 PM,0:49,,,Winslow REBOUND (Off:0 Def:1),,,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,162,2,1,1,9:39 PM,0:46,,,MISS Melton 25' 3PT Jump Shot,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,163,4,0,1,9:39 PM,0:43,Rivers REBOUND (Off:0 Def:1),,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,164,1,75,1,9:39 PM,0:33,Rivers 2' Driving Finger Roll Layup (4 PTS),,,18 - 21,3,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,165,2,78,1,9:40 PM,0:16,,,MISS Clarke 7' Floating Jump Shot,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,166,4,0,1,9:40 PM,0:15,Millsap REBOUND (Off:0 Def:2),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,167,2,80,1,9:40 PM,0:02,MISS Rivers 25' 3PT Step Back Jump Shot,,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,168,4,0,1,9:40 PM,0:02,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000925,169,13,0,1,9:40 PM,0:00,,End of 1st Period (9:40 PM EST),,18 - 21,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000925,176,12,0,2,9:43 PM,12:00,,Start of 2nd Period (9:43 PM EST),,18 - 21,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,177,2,1,2,9:43 PM,11:48,MISS Dozier 17' Jump Shot,,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,178,4,0,2,9:43 PM,11:39,,,Clarke REBOUND (Off:0 Def:1),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,179,5,45,2,9:43 PM,11:32,,,Valanciunas Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022000925,180,2,80,2,9:44 PM,11:15,MISS Millsap 14' Step Back Jump Shot,,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,181,4,0,2,9:44 PM,11:13,,,Winslow REBOUND (Off:0 Def:2),,,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,182,1,41,2,9:44 PM,11:08,,,Winslow 4' Running Layup (2 PTS),20 - 21,1,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,183,1,63,2,9:44 PM,10:48,Porter Jr. 3PT Fadeaway Jumper (7 PTS) (Dozier 1 AST),,,20 - 24,4,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,185,1,98,2,9:44 PM,10:33,,,Valanciunas 2' Cutting Layup Shot (6 PTS) (Winslow 1 AST),22 - 24,2,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,187,1,98,2,9:45 PM,10:19,Porter Jr. 3' Cutting Layup Shot (9 PTS) (Dozier 2 AST),,,22 - 26,4,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,189,7,2,2,9:45 PM,10:19,,,Valanciunas Violation:Defensive Goaltending (N.Green),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022000925,190,5,4,2,9:45 PM,10:02,,,Clarke Traveling Turnover (P1.T3),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022000925,191,2,1,2,9:46 PM,9:52,MISS Millsap 26' 3PT Jump Shot,,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,192,4,0,2,9:46 PM,9:48,Porter Jr. REBOUND (Off:2 Def:1),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,193,5,1,2,9:46 PM,9:47,Porter Jr. Bad Pass Turnover (P2.T7),,Bane STEAL (1 STL),,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,195,2,1,2,9:46 PM,9:41,,,MISS Winslow 24' 3PT Jump Shot,,,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,196,4,0,2,9:46 PM,9:37,Dozier REBOUND (Off:0 Def:3),,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,197,2,102,2,9:46 PM,9:24,MISS Dozier 6' Driving Floating Bank Jump Shot,,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,198,4,0,2,9:46 PM,9:21,,,Clarke REBOUND (Off:0 Def:2),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,199,6,2,2,9:46 PM,9:18,Green S.FOUL (P2.T1) (N.Green),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,201,3,11,2,9:47 PM,9:18,,,Brooks Free Throw 1 of 2 (3 PTS),23 - 26,3,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,202,8,0,2,9:47 PM,9:18,SUB: Campazzo FOR Rivers,,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,203,8,0,2,9:47 PM,9:18,,,SUB: Anderson FOR Clarke,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,204,8,0,2,9:47 PM,9:18,,,SUB: Allen FOR Bane,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,208,3,12,2,9:47 PM,9:18,,,Brooks Free Throw 2 of 2 (4 PTS),24 - 26,2,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,209,2,79,2,9:47 PM,9:05,MISS Campazzo 14' Pullup Jump Shot,,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,210,4,0,2,9:47 PM,9:02,,,Winslow REBOUND (Off:0 Def:3),,,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,211,2,76,2,9:47 PM,8:59,,,MISS Winslow 4' Running Finger Roll Layup,,,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,212,4,0,2,9:47 PM,8:57,Millsap REBOUND (Off:0 Def:3),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,213,2,1,2,9:48 PM,8:42,MISS Millsap 26' 3PT Jump Shot,,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,214,4,0,2,9:48 PM,8:40,,,Allen REBOUND (Off:1 Def:1),,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,215,5,2,2,9:48 PM,8:29,Millsap STEAL (1 STL),,Valanciunas Lost Ball Turnover (P2.T4),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,217,1,2,2,9:48 PM,8:24,Campazzo 3PT Running Jump Shot (3 PTS) (Porter Jr. 1 AST),,,24 - 29,5,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,219,1,58,2,9:48 PM,8:11,,,Valanciunas 8' Turnaround Hook Shot (8 PTS),26 - 29,3,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,221,1,1,2,9:48 PM,7:56,Millsap 25' 3PT Jump Shot (3 PTS) (Campazzo 2 AST),,,26 - 32,6,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,223,9,1,2,9:48 PM,7:55,,,Grizzlies Timeout: Regular (Reg.3 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,224,8,0,2,9:51 PM,7:55,SUB: Harrison FOR Green,,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,225,8,0,2,9:51 PM,7:55,SUB: Gordon FOR Dozier,,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,228,6,2,2,9:52 PM,7:39,Millsap S.FOUL (P1.T2) (E.Lewis),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,230,3,11,2,9:52 PM,7:39,,,Winslow Free Throw 1 of 2 (3 PTS),27 - 32,5,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,231,3,12,2,9:52 PM,7:39,,,Winslow Free Throw 2 of 2 (4 PTS),28 - 32,4,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,233,2,43,2,9:53 PM,7:27,MISS Millsap 3' Alley Oop Layup,,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,234,4,0,2,9:53 PM,7:23,,,Valanciunas REBOUND (Off:1 Def:1),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,235,1,7,2,9:53 PM,7:13,,,Valanciunas 1' Dunk (10 PTS) (Winslow 2 AST),30 - 32,2,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,237,1,1,2,9:53 PM,7:02,Porter Jr. 20' Jump Shot (11 PTS) (Campazzo 3 AST),,,30 - 34,4,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,239,1,1,2,9:53 PM,6:49,,,Brooks 24' 3PT Jump Shot (7 PTS) (Winslow 3 AST),33 - 34,1,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,241,2,1,2,9:54 PM,6:29,MISS Harrison 3PT Jump Shot,,,,,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,242,4,0,2,9:54 PM,6:26,Gordon REBOUND (Off:1 Def:0),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,243,2,5,2,9:54 PM,6:26,MISS Gordon 1' Layup,,Brooks BLOCK (1 BLK),,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1
+0022000925,245,4,0,2,9:54 PM,6:26,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,246,8,0,2,9:54 PM,6:26,SUB: Jokic FOR Millsap,,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,247,8,0,2,9:54 PM,6:26,,,SUB: Jackson Jr. FOR Valanciunas,,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,250,2,6,2,9:54 PM,6:20,MISS Harrison 4' Driving Layup,,,,,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,251,4,0,2,9:54 PM,6:19,,,Jackson Jr. REBOUND (Off:0 Def:2),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,252,1,50,2,9:54 PM,6:16,,,Brooks 1' Running Dunk (9 PTS) (Winslow 4 AST),35 - 34,-1,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,254,9,1,2,9:55 PM,6:15,NUGGETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,256,2,108,2,9:58 PM,5:54,MISS Porter Jr. 3' Cutting Dunk Shot,,Winslow BLOCK (1 BLK),,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,1
+0022000925,258,4,0,2,9:58 PM,5:51,,,Jackson Jr. REBOUND (Off:0 Def:3),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,344,5,1,2,9:58 PM,5:50,Porter Jr. STEAL (1 STL),,Jackson Jr. Bad Pass Turnover (P1.T5),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,259,1,79,2,9:58 PM,5:49,Porter Jr. 14' Pullup Jump Shot (13 PTS),,,35 - 36,1,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,260,1,73,2,9:58 PM,5:31,,,Anderson 3' Driving Reverse Layup (2 PTS),37 - 36,-1,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,261,1,1,2,9:59 PM,5:13,Gordon 25' 3PT Jump Shot (6 PTS) (Campazzo 4 AST),,,37 - 39,2,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,263,1,73,2,9:59 PM,4:54,,,Jackson Jr. 6' Driving Reverse Layup (6 PTS),39 - 39,TIE,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,264,1,1,2,9:59 PM,4:39,Jokic 25' 3PT Jump Shot (11 PTS) (Gordon 1 AST),,,39 - 42,3,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,266,2,1,2,10:00 PM,4:22,,,MISS Jackson Jr. 26' 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,267,4,0,2,10:00 PM,4:20,Harrison REBOUND (Off:0 Def:1),,,,,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,268,1,2,2,10:00 PM,4:15,Gordon 3PT Running Jump Shot (9 PTS) (Campazzo 5 AST),,,39 - 45,6,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,270,2,58,2,10:00 PM,3:50,,,MISS Jackson Jr. 5' Turnaround Hook Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,271,4,0,2,10:00 PM,3:49,Porter Jr. REBOUND (Off:2 Def:2),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,272,6,1,2,10:00 PM,3:47,,,Allen P.FOUL (P1.T1) (E.Lewis),,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,274,8,0,2,10:00 PM,3:47,SUB: Dozier FOR Harrison,,,,,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,275,8,0,2,10:00 PM,3:47,,,SUB: Morant FOR Winslow,,,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,278,5,1,2,10:01 PM,3:42,Jokic Bad Pass Turnover (P4.T8),,Brooks STEAL (1 STL),,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,280,1,41,2,10:01 PM,3:37,,,Morant 3' Running Layup (9 PTS),41 - 45,4,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,281,1,98,2,10:01 PM,3:24,Gordon 6' Cutting Layup Shot (11 PTS) (Jokic 2 AST),,,41 - 47,6,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,283,6,2,2,10:01 PM,3:24,,,Brooks S.FOUL (P3.T2) (L.Wood),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,285,8,0,2,10:01 PM,3:24,,,SUB: Winslow FOR Brooks,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,287,3,10,2,10:02 PM,3:24,MISS Gordon Free Throw 1 of 1,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,288,4,0,2,10:02 PM,3:21,,,Anderson REBOUND (Off:0 Def:2),,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,290,6,2,2,10:02 PM,3:14,Gordon S.FOUL (P3.T3) (N.Green),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,292,3,11,2,10:02 PM,3:14,,,Anderson Free Throw 1 of 2 (3 PTS),42 - 47,5,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,293,8,0,2,10:02 PM,3:14,SUB: Rivers FOR Gordon,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,295,3,12,2,10:03 PM,3:14,,,Anderson Free Throw 2 of 2 (4 PTS),43 - 47,4,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,296,1,58,2,10:03 PM,3:00,Jokic 7' Turnaround Hook Shot (13 PTS),,,43 - 49,6,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,297,1,1,2,10:03 PM,2:47,,,Allen 27' 3PT Jump Shot (3 PTS) (Morant 2 AST),46 - 49,3,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,299,6,2,2,10:03 PM,2:38,,,Jackson Jr. S.FOUL (P2.T3) (L.Wood),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,301,3,11,2,10:04 PM,2:38,Jokic Free Throw 1 of 2 (14 PTS),,,46 - 50,4,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,303,8,0,2,10:04 PM,2:38,,,SUB: Melton FOR Anderson,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,305,3,12,2,10:04 PM,2:38,Jokic Free Throw 2 of 2 (15 PTS),,,46 - 51,5,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,306,5,45,2,10:04 PM,2:21,,,Melton Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022000925,307,2,1,2,10:05 PM,2:10,MISS Dozier 3PT Jump Shot,,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,308,4,0,2,10:05 PM,2:06,,,Jackson Jr. REBOUND (Off:0 Def:4),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,309,2,41,2,10:05 PM,2:00,,,MISS Jackson Jr. 4' Running Layup,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,310,4,0,2,10:05 PM,1:58,Jokic REBOUND (Off:0 Def:9),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,311,2,2,2,10:05 PM,1:55,MISS Rivers 25' 3PT Running Jump Shot,,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,312,4,0,2,10:05 PM,1:52,,,Jackson Jr. REBOUND (Off:0 Def:5),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,313,1,58,2,10:05 PM,1:43,,,Morant 7' Turnaround Hook Shot (11 PTS),48 - 51,3,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,314,2,1,2,10:05 PM,1:26,MISS Campazzo 3PT Jump Shot,,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,315,4,0,2,10:05 PM,1:23,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,316,6,3,2,10:06 PM,1:23,,,Morant L.B.FOUL (P1.T4) (N.Green),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,318,8,0,2,10:06 PM,1:23,,,SUB: Valanciunas FOR Jackson Jr.,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,320,1,79,2,10:06 PM,1:13,Porter Jr. 15' Pullup Jump Shot (15 PTS) (Jokic 3 AST),,,48 - 53,5,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,322,2,80,2,10:06 PM,0:57,,,MISS Morant 26' 3PT Step Back Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,323,4,0,2,10:06 PM,0:56,Jokic REBOUND (Off:0 Def:10),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,324,5,1,2,10:07 PM,0:42,Jokic Bad Pass Turnover (P5.T9),,Morant STEAL (1 STL),,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,326,1,101,2,10:07 PM,0:35,,,Morant 4' Driving Floating Jump Shot (13 PTS) (Melton 1 AST),50 - 53,3,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,328,6,2,2,10:07 PM,0:35,Jokic S.FOUL (P1.T4) (E.Lewis),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,330,3,10,2,10:07 PM,0:35,,,Morant Free Throw 1 of 1 (14 PTS),51 - 53,2,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,331,1,79,2,10:08 PM,0:30,Jokic 25' 3PT Pullup Jump Shot (18 PTS) (Campazzo 6 AST),,,51 - 56,5,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,332,6,1,2,10:08 PM,0:12,Campazzo P.FOUL (P1.PN) (N.Green),,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,334,3,11,2,10:09 PM,0:12,,,Morant Free Throw 1 of 2 (15 PTS),52 - 56,4,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,335,3,12,2,10:09 PM,0:12,,,Morant Free Throw 2 of 2 (16 PTS),53 - 56,3,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,336,1,75,2,10:09 PM,0:03,Campazzo 4' Driving Finger Roll Layup (5 PTS),,,53 - 58,5,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,338,18,0,2,10:09 PM,0:00,,Instant Replay2nd Period (10:09 PM EST),,53 - 58,5,0,337,,,,,,0,0,,,,,,1,0,,,,,,0
+0022000925,339,5,45,2,10:11 PM,0:00,Jokic Out of Bounds - Bad Pass Turnover Turnover (P6.T10),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022000925,340,10,0,2,10:12 PM,0:00, ,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,2,1610612743,,,,,,1
+0022000925,337,5,4,2,10:09 PM,0:00,,,Morant Traveling Turnover (P1.T7),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022000925,346,13,0,2,10:18 PM,0:00,,End of 2nd Period (10:18 PM EST),,53 - 58,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000925,353,12,0,3,10:28 PM,12:00,,Start of 3rd Period (10:28 PM EST),,53 - 58,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,354,2,73,3,10:28 PM,11:39,MISS Porter Jr. 3' Driving Reverse Layup,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,355,4,0,3,10:28 PM,11:38,,,Morant REBOUND (Off:0 Def:4),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,356,2,1,3,10:28 PM,11:22,,,MISS Allen 26' 3PT Jump Shot,,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,357,4,0,3,10:28 PM,11:19,,,Anderson REBOUND (Off:1 Def:2),,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,358,2,79,3,10:28 PM,11:15,,,MISS Brooks 12' Pullup Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,359,4,0,3,10:28 PM,11:12,Jokic REBOUND (Off:0 Def:11),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,360,2,47,3,10:29 PM,10:56,MISS Jokic 11' Turnaround Jump Shot,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,361,4,0,3,10:29 PM,10:55,,,Anderson REBOUND (Off:1 Def:3),,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,364,6,4,3,10:29 PM,10:53,,,Brooks OFF.Foul (P4) (L.Wood),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,366,5,37,3,10:29 PM,10:53,,,Brooks Offensive Foul Turnover (P2.T8),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0022000925,367,2,80,3,10:29 PM,10:37,MISS Gordon 26' 3PT Step Back Jump Shot,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,368,4,0,3,10:29 PM,10:34,,,Morant REBOUND (Off:0 Def:5),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,369,1,101,3,10:29 PM,10:28,,,Morant 7' Driving Floating Jump Shot (18 PTS),55 - 58,3,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,370,6,2,3,10:30 PM,10:12,,,Valanciunas S.FOUL (P2.T1) (E.Lewis),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,372,3,11,3,10:30 PM,10:12,Jokic Free Throw 1 of 2 (19 PTS),,,55 - 59,4,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,373,3,12,3,10:30 PM,10:12,Jokic Free Throw 2 of 2 (20 PTS),,,55 - 60,5,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022000925,374,1,1,3,10:31 PM,9:59,,,Allen 3PT Jump Shot (6 PTS) (Morant 3 AST),58 - 60,2,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,376,1,73,3,10:31 PM,9:48,Gordon 2' Driving Reverse Layup (13 PTS),,,58 - 62,4,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,377,2,79,3,10:31 PM,9:43,,,MISS Allen 26' 3PT Pullup Jump Shot,,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,378,4,0,3,10:31 PM,9:43,Gordon REBOUND (Off:1 Def:1),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,379,2,1,3,10:31 PM,9:29,MISS Dozier 26' 3PT Jump Shot,,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,380,4,0,3,10:31 PM,9:26,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,381,2,58,3,10:32 PM,9:12,,,MISS Anderson 8' Turnaround Hook Shot,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,382,4,0,3,10:32 PM,9:09,Jokic REBOUND (Off:0 Def:12),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,383,2,1,3,10:32 PM,9:04,MISS Campazzo 27' 3PT Jump Shot,,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,384,4,0,3,10:32 PM,9:01,,,Anderson REBOUND (Off:1 Def:4),,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,385,1,74,3,10:32 PM,8:56,,,Allen 2' Running Reverse Layup (8 PTS) (Morant 4 AST),60 - 62,2,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,387,9,1,3,10:32 PM,8:56,NUGGETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,388,6,2,3,10:35 PM,8:40,,,Valanciunas S.FOUL (P3.T2) (E.Lewis),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,390,3,11,3,10:36 PM,8:40,Jokic Free Throw 1 of 2 (21 PTS),,,60 - 63,3,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,391,3,12,3,10:36 PM,8:40,Jokic Free Throw 2 of 2 (22 PTS),,,60 - 64,4,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,392,6,2,3,10:36 PM,8:23,Jokic S.FOUL (P2.T1) (E.Lewis),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,394,3,11,3,10:37 PM,8:23,,,MISS Valanciunas Free Throw 1 of 2,,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,395,4,1,3,10:37 PM,8:23,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,396,3,12,3,10:37 PM,8:23,,,Valanciunas Free Throw 2 of 2 (11 PTS),61 - 64,3,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,397,2,79,3,10:37 PM,8:01,MISS Dozier 30' 3PT Pullup Jump Shot,,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,398,4,0,3,10:37 PM,7:56,,,Anderson REBOUND (Off:1 Def:5),,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,399,1,102,3,10:38 PM,7:47,,,Anderson 5' Driving Floating Bank Jump Shot (6 PTS) (Brooks 2 AST),63 - 64,1,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,402,1,6,3,10:38 PM,7:32,Porter Jr. 2' Driving Layup (17 PTS),,,63 - 66,3,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,403,5,1,3,10:38 PM,7:21,Jokic STEAL (1 STL),,Morant Bad Pass Turnover (P2.T9),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,405,1,76,3,10:38 PM,7:17,Campazzo 1' Running Finger Roll Layup (7 PTS),,,63 - 68,5,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,406,5,1,3,10:39 PM,7:04,Gordon STEAL (1 STL),,Valanciunas Bad Pass Turnover (P3.T10),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,408,2,101,3,10:39 PM,6:43,MISS Dozier 9' Driving Floating Jump Shot,,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,409,4,0,3,10:39 PM,6:43,Gordon REBOUND (Off:2 Def:1),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,410,1,97,3,10:39 PM,6:43,Gordon Tip Layup Shot (15 PTS),,,63 - 70,7,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,411,9,1,3,10:39 PM,6:43,,,Grizzlies Timeout: Regular (Reg.4 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,412,8,0,3,10:42 PM,6:43,SUB: Rivers FOR Dozier,,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,413,8,0,3,10:42 PM,6:43,,,SUB: Melton FOR Valanciunas,,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,414,8,0,3,10:42 PM,6:43,,,SUB: Jackson Jr. FOR Brooks,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,418,2,1,3,10:42 PM,6:28,,,MISS Allen 25' 3PT Jump Shot,,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,419,4,0,3,10:42 PM,6:26,,,Anderson REBOUND (Off:2 Def:5),,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,420,1,52,3,10:42 PM,6:24,,,Morant Alley Oop Dunk (20 PTS) (Anderson 1 AST),65 - 70,5,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,422,2,47,3,10:43 PM,6:04,MISS Porter Jr. 26' 3PT Turnaround Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,423,4,0,3,10:43 PM,6:01,Gordon REBOUND (Off:3 Def:1),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,424,2,1,3,10:43 PM,5:56,MISS Campazzo 25' 3PT Jump Shot,,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,425,4,0,3,10:43 PM,5:53,,,Melton REBOUND (Off:0 Def:4),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,426,2,58,3,10:43 PM,5:41,,,MISS Melton 6' Turnaround Hook Shot,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,427,4,0,3,10:43 PM,5:41,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,428,6,3,3,10:43 PM,5:41,,,Jackson Jr. L.B.FOUL (P3.T3) (E.Lewis),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,430,8,0,3,10:43 PM,5:41,,,SUB: Clarke FOR Anderson,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,432,2,1,3,10:43 PM,5:34,MISS Jokic 27' 3PT Jump Shot,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,433,4,0,3,10:44 PM,5:31,,,Clarke REBOUND (Off:0 Def:3),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,434,5,1,3,10:44 PM,5:19,Campazzo STEAL (1 STL),,Morant Bad Pass Turnover (P3.T11),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,436,6,28,3,10:44 PM,5:18,,,Morant Personal Take Foul (P2.T4) (L.Wood),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,438,2,86,3,10:45 PM,4:57,MISS Jokic 15' Turnaround Fadeaway Shot,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,439,4,0,3,10:45 PM,4:53,Campazzo REBOUND (Off:1 Def:0),,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,440,1,1,3,10:45 PM,4:52,Porter Jr. 25' 3PT Jump Shot (20 PTS) (Campazzo 7 AST),,,65 - 73,8,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,442,2,1,3,10:45 PM,4:32,,,MISS Clarke 25' 3PT Jump Shot,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,443,4,0,3,10:45 PM,4:30,Porter Jr. REBOUND (Off:2 Def:3),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,444,2,1,3,10:45 PM,4:12,MISS Rivers 26' 3PT Jump Shot,,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,445,4,0,3,10:45 PM,4:07,,,Clarke REBOUND (Off:0 Def:4),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,446,5,2,3,10:45 PM,4:06,Jokic STEAL (2 STL),,Clarke Lost Ball Turnover (P2.T12),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,448,2,75,3,10:46 PM,3:57,MISS Rivers 4' Driving Finger Roll Layup,,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,449,4,0,3,10:46 PM,3:53,Jokic REBOUND (Off:1 Def:12),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,450,1,97,3,10:46 PM,3:53,Jokic Tip Layup Shot (24 PTS),,,65 - 75,10,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,451,1,58,3,10:46 PM,3:42,,,Jackson Jr. 10' Turnaround Hook Shot (8 PTS) (Morant 5 AST),67 - 75,8,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,453,2,98,3,10:46 PM,3:26,MISS Gordon 1' Cutting Layup Shot,,Clarke BLOCK (3 BLK),,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0022000925,455,4,0,3,10:46 PM,3:25,,,Melton REBOUND (Off:0 Def:5),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,456,6,1,3,10:46 PM,3:25,Campazzo P.FOUL (P2.T2) (E.Lewis),,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,458,8,0,3,10:46 PM,3:25,SUB: Green FOR Campazzo,,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,459,8,0,3,10:46 PM,3:25,SUB: Harrison FOR Gordon,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,460,8,0,3,10:46 PM,3:25,,,SUB: Bane FOR Allen,,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,464,2,1,3,10:47 PM,3:09,,,MISS Clarke 3PT Jump Shot,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,465,4,0,3,10:47 PM,3:07,,,Bane REBOUND (Off:1 Def:0),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,466,1,102,3,10:47 PM,3:01,,,Melton 13' Driving Floating Bank Jump Shot (3 PTS) (Clarke 2 AST),69 - 75,6,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,468,2,80,3,10:47 PM,2:43,MISS Rivers 26' 3PT Step Back Jump Shot,,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,469,4,0,3,10:47 PM,2:42,,,Jackson Jr. REBOUND (Off:0 Def:6),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,470,1,6,3,10:47 PM,2:36,,,Morant 4' Driving Layup (22 PTS),71 - 75,4,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,471,6,2,3,10:48 PM,2:27,,,Melton S.FOUL (P2.PN) (E.Lewis),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,473,3,11,3,10:48 PM,2:27,Porter Jr. Free Throw 1 of 2 (21 PTS),,,71 - 76,5,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,474,3,12,3,10:48 PM,2:27,Porter Jr. Free Throw 2 of 2 (22 PTS),,,71 - 77,6,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,475,2,75,3,10:48 PM,2:17,,,MISS Morant 3' Driving Finger Roll Layup,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,476,4,0,3,10:49 PM,2:14,Porter Jr. REBOUND (Off:2 Def:4),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,477,2,2,3,10:49 PM,2:09,MISS Green 3PT Running Jump Shot,,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,478,4,0,3,10:49 PM,2:07,,,Clarke REBOUND (Off:0 Def:5),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,479,1,50,3,10:49 PM,2:02,,,Clarke 1' Running Dunk (2 PTS) (Melton 2 AST),73 - 77,4,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,481,1,1,3,10:49 PM,1:36,Green 3PT Jump Shot (3 PTS) (Rivers 1 AST),,,73 - 80,7,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,483,1,6,3,10:49 PM,1:28,,,Morant 3' Driving Layup (24 PTS),75 - 80,5,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,484,2,44,3,10:50 PM,1:04,MISS Jokic 3' Reverse Layup,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,485,4,0,3,10:50 PM,1:01,,,Jackson Jr. REBOUND (Off:0 Def:7),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,486,2,1,3,10:50 PM,0:55,,,MISS Jackson Jr. 26' 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,487,4,0,3,10:50 PM,0:52,Harrison REBOUND (Off:0 Def:2),,,,,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,488,1,74,3,10:50 PM,0:49,Harrison 3' Running Reverse Layup (2 PTS),,,75 - 82,7,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,489,6,2,3,10:50 PM,0:49,,,Jackson Jr. S.FOUL (P4.PN) (N.Green),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,491,8,0,3,10:50 PM,0:49,SUB: Millsap FOR Porter Jr.,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,492,8,0,3,10:50 PM,0:49,SUB: Dozier FOR Jokic,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,493,8,0,3,10:50 PM,0:49,,,SUB: Valanciunas FOR Jackson Jr.,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,497,3,10,3,10:50 PM,0:49,Harrison Free Throw 1 of 1 (3 PTS),,,75 - 83,8,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,498,6,1,3,10:51 PM,0:33,Rivers P.FOUL (P2.T3) (E.Lewis),,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,500,2,1,3,10:51 PM,0:31,,,MISS Morant 3PT Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,501,4,0,3,10:51 PM,0:28,Millsap REBOUND (Off:0 Def:4),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,502,1,75,3,10:52 PM,0:11,Dozier 3' Driving Finger Roll Layup (4 PTS),,,75 - 85,10,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,503,2,1,3,10:52 PM,0:00,Dozier BLOCK (1 BLK),,MISS Bane 27' 3PT Jump Shot,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,1
+0022000925,505,4,0,3,10:52 PM,0:00,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,506,13,0,3,10:52 PM,0:00,,End of 3rd Period (10:52 PM EST),,75 - 85,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000925,509,12,0,4,10:55 PM,12:00,,Start of 4th Period (10:55 PM EST),,75 - 85,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,510,1,98,4,10:55 PM,11:39,,,Bane 2' Cutting Layup Shot (2 PTS) (Clarke 3 AST),77 - 85,8,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,512,1,78,4,10:55 PM,11:20,Millsap 11' Floating Jump Shot (5 PTS) (Rivers 2 AST),,,77 - 87,10,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,514,2,1,4,10:55 PM,11:12,,,MISS Melton 27' 3PT Jump Shot,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,515,4,0,4,10:55 PM,11:10,Green REBOUND (Off:0 Def:3),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,516,1,102,4,10:56 PM,11:03,Dozier 3' Driving Floating Bank Jump Shot (6 PTS),,,77 - 89,12,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,517,6,2,4,10:56 PM,11:03,,,Melton S.FOUL (P3.T1) (N.Green),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,519,8,0,4,10:56 PM,11:03,,,SUB: Brooks FOR Clarke,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,521,3,10,4,10:56 PM,11:03,Dozier Free Throw 1 of 1 (7 PTS),,,77 - 90,13,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,522,6,4,4,10:56 PM,10:52,,,Brooks OFF.Foul (P5) (N.Green),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,524,5,37,4,10:56 PM,10:52,,,Brooks Offensive Foul Turnover (P3.T13),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022000925,525,7,5,4,10:57 PM,10:28,,,Brooks Violation:Kicked Ball (E.Lewis),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0022000925,526,1,79,4,10:58 PM,10:18,Dozier 19' Pullup Jump Shot (9 PTS),,,77 - 92,15,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,527,2,78,4,10:58 PM,10:03,,,MISS Valanciunas 7' Floating Jump Shot,,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,528,4,0,4,10:58 PM,10:00,Harrison REBOUND (Off:0 Def:3),,,,,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,529,1,1,4,10:58 PM,9:49,Millsap 26' 3PT Jump Shot (8 PTS) (Rivers 3 AST),,,77 - 95,18,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,531,9,1,4,10:58 PM,9:47,,,Grizzlies Timeout: Regular (Reg.5 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,532,8,0,4,11:01 PM,9:47,,,SUB: Morant FOR Bane,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,534,6,1,4,11:01 PM,9:34,Millsap P.FOUL (P2.T1) (N.Green),,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,536,2,6,4,11:02 PM,9:25,,,MISS Melton 4' Driving Layup,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,537,4,0,4,11:02 PM,9:23,,,Brooks REBOUND (Off:1 Def:0),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,538,5,1,4,11:02 PM,9:21,Rivers STEAL (1 STL),,Brooks Bad Pass Turnover (P4.T14),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,540,1,6,4,11:02 PM,9:05,Millsap 4' Driving Layup (10 PTS) (Dozier 3 AST),,,77 - 97,20,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,542,1,96,4,11:02 PM,8:53,,,Valanciunas 2' Turnaround Bank Hook Shot (13 PTS) (Morant 6 AST),79 - 97,18,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,544,2,1,4,11:03 PM,8:35,MISS Green 26' 3PT Jump Shot,,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,545,4,0,4,11:03 PM,8:32,,,Valanciunas REBOUND (Off:1 Def:2),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,546,2,1,4,11:03 PM,8:22,,,MISS Winslow 26' 3PT Jump Shot,,,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,547,4,0,4,11:03 PM,8:18,Green REBOUND (Off:0 Def:4),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,548,2,80,4,11:03 PM,8:09,MISS Millsap 3PT Step Back Jump Shot,,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,549,4,0,4,11:03 PM,8:07,Green REBOUND (Off:1 Def:4),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,550,1,72,4,11:03 PM,8:06,Green 2' Putback Layup (5 PTS),,,79 - 99,20,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,551,6,2,4,11:03 PM,7:56,Harrison S.FOUL (P2.T2) (E.Lewis),,,,,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,553,3,11,4,11:04 PM,7:56,,,MISS Morant Free Throw 1 of 2,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,557,4,1,4,11:04 PM,7:56,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,558,3,12,4,11:04 PM,7:56,,,Morant Free Throw 2 of 2 (25 PTS),80 - 99,19,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,555,8,0,4,11:04 PM,7:56,,,SUB: Jackson Jr. FOR Valanciunas,,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,559,2,78,4,11:05 PM,7:31,MISS Millsap 16' Floating Jump Shot,,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022000925,560,4,0,4,11:05 PM,7:29,,,Morant REBOUND (Off:0 Def:6),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0022000925,561,6,28,4,11:05 PM,7:26,Rivers Personal Take Foul (P3.T3) (N.Green),,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,563,8,0,4,11:05 PM,7:26,SUB: Porter Jr. FOR Harrison,,,,,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,564,8,0,4,11:05 PM,7:26,SUB: Campazzo FOR Dozier,,,,,4,1628408,PJ Dozier,1610612743.0,Denver,Nuggets,DEN,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,567,1,98,4,11:05 PM,7:10,,,Winslow 3' Cutting Layup Shot (6 PTS) (Jackson Jr. 1 AST),82 - 99,17,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,569,1,44,4,11:06 PM,6:47,Millsap 2' Reverse Layup (12 PTS) (Porter Jr. 2 AST),,,82 - 101,19,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,571,1,73,4,11:06 PM,6:34,,,Morant 2' Driving Reverse Layup (27 PTS),84 - 101,17,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,572,2,108,4,11:06 PM,6:19,MISS Green 3' Cutting Dunk Shot,,Winslow BLOCK (2 BLK),,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,1
+0022000925,573,4,0,4,11:06 PM,6:17,,,Melton REBOUND (Off:0 Def:6),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,574,2,41,4,11:06 PM,6:13,,,MISS Melton 2' Running Layup,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,575,4,0,4,11:06 PM,6:12,Porter Jr. REBOUND (Off:2 Def:5),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,576,6,2,4,11:07 PM,6:05,,,Jackson Jr. S.FOUL (P5.T2) (N.Green),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,578,3,11,4,11:07 PM,6:05,Porter Jr. Free Throw 1 of 2 (23 PTS),,,84 - 102,18,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,579,8,0,4,11:07 PM,6:05,SUB: Jokic FOR Green,,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,580,8,0,4,11:07 PM,6:05,SUB: Gordon FOR Millsap,,,,,4,200794,Paul Millsap,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,581,8,0,4,11:07 PM,6:05,,,SUB: Bane FOR Melton,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,585,3,12,4,11:07 PM,6:05,Porter Jr. Free Throw 2 of 2 (24 PTS),,,84 - 103,19,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,586,5,2,4,11:08 PM,5:55,Campazzo STEAL (2 STL),,Jackson Jr. Lost Ball Turnover (P2.T15),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,588,2,79,4,11:08 PM,5:45,MISS Porter Jr. 20' Pullup Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,589,4,0,4,11:08 PM,5:41,,,Winslow REBOUND (Off:0 Def:4),,,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,590,6,2,4,11:08 PM,5:39,Campazzo S.FOUL (P3.T4) (N.Green),,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,592,7,1,4,11:08 PM,5:39,NUGGETS Violation: Delay of game Violation,,,,,2,1610612743,,,,,,0,0,,,,,,1,0,,,,,,0
+0022000925,593,3,11,4,11:08 PM,5:39,,,MISS Jackson Jr. Free Throw 1 of 2,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0022000925,594,4,1,4,11:08 PM,5:39,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,595,3,12,4,11:08 PM,5:39,,,Jackson Jr. Free Throw 2 of 2 (9 PTS),85 - 103,18,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,596,1,51,4,11:09 PM,5:16,Porter Jr. Reverse Dunk (26 PTS) (Jokic 4 AST),,,85 - 105,20,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,598,9,1,4,11:09 PM,5:15,,,Grizzlies Timeout: Regular (Reg.6 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,600,8,0,4,11:12 PM,5:15,,,SUB: Jones FOR Winslow,,,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,601,8,0,4,11:12 PM,5:15,,,SUB: Konchar FOR Morant,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,602,8,0,4,11:12 PM,5:15,,,SUB: Tillie FOR Brooks,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,606,6,11,4,11:12 PM,5:15,Green T.FOUL (P2.T4) (N.Green),,,,,4,203210,JaMychal Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022000925,607,3,16,4,11:12 PM,5:15,,,Bane Free Throw Technical (3 PTS),86 - 105,19,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,608,2,1,4,11:13 PM,5:07,,,MISS Jackson Jr. 26' 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,609,4,0,4,11:13 PM,5:05,Gordon REBOUND (Off:3 Def:2),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,610,1,6,4,11:13 PM,4:48,Porter Jr. 2' Driving Layup (28 PTS) (Gordon 2 AST),,,86 - 107,21,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,612,6,2,4,11:13 PM,4:39,Jokic S.FOUL (P3.PN) (E.Lewis),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,614,3,11,4,11:14 PM,4:39,,,Jackson Jr. Free Throw 1 of 2 (10 PTS),87 - 107,20,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,615,3,12,4,11:14 PM,4:39,,,MISS Jackson Jr. Free Throw 2 of 2,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,616,4,0,4,11:14 PM,4:36,Jokic REBOUND (Off:1 Def:13),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,617,1,41,4,11:14 PM,4:33,Rivers 2' Running Layup (6 PTS) (Jokic 5 AST),,,87 - 109,22,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,620,2,1,4,11:15 PM,4:17,,,MISS Tillie 3PT Jump Shot,,,5,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,621,4,0,4,11:15 PM,4:14,Jokic REBOUND (Off:1 Def:14),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,622,6,1,4,11:15 PM,4:07,,,Jones P.FOUL (P1.T3) (E.Lewis),,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,624,8,0,4,11:15 PM,4:07,,,SUB: Porter FOR Jackson Jr.,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1629007,Jontay Porter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022000925,626,8,0,4,11:15 PM,4:07,SUB: Cancar FOR Jokic,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,628,2,44,4,11:16 PM,3:59,MISS Gordon 2' Reverse Layup,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,629,4,0,4,11:16 PM,3:56,,,Konchar REBOUND (Off:0 Def:1),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,630,2,98,4,11:16 PM,3:51,Porter Jr. BLOCK (1 BLK),,MISS Konchar 2' Cutting Layup Shot,,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1
+0022000925,632,4,0,4,11:16 PM,3:46,Campazzo REBOUND (Off:1 Def:1),,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,633,1,79,4,11:16 PM,3:42,Porter Jr. 25' 3PT Pullup Jump Shot (31 PTS),,,87 - 112,25,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,635,1,101,4,11:16 PM,3:20,,,Jones 11' Driving Floating Jump Shot (2 PTS),89 - 112,23,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,636,9,1,4,11:16 PM,3:19,NUGGETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000925,637,8,0,4,11:17 PM,3:19,SUB: Howard FOR Porter Jr.,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1630210,Markus Howard,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,638,8,0,4,11:17 PM,3:19,SUB: Bol FOR Campazzo,,,,,4,1630267,Facundo Campazzo,1610612743.0,Denver,Nuggets,DEN,4,1629626,Bol Bol,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,639,8,0,4,11:17 PM,3:19,SUB: Nnaji FOR Rivers,,,,,4,203085,Austin Rivers,1610612743.0,Denver,Nuggets,DEN,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,640,8,0,4,11:17 PM,3:19,SUB: Harrison FOR Gordon,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022000925,645,2,80,4,11:18 PM,3:02,MISS Nnaji 3PT Step Back Jump Shot,,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,646,4,0,4,11:18 PM,2:56,,,Jones REBOUND (Off:0 Def:1),,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,647,2,1,4,11:18 PM,2:48,,,MISS Porter 26' 3PT Jump Shot,,,5,1629007,Jontay Porter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,648,4,0,4,11:18 PM,2:45,Howard REBOUND (Off:0 Def:1),,,,,4,1630210,Markus Howard,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,649,5,2,4,11:18 PM,2:45,Howard Lost Ball Turnover (P1.T11),,Konchar STEAL (1 STL),,,4,1630210,Markus Howard,1610612743.0,Denver,Nuggets,DEN,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,651,1,5,4,11:18 PM,2:42,,,Konchar 1' Layup (2 PTS),91 - 112,21,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,652,1,9,4,11:19 PM,2:21,Cancar 1' Driving Dunk (2 PTS) (Harrison 1 AST),,,91 - 114,23,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,654,1,101,4,11:19 PM,2:08,,,Tillie 11' Driving Floating Jump Shot (2 PTS) (Jones 1 AST),93 - 114,21,5,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022000925,656,2,80,4,11:19 PM,1:53,MISS Bol 17' Step Back Jump Shot,,,,,4,1629626,Bol Bol,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,657,4,0,4,11:19 PM,1:49,,,Konchar REBOUND (Off:0 Def:2),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,658,5,45,4,11:19 PM,1:46,,,Konchar Out of Bounds - Bad Pass Turnover Turnover (P1.T16),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022000925,659,1,98,4,11:20 PM,1:30,Nnaji 3' Cutting Layup Shot (2 PTS) (Howard 1 AST),,,93 - 116,23,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,1630210,Markus Howard,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,662,6,2,4,11:21 PM,1:08,Nnaji S.FOUL (P1.PN) (N.Green),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,1629007,Jontay Porter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022000925,664,3,13,4,11:21 PM,1:08,,,Porter Free Throw 1 of 3 (1 PTS),94 - 116,22,5,1629007,Jontay Porter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,665,3,14,4,11:21 PM,1:08,,,Porter Free Throw 2 of 3 (2 PTS),95 - 116,21,5,1629007,Jontay Porter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0022000925,666,3,15,4,11:21 PM,1:08,,,Porter Free Throw 3 of 3 (3 PTS),96 - 116,20,5,1629007,Jontay Porter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,667,6,2,4,11:21 PM,0:53,,,Tillie S.FOUL (P1.T4) (N.Green),,,5,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,4,1629626,Bol Bol,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022000925,669,3,11,4,11:22 PM,0:53,Bol Free Throw 1 of 2 (1 PTS),,,96 - 117,21,4,1629626,Bol Bol,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,670,3,12,4,11:22 PM,0:53,Bol Free Throw 2 of 2 (2 PTS),,,96 - 118,22,4,1629626,Bol Bol,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,671,2,1,4,11:22 PM,0:43,,,MISS Tillie 25' 3PT Jump Shot,,,5,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,672,4,0,4,11:22 PM,0:39,Harrison REBOUND (Off:0 Def:4),,,,,4,1627885,Shaquille Harrison,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,673,1,9,4,11:23 PM,0:24,Bol 1' Driving Dunk (4 PTS) (Howard 2 AST),,,96 - 120,24,4,1629626,Bol Bol,1610612743.0,Denver,Nuggets,DEN,4,1630210,Markus Howard,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022000925,675,2,79,4,11:23 PM,0:16,,,MISS Jones 26' 3PT Pullup Jump Shot,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022000925,676,4,0,4,11:23 PM,0:13,Nnaji REBOUND (Off:0 Def:1),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022000925,678,13,0,4,11:23 PM,0:00,,End of 4th Period (11:23 PM EST),,96 - 120,24,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
