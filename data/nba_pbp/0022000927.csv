@@ -1,0 +1,536 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022000927,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,4,10,0,1,7:11 PM,12:00,Jump Ball Thompson vs. Brown: Tip to Maledon,,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,1
+0022000927,7,1,1,1,7:11 PM,11:44,,,Dort 25' 3PT Jump Shot (3 PTS) (Bazley 1 AST),3 - 0,-3,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,9,1,43,1,7:12 PM,11:30,Brown 3' Alley Oop Layup (2 PTS) (Smart 1 AST),,,3 - 2,-1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,11,5,1,1,7:12 PM,11:12,Thompson STEAL (1 STL),,Pokusevski Bad Pass Turnover (P1.T1),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,13,2,57,1,7:12 PM,11:04,MISS Thompson 13' Driving Hook Shot,,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,14,4,0,1,7:12 PM,11:01,,,Pokusevski REBOUND (Off:0 Def:1),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,15,2,6,1,7:12 PM,10:55,,,MISS Pokusevski 5' Driving Layup,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,16,4,0,1,7:12 PM,10:53,,,Brown REBOUND (Off:1 Def:0),,,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,17,6,2,1,7:12 PM,10:53,Thompson S.FOUL (P1.T1) (J.Williams),,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,19,3,11,1,7:13 PM,10:53,,,Brown Free Throw 1 of 2 (1 PTS),4 - 2,-2,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,20,3,12,1,7:13 PM,10:53,,,Brown Free Throw 2 of 2 (2 PTS),5 - 2,-3,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,21,2,79,1,7:13 PM,10:38,MISS Fournier 26' 3PT Pullup Jump Shot,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,22,4,0,1,7:13 PM,10:37,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,24,5,1,1,7:14 PM,10:26,Fournier STEAL (1 STL),,Bazley Bad Pass Turnover (P1.T2),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,26,2,50,1,7:14 PM,10:23,MISS Fournier 2' Running Dunk,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,27,4,0,1,7:14 PM,10:21,,,Bazley REBOUND (Off:0 Def:1),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,28,5,2,1,7:14 PM,10:17,Smart STEAL (1 STL),,Bazley Lost Ball Turnover (P2.T3),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,30,2,5,1,7:14 PM,10:12,MISS Ojeleye 4' Layup,,Bazley BLOCK (1 BLK),,,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,1
+0022000927,32,4,0,1,7:14 PM,10:10,Ojeleye REBOUND (Off:1 Def:0),,,,,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,33,1,5,1,7:14 PM,10:10,Ojeleye 3' Layup (2 PTS),,,5 - 4,-1,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,34,2,1,1,7:14 PM,9:57,,,MISS Pokusevski 7' Jump Shot,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,35,4,0,1,7:14 PM,9:57,Fournier REBOUND (Off:0 Def:1),,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,36,2,1,1,7:14 PM,9:50,MISS Ojeleye 3PT Jump Shot,,,,,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,37,4,0,1,7:14 PM,9:47,,,Pokusevski REBOUND (Off:0 Def:2),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,38,1,108,1,7:14 PM,9:38,,,Brown 1' Cutting Dunk Shot (4 PTS) (Pokusevski 1 AST),7 - 4,-3,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,40,1,79,1,7:15 PM,9:24,Brown 14' Pullup Jump Shot (4 PTS) (Thompson 1 AST),,,7 - 6,-1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,41,6,1,1,7:15 PM,9:12,Brown P.FOUL (P1.T2) (P.Ransom),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,45,2,79,1,7:16 PM,8:58,,,MISS Dort 19' Pullup Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,46,4,0,1,7:16 PM,8:55,Fournier REBOUND (Off:0 Def:2),,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,47,6,2,1,7:16 PM,8:46,,,Dort S.FOUL (P1.T1) (P.Ransom),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,49,3,11,1,7:16 PM,8:46,Brown Free Throw 1 of 2 (5 PTS),,,7 - 7,TIE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,51,3,12,1,7:17 PM,8:46,Brown Free Throw 2 of 2 (6 PTS),,,7 - 8,1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,52,1,79,1,7:17 PM,8:36,,,Pokusevski 9' Pullup Jump Shot (2 PTS) (Maledon 1 AST),9 - 8,-1,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,54,2,1,1,7:17 PM,8:24,MISS Brown 26' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,55,4,0,1,7:17 PM,8:22,,,Pokusevski REBOUND (Off:0 Def:3),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,56,1,3,1,7:17 PM,8:14,,,Brown 8' Hook Shot (6 PTS) (Pokusevski 2 AST),11 - 8,-3,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,58,2,1,1,7:17 PM,8:04,MISS Smart 29' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,59,4,0,1,7:17 PM,8:01,,,Brown REBOUND (Off:1 Def:1),,,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,60,1,6,1,7:18 PM,7:52,,,Maledon 3' Driving Layup (2 PTS),13 - 8,-5,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,61,2,79,1,7:18 PM,7:44,MISS Smart 27' 3PT Pullup Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,62,4,0,1,7:18 PM,7:42,,,Dort REBOUND (Off:0 Def:1),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,63,2,1,1,7:18 PM,7:34,,,MISS Dort 25' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,64,4,0,1,7:18 PM,7:31,Ojeleye REBOUND (Off:1 Def:1),,,,,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,65,2,1,1,7:18 PM,7:22,MISS Ojeleye 28' 3PT Jump Shot,,,,,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,66,4,0,1,7:18 PM,7:20,Thompson REBOUND (Off:1 Def:0),,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,67,6,1,1,7:18 PM,7:20,,,Brown P.FOUL (P1.T2) (J.Williams),,,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,69,8,0,1,7:18 PM,7:20,,,SUB: Roby FOR Brown,,,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,71,5,1,1,7:19 PM,7:14,Smart Bad Pass Turnover (P1.T1),,Maledon STEAL (1 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,73,6,2,1,7:19 PM,7:11,Fournier S.FOUL (P1.T3) (J.Williams),,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,75,3,11,1,7:19 PM,7:11,,,Dort Free Throw 1 of 2 (4 PTS),14 - 8,-6,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,76,3,12,1,7:19 PM,7:11,,,Dort Free Throw 2 of 2 (5 PTS),15 - 8,-7,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,77,9,1,1,7:20 PM,7:08,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,78,2,1,1,7:23 PM,6:56,MISS Brown 22' Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,79,4,0,1,7:23 PM,6:53,,,Roby REBOUND (Off:0 Def:1),,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,80,2,79,1,7:23 PM,6:48,,,MISS Maledon 24' 3PT Pullup Jump Shot,,,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,81,4,0,1,7:23 PM,6:44,Brown REBOUND (Off:0 Def:1),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,82,1,6,1,7:23 PM,6:38,Brown 4' Driving Layup (8 PTS),,,15 - 10,-5,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,83,7,5,1,7:23 PM,6:29,Smart Violation:Kicked Ball (J.Williams),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0022000927,84,8,0,1,7:23 PM,6:29,SUB: Pritchard FOR Ojeleye,,,,,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,85,8,0,1,7:23 PM,6:29,SUB: Parker FOR Fournier,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,4,203953,Jabari Parker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,88,6,2,1,7:24 PM,6:19,Thompson S.FOUL (P2.T4) (P.Ransom),,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,90,3,11,1,7:24 PM,6:19,,,Bazley Free Throw 1 of 2 (1 PTS),16 - 10,-6,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,91,8,0,1,7:24 PM,6:19,SUB: Williams FOR Thompson,,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,93,3,12,1,7:24 PM,6:19,,,Bazley Free Throw 2 of 2 (2 PTS),17 - 10,-7,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,94,2,75,1,7:25 PM,5:57,MISS Smart 4' Driving Finger Roll Layup,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,95,4,0,1,7:25 PM,5:55,,,Bazley REBOUND (Off:0 Def:2),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,96,5,4,1,7:25 PM,5:51,,,Bazley Traveling Turnover (P3.T4),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022000927,97,5,39,1,7:25 PM,5:38,Smart Step Out of Bounds Turnover (P2.T2),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022000927,98,1,1,1,7:26 PM,5:20,,,Pokusevski 29' 3PT Jump Shot (5 PTS) (Bazley 2 AST),20 - 10,-10,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,100,1,79,1,7:26 PM,5:11,Pritchard 30' 3PT Pullup Jump Shot (3 PTS),,,20 - 13,-7,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,101,2,101,1,7:26 PM,4:56,,,MISS Dort 6' Driving Floating Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,102,4,0,1,7:26 PM,4:55,,,Dort REBOUND (Off:1 Def:1),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,103,2,1,1,7:26 PM,4:47,,,MISS Maledon 26' 3PT Jump Shot,,,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,104,4,0,1,7:27 PM,4:43,Brown REBOUND (Off:0 Def:2),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,105,1,1,1,7:27 PM,4:37,Pritchard 28' 3PT Jump Shot (6 PTS) (Brown 1 AST),,,20 - 16,-4,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,107,6,2,1,7:27 PM,4:22,Parker S.FOUL (P1.PN) (J.Williams),,,,,4,203953,Jabari Parker,1610612738.0,Boston,Celtics,BOS,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,109,3,11,1,7:27 PM,4:22,,,Dort Free Throw 1 of 2 (6 PTS),21 - 16,-5,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,110,8,0,1,7:27 PM,4:22,SUB: Nesmith FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,111,8,0,1,7:27 PM,4:22,,,SUB: Williams FOR Bazley,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,112,8,0,1,7:27 PM,4:22,,,SUB: Jerome FOR Maledon,,,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,116,3,12,1,7:28 PM,4:22,,,Dort Free Throw 2 of 2 (7 PTS),22 - 16,-6,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,117,2,79,1,7:28 PM,4:11,MISS Pritchard 28' 3PT Pullup Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,118,4,0,1,7:28 PM,4:08,,,Jerome REBOUND (Off:0 Def:1),,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,119,5,40,1,7:28 PM,3:54,,,Dort Out of Bounds Lost Ball Turnover (P1.T5),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022000927,120,2,63,1,7:29 PM,3:39,MISS Brown 8' Fadeaway Jumper,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,121,4,0,1,7:29 PM,3:36,,,Roby REBOUND (Off:0 Def:2),,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,123,9,1,1,7:29 PM,3:34,,,Thunder Timeout: Regular (Reg.1 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,124,8,0,1,7:32 PM,3:34,,,SUB: Mykhailiuk FOR Pokusevski,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,126,2,1,1,7:32 PM,3:27,,,MISS Jerome 25' 3PT Jump Shot,,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,127,4,0,1,7:32 PM,3:24,Parker REBOUND (Off:0 Def:1),,,,,4,203953,Jabari Parker,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,128,1,79,1,7:32 PM,3:18,Brown 28' 3PT Pullup Jump Shot (11 PTS),,,22 - 19,-3,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,129,1,75,1,7:33 PM,2:58,,,Williams 3' Driving Finger Roll Layup (2 PTS) (Mykhailiuk 1 AST),24 - 19,-5,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,131,6,1,1,7:33 PM,2:36,,,Williams P.FOUL (P1.T3) (E.Dalen),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,133,2,1,1,7:34 PM,2:26,MISS Williams 24' 3PT Jump Shot,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,134,4,0,1,7:34 PM,2:23,,,Williams REBOUND (Off:0 Def:1),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,135,6,4,1,7:34 PM,2:12,,,Williams OFF.Foul (P2) (J.Williams),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,137,5,37,1,7:34 PM,2:12,,,Williams Offensive Foul Turnover (P1.T6),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022000927,138,8,0,1,7:34 PM,2:12,SUB: Fournier FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,140,1,58,1,7:35 PM,1:58,Williams 11' Turnaround Hook Shot (2 PTS) (Pritchard 1 AST),,,24 - 21,-3,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,142,2,1,1,7:35 PM,1:48,Williams BLOCK (1 BLK),,MISS Jerome 25' 3PT Jump Shot,,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1
+0022000927,144,4,0,1,7:35 PM,1:47,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,146,8,0,1,7:35 PM,1:47,SUB: Kornet FOR Parker,,,,,4,203953,Jabari Parker,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,147,8,0,1,7:35 PM,1:47,,,SUB: Bradley FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,150,2,86,1,7:35 PM,1:34,,,MISS Mykhailiuk 8' Turnaround Fadeaway Shot,,,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,151,4,0,1,7:36 PM,1:32,Kornet REBOUND (Off:0 Def:1),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,152,1,75,1,7:36 PM,1:20,Pritchard 2' Driving Finger Roll Layup (8 PTS),,,24 - 23,-1,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,153,5,39,1,7:36 PM,1:09,,,Jerome Step Out of Bounds Turnover (P1.T7),,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,154,2,1,1,7:36 PM,0:56,MISS Kornet 27' 3PT Jump Shot,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,155,4,0,1,7:36 PM,0:53,,,Mykhailiuk REBOUND (Off:0 Def:1),,,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,156,1,79,1,7:37 PM,0:47,,,Williams 19' Pullup Jump Shot (4 PTS) (Mykhailiuk 2 AST),26 - 23,-3,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,158,6,2,1,7:37 PM,0:40,,,Jerome S.FOUL (P1.T4) (P.Ransom),,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,160,3,11,1,7:37 PM,0:40,Pritchard Free Throw 1 of 2 (9 PTS),,,26 - 24,-2,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,163,3,12,1,7:37 PM,0:40,MISS Pritchard Free Throw 2 of 2,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,161,8,0,1,7:37 PM,0:40,,,SUB: Bazley FOR Bradley,,,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,164,4,0,1,7:37 PM,0:37,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,166,2,6,1,7:38 PM,0:29,,,MISS Bazley 6' Driving Layup,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,167,4,0,1,7:38 PM,0:27,Kornet REBOUND (Off:0 Def:2),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,168,5,4,1,7:38 PM,0:07,Pritchard Traveling Turnover (P1.T3),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,169,1,1,1,7:39 PM,0:00,,,Roby 27' 3PT Jump Shot (3 PTS),29 - 24,-5,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,170,18,0,1,7:39 PM,0:00,,Instant Replay1st Period (7:39 PM EST),,29 - 24,-5,0,169,,,,,,0,0,,,,,,1,0,,,,,,0
+0022000927,172,13,0,1,7:39 PM,0:00,,End of 1st Period (7:39 PM EST),,29 - 24,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000927,177,12,0,2,7:41 PM,12:00,,Start of 2nd Period (7:41 PM EST),,29 - 24,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,178,6,1,2,7:41 PM,11:51,,,Roby P.FOUL (P1.T1) (J.Williams),,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,180,5,45,2,7:42 PM,11:47,Fournier Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022000927,181,2,75,2,7:42 PM,11:37,Kornet BLOCK (1 BLK),,MISS Mykhailiuk 5' Driving Finger Roll Layup,,,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1
+0022000927,183,4,0,2,7:42 PM,11:35,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,185,1,98,2,7:43 PM,11:30,,,Bradley 6' Cutting Layup Shot (2 PTS) (Mykhailiuk 3 AST),31 - 24,-7,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,187,5,1,2,7:43 PM,11:17,Pritchard Bad Pass Turnover (P2.T5),,Mykhailiuk STEAL (1 STL),,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,189,2,5,2,7:43 PM,11:10,,,MISS Mykhailiuk 3' Layup,,,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,190,4,0,2,7:43 PM,11:07,Langford REBOUND (Off:0 Def:1),,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,191,2,3,2,7:43 PM,11:01,MISS Kornet 5' Hook Shot,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,192,4,0,2,7:43 PM,10:58,Langford REBOUND (Off:1 Def:1),,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,193,1,72,2,7:43 PM,10:58,Langford 3' Putback Layup (2 PTS),,,31 - 26,-5,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,194,1,79,2,7:43 PM,10:45,,,Williams 11' Pullup Jump Shot (6 PTS) (Bradley 1 AST),33 - 26,-7,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,195,1,75,2,7:44 PM,10:23,Pritchard 3' Driving Finger Roll Layup (11 PTS),,,33 - 28,-5,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,196,1,101,2,7:44 PM,10:09,,,Jerome 4' Driving Floating Jump Shot (2 PTS),35 - 28,-7,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,197,2,1,2,7:44 PM,9:59,MISS Langford 28' 3PT Jump Shot,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,198,4,0,2,7:44 PM,9:58,Kornet REBOUND (Off:1 Def:2),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,199,1,97,2,7:44 PM,9:57,Kornet Tip Layup Shot (2 PTS),,,35 - 30,-5,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,200,6,2,2,7:44 PM,9:46,Nesmith S.FOUL (P1.T1) (P.Ransom),,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,202,3,11,2,7:45 PM,9:46,,,Bradley Free Throw 1 of 2 (3 PTS),36 - 30,-6,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,203,3,12,2,7:45 PM,9:46,,,MISS Bradley Free Throw 2 of 2,,,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,204,4,0,2,7:45 PM,9:44,,,Williams REBOUND (Off:1 Def:1),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,205,1,6,2,7:45 PM,9:35,,,Roby 2' Driving Layup (5 PTS),38 - 30,-8,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,206,2,79,2,7:45 PM,9:17,MISS Fournier 28' 3PT Pullup Jump Shot,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,207,4,0,2,7:46 PM,9:15,,,Bradley REBOUND (Off:0 Def:1),,,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,208,1,1,2,7:46 PM,9:08,,,Mykhailiuk 3PT Jump Shot (3 PTS) (Jerome 1 AST),41 - 30,-11,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,210,9,1,2,7:46 PM,9:06,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,212,8,0,2,7:48 PM,9:06,SUB: Thompson FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,213,8,0,2,7:48 PM,9:06,SUB: Smart FOR Kornet,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,216,6,1,2,7:49 PM,8:56,,,Jerome P.FOUL (P2.T2) (P.Ransom),,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,218,1,63,2,7:49 PM,8:50,Fournier 14' Fadeaway Jumper (2 PTS) (Smart 2 AST),,,41 - 32,-9,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,220,6,1,2,7:50 PM,8:36,Fournier P.FOUL (P2.T2) (J.Williams),,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,222,2,1,2,7:50 PM,8:30,,,MISS Mykhailiuk 26' 3PT Jump Shot,,,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,223,4,0,2,7:50 PM,8:27,Fournier REBOUND (Off:0 Def:3),,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,224,2,103,2,7:50 PM,8:21,MISS Fournier 27' 3PT Running Pull-Up Jump Shot,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,225,4,0,2,7:50 PM,8:18,,,Roby REBOUND (Off:0 Def:3),,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,226,6,26,2,7:50 PM,8:15,,,Roby Offensive Charge Foul (P2.T3) (J.Williams),,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,228,5,37,2,7:50 PM,8:15,,,Roby Offensive Foul Turnover (P1.T8),,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022000927,229,8,0,2,7:50 PM,8:15,,,SUB: Bazley FOR Roby,,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,231,1,73,2,7:51 PM,7:58,Smart 3' Driving Reverse Layup (2 PTS),,,41 - 34,-7,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,232,2,6,2,7:51 PM,7:42,Langford BLOCK (1 BLK),,MISS Jerome 4' Driving Layup,,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,1
+0022000927,233,4,0,2,7:51 PM,7:40,Thompson REBOUND (Off:1 Def:1),,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,235,8,0,2,7:51 PM,7:29,SUB: Brown FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,236,8,0,2,7:51 PM,7:29,,,SUB: Brown FOR Bradley,,,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,237,8,0,2,7:51 PM,7:29,,,SUB: Dort FOR Jerome,,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,241,2,73,2,7:52 PM,7:22,MISS Fournier 3' Driving Reverse Layup,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,243,4,0,2,7:52 PM,7:18,,,Mykhailiuk REBOUND (Off:0 Def:2),,,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,244,6,2,2,7:52 PM,7:18,Smart S.FOUL (P1.T3) (E.Dalen),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,246,3,11,2,7:52 PM,7:18,,,Williams Free Throw 1 of 2 (7 PTS),42 - 34,-8,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,248,3,12,2,7:53 PM,7:18,,,Williams Free Throw 2 of 2 (8 PTS),43 - 34,-9,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,249,2,1,2,7:53 PM,7:06,MISS Smart 27' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,250,4,0,2,7:53 PM,7:04,,,Mykhailiuk REBOUND (Off:0 Def:3),,,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,251,2,1,2,7:53 PM,6:58,,,MISS Williams 25' 3PT Jump Shot,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,252,4,0,2,7:53 PM,6:54,Brown REBOUND (Off:0 Def:3),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,253,2,79,2,7:53 PM,6:50,MISS Brown 26' 3PT Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,254,4,0,2,7:53 PM,6:48,,,Brown REBOUND (Off:1 Def:2),,,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,255,2,80,2,7:53 PM,6:30,,,MISS Dort 27' 3PT Step Back Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,256,4,0,2,7:53 PM,6:27,,,Williams REBOUND (Off:2 Def:1),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,257,2,79,2,7:53 PM,6:25,,,MISS Mykhailiuk 27' 3PT Pullup Jump Shot,,,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,258,4,0,2,7:54 PM,6:22,Langford REBOUND (Off:1 Def:2),,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,259,2,1,2,7:54 PM,6:19,MISS Smart 27' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,260,4,0,2,7:54 PM,6:17,,,Mykhailiuk REBOUND (Off:0 Def:4),,,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,261,5,1,2,7:54 PM,6:04,Smart STEAL (2 STL),,Bazley Bad Pass Turnover (P4.T9),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,263,2,41,2,7:54 PM,5:59,MISS Brown 6' Running Layup,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,264,4,0,2,7:54 PM,5:56,,,Dort REBOUND (Off:1 Def:2),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,265,6,2,2,7:54 PM,5:52,Thompson S.FOUL (P3.T4) (J.Williams),,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,267,3,11,2,7:55 PM,5:52,,,MISS Bazley Free Throw 1 of 2,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,268,4,1,2,7:55 PM,5:52,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,277,3,12,2,7:55 PM,5:52,,,MISS Bazley Free Throw 2 of 2,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,269,8,0,2,7:55 PM,5:52,SUB: Pritchard FOR Thompson,,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,270,8,0,2,7:55 PM,5:52,SUB: Williams FOR Fournier,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,271,8,0,2,7:55 PM,5:52,,,SUB: Maledon FOR Mykhailiuk,,,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,272,8,0,2,7:55 PM,5:52,,,SUB: Pokusevski FOR Williams,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,278,4,0,2,7:55 PM,5:50,Brown REBOUND (Off:0 Def:4),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,279,1,41,2,7:55 PM,5:43,Smart 4' Running Layup (4 PTS) (Brown 2 AST),,,43 - 36,-7,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,282,6,2,2,7:56 PM,5:23,Pritchard S.FOUL (P1.PN) (J.Williams),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,284,3,11,2,7:56 PM,5:23,,,Maledon Free Throw 1 of 2 (3 PTS),44 - 36,-8,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,285,3,12,2,7:57 PM,5:23,,,Maledon Free Throw 2 of 2 (4 PTS),45 - 36,-9,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,286,2,79,2,7:57 PM,5:13,MISS Smart 19' Pullup Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,287,4,0,2,7:57 PM,5:10,,,Pokusevski REBOUND (Off:0 Def:4),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,288,2,1,2,7:57 PM,5:02,,,MISS Pokusevski 8' Jump Shot,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,289,4,0,2,7:57 PM,5:00,,,Pokusevski REBOUND (Off:1 Def:4),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,290,2,97,2,7:57 PM,4:59,,,MISS Pokusevski 6' Tip Layup Shot,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,291,4,0,2,7:57 PM,4:56,Brown REBOUND (Off:0 Def:5),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,292,6,2,2,7:57 PM,4:50,,,Pokusevski S.FOUL (P1.T4) (P.Ransom),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,294,3,11,2,7:58 PM,4:50,Pritchard Free Throw 1 of 2 (12 PTS),,,45 - 37,-8,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,295,3,12,2,7:58 PM,4:50,Pritchard Free Throw 2 of 2 (13 PTS),,,45 - 38,-7,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,296,6,4,2,7:58 PM,4:37,,,Dort OFF.Foul (P2) (J.Williams),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,298,5,37,2,7:58 PM,4:37,,,Dort Offensive Foul Turnover (P2.T10),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022000927,299,1,1,2,7:58 PM,4:28,Brown 28' 3PT Jump Shot (14 PTS) (Williams 1 AST),,,45 - 41,-4,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,300,2,101,2,7:59 PM,4:16,,,MISS Maledon 3' Driving Floating Jump Shot,,,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,301,4,0,2,7:59 PM,4:15,,,Brown REBOUND (Off:2 Def:2),,,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,302,2,72,2,7:59 PM,4:12,,,MISS Brown Putback Layup,,,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,303,4,0,2,7:59 PM,4:12,Brown REBOUND (Off:0 Def:6),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,304,5,6,2,7:59 PM,4:12,Brown Double Dribble Turnover (P1.T6),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022000927,305,9,1,2,7:59 PM,4:12,,,Thunder Timeout: Regular (Reg.2 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,307,8,0,2,8:01 PM,4:12,,,SUB: Roby FOR Brown,,,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,309,1,75,2,8:02 PM,3:59,,,Dort 5' Driving Finger Roll Layup (9 PTS),47 - 41,-6,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,310,6,2,2,8:02 PM,3:59,Williams S.FOUL (P1.PN) (P.Ransom),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,312,3,10,2,8:03 PM,3:59,,,Dort Free Throw 1 of 1 (10 PTS),48 - 41,-7,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,313,6,4,2,8:03 PM,3:49,Williams OFF.Foul (P2) (J.Williams),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,315,5,37,2,8:03 PM,3:49,Williams Offensive Foul Turnover (P1.T7),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022000927,316,6,4,2,8:03 PM,3:41,,,Dort OFF.Foul (P3) (J.Williams),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,318,5,37,2,8:03 PM,3:41,,,Dort Offensive Foul Turnover (P3.T11),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022000927,319,2,1,2,8:04 PM,3:31,MISS Williams 27' 3PT Jump Shot,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,320,4,0,2,8:04 PM,3:28,,,Dort REBOUND (Off:1 Def:3),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,321,1,6,2,8:04 PM,3:14,,,Bazley 3' Driving Layup (4 PTS),50 - 41,-9,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,322,2,1,2,8:04 PM,2:56,MISS Langford 24' 3PT Jump Shot,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,323,4,0,2,8:04 PM,2:53,,,Bazley REBOUND (Off:0 Def:3),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,324,1,1,2,8:04 PM,2:45,,,Dort 19' Jump Shot (12 PTS) (Pokusevski 3 AST),52 - 41,-11,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,326,6,2,2,8:04 PM,2:38,,,Pokusevski S.FOUL (P2.PN) (P.Ransom),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,328,3,11,2,8:05 PM,2:38,Brown Free Throw 1 of 2 (15 PTS),,,52 - 42,-10,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,329,8,0,2,8:05 PM,2:38,SUB: Thompson FOR Williams,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,330,8,0,2,8:05 PM,2:38,,,SUB: Williams FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,355,8,0,2,8:05 PM,2:38,SUB: Fournier FOR Langford,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,333,3,12,2,8:05 PM,2:38,Brown Free Throw 2 of 2 (16 PTS),,,52 - 43,-9,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,334,5,1,2,8:06 PM,2:24,Smart STEAL (3 STL),,Maledon Bad Pass Turnover (P1.T12),,,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,336,1,9,2,8:06 PM,2:14,Brown 1' Driving Dunk (18 PTS),,,52 - 45,-7,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,337,5,4,2,8:06 PM,2:02,,,Pokusevski Traveling Turnover (P2.T13),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022000927,339,2,6,2,8:07 PM,1:49,MISS Brown 3' Driving Layup,,Williams BLOCK (1 BLK),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,1
+0022000927,341,4,0,2,8:07 PM,1:48,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,343,1,1,2,8:07 PM,1:38,,,Bazley 25' 3PT Jump Shot (7 PTS),55 - 45,-10,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,344,2,75,2,8:07 PM,1:21,MISS Smart 4' Driving Finger Roll Layup,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,345,4,0,2,8:07 PM,1:20,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,347,5,4,2,8:08 PM,1:13,Fournier Traveling Turnover (P2.T8),,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,348,2,101,2,8:08 PM,0:58,,,MISS Pokusevski 13' Driving Floating Jump Shot,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,349,4,0,2,8:08 PM,0:56,Pritchard REBOUND (Off:0 Def:1),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,350,1,6,2,8:08 PM,0:51,Pritchard 3' Driving Layup (15 PTS),,,55 - 47,-8,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,351,5,4,2,8:09 PM,0:34,,,Maledon Traveling Turnover (P2.T14),,,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022000927,352,8,0,2,8:09 PM,0:34,,,SUB: Mykhailiuk FOR Pokusevski,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,354,1,101,2,8:09 PM,0:29,Pritchard 5' Driving Floating Jump Shot (17 PTS),,,55 - 49,-6,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,357,5,1,2,8:09 PM,0:16,Fournier STEAL (2 STL),,Maledon Bad Pass Turnover (P3.T15),,,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,359,2,1,2,8:09 PM,0:00,MISS Pritchard 27' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,360,4,0,2,8:09 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,361,13,0,2,8:10 PM,0:00,,End of 2nd Period (8:10 PM EST),,55 - 49,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000927,370,12,0,3,8:25 PM,12:00,,Start of 3rd Period (8:25 PM EST),,55 - 49,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,371,2,101,3,8:25 PM,11:48,MISS Brown 7' Driving Floating Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,372,4,0,3,8:25 PM,11:44,Thompson REBOUND (Off:2 Def:1),,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,373,2,72,3,8:25 PM,11:44,MISS Thompson Putback Layup,,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,374,4,0,3,8:25 PM,11:43,,,Bazley REBOUND (Off:0 Def:4),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,375,6,2,3,8:25 PM,11:39,Smart S.FOUL (P2.T1) (J.Williams),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,377,3,11,3,8:26 PM,11:39,,,Bazley Free Throw 1 of 2 (8 PTS),56 - 49,-7,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,378,3,12,3,8:26 PM,11:39,,,MISS Bazley Free Throw 2 of 2,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,379,4,0,3,8:26 PM,11:36,Fournier REBOUND (Off:0 Def:4),,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,380,1,79,3,8:26 PM,11:25,Brown 13' Pullup Jump Shot (20 PTS) (Smart 3 AST),,,56 - 51,-5,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,382,2,1,3,8:27 PM,11:01,,,MISS Bazley 28' 3PT Jump Shot,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,383,4,0,3,8:27 PM,10:59,Brown REBOUND (Off:0 Def:7),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,384,2,103,3,8:27 PM,10:54,MISS Brown 26' 3PT Running Pull-Up Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,385,4,0,3,8:27 PM,10:51,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,387,2,105,3,8:27 PM,10:37,,,MISS Bazley 8' Turnaround Fadeaway Bank Jump Shot,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,389,1,97,3,8:27 PM,10:32,,,Brown Tip Layup Shot (8 PTS),58 - 51,-7,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,388,4,0,3,8:27 PM,10:32,,,Brown REBOUND (Off:3 Def:2),,,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,390,6,2,3,8:27 PM,10:27,,,Bazley S.FOUL (P1.T1) (P.Ransom),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,392,3,11,3,8:28 PM,10:27,Smart Free Throw 1 of 2 (5 PTS),,,58 - 52,-6,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,393,3,12,3,8:28 PM,10:27,Smart Free Throw 2 of 2 (6 PTS),,,58 - 53,-5,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,394,1,1,3,8:28 PM,10:16,,,Dort 25' 3PT Jump Shot (15 PTS) (Maledon 2 AST),61 - 53,-8,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,396,2,1,3,8:29 PM,9:53,MISS Brown 25' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,397,4,0,3,8:29 PM,9:50,,,Brown REBOUND (Off:3 Def:3),,,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,398,1,103,3,8:29 PM,9:45,,,Pokusevski 27' 3PT Running Pull-Up Jump Shot (8 PTS) (Maledon 3 AST),64 - 53,-11,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,400,1,1,3,8:29 PM,9:26,Fournier 26' 3PT Jump Shot (5 PTS) (Thompson 2 AST),,,64 - 56,-8,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,402,6,2,3,8:29 PM,9:17,Thompson S.FOUL (P4.T2) (J.Williams),,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,404,3,11,3,8:30 PM,9:17,,,MISS Dort Free Throw 1 of 2,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,405,4,1,3,8:30 PM,9:17,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,406,8,0,3,8:30 PM,9:17,SUB: Pritchard FOR Ojeleye,,,,,4,1628400,Semi Ojeleye,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,408,3,12,3,8:30 PM,9:17,,,Dort Free Throw 2 of 2 (16 PTS),65 - 56,-9,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,409,2,1,3,8:30 PM,9:05,MISS Smart 26' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,410,4,0,3,8:30 PM,9:02,,,Brown REBOUND (Off:3 Def:4),,,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,411,1,79,3,8:31 PM,8:47,,,Pokusevski 23' Pullup Jump Shot (10 PTS),67 - 56,-11,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,412,1,79,3,8:31 PM,8:36,Pritchard 26' 3PT Pullup Jump Shot (20 PTS),,,67 - 59,-8,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,413,8,0,3,8:31 PM,8:25,SUB: Kornet FOR Thompson,,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,415,10,0,3,8:31 PM,8:21,Jump Ball Brown vs. Brown: Tip to Fournier,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,1
+0022000927,418,5,2,3,8:31 PM,8:21,Brown STEAL (1 STL),,Brown Lost Ball Turnover (P1.T16),,,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,420,1,1,3,8:32 PM,8:06,Fournier 25' 3PT Jump Shot (8 PTS) (Kornet 1 AST),,,67 - 62,-5,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,422,6,1,3,8:32 PM,7:53,Smart P.FOUL (P3.T3) (J.Williams),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,424,8,0,3,8:32 PM,7:53,,,SUB: Roby FOR Brown,,,5,1629650,Moses Brown,1610612760.0,Oklahoma City,Thunder,OKC,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,426,1,98,3,8:32 PM,7:45,,,Roby 3' Cutting Layup Shot (7 PTS) (Maledon 4 AST),69 - 62,-7,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,428,1,1,3,8:33 PM,7:20,Kornet 10' Jump Shot (4 PTS) (Smart 4 AST),,,69 - 64,-5,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,430,5,2,3,8:33 PM,7:05,Smart STEAL (4 STL),,Roby Lost Ball Turnover (P2.T17),,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,432,2,1,3,8:33 PM,6:59,MISS Fournier 25' 3PT Jump Shot,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,433,4,0,3,8:33 PM,6:56,,,Maledon REBOUND (Off:0 Def:1),,,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,434,2,1,3,8:33 PM,6:49,,,MISS Dort 28' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,435,4,0,3,8:33 PM,6:46,Fournier REBOUND (Off:0 Def:5),,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,436,2,1,3,8:33 PM,6:37,MISS Smart 26' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,437,4,0,3,8:34 PM,6:35,,,Maledon REBOUND (Off:0 Def:2),,,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,438,2,6,3,8:34 PM,6:19,Fournier BLOCK (1 BLK),,MISS Bazley 1' Driving Layup,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,1
+0022000927,440,4,0,3,8:34 PM,6:17,Fournier REBOUND (Off:0 Def:6),,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,441,9,1,3,8:34 PM,6:17,CELTICS Timeout: Regular (Full 3 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,442,2,63,3,8:37 PM,6:04,MISS Fournier 17' Fadeaway Jumper,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,443,4,0,3,8:37 PM,6:02,,,Pokusevski REBOUND (Off:1 Def:5),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,444,5,2,3,8:37 PM,5:55,Brown STEAL (2 STL),,Maledon Lost Ball Turnover (P4.T18),,,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,446,1,6,3,8:37 PM,5:49,Brown Driving Layup (22 PTS) (Smart 5 AST),,,69 - 66,-3,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,448,6,2,3,8:37 PM,5:49,,,Pokusevski S.FOUL (P3.T2) (P.Ransom),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,450,8,0,3,8:38 PM,5:49,SUB: Langford FOR Fournier,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,451,8,0,3,8:38 PM,5:49,,,SUB: Jerome FOR Maledon,,,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,454,3,10,3,8:38 PM,5:49,Brown Free Throw 1 of 1 (23 PTS),,,69 - 67,-2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,455,2,1,3,8:38 PM,5:29,,,MISS Pokusevski 30' 3PT Jump Shot,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,456,4,0,3,8:38 PM,5:26,Brown REBOUND (Off:0 Def:8),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,458,1,101,3,8:39 PM,5:15,Brown 4' Driving Floating Jump Shot (25 PTS) (Kornet 2 AST),,,69 - 69,TIE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,459,1,101,3,8:39 PM,4:59,,,Pokusevski 8' Driving Floating Jump Shot (12 PTS) (Roby 1 AST),71 - 69,-2,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,461,2,1,3,8:39 PM,4:46,MISS Smart 27' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,462,4,0,3,8:39 PM,4:44,,,Jerome REBOUND (Off:0 Def:2),,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,463,2,73,3,8:40 PM,4:36,,,MISS Dort 5' Driving Reverse Layup,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,464,4,0,3,8:40 PM,4:34,Brown REBOUND (Off:0 Def:9),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,465,1,73,3,8:40 PM,4:19,Pritchard 2' Driving Reverse Layup (22 PTS),,,71 - 71,TIE,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,467,2,6,3,8:40 PM,3:59,,,MISS Roby 6' Driving Layup,,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,468,4,0,3,8:40 PM,3:57,Pritchard REBOUND (Off:0 Def:2),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,469,6,28,3,8:40 PM,3:57,,,Jerome Personal Take Foul (P3.T3) (E.Dalen),,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,471,8,0,3,8:40 PM,3:57,SUB: Fournier FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,472,8,0,3,8:40 PM,3:57,,,SUB: Mykhailiuk FOR Bazley,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,473,8,0,3,8:40 PM,3:57,,,SUB: Bradley FOR Pokusevski,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,474,8,0,3,8:40 PM,3:57,,,SUB: Williams FOR Roby,,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,479,1,101,3,8:41 PM,3:48,Langford 6' Driving Floating Jump Shot (4 PTS) (Brown 3 AST),,,71 - 73,2,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,481,6,2,3,8:41 PM,3:48,,,Mykhailiuk S.FOUL (P1.T4) (E.Dalen),,,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,483,3,10,3,8:41 PM,3:48,Langford Free Throw 1 of 1 (5 PTS),,,71 - 74,3,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,484,1,63,3,8:42 PM,3:21,,,Jerome 7' Fadeaway Jumper (4 PTS),73 - 74,1,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,485,2,1,3,8:42 PM,3:03,MISS Brown 24' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,486,4,0,3,8:42 PM,2:59,,,Williams REBOUND (Off:2 Def:2),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,487,5,2,3,8:42 PM,2:54,Brown STEAL (3 STL),,Williams Lost Ball Turnover (P2.T19),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,489,1,76,3,8:42 PM,2:52,Brown Running Finger Roll Layup (27 PTS),,,73 - 76,3,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,490,9,1,3,8:42 PM,2:52,,,Thunder Timeout: Regular (Reg.3 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,491,1,1,3,8:45 PM,2:41,,,Jerome 27' 3PT Jump Shot (7 PTS) (Dort 1 AST),76 - 76,TIE,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,493,1,75,3,8:46 PM,2:22,Brown 1' Driving Finger Roll Layup (29 PTS) (Kornet 3 AST),,,76 - 78,2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,495,2,102,3,8:46 PM,2:07,,,MISS Dort 5' Driving Floating Bank Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,496,4,0,3,8:46 PM,2:04,Langford REBOUND (Off:1 Def:3),,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,497,5,45,3,8:46 PM,1:55,Fournier Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022000927,499,2,1,3,8:46 PM,1:46,,,MISS Dort 27' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,500,4,0,3,8:46 PM,1:44,Kornet REBOUND (Off:1 Def:3),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,501,2,41,3,8:46 PM,1:40,MISS Pritchard 3' Running Layup,,Dort BLOCK (1 BLK),,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1
+0022000927,503,4,0,3,8:46 PM,1:37,,,Jerome REBOUND (Off:0 Def:3),,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,504,2,1,3,8:47 PM,1:34,,,MISS Mykhailiuk 3PT Jump Shot,,,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,505,4,0,3,8:47 PM,1:30,Pritchard REBOUND (Off:0 Def:3),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,506,2,1,3,8:47 PM,1:15,MISS Fournier 26' 3PT Jump Shot,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,507,4,0,3,8:47 PM,1:12,,,Jerome REBOUND (Off:0 Def:4),,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,508,6,1,3,8:47 PM,1:07,Fournier P.FOUL (P3.T4) (E.Dalen),,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,510,8,0,3,8:47 PM,1:07,SUB: Smart FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,511,8,0,3,8:47 PM,1:07,,,SUB: Bazley FOR Bradley,,,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,514,2,6,3,8:48 PM,0:58,Kornet BLOCK (2 BLK),,MISS Jerome 4' Driving Layup,,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1
+0022000927,516,4,0,3,8:48 PM,0:55,Fournier REBOUND (Off:0 Def:7),,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,517,5,1,3,8:48 PM,0:42,Langford Bad Pass Turnover (P1.T10),,Jerome STEAL (1 STL),,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,519,5,2,3,8:48 PM,0:28,Fournier STEAL (3 STL),,Jerome Lost Ball Turnover (P2.T20),,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,521,5,1,3,8:48 PM,0:07,Kornet Bad Pass Turnover (P1.T11),,Williams STEAL (1 STL),,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,523,6,2,3,8:49 PM,0:04,Smart S.FOUL (P4.PN) (P.Ransom),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,525,3,11,3,8:49 PM,0:04,,,Dort Free Throw 1 of 2 (17 PTS),77 - 78,1,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,526,3,12,3,8:49 PM,0:04,,,Dort Free Throw 2 of 2 (18 PTS),78 - 78,TIE,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,527,2,1,3,8:50 PM,0:00,MISS Pritchard 25' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,528,4,0,3,8:50 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,529,13,0,3,8:50 PM,0:00,,End of 3rd Period (8:50 PM EST),,78 - 78,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000927,532,12,0,4,8:52 PM,12:00,,Start of 4th Period (8:52 PM EST),,78 - 78,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,533,1,1,4,8:52 PM,11:44,,,Bazley 14' Jump Shot (10 PTS) (Mykhailiuk 4 AST),80 - 78,-2,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,535,6,17,4,8:53 PM,11:22,,,Thunder T.Foul (Def. 3 Sec Mykhailiuk ) (P.Ransom),,,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022000927,536,3,16,4,8:53 PM,11:22,Pritchard Free Throw Technical (23 PTS),,,80 - 79,-1,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,537,8,0,4,8:53 PM,11:22,SUB: Nesmith FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,539,6,1,4,8:54 PM,11:14,,,Bazley P.FOUL (P2.T1) (P.Ransom),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,541,5,4,4,8:54 PM,11:10,Smart Traveling Turnover (P3.T12),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022000927,542,6,26,4,8:55 PM,10:59,,,Bradley Offensive Charge Foul (P1.T2) (P.Ransom),,,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,544,5,37,4,8:55 PM,10:59,,,Bradley Offensive Foul Turnover (P1.T21),,,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022000927,545,2,1,4,8:55 PM,10:46,MISS Smart 25' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,546,4,0,4,8:55 PM,10:43,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,548,5,2,4,8:56 PM,10:32,Smart STEAL (5 STL),,Bazley Lost Ball Turnover (P5.T22),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,550,1,41,4,8:56 PM,10:28,Smart 2' Running Layup (8 PTS),,,80 - 81,1,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,551,2,6,4,8:56 PM,10:22,Kornet BLOCK (3 BLK),,MISS Bazley 4' Driving Layup,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1
+0022000927,553,4,0,4,8:56 PM,10:21,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,555,8,0,4,8:56 PM,10:21,SUB: Thompson FOR Kornet,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,557,6,2,4,8:56 PM,10:20,Thompson S.FOUL (P5.T1) (P.Ransom),,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0022000927,559,3,11,4,8:57 PM,10:20,,,MISS Bradley Free Throw 1 of 2,,,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,560,4,1,4,8:57 PM,10:20,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,561,8,0,4,8:57 PM,10:20,SUB: Kornet FOR Thompson,,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,563,3,12,4,8:57 PM,10:20,,,Bradley Free Throw 2 of 2 (4 PTS),81 - 81,TIE,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,564,1,101,4,8:57 PM,10:05,Nesmith 8' Driving Floating Jump Shot (2 PTS) (Kornet 4 AST),,,81 - 83,2,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,565,6,1,4,8:58 PM,9:53,Nesmith P.FOUL (P2.T2) (J.Williams),,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,567,9,1,4,8:58 PM,9:53,,,Thunder Timeout: Regular (Reg.4 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,569,8,0,4,9:00 PM,9:53,SUB: Brown FOR Fournier,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,571,1,1,4,9:01 PM,9:39,,,Mykhailiuk 24' 3PT Jump Shot (6 PTS) (Jerome 2 AST),84 - 83,-1,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,573,5,2,4,9:01 PM,9:22,Brown Lost Ball Turnover (P2.T13),,Mykhailiuk STEAL (2 STL),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,575,2,1,4,9:01 PM,9:18,,,MISS Williams 28' 3PT Jump Shot,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,576,4,0,4,9:01 PM,9:13,,,Bradley REBOUND (Off:1 Def:1),,,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,577,1,1,4,9:02 PM,9:07,,,Jerome 32' 3PT Jump Shot (10 PTS) (Bazley 3 AST),87 - 83,-4,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,579,2,1,4,9:02 PM,8:46,MISS Nesmith 24' 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,580,4,0,4,9:02 PM,8:43,Kornet REBOUND (Off:2 Def:3),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,581,1,97,4,9:02 PM,8:40,Kornet Tip Layup Shot (6 PTS),,,87 - 85,-2,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,582,1,1,4,9:02 PM,8:21,,,Bazley 26' 3PT Jump Shot (13 PTS) (Williams 1 AST),90 - 85,-5,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,584,1,1,4,9:02 PM,8:13,Brown 25' 3PT Jump Shot (32 PTS),,,90 - 88,-2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,585,2,1,4,9:03 PM,7:57,,,MISS Bradley 21' Jump Shot,,,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,586,4,0,4,9:03 PM,7:54,Kornet REBOUND (Off:2 Def:4),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,587,6,2,4,9:03 PM,7:48,,,Williams S.FOUL (P3.T3) (E.Dalen),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,589,3,11,4,9:03 PM,7:48,Brown Free Throw 1 of 2 (33 PTS),,,90 - 89,-1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,590,8,0,4,9:03 PM,7:48,SUB: Pritchard FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,591,8,0,4,9:03 PM,7:48,SUB: Williams FOR Kornet,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,592,8,0,4,9:03 PM,7:48,,,SUB: Roby FOR Bradley,,,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,593,8,0,4,9:03 PM,7:48,,,SUB: Dort FOR Mykhailiuk,,,5,1629004,Svi Mykhailiuk,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,598,3,12,4,9:04 PM,7:48,Brown Free Throw 2 of 2 (34 PTS),,,90 - 90,TIE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,599,6,11,4,9:04 PM,7:48,Smart T.FOUL (P4.T2) (J.Williams),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022000927,600,3,16,4,9:04 PM,7:48,,,MISS Jerome Free Throw Technical,,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,601,4,1,4,9:04 PM,7:48,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,602,5,4,4,9:05 PM,7:42,,,Roby Traveling Turnover (P3.T23),,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022000927,603,6,2,4,9:05 PM,7:32,,,Bazley S.FOUL (P3.T4) (E.Dalen),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,605,3,11,4,9:06 PM,7:32,MISS Smart Free Throw 1 of 2,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,606,4,1,4,9:06 PM,7:32,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,607,8,0,4,9:06 PM,7:32,,,SUB: Maledon FOR Jerome,,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,609,8,0,4,9:06 PM,7:32,,,SUB: Pokusevski FOR Williams,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,611,3,12,4,9:06 PM,7:32,Smart Free Throw 2 of 2 (9 PTS),,,90 - 91,1,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,612,1,1,4,9:06 PM,7:15,,,Dort 26' 3PT Jump Shot (21 PTS) (Maledon 5 AST),93 - 91,-2,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,614,2,1,4,9:07 PM,6:54,MISS Langford 3PT Jump Shot,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,615,4,0,4,9:07 PM,6:52,,,Bazley REBOUND (Off:0 Def:5),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,616,6,1,4,9:07 PM,6:47,Pritchard P.FOUL (P2.T3) (P.Ransom),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,618,2,6,4,9:07 PM,6:34,Williams BLOCK (2 BLK),,MISS Bazley 6' Driving Layup,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1
+0022000927,620,4,0,4,9:07 PM,6:30,,,Bazley REBOUND (Off:1 Def:5),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,621,1,72,4,9:07 PM,6:29,,,Bazley 3' Putback Layup (15 PTS),95 - 91,-4,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,622,2,75,4,9:07 PM,6:24,MISS Smart 3' Driving Finger Roll Layup,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,623,4,0,4,9:07 PM,6:24,,,Bazley REBOUND (Off:1 Def:6),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,624,2,101,4,9:08 PM,6:18,,,MISS Bazley 4' Driving Floating Jump Shot,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,625,4,0,4,9:08 PM,6:16,,,Bazley REBOUND (Off:2 Def:6),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,626,1,97,4,9:08 PM,6:16,,,Bazley Tip Layup Shot (17 PTS),97 - 91,-6,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,627,9,1,4,9:08 PM,6:16,CELTICS Timeout: Regular (Full 4 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,628,8,0,4,9:10 PM,6:16,SUB: Kornet FOR Williams,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,629,8,0,4,9:10 PM,6:16,SUB: Fournier FOR Langford,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,632,1,1,4,9:11 PM,5:56,Kornet 19' Jump Shot (8 PTS) (Pritchard 2 AST),,,97 - 93,-4,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,634,5,1,4,9:11 PM,5:40,Pritchard STEAL (1 STL),,Maledon Bad Pass Turnover (P5.T24),,,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,636,5,2,4,9:11 PM,5:36,Brown Lost Ball Turnover (P3.T14),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,637,6,3,4,9:11 PM,5:36,Brown L.B.FOUL (P2.T4) (P.Ransom),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,639,2,1,4,9:12 PM,5:23,,,MISS Dort 27' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,640,4,0,4,9:12 PM,5:21,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,642,1,52,4,9:12 PM,5:12,Kornet 1' Alley Oop Dunk (10 PTS) (Pritchard 3 AST),,,97 - 95,-2,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,644,6,1,4,9:13 PM,4:49,Pritchard P.FOUL (P3.PN) (P.Ransom),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,646,3,11,4,9:13 PM,4:49,,,Roby Free Throw 1 of 2 (8 PTS),98 - 95,-3,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,647,8,0,4,9:13 PM,4:49,,,SUB: Jerome FOR Maledon,,,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,649,3,12,4,9:13 PM,4:49,,,Roby Free Throw 2 of 2 (9 PTS),99 - 95,-4,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,650,2,1,4,9:14 PM,4:36,MISS Pritchard 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,651,4,0,4,9:14 PM,4:34,,,Roby REBOUND (Off:0 Def:4),,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,652,6,2,4,9:14 PM,4:31,Brown S.FOUL (P3.PN) (E.Dalen),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,654,3,11,4,9:14 PM,4:31,,,Dort Free Throw 1 of 2 (22 PTS),100 - 95,-5,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,655,3,12,4,9:14 PM,4:31,,,Dort Free Throw 2 of 2 (23 PTS),101 - 95,-6,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,656,2,101,4,9:15 PM,4:12,MISS Brown 5' Driving Floating Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,657,4,0,4,9:15 PM,4:11,Brown REBOUND (Off:1 Def:9),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,658,2,1,4,9:15 PM,4:08,MISS Smart 24' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,659,4,0,4,9:15 PM,4:06,,,Bazley REBOUND (Off:2 Def:7),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,660,2,102,4,9:15 PM,3:48,,,MISS Roby 5' Driving Floating Bank Jump Shot,,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,661,4,0,4,9:15 PM,3:46,Kornet REBOUND (Off:2 Def:5),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,662,2,79,4,9:15 PM,3:40,MISS Fournier 25' 3PT Pullup Jump Shot,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,663,4,0,4,9:15 PM,3:38,,,Roby REBOUND (Off:0 Def:5),,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,664,9,1,4,9:15 PM,3:37,,,Thunder Timeout: Regular (Reg.5 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,665,8,0,4,9:17 PM,3:37,SUB: Thompson FOR Kornet,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,667,2,1,4,9:17 PM,3:27,,,MISS Pokusevski 27' 3PT Jump Shot,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,668,4,0,4,9:17 PM,3:24,Brown REBOUND (Off:1 Def:10),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,669,2,79,4,9:17 PM,3:13,MISS Brown 25' 3PT Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,670,4,0,4,9:17 PM,3:10,,,Bazley REBOUND (Off:2 Def:8),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,672,1,80,4,9:18 PM,2:52,,,Jerome 28' 3PT Step Back Jump Shot (13 PTS),104 - 95,-9,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,673,2,79,4,9:18 PM,2:38,MISS Pritchard 24' 3PT Pullup Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,674,4,0,4,9:18 PM,2:33,,,Roby REBOUND (Off:0 Def:6),,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,675,1,41,4,9:19 PM,2:25,,,Bazley 5' Running Layup (19 PTS) (Pokusevski 4 AST),106 - 95,-11,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,677,8,0,4,9:19 PM,2:16,,,SUB: Williams FOR Pokusevski,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,679,10,0,4,9:20 PM,2:14, ,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,2,1610612738,,,,,,1
+0022000927,683,2,1,4,9:20 PM,2:03,MISS Pritchard 25' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,684,4,0,4,9:20 PM,2:00,Thompson REBOUND (Off:3 Def:1),,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,685,1,72,4,9:20 PM,2:00,Thompson Putback Layup (2 PTS),,,106 - 97,-9,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,686,1,9,4,9:20 PM,1:45,,,Roby 4' Driving Dunk (11 PTS) (Jerome 3 AST),108 - 97,-11,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,688,1,1,4,9:21 PM,1:32,Smart 30' 3PT Jump Shot (12 PTS) (Pritchard 4 AST),,,108 - 100,-8,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,690,1,6,4,9:21 PM,1:08,,,Jerome 2' Driving Layup (15 PTS),110 - 100,-10,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,691,1,79,4,9:21 PM,1:01,Pritchard 26' 3PT Pullup Jump Shot (26 PTS) (Smart 6 AST),,,110 - 103,-7,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,693,5,1,4,9:21 PM,0:58,Fournier STEAL (4 STL),,Jerome Bad Pass Turnover (P3.T25),,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,695,1,5,4,9:21 PM,0:57,Fournier 2' Layup (10 PTS),,,110 - 105,-5,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,696,5,2,4,9:22 PM,0:49,Brown STEAL (4 STL),,Bazley Lost Ball Turnover (P6.T26),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,698,6,2,4,9:22 PM,0:47,,,Jerome S.FOUL (P4.PN) (P.Ransom),,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,700,3,11,4,9:22 PM,0:47,Smart Free Throw 1 of 2 (13 PTS),,,110 - 106,-4,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,701,8,0,4,9:22 PM,0:47,SUB: Langford FOR Thompson,,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,703,3,12,4,9:22 PM,0:47,Smart Free Throw 2 of 2 (14 PTS),,,110 - 107,-3,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,704,1,9,4,9:23 PM,0:38,,,Bazley 2' Driving Dunk (21 PTS) (Dort 2 AST),112 - 107,-5,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,706,6,2,4,9:23 PM,0:30,,,Dort S.FOUL (P4.PN) (J.Williams),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,708,3,11,4,9:23 PM,0:30,Pritchard Free Throw 1 of 2 (27 PTS),,,112 - 108,-4,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,709,3,12,4,9:23 PM,0:30,Pritchard Free Throw 2 of 2 (28 PTS),,,112 - 109,-3,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,710,9,1,4,9:23 PM,0:30,,,Thunder Timeout: Regular (Reg.6 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,711,8,0,4,9:25 PM,0:30,,,SUB: Maledon FOR Roby,,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,713,6,1,4,9:26 PM,0:28,Smart P.FOUL (P5.PN) (E.Dalen),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,715,3,11,4,9:26 PM,0:28,,,Maledon Free Throw 1 of 2 (5 PTS),113 - 109,-4,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,716,8,0,4,9:26 PM,0:28,SUB: Thompson FOR Langford,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,717,8,0,4,9:26 PM,0:28,,,SUB: Roby FOR Jerome,,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,720,3,12,4,9:26 PM,0:28,,,Maledon Free Throw 2 of 2 (6 PTS),114 - 109,-5,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,721,9,1,4,9:26 PM,0:28,CELTICS Timeout: Regular (Full 5 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,722,8,0,4,9:27 PM,0:28,SUB: Langford FOR Thompson,,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,724,6,2,4,9:28 PM,0:21,,,Dort S.FOUL (P5.PN) (P.Ransom),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,726,3,11,4,9:29 PM,0:21,Brown Free Throw 1 of 2 (35 PTS),,,114 - 110,-4,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,727,8,0,4,9:29 PM,0:21,,,SUB: Jerome FOR Williams,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,729,3,12,4,9:29 PM,0:21,Brown Free Throw 2 of 2 (36 PTS),,,114 - 111,-3,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,730,1,7,4,9:30 PM,0:16,,,Roby 2' Dunk (13 PTS) (Bazley 4 AST),116 - 111,-5,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022000927,732,2,79,4,9:30 PM,0:12,MISS Fournier 26' 3PT Pullup Jump Shot,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,733,4,0,4,9:30 PM,0:09,,,Maledon REBOUND (Off:0 Def:3),,,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,734,8,0,4,9:30 PM,0:07,,,SUB: Williams FOR Jerome,,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,736,10,0,4,9:30 PM,0:07,Jump Ball Smart vs. Maledon: Tip to Dort,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1
+0022000927,739,6,28,4,9:30 PM,0:07,Pritchard Personal Take Foul (P4.PN) (P.Ransom),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,741,3,11,4,9:31 PM,0:07,,,MISS Dort Free Throw 1 of 2,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,742,4,1,4,9:31 PM,0:07,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,743,8,0,4,9:31 PM,0:07,SUB: Thompson FOR Langford,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,745,3,12,4,9:31 PM,0:07,,,Dort Free Throw 2 of 2 (24 PTS),117 - 111,-6,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,746,9,1,4,9:31 PM,0:07,CELTICS Timeout: Regular (Full 6 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000927,747,1,86,4,9:33 PM,0:05,Brown 3PT Turnaround Fadeaway (39 PTS) (Fournier 1 AST),,,117 - 114,-3,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,749,9,1,4,9:33 PM,0:05,,,Thunder Timeout: Regular (Reg.7 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,750,8,0,4,9:34 PM,0:05,,,SUB: Jerome FOR Roby,,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,752,5,1,4,9:35 PM,0:03,Fournier STEAL (5 STL),,Jerome Bad Pass Turnover (P4.T27),,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022000927,754,6,1,4,9:35 PM,0:03,,,Bazley P.FOUL (P4.PN) (P.Ransom),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022000927,756,3,11,4,9:35 PM,0:03,Fournier Free Throw 1 of 2 (11 PTS),,,117 - 115,-2,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,761,3,12,4,9:35 PM,0:03,MISS Fournier Free Throw 2 of 2,,,,,4,203095,Evan Fournier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,757,8,0,4,9:35 PM,0:03,,,SUB: Roby FOR Maledon,,,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,758,8,0,4,9:35 PM,0:03,,,SUB: Bradley FOR Jerome,,,5,1629660,Ty Jerome,1610612760.0,Oklahoma City,Thunder,OKC,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,762,4,0,4,9:35 PM,0:02,,,Roby REBOUND (Off:0 Def:7),,,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,763,6,28,4,9:36 PM,0:02,Smart Personal Take Foul (P6.PN) (E.Dalen),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022000927,765,8,0,4,9:36 PM,0:02,SUB: Williams FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,767,3,11,4,9:36 PM,0:02,,,Roby Free Throw 1 of 2 (14 PTS),118 - 115,-3,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,768,8,0,4,9:37 PM,0:02,SUB: Kornet FOR Thompson,,,,,4,202684,Tristan Thompson,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022000927,769,8,0,4,9:37 PM,0:02,,,SUB: Maledon FOR Bradley,,,5,1628396,Tony Bradley,1610612760.0,Oklahoma City,Thunder,OKC,5,1630177,Theo Maledon,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022000927,772,3,12,4,9:37 PM,0:02,,,Roby Free Throw 2 of 2 (15 PTS),119 - 115,-4,5,1629676,Isaiah Roby,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022000927,773,2,1,4,9:37 PM,0:00,MISS Brown 48' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022000927,774,4,0,4,9:37 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000927,775,13,0,4,9:37 PM,0:00,,End of 4th Period (9:37 PM EST),,119 - 115,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
