@@ -24,7 +24,7 @@ create_table_function <- function(df_name, df, prop){
     if (prop == "ftts") {
       output <-
         tibble(tidyteam = character(),
-               #tidyopponent = character(),
+               tidyplayer = character(),
                tidyamericanodds = numeric(),
                prop = character(),
                site = character(),
@@ -53,22 +53,28 @@ pb_ftts <- create_table_function('pb_ftts', pb_ftts, 'ftts')
 pb_fpts <- create_table_function('pb_fpts', pb_fpts, 'fpts')
 
 ############# FIRST TEAM TO SCORE ###################
+#Removing the tidyplayer field for jumpers
+model_ftts <- 
+  model_ftts %>%
+  select(-tidyplayer)
+
 ftts_df <-
   model_ftts %>%
   left_join(dk_ftts, by = c("tidyteam", "prop", "sport")) %>%
   rename(DraftKings = tidyamericanodds) %>%
   select(-timestamp, -site) %>%
-  left_join(fd_ftts, by = c("tidyteam", "prop", "sport")) %>%
+  left_join(fd_ftts, by = c("tidyteam", "prop", "sport", "tidyplayer")) %>%
   rename(FanDuel = tidyamericanodds) %>%
   select(-timestamp, -site) %>%
-  left_join(pb_ftts, by = c("tidyteam", "prop", "sport")) %>%
+  left_join(pb_ftts, by = c("tidyteam", "prop", "sport", "tidyplayer")) %>%
   rename(PointsBet = tidyamericanodds) %>%
   mutate(PointsBet = round(PointsBet, 0)) %>%
   select(-prop, -sport, -timestamp, -site)
 
 ftts_pivot <-
   ftts_df %>%
-  pivot_longer(!c(tidyplayer, tidyteam, season_open_tips, win_tip_prob, projected_prob, projected_line, injury_status, opp_injury_status),
+  pivot_longer(!c(tidyplayer, tidyteam, season_open_tips, win_tip_prob, 
+                  projected_prob, projected_line, injury_status, opp_injury_status),
                names_to = "site_name",
                values_to = "site_odds") %>%
   mutate(site_abv = case_when(site_name == "DraftKings" ~ "DK",
