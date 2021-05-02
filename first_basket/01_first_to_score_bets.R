@@ -35,7 +35,15 @@ player_name_changes <-
   add_row(player_api = "Vernon Carey Jr.", player_lineup = "Vernon Carey") %>%
   add_row(player_api = "Lonnie Walker IV", player_lineup = "Lonnie Walker") %>%
   add_row(player_api = "Marvin Bagley III", player_lineup = "Marvin Bagley") %>%
-  add_row(player_api = "Charlie Brown Jr.", player_lineup = "Charlie Brown")
+  add_row(player_api = "Charlie Brown Jr.", player_lineup = "Charlie Brown") %>%
+  add_row(player_api = "Jaren Jackson Jr.", player_lineup = "Jaren Jackson") %>%
+  add_row(player_api = "Troy Brown Jr.", player_lineup = "Troy Brown") %>%
+  add_row(player_api = "Kira Lewis Jr.", player_lineup = "Kira Lewis") %>%
+  add_row(player_api = "Otto Porter Jr.", player_lineup = "Otto Porter") %>%
+  add_row(player_api = "Kenyon Martin Jr.", player_lineup = "Kenyon Martin") %>%
+  add_row(player_api = "Harry Giles III", player_lineup = "Harry Giles") %>%
+  add_row(player_api = "Kevin Knox II", player_lineup = "Kevin Knox") %>%
+  add_row(player_api = "Robert Woodard II", player_lineup = "Robert Woodard")
 
 ## List of teams playing today for a join
 list_of_team_abbrev_id <-
