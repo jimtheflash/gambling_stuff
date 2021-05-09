@@ -1,0 +1,416 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022000992,2,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,4,10,0,1,8:11 PM,12:00,Jump Ball Capela vs. Ayton: Tip to Young,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1
+0022000992,7,2,101,1,8:11 PM,11:41,MISS Young 13' Driving Floating Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,8,4,0,1,8:11 PM,11:37,Capela REBOUND (Off:1 Def:0),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,9,1,97,1,8:11 PM,11:37,Capela Tip Layup Shot (2 PTS),,,0 - 2,2,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,10,2,1,1,8:11 PM,11:24,,,MISS Bridges 25' 3PT Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,11,4,0,1,8:12 PM,11:20,,,Craig REBOUND (Off:1 Def:0),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,12,1,6,1,8:12 PM,11:08,,,Bridges 1' Driving Layup (2 PTS),2 - 2,TIE,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,13,1,80,1,8:12 PM,10:55,Bogdanovic 18' Step Back Jump Shot (2 PTS) (Young 1 AST),,,2 - 4,2,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,15,1,63,1,8:12 PM,10:39,,,Paul 16' Fadeaway Jumper (2 PTS),4 - 4,TIE,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,16,1,57,1,8:13 PM,10:14,Capela 6' Driving Hook Shot (4 PTS) (Bogdanovic 1 AST),,,4 - 6,2,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,18,1,1,1,8:13 PM,9:57,,,Booker 26' 3PT Jump Shot (3 PTS) (Paul 1 AST),7 - 6,-1,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,20,6,2,1,8:13 PM,9:42,,,Bridges S.FOUL (P1.T1) (K.Mauer),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,22,3,11,1,8:14 PM,9:42,Young Free Throw 1 of 2 (1 PTS),,,7 - 7,TIE,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,23,3,12,1,8:14 PM,9:42,Young Free Throw 2 of 2 (2 PTS),,,7 - 8,1,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,24,1,52,1,8:14 PM,9:29,,,Ayton 1' Alley Oop Dunk (2 PTS) (Paul 2 AST),9 - 8,-1,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,26,2,79,1,8:14 PM,9:10,MISS Young 14' Pullup Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,27,4,0,1,8:15 PM,9:07,,,Booker REBOUND (Off:0 Def:1),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,28,5,2,1,8:15 PM,9:05,Collins STEAL (1 STL),,Booker Lost Ball Turnover (P1.T1),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,30,1,79,1,8:15 PM,9:01,Bogdanovic 26' 3PT Pullup Jump Shot (5 PTS) (Young 2 AST),,,9 - 11,2,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,32,1,108,1,8:15 PM,8:43,,,Ayton 1' Cutting Dunk Shot (4 PTS) (Paul 3 AST),11 - 11,TIE,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,34,1,3,1,8:15 PM,8:23,Capela 2' Hook Shot (6 PTS) (Bogdanovic 2 AST),,,11 - 13,2,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,36,6,2,1,8:15 PM,8:12,Capela S.FOUL (P1.T1) (K.Mauer),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,38,3,11,1,8:16 PM,8:12,,,MISS Ayton Free Throw 1 of 2,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,39,4,1,1,8:16 PM,8:12,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,40,3,12,1,8:16 PM,8:12,,,Ayton Free Throw 2 of 2 (5 PTS),12 - 13,1,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,41,1,101,1,8:16 PM,7:56,Young 11' Driving Floating Jump Shot (4 PTS),,,12 - 15,3,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,43,2,63,1,8:17 PM,7:46,,,MISS Paul 9' Fadeaway Jumper,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,45,1,72,1,8:17 PM,7:40,,,Bridges Putback Layup (4 PTS),14 - 15,1,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,44,4,0,1,8:17 PM,7:40,,,Bridges REBOUND (Off:1 Def:0),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,46,1,52,1,8:17 PM,7:25,Capela 3' Alley Oop Dunk (8 PTS) (Young 3 AST),,,14 - 17,3,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,48,1,1,1,8:17 PM,7:07,,,Bridges 25' 3PT Jump Shot (7 PTS) (Paul 4 AST),17 - 17,TIE,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,50,2,1,1,8:18 PM,6:59,MISS Bogdanovic 25' 3PT Jump Shot,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,51,4,0,1,8:18 PM,6:54,,,Ayton REBOUND (Off:0 Def:1),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,52,1,6,1,8:18 PM,6:50,,,Paul Driving Layup (4 PTS),19 - 17,-2,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,53,6,2,1,8:18 PM,6:29,,,Ayton S.FOUL (P1.T2) (K.Mauer),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,55,9,1,1,8:18 PM,6:29,HAWKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,56,3,11,1,8:22 PM,6:29,Collins Free Throw 1 of 2 (1 PTS),,,19 - 18,-1,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,57,3,12,1,8:22 PM,6:29,Collins Free Throw 2 of 2 (2 PTS),,,19 - 19,TIE,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,58,1,1,1,8:22 PM,6:13,,,Booker 12' Jump Shot (5 PTS),21 - 19,-2,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,59,6,4,1,8:22 PM,6:01,Collins OFF.Foul (P1) (S.Jelks),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,61,5,37,1,8:22 PM,6:01,Collins Offensive Foul Turnover (P1.T1),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022000992,62,6,2,1,8:23 PM,5:46,Young S.FOUL (P1.T2) (R.Acosta),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,64,3,11,1,8:23 PM,5:46,,,Bridges Free Throw 1 of 2 (8 PTS),22 - 19,-3,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,65,8,0,1,8:23 PM,5:46,SUB: Huerter FOR Snell,,,,,4,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,66,8,0,1,8:23 PM,5:46,,,SUB: Payne FOR Paul,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,67,8,0,1,8:23 PM,5:46,,,SUB: Johnson FOR Craig,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,71,3,12,1,8:24 PM,5:46,,,Bridges Free Throw 2 of 2 (9 PTS),23 - 19,-4,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,72,1,1,1,8:24 PM,5:35,Bogdanovic 25' 3PT Jump Shot (8 PTS) (Young 4 AST),,,23 - 22,-1,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,74,1,79,1,8:24 PM,5:20,,,Booker 14' Pullup Jump Shot (7 PTS),25 - 22,-3,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,75,2,79,1,8:24 PM,5:00,MISS Bogdanovic 15' Pullup Jump Shot,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,76,4,0,1,8:24 PM,4:58,Capela REBOUND (Off:2 Def:0),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,77,2,80,1,8:25 PM,4:54,MISS Bogdanovic 17' Step Back Jump Shot,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,78,4,0,1,8:25 PM,4:50,,,Johnson REBOUND (Off:0 Def:1),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,79,1,1,1,8:25 PM,4:41,,,Payne 24' 3PT Jump Shot (3 PTS) (Booker 1 AST),28 - 22,-6,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,81,1,101,1,8:25 PM,4:27,Young 13' Driving Floating Jump Shot (6 PTS),,,28 - 24,-4,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,82,2,79,1,8:25 PM,4:09,,,MISS Bridges 14' Pullup Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,83,4,0,1,8:25 PM,4:05,Capela REBOUND (Off:2 Def:1),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,84,5,1,1,8:25 PM,4:01,Young Bad Pass Turnover (P1.T2),,Johnson STEAL (1 STL),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,86,2,79,1,8:26 PM,3:51,,,MISS Booker 15' Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,88,1,97,1,8:26 PM,3:46,,,Johnson Tip Layup Shot (2 PTS),30 - 24,-6,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,87,4,0,1,8:26 PM,3:46,,,Johnson REBOUND (Off:1 Def:1),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,89,6,1,1,8:26 PM,3:39,,,Bridges P.FOUL (P2.T3) (K.Mauer),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,91,8,0,1,8:26 PM,3:39,SUB: Gallinari FOR Capela,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,93,8,0,1,8:26 PM,3:39,,,SUB: Craig FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,99,8,0,1,8:26 PM,3:39,SUB: S. Hill FOR Bogdanovic,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,97,1,101,1,8:26 PM,3:30,Huerter 9' Driving Floating Jump Shot (2 PTS) (Young 5 AST),,,30 - 26,-4,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,100,1,75,1,8:27 PM,3:08,,,Booker 1' Driving Finger Roll Layup (9 PTS),32 - 26,-6,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,101,1,1,1,8:27 PM,2:59,Collins 26' 3PT Jump Shot (5 PTS) (Young 6 AST),,,32 - 29,-3,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,103,2,1,1,8:27 PM,2:35,,,MISS Craig 24' 3PT Jump Shot,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,104,4,0,1,8:27 PM,2:31,Young REBOUND (Off:0 Def:1),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,105,6,1,1,8:27 PM,2:28,,,Craig P.FOUL (P1.T4) (S.Jelks),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,107,9,1,1,8:28 PM,2:28,,,Suns Timeout: Regular (Reg.1 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,108,8,0,1,8:30 PM,2:28,SUB: Williams FOR Young,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,109,8,0,1,8:30 PM,2:28,SUB: Okongwu FOR Collins,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,110,8,0,1,8:30 PM,2:28,,,SUB: Kaminsky FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,114,6,1,1,8:31 PM,2:17,,,Johnson P.FOUL (P1.PN) (R.Acosta),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,116,3,11,1,8:31 PM,2:17,MISS Gallinari Free Throw 1 of 2,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,117,4,1,1,8:31 PM,2:17,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,118,3,12,1,8:31 PM,2:17,Gallinari Free Throw 2 of 2 (1 PTS),,,32 - 30,-2,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,119,6,2,1,8:32 PM,2:03,S. Hill S.FOUL (P1.T3) (R.Acosta),,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,121,3,11,1,8:32 PM,2:03,,,MISS Kaminsky Free Throw 1 of 2,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,122,4,1,1,8:32 PM,2:03,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,123,3,12,1,8:32 PM,2:03,,,Kaminsky Free Throw 2 of 2 (1 PTS),33 - 30,-3,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,124,2,1,1,8:32 PM,1:51,MISS Gallinari 25' 3PT Jump Shot,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,125,4,0,1,8:33 PM,1:47,,,Craig REBOUND (Off:1 Def:1),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,126,2,6,1,8:33 PM,1:35,Okongwu BLOCK (1 BLK),,MISS Johnson 3' Driving Layup,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1
+0022000992,128,4,0,1,8:33 PM,1:29,S. Hill REBOUND (Off:0 Def:1),,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,129,1,1,1,8:33 PM,1:27,Huerter 3PT Jump Shot (5 PTS) (S. Hill 1 AST),,,33 - 33,TIE,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,131,2,79,1,8:33 PM,1:09,,,MISS Booker 15' Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,132,4,0,1,8:33 PM,1:04,Huerter REBOUND (Off:0 Def:1),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,133,2,80,1,8:33 PM,1:01,MISS Huerter 26' 3PT Step Back Jump Shot,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,134,4,0,1,8:33 PM,0:58,Okongwu REBOUND (Off:1 Def:0),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,135,1,1,1,8:33 PM,0:57,Gallinari 25' 3PT Jump Shot (4 PTS) (Okongwu 1 AST),,,33 - 36,3,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,137,1,6,1,8:34 PM,0:40,,,Booker 3' Driving Layup (11 PTS),35 - 36,1,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,138,1,1,1,8:34 PM,0:31,S. Hill 3PT Jump Shot (3 PTS) (Williams 1 AST),,,35 - 39,4,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,140,1,1,1,8:34 PM,0:09,,,Kaminsky 3PT Jump Shot (4 PTS) (Booker 2 AST),38 - 39,1,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,142,1,79,1,8:35 PM,0:01,Williams 26' 3PT Pullup Jump Shot (3 PTS),,,38 - 42,4,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,143,13,0,1,8:35 PM,0:00,,End of 1st Period (8:35 PM EST),,38 - 42,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000992,148,12,0,2,8:37 PM,12:00,,Start of 2nd Period (8:37 PM EST),,38 - 42,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,149,5,1,2,8:38 PM,11:43,Gallinari STEAL (1 STL),,Kaminsky Bad Pass Turnover (P1.T2),,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,151,5,1,2,8:38 PM,11:33,Gallinari Bad Pass Turnover (P1.T3),,Carter STEAL (1 STL),,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,153,1,1,2,8:38 PM,11:18,,,Carter 24' 3PT Jump Shot (3 PTS) (Paul 5 AST),41 - 42,1,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,155,6,2,2,8:38 PM,10:57,,,Kaminsky S.FOUL (P1.T1) (R.Acosta),,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,157,3,11,2,8:39 PM,10:57,Okongwu Free Throw 1 of 2 (1 PTS),,,41 - 43,2,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,158,3,12,2,8:39 PM,10:57,Okongwu Free Throw 2 of 2 (2 PTS),,,41 - 44,3,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,159,2,1,2,8:40 PM,10:36,,,MISS Johnson 24' 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,160,4,0,2,8:40 PM,10:33,S. Hill REBOUND (Off:0 Def:2),,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,161,1,5,2,8:40 PM,10:24,Okongwu 1' Layup (4 PTS) (Williams 2 AST),,,41 - 46,5,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,163,2,80,2,8:40 PM,10:05,,,MISS Craig 25' 3PT Step Back Jump Shot,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,164,4,0,2,8:40 PM,10:01,S. Hill REBOUND (Off:0 Def:3),,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,165,1,79,2,8:40 PM,9:53,Huerter 13' Pullup Jump Shot (7 PTS),,,41 - 48,7,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,166,1,79,2,8:41 PM,9:37,,,Paul 25' 3PT Pullup Jump Shot (7 PTS),44 - 48,4,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,167,6,4,2,8:41 PM,9:27,Okongwu OFF.Foul (P1) (K.Mauer),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,169,5,37,2,8:41 PM,9:27,Okongwu Offensive Foul Turnover (P1.T4),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022000992,170,2,1,2,8:41 PM,9:19,,,MISS Johnson 24' 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,171,4,0,2,8:41 PM,9:15,Williams REBOUND (Off:0 Def:1),,,,,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,172,2,101,2,8:41 PM,9:08,MISS Williams 8' Driving Floating Jump Shot,,,,,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,173,4,0,2,8:41 PM,9:05,,,Kaminsky REBOUND (Off:0 Def:1),,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,174,2,1,2,8:41 PM,9:01,,,MISS Paul 25' 3PT Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,175,4,0,2,8:41 PM,8:58,Gallinari REBOUND (Off:0 Def:1),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,176,1,101,2,8:42 PM,8:47,Williams 12' Driving Floating Jump Shot (5 PTS) (Gallinari 1 AST),,,44 - 50,6,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,177,2,1,2,8:42 PM,8:33,,,MISS Johnson 25' 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,178,4,0,2,8:42 PM,8:30,Okongwu REBOUND (Off:1 Def:1),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,179,2,105,2,8:42 PM,8:20,MISS Gallinari 9' Turnaround Fadeaway Bank Jump Shot,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,180,4,0,2,8:42 PM,8:17,Okongwu REBOUND (Off:2 Def:1),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,181,1,1,2,8:42 PM,8:08,Gallinari 21' Jump Shot (6 PTS) (Okongwu 2 AST),,,44 - 52,8,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,183,9,1,2,8:42 PM,8:04,,,Suns Timeout: Regular (Reg.2 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,185,8,0,2,8:45 PM,8:04,SUB: Capela FOR Okongwu,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,186,8,0,2,8:45 PM,8:04,,,SUB: Ayton FOR Kaminsky,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,187,8,0,2,8:45 PM,8:04,,,SUB: Bridges FOR Craig,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,191,2,79,2,8:45 PM,7:52,,,MISS Paul 11' Pullup Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,192,4,0,2,8:46 PM,7:48,,,Paul REBOUND (Off:1 Def:0),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,193,2,1,2,8:46 PM,7:47,Capela BLOCK (1 BLK),,MISS Paul 1' Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1
+0022000992,195,4,0,2,8:46 PM,7:47,Gallinari REBOUND (Off:0 Def:2),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,196,5,1,2,8:46 PM,7:38,S. Hill Bad Pass Turnover (P1.T5),,Paul STEAL (1 STL),,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,198,1,50,2,8:46 PM,7:34,,,Bridges 1' Running Dunk (11 PTS) (Paul 6 AST),46 - 52,6,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,200,5,1,2,8:46 PM,7:17,Williams Bad Pass Turnover (P1.T6),,Johnson STEAL (2 STL),,,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,202,2,79,2,8:46 PM,7:10,,,MISS Paul 14' Pullup Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,203,4,0,2,8:46 PM,7:07,Capela REBOUND (Off:2 Def:2),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,204,1,63,2,8:46 PM,6:59,Williams 14' Fadeaway Jumper (7 PTS),,,46 - 54,8,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,205,2,1,2,8:47 PM,6:34,,,MISS Johnson 26' 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,206,4,0,2,8:47 PM,6:32,Capela REBOUND (Off:2 Def:3),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,207,1,86,2,8:47 PM,6:23,Gallinari 12' Turnaround Fadeaway (8 PTS),,,46 - 56,10,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,208,7,5,2,8:47 PM,6:08,S. Hill Violation:Kicked Ball (S.Jelks),,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0022000992,209,8,0,2,8:47 PM,6:08,SUB: Young FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,210,8,0,2,8:47 PM,6:08,SUB: Bogdanovic FOR Williams,,,,,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,212,8,0,2,8:47 PM,6:08,,,SUB: Payne FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,217,8,0,2,8:47 PM,6:08,,,SUB: Booker FOR Paul,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,218,2,6,2,8:48 PM,6:01,,,MISS Booker 4' Driving Layup,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,219,4,0,2,8:48 PM,5:55,,,Ayton REBOUND (Off:1 Def:1),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,220,1,72,2,8:48 PM,5:55,,,Ayton Putback Layup (7 PTS),48 - 56,8,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,221,2,5,2,8:48 PM,5:36,MISS Capela 1' Layup,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,222,4,0,2,8:48 PM,5:32,,,Ayton REBOUND (Off:1 Def:2),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,223,1,1,2,8:48 PM,5:29,,,Carter 24' 3PT Jump Shot (6 PTS) (Booker 3 AST),51 - 56,5,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,225,2,3,2,8:49 PM,5:13,MISS Capela 5' Hook Shot,,Ayton BLOCK (1 BLK),,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1
+0022000992,227,4,0,2,8:49 PM,5:13,Capela REBOUND (Off:3 Def:3),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,252,5,2,2,8:49 PM,5:12,Capela Lost Ball Turnover (P1.T7),,Payne STEAL (1 STL),,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,228,6,2,2,8:49 PM,5:06,Bogdanovic S.FOUL (P1.T1) (S.Jelks),,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,230,3,11,2,8:49 PM,5:06,,,Booker Free Throw 1 of 2 (12 PTS),52 - 56,4,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,235,3,12,2,8:49 PM,5:06,,,Booker Free Throw 2 of 2 (13 PTS),53 - 56,3,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,231,8,0,2,8:49 PM,5:06,SUB: Collins FOR Gallinari,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,232,8,0,2,8:49 PM,5:06,SUB: Snell FOR S. Hill,,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,4,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,236,2,79,2,8:50 PM,4:49,MISS Young 26' 3PT Pullup Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,237,4,0,2,8:50 PM,4:46,,,Carter REBOUND (Off:0 Def:1),,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,238,2,79,2,8:50 PM,4:28,,,MISS Carter 15' Pullup Jump Shot,,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,239,4,0,2,8:50 PM,4:24,,,Ayton REBOUND (Off:2 Def:2),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,240,1,1,2,8:50 PM,4:22,,,Payne 25' 3PT Jump Shot (6 PTS) (Ayton 1 AST),56 - 56,TIE,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,242,9,1,2,8:51 PM,4:22,HAWKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,292,5,1,2,8:54 PM,3:59,Bogdanovic Bad Pass Turnover (P1.T8),,Bridges STEAL (1 STL),,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,245,2,1,2,8:54 PM,3:55,,,MISS Booker 25' 3PT Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,246,4,0,2,8:54 PM,3:49,Snell REBOUND (Off:0 Def:1),,,,,4,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,247,1,1,2,8:54 PM,3:42,Collins 14' Jump Shot (7 PTS) (Bogdanovic 3 AST),,,56 - 58,2,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,249,1,66,2,8:54 PM,3:20,,,Booker 2' Jump Bank Shot (15 PTS),58 - 58,TIE,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,250,2,101,2,8:55 PM,2:54,MISS Snell 10' Driving Floating Jump Shot,,,,,4,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,251,4,0,2,8:55 PM,2:50,Capela REBOUND (Off:4 Def:3),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,254,6,2,2,8:55 PM,2:47,,,Payne S.FOUL (P1.T2) (R.Acosta),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,256,3,11,2,8:55 PM,2:47,Young Free Throw 1 of 2 (7 PTS),,,58 - 59,1,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,257,3,12,2,8:56 PM,2:47,Young Free Throw 2 of 2 (8 PTS),,,58 - 60,2,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,258,2,6,2,8:56 PM,2:34,,,MISS Payne Driving Layup,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,259,4,0,2,8:56 PM,2:31,Collins REBOUND (Off:0 Def:1),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,260,1,102,2,8:56 PM,2:22,Young 9' Driving Floating Bank Jump Shot (10 PTS),,,58 - 62,4,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,261,2,1,2,8:57 PM,1:57,,,MISS Payne 25' 3PT Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,262,4,0,2,8:57 PM,1:54,Collins REBOUND (Off:0 Def:2),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,263,2,79,2,8:57 PM,1:32,MISS Bogdanovic 16' Pullup Jump Shot,,Payne BLOCK (1 BLK),,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1
+0022000992,265,4,0,2,8:57 PM,1:29,,,Ayton REBOUND (Off:2 Def:3),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,266,6,1,2,8:57 PM,1:27,Snell P.FOUL (P1.T2) (R.Acosta),,,,,4,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,268,8,0,2,8:57 PM,1:27,,,SUB: Paul FOR Payne,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,270,1,79,2,8:58 PM,1:15,,,Booker 12' Pullup Jump Shot (17 PTS),60 - 62,2,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,271,1,1,2,8:58 PM,1:00,Bogdanovic 24' 3PT Jump Shot (11 PTS) (Young 7 AST),,,60 - 65,5,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,273,6,2,2,8:58 PM,0:49,Snell S.FOUL (P2.PN) (S.Jelks),,,,,4,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,275,3,11,2,8:59 PM,0:49,,,Booker Free Throw 1 of 2 (18 PTS),61 - 65,4,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,276,3,12,2,8:59 PM,0:49,,,MISS Booker Free Throw 2 of 2,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,277,4,0,2,8:59 PM,0:47,Capela REBOUND (Off:4 Def:4),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,278,2,80,2,8:59 PM,0:36,MISS Young 32' 3PT Step Back Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,279,4,0,2,8:59 PM,0:32,,,Paul REBOUND (Off:1 Def:1),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,280,6,2,2,8:59 PM,0:31,Young S.FOUL (P2.PN) (R.Acosta),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,282,3,11,2,9:00 PM,0:31,,,Paul Free Throw 1 of 2 (8 PTS),62 - 65,3,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,283,8,0,2,9:00 PM,0:31,SUB: Huerter FOR Snell,,,,,4,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,285,3,12,2,9:00 PM,0:31,,,Paul Free Throw 2 of 2 (9 PTS),63 - 65,2,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,286,1,79,2,9:00 PM,0:09,Bogdanovic 13' Pullup Jump Shot (13 PTS),,,63 - 67,4,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,287,6,1,2,9:00 PM,0:01,Huerter P.FOUL (P1.PN) (K.Mauer),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,289,3,11,2,9:01 PM,0:01,,,Booker Free Throw 1 of 2 (19 PTS),64 - 67,3,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,290,3,12,2,9:01 PM,0:01,,,Booker Free Throw 2 of 2 (20 PTS),65 - 67,2,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,291,13,0,2,9:01 PM,0:00,,End of 2nd Period (9:01 PM EST),,65 - 67,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000992,298,12,0,3,9:17 PM,12:00,,Start of 3rd Period (9:17 PM EST),,65 - 67,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,299,1,1,3,9:17 PM,11:41,,,Craig 24' 3PT Jump Shot (3 PTS) (Ayton 2 AST),68 - 67,-1,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,302,6,1,3,9:18 PM,11:23,,,Booker P.FOUL (P1.T1) (S.Jelks),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,304,1,7,3,9:18 PM,11:13,Capela 1' Dunk (10 PTS) (Bogdanovic 4 AST),,,68 - 69,1,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,306,2,1,3,9:19 PM,10:57,,,MISS Booker 14' Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,307,4,0,3,9:19 PM,10:54,,,Ayton REBOUND (Off:3 Def:3),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,308,2,5,3,9:19 PM,10:42,Capela BLOCK (2 BLK),,MISS Ayton 5' Layup,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1
+0022000992,309,4,0,3,9:19 PM,10:40,Snell REBOUND (Off:0 Def:2),,,,,4,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,310,1,1,3,9:19 PM,10:33,Collins 11' Jump Shot (9 PTS) (Bogdanovic 5 AST),,,68 - 71,3,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,312,2,79,3,9:19 PM,10:12,,,MISS Paul 9' Pullup Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,313,4,0,3,9:19 PM,10:08,Capela REBOUND (Off:4 Def:5),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,314,2,101,3,9:19 PM,10:02,MISS Young 10' Driving Floating Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,315,4,0,3,9:19 PM,10:01,,,Ayton REBOUND (Off:3 Def:4),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,316,6,1,3,9:20 PM,10:01,Young P.FOUL (P3.T1) (K.Mauer),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,318,1,5,3,9:20 PM,9:39,,,Bridges 1' Layup (13 PTS) (Booker 4 AST),70 - 71,1,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,321,5,1,3,9:21 PM,9:16,Bogdanovic Bad Pass Turnover (P2.T9),,Ayton STEAL (1 STL),,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,323,2,1,3,9:21 PM,9:05,,,MISS Craig 3PT Jump Shot,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,324,4,0,3,9:21 PM,9:02,,,Ayton REBOUND (Off:4 Def:4),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,325,5,2,3,9:21 PM,8:55,Bogdanovic STEAL (1 STL),,Paul Lost Ball Turnover (P1.T3),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,327,2,5,3,9:21 PM,8:49,MISS Capela Layup,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,328,4,0,3,9:21 PM,8:45,Capela REBOUND (Off:5 Def:5),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,329,1,97,3,9:21 PM,8:45,Capela Tip Layup Shot (12 PTS),,,70 - 73,3,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,330,5,1,3,9:21 PM,8:33,Bogdanovic STEAL (2 STL),,Booker Bad Pass Turnover (P2.T4),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,333,6,1,3,9:22 PM,8:23,,,Ayton P.FOUL (P2.T2) (K.Mauer),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,335,1,101,3,9:22 PM,8:14,Young 10' Driving Floating Jump Shot (12 PTS),,,70 - 75,5,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,336,2,99,3,9:23 PM,7:55,Bogdanovic BLOCK (1 BLK),,MISS Bridges 1' Cutting Finger Roll Layup Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,1
+0022000992,338,4,0,3,9:23 PM,7:51,,,Bridges REBOUND (Off:2 Def:0),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,339,6,2,3,9:23 PM,7:49,Capela S.FOUL (P2.T2) (R.Acosta),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,341,3,11,3,9:23 PM,7:49,,,Bridges Free Throw 1 of 2 (14 PTS),71 - 75,4,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,342,3,12,3,9:24 PM,7:49,,,Bridges Free Throw 2 of 2 (15 PTS),72 - 75,3,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,343,1,52,3,9:24 PM,7:38,Capela 1' Alley Oop Dunk (14 PTS) (Young 8 AST),,,72 - 77,5,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,345,5,1,3,9:24 PM,7:27,Young STEAL (1 STL),,Paul Bad Pass Turnover (P2.T5),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,347,1,1,3,9:24 PM,7:23,Bogdanovic 25' 3PT Jump Shot (16 PTS) (Young 9 AST),,,72 - 80,8,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,349,9,1,3,9:24 PM,7:22,,,Suns Timeout: Regular (Reg.3 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,350,1,101,3,9:28 PM,7:05,,,Booker 8' Driving Floating Jump Shot (22 PTS) (Ayton 3 AST),74 - 80,6,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,352,6,2,3,9:28 PM,6:47,,,Craig S.FOUL (P2.T3) (R.Acosta),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,354,3,11,3,9:29 PM,6:47,Capela Free Throw 1 of 2 (15 PTS),,,74 - 81,7,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,355,3,12,3,9:29 PM,6:47,Capela Free Throw 2 of 2 (16 PTS),,,74 - 82,8,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,356,2,6,3,9:29 PM,6:34,,,MISS Booker 2' Driving Layup,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,357,4,0,3,9:29 PM,6:31,Collins REBOUND (Off:0 Def:3),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,358,1,101,3,9:29 PM,6:23,Snell 8' Driving Floating Jump Shot (2 PTS) (Young 10 AST),,,74 - 84,10,4,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,360,2,79,3,9:29 PM,6:11,,,MISS Paul 18' Pullup Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,361,4,0,3,9:29 PM,6:07,Collins REBOUND (Off:0 Def:4),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,362,1,7,3,9:30 PM,6:02,Capela 1' Dunk (18 PTS) (Young 11 AST),,,74 - 86,12,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,364,2,1,3,9:30 PM,5:47,Bogdanovic BLOCK (2 BLK),,MISS Booker 13' Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,1
+0022000992,366,4,0,3,9:30 PM,5:43,,,Craig REBOUND (Off:2 Def:1),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,367,5,11,3,9:30 PM,5:35,,,Suns Turnover: Shot Clock (T#6),,,3,1610612756,,,,,,0,0,,,,,,1,0,,,,,,0
+0022000992,368,8,0,3,9:30 PM,5:35,,,SUB: Payne FOR Paul,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,369,8,0,3,9:30 PM,5:35,,,SUB: Johnson FOR Craig,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,372,2,1,3,9:31 PM,5:19,MISS Young 26' 3PT Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,373,4,0,3,9:31 PM,5:19,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,375,1,79,3,9:31 PM,5:09,,,Booker 9' Pullup Jump Shot (24 PTS) (Payne 1 AST),76 - 86,10,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,377,5,2,3,9:31 PM,4:50,Collins Lost Ball Turnover (P2.T10),,Johnson STEAL (3 STL),,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,379,6,3,3,9:31 PM,4:50,Collins L.B.FOUL (P2.T3) (K.Mauer),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,381,8,0,3,9:32 PM,4:50,SUB: Gallinari FOR Capela,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,385,8,0,3,9:32 PM,4:50,SUB: Huerter FOR Snell,,,,,4,203503,Tony Snell,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,383,1,79,3,9:32 PM,4:39,,,Booker 11' Pullup Jump Shot (26 PTS) (Payne 2 AST),78 - 86,8,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,387,6,1,3,9:32 PM,4:31,,,Payne P.FOUL (P2.T4) (S.Jelks),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,389,2,1,3,9:33 PM,4:23,MISS Collins 3PT Jump Shot,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,390,4,0,3,9:33 PM,4:20,,,Booker REBOUND (Off:0 Def:2),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,391,2,1,3,9:33 PM,4:15,,,MISS Johnson 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,392,4,0,3,9:33 PM,4:10,Bogdanovic REBOUND (Off:0 Def:1),,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,393,1,1,3,9:33 PM,3:59,Huerter 25' 3PT Jump Shot (10 PTS) (Bogdanovic 6 AST),,,78 - 89,11,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,395,1,6,3,9:33 PM,3:34,,,Booker 1' Driving Layup (28 PTS) (Payne 3 AST),80 - 89,9,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,397,7,2,3,9:33 PM,3:34,Collins Violation:Defensive Goaltending (R.Acosta),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022000992,398,9,1,3,9:34 PM,3:34,HAWKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,399,18,6,3,9:35 PM,3:34,,Instant Replay3rd Period (9:35 PM EST),,80 - 89,9,0,397,Reggie Miller,,,,,0,0,,,,,,1,0,,,,,,1
+0022000992,400,8,0,3,9:36 PM,3:34,SUB: Okongwu FOR Collins,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,401,8,0,3,9:36 PM,3:34,,,SUB: Kaminsky FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,405,2,79,3,9:37 PM,3:22,MISS Bogdanovic 25' 3PT Pullup Jump Shot,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,406,4,0,3,9:37 PM,3:19,,,Bridges REBOUND (Off:2 Def:1),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,407,2,79,3,9:37 PM,3:07,,,MISS Booker 12' Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,408,4,0,3,9:37 PM,3:04,Huerter REBOUND (Off:0 Def:2),,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,409,1,101,3,9:38 PM,2:58,Young 12' Driving Floating Jump Shot (14 PTS),,,80 - 91,11,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,410,2,80,3,9:38 PM,2:47,,,MISS Payne 26' 3PT Step Back Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,411,4,0,3,9:38 PM,2:44,Young REBOUND (Off:0 Def:2),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,415,8,0,3,9:39 PM,2:34,SUB: Williams FOR Bogdanovic,,,,,4,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,417,2,1,3,9:39 PM,2:22,MISS Williams 22' Jump Shot,,Bridges BLOCK (1 BLK),,,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1
+0022000992,419,4,0,3,9:39 PM,2:18,Okongwu REBOUND (Off:3 Def:1),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,420,2,1,3,9:39 PM,2:17,MISS Okongwu 12' Jump Shot,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,421,4,0,3,9:39 PM,2:15,,,Kaminsky REBOUND (Off:0 Def:2),,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,422,1,1,3,9:39 PM,2:14,,,Bridges 24' 3PT Jump Shot (18 PTS) (Booker 5 AST),83 - 91,8,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,424,1,79,3,9:39 PM,2:00,Gallinari 18' Pullup Jump Shot (10 PTS) (Young 12 AST),,,83 - 93,10,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,426,2,79,3,9:40 PM,1:43,,,MISS Booker 12' Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,427,4,0,3,9:40 PM,1:40,Gallinari REBOUND (Off:0 Def:3),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,428,1,6,3,9:40 PM,1:29,Young 2' Driving Layup (16 PTS),,,83 - 95,12,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,430,8,0,3,9:40 PM,1:22,SUB: S. Hill FOR Young,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,431,8,0,3,9:40 PM,1:22,,,SUB: Carter FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,434,6,1,3,9:41 PM,1:18,S. Hill P.FOUL (P2.T4) (K.Mauer),,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,436,1,1,3,9:41 PM,1:09,,,Kaminsky 3PT Jump Shot (7 PTS) (Carter 1 AST),86 - 95,9,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,438,2,47,3,9:42 PM,0:51,MISS Huerter 14' Turnaround Jump Shot,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,439,4,0,3,9:42 PM,0:49,Okongwu REBOUND (Off:4 Def:1),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,444,1,1,3,9:42 PM,0:41,Gallinari 20' Jump Shot (12 PTS) (Williams 3 AST),,,86 - 97,11,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,446,6,2,3,9:42 PM,0:34,Okongwu S.FOUL (P2.PN) (R.Acosta),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,448,3,11,3,9:43 PM,0:34,,,Booker Free Throw 1 of 2 (29 PTS),87 - 97,10,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,449,3,12,3,9:43 PM,0:34,,,Booker Free Throw 2 of 2 (30 PTS),88 - 97,9,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,451,2,1,3,9:43 PM,0:16,MISS Williams 17' Jump Shot,,,,,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,452,4,0,3,9:43 PM,0:13,,,Booker REBOUND (Off:0 Def:3),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,453,2,1,3,9:44 PM,0:00,,,MISS Johnson 26' 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,454,4,0,3,9:44 PM,0:00,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,455,13,0,3,9:44 PM,0:00,,End of 3rd Period (9:44 PM EST),,88 - 97,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022000992,458,12,0,4,9:47 PM,12:00,,Start of 4th Period (9:47 PM EST),,88 - 97,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,459,1,3,4,9:47 PM,11:41,Okongwu 10' Hook Shot (6 PTS) (Gallinari 2 AST),,,88 - 99,11,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,461,2,1,4,9:47 PM,11:20,,,MISS Carter 25' 3PT Jump Shot,,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,462,4,0,4,9:47 PM,11:18,S. Hill REBOUND (Off:0 Def:4),,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,463,1,108,4,9:47 PM,11:12,Okongwu Cutting Dunk Shot (8 PTS) (Huerter 1 AST),,,88 - 101,13,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,465,2,101,4,9:48 PM,10:56,,,MISS Payne 13' Driving Floating Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,466,4,0,4,9:48 PM,10:54,Gallinari REBOUND (Off:0 Def:4),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,467,1,58,4,9:48 PM,10:33,Okongwu 7' Turnaround Hook Shot (10 PTS) (Gallinari 3 AST),,,88 - 103,15,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,469,2,1,4,9:48 PM,10:15,,,MISS Johnson 13' Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,470,4,0,4,9:48 PM,10:13,S. Hill REBOUND (Off:0 Def:5),,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,471,6,1,4,9:48 PM,10:06,,,Payne P.FOUL (P3.T1) (K.Mauer),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,473,2,1,4,9:49 PM,9:53,MISS S. Hill 3PT Jump Shot,,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,474,4,0,4,9:49 PM,9:51,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,476,8,0,4,9:50 PM,9:51,,,SUB: Craig FOR Payne,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,477,8,0,4,9:50 PM,9:51,,,SUB: Bridges FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,480,6,2,4,9:50 PM,9:44,,,Craig S.FOUL (P3.T2) (K.Mauer),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,482,3,11,4,9:50 PM,9:44,Williams Free Throw 1 of 2 (8 PTS),,,88 - 104,16,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,484,3,12,4,9:51 PM,9:44,Williams Free Throw 2 of 2 (9 PTS),,,88 - 105,17,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,485,5,2,4,9:51 PM,9:32,Okongwu STEAL (1 STL),,Craig Lost Ball Turnover (P1.T7),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,487,1,1,4,9:51 PM,9:21,Huerter 25' 3PT Jump Shot (13 PTS) (Gallinari 4 AST),,,88 - 108,20,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,489,9,1,4,9:51 PM,9:20,,,Suns Timeout: Regular (Reg.4 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,490,8,0,4,9:54 PM,9:20,,,SUB: Booker FOR Kaminsky,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,492,2,79,4,9:54 PM,9:09,,,MISS Paul 16' Pullup Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,493,4,0,4,9:54 PM,9:04,Okongwu REBOUND (Off:4 Def:2),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,496,1,1,4,9:55 PM,8:47,Williams 25' 3PT Jump Shot (12 PTS),,,88 - 111,23,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,497,5,1,4,9:55 PM,8:17,Okongwu STEAL (2 STL),,Craig Bad Pass Turnover (P2.T8),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,499,1,7,4,9:55 PM,8:02,Okongwu 1' Dunk (12 PTS) (Williams 4 AST),,,88 - 113,25,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,501,9,1,4,9:55 PM,8:02,,,Suns Timeout: Regular (Reg.5 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,502,8,0,4,9:57 PM,8:02,,,SUB: Saric FOR Paul,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,503,8,0,4,9:57 PM,8:02,,,SUB: Smith FOR Carter,,,5,1628975,Jevon Carter,1610612756.0,Phoenix,Suns,PHX,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,504,8,0,4,9:57 PM,8:02,,,SUB: Galloway FOR Craig,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,204038,Langston Galloway,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,505,8,0,4,9:57 PM,8:02,,,SUB: Moore FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,202734,E'Twaun Moore,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,506,8,0,4,9:57 PM,8:02,,,SUB: Payne FOR Booker,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,512,6,2,4,9:59 PM,7:46,S. Hill S.FOUL (P3.T1) (R.Acosta),,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,514,3,11,4,9:59 PM,7:46,,,Payne Free Throw 1 of 2 (7 PTS),89 - 113,24,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,515,3,12,4,9:59 PM,7:46,,,Payne Free Throw 2 of 2 (8 PTS),90 - 113,23,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,516,2,1,4,10:00 PM,7:34,MISS Huerter 26' 3PT Jump Shot,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,517,4,0,4,10:00 PM,7:29,,,Smith REBOUND (Off:0 Def:1),,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,518,2,1,4,10:00 PM,7:22,,,MISS Moore 3PT Jump Shot,,,5,202734,E'Twaun Moore,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,519,4,0,4,10:00 PM,7:20,Gallinari REBOUND (Off:0 Def:5),,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,520,6,1,4,10:00 PM,7:20,,,Smith P.FOUL (P1.T3) (R.Acosta),,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,522,1,6,4,10:00 PM,7:05,Williams 1' Driving Layup (14 PTS),,,90 - 115,25,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,523,5,2,4,10:01 PM,6:48,Okongwu STEAL (3 STL),,Smith Lost Ball Turnover (P1.T9),,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,525,2,63,4,10:01 PM,6:37,MISS Williams 3PT Fadeaway Jumper,,,,,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,526,4,0,4,10:01 PM,6:34,,,Smith REBOUND (Off:0 Def:2),,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,527,2,1,4,10:01 PM,6:27,,,MISS Galloway 26' 3PT Jump Shot,,,5,204038,Langston Galloway,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,528,4,0,4,10:01 PM,6:23,Williams REBOUND (Off:0 Def:2),,,,,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,529,2,1,4,10:01 PM,6:08,MISS Williams 28' 3PT Jump Shot,,,,,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,530,4,0,4,10:01 PM,6:04,,,Payne REBOUND (Off:0 Def:1),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,531,6,2,4,10:01 PM,5:59,Okongwu S.FOUL (P3.T2) (K.Mauer),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,533,3,11,4,10:02 PM,5:59,,,Smith Free Throw 1 of 2 (1 PTS),91 - 115,24,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,534,8,0,4,10:02 PM,5:59,,,SUB: Alexander FOR Payne,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,1630234,Ty-Shon Alexander,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022000992,536,3,12,4,10:02 PM,5:59,,,Smith Free Throw 2 of 2 (2 PTS),92 - 115,23,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,537,1,1,4,10:02 PM,5:40,Gallinari 21' Jump Shot (14 PTS),,,92 - 117,25,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,538,5,40,4,10:03 PM,5:32,,,Moore Out of Bounds Lost Ball Turnover (P1.T10),,,5,202734,E'Twaun Moore,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022000992,539,1,1,4,10:03 PM,5:08,Williams 17' Jump Shot (16 PTS),,,92 - 119,27,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,540,2,47,4,10:03 PM,4:57,,,MISS Saric 9' Turnaround Jump Shot,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,541,4,0,4,10:03 PM,4:54,Okongwu REBOUND (Off:4 Def:3),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,542,1,108,4,10:04 PM,4:33,Okongwu 1' Cutting Dunk Shot (14 PTS) (Huerter 2 AST),,,92 - 121,29,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,544,2,1,4,10:04 PM,4:17,,,MISS Moore 25' 3PT Jump Shot,,,5,202734,E'Twaun Moore,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,545,4,0,4,10:04 PM,4:15,Williams REBOUND (Off:0 Def:3),,,,,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,546,1,47,4,10:04 PM,4:00,Gallinari 16' Turnaround Jump Shot (16 PTS) (Williams 5 AST),,,92 - 123,31,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,548,2,80,4,10:05 PM,3:38,,,MISS Galloway 14' Step Back Jump Shot,,,5,204038,Langston Galloway,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,549,4,0,4,10:05 PM,3:33,Williams REBOUND (Off:0 Def:4),,,,,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,550,9,1,4,10:05 PM,3:31,HAWKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,551,8,0,4,10:06 PM,3:31,SUB: Mays FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612737.0,Atlanta,Hawks,ATL,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,552,8,0,4,10:06 PM,3:31,SUB: Goodwin FOR Williams,,,,,4,101150,Lou Williams,1610612737.0,Atlanta,Hawks,ATL,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,553,8,0,4,10:06 PM,3:31,SUB: Knight FOR Gallinari,,,,,4,201568,Danilo Gallinari,1610612737.0,Atlanta,Hawks,ATL,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,554,8,0,4,10:06 PM,3:31,SUB: Fernando FOR Okongwu,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,555,8,0,4,10:06 PM,3:31,SUB: Dunn FOR S. Hill,,,,,4,203524,Solomon Hill,1610612737.0,Atlanta,Hawks,ATL,4,1627739,Kris Dunn,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022000992,561,1,1,4,10:07 PM,3:13,Mays 3PT Jump Shot (3 PTS) (Goodwin 1 AST),,,92 - 126,34,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,563,6,2,4,10:07 PM,2:56,Fernando S.FOUL (P1.T3) (K.Mauer),,,,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,5,204038,Langston Galloway,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,565,3,13,4,10:08 PM,2:56,,,Galloway Free Throw 1 of 3 (1 PTS),93 - 126,33,5,204038,Langston Galloway,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,566,3,14,4,10:08 PM,2:56,,,Galloway Free Throw 2 of 3 (2 PTS),94 - 126,32,5,204038,Langston Galloway,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,567,3,15,4,10:08 PM,2:56,,,MISS Galloway Free Throw 3 of 3,,,5,204038,Langston Galloway,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,568,4,0,4,10:08 PM,2:53,Goodwin REBOUND (Off:0 Def:1),,,,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,569,1,100,4,10:08 PM,2:50,Fernando Running Alley Oop Layup Shot (2 PTS) (Goodwin 2 AST),,,94 - 128,34,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,571,1,1,4,10:08 PM,2:33,,,Galloway 25' 3PT Jump Shot (5 PTS) (Alexander 1 AST),97 - 128,31,5,204038,Langston Galloway,1610612756.0,Phoenix,Suns,PHX,5,1630234,Ty-Shon Alexander,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,573,6,2,4,10:09 PM,2:24,,,Alexander S.FOUL (P1.T4) (K.Mauer),,,5,1630234,Ty-Shon Alexander,1610612756.0,Phoenix,Suns,PHX,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,575,3,11,4,10:09 PM,2:24,Goodwin Free Throw 1 of 2 (1 PTS),,,97 - 129,32,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,576,3,12,4,10:09 PM,2:24,MISS Goodwin Free Throw 2 of 2,,,,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,577,4,0,4,10:09 PM,2:21,,,Alexander REBOUND (Off:0 Def:1),,,5,1630234,Ty-Shon Alexander,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,578,2,1,4,10:09 PM,2:13,,,MISS Moore 25' 3PT Jump Shot,,,5,202734,E'Twaun Moore,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,579,4,0,4,10:09 PM,2:10,Dunn REBOUND (Off:0 Def:1),,,,,4,1627739,Kris Dunn,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,580,2,101,4,10:10 PM,2:00,MISS Knight 10' Driving Floating Jump Shot,,,,,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,581,4,0,4,10:10 PM,1:59,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022000992,583,2,1,4,10:10 PM,1:55,MISS Knight 25' 3PT Jump Shot,,,,,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,584,4,0,4,10:10 PM,1:52,,,Galloway REBOUND (Off:0 Def:1),,,5,204038,Langston Galloway,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,585,2,1,4,10:10 PM,1:45,,,MISS Saric 25' 3PT Jump Shot,,,5,203967,Dario Saric,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,586,4,0,4,10:10 PM,1:42,Knight REBOUND (Off:0 Def:1),,,,,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,587,2,79,4,10:10 PM,1:26,MISS Dunn 2' Pullup Jump Shot,,,,,4,1627739,Kris Dunn,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,588,4,0,4,10:10 PM,1:23,,,Moore REBOUND (Off:0 Def:1),,,5,202734,E'Twaun Moore,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,589,6,1,4,10:11 PM,1:23,Goodwin P.FOUL (P1.T4) (K.Mauer),,,,,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,5,202734,E'Twaun Moore,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,591,6,1,4,10:11 PM,1:17,Dunn P.FOUL (P1.PN) (K.Mauer),,,,,4,1627739,Kris Dunn,1610612737.0,Atlanta,Hawks,ATL,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,593,3,11,4,10:11 PM,1:17,,,Smith Free Throw 1 of 2 (3 PTS),98 - 129,31,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,594,3,12,4,10:11 PM,1:17,,,Smith Free Throw 2 of 2 (4 PTS),99 - 129,30,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,595,6,1,4,10:12 PM,1:06,,,Smith P.FOUL (P2.PN) (R.Acosta),,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022000992,597,3,11,4,10:12 PM,1:06,Knight Free Throw 1 of 2 (1 PTS),,,99 - 130,31,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,598,3,12,4,10:12 PM,1:06,Knight Free Throw 2 of 2 (2 PTS),,,99 - 131,32,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,599,6,3,4,10:13 PM,0:54,Mays L.B.FOUL (P1.PN) (K.Mauer),,,,,4,1630219,Skylar Mays,1610612737.0,Atlanta,Hawks,ATL,5,202734,E'Twaun Moore,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022000992,601,3,11,4,10:13 PM,0:54,,,Moore Free Throw 1 of 2 (1 PTS),100 - 131,31,5,202734,E'Twaun Moore,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,602,3,12,4,10:13 PM,0:54,,,Moore Free Throw 2 of 2 (2 PTS),101 - 131,30,5,202734,E'Twaun Moore,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,603,1,6,4,10:14 PM,0:42,Goodwin 1' Driving Layup (3 PTS),,,101 - 133,32,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,604,2,74,4,10:14 PM,0:38,Knight BLOCK (1 BLK),,MISS Moore 1' Running Reverse Layup,,,5,202734,E'Twaun Moore,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,1
+0022000992,606,4,0,4,10:14 PM,0:38,Dunn REBOUND (Off:0 Def:2),,,,,4,1627739,Kris Dunn,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022000992,607,1,50,4,10:14 PM,0:32,Knight Running Dunk (4 PTS) (Goodwin 3 AST),,,101 - 135,34,4,1630233,Nathan Knight,1610612737.0,Atlanta,Hawks,ATL,4,1629164,Brandon Goodwin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022000992,609,1,7,4,10:14 PM,0:18,,,Smith Dunk (6 PTS),103 - 135,32,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022000992,610,5,1,4,10:14 PM,0:03,Fernando Bad Pass Turnover (P1.T11),,Moore STEAL (1 STL),,,4,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,5,202734,E'Twaun Moore,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022000992,612,13,0,4,10:15 PM,0:00,,End of 4th Period (10:15 PM EST),,103 - 135,32,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

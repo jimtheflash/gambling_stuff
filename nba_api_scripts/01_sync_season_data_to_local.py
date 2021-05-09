@@ -1,4 +1,4 @@
-from datetime import date
+from datetime import date, timedelta
 import os
 import time
 from glob import glob
@@ -70,13 +70,16 @@ def main(args: dict):
     gamelog_df = get_season_gamelog(season)
     source_file_name = os.path.join(GAMELOG_PATH, f"nba_gamelogs_{season}.csv")
     gamelog_df.to_csv(source_file_name, index=False)
-
-    schedule_df = get_day_schedule(date.today())
-    if len(schedule_df) > 0:
-        schedule_file_name = os.path.join(
-            SCHEDULE_PATH, f"{str(date.today()).replace('-', '')}.csv"
-        )
-        schedule_df.to_csv(schedule_file_name, index=False)
+    today_dt = date.today()
+    schedule_days = [today_dt, today_dt + timedelta(days=1)]
+    for schedule in schedule_days:
+        schedule_df = get_day_schedule(schedule)
+        if len(schedule_df) > 0:
+            schedule_file_name = os.path.join(
+                SCHEDULE_PATH, f"{str(schedule).replace('-', '')}.csv"
+            )
+            schedule_df.to_csv(schedule_file_name, index=False)
+            time.sleep(uniform(1.6, 2.5))
 
     for sync in SYNC_CATEGORIES:
         category = sync["category"]

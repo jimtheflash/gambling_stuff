@@ -1,0 +1,565 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022001012,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,4,10,0,1,7:11 PM,12:00,Jump Ball Sabonis vs. Len: Tip to Hachimura,,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1
+0022001012,8,5,1,1,7:12 PM,11:36,Sabonis STEAL (1 STL),,Westbrook Bad Pass Turnover (P1.T1),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,10,1,78,1,7:12 PM,11:19,LeVert 9' Floating Jump Shot (2 PTS),,,0 - 2,2,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,11,2,79,1,7:12 PM,11:01,,,MISS Beal 8' Pullup Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,12,4,0,1,7:12 PM,10:58,Sabonis REBOUND (Off:0 Def:1),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,13,1,1,1,7:12 PM,10:51,McDermott 28' 3PT Jump Shot (3 PTS) (Sabonis 1 AST),,,0 - 5,5,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,15,1,6,1,7:13 PM,10:37,,,Hachimura 1' Driving Layup (2 PTS) (Westbrook 1 AST),2 - 5,3,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,17,6,2,1,7:13 PM,10:37,LeVert S.FOUL (P1.T1) (T.Washington),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,19,3,10,1,7:13 PM,10:37,,,Hachimura Free Throw 1 of 1 (3 PTS),3 - 5,2,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,20,1,75,1,7:13 PM,10:26,McDermott 2' Driving Finger Roll Layup (5 PTS) (Sabonis 2 AST),,,3 - 7,4,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,21,6,1,1,7:13 PM,10:12,McDermott P.FOUL (P1.T2) (H.Workman),,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,23,2,1,1,7:14 PM,10:04,,,MISS Hachimura 3PT Jump Shot,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,24,4,0,1,7:14 PM,10:01,,,Westbrook REBOUND (Off:1 Def:0),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,25,1,5,1,7:14 PM,10:00,,,Len 2' Layup (2 PTS) (Westbrook 2 AST),5 - 7,2,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,27,2,108,1,7:14 PM,9:45,MISS Sabonis 1' Cutting Dunk Shot,,Hachimura BLOCK (1 BLK),,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1
+0022001012,29,4,0,1,7:14 PM,9:43,,,Len REBOUND (Off:0 Def:1),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,30,2,78,1,7:14 PM,9:38,,,MISS Beal 9' Floating Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,31,4,0,1,7:14 PM,9:36,,,Beal REBOUND (Off:1 Def:0),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,32,1,1,1,7:14 PM,9:35,,,Beal 7' Jump Shot (2 PTS),7 - 7,TIE,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,33,2,75,1,7:15 PM,9:22,MISS McDermott 1' Driving Finger Roll Layup,,Len BLOCK (1 BLK),,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,1
+0022001012,35,4,0,1,7:15 PM,9:20,,,Westbrook REBOUND (Off:1 Def:1),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,36,5,1,1,7:15 PM,9:18,LeVert STEAL (1 STL),,Westbrook Bad Pass Turnover (P2.T2),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,38,5,1,1,7:15 PM,9:15,LeVert Bad Pass Turnover (P1.T1),,Neto STEAL (1 STL),,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,40,1,5,1,7:15 PM,9:12,,,Hachimura 1' Layup (5 PTS) (Len 1 AST),9 - 7,-2,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,42,1,75,1,7:15 PM,9:03,Sumner 1' Driving Finger Roll Layup (2 PTS) (LeVert 1 AST),,,9 - 9,TIE,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,44,6,2,1,7:15 PM,9:03,,,Len S.FOUL (P1.T1) (H.Workman),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,46,3,10,1,7:15 PM,9:03,Sumner Free Throw 1 of 1 (3 PTS),,,9 - 10,1,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,47,2,1,1,7:16 PM,8:51,,,MISS Westbrook 28' 3PT Jump Shot,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,48,4,0,1,7:16 PM,8:47,Brissett REBOUND (Off:0 Def:1),,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,49,2,103,1,7:16 PM,8:43,MISS LeVert 27' 3PT Running Pull-Up Jump Shot,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,50,4,0,1,7:16 PM,8:39,,,Len REBOUND (Off:0 Def:2),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,51,1,79,1,7:16 PM,8:33,,,Beal 20' Pullup Jump Shot (4 PTS) (Neto 1 AST),11 - 10,-1,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,53,6,4,1,7:16 PM,8:17,LeVert OFF.Foul (P2) (D.Richardson),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,55,5,37,1,7:16 PM,8:17,LeVert Offensive Foul Turnover (P2.T2),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022001012,56,1,1,1,7:17 PM,8:07,,,Len 7' Jump Shot (4 PTS) (Westbrook 3 AST),13 - 10,-3,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,58,5,1,1,7:17 PM,7:51,Brissett Bad Pass Turnover (P1.T3),,Neto STEAL (2 STL),,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,60,1,76,1,7:17 PM,7:47,,,Westbrook 1' Running Finger Roll Layup (2 PTS),15 - 10,-5,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,61,9,1,1,7:17 PM,7:39,PACERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,63,1,99,1,7:20 PM,7:29,McDermott 2' Cutting Finger Roll Layup Shot (7 PTS) (Sabonis 3 AST),,,15 - 12,-3,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,65,6,2,1,7:20 PM,7:29,,,Neto S.FOUL (P1.T2) (D.Richardson),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,67,3,10,1,7:21 PM,7:29,MISS McDermott Free Throw 1 of 1,,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,68,4,0,1,7:21 PM,7:27,,,Len REBOUND (Off:0 Def:3),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,69,5,1,1,7:21 PM,7:17,Sabonis STEAL (2 STL),,Westbrook Bad Pass Turnover (P3.T3),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,71,1,101,1,7:21 PM,7:07,LeVert 14' Driving Floating Jump Shot (4 PTS) (Sabonis 4 AST),,,15 - 14,-1,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,73,2,6,1,7:21 PM,6:53,,,MISS Neto Driving Layup,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,74,4,0,1,7:21 PM,6:49,,,Len REBOUND (Off:2 Def:3),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,75,2,97,1,7:21 PM,6:49,,,MISS Len Tip Layup Shot,,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,76,4,0,1,7:21 PM,6:49,,,Len REBOUND (Off:2 Def:3),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,77,2,1,1,7:21 PM,6:47,,,MISS Len 5' Jump Shot,,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,78,4,0,1,7:21 PM,6:46,Sabonis REBOUND (Off:0 Def:2),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,79,2,79,1,7:21 PM,6:40,MISS Sabonis 13' Pullup Jump Shot,,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,80,4,0,1,7:21 PM,6:38,,,Westbrook REBOUND (Off:1 Def:2),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,81,2,86,1,7:22 PM,6:32,,,MISS Westbrook 9' Turnaround Fadeaway Shot,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,82,4,0,1,7:22 PM,6:29,Sabonis REBOUND (Off:0 Def:3),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,83,1,75,1,7:22 PM,6:23,Brissett 1' Driving Finger Roll Layup (2 PTS) (Sabonis 5 AST),,,15 - 16,1,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,85,1,102,1,7:22 PM,6:16,,,Westbrook 7' Driving Floating Bank Jump Shot (4 PTS),17 - 16,-1,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,86,5,45,1,7:22 PM,6:07,LeVert Out of Bounds - Bad Pass Turnover Turnover (P3.T4),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022001012,87,8,0,1,7:22 PM,6:07,,,SUB: Smith FOR Westbrook,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,89,2,79,1,7:22 PM,5:56,,,MISS Beal 16' Pullup Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,90,4,0,1,7:22 PM,5:54,Brissett REBOUND (Off:0 Def:2),,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,91,1,5,1,7:23 PM,5:39,Brissett 1' Layup (4 PTS) (LeVert 2 AST),,,17 - 18,1,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,93,2,80,1,7:23 PM,5:26,,,MISS Hachimura 15' Step Back Jump Shot,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,94,4,0,1,7:23 PM,5:23,LeVert REBOUND (Off:0 Def:1),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,95,1,86,1,7:23 PM,5:17,Sabonis 3' Turnaround Fadeaway (2 PTS) (LeVert 3 AST),,,17 - 20,3,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,97,9,1,1,7:23 PM,5:13,,,Wizards Timeout: Regular (Reg.1 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,98,8,0,1,7:26 PM,5:13,,,SUB: Bertans FOR Hachimura,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,100,1,79,1,7:26 PM,5:04,,,Beal 15' Pullup Jump Shot (6 PTS),19 - 20,1,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,101,2,79,1,7:27 PM,4:37,MISS LeVert 16' Pullup Jump Shot,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,102,4,0,1,7:27 PM,4:34,,,Len REBOUND (Off:2 Def:4),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,103,2,73,1,7:27 PM,4:27,,,MISS Neto 1' Driving Reverse Layup,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,104,4,0,1,7:27 PM,4:23,,,Len REBOUND (Off:3 Def:4),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,105,1,51,1,7:27 PM,4:23,,,Len Reverse Dunk (6 PTS),21 - 20,-1,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,106,1,98,1,7:27 PM,4:10,McDermott 1' Cutting Layup Shot (9 PTS) (LeVert 4 AST),,,21 - 22,1,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,108,2,1,1,7:27 PM,3:59,,,MISS Bertans 26' 3PT Jump Shot,,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,109,4,0,1,7:27 PM,3:58,McDermott REBOUND (Off:0 Def:1),,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,110,2,1,1,7:27 PM,3:49,MISS McDermott 26' 3PT Jump Shot,,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,112,1,97,1,7:28 PM,3:44,Sabonis Tip Layup Shot (4 PTS),,,21 - 24,3,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,111,4,0,1,7:28 PM,3:44,Sabonis REBOUND (Off:1 Def:3),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,113,6,4,1,7:28 PM,3:37,,,Len OFF.Foul (P2) (T.Washington),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,115,5,37,1,7:28 PM,3:37,,,Len Offensive Foul Turnover (P1.T4),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022001012,116,8,0,1,7:28 PM,3:37,SUB: Holiday FOR Sumner,,,,,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,117,8,0,1,7:28 PM,3:37,SUB: Holiday FOR Brissett,,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,118,8,0,1,7:28 PM,3:37,SUB: McConnell FOR McDermott,,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,119,8,0,1,7:28 PM,3:37,,,SUB: Hutchison FOR Neto,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,1628990,Chandler Hutchison,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,124,1,5,1,7:29 PM,3:13,Sabonis Layup (6 PTS) (Holiday 1 AST),,,21 - 26,5,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,126,1,79,1,7:29 PM,2:58,,,Beal 13' Pullup Jump Shot (8 PTS),23 - 26,3,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,127,2,1,1,7:29 PM,2:47,MISS Sabonis 26' 3PT Jump Shot,,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,128,4,0,1,7:29 PM,2:45,,,Smith REBOUND (Off:0 Def:1),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,129,6,1,1,7:29 PM,2:45,McConnell P.FOUL (P1.T3) (T.Washington),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,131,8,0,1,7:29 PM,2:45,,,SUB: Westbrook FOR Beal,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,132,8,0,1,7:29 PM,2:45,,,SUB: Gafford FOR Len,,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,135,1,52,1,7:30 PM,2:29,,,Gafford Alley Oop Dunk (2 PTS) (Smith 1 AST),25 - 26,1,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,137,6,1,1,7:30 PM,2:22,,,Gafford P.FOUL (P1.T3) (T.Washington),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,139,2,101,1,7:30 PM,2:15,MISS LeVert 5' Driving Floating Jump Shot,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,140,4,0,1,7:30 PM,2:11,,,Smith REBOUND (Off:0 Def:2),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,141,2,1,1,7:31 PM,1:58,,,MISS Hutchison 3PT Jump Shot,,,5,1628990,Chandler Hutchison,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,142,4,0,1,7:31 PM,1:55,LeVert REBOUND (Off:0 Def:2),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,143,1,5,1,7:31 PM,1:32,Sabonis 1' Layup (8 PTS),,,25 - 28,3,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,144,1,1,1,7:31 PM,1:22,,,Westbrook 3PT Jump Shot (7 PTS) (Smith 2 AST),28 - 28,TIE,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,146,1,98,1,7:31 PM,1:11,Sabonis 3' Cutting Layup Shot (10 PTS) (Holiday 1 AST),,,28 - 30,2,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,148,6,2,1,7:31 PM,1:11,,,Gafford S.FOUL (P2.T4) (H.Workman),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,150,8,0,1,7:31 PM,1:11,SUB: Bitadze FOR LeVert,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,152,3,10,1,7:32 PM,1:11,MISS Sabonis Free Throw 1 of 1,,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,153,4,0,1,7:32 PM,1:07,Holiday REBOUND (Off:1 Def:0),,,,,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,154,2,1,1,7:32 PM,0:54,MISS Bitadze 24' 3PT Jump Shot,,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,155,4,0,1,7:32 PM,0:51,,,Westbrook REBOUND (Off:1 Def:3),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,157,1,79,1,7:33 PM,0:39,,,Smith 18' Pullup Jump Shot (2 PTS) (Westbrook 4 AST),30 - 30,TIE,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,158,6,2,1,7:33 PM,0:29,,,Gafford S.FOUL (P3.PN) (H.Workman),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,160,3,11,1,7:34 PM,0:29,Holiday Free Throw 1 of 2 (1 PTS),,,30 - 31,1,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,161,8,0,1,7:34 PM,0:29,,,SUB: Lopez FOR Gafford,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,163,3,12,1,7:34 PM,0:29,Holiday Free Throw 2 of 2 (2 PTS),,,30 - 32,2,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,164,6,17,1,7:34 PM,0:14,PACERS T.Foul (Def. 3 Sec Bitadze ) (T.Washington),,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022001012,165,3,16,1,7:35 PM,0:14,,,Bertans Free Throw Technical (1 PTS),31 - 32,1,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,167,1,79,1,7:35 PM,0:02,,,Westbrook 18' Pullup Jump Shot (9 PTS),33 - 32,-1,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,170,2,79,1,7:35 PM,0:00,MISS McConnell 65' 3PT Pullup Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,171,4,0,1,7:35 PM,0:00,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,172,13,0,1,7:35 PM,0:00,,End of 1st Period (7:35 PM EST),,33 - 32,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022001012,175,12,0,2,7:38 PM,12:00,,Start of 2nd Period (7:38 PM EST),,33 - 32,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,176,1,79,2,7:38 PM,11:48,Holiday 19' Pullup Jump Shot (4 PTS),,,33 - 34,1,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,177,2,58,2,7:38 PM,11:27,,,MISS Lopez 5' Turnaround Hook Shot,,,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,178,4,0,2,7:38 PM,11:25,McConnell REBOUND (Off:0 Def:1),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,179,1,1,2,7:38 PM,11:18,Bitadze 26' 3PT Jump Shot (3 PTS) (Holiday 2 AST),,,33 - 37,4,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,181,2,79,2,7:39 PM,11:04,,,MISS Westbrook 16' Pullup Jump Shot,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,182,4,0,2,7:39 PM,11:03,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,184,2,58,2,7:39 PM,10:54,Bitadze BLOCK (1 BLK),,MISS Lopez 6' Turnaround Hook Shot,,,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,1
+0022001012,186,4,0,2,7:39 PM,10:51,,,Lopez REBOUND (Off:1 Def:0),,,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,187,2,58,2,7:39 PM,10:49,Bitadze BLOCK (2 BLK),,MISS Lopez 6' Turnaround Hook Shot,,,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,1
+0022001012,189,4,0,2,7:39 PM,10:49,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,190,5,11,2,7:39 PM,10:49,,,Wizards Turnover: Shot Clock (T#5),,,3,1610612764,,,,,,0,0,,,,,,1,0,,,,,,0
+0022001012,191,2,1,2,7:39 PM,10:36,MISS Bitadze 28' 3PT Jump Shot,,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,192,4,0,2,7:40 PM,10:32,,,Hutchison REBOUND (Off:0 Def:1),,,5,1628990,Chandler Hutchison,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,193,1,79,2,7:40 PM,10:23,,,Westbrook 4' Pullup Jump Shot (11 PTS),35 - 37,2,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,195,6,2,2,7:40 PM,10:23,Bitadze S.FOUL (P1.T1) (T.Washington),,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,197,3,10,2,7:40 PM,10:23,,,Westbrook Free Throw 1 of 1 (12 PTS),36 - 37,1,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,198,2,101,2,7:40 PM,10:08,MISS Holiday 14' Driving Floating Jump Shot,,,,,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,199,4,0,2,7:40 PM,10:05,,,Hutchison REBOUND (Off:0 Def:2),,,5,1628990,Chandler Hutchison,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,200,1,3,2,7:41 PM,9:57,,,Lopez 5' Hook Shot (2 PTS) (Westbrook 5 AST),38 - 37,-1,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,202,1,73,2,7:41 PM,9:46,McConnell 1' Driving Reverse Layup (2 PTS),,,38 - 39,1,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,203,2,1,2,7:41 PM,9:35,Holiday BLOCK (1 BLK),,MISS Westbrook 1' Jump Shot,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,1
+0022001012,205,4,0,2,7:41 PM,9:34,Holiday REBOUND (Off:0 Def:1),,,,,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,206,2,76,2,7:41 PM,9:31,MISS Holiday 3' Running Finger Roll Layup,,,,,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,207,4,0,2,7:41 PM,9:28,Holiday REBOUND (Off:1 Def:1),,,,,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,208,6,1,2,7:41 PM,9:28,,,Lopez P.FOUL (P1.T1) (T.Washington),,,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,210,8,0,2,7:41 PM,9:28,,,SUB: Beal FOR Bertans,,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,212,6,2,2,7:42 PM,9:22,,,Smith S.FOUL (P1.T2) (D.Richardson),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,214,3,11,2,7:42 PM,9:22,McConnell Free Throw 1 of 2 (3 PTS),,,38 - 40,2,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,215,3,12,2,7:43 PM,9:22,McConnell Free Throw 2 of 2 (4 PTS),,,38 - 41,3,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,216,2,58,2,7:43 PM,9:07,,,MISS Lopez 7' Turnaround Hook Shot,,,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,217,4,0,2,7:43 PM,9:04,,,Beal REBOUND (Off:2 Def:0),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,218,2,97,2,7:43 PM,9:04,,,MISS Beal Tip Layup Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,219,4,0,2,7:43 PM,9:01,McConnell REBOUND (Off:0 Def:2),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,220,2,1,2,7:43 PM,8:58,MISS Martin 26' 3PT Jump Shot,,,,,4,1629103,Kelan Martin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,221,4,0,2,7:43 PM,8:55,,,Smith REBOUND (Off:0 Def:3),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,222,1,76,2,7:43 PM,8:52,,,Beal 1' Running Finger Roll Layup (10 PTS) (Smith 3 AST),40 - 41,1,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,224,1,102,2,7:43 PM,8:42,McConnell 4' Driving Floating Bank Jump Shot (6 PTS),,,40 - 43,3,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,225,5,2,2,7:44 PM,8:30,Martin STEAL (1 STL),,Lopez Lost Ball Turnover (P1.T6),,,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,4,1629103,Kelan Martin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,227,6,26,2,7:44 PM,8:25,Martin Offensive Charge Foul (P1.T2) (T.Washington),,,,,4,1629103,Kelan Martin,1610612754.0,Indiana,Pacers,IND,5,1628990,Chandler Hutchison,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,229,5,37,2,7:44 PM,8:25,Martin Offensive Foul Turnover (P1.T5),,,,,4,1629103,Kelan Martin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022001012,230,2,79,2,7:44 PM,8:19,,,MISS Westbrook 19' Pullup Jump Shot,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,231,4,0,2,7:44 PM,8:15,Martin REBOUND (Off:0 Def:1),,,,,4,1629103,Kelan Martin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,232,1,1,2,7:44 PM,8:11,Holiday 26' 3PT Jump Shot (3 PTS) (McConnell 1 AST),,,40 - 46,6,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,234,9,1,2,7:44 PM,8:09,,,Wizards Timeout: Regular (Reg.2 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,235,8,0,2,7:46 PM,8:09,,,SUB: Hachimura FOR Smith,,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,237,1,79,2,7:47 PM,8:00,,,Beal 27' 3PT Pullup Jump Shot (13 PTS) (Westbrook 6 AST),43 - 46,3,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,239,2,1,2,7:48 PM,7:43,MISS Holiday 25' 3PT Jump Shot,,,,,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,240,4,0,2,7:48 PM,7:42,,,Lopez REBOUND (Off:1 Def:1),,,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,241,6,1,2,7:48 PM,7:35,Holiday P.FOUL (P1.T3) (D.Richardson),,,,,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,243,8,0,2,7:48 PM,7:35,SUB: Sabonis FOR Martin,,,,,4,1629103,Kelan Martin,1610612754.0,Indiana,Pacers,IND,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,245,5,11,2,7:48 PM,7:18,,,Wizards Turnover: Shot Clock (T#7),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,246,1,75,2,7:49 PM,7:01,Sabonis 1' Driving Finger Roll Layup (12 PTS) (McConnell 2 AST),,,43 - 48,5,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,248,2,1,2,7:49 PM,6:45,,,MISS Lopez 10' Jump Shot,,,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,249,4,0,2,7:49 PM,6:43,McConnell REBOUND (Off:0 Def:3),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,250,5,1,2,7:49 PM,6:36,Sabonis Bad Pass Turnover (P1.T6),,Beal STEAL (1 STL),,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,252,1,41,2,7:49 PM,6:33,,,Beal 2' Running Layup (15 PTS),45 - 48,3,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,253,7,2,2,7:49 PM,6:33,Bitadze Violation:Defensive Goaltending (T.Washington),,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022001012,254,6,2,2,7:50 PM,6:33,Holiday S.FOUL (P2.T4) (T.Washington),,,,,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,256,8,0,2,7:50 PM,6:33,SUB: LeVert FOR Holiday,,,,,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,257,8,0,2,7:50 PM,6:33,,,SUB: Neto FOR Westbrook,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,258,8,0,2,7:50 PM,6:33,,,SUB: Len FOR Lopez,,,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,262,3,10,2,7:50 PM,6:33,,,MISS Beal Free Throw 1 of 1,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,263,4,0,2,7:50 PM,6:31,Sabonis REBOUND (Off:1 Def:4),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,264,2,79,2,7:51 PM,6:19,MISS McConnell 16' Pullup Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,265,4,0,2,7:51 PM,6:16,,,Hutchison REBOUND (Off:0 Def:3),,,5,1628990,Chandler Hutchison,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,266,1,80,2,7:51 PM,6:09,,,Beal 8' Step Back Jump Shot (17 PTS),47 - 48,1,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,267,2,6,2,7:51 PM,5:54,MISS LeVert 3' Driving Layup,,Hutchison BLOCK (1 BLK),,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1628990,Chandler Hutchison,1610612764.0,Washington,Wizards,WAS,1
+0022001012,269,4,0,2,7:51 PM,5:52,,,Hutchison REBOUND (Off:0 Def:4),,,5,1628990,Chandler Hutchison,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,270,2,41,2,7:51 PM,5:49,,,MISS Hutchison 1' Running Layup,,,5,1628990,Chandler Hutchison,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,271,4,0,2,7:51 PM,5:46,Sabonis REBOUND (Off:1 Def:5),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,272,2,47,2,7:51 PM,5:34,MISS Sabonis 15' Turnaround Jump Shot,,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,273,4,0,2,7:51 PM,5:32,,,Neto REBOUND (Off:0 Def:1),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,274,2,1,2,7:52 PM,5:12,,,MISS Neto 30' 3PT Jump Shot,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,275,4,0,2,7:52 PM,5:10,LeVert REBOUND (Off:0 Def:3),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,276,2,1,2,7:52 PM,5:03,MISS Holiday 24' 3PT Jump Shot,,,,,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,277,4,0,2,7:52 PM,4:58,,,Len REBOUND (Off:3 Def:5),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,278,1,6,2,7:52 PM,4:36,,,Beal 1' Driving Layup (19 PTS),49 - 48,-1,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,279,1,108,2,7:52 PM,4:22,Sabonis 1' Cutting Dunk Shot (14 PTS) (LeVert 5 AST),,,49 - 50,1,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,281,1,66,2,7:53 PM,4:09,,,Beal 28' 3PT Jump Bank Shot (22 PTS) (Neto 2 AST),52 - 50,-2,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,283,9,1,2,7:53 PM,4:01,PACERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,284,8,0,2,7:55 PM,4:01,SUB: Sumner FOR Holiday,,,,,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,285,8,0,2,7:55 PM,4:01,SUB: Brissett FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,286,8,0,2,7:55 PM,4:01,SUB: McDermott FOR Bitadze,,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,287,8,0,2,7:55 PM,4:01,,,SUB: Westbrook FOR Hutchison,,,5,1628990,Chandler Hutchison,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,292,2,75,2,7:56 PM,3:56,MISS Brissett 2' Driving Finger Roll Layup,,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,293,4,0,2,7:56 PM,3:53,,,Westbrook REBOUND (Off:1 Def:4),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,294,5,1,2,7:56 PM,3:39,Sabonis STEAL (3 STL),,Westbrook Bad Pass Turnover (P4.T8),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,296,1,101,2,7:56 PM,3:30,LeVert 11' Driving Floating Jump Shot (6 PTS) (Sabonis 6 AST),,,52 - 52,TIE,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,298,6,2,2,7:57 PM,3:30,,,Neto S.FOUL (P2.T3) (T.Washington),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,300,8,0,2,7:57 PM,3:30,,,SUB: Bertans FOR Neto,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,302,3,10,2,7:57 PM,3:30,LeVert Free Throw 1 of 1 (7 PTS),,,52 - 53,1,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,303,5,4,2,7:57 PM,3:10,,,Len Traveling Turnover (P2.T9),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022001012,304,2,79,2,7:58 PM,2:59,MISS LeVert 9' Pullup Jump Shot,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,305,4,0,2,7:58 PM,2:57,,,Hachimura REBOUND (Off:0 Def:1),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,306,2,75,2,7:58 PM,2:50,,,MISS Hachimura 2' Driving Finger Roll Layup,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,307,4,0,2,7:58 PM,2:47,LeVert REBOUND (Off:0 Def:4),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,308,2,1,2,7:58 PM,2:39,MISS LeVert 3PT Jump Shot,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,309,4,0,2,7:58 PM,2:35,,,Westbrook REBOUND (Off:1 Def:5),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,310,1,5,2,7:58 PM,2:30,,,Hachimura 2' Layup (7 PTS) (Westbrook 7 AST),54 - 53,-1,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,312,2,79,2,7:58 PM,2:22,MISS McDermott 28' 3PT Pullup Jump Shot,,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,313,4,0,2,7:58 PM,2:18,,,Westbrook REBOUND (Off:1 Def:6),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,314,2,1,2,7:59 PM,2:13,,,MISS Beal 25' 3PT Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,315,4,0,2,7:59 PM,2:11,LeVert REBOUND (Off:0 Def:5),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,316,1,41,2,7:59 PM,2:06,Sumner 1' Running Layup (5 PTS) (LeVert 6 AST),,,54 - 55,1,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,318,6,2,2,7:59 PM,1:50,Sabonis S.FOUL (P1.PN) (D.Richardson),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,320,3,11,2,8:00 PM,1:50,,,Beal Free Throw 1 of 2 (23 PTS),55 - 55,TIE,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,321,3,12,2,8:00 PM,1:50,,,MISS Beal Free Throw 2 of 2,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,322,4,0,2,8:00 PM,1:47,,,Len REBOUND (Off:4 Def:5),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,323,2,97,2,8:00 PM,1:47,,,MISS Len Tip Layup Shot,,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,324,4,0,2,8:00 PM,1:46,Sabonis REBOUND (Off:1 Def:6),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,325,2,75,2,8:00 PM,1:36,MISS McDermott 2' Driving Finger Roll Layup,,Len BLOCK (2 BLK),,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,1
+0022001012,327,4,0,2,8:00 PM,1:35,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,329,6,2,2,8:00 PM,1:25,Brissett S.FOUL (P1.PN) (T.Washington),,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,331,3,11,2,8:01 PM,1:25,,,Len Free Throw 1 of 2 (7 PTS),56 - 55,-1,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,332,3,12,2,8:01 PM,1:25,,,Len Free Throw 2 of 2 (8 PTS),57 - 55,-2,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,333,6,2,2,8:02 PM,1:17,,,Len S.FOUL (P3.T4) (H.Workman),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,335,3,11,2,8:02 PM,1:17,LeVert Free Throw 1 of 2 (8 PTS),,,57 - 56,-1,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,336,8,0,2,8:02 PM,1:17,,,SUB: Lopez FOR Len,,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,338,3,12,2,8:02 PM,1:17,LeVert Free Throw 2 of 2 (9 PTS),,,57 - 57,TIE,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,339,2,1,2,8:03 PM,1:06,,,MISS Bertans 27' 3PT Jump Shot,,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,340,4,0,2,8:03 PM,1:02,,,Beal REBOUND (Off:3 Def:0),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,341,1,6,2,8:03 PM,0:58,,,Beal 1' Driving Layup (25 PTS),59 - 57,-2,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,342,6,2,2,8:03 PM,0:58,Brissett S.FOUL (P2.PN) (H.Workman),,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,344,3,10,2,8:03 PM,0:58,,,Beal Free Throw 1 of 1 (26 PTS),60 - 57,-3,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,345,2,80,2,8:03 PM,0:49,MISS LeVert 26' 3PT Step Back Jump Shot,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,346,4,0,2,8:03 PM,0:47,,,Lopez REBOUND (Off:1 Def:2),,,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,347,5,1,2,8:04 PM,0:40,Brissett STEAL (1 STL),,Westbrook Bad Pass Turnover (P5.T10),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,349,1,76,2,8:04 PM,0:34,Sumner 1' Running Finger Roll Layup (7 PTS),,,60 - 59,-1,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,350,2,1,2,8:04 PM,0:29,,,MISS Bertans 3PT Jump Shot,,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,351,4,0,2,8:04 PM,0:26,LeVert REBOUND (Off:0 Def:6),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,352,1,98,2,8:04 PM,0:13,Sabonis 1' Cutting Layup Shot (16 PTS) (LeVert 7 AST),,,60 - 61,1,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,354,6,2,2,8:04 PM,0:13,,,Beal S.FOUL (P1.PN) (D.Richardson),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,356,8,0,2,8:04 PM,0:13,SUB: Holiday FOR Brissett,,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,357,8,0,2,8:04 PM,0:13,SUB: McConnell FOR McDermott,,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,358,8,0,2,8:04 PM,0:13,SUB: Holiday FOR LeVert,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,362,3,10,2,8:05 PM,0:13,Sabonis Free Throw 1 of 1 (17 PTS),,,60 - 62,2,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,363,1,1,2,8:05 PM,0:00,,,Westbrook 24' 3PT Jump Shot (15 PTS) (Beal 1 AST),63 - 62,-1,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,365,18,0,2,8:05 PM,0:00,,Instant Replay2nd Period (8:05 PM EST),,63 - 62,-1,0,363,Christian Laettner,,,,,0,0,,,,,,1,0,,,,,,0
+0022001012,366,13,0,2,8:06 PM,0:00,,End of 2nd Period (8:06 PM EST),,63 - 62,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022001012,377,12,0,3,8:21 PM,12:00,,Start of 3rd Period (8:21 PM EST),,63 - 62,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,378,1,99,3,8:22 PM,11:48,McDermott 3' Cutting Finger Roll Layup Shot (11 PTS) (Sabonis 7 AST),,,63 - 64,1,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,380,1,6,3,8:22 PM,11:34,,,Beal 1' Driving Layup (28 PTS),65 - 64,-1,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,381,6,28,3,8:22 PM,11:30,,,Westbrook Personal Take Foul (P1.T1) (D.Richardson),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,383,8,0,3,8:22 PM,11:30,,,SUB: Mathews FOR Beal,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,385,2,6,3,8:22 PM,11:22,MISS Sumner 2' Driving Layup,,,,,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,386,4,0,3,8:23 PM,11:20,,,Westbrook REBOUND (Off:1 Def:7),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,397,2,1,3,8:23 PM,11:09,,,MISS Mathews 26' 3PT Jump Shot,,,5,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,398,4,0,3,8:23 PM,11:08,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,389,9,1,3,8:23 PM,11:08,PACERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,390,18,5,3,8:23 PM,11:08,,Instant Replay3rd Period (8:23 PM EST),,65 - 64,-1,0,387,,,,,,0,0,,,,,,1,0,,,,,,1
+0022001012,391,6,4,3,8:26 PM,11:08,,,Mathews OFF.Foul (P1) (T.Washington),,,5,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,393,5,37,3,8:26 PM,11:08,,,Mathews Offensive Foul Turnover (P1.T11),,,5,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022001012,394,1,79,3,8:26 PM,10:59,LeVert 10' Pullup Jump Shot (11 PTS) (McDermott 1 AST),,,65 - 66,1,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,396,1,1,3,8:27 PM,10:43,,,Hachimura 18' Jump Shot (9 PTS) (Westbrook 8 AST),67 - 66,-1,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,399,2,63,3,8:27 PM,10:29,MISS LeVert 13' Fadeaway Jumper,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,400,4,0,3,8:27 PM,10:26,,,Neto REBOUND (Off:0 Def:2),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,402,5,4,3,8:27 PM,10:19,,,Hachimura Traveling Turnover (P1.T12),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022001012,403,1,108,3,8:27 PM,10:07,Sabonis 1' Cutting Dunk Shot (19 PTS) (LeVert 8 AST),,,67 - 68,1,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,405,2,1,3,8:28 PM,9:49,,,MISS Len 9' Jump Shot,,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,406,4,0,3,8:28 PM,9:48,LeVert REBOUND (Off:0 Def:7),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,407,6,2,3,8:28 PM,9:41,,,Hachimura S.FOUL (P1.T2) (H.Workman),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,409,3,11,3,8:28 PM,9:41,LeVert Free Throw 1 of 2 (12 PTS),,,67 - 69,2,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,410,3,12,3,8:29 PM,9:41,LeVert Free Throw 2 of 2 (13 PTS),,,67 - 70,3,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,411,5,1,3,8:29 PM,9:32,Sumner STEAL (1 STL),,Westbrook Bad Pass Turnover (P6.T13),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,413,2,41,3,8:29 PM,9:29,MISS Sumner 1' Running Layup,,Westbrook BLOCK (1 BLK),,,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1
+0022001012,415,4,0,3,8:29 PM,9:27,LeVert REBOUND (Off:1 Def:7),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,416,1,108,3,8:29 PM,9:23,Brissett 1' Cutting Dunk Shot (6 PTS) (Sabonis 8 AST),,,67 - 72,5,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,418,9,1,3,8:29 PM,9:22,,,Wizards Timeout: Regular (Reg.3 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,419,2,79,3,8:32 PM,9:15,,,MISS Westbrook 18' Pullup Jump Shot,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,420,4,0,3,8:32 PM,9:11,Brissett REBOUND (Off:0 Def:3),,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,421,6,2,3,8:32 PM,9:07,,,Hachimura S.FOUL (P2.T3) (D.Richardson),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,423,3,11,3,8:32 PM,9:07,Sumner Free Throw 1 of 2 (8 PTS),,,67 - 73,6,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,424,8,0,3,8:32 PM,9:07,,,SUB: Bertans FOR Hachimura,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,426,3,12,3,8:33 PM,9:07,Sumner Free Throw 2 of 2 (9 PTS),,,67 - 74,7,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,427,2,1,3,8:33 PM,8:53,,,MISS Mathews 27' 3PT Jump Shot,,,5,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,428,4,0,3,8:33 PM,8:48,Sabonis REBOUND (Off:1 Def:7),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,429,1,76,3,8:33 PM,8:43,Sumner 1' Running Finger Roll Layup (11 PTS) (Sabonis 9 AST),,,67 - 76,9,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,431,6,2,3,8:33 PM,8:35,LeVert S.FOUL (P3.T1) (T.Washington),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,433,3,11,3,8:34 PM,8:35,,,Westbrook Free Throw 1 of 2 (16 PTS),68 - 76,8,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,434,8,0,3,8:34 PM,8:35,,,SUB: Beal FOR Mathews,,,5,1629726,Garrison Mathews,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,436,3,12,3,8:34 PM,8:35,,,Westbrook Free Throw 2 of 2 (17 PTS),69 - 76,7,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,437,1,78,3,8:34 PM,8:24,LeVert 13' Floating Jump Shot (15 PTS),,,69 - 78,9,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,438,1,75,3,8:34 PM,8:14,,,Westbrook 2' Driving Finger Roll Layup (19 PTS),71 - 78,7,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,439,2,79,3,8:34 PM,8:06,MISS LeVert 10' Pullup Jump Shot,,Len BLOCK (3 BLK),,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,1
+0022001012,441,4,0,3,8:35 PM,8:03,,,Len REBOUND (Off:4 Def:6),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,442,6,2,3,8:35 PM,8:02,McDermott S.FOUL (P2.T2) (H.Workman),,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,444,3,11,3,8:35 PM,8:02,,,Neto Free Throw 1 of 2 (1 PTS),72 - 78,6,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,445,3,12,3,8:35 PM,8:02,,,Neto Free Throw 2 of 2 (2 PTS),73 - 78,5,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,446,1,98,3,8:36 PM,7:39,Brissett 1' Cutting Layup Shot (8 PTS) (Sumner 1 AST),,,73 - 80,7,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,448,1,1,3,8:36 PM,7:27,,,Bertans 26' 3PT Jump Shot (4 PTS) (Westbrook 9 AST),76 - 80,4,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,450,2,1,3,8:36 PM,7:16,MISS McDermott 26' 3PT Jump Shot,,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,451,4,0,3,8:36 PM,7:12,,,Westbrook REBOUND (Off:1 Def:8),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,452,2,76,3,8:36 PM,7:08,,,MISS Westbrook 1' Running Finger Roll Layup,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,453,4,0,3,8:36 PM,7:06,Sabonis REBOUND (Off:1 Def:8),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,454,5,1,3,8:36 PM,7:02,Sabonis Bad Pass Turnover (P2.T7),,Neto STEAL (3 STL),,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,456,5,2,3,8:36 PM,6:55,Sumner STEAL (2 STL),,Neto Lost Ball Turnover (P1.T14),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,458,6,2,3,8:37 PM,6:53,,,Len S.FOUL (P4.T4) (H.Workman),,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,460,3,11,3,8:37 PM,6:53,Brissett Free Throw 1 of 2 (9 PTS),,,76 - 81,5,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,463,3,12,3,8:37 PM,6:53,Brissett Free Throw 2 of 2 (10 PTS),,,76 - 82,6,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,461,8,0,3,8:37 PM,6:53,,,SUB: Lopez FOR Len,,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,464,2,1,3,8:38 PM,6:35,,,MISS Neto 3PT Jump Shot,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,465,4,0,3,8:38 PM,6:32,LeVert REBOUND (Off:1 Def:8),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,466,2,98,3,8:38 PM,6:27,MISS Sabonis 2' Cutting Layup Shot,,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,468,4,0,3,8:38 PM,6:23,,,Westbrook REBOUND (Off:1 Def:9),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,469,6,2,3,8:38 PM,6:23,McDermott S.FOUL (P3.T3) (H.Workman),,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,471,6,11,3,8:38 PM,6:23,Sabonis T.FOUL (P1.T3) (T.Washington),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022001012,472,3,16,3,8:38 PM,6:23,,,Beal Free Throw Technical (29 PTS),77 - 82,5,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,473,3,11,3,8:39 PM,6:23,,,Westbrook Free Throw 1 of 2 (20 PTS),78 - 82,4,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,474,3,12,3,8:39 PM,6:23,,,Westbrook Free Throw 2 of 2 (21 PTS),79 - 82,3,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,475,5,45,3,8:39 PM,6:08,Sumner Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,,,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022001012,476,8,0,3,8:39 PM,6:08,,,SUB: Smith FOR Westbrook,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,478,1,79,3,8:40 PM,6:00,,,Beal 18' Pullup Jump Shot (31 PTS),81 - 82,1,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,479,6,2,3,8:40 PM,5:49,,,Smith S.FOUL (P2.PN) (T.Washington),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,481,3,11,3,8:40 PM,5:49,LeVert Free Throw 1 of 2 (16 PTS),,,81 - 83,2,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,482,3,12,3,8:41 PM,5:49,LeVert Free Throw 2 of 2 (17 PTS),,,81 - 84,3,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,483,1,79,3,8:41 PM,5:41,,,Beal 8' Pullup Jump Shot (33 PTS),83 - 84,1,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,484,5,45,3,8:41 PM,5:27,LeVert Out of Bounds - Bad Pass Turnover Turnover (P4.T9),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022001012,485,2,75,3,8:41 PM,5:18,,,MISS Beal 1' Driving Finger Roll Layup,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,486,4,0,3,8:41 PM,5:15,Sumner REBOUND (Off:0 Def:1),,,,,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,487,5,1,3,8:41 PM,5:10,Sumner Bad Pass Turnover (P2.T10),,Bertans STEAL (1 STL),,,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,489,2,99,3,8:42 PM,5:05,,,MISS Beal Cutting Finger Roll Layup Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,490,4,0,3,8:42 PM,5:04,Sabonis REBOUND (Off:1 Def:9),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,491,6,1,3,8:42 PM,5:04,,,Neto P.FOUL (P3.PN) (T.Washington),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,493,3,11,3,8:42 PM,5:04,Sabonis Free Throw 1 of 2 (20 PTS),,,83 - 85,2,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,494,8,0,3,8:42 PM,5:04,SUB: Holiday FOR Sumner,,,,,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,495,8,0,3,8:42 PM,5:04,SUB: McConnell FOR Brissett,,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,498,3,12,3,8:43 PM,5:04,Sabonis Free Throw 2 of 2 (21 PTS),,,83 - 86,3,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,499,2,79,3,8:43 PM,4:48,,,MISS Smith 12' Pullup Jump Shot,,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,500,4,0,3,8:43 PM,4:44,McConnell REBOUND (Off:0 Def:4),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,501,2,79,3,8:43 PM,4:38,MISS LeVert 25' 3PT Pullup Jump Shot,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,502,4,0,3,8:43 PM,4:35,,,Neto REBOUND (Off:0 Def:3),,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,503,1,41,3,8:43 PM,4:33,,,Smith 1' Running Layup (4 PTS) (Neto 3 AST),85 - 86,1,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,505,9,1,3,8:43 PM,4:32,PACERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,506,2,63,3,8:45 PM,4:13,MISS Holiday 15' Fadeaway Jumper,,,,,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,507,4,0,3,8:45 PM,4:10,,,Smith REBOUND (Off:0 Def:4),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,508,2,1,3,8:45 PM,4:01,,,MISS Bertans 3PT Jump Shot,,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,509,4,0,3,8:45 PM,3:58,LeVert REBOUND (Off:1 Def:9),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,510,1,75,3,8:46 PM,3:49,LeVert 2' Driving Finger Roll Layup (19 PTS),,,85 - 88,3,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,512,8,0,3,8:46 PM,3:30,SUB: Holiday FOR McDermott,,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,514,5,11,3,8:46 PM,3:22,,,Wizards Turnover: Shot Clock (T#15),,,3,1610612764,,,,,,0,0,,,,,,1,0,,,,,,0
+0022001012,515,1,79,3,8:47 PM,3:05,Sabonis 17' Pullup Jump Shot (23 PTS),,,85 - 90,5,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,516,2,6,3,8:47 PM,2:51,,,MISS Smith 1' Driving Layup,,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,517,4,0,3,8:47 PM,2:51,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,518,6,3,3,8:47 PM,2:51,,,Lopez L.B.FOUL (P2.PN) (H.Workman),,,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,520,3,11,3,8:48 PM,2:51,Sabonis Free Throw 1 of 2 (24 PTS),,,85 - 91,6,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,521,8,0,3,8:48 PM,2:51,,,SUB: Westbrook FOR Neto,,,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,523,3,12,3,8:48 PM,2:51,Sabonis Free Throw 2 of 2 (25 PTS),,,85 - 92,7,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,524,5,1,3,8:49 PM,2:35,LeVert STEAL (2 STL),,Beal Bad Pass Turnover (P1.T16),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,526,2,58,3,8:49 PM,2:27,MISS Sabonis 5' Turnaround Hook Shot,,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,527,4,0,3,8:49 PM,2:23,,,Westbrook REBOUND (Off:1 Def:10),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,528,2,103,3,8:49 PM,2:20,,,MISS Westbrook 19' Running Pull-Up Jump Shot,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,529,4,0,3,8:49 PM,2:18,Holiday REBOUND (Off:1 Def:1),,,,,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,530,1,98,3,8:49 PM,2:14,Sabonis 1' Cutting Layup Shot (27 PTS) (McConnell 3 AST),,,85 - 94,9,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,532,6,2,3,8:49 PM,2:14,,,Bertans S.FOUL (P1.PN) (T.Washington),,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,534,3,10,3,8:49 PM,2:14,Sabonis Free Throw 1 of 1 (28 PTS),,,85 - 95,10,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,535,2,1,3,8:50 PM,2:06,,,MISS Beal 25' 3PT Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,536,4,0,3,8:50 PM,2:02,Sabonis REBOUND (Off:1 Def:10),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,537,2,102,3,8:50 PM,1:50,MISS LeVert 2' Driving Floating Bank Jump Shot,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,538,4,0,3,8:50 PM,1:48,,,Lopez REBOUND (Off:1 Def:3),,,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,539,1,78,3,8:50 PM,1:39,,,Beal 11' Floating Jump Shot (35 PTS) (Westbrook 10 AST),87 - 95,8,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,541,2,1,3,8:50 PM,1:23,MISS Holiday 27' 3PT Jump Shot,,,,,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,542,4,0,3,8:50 PM,1:21,LeVert REBOUND (Off:2 Def:9),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,543,2,1,3,8:50 PM,1:20,MISS Sabonis 27' 3PT Jump Shot,,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,544,4,0,3,8:50 PM,1:17,,,Westbrook REBOUND (Off:1 Def:11),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,545,2,1,3,8:50 PM,1:11,,,MISS Beal 26' 3PT Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,546,4,0,3,8:51 PM,1:08,McConnell REBOUND (Off:0 Def:5),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,547,2,1,3,8:51 PM,0:52,MISS Sabonis 27' 3PT Jump Shot,,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,548,4,0,3,8:51 PM,0:49,,,Smith REBOUND (Off:0 Def:5),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,549,1,3,3,8:51 PM,0:43,,,Lopez 7' Hook Shot (4 PTS) (Smith 4 AST),89 - 95,6,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,551,1,79,3,8:51 PM,0:32,LeVert 27' 3PT Pullup Jump Shot (22 PTS) (Sabonis 10 AST),,,89 - 98,9,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,553,1,79,3,8:51 PM,0:29,,,Westbrook 30' 3PT Pullup Jump Shot (24 PTS),92 - 98,6,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,555,8,0,3,8:52 PM,0:07,,,SUB: Hachimura FOR Bertans,,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,557,1,103,3,8:52 PM,0:04,LeVert 27' 3PT Running Pull-Up Jump Shot (25 PTS) (Sabonis 11 AST),,,92 - 101,9,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,559,2,103,3,8:52 PM,0:00,,,MISS Smith 29' 3PT Running Pull-Up Jump Shot,,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,560,4,0,3,8:52 PM,0:00,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,561,13,0,3,8:52 PM,0:00,,End of 3rd Period (8:52 PM EST),,92 - 101,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022001012,566,12,0,4,8:55 PM,12:00,,Start of 4th Period (8:55 PM EST),,92 - 101,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,567,1,75,4,8:56 PM,11:48,,,Beal 2' Driving Finger Roll Layup (37 PTS),94 - 101,7,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,568,2,1,4,8:56 PM,11:31,MISS Bitadze 4' Jump Shot,,Beal BLOCK (1 BLK),,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1
+0022001012,570,4,0,4,8:56 PM,11:29,,,Smith REBOUND (Off:0 Def:6),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,571,6,2,4,8:56 PM,11:26,Bitadze S.FOUL (P2.T1) (D.Richardson),,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,573,3,11,4,8:56 PM,11:26,,,Beal Free Throw 1 of 2 (38 PTS),95 - 101,6,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,574,3,12,4,8:57 PM,11:26,,,Beal Free Throw 2 of 2 (39 PTS),96 - 101,5,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,575,2,101,4,8:57 PM,11:13,MISS Holiday 11' Driving Floating Jump Shot,,,,,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,576,4,0,4,8:57 PM,11:10,,,Smith REBOUND (Off:0 Def:7),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,577,5,2,4,8:57 PM,11:06,Holiday STEAL (1 STL),,Smith Lost Ball Turnover (P1.T17),,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,579,2,103,4,8:57 PM,11:03,MISS Holiday 27' 3PT Running Pull-Up Jump Shot,,,,,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,580,4,0,4,8:57 PM,11:01,Bitadze REBOUND (Off:1 Def:0),,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,581,1,87,4,8:57 PM,10:59,Bitadze 1' Putback Dunk (5 PTS),,,96 - 103,7,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,582,2,1,4,8:57 PM,10:41,,,MISS Westbrook 25' 3PT Jump Shot,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,583,4,0,4,8:57 PM,10:39,McConnell REBOUND (Off:0 Def:6),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,584,1,79,4,8:58 PM,10:23,McConnell 17' Pullup Jump Shot (8 PTS) (Bitadze 1 AST),,,96 - 105,9,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,586,1,1,4,8:58 PM,10:01,,,Smith 25' 3PT Jump Shot (7 PTS) (Westbrook 11 AST),99 - 105,6,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,588,6,2,4,8:58 PM,9:47,,,Westbrook S.FOUL (P2.T1) (H.Workman),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,590,3,11,4,8:59 PM,9:47,Holiday Free Throw 1 of 2 (4 PTS),,,99 - 106,7,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,591,8,0,4,8:59 PM,9:47,,,SUB: Gafford FOR Lopez,,,5,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,593,3,12,4,8:59 PM,9:47,Holiday Free Throw 2 of 2 (5 PTS),,,99 - 107,8,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,594,2,79,4,8:59 PM,9:35,,,MISS Hachimura 17' Pullup Jump Shot,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,595,4,0,4,8:59 PM,9:33,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,597,1,80,4,9:00 PM,9:18,Holiday 21' Step Back Jump Shot (6 PTS),,,99 - 109,10,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,598,6,2,4,9:00 PM,9:07,Holiday S.FOUL (P1.T2) (H.Workman),,,,,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,600,3,11,4,9:00 PM,9:07,,,MISS Westbrook Free Throw 1 of 2,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,601,4,1,4,9:00 PM,9:07,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,602,8,0,4,9:00 PM,9:07,,,SUB: Bertans FOR Smith,,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,604,3,12,4,9:01 PM,9:07,,,Westbrook Free Throw 2 of 2 (25 PTS),100 - 109,9,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,605,1,1,4,9:01 PM,8:50,Martin 29' 3PT Jump Shot (3 PTS) (Bitadze 2 AST),,,100 - 112,12,4,1629103,Kelan Martin,1610612754.0,Indiana,Pacers,IND,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,607,1,7,4,9:01 PM,8:35,,,Gafford 2' Dunk (4 PTS) (Westbrook 12 AST),102 - 112,10,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,609,2,1,4,9:01 PM,8:24,MISS Bitadze 27' 3PT Jump Shot,,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,610,4,0,4,9:01 PM,8:21,,,Westbrook REBOUND (Off:1 Def:12),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,611,5,1,4,9:02 PM,8:11,Bitadze STEAL (1 STL),,Westbrook Bad Pass Turnover (P7.T18),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,613,2,1,4,9:02 PM,8:07,MISS Holiday 26' 3PT Jump Shot,,,,,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,614,4,0,4,9:02 PM,8:02,Bitadze REBOUND (Off:2 Def:0),,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,615,1,5,4,9:02 PM,7:56,Bitadze 2' Layup (7 PTS) (Holiday 3 AST),,,102 - 114,12,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,617,9,1,4,9:02 PM,7:56,,,Wizards Timeout: Regular (Reg.4 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,618,1,1,4,9:05 PM,7:34,,,Beal 28' 3PT Jump Shot (42 PTS) (Hachimura 1 AST),105 - 114,9,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,620,2,79,4,9:05 PM,7:14,MISS Holiday 18' Pullup Jump Shot,,,,,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,621,4,0,4,9:05 PM,7:12,,,Hachimura REBOUND (Off:0 Def:2),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,622,6,1,4,9:06 PM,7:01,Holiday P.FOUL (P3.T3) (T.Washington),,,,,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,624,2,101,4,9:06 PM,6:51,Bitadze BLOCK (3 BLK),,MISS Beal 2' Driving Floating Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,1
+0022001012,626,4,0,4,9:06 PM,6:51,,,Beal REBOUND (Off:4 Def:0),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,627,6,2,4,9:06 PM,6:51,Martin S.FOUL (P2.T4) (D.Richardson),,,,,4,1629103,Kelan Martin,1610612754.0,Indiana,Pacers,IND,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,629,3,11,4,9:07 PM,6:51,,,Beal Free Throw 1 of 2 (43 PTS),106 - 114,8,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,630,8,0,4,9:07 PM,6:51,SUB: Sabonis FOR Holiday,,,,,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,631,8,0,4,9:07 PM,6:51,SUB: LeVert FOR Holiday,,,,,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,634,3,12,4,9:07 PM,6:51,,,Beal Free Throw 2 of 2 (44 PTS),107 - 114,7,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,635,5,2,4,9:07 PM,6:34,Sabonis Lost Ball Turnover (P3.T11),,Westbrook STEAL (1 STL),,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,637,1,41,4,9:07 PM,6:29,,,Bertans 1' Running Layup (6 PTS) (Westbrook 13 AST),109 - 114,5,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,639,9,1,4,9:08 PM,6:29,PACERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,640,2,80,4,9:11 PM,6:13,MISS LeVert 27' 3PT Step Back Jump Shot,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,641,4,0,4,9:11 PM,6:10,LeVert REBOUND (Off:3 Def:9),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,642,1,101,4,9:11 PM,6:00,Martin 7' Driving Floating Jump Shot (5 PTS) (Sabonis 12 AST),,,109 - 116,7,4,1629103,Kelan Martin,1610612754.0,Indiana,Pacers,IND,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,643,6,1,4,9:11 PM,5:46,Martin P.FOUL (P3.PN) (T.Washington),,,,,4,1629103,Kelan Martin,1610612754.0,Indiana,Pacers,IND,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,645,3,11,4,9:11 PM,5:46,,,Beal Free Throw 1 of 2 (45 PTS),110 - 116,6,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,647,3,12,4,9:12 PM,5:46,,,Beal Free Throw 2 of 2 (46 PTS),111 - 116,5,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,648,6,2,4,9:12 PM,5:28,,,Gafford S.FOUL (P4.T2) (T.Washington),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,650,3,11,4,9:12 PM,5:28,LeVert Free Throw 1 of 2 (26 PTS),,,111 - 117,6,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,655,3,12,4,9:12 PM,5:28,MISS LeVert Free Throw 2 of 2,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,651,8,0,4,9:12 PM,5:28,SUB: Sumner FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,652,8,0,4,9:12 PM,5:28,SUB: McDermott FOR Bitadze,,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,656,4,0,4,9:12 PM,5:26,,,Westbrook REBOUND (Off:1 Def:13),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,657,6,1,4,9:13 PM,5:19,Sumner P.FOUL (P1.PN) (H.Workman),,,,,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,659,3,11,4,9:13 PM,5:19,,,MISS Bertans Free Throw 1 of 2,,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,660,4,1,4,9:13 PM,5:19,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,661,3,12,4,9:14 PM,5:19,,,Bertans Free Throw 2 of 2 (7 PTS),112 - 117,5,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,662,6,26,4,9:14 PM,5:08,Sabonis Offensive Charge Foul (P2.PN) (H.Workman),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,664,5,37,4,9:14 PM,5:08,Sabonis Offensive Foul Turnover (P4.T12),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022001012,665,2,1,4,9:14 PM,4:55,,,MISS Hachimura 3PT Jump Shot,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,666,4,0,4,9:14 PM,4:51,LeVert REBOUND (Off:3 Def:10),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,667,2,5,4,9:14 PM,4:46,MISS Sumner 1' Layup,,Beal BLOCK (2 BLK),,,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1
+0022001012,669,4,0,4,9:15 PM,4:44,,,Hachimura REBOUND (Off:0 Def:3),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,670,2,1,4,9:15 PM,4:40,,,MISS Bertans 26' 3PT Jump Shot,,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,671,4,0,4,9:15 PM,4:36,,,Hachimura REBOUND (Off:1 Def:3),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,672,2,1,4,9:15 PM,4:34,,,MISS Westbrook 26' 3PT Jump Shot,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,673,4,0,4,9:15 PM,4:31,Martin REBOUND (Off:0 Def:2),,,,,4,1629103,Kelan Martin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,674,2,79,4,9:15 PM,4:12,MISS LeVert 14' Pullup Jump Shot,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,675,4,0,4,9:15 PM,4:09,,,Beal REBOUND (Off:4 Def:1),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,676,2,103,4,9:15 PM,4:04,,,MISS Beal 26' 3PT Running Pull-Up Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,677,4,0,4,9:15 PM,3:59,,,Westbrook REBOUND (Off:2 Def:13),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,678,1,7,4,9:15 PM,3:57,,,Hachimura 1' Dunk (11 PTS) (Westbrook 14 AST),114 - 117,3,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,680,5,1,4,9:16 PM,3:38,LeVert Bad Pass Turnover (P5.T13),,Gafford STEAL (1 STL),,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,682,1,73,4,9:16 PM,3:26,,,Beal 1' Driving Reverse Layup (48 PTS),116 - 117,1,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,684,6,2,4,9:16 PM,3:14,,,Westbrook S.FOUL (P3.T3) (H.Workman),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,686,3,11,4,9:16 PM,3:14,MISS LeVert Free Throw 1 of 2,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,687,4,1,4,9:16 PM,3:14,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,689,3,12,4,9:16 PM,3:14,MISS LeVert Free Throw 2 of 2,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,688,9,1,4,9:17 PM,3:14,,,Wizards Timeout: Regular (Reg.5 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,690,4,0,4,9:16 PM,3:13,,,Westbrook REBOUND (Off:2 Def:14),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,691,2,5,4,9:19 PM,2:58,,,MISS Gafford 1' Layup,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,692,4,0,4,9:19 PM,2:55,,,Westbrook REBOUND (Off:3 Def:14),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,693,2,79,4,9:19 PM,2:50,,,MISS Westbrook 17' Pullup Jump Shot,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,694,4,0,4,9:19 PM,2:47,Sabonis REBOUND (Off:1 Def:11),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,695,1,78,4,9:19 PM,2:26,LeVert 13' Floating Jump Shot (28 PTS),,,116 - 119,3,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,696,1,44,4,9:19 PM,2:07,,,Hachimura 1' Reverse Layup (13 PTS) (Gafford 1 AST),118 - 119,1,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,698,2,101,4,9:20 PM,1:41,MISS Martin 14' Driving Floating Jump Shot,,,,,4,1629103,Kelan Martin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,699,4,0,4,9:20 PM,1:38,,,Hachimura REBOUND (Off:1 Def:4),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,700,1,75,4,9:20 PM,1:28,,,Beal 3' Driving Finger Roll Layup (50 PTS),120 - 119,-1,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,701,9,1,4,9:20 PM,1:28,PACERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,702,8,0,4,9:21 PM,1:28,SUB: Holiday FOR Martin,,,,,4,1629103,Kelan Martin,1610612754.0,Indiana,Pacers,IND,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,704,1,79,4,9:22 PM,1:15,LeVert 27' 3PT Pullup Jump Shot (31 PTS),,,120 - 122,2,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,705,2,102,4,9:22 PM,1:03,,,MISS Beal 10' Driving Floating Bank Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,706,4,0,4,9:22 PM,1:00,McDermott REBOUND (Off:0 Def:2),,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,707,2,75,4,9:23 PM,0:48,MISS LeVert 2' Driving Finger Roll Layup,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,708,4,0,4,9:23 PM,0:48,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,710,6,3,4,9:23 PM,0:48,Sabonis L.B.FOUL (P3.PN) (T.Washington),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,712,3,11,4,9:23 PM,0:48,,,Gafford Free Throw 1 of 2 (5 PTS),121 - 122,1,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,713,3,12,4,9:24 PM,0:48,,,Gafford Free Throw 2 of 2 (6 PTS),122 - 122,TIE,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,714,2,86,4,9:24 PM,0:31,MISS LeVert 14' Turnaround Fadeaway Shot,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,715,4,0,4,9:24 PM,0:27,,,Hachimura REBOUND (Off:1 Def:5),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,716,1,76,4,9:24 PM,0:21,,,Westbrook Running Finger Roll Layup (27 PTS),124 - 122,-2,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,717,9,1,4,9:25 PM,0:21,PACERS Timeout: Regular (Full 7 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,718,8,0,4,9:26 PM,0:21,,,SUB: Smith FOR Beal,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,719,8,0,4,9:26 PM,0:21,,,SUB: Neto FOR Bertans,,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,722,1,6,4,9:26 PM,0:13,LeVert 1' Driving Layup (33 PTS),,,124 - 124,TIE,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,723,9,1,4,9:27 PM,0:13,,,Wizards Timeout: Regular (Reg.6 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,724,8,0,4,9:27 PM,0:13,SUB: Holiday FOR Holiday,,,,,4,1628988,Aaron Holiday,1610612754.0,Indiana,Pacers,IND,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,725,8,0,4,9:27 PM,0:13,SUB: Brissett FOR McDermott,,,,,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,726,8,0,4,9:27 PM,0:13,,,SUB: Bertans FOR Smith,,,5,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,730,2,79,4,9:28 PM,0:00,,,MISS Westbrook 17' Pullup Jump Shot,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,731,4,0,4,9:28 PM,0:00,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,732,13,0,4,9:28 PM,0:00,,End of 4th Period (9:28 PM EST),,124 - 124,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022001012,733,12,0,5,9:31 PM,5:00,,Start of 1st OT (9:31 PM EST),,124 - 124,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,735,10,0,5,9:31 PM,5:00,Jump Ball Sabonis vs. Gafford: Tip to Westbrook,,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1
+0022001012,738,2,1,5,9:32 PM,4:47,,,MISS Hachimura 24' 3PT Jump Shot,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,739,4,0,5,9:32 PM,4:44,Sumner REBOUND (Off:0 Def:2),,,,,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,740,1,86,5,9:32 PM,4:24,Sabonis 6' Turnaround Fadeaway (30 PTS),,,124 - 126,2,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,741,1,63,5,9:32 PM,4:00,,,Westbrook 17' Fadeaway Jumper (29 PTS),126 - 126,TIE,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,742,1,108,5,9:33 PM,3:37,Brissett 1' Cutting Dunk Shot (12 PTS) (Sabonis 13 AST),,,126 - 128,2,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,744,2,79,5,9:33 PM,3:20,,,MISS Hachimura 16' Pullup Jump Shot,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,745,4,0,5,9:33 PM,3:19,LeVert REBOUND (Off:3 Def:11),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,746,2,1,5,9:33 PM,2:59,MISS Sabonis 14' Jump Shot,,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,747,4,0,5,9:33 PM,2:56,,,Westbrook REBOUND (Off:3 Def:15),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,748,2,79,5,9:34 PM,2:44,,,MISS Westbrook 25' 3PT Pullup Jump Shot,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,749,4,0,5,9:34 PM,2:42,Brissett REBOUND (Off:0 Def:4),,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,750,1,6,5,9:34 PM,2:34,LeVert 2' Driving Layup (35 PTS),,,126 - 130,4,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,751,1,1,5,9:34 PM,2:18,,,Bertans 27' 3PT Jump Shot (10 PTS) (Westbrook 15 AST),129 - 130,1,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022001012,753,2,63,5,9:34 PM,1:55,MISS LeVert 10' Fadeaway Jumper,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,754,4,0,5,9:34 PM,1:52,,,Gafford REBOUND (Off:0 Def:1),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,755,2,1,5,9:35 PM,1:40,,,MISS Bertans 32' 3PT Jump Shot,,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,756,4,0,5,9:35 PM,1:37,,,Westbrook REBOUND (Off:4 Def:15),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,758,1,75,5,9:35 PM,1:29,,,Westbrook 1' Driving Finger Roll Layup (31 PTS),131 - 130,-1,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,759,6,1,5,9:35 PM,1:18,,,Westbrook P.FOUL (P4.T1) (H.Workman),,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022001012,761,8,0,5,9:35 PM,1:18,,,SUB: Len FOR Gafford,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,763,1,79,5,9:36 PM,1:03,Sumner 16' Pullup Jump Shot (13 PTS) (Holiday 2 AST),,,131 - 132,1,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022001012,765,9,1,5,9:36 PM,1:03,,,Wizards Timeout: Regular (Reg.7 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,766,8,0,5,9:37 PM,1:03,,,SUB: Gafford FOR Len,,,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,768,2,101,5,9:38 PM,0:44,,,MISS Westbrook 3' Driving Floating Jump Shot,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,769,4,0,5,9:38 PM,0:41,Sabonis REBOUND (Off:1 Def:12),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,770,2,79,5,9:39 PM,0:20,MISS LeVert 19' Pullup Jump Shot,,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022001012,771,4,0,5,9:39 PM,0:18,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,772,6,3,5,9:39 PM,0:18,Sabonis L.B.FOUL (P4.T1) (D.Richardson),,,,,4,1627734,Domantas Sabonis,1610612754.0,Indiana,Pacers,IND,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,774,2,75,5,9:39 PM,0:10,Holiday BLOCK (2 BLK),,MISS Westbrook 1' Driving Finger Roll Layup,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,1
+0022001012,776,4,0,5,9:39 PM,0:08,,,Gafford REBOUND (Off:1 Def:1),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,777,9,1,5,9:39 PM,0:08,,,Wizards Timeout: Regular (Reg.8 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,778,6,2,5,9:41 PM,0:01,LeVert S.FOUL (P4.PN) (T.Washington),,,,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022001012,780,3,11,5,9:42 PM,0:01,,,Westbrook Free Throw 1 of 2 (32 PTS),132 - 132,TIE,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,781,8,0,5,9:42 PM,0:01,SUB: Bitadze FOR Holiday,,,,,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,783,3,12,5,9:42 PM,0:01,,,Westbrook Free Throw 2 of 2 (33 PTS),133 - 132,-1,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022001012,784,9,1,5,9:42 PM,0:01,PACERS Timeout: Regular (Full 8 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001012,785,8,0,5,9:43 PM,0:01,SUB: McConnell FOR Sumner,,,,,4,1628410,Edmond Sumner,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,786,8,0,5,9:43 PM,0:01,SUB: Holiday FOR Brissett,,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,4,203200,Justin Holiday,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,787,8,0,5,9:43 PM,0:01,SUB: McDermott FOR Bitadze,,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,4,203926,Doug McDermott,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022001012,788,8,0,5,9:43 PM,0:01,,,SUB: Len FOR Bertans,,,5,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022001012,793,2,1,5,9:44 PM,0:00,MISS LeVert 29' 3PT Jump Shot,,Westbrook BLOCK (2 BLK),,,4,1627747,Caris LeVert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1
+0022001012,794,4,0,5,9:44 PM,0:00,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022001012,796,13,0,5,9:44 PM,0:00,,End of 1st OT (9:44 PM EST),,133 - 132,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
