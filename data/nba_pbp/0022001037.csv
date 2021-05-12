@@ -1,0 +1,427 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022001037,2,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,4,10,0,1,8:11 PM,12:00,Jump Ball Tillman vs. Cauley-Stein: Tip to Anderson,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,1
+0022001037,7,6,1,1,8:11 PM,11:46,,,Cauley-Stein P.FOUL (P1.T1) (P.Fraher),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022001037,9,2,79,1,8:11 PM,11:38,MISS Anderson 14' Pullup Jump Shot,,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,10,4,0,1,8:12 PM,11:35,,,Cauley-Stein REBOUND (Off:0 Def:1),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,11,1,52,1,8:12 PM,11:25,,,Finney-Smith 1' Alley Oop Dunk (2 PTS) (Doncic 1 AST),2 - 0,-2,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,13,1,79,1,8:12 PM,11:07,Brooks 25' 3PT Pullup Jump Shot (3 PTS),,,2 - 3,1,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,14,2,1,1,8:12 PM,10:38,,,MISS Richardson 25' 3PT Jump Shot,,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,15,4,0,1,8:13 PM,10:36,Tillman REBOUND (Off:0 Def:1),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,16,1,78,1,8:13 PM,10:24,Tillman 10' Floating Jump Shot (2 PTS) (Morant 1 AST),,,2 - 5,3,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,18,1,63,1,8:13 PM,10:11,,,Doncic 10' Fadeaway Jumper (2 PTS),4 - 5,1,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,19,2,102,1,8:13 PM,9:59,MISS Tillman 7' Driving Floating Bank Jump Shot,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,20,4,0,1,8:13 PM,9:56,,,Cauley-Stein REBOUND (Off:0 Def:2),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,21,1,5,1,8:13 PM,9:45,,,Cauley-Stein 2' Layup (2 PTS) (Doncic 2 AST),6 - 5,-1,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,23,1,79,1,8:14 PM,9:30,Anderson 13' Pullup Jump Shot (2 PTS) (Brooks 1 AST),,,6 - 7,1,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,25,2,79,1,8:14 PM,9:17,,,MISS Doncic 26' 3PT Pullup Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,26,4,0,1,8:14 PM,9:13,Anderson REBOUND (Off:0 Def:1),,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,28,7,5,1,8:14 PM,9:11,,,Finney-Smith Violation:Kicked Ball (P.Fraher),,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0022001037,29,5,40,1,8:14 PM,9:05,Brooks Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022001037,30,2,1,1,8:15 PM,8:45,,,MISS Finney-Smith 25' 3PT Jump Shot,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,31,4,0,1,8:15 PM,8:41,Brooks REBOUND (Off:0 Def:1),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,32,2,41,1,8:15 PM,8:37,MISS Brooks 3' Running Layup,,Finney-Smith BLOCK (1 BLK),,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1
+0022001037,34,4,0,1,8:15 PM,8:37,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,36,6,1,1,8:15 PM,8:35,,,Hardaway Jr. P.FOUL (P1.T2) (P.Fraher),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022001037,38,2,75,1,8:16 PM,8:26,MISS Morant 5' Driving Finger Roll Layup,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,39,4,0,1,8:16 PM,8:21,Morant REBOUND (Off:1 Def:0),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,40,1,97,1,8:16 PM,8:21,Morant Tip Layup Shot (2 PTS),,,6 - 9,3,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,41,2,1,1,8:16 PM,8:10,,,MISS Finney-Smith 3PT Jump Shot,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,42,4,0,1,8:16 PM,8:07,,,Cauley-Stein REBOUND (Off:1 Def:2),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,43,1,96,1,8:16 PM,8:06,,,Cauley-Stein 5' Turnaround Bank Hook Shot (4 PTS),8 - 9,1,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,44,2,79,1,8:16 PM,7:57,MISS Brooks 3PT Pullup Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,45,4,0,1,8:16 PM,7:55,,,Cauley-Stein REBOUND (Off:1 Def:3),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,46,2,80,1,8:16 PM,7:45,,,MISS Doncic 26' 3PT Step Back Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,47,4,0,1,8:17 PM,7:42,Bane REBOUND (Off:0 Def:1),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,48,1,78,1,8:17 PM,7:23,Tillman 5' Floating Jump Shot (4 PTS) (Morant 2 AST),,,8 - 11,3,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,50,2,1,1,8:17 PM,7:04,,,MISS Hardaway Jr. 26' 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,51,4,0,1,8:17 PM,7:00,Morant REBOUND (Off:1 Def:1),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,52,2,1,1,8:17 PM,6:48,MISS Bane 25' 3PT Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,53,4,0,1,8:17 PM,6:45,,,Cauley-Stein REBOUND (Off:1 Def:4),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,54,1,79,1,8:18 PM,6:34,,,Doncic 11' Pullup Jump Shot (4 PTS),10 - 11,1,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,55,9,1,1,8:18 PM,6:26,GRIZZLIES Timeout: Regular (Full 1 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,56,8,0,1,8:20 PM,6:26,,,SUB: Powell FOR Doncic,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,57,8,0,1,8:20 PM,6:26,,,SUB: Brunson FOR Cauley-Stein,,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,60,1,86,1,8:21 PM,6:17,Brooks 11' Turnaround Fadeaway (5 PTS),,,10 - 13,3,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,61,6,2,1,8:22 PM,5:59,Bane S.FOUL (P1.T1) (B.Adams),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,63,3,11,1,8:22 PM,5:59,,,Hardaway Jr. Free Throw 1 of 2 (1 PTS),11 - 13,2,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,64,3,12,1,8:22 PM,5:59,,,Hardaway Jr. Free Throw 2 of 2 (2 PTS),12 - 13,1,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,65,2,79,1,8:22 PM,5:45,MISS Brooks 11' Pullup Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,66,4,0,1,8:23 PM,5:43,,,Hardaway Jr. REBOUND (Off:0 Def:1),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,67,1,44,1,8:23 PM,5:33,,,Powell 2' Reverse Layup (2 PTS) (Hardaway Jr. 1 AST),14 - 13,-1,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,69,1,80,1,8:23 PM,5:18,Anderson 25' 3PT Step Back Jump Shot (5 PTS) (Tillman 1 AST),,,14 - 16,2,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,71,1,98,1,8:23 PM,5:02,,,Brunson 3' Cutting Layup Shot (2 PTS) (Powell 1 AST),16 - 16,TIE,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,73,2,58,1,8:23 PM,4:46,MISS Tillman 7' Turnaround Hook Shot,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,74,4,0,1,8:24 PM,4:41,,,Hardaway Jr. REBOUND (Off:0 Def:2),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,75,1,1,1,8:24 PM,4:26,,,Richardson 25' 3PT Jump Shot (3 PTS) (Powell 2 AST),19 - 16,-3,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,77,5,1,1,8:24 PM,4:09,Morant Bad Pass Turnover (P1.T2),,Richardson STEAL (1 STL),,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,79,1,1,1,8:24 PM,4:02,,,Brunson 3PT Jump Shot (5 PTS) (Richardson 1 AST),22 - 16,-6,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,81,6,2,1,8:25 PM,3:37,,,Powell S.FOUL (P1.T3) (B.Adams),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022001037,83,3,11,1,8:25 PM,3:37,MISS Morant Free Throw 1 of 2,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,84,4,1,1,8:25 PM,3:37,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,85,8,0,1,8:25 PM,3:37,SUB: Melton FOR Tillman,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,86,8,0,1,8:25 PM,3:37,SUB: Clarke FOR Brooks,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,87,8,0,1,8:25 PM,3:37,,,SUB: Kleber FOR Finney-Smith,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,91,3,12,1,8:25 PM,3:37,Morant Free Throw 2 of 2 (3 PTS),,,22 - 17,-5,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,92,1,1,1,8:26 PM,3:29,,,Hardaway Jr. 26' 3PT Jump Shot (5 PTS) (Brunson 1 AST),25 - 17,-8,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,94,9,1,1,8:26 PM,3:26,GRIZZLIES Timeout: Regular (Full 2 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,95,8,0,1,8:28 PM,3:26,SUB: Konchar FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,97,1,5,1,8:29 PM,3:14,Morant 2' Layup (5 PTS) (Anderson 1 AST),,,25 - 19,-6,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,99,2,75,1,8:29 PM,2:53,Clarke BLOCK (1 BLK),,MISS Hardaway Jr. 3' Driving Finger Roll Layup,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0022001037,100,4,0,1,8:29 PM,2:50,,,Powell REBOUND (Off:1 Def:0),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,101,2,1,1,8:29 PM,2:45,,,MISS Richardson 25' 3PT Jump Shot,,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,102,4,0,1,8:30 PM,2:42,Anderson REBOUND (Off:0 Def:2),,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,103,2,2,1,8:30 PM,2:36,MISS Melton 25' 3PT Running Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,104,4,0,1,8:30 PM,2:33,Konchar REBOUND (Off:1 Def:0),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,105,2,1,1,8:30 PM,2:32,MISS Anderson 25' 3PT Jump Shot,,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,106,4,0,1,8:30 PM,2:32,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,108,8,0,1,8:30 PM,2:32,SUB: Tillie FOR Anderson,,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,110,8,0,1,8:30 PM,2:32,,,SUB: Doncic FOR Richardson,,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,112,2,1,1,8:30 PM,2:20,,,MISS Kleber 3PT Jump Shot,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,113,4,0,1,8:30 PM,2:15,Morant REBOUND (Off:1 Def:2),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,114,1,1,1,8:31 PM,1:57,Konchar 24' 3PT Jump Shot (3 PTS) (Melton 1 AST),,,25 - 22,-3,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,116,1,104,1,8:31 PM,1:40,,,Doncic 13' Step Back Bank Jump Shot (6 PTS),27 - 22,-5,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,117,2,78,1,8:31 PM,1:26,MISS Morant 5' Floating Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,118,4,0,1,8:31 PM,1:22,Clarke REBOUND (Off:1 Def:0),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,119,2,97,1,8:31 PM,1:22,MISS Clarke Tip Layup Shot,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,120,4,0,1,8:31 PM,1:22,Konchar REBOUND (Off:2 Def:0),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,121,1,1,1,8:31 PM,1:19,Morant 3PT Jump Shot (8 PTS) (Konchar 1 AST),,,27 - 25,-2,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,123,2,5,1,8:32 PM,1:03,,,MISS Doncic 4' Layup,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,124,4,0,1,8:32 PM,0:59,,,Doncic REBOUND (Off:1 Def:0),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,125,2,97,1,8:32 PM,0:59,,,MISS Doncic Tip Layup Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,126,4,0,1,8:32 PM,0:59,Clarke REBOUND (Off:1 Def:1),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,127,2,1,1,8:32 PM,0:39,MISS Konchar 25' 3PT Jump Shot,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,128,4,0,1,8:32 PM,0:37,,,Brunson REBOUND (Off:0 Def:1),,,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,129,2,103,1,8:32 PM,0:34,,,MISS Brunson 26' 3PT Running Pull-Up Jump Shot,,,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,130,4,0,1,8:32 PM,0:31,Morant REBOUND (Off:1 Def:3),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,131,1,79,1,8:33 PM,0:13,Morant 25' 3PT Pullup Jump Shot (11 PTS),,,27 - 28,1,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,132,13,0,1,8:33 PM,0:00,,End of 1st Period (8:33 PM EST),,27 - 28,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022001037,140,12,0,2,8:36 PM,12:00,,Start of 2nd Period (8:36 PM EST),,27 - 28,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,143,2,1,2,8:37 PM,11:38,,,MISS Burke 3PT Jump Shot,,,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,144,4,0,2,8:37 PM,11:36,Clarke REBOUND (Off:1 Def:2),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,145,2,102,2,8:37 PM,11:29,MISS Melton 9' Driving Floating Bank Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,146,4,0,2,8:37 PM,11:29,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,148,6,3,2,8:37 PM,11:29,,,Powell L.B.FOUL (P2.T1) (K.Cutler),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022001037,150,6,2,2,8:37 PM,11:17,,,Burke S.FOUL (P1.T2) (P.Fraher),,,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022001037,152,3,11,2,8:38 PM,11:17,Clarke Free Throw 1 of 2 (1 PTS),,,27 - 29,2,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,153,8,0,2,8:38 PM,11:17,,,SUB: Melli FOR Powell,,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,155,3,12,2,8:38 PM,11:17,Clarke Free Throw 2 of 2 (2 PTS),,,27 - 30,3,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,156,2,80,2,8:38 PM,10:55,,,MISS Redick 22' Step Back Jump Shot,,,5,200755,JJ Redick,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,157,4,0,2,8:38 PM,10:53,Jones REBOUND (Off:0 Def:1),,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,158,2,1,2,8:39 PM,10:47,MISS Konchar 3PT Jump Shot,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,159,4,0,2,8:39 PM,10:42,,,Doncic REBOUND (Off:1 Def:1),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,160,1,86,2,8:39 PM,10:34,,,Doncic 13' Turnaround Fadeaway (8 PTS),29 - 30,1,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,161,1,1,2,8:39 PM,10:17,Jones 25' 3PT Jump Shot (3 PTS) (Konchar 2 AST),,,29 - 33,4,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,163,2,1,2,8:39 PM,10:03,,,MISS Kleber 25' 3PT Jump Shot,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,164,4,0,2,8:39 PM,10:03,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,165,6,3,2,8:39 PM,10:03,Tillie L.B.FOUL (P1.T1) (K.Cutler),,,,,4,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,167,2,75,2,8:40 PM,9:58,,,MISS Doncic 5' Driving Finger Roll Layup,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,168,4,0,2,8:40 PM,9:55,Clarke REBOUND (Off:1 Def:3),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,169,6,2,2,8:40 PM,9:53,,,Redick S.FOUL (P1.T3) (P.Fraher),,,5,200755,JJ Redick,1610612742.0,Dallas,Mavericks,DAL,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022001037,171,3,11,2,8:40 PM,9:53,Konchar Free Throw 1 of 2 (4 PTS),,,29 - 34,5,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,172,8,0,2,8:40 PM,9:53,,,SUB: Brunson FOR Redick,,,5,200755,JJ Redick,1610612742.0,Dallas,Mavericks,DAL,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,174,3,12,2,8:41 PM,9:53,Konchar Free Throw 2 of 2 (5 PTS),,,29 - 35,6,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,175,1,108,2,8:41 PM,9:34,,,Melli 2' Cutting Dunk Shot (2 PTS) (Brunson 2 AST),31 - 35,4,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,177,1,78,2,8:41 PM,9:20,Clarke 11' Floating Jump Shot (4 PTS) (Jones 1 AST),,,31 - 37,6,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,179,6,2,2,8:42 PM,9:05,Clarke S.FOUL (P1.T2) (P.Fraher),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,181,3,11,2,8:42 PM,9:05,,,Melli Free Throw 1 of 2 (3 PTS),32 - 37,5,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,182,8,0,2,8:42 PM,9:05,SUB: Brooks FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,183,8,0,2,8:42 PM,9:05,SUB: Bane FOR Konchar,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,186,3,12,2,8:42 PM,9:05,,,Melli Free Throw 2 of 2 (4 PTS),33 - 37,4,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,187,2,58,2,8:43 PM,8:55,MISS Clarke 7' Turnaround Hook Shot,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,188,4,0,2,8:43 PM,8:51,,,Doncic REBOUND (Off:1 Def:2),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,189,2,80,2,8:43 PM,8:46,,,MISS Doncic 25' 3PT Step Back Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,190,4,0,2,8:43 PM,8:41,,,Kleber REBOUND (Off:2 Def:0),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,191,2,97,2,8:43 PM,8:41,,,MISS Kleber Tip Layup Shot,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,192,4,0,2,8:43 PM,8:41,,,Kleber REBOUND (Off:2 Def:0),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,193,6,1,2,8:43 PM,8:40,Tillie P.FOUL (P2.T3) (K.Cutler),,,,,4,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,195,1,1,2,8:43 PM,8:32,,,Kleber 26' 3PT Jump Shot (3 PTS) (Doncic 3 AST),36 - 37,1,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,197,2,102,2,8:44 PM,8:14,MISS Jones 11' Driving Floating Bank Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,198,4,0,2,8:44 PM,8:10,Clarke REBOUND (Off:2 Def:3),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,199,1,97,2,8:44 PM,8:10,Clarke Tip Layup Shot (6 PTS),,,36 - 39,3,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,200,2,86,2,8:44 PM,8:02,,,MISS Doncic 12' Turnaround Fadeaway Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,201,4,0,2,8:44 PM,7:59,Jones REBOUND (Off:0 Def:2),,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,202,1,101,2,8:44 PM,7:50,Jones 6' Driving Floating Jump Shot (5 PTS) (Tillie 1 AST),,,36 - 41,5,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,203,9,1,2,8:44 PM,7:49,,,Mavericks Timeout: Regular (Reg.1 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,205,8,0,2,8:47 PM,7:49,SUB: Tillman FOR Clarke,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,206,8,0,2,8:47 PM,7:49,,,SUB: Hardaway Jr. FOR Kleber,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,207,8,0,2,8:47 PM,7:49,,,SUB: Finney-Smith FOR Doncic,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,211,1,1,2,8:47 PM,7:31,,,Hardaway Jr. 31' 3PT Jump Shot (8 PTS) (Brunson 3 AST),39 - 41,2,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,213,1,79,2,8:48 PM,7:08,Tillie 24' 3PT Pullup Jump Shot (3 PTS) (Jones 2 AST),,,39 - 44,5,4,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,215,2,1,2,8:48 PM,6:42,Brooks BLOCK (1 BLK),,MISS Brunson 25' 3PT Jump Shot,,,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1
+0022001037,217,4,0,2,8:48 PM,6:42,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,218,5,11,2,8:48 PM,6:42,,,Mavericks Turnover: Shot Clock (T#1),,,3,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
+0022001037,219,2,79,2,8:49 PM,6:30,MISS Brooks 15' Pullup Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,220,4,0,2,8:49 PM,6:26,,,Finney-Smith REBOUND (Off:0 Def:1),,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,221,1,75,2,8:49 PM,6:15,,,Hardaway Jr. 5' Driving Finger Roll Layup (10 PTS),41 - 44,3,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,222,1,101,2,8:49 PM,6:01,Bane 12' Driving Floating Jump Shot (2 PTS) (Jones 3 AST),,,41 - 46,5,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,224,1,1,2,8:49 PM,5:38,,,Hardaway Jr. 26' 3PT Jump Shot (13 PTS),44 - 46,2,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,225,5,2,2,8:50 PM,5:27,Brooks Lost Ball Turnover (P2.T3),,Brunson STEAL (1 STL),,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,227,5,1,2,8:50 PM,5:24,Jones STEAL (1 STL),,Finney-Smith Bad Pass Turnover (P1.T2),,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,229,1,75,2,8:50 PM,5:21,Jones 3' Driving Finger Roll Layup (7 PTS),,,44 - 48,4,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,230,2,6,2,8:50 PM,5:09,Brooks BLOCK (2 BLK),,MISS Brunson 4' Driving Layup,,,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1
+0022001037,232,4,0,2,8:50 PM,5:09,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,234,8,0,2,8:50 PM,5:09,SUB: Anderson FOR Jones,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,235,8,0,2,8:50 PM,5:09,SUB: Morant FOR Tillie,,,,,4,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,236,8,0,2,8:50 PM,5:09,,,SUB: Richardson FOR Burke,,,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,240,8,0,2,8:50 PM,5:09,,,SUB: Cauley-Stein FOR Melli,,,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,242,1,1,2,8:51 PM,5:04,,,Brunson 3PT Jump Shot (8 PTS) (Finney-Smith 1 AST),47 - 48,1,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,244,2,1,2,8:51 PM,4:51,MISS Brooks 25' 3PT Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,245,4,0,2,8:51 PM,4:48,Tillman REBOUND (Off:1 Def:1),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,246,2,1,2,8:51 PM,4:42,MISS Morant 26' 3PT Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,247,4,0,2,8:51 PM,4:39,,,Brunson REBOUND (Off:0 Def:2),,,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,248,2,102,2,8:51 PM,4:31,,,MISS Brunson 8' Driving Floating Bank Jump Shot,,,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,249,4,0,2,8:51 PM,4:28,,,Cauley-Stein REBOUND (Off:2 Def:4),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,250,1,107,2,8:51 PM,4:28,,,Cauley-Stein Tip Dunk Shot (6 PTS),49 - 48,-1,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,251,9,1,2,8:51 PM,4:28,GRIZZLIES Timeout: Regular (Full 3 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,252,2,1,2,8:55 PM,4:13,MISS Bane 3PT Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,253,4,0,2,8:55 PM,4:11,,,Brunson REBOUND (Off:0 Def:3),,,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,254,1,43,2,8:55 PM,4:08,,,Richardson 3' Alley Oop Layup (5 PTS) (Hardaway Jr. 2 AST),51 - 48,-3,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,256,2,57,2,8:55 PM,3:45,MISS Brooks 8' Driving Hook Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,257,4,0,2,8:55 PM,3:41,,,Hardaway Jr. REBOUND (Off:0 Def:3),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,258,1,108,2,8:55 PM,3:32,,,Cauley-Stein 2' Cutting Dunk Shot (8 PTS) (Finney-Smith 2 AST),53 - 48,-5,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,260,1,75,2,8:56 PM,3:12,Morant 3' Driving Finger Roll Layup (13 PTS) (Brooks 2 AST),,,53 - 50,-3,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,262,2,79,2,8:56 PM,2:48,,,MISS Hardaway Jr. 27' 3PT Pullup Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,263,4,0,2,8:56 PM,2:45,Morant REBOUND (Off:1 Def:4),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,264,1,58,2,8:56 PM,2:39,Tillman 4' Turnaround Hook Shot (6 PTS) (Bane 1 AST),,,53 - 52,-1,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,266,9,1,2,8:56 PM,2:31,,,Mavericks Timeout: Regular (Reg.2 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,267,8,0,2,8:58 PM,2:31,SUB: Konchar FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,268,8,0,2,8:58 PM,2:31,,,SUB: Doncic FOR Brunson,,,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,271,5,1,2,8:58 PM,2:12,Anderson STEAL (1 STL),,Doncic Bad Pass Turnover (P1.T3),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,273,6,2,2,8:58 PM,2:10,,,Hardaway Jr. S.FOUL (P2.T4) (K.Cutler),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022001037,275,3,11,2,8:59 PM,2:10,Brooks Free Throw 1 of 2 (6 PTS),,,53 - 53,TIE,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,276,3,12,2,8:59 PM,2:10,Brooks Free Throw 2 of 2 (7 PTS),,,53 - 54,1,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,277,2,101,2,8:59 PM,1:53,,,MISS Richardson 7' Driving Floating Jump Shot,,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,278,4,0,2,9:00 PM,1:50,,,Richardson REBOUND (Off:1 Def:0),,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,279,1,6,2,9:00 PM,1:47,,,Richardson 4' Driving Layup (7 PTS),55 - 54,-1,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,280,5,45,2,9:00 PM,1:29,Morant Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022001037,281,2,108,2,9:00 PM,1:17,Tillman BLOCK (1 BLK),,MISS Cauley-Stein 3' Cutting Dunk Shot,,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,1
+0022001037,283,4,0,2,9:00 PM,1:13,Tillman REBOUND (Off:1 Def:2),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,284,1,1,2,9:00 PM,1:08,Tillman 26' 3PT Jump Shot (9 PTS) (Anderson 2 AST),,,55 - 57,2,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,286,6,1,2,9:01 PM,0:54,Brooks P.FOUL (P1.T4) (P.Fraher),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,288,8,0,2,9:01 PM,0:54,,,SUB: Powell FOR Cauley-Stein,,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,290,1,75,2,9:01 PM,0:48,,,Hardaway Jr. 6' Driving Finger Roll Layup (15 PTS) (Richardson 2 AST),57 - 57,TIE,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,292,2,101,2,9:02 PM,0:29,MISS Morant 5' Driving Floating Jump Shot,,Richardson BLOCK (1 BLK),,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,1
+0022001037,294,4,0,2,9:02 PM,0:29,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,296,5,1,2,9:02 PM,0:28,Morant Bad Pass Turnover (P3.T5),,Finney-Smith STEAL (1 STL),,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,298,5,40,2,9:02 PM,0:24,,,Doncic Out of Bounds Lost Ball Turnover (P2.T4),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0022001037,299,1,1,2,9:03 PM,0:00,Brooks 25' 3PT Jump Shot (10 PTS) (Morant 3 AST),,,57 - 60,3,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,301,18,0,2,9:03 PM,0:00,,Instant Replay2nd Period (9:03 PM EST),,57 - 60,3,0,299,Glenn Robinson,,,,,0,0,,,,,,1,0,,,,,,0
+0022001037,302,13,0,2,9:03 PM,0:00,,End of 2nd Period (9:03 PM EST),,57 - 60,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022001037,307,12,0,3,9:18 PM,12:00,,Start of 3rd Period (9:18 PM EST),,57 - 60,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,308,2,79,3,9:18 PM,11:44,,,MISS Hardaway Jr. 21' Pullup Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,309,4,0,3,9:18 PM,11:41,Bane REBOUND (Off:0 Def:2),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,310,1,80,3,9:19 PM,11:35,Bane 26' 3PT Step Back Jump Shot (5 PTS),,,57 - 63,6,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,311,1,101,3,9:19 PM,11:20,,,Richardson 12' Driving Floating Jump Shot (9 PTS) (Cauley-Stein 1 AST),59 - 63,4,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,313,2,80,3,9:19 PM,10:54,MISS Brooks 25' 3PT Step Back Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,314,4,0,3,9:19 PM,10:52,,,Cauley-Stein REBOUND (Off:2 Def:5),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,315,5,1,3,9:19 PM,10:40,Brooks STEAL (1 STL),,Cauley-Stein Bad Pass Turnover (P1.T5),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,317,6,28,3,9:20 PM,10:37,,,Richardson Personal Take Foul (P1.T1) (K.Cutler),,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022001037,319,2,1,3,9:20 PM,10:25,MISS Morant 25' 3PT Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,320,4,0,3,9:20 PM,10:22,,,Hardaway Jr. REBOUND (Off:0 Def:4),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,321,1,43,3,9:20 PM,10:12,,,Cauley-Stein 2' Alley Oop Layup (10 PTS) (Finney-Smith 3 AST),61 - 63,2,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,323,6,2,3,9:20 PM,10:12,Morant S.FOUL (P1.T1) (B.Adams),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,325,3,10,3,9:21 PM,10:12,,,Cauley-Stein Free Throw 1 of 1 (11 PTS),62 - 63,1,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,326,2,1,3,9:21 PM,9:58,MISS Brooks 26' 3PT Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,327,4,0,3,9:21 PM,9:55,,,Doncic REBOUND (Off:1 Def:3),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,328,5,1,3,9:21 PM,9:42,Brooks STEAL (2 STL),,Hardaway Jr. Bad Pass Turnover (P1.T6),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,330,1,2,3,9:21 PM,9:38,Bane 25' 3PT Running Jump Shot (8 PTS) (Morant 4 AST),,,62 - 66,4,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,332,2,80,3,9:22 PM,9:12,,,MISS Doncic 28' 3PT Step Back Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,333,4,0,3,9:22 PM,9:09,Anderson REBOUND (Off:0 Def:3),,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,334,1,101,3,9:22 PM,9:03,Anderson 12' Driving Floating Jump Shot (7 PTS),,,62 - 68,6,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,335,9,1,3,9:22 PM,9:02,,,Mavericks Timeout: Regular (Reg.3 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,336,2,101,3,9:25 PM,8:51,,,MISS Richardson 7' Driving Floating Jump Shot,,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,337,4,0,3,9:25 PM,8:50,,,Cauley-Stein REBOUND (Off:3 Def:5),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,338,1,87,3,9:25 PM,8:50,,,Cauley-Stein Putback Dunk (13 PTS),64 - 68,4,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,340,6,2,3,9:26 PM,8:30,,,Cauley-Stein S.FOUL (P2.T2) (P.Fraher),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022001037,342,3,11,3,9:26 PM,8:30,Morant Free Throw 1 of 2 (14 PTS),,,64 - 69,5,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,343,3,12,3,9:26 PM,8:30,Morant Free Throw 2 of 2 (15 PTS),,,64 - 70,6,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,344,6,1,3,9:27 PM,8:23,Morant P.FOUL (P2.T2) (B.Adams),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,346,5,2,3,9:27 PM,8:08,Morant STEAL (1 STL),,Doncic Lost Ball Turnover (P3.T7),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,348,6,2,3,9:27 PM,8:06,,,Richardson S.FOUL (P2.T3) (B.Adams),,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022001037,350,3,11,3,9:28 PM,8:06,Morant Free Throw 1 of 2 (16 PTS),,,64 - 71,7,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,351,3,12,3,9:28 PM,8:06,Morant Free Throw 2 of 2 (17 PTS),,,64 - 72,8,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,352,2,79,3,9:28 PM,7:48,,,MISS Doncic 12' Pullup Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,353,4,0,3,9:28 PM,7:45,Anderson REBOUND (Off:0 Def:4),,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,354,5,1,3,9:28 PM,7:40,Morant Bad Pass Turnover (P4.T6),,Richardson STEAL (2 STL),,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,356,5,2,3,9:28 PM,7:32,Tillman STEAL (1 STL),,Richardson Lost Ball Turnover (P1.T8),,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,358,5,2,3,9:28 PM,7:30,Tillman Lost Ball Turnover (P1.T7),,Richardson STEAL (3 STL),,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,360,6,2,3,9:29 PM,7:30,Brooks S.FOUL (P2.T3) (B.Adams),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,362,3,11,3,9:29 PM,7:30,,,Cauley-Stein Free Throw 1 of 2 (14 PTS),65 - 72,7,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,363,3,12,3,9:29 PM,7:30,,,MISS Cauley-Stein Free Throw 2 of 2,,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,364,4,0,3,9:29 PM,7:27,Tillman REBOUND (Off:1 Def:3),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,365,2,1,3,9:30 PM,7:16,MISS Brooks 26' 3PT Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,366,4,0,3,9:30 PM,7:12,Tillman REBOUND (Off:2 Def:3),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,367,2,1,3,9:30 PM,7:10,MISS Morant 27' 3PT Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,368,4,0,3,9:30 PM,7:06,,,Hardaway Jr. REBOUND (Off:0 Def:5),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,369,6,2,3,9:30 PM,7:01,Tillman S.FOUL (P1.T4) (P.Fraher),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,371,3,11,3,9:31 PM,7:01,,,Hardaway Jr. Free Throw 1 of 2 (16 PTS),66 - 72,6,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,372,3,12,3,9:31 PM,7:01,,,Hardaway Jr. Free Throw 2 of 2 (17 PTS),67 - 72,5,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,373,5,2,3,9:31 PM,6:47,Anderson Lost Ball Turnover (P1.T8),,Richardson STEAL (4 STL),,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,375,1,108,3,9:31 PM,6:40,,,Cauley-Stein 1' Cutting Dunk Shot (16 PTS) (Doncic 4 AST),69 - 72,3,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,377,9,1,3,9:31 PM,6:40,GRIZZLIES Timeout: Regular (Full 4 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,378,8,0,3,9:34 PM,6:40,,,SUB: Powell FOR Doncic,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,379,8,0,3,9:34 PM,6:40,,,SUB: Brunson FOR Cauley-Stein,,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,382,1,79,3,9:34 PM,6:23,Anderson 13' Pullup Jump Shot (9 PTS) (Tillman 2 AST),,,69 - 74,5,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,384,1,63,3,9:35 PM,6:05,,,Hardaway Jr. 9' Fadeaway Jumper (19 PTS),71 - 74,3,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,385,1,79,3,9:35 PM,5:53,Brooks 17' Pullup Jump Shot (12 PTS),,,71 - 76,5,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,386,2,1,3,9:35 PM,5:31,,,MISS Hardaway Jr. 24' 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,387,4,0,3,9:35 PM,5:28,Bane REBOUND (Off:0 Def:3),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,388,1,73,3,9:36 PM,5:20,Anderson 2' Driving Reverse Layup (11 PTS),,,71 - 78,7,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,389,2,1,3,9:36 PM,5:00,,,MISS Finney-Smith 27' 3PT Jump Shot,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,390,4,0,3,9:36 PM,4:57,Tillman REBOUND (Off:2 Def:4),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,391,1,101,3,9:36 PM,4:49,Anderson 11' Driving Floating Jump Shot (13 PTS) (Morant 5 AST),,,71 - 80,9,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,393,9,1,3,9:36 PM,4:48,,,Mavericks Timeout: Regular (Reg.4 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,395,8,0,3,9:37 PM,4:48,SUB: Melton FOR Tillman,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,396,8,0,3,9:37 PM,4:48,SUB: Konchar FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,397,8,0,3,9:37 PM,4:48,SUB: Clarke FOR Brooks,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,401,5,2,3,9:38 PM,4:34,Clarke STEAL (1 STL),,Powell Lost Ball Turnover (P1.T9),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,403,1,101,3,9:38 PM,4:22,Anderson 9' Driving Floating Jump Shot (15 PTS),,,71 - 82,11,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,404,5,2,3,9:38 PM,4:13,Anderson STEAL (2 STL),,Finney-Smith Lost Ball Turnover (P2.T10),,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,406,6,28,3,9:38 PM,4:13,,,Finney-Smith Personal Take Foul (P1.T4) (B.Adams),,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022001037,408,8,0,3,9:39 PM,4:13,,,SUB: Doncic FOR Richardson,,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,409,8,0,3,9:39 PM,4:13,,,SUB: Burke FOR Finney-Smith,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,410,8,0,3,9:39 PM,4:13,,,SUB: Kleber FOR Hardaway Jr.,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,414,8,0,3,9:39 PM,4:13,,,SUB: Marjanovic FOR Powell,,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,416,1,101,3,9:39 PM,4:05,Morant 8' Driving Floating Jump Shot (19 PTS),,,71 - 84,13,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,417,1,67,3,9:39 PM,3:51,,,Marjanovic 6' Hook Bank Shot (2 PTS) (Doncic 5 AST),73 - 84,11,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,419,2,75,3,9:40 PM,3:34,MISS Anderson 5' Driving Finger Roll Layup,,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,420,4,0,3,9:40 PM,3:32,,,Kleber REBOUND (Off:2 Def:1),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,421,1,80,3,9:40 PM,3:19,,,Brunson 3PT Step Back Jump Shot (11 PTS) (Kleber 1 AST),76 - 84,8,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,423,2,78,3,9:40 PM,3:01,MISS Clarke 8' Floating Jump Shot,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,424,4,0,3,9:40 PM,2:59,,,Marjanovic REBOUND (Off:0 Def:1),,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,425,2,63,3,9:40 PM,2:51,,,MISS Doncic 10' Fadeaway Jumper,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,426,4,0,3,9:41 PM,2:48,Morant REBOUND (Off:1 Def:5),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,427,6,1,3,9:41 PM,2:47,,,Doncic P.FOUL (P1.PN) (K.Cutler),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022001037,429,3,11,3,9:41 PM,2:47,Morant Free Throw 1 of 2 (20 PTS),,,76 - 85,9,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,430,3,12,3,9:41 PM,2:47,Morant Free Throw 2 of 2 (21 PTS),,,76 - 86,10,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,431,5,1,3,9:42 PM,2:34,Clarke STEAL (2 STL),,Doncic Bad Pass Turnover (P4.T11),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,433,1,41,3,9:42 PM,2:29,Konchar 4' Running Layup (7 PTS) (Morant 6 AST),,,76 - 88,12,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,435,2,47,3,9:42 PM,2:06,,,MISS Marjanovic 8' Turnaround Jump Shot,,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,436,4,0,3,9:42 PM,2:06,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,438,8,0,3,9:42 PM,2:06,SUB: Brooks FOR Anderson,,,,,4,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,440,2,1,3,9:42 PM,2:02,,,MISS Burke 25' 3PT Jump Shot,,,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,441,4,0,3,9:42 PM,1:57,Brooks REBOUND (Off:0 Def:2),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,442,2,1,3,9:43 PM,1:42,MISS Brooks 28' 3PT Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,443,4,0,3,9:43 PM,1:39,,,Doncic REBOUND (Off:1 Def:4),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,444,6,2,3,9:43 PM,1:30,Brooks S.FOUL (P3.PN) (P.Fraher),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,446,3,11,3,9:44 PM,1:30,,,Doncic Free Throw 1 of 2 (9 PTS),77 - 88,11,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,447,3,12,3,9:44 PM,1:30,,,Doncic Free Throw 2 of 2 (10 PTS),78 - 88,10,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,448,1,52,3,9:44 PM,1:17,Clarke 1' Alley Oop Dunk (8 PTS) (Morant 7 AST),,,78 - 90,12,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,450,1,75,3,9:44 PM,1:00,,,Brunson 4' Driving Finger Roll Layup (13 PTS),80 - 90,10,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,452,1,1,3,9:45 PM,0:45,Melton 26' 3PT Jump Shot (3 PTS) (Morant 8 AST),,,80 - 93,13,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,454,2,63,3,9:45 PM,0:29,,,MISS Doncic 20' Fadeaway Jumper,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,455,4,0,3,9:45 PM,0:26,Morant REBOUND (Off:1 Def:6),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,456,1,79,3,9:45 PM,0:10,Morant 26' 3PT Pullup Jump Shot (24 PTS),,,80 - 96,16,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,457,6,2,3,9:46 PM,0:02,Clarke S.FOUL (P2.PN) (B.Adams),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,459,3,11,3,9:46 PM,0:02,,,Doncic Free Throw 1 of 2 (11 PTS),81 - 96,15,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,460,8,0,3,9:46 PM,0:02,SUB: Tillman FOR Konchar,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,462,3,12,3,9:46 PM,0:02,,,Doncic Free Throw 2 of 2 (12 PTS),82 - 96,14,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,463,13,0,3,9:47 PM,0:00,,End of 3rd Period (9:47 PM EST),,82 - 96,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022001037,472,12,0,4,9:49 PM,12:00,,Start of 4th Period (9:49 PM EST),,82 - 96,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,474,1,79,4,9:50 PM,11:45,Brooks 19' Pullup Jump Shot (14 PTS) (Clarke 1 AST),,,82 - 98,16,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,476,2,1,4,9:50 PM,11:21,,,MISS Brunson 27' 3PT Jump Shot,,,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,477,4,0,4,9:50 PM,11:18,Konchar REBOUND (Off:2 Def:1),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,478,2,78,4,9:50 PM,11:04,MISS Clarke 8' Floating Jump Shot,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,479,4,0,4,9:50 PM,11:03,Clarke REBOUND (Off:3 Def:3),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,480,6,15,4,9:50 PM,11:03,,,Powell FLAGRANT.FOUL.TYPE2 (P3.T1) (B.Adams),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022001037,482,18,0,4,9:51 PM,11:03,,Instant Replay4th Period (9:51 PM EST),,82 - 98,16,0,480,,,,,,0,0,,,,,,1,0,,,,,,0
+0022001037,483,11,4,4,9:53 PM,11:03,,,Powell Ejection:Other,,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0022001037,484,3,18,4,9:53 PM,11:03,Clarke Free Throw Flagrant 1 of 2 (9 PTS),,,82 - 99,17,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,485,3,19,4,9:53 PM,11:03,Clarke Free Throw Flagrant 2 of 2 (10 PTS),,,82 - 100,18,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,486,8,0,4,9:53 PM,11:03,,,SUB: Finney-Smith FOR Powell,,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,493,8,0,4,9:53 PM,11:03,,,SUB: Doncic FOR Marjanovic,,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,488,2,1,4,9:54 PM,10:59,MISS Brooks 24' 3PT Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,489,4,0,4,9:54 PM,10:55,,,Green REBOUND (Off:0 Def:1),,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,490,5,2,4,9:54 PM,10:48,Brooks STEAL (3 STL),,Doncic Lost Ball Turnover (P5.T12),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,492,1,50,4,9:54 PM,10:43,Brooks 2' Running Dunk (16 PTS),,,82 - 102,20,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,495,2,79,4,9:54 PM,10:35,,,MISS Doncic 12' Pullup Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,496,4,0,4,9:54 PM,10:35,,,Kleber REBOUND (Off:3 Def:1),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,497,2,1,4,9:54 PM,10:23,,,MISS Finney-Smith 25' 3PT Jump Shot,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,498,4,0,4,9:54 PM,10:20,Konchar REBOUND (Off:2 Def:2),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,500,1,80,4,9:55 PM,9:59,Brooks 19' Step Back Jump Shot (18 PTS),,,82 - 104,22,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,501,9,1,4,9:55 PM,9:54,,,Mavericks Timeout: Regular (Reg.5 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,502,8,0,4,9:57 PM,9:54,,,SUB: Melli FOR Kleber,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,503,8,0,4,9:57 PM,9:54,,,SUB: Burke FOR Doncic,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,506,6,2,4,9:58 PM,9:42,Melton S.FOUL (P1.T1) (P.Fraher),,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,508,3,11,4,9:59 PM,9:42,,,Burke Free Throw 1 of 2 (1 PTS),83 - 104,21,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,509,3,12,4,9:59 PM,9:42,,,Burke Free Throw 2 of 2 (2 PTS),84 - 104,20,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,510,2,78,4,9:59 PM,9:27,MISS Melton 12' Floating Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,511,4,0,4,9:59 PM,9:22,,,Melli REBOUND (Off:0 Def:1),,,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,512,6,1,4,9:59 PM,9:15,Melton P.FOUL (P2.T2) (B.Adams),,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,515,1,101,4,10:00 PM,9:01,,,Brunson 10' Driving Floating Jump Shot (15 PTS),86 - 104,18,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,516,1,79,4,10:00 PM,8:34,Brooks 14' Pullup Jump Shot (20 PTS),,,86 - 106,20,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,517,5,1,4,10:01 PM,8:12,Melton STEAL (1 STL),,Melli Bad Pass Turnover (P1.T13),,,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,519,2,101,4,10:01 PM,7:56,MISS Brooks 10' Driving Floating Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,520,4,0,4,10:01 PM,7:53,Clarke REBOUND (Off:4 Def:3),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,521,1,1,4,10:01 PM,7:51,Jones 25' 3PT Jump Shot (10 PTS) (Melton 2 AST),,,86 - 109,23,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,523,9,1,4,10:01 PM,7:50,,,Mavericks Timeout: Regular (Reg.6 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,524,8,0,4,10:03 PM,7:50,,,SUB: Bey FOR Finney-Smith,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1630189,Tyler Bey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,525,8,0,4,10:03 PM,7:50,,,SUB: Hinton FOR Brunson,,,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,1630207,Nate Hinton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022001037,528,1,1,4,10:04 PM,7:31,,,Burke 26' 3PT Jump Shot (5 PTS) (Hinton 1 AST),89 - 109,20,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,5,1630207,Nate Hinton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,530,1,79,4,10:04 PM,7:15,Brooks 17' Pullup Jump Shot (22 PTS) (Clarke 2 AST),,,89 - 111,22,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,532,1,1,4,10:05 PM,7:00,,,Hinton 27' 3PT Jump Shot (3 PTS) (Burke 1 AST),92 - 111,19,5,1630207,Nate Hinton,1610612742.0,Dallas,Mavericks,DAL,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,534,1,99,4,10:05 PM,6:48,Konchar 6' Cutting Finger Roll Layup Shot (9 PTS) (Jones 4 AST),,,92 - 113,21,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,536,1,1,4,10:05 PM,6:38,,,Hinton 3PT Jump Shot (6 PTS) (Green 1 AST),95 - 113,18,5,1630207,Nate Hinton,1610612742.0,Dallas,Mavericks,DAL,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,538,1,79,4,10:05 PM,6:19,Clarke 7' Pullup Jump Shot (12 PTS),,,95 - 115,20,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,539,6,2,4,10:06 PM,5:59,Konchar S.FOUL (P1.T3) (B.Adams),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,541,3,11,4,10:06 PM,5:59,,,Burke Free Throw 1 of 2 (6 PTS),96 - 115,19,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,542,8,0,4,10:06 PM,5:59,SUB: Bane FOR Brooks,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,544,3,12,4,10:06 PM,5:59,,,Burke Free Throw 2 of 2 (7 PTS),97 - 115,18,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,545,2,101,4,10:07 PM,5:42,MISS Konchar 5' Driving Floating Jump Shot,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,546,4,0,4,10:07 PM,5:39,Clarke REBOUND (Off:5 Def:3),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,547,1,97,4,10:07 PM,5:39,Clarke Tip Layup Shot (14 PTS),,,97 - 117,20,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,548,2,101,4,10:07 PM,5:28,,,MISS Bey 12' Driving Floating Jump Shot,,,5,1630189,Tyler Bey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,549,4,0,4,10:07 PM,5:26,,,Melli REBOUND (Off:1 Def:1),,,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,550,2,1,4,10:07 PM,5:25,,,MISS Hinton 25' 3PT Jump Shot,,,5,1630207,Nate Hinton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,551,4,0,4,10:07 PM,5:22,Clarke REBOUND (Off:5 Def:4),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,552,1,79,4,10:07 PM,5:14,Bane 25' 3PT Pullup Jump Shot (11 PTS),,,97 - 120,23,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,553,9,1,4,10:07 PM,5:13,,,Mavericks Timeout: Regular (Reg.7 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,554,8,0,4,10:08 PM,5:13,SUB: Winslow FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,555,8,0,4,10:08 PM,5:13,SUB: Frazier FOR Clarke,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,204025,Tim Frazier,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,556,8,0,4,10:08 PM,5:13,SUB: Porter FOR Jones,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1629007,Jontay Porter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,557,8,0,4,10:08 PM,5:13,SUB: Tillie FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022001037,562,2,101,4,10:09 PM,4:58,Frazier BLOCK (1 BLK),,MISS Melli 11' Driving Floating Jump Shot,,,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,204025,Tim Frazier,1610612763.0,Memphis,Grizzlies,MEM,1
+0022001037,564,4,0,4,10:09 PM,4:58,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,566,2,73,4,10:10 PM,4:51,,,MISS Melli 3' Driving Reverse Layup,,,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,567,4,0,4,10:10 PM,4:48,Porter REBOUND (Off:0 Def:1),,,,,4,1629007,Jontay Porter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,568,1,1,4,10:10 PM,4:41,Konchar 3PT Jump Shot (12 PTS) (Winslow 1 AST),,,97 - 123,26,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,570,2,1,4,10:10 PM,4:29,,,MISS Burke 26' 3PT Jump Shot,,,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,571,4,0,4,10:10 PM,4:25,,,Green REBOUND (Off:1 Def:1),,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,572,2,75,4,10:10 PM,4:22,,,MISS Hinton 4' Driving Finger Roll Layup,,,5,1630207,Nate Hinton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,573,4,0,4,10:10 PM,4:20,Konchar REBOUND (Off:2 Def:3),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,574,2,2,4,10:10 PM,4:17,MISS Frazier 25' 3PT Running Jump Shot,,,,,4,204025,Tim Frazier,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,575,4,0,4,10:10 PM,4:17,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,576,6,3,4,10:10 PM,4:17,Porter L.B.FOUL (P1.T4) (B.Adams),,,,,4,1629007,Jontay Porter,1610612763.0,Memphis,Grizzlies,MEM,5,1630189,Tyler Bey,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,578,2,1,4,10:11 PM,4:03,,,MISS Melli 25' 3PT Jump Shot,,,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,579,4,0,4,10:11 PM,4:01,Frazier REBOUND (Off:0 Def:1),,,,,4,204025,Tim Frazier,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,580,6,28,4,10:11 PM,4:01,,,Melli Personal Take Foul (P1.T2) (P.Fraher),,,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,4,204025,Tim Frazier,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022001037,582,5,1,4,10:11 PM,3:42,Porter Bad Pass Turnover (P1.T9),,Melli STEAL (1 STL),,,4,1629007,Jontay Porter,1610612763.0,Memphis,Grizzlies,MEM,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,584,6,1,4,10:11 PM,3:42,Porter P.FOUL (P2.PN) (B.Adams),,,,,4,1629007,Jontay Porter,1610612763.0,Memphis,Grizzlies,MEM,5,1630207,Nate Hinton,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022001037,586,3,11,4,10:12 PM,3:42,,,Hinton Free Throw 1 of 2 (7 PTS),98 - 123,25,5,1630207,Nate Hinton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,587,3,12,4,10:12 PM,3:42,,,Hinton Free Throw 2 of 2 (8 PTS),99 - 123,24,5,1630207,Nate Hinton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,588,1,79,4,10:12 PM,3:33,Konchar 17' Pullup Jump Shot (14 PTS) (Frazier 1 AST),,,99 - 125,26,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,204025,Tim Frazier,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,590,2,79,4,10:13 PM,3:08,,,MISS Burke 27' 3PT Pullup Jump Shot,,,5,203504,Trey Burke,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,592,2,97,4,10:13 PM,3:02,,,MISS Melli Tip Layup Shot,,,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,593,4,0,4,10:13 PM,3:02,Tillie REBOUND (Off:0 Def:1),,,,,4,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,591,4,0,4,10:13 PM,3:02,,,Melli REBOUND (Off:2 Def:1),,,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,594,2,101,4,10:13 PM,2:57,MISS Tillie 5' Driving Floating Jump Shot,,,,,4,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,595,4,0,4,10:13 PM,2:56,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022001037,597,5,2,4,10:13 PM,2:41,Konchar Lost Ball Turnover (P1.T10),,Hinton STEAL (1 STL),,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,5,1630207,Nate Hinton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,599,2,50,4,10:13 PM,2:35,Tillie BLOCK (1 BLK),,MISS Green 2' Running Dunk,,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,1
+0022001037,600,4,0,4,10:14 PM,2:32,Winslow REBOUND (Off:0 Def:1),,,,,4,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,601,1,41,4,10:14 PM,2:31,Konchar 2' Running Layup (16 PTS) (Winslow 2 AST),,,99 - 127,28,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,603,1,1,4,10:14 PM,2:18,,,Melli 25' 3PT Jump Shot (7 PTS) (Hinton 2 AST),102 - 127,25,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,5,1630207,Nate Hinton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022001037,605,1,58,4,10:14 PM,1:59,Porter 10' Turnaround Hook Shot (2 PTS) (Tillie 2 AST),,,102 - 129,27,4,1629007,Jontay Porter,1610612763.0,Memphis,Grizzlies,MEM,4,1629681,Killian Tillie,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,607,2,1,4,10:14 PM,1:42,,,MISS Melli 27' 3PT Jump Shot,,,5,1629740,Nicolo Melli,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,608,4,0,4,10:15 PM,1:38,,,Green REBOUND (Off:2 Def:1),,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,609,1,44,4,10:15 PM,1:38,,,Green 2' Reverse Layup (2 PTS),104 - 129,25,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,610,1,47,4,10:15 PM,1:19,Porter 13' Turnaround Jump Shot (4 PTS) (Konchar 3 AST),,,104 - 131,27,4,1629007,Jontay Porter,1610612763.0,Memphis,Grizzlies,MEM,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,612,2,80,4,10:15 PM,1:02,,,MISS Hinton 26' 3PT Step Back Jump Shot,,,5,1630207,Nate Hinton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,613,4,0,4,10:15 PM,1:00,Winslow REBOUND (Off:0 Def:2),,,,,4,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,614,6,28,4,10:15 PM,0:59,,,Green Personal Take Foul (P1.T3) (B.Adams),,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022001037,616,1,108,4,10:16 PM,0:49,Konchar 2' Cutting Dunk Shot (18 PTS) (Frazier 2 AST),,,104 - 133,29,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,204025,Tim Frazier,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022001037,618,2,101,4,10:16 PM,0:34,,,MISS Green 12' Driving Floating Jump Shot,,,5,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022001037,619,4,0,4,10:16 PM,0:31,Konchar REBOUND (Off:2 Def:4),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022001037,620,5,11,4,10:17 PM,0:08,GRIZZLIES Turnover: Shot Clock (T#11),,,,,2,1610612763,,,,,,0,0,,,,,,1,0,,,,,,0
+0022001037,621,13,0,4,10:17 PM,0:00,,End of 4th Period (10:17 PM EST),,104 - 133,29,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
