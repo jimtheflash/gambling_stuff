@@ -208,7 +208,7 @@ possession_df_vars <-
   possession_df %>%
   arrange(jumper, game_date) %>%
   group_by(jumper) %>%
-  mutate(jumps = lag(row_number()),
+  mutate(jumps = replace_na(lag(row_number()), 0),
          all_jumps_avg = lag(cummean(won_tip)),
          last_10_avg = lag(rollmean_p(won_tip, 9, .complete = FALSE)),
          last_25_avg = lag(rollmean_p(won_tip, 24, .complete = FALSE)),
@@ -217,16 +217,96 @@ possession_df_vars <-
          last_100_avg = lag(rollmean_p(won_tip, 99, .complete = FALSE))) %>%
   arrange(opp_jumper, game_date) %>%
   group_by(opp_jumper) %>%
-  mutate(opp_jumps = lag(row_number()),
+  mutate(opp_jumps = replace_na(lag(row_number()), 0),
          opp_all_jumps_avg = lag(cummean(!won_tip)),
          opp_last_10_avg = lag(rollmean_p(!won_tip, 9, .complete = FALSE)),
          opp_last_25_avg = lag(rollmean_p(!won_tip, 24, .complete = FALSE)),
          opp_last_50_avg = lag(rollmean_p(!won_tip, 49, .complete = FALSE)),
          opp_last_75_avg = lag(rollmean_p(!won_tip, 74, .complete = FALSE)),
-         opp_last_100_avg = lag(rollmean_p(!won_tip, 99, .complete = FALSE)))
-        # opening_jumps_avg = cummean(won_tip[opening_jump == TRUE]))
+         opp_last_100_avg = lag(rollmean_p(!won_tip, 99, .complete = FALSE))) %>%
+  ungroup() %>%
+  mutate(won_tip = as.factor(won_tip))
+
+possession_final_cols <-
+  possession_df_vars %>%
+  select(-c(season, game_date, game_id, matchup, person_id, team_abbrev, 
+            opp_person_id, opp_team_abbrev, possession, score_first))
+
+## Adding random number for training
+set.seed(051221)
+possession_final_df <-
+  possession_final_cols %>%
+  rowwise() %>%
+  mutate(train_or_test = if_else(runif(1) > .8, "Test", "Train")) %>%
+  drop_na()
+
+training_data <-
+  possession_final_df %>%
+  filter(train_or_test == "Train") %>%
+  select(-train_or_test)
+
+testing_data <-
+  possession_final_df %>%
+  filter(train_or_test == "Test") %>%
+  select(-train_or_test)
 
 
+library(recipes)
+
+rec <-
+  recipe(training_data) %>%
+  update_role(won_tip, new_role = 'outcome') %>%
+  update_role(-all_outcomes(), new_role = 'predictor') %>%
+  update_role(ends_with('jumper'), new_role = 'jumper') %>%
+  prep()
+
+baked_train <- bake(rec, training_data)
+baked_test <- bake(rec, testing_data)
+
+
+library(ranger)
+## subset predictors
+predictor_vars <- rec$term_info$variable[rec$term_info$role == 'predictor']
+predictors_train <- 
+  baked_train %>%
+  select(any_of(predictor_vars))
+
+predictors_test <-
+  baked_test %>%
+  select(any_of(predictor_vars))
+
+## subset outcomes
+outcome_vars <- rec$term_info$variable[rec$term_info$role == 'outcome']
+outcomes <- 
+  baked_train %>%
+  select(any_of(outcome_vars))
+
+
+mod <- ranger(x = predictors_train, y = outcomes$won_tip, probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
+preds <- 
+  cbind.data.frame(baked_test, predict(mod, predictors_test, type = 'response')$predictions) %>%
+  rename(win_tip_prob = `TRUE`) %>%
+  mutate(won_tip = as.logical(won_tip))
+
+test_buckets_win_tip <-
+  preds %>%
+  mutate(exp_win_prob = cut(win_tip_prob, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
+  group_by(exp_win_prob) %>%
+  summarise(jumps = n(),
+            true_win_percent = mean(won_tip),
+            .groups = 'drop')
+
+brier_score_test_df <-
+  preds %>%
+  mutate(brier_score_win_tip = (win_tip_prob - won_tip)^2) %>%
+  filter(!is.na(brier_score_win_tip))
+
+message("brier score of win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip), 5))
+
+library(pROC)
+g <- roc(won_tip ~ win_tip_prob, data = preds)
+g$auc
+plot(g)
 
 ###
 
