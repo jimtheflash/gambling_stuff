@@ -89,27 +89,31 @@ projected_starters <-
   left_join(player_name_changes, by = c("PLAYER_NAME" = "player_lineup")) %>%
   mutate(PLAYER_NAME = coalesce(player_api, PLAYER_NAME))
 
+# TODO: Fix to use height of jumper as projection
 projected_jumpers <-
   current_lineups %>%
   filter(LINEUP_DESC != "") %>%
   left_join(player_name_changes, by = c("PLAYER_NAME" = "player_lineup")) %>%
   mutate(PLAYER_NAME = coalesce(player_api, PLAYER_NAME)) %>%
   left_join(jumper_aggregates, by = c("PLAYER_NAME" = "jumper")) %>%
-  mutate(jump_rate = if_else(is.nan(jump_rate), 0, jump_rate),
-         jump_rate_over75 = if_else(jump_rate >= 0.75, TRUE, FALSE),
+  # Replace NAs from join
+  mutate(jump_rate = replace_na(jump_rate, 0),
          jumps = replace_na(jumps, 0),
          exp_win_adj = replace_na(exp_win_adj, 0),
+         starts = replace_na(starts, 0),
          opening_tip_jumps = replace_na(opening_tip_jumps, 0),
          opening_tip_wins = replace_na(opening_tip_wins, 0),
-         opening_tip_win_rate = replace_na(opening_tip_win_rate, 0),
-         starts = replace_na(starts, 0),
-         jump_rate = replace_na(jump_rate, 0)) %>%
+         opening_tip_win_rate = replace_na(opening_tip_win_rate, 0)) %>%
+  mutate(jump_rate_over75 = if_else(jump_rate >= 0.75, TRUE, FALSE),
+         jump_rate_over15 = if_else(jump_rate >= 0.15, TRUE, FALSE)) %>%
   left_join(list_of_team_abbrev_id, by = c("TEAM_ABBREVIATION" = "team_abbrev")) %>%
   group_by(TEAM_ABBREVIATION) %>%
-  # Filter to player who jumps in highest percent of starts - or last jump if multiple over 75% of starts with jumps
-  filter(if (sum(jump_rate_over75) > 1) last_jump == max(last_jump, na.rm = T) else jump_rate == max(jump_rate)) %>%
-  # If team has no players that has jumped this season, filter to Center, otherwise filter to the player who jumped last
-  filter(if (sum(jump_rate) == 0) STARTING_POSITION == "C" else last_jump == max(last_jump, na.rm = T)) %>%
+  # If team has no players with jumps in more than 15% of starts, filter to Center, 
+  # Otherwise, if team has multiple players with jumps in more than 75% of starts, filter to player who jumped last
+  # Otherwise, filter to the player with the highest jump rate
+  filter(if (sum(jump_rate_over15) == 0) STARTING_POSITION == "C" 
+         else if (sum(jump_rate_over75) > 1) last_jump == max(last_jump, na.rm = T) 
+         else jump_rate == max(jump_rate)) %>%
   # If tie on team for last jump date (trade, etc), filter by more opening season jumps
   filter(opening_tip_jumps == max(opening_tip_jumps)) %>%
   # If tie on team for opening tip jumps this year, filter by total overall jumps
