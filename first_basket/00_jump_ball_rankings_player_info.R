@@ -11,10 +11,10 @@ library(data.table)
 # Current model uses last two completed seasons and current season as train data
 # To run model for current day's ratings, train_test_date_split is set to current day
 # Sets furthest date that train data goes back
-earliest_train_data_date <- "2018-09-01"
+earliest_train_data_date <- "2015-09-01"
 # Setting date we want to start logging test data on
 # Default uses today's date so that all completed games are used in calcualting ratings
-train_test_date_split <- Sys.Date()
+train_test_date_split <- "2018-09-01"
 
 # Read in all player csvs
 file_list <- list.files(path="./data/nba_player_info/")
@@ -546,6 +546,8 @@ score_first_rates <-
   ungroup() %>%
   select(home_won_tip, home_score_first, tips, tip_wins, tip_wins_pct, score_first) %>%
   mutate(score_first_pct = score_first/tip_wins)
+
+#write.csv(test_df_exp_win_master, "data/02_curated/nba_first_to_score/model_iterative.csv.gz", row.names = FALSE)
 
 ## Write out main file
 write.csv(player_list_df, "data/02_curated/nba_first_to_score/jump_ball_ratings.csv.gz", row.names = FALSE)

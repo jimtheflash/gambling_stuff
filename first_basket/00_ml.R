@@ -4,6 +4,12 @@ library(data.table)
 library(markovchain)
 library(reshape2)
 library(scales)
+library(recipes)
+library(ranger)
+library(pROC)
+library(glmnet)
+library(earth)
+
 
 # Parameters
 
@@ -16,8 +22,13 @@ library(scales)
 # Sets furthest date that train data goes back
 earliest_train_data_date <- "2015-09-01"
 # Setting date we want to start logging test data on
-# Default uses today's date so that all completed games are used in calcualting ratings
+# Default uses today's date so that all completed games are used in calculating ratings
 train_test_date_split <- "2018-09-01"
+
+
+model_markov <- fread("data/02_curated/nba_first_to_score/model_markov.csv.gz")
+model_iterative <- fread("data/02_curated/nba_first_to_score/model_iterative.csv.gz")
+
 
 # Read in all player csvs
 file_list <- list.files(path="./data/nba_player_info/")
@@ -227,8 +238,253 @@ possession_df_vars <-
   ungroup() %>%
   mutate(won_tip = as.factor(won_tip))
 
-possession_final_cols <-
+
+### Adding data from other models
+model_iterative_split <-
+  model_iterative %>%
+  select(season, game_date, game_id, matchup, opening_jump, person_id = home_team_person_id, 
+         team_abbrev = home_team_abbrev,
+         opp_person_id = away_team_person_id, 
+         opp_team_abbrev = away_team_abbrev, 
+         iterative_rating = home_exp_win_adj, 
+         opp_iterative_rating = away_exp_win_adj,
+         iterative_win_tip = final_exp_win_adj) %>%
+  bind_rows(
+    model_iterative %>%
+    select(season, game_date, game_id, matchup, opening_jump, person_id = away_team_person_id, 
+           team_abbrev = away_team_abbrev, opp_person_id = home_team_person_id, 
+           opp_team_abbrev = home_team_abbrev,
+           iterative_rating = away_exp_win_adj, 
+           opp_iterative_rating = home_exp_win_adj,
+           iterative_win_tip = final_exp_win_adj) %>%
+    mutate(iterative_win_tip = 1 - iterative_win_tip)) %>%
+  mutate(game_id = as.character(game_id),
+         game_date = as.Date(game_date),
+         person_id = as.character(person_id),
+         opp_person_id = as.character(opp_person_id))
+
+model_markov_split <-
+  model_markov %>%
+  select(season, game_date, game_id, matchup, opening_jump, person_id = home_team_person_id, 
+         team_abbrev = home_team_abbrev, opp_person_id = away_team_person_id, 
+         opp_team_abbrev = away_team_abbrev,
+         markov_rating = home_team_rating, 
+         opp_markov_rating = away_team_rating, 
+         #markov_height_rating = home_height_rating,
+         #opp_markov_height_rating = away_height_rating, 
+         markov_win_tip = win_tip_prob) %>%
+  bind_rows(
+    model_markov %>%
+      select(season, game_date, game_id, matchup, opening_jump, person_id = away_team_person_id, 
+             team_abbrev = away_team_abbrev, opp_person_id = home_team_person_id, 
+             opp_team_abbrev = home_team_abbrev,
+             markov_rating = away_team_rating, 
+             opp_markov_rating = home_team_rating,
+             #markov_height_rating = away_height_rating,
+             #opp_markov_height_rating = home_height_rating,
+             markov_win_tip = win_tip_prob) %>%
+      mutate(markov_win_tip = 1 - markov_win_tip)) %>%
+  mutate(game_id = as.character(game_id),
+         game_date = as.Date(game_date),
+         person_id = as.character(person_id),
+         opp_person_id = as.character(opp_person_id))
+
+possession_models_joined <-
   possession_df_vars %>%
+  mutate(game_id = as.character(as.integer(game_id)),
+         person_id = as.character(as.integer(person_id)),
+         opp_person_id = as.character(as.integer(opp_person_id)),
+         opening_jump = as.logical(opening_jump)) %>%
+  left_join(model_iterative_split) %>%
+  left_join(model_markov_split) %>%
+  distinct()
+
+
+
+
+################# Day by Day Run #####################
+possession_relevant_dates <-
+  possession_models_joined %>%
+  filter(game_date >= '2018-09-01') %>%
+  drop_na()
+
+# Set of dates to loop through for test data
+unique_dates <-
+  possession_relevant_dates %>%
+  distinct(game_date) %>%
+  arrange(game_date) %>%
+  filter(game_date >= '2019-09-01')
+
+# If no values in unique_dates (i.e. doing current day run instead of historical testing)
+# Set unique_dates to current date so loop runs once to get player ratings
+if (nrow(unique_dates) == 0) {
+  unique_dates <- tibble(game_date = Sys.Date())
+}
+
+# Initializing df that stores test data predictions
+test_df_exp_win_master <- tibble()
+
+for (i in 1:length(unique_dates$game_date)) {
+  message(unique_dates$game_date[i])
+  
+  # Splitting data into train and test sets
+  possession_train <-
+    possession_relevant_dates %>%
+    filter(game_date < unique_dates$game_date[i]) %>%
+    select(-c(season, game_date, game_id, matchup, person_id, team_abbrev, 
+              opp_person_id, opp_team_abbrev, possession, score_first))
+  
+  possession_test <-
+    possession_relevant_dates %>%
+    filter(game_date == unique_dates$game_date[i]) %>%
+    select(-c(season, game_date, game_id, matchup, person_id, team_abbrev, 
+              opp_person_id, opp_team_abbrev, possession, score_first))
+
+  rec_loop <-
+    recipe(possession_train) %>%
+    update_role(won_tip, new_role = 'outcome') %>%
+    update_role(-all_outcomes(), new_role = 'predictor') %>%
+    update_role(ends_with('jumper'), new_role = 'jumper') %>%
+    prep()
+  
+  baked_train_loop <- bake(rec_loop, possession_train)
+  baked_test_loop <- bake(rec_loop, possession_test)
+  
+  ## subset predictors
+  predictor_vars_loop <- rec_loop$term_info$variable[rec_loop$term_info$role == 'predictor']
+  
+  predictors_train_loop <- 
+    baked_train_loop %>%
+    select(any_of(predictor_vars_loop))
+  
+  predictors_test_loop <-
+    baked_test_loop %>%
+    select(any_of(predictor_vars_loop))
+  
+  ## subset outcomes
+  outcome_vars_loop <- rec_loop$term_info$variable[rec_loop$term_info$role == 'outcome']
+  outcomes_loop <- 
+    baked_train_loop %>%
+    select(any_of(outcome_vars_loop))
+  
+  mod_ranger_loop <- ranger(x = predictors_train_loop, y = outcomes_loop$won_tip, probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
+  
+  preds_ranger_loop <- 
+    cbind.data.frame(baked_test_loop, predict(mod_ranger_loop, predictors_test_loop, type = 'response')$predictions) %>%
+    rename(win_tip_prob_ranger = `TRUE`) %>%
+    select(-c(`FALSE`)) %>%
+    mutate(won_tip = as.logical(won_tip))
+  
+  mod_glmnet_loop <- cv.glmnet(x = as.matrix(predictors_train_loop), y = outcomes_loop$won_tip, family = 'binomial')
+  
+  preds_glmnet_loop <- 
+    cbind.data.frame(baked_test_loop, win_tip_prob_glmnet = as.numeric(predict(mod_glmnet_loop, as.matrix(predictors_test_loop), type = 'response'))) %>%
+    mutate(won_tip = as.logical(won_tip))
+  
+  mod_earth_loop <- earth(x = predictors_train_loop, y = outcomes_loop$won_tip, degree = 2, glm = list(family = binomial), nfold = 3)
+  
+  preds_earth_loop <- 
+    cbind.data.frame(baked_test_loop, predict(mod_earth_loop, predictors_test_loop, type = 'response')) %>%
+    rename(win_tip_prob_earth = `TRUE`) %>%
+    mutate(won_tip = as.logical(won_tip))
+  
+  preds_binded_loop <-
+    cbind.data.frame(preds_ranger_loop, preds_glmnet_loop$win_tip_prob_glmnet, preds_earth_loop$win_tip_prob_earth)
+
+  test_df_exp_win_master = rbind.data.frame(test_df_exp_win_master, preds_binded_loop)
+  
+  preds_win_prob <-
+    preds_binded_loop
+  
+  rec_loop <-
+    recipe(possession_train) %>%
+    update_role(won_tip, new_role = 'outcome') %>%
+    update_role(-all_outcomes(), new_role = 'predictor') %>%
+    update_role(ends_with('jumper'), new_role = 'jumper') %>%
+    prep()
+
+}
+
+test_df_exp_win_master_renamed <-
+  test_df_exp_win_master %>%
+  rename(win_tip_prob_glmnet = `preds_glmnet_loop$win_tip_prob_glmnet`,
+         win_tip_prob_earth = `preds_earth_loop$win_tip_prob_earth`)
+
+test_df_exp_win_master_all_combined <- 
+  test_df_exp_win_master_renamed %>%
+  rowwise() %>%
+  mutate(win_tip_prob_all = mean(c(iterative_win_tip, markov_win_tip,
+                                   win_tip_prob_ranger, win_tip_prob_glmnet,
+                                   win_tip_prob_earth)))
+
+brier_score_test_df_loop <-
+  test_df_exp_win_master_all_combined %>%
+  mutate(brier_score_iterative = (iterative_win_tip - won_tip)^2,
+         brier_score_markov = (markov_win_tip - won_tip)^2,
+         brier_score_win_tip_ranger = (win_tip_prob_ranger - won_tip)^2,
+         brier_score_win_tip_glmnet = (win_tip_prob_glmnet - won_tip)^2,
+         brier_score_win_tip_earth = (win_tip_prob_earth - won_tip)^2,
+         brier_score_win_tip_all = (win_tip_prob_all - won_tip)^2)
+
+message("brier score of iterative win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_iterative), 5))
+message("brier score of markov win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_markov), 5))
+message("brier score of ranger win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_win_tip_ranger), 5))
+message("brier score of glmnet win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_win_tip_glmnet), 5))
+message("brier score of earth win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_win_tip_earth), 5))
+message("brier score of all win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_win_tip_all), 5))
+
+test_buckets_win_tip_loop <-
+  test_df_exp_win_master_all_combined %>%
+  mutate(exp_win_prob = cut(win_tip_prob_all, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
+  group_by(exp_win_prob) %>%
+  summarise(jumps = n(),
+            true_win_percent = mean(won_tip),
+            .groups = 'drop')
+
+iterative_auc_loop <- roc(won_tip ~ iterative_win_tip, data = test_df_exp_win_master_all_combined)
+iterative_auc_loop$auc
+plot(iterative_auc_loop)
+
+markov_auc_loop <- roc(won_tip ~ markov_win_tip, data = test_df_exp_win_master_all_combined)
+markov_auc_loop$auc
+plot(markov_auc_loop)
+
+ranger_auc_loop <- roc(won_tip ~ win_tip_prob_ranger, data = test_df_exp_win_master_all_combined)
+ranger_auc_loop$auc
+plot(ranger_auc_loop)
+
+glmnet_auc_loop <- roc(won_tip ~ win_tip_prob_glmnet, data = test_df_exp_win_master_all_combined)
+glmnet_auc_loop$auc
+plot(glmnet_auc_loop)
+
+earth_auc_loop <- roc(won_tip ~ win_tip_prob_earth, data = test_df_exp_win_master_all_combined)
+earth_auc_loop$auc
+plot(earth_auc_loop)
+
+all_auc_loop <- roc(won_tip ~ win_tip_prob_all, data = test_df_exp_win_master_all_combined)
+all_auc_loop$auc
+plot(all_auc_loop)
+
+
+
+
+
+###
+
+
+
+#### current season jump count field
+
+
+
+
+
+
+
+########################### Random Train/Test split ######################################
+
+possession_final_cols <-
+  possession_models_joined %>%
   select(-c(season, game_date, game_id, matchup, person_id, team_abbrev, 
             opp_person_id, opp_team_abbrev, possession, score_first))
 
@@ -250,9 +506,6 @@ testing_data <-
   filter(train_or_test == "Test") %>%
   select(-train_or_test)
 
-
-library(recipes)
-
 rec <-
   recipe(training_data) %>%
   update_role(won_tip, new_role = 'outcome') %>%
@@ -263,10 +516,9 @@ rec <-
 baked_train <- bake(rec, training_data)
 baked_test <- bake(rec, testing_data)
 
-
-library(ranger)
 ## subset predictors
 predictor_vars <- rec$term_info$variable[rec$term_info$role == 'predictor']
+
 predictors_train <- 
   baked_train %>%
   select(any_of(predictor_vars))
@@ -277,388 +529,80 @@ predictors_test <-
 
 ## subset outcomes
 outcome_vars <- rec$term_info$variable[rec$term_info$role == 'outcome']
+
 outcomes <- 
   baked_train %>%
   select(any_of(outcome_vars))
 
+mod_ranger <- ranger(x = predictors_train, y = outcomes$won_tip, probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
 
-mod <- ranger(x = predictors_train, y = outcomes$won_tip, probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
-preds <- 
-  cbind.data.frame(baked_test, predict(mod, predictors_test, type = 'response')$predictions) %>%
+preds_ranger <- 
+  cbind.data.frame(baked_test, predict(mod_ranger, predictors_test, type = 'response')$predictions) %>%
+  rename(win_tip_prob = `TRUE`) %>%
+  select(-c(`FALSE`)) %>%
+  mutate(won_tip = as.logical(won_tip))
+
+mod_glmnet <- cv.glmnet(x = as.matrix(predictors_train), y = outcomes$won_tip, family = 'binomial')
+
+preds_glmnet <- 
+  cbind.data.frame(baked_test, win_tip_prob = as.numeric(predict(mod_glmnet, as.matrix(predictors_test), type = 'response'))) %>%
+  mutate(won_tip = as.logical(won_tip))
+
+mod_earth <- earth(x = predictors_train, y = outcomes$won_tip, degree = 2, glm = list(family = binomial), nfold = 3)
+
+preds_earth <- 
+  cbind.data.frame(baked_test, predict(mod_earth, predictors_test, type = 'response')) %>%
   rename(win_tip_prob = `TRUE`) %>%
   mutate(won_tip = as.logical(won_tip))
 
-test_buckets_win_tip <-
-  preds %>%
+test_buckets_win_tip_ranger <-
+  preds_ranger %>%
   mutate(exp_win_prob = cut(win_tip_prob, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
   group_by(exp_win_prob) %>%
   summarise(jumps = n(),
             true_win_percent = mean(won_tip),
             .groups = 'drop')
 
+test_buckets_win_tip_glmnet <-
+  preds_glmnet %>%
+  mutate(exp_win_prob = cut(win_tip_prob, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
+  group_by(exp_win_prob) %>%
+  summarise(jumps = n(),
+            true_win_percent = mean(won_tip),
+            .groups = 'drop')
+
+test_buckets_win_tip_earth <-
+  preds_earth %>%
+  mutate(exp_win_prob = cut(win_tip_prob, breaks = seq(0, 100, by = 0.05), right = FALSE)) %>%
+  group_by(exp_win_prob) %>%
+  summarise(jumps = n(),
+            true_win_percent = mean(won_tip),
+            .groups = 'drop')
+
 brier_score_test_df <-
-  preds %>%
-  mutate(brier_score_win_tip = (win_tip_prob - won_tip)^2) %>%
+  preds_earth %>%
+  mutate(brier_score_win_tip = (win_tip_prob - won_tip)^2,
+         brier_score_markov = (markov_win_tip - won_tip)^2,
+         brier_score_iterative = (iterative_win_tip - won_tip)^2) %>%
   filter(!is.na(brier_score_win_tip))
 
-message("brier score of win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip), 5))
+message("brier score of ensemble win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip), 5))
+message("brier score of markov win tips is equal to ", round(mean(brier_score_test_df$brier_score_markov), 5))
+message("brier score of iterative win tips is equal to ", round(mean(brier_score_test_df$brier_score_iterative), 5))
 
-library(pROC)
-g <- roc(won_tip ~ win_tip_prob, data = preds)
-g$auc
-plot(g)
+markov_auc <- roc(won_tip ~ markov_win_tip, data = preds_earth)
+markov_auc$auc
+plot(markov_auc)
 
+ensemble_auc <- roc(won_tip ~ win_tip_prob, data = preds_earth)
+ensemble_auc$auc
+plot(ensemble_auc)
+
+iterative_auc <- roc(won_tip ~ iterative_win_tip, data = preds_earth)
+iterative_auc$auc
+plot(iterative_auc)
 ###
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# # Set of dates to loop through for test data
-# unique_dates <-
-#   possession_df %>%
-#   distinct(game_date) %>%
-#   arrange(game_date) %>%
-#   filter(game_date >= train_test_date_split)
-# 
-# # If no values in unique_dates (i.e. doing current day run instead of historical testing)
-# # Set unique_dates to current date so loop runs once to get player ratings
-# if (nrow(unique_dates) == 0) {
-#   unique_dates <- tibble(game_date = Sys.Date())
-# }
-# 
-# # Initializing df that stores test data predictions
-# test_df_exp_win_master <- tibble()
-# 
-# # Function that loops through every day in our test dates
-# # At each day, the function resets the train data to include everything up to current date
-# # Test data becomes the list of games for that day
-# for (i in 1:length(unique_dates$game_date)) {
-#   message(unique_dates$game_date[i])
-#   
-#   # Splitting data into train and test sets
-#   possession_train <-
-#     possession_df %>%
-#     filter(game_date < unique_dates$game_date[i])
-#   
-#   possession_test <-
-#     possession_df %>%
-#     filter(game_date == unique_dates$game_date[i])
-#   
-#   #### Training Data ####
-#   player_markov <-
-#     possession_train %>%
-#     select(player = home_team_jumper, opponent = away_team_jumper, win = home_won_tip) %>%
-#     bind_rows(possession_train %>%
-#                 select(player = away_team_jumper, opponent = home_team_jumper, win = home_won_tip) %>%
-#                 mutate(win = !win)) %>%
-#     group_by(player, opponent) %>%
-#     summarise(wins = n() + sum(win)*10000, # (1,alpha) voting scheme where alpha = 10000
-#               .groups = 'drop') 
-#   
-#   # Reshaping data
-#   player_matrix <- dcast(melt(player_markov, id = c("player", "opponent")), opponent~player)
-#   # Turning to matrix and setting nulls to 0
-#   player_matrix_df <- as.matrix(player_matrix[,-1])
-#   player_matrix_df[is.na(player_matrix_df)] <- 0
-#   # Adding row names as players
-#   dimnames(player_matrix_df) <- list(player_matrix[, 1], player_matrix[,1])
-#   
-#   # Adding small value so every player maps to every other player
-#   player_matrix_adj <- player_matrix_df + .00001
-#   
-#   # Normalizing rows so they sum to 1
-#   player_matrix_normalized <-player_matrix_adj/rowSums(player_matrix_adj)
-#   #player_matrix_normalized[is.na(player_matrix_normalized)] <- 0
-#   
-#   # Finding steady state rankings
-#   player_markov_test <-
-#     new("markovchain",
-#         states = colnames(player_matrix_normalized),
-#         transitionMatrix = player_matrix_normalized)
-#   
-#   steady_state <- t(steadyStates(player_markov_test))
-# 
-#   steady_state_df <- 
-#     tibble(
-#       player = rownames(steady_state),
-#       rating = steady_state
-#     )
-#   
-#   # Adding jumper rating 
-#   df_with_jumper_rating <-
-#     possession_train %>%
-#     left_join(steady_state_df, by = c("home_team_jumper" = "player")) %>%
-#     rename(home_team_rating = rating) %>%
-#     left_join(steady_state_df, by = c("away_team_jumper" = "player")) %>%
-#     rename(away_team_rating = rating)
-#   
-#   # Grabbing player, height, and rating from data
-#   player_height_ratings <-
-#     df_with_jumper_rating %>%
-#     distinct(jumper = home_team_jumper, height = home_team_height, rating = home_team_rating) %>%
-#     bind_rows(df_with_jumper_rating %>%
-#                 distinct(jumper = away_team_jumper, height = away_team_height, rating = away_team_rating)) %>%
-#     distinct(jumper, height, rating)
-#   
-#   # Model to predict rating based on height
-#   height_model <- lm(rating ~ height, data = player_height_ratings)
-#   
-#   # Data frame that stores height rating
-#   height_df <- cbind.data.frame(player_height_ratings, height_rating = predict(height_model, newdata = player_height_ratings))
-#   
-#   # Adding height rating to main training df
-#   df_for_train <-
-#     df_with_jumper_rating %>%
-#     left_join(height_df, by = c("home_team_jumper" = "jumper", "home_team_height" = "height", "home_team_rating" = "rating")) %>%
-#     rename(home_height_rating = height_rating) %>%
-#     left_join(height_df, by = c("away_team_jumper" = "jumper", "away_team_height" = "height", "away_team_rating" = "rating")) %>%
-#     rename(away_height_rating = height_rating)
-#   
-#   # Model to predict chance of winning tip
-#   model_win_tip <- glm(home_won_tip ~ home_team_rating + away_team_rating +
-#                          home_height_rating + away_height_rating + 
-#                          home_team_weight + away_team_weight,
-#                        data = df_for_train, 
-#                        family = 'binomial')
-#   
-#   model_score_first <- glm(home_score_first ~ home_team_rating + away_team_rating + 
-#                              home_height_rating + away_height_rating + 
-#                              home_team_weight + away_team_weight,
-#                            data = df_for_train, 
-#                            family = 'binomial')
-#   
-#   predictions_train <-
-#     cbind.data.frame(df_for_train, 
-#                      win_tip_prob = predict(model_win_tip, newdata = df_for_train, type = 'response'),
-#                      score_first_prob = predict(model_score_first, newdata = df_for_train, type = 'response'))
-#   
-#   train_buckets <-
-#     predictions_train %>%
-#     mutate(exp_win_prob = cut(win_tip_prob, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
-#     group_by(exp_win_prob) %>%
-#     summarise(jumps = n(),
-#               true_win_percent = mean(home_won_tip),
-#               .groups = 'drop')
-#   
-#   # Determines Brier Score for win tip backtesting
-#   brier_score_train_df <-
-#     predictions_train %>%
-#     mutate(brier_score_win_tip = (win_tip_prob - home_won_tip)^2,
-#            brier_score_score_first= (score_first_prob - home_score_first)^2) %>%
-#     filter(!is.na(brier_score_win_tip), !is.na(brier_score_score_first))
-#   
-#   brier_score_win_tip <- mean(brier_score_train_df$brier_score_win_tip)
-#   message("brier score of win tips is equal to ", round(brier_score_win_tip, 5))
-#   
-#   brier_score_score_first <- mean(brier_score_train_df$brier_score_score_first)
-#   message("brier score of score first is equal to ", round(brier_score_score_first, 5))
-#   
-#   #### Testing Data ####
-#   df_for_test <-
-#     possession_test %>%
-#     left_join(steady_state_df, by = c("home_team_jumper" = "player")) %>%
-#     rename(home_team_rating = rating) %>%
-#     left_join(steady_state_df, by = c("away_team_jumper" = "player")) %>%
-#     rename(away_team_rating = rating) %>%
-#     left_join(height_df, by = c("home_team_jumper" = "jumper", "home_team_height" = "height", "home_team_rating" = "rating")) %>%
-#     rename(home_height_rating = height_rating) %>%
-#     left_join(height_df, by = c("away_team_jumper" = "jumper", "away_team_height" = "height", "away_team_rating" = "rating")) %>%
-#     rename(away_height_rating = height_rating)
-#   
-#   predictions_today <-
-#     cbind.data.frame(df_for_test, 
-#                      win_tip_prob = predict(model_win_tip, newdata = df_for_test, type = 'response'),
-#                      score_first_prob = predict(model_score_first, newdata = df_for_test, type = 'response'))
-#   
-#   test_df_exp_win_master <- rbind.data.frame(test_df_exp_win_master, predictions_today)
-#   
-# }
-# 
-# # Adding score first percentage (given tip win prediction)
-# test_df_exp_win_master <-
-#   test_df_exp_win_master %>%
-#   filter(!is.na(win_tip_prob)) %>%
-#   mutate(exp_score_first = (win_tip_prob*.61) + ((1 - win_tip_prob)*.41))
-# 
-# # Views performance of model on test data
-# # Is split into buckets of predicted win probability, and compares to performance of those predictions
-# # Ideally, the average win percentage of a bucket should match the bucket it is in
-# test_buckets_win_tip <-
-#   test_df_exp_win_master %>%
-#   mutate(exp_win_prob = cut(win_tip_prob, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
-#   group_by(exp_win_prob) %>%
-#   summarise(jumps = n(),
-#             true_win_percent = mean(home_won_tip),
-#             .groups = 'drop')
-# 
-# test_buckets_score_model <-
-#   test_df_exp_win_master %>%
-#   mutate(exp_score_first_prob = cut(score_first_prob, breaks = seq(0, 100, by = 0.025), right = FALSE)) %>%
-#   group_by(exp_score_first_prob) %>%
-#   summarise(jumps = n(),
-#             tip_win_percent = mean(home_won_tip),
-#             first_score_percent = mean(home_score_first),
-#             .groups = 'drop')
-# 
-# test_buckets_score_myself <-
-#   test_df_exp_win_master %>%
-#   mutate(exp_score_first_prob = cut(exp_score_first, breaks = seq(0, 100, by = 0.025), right = FALSE)) %>%
-#   group_by(exp_score_first_prob) %>%
-#   summarise(jumps = n(),
-#             tip_win_percent = mean(home_won_tip),
-#             first_score_percent = mean(home_score_first),
-#             .groups = 'drop')
-# 
-# 
-# # Determines Brier Score on backtesting
-# brier_score_test_df <-
-#   test_df_exp_win_master %>%
-#   mutate(brier_score_win_tip = (win_tip_prob - home_won_tip)^2,
-#          brier_score_score_first_model = (score_first_prob - home_score_first)^2,
-#          brier_score_score_first_myself = (exp_score_first - home_score_first)^2) %>%
-#   filter(!is.na(brier_score_win_tip), !is.na(brier_score_score_first_model), !is.na(brier_score_score_first_myself))
-# 
-# brier_score_by_season <-
-#   brier_score_test_df %>%
-#   group_by(season) %>%
-#   summarise(brier_score_win_tip = mean(brier_score_win_tip),
-#             brier_score_score_first_model = mean(brier_score_score_first_model),
-#             brier_score_score_first_myself = mean(brier_score_score_first_myself))
-# 
-# message("brier score of win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip), 5))
-# message("brier score of score first model is equal to ", round(mean(brier_score_test_df$brier_score_score_first_model), 5))
-# message("brier score of score first myself is equal to ", round(mean(brier_score_test_df$brier_score_score_first_myself), 5))
-# 
-# 
-# library(pROC)
-# g <- roc(home_won_tip ~ win_tip_prob, data = test_df_exp_win_master)
-# g$auc
-# plot(g)
-# 
-# # Score First Rates based on Win Tip, home/away
-# score_first_rates_by_season <-
-#   test_df_exp_win_master %>%
-#   group_by(season, home_won_tip, home_score_first) %>%
-#   summarise(score_first = n()) %>%
-#   group_by(season) %>%
-#   mutate(season_tips = sum(score_first)) %>%
-#   group_by(season, home_won_tip) %>%
-#   mutate(tip_wins = sum(score_first),
-#          tip_wins_pct = tip_wins/season_tips) %>%
-#   ungroup() %>%
-#   select(season, home_won_tip, home_score_first, season_tips, tip_wins, tip_wins_pct, score_first) %>%
-#   mutate(score_first_pct = score_first/tip_wins)
-# 
-# score_first_rates <-
-#   test_df_exp_win_master %>%
-#   group_by(home_won_tip, home_score_first) %>%
-#   summarise(score_first = n()) %>%
-#   ungroup() %>%
-#   mutate(tips = sum(score_first)) %>%
-#   group_by(home_won_tip) %>%
-#   mutate(tip_wins = sum(score_first),
-#          tip_wins_pct = tip_wins/tips) %>%
-#   ungroup() %>%
-#   select(home_won_tip, home_score_first, tips, tip_wins, tip_wins_pct, score_first) %>%
-#   mutate(score_first_pct = score_first/tip_wins)
-# 
-# # ## Write out main file
-# # write.csv(player_list_df, "data/02_curated/nba_first_to_score/jump_ball_ratings.csv.gz", row.names = FALSE)
-# # 
-# # ## Write out archive file
-# # yyyy <- as.character(year(Sys.Date()))
-# # mm <- str_pad(as.character(month(Sys.Date())), 2, "left", pad = 0)
-# # dd <- str_pad(as.character(day(Sys.Date())), 2, "left", pad = 0)
-# # 
-# # if (dir.exists(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)))) {
-# #   message("directory already exists")
-# # }else{
-# #   dir.create(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)), recursive = TRUE)
-# # }
-# # 
-# # write.csv(player_list_df, paste0("data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd, "/", "jump_ball_ratings.csv.gz"), row.names = FALSE)
-# # 
-# 
-# 
-# #### SCRATCH #####
-# # When do player ratings stay the same?
-# # jumps_counts_players_home <-
-# #   test_df_exp_win_master %>%
-# #   select(person_id = home_team_person_id, jumps = home_jumps, exp_win = home_exp_win, exp_win_adj = home_exp_win_adj)
-# 
-# # jumps_counts_players_away <-
-# #   test_df_exp_win_master %>%
-# #   select(person_id = away_team_person_id, jumps = away_jumps, exp_win = away_exp_win, exp_win_adj = away_exp_win_adj)
-# 
-# # jump_counts_players <-
-# #   rbind.data.frame(jumps_counts_players_home, jumps_counts_players_away) %>%
-# #   arrange(person_id, jumps) %>%
-# #   distinct() %>%
-# #   group_by(person_id) %>%
-# #   mutate(difference = abs(exp_win - lag(exp_win)),
-# #          difference_adj = abs(exp_win_adj - lag(exp_win_adj)))
-# 
-# # difference_by_jumps <-
-# #   jump_counts_players %>%
-# #   group_by(jumps) %>%
-# #   summarise(avg_diff = mean(difference, na.rm = T),
-# #             avg_diff_adj = mean(difference_adj, na.rm = T))
-# 
-# # plot(difference_by_jumps$jumps, difference_by_jumps$avg_diff)
-# # plot(difference_by_jumps$jumps, difference_by_jumps$avg_diff_adj)

@@ -343,6 +343,8 @@ test_df_exp_win_master <-
   filter(!is.na(win_tip_prob)) %>%
   mutate(exp_score_first = (win_tip_prob*.61) + ((1 - win_tip_prob)*.41))
 
+#write.csv(test_df_exp_win_master, "data/02_curated/nba_first_to_score/model_markov.csv.gz", row.names = FALSE)
+
 # Views performance of model on test data
 # Is split into buckets of predicted win probability, and compares to performance of those predictions
 # Ideally, the average win percentage of a bucket should match the bucket it is in
