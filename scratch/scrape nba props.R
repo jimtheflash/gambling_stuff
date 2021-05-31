@@ -77,9 +77,16 @@ output <- do.call(rbind, outcomes_df_list)
 pts <- player_props$offers[player_props$name == 'Points'][[1]]           
 
 
+# pointsbet ---------------------------------------------------------------
+
+# get all the event keys
+all_json <- jsonlite::fromJSON('https://api.il.pointsbet.com/api/v2/competitions/5/events/featured?includeLive=false&page=1')
+events <- all_json$events
+keys <- unique(events$key)
 
 
+event <- jsonlite::fromJSON('https://api.il.pointsbet.com/api/v2/events/61729')
+fixedOddsMarkets <- event$fixedOddsMarkets
 
-# betonline ---------------------------------------------------------------
-
-
+first_basket <- fixedOddsMarkets$outcomes[fixedOddsMarkets$eventName == 'First Basket'][[1]]
+first_team_to_score <- fixedOddsMarkets$outcomes[fixedOddsMarkets$eventName == 'First Team to Score'][[1]]
