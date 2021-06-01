@@ -1,0 +1,545 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042000104,2,12,0,1,7:16 PM,12:00,,Start of 1st Period (7:16 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,4,10,0,1,7:16 PM,12:00,Jump Ball Gafford vs. Embiid: Tip to Simmons,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1
+0042000104,7,5,2,1,7:16 PM,11:40,Westbrook STEAL (1 STL),,Embiid Lost Ball Turnover (P1.T1),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,9,6,28,1,7:17 PM,11:39,,,Curry Personal Take Foul (P1.T1) (K.Fitzgerald),,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,11,2,79,1,7:17 PM,11:26,MISS Westbrook 16' Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,12,4,0,1,7:17 PM,11:22,,,Simmons REBOUND (Off:0 Def:1),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,13,1,6,1,7:17 PM,11:16,,,Simmons 4' Driving Layup (2 PTS),2 - 0,-2,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,14,1,80,1,7:17 PM,11:04,Beal 20' Step Back Jump Shot (2 PTS),,,2 - 2,TIE,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,15,2,1,1,7:17 PM,10:54,,,MISS Embiid 26' 3PT Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,16,4,0,1,7:18 PM,10:51,Bertans REBOUND (Off:0 Def:1),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,17,5,1,1,7:18 PM,10:41,Hachimura Bad Pass Turnover (P1.T1),,Green STEAL (1 STL),,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,19,2,1,1,7:18 PM,10:27,,,MISS Curry 27' 3PT Jump Shot,,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,20,4,0,1,7:18 PM,10:23,Beal REBOUND (Off:0 Def:1),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,21,2,1,1,7:18 PM,10:17,MISS Hachimura 3PT Jump Shot,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,22,4,0,1,7:18 PM,10:13,,,Embiid REBOUND (Off:0 Def:1),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,23,1,101,1,7:18 PM,10:11,,,Simmons 5' Driving Floating Jump Shot (4 PTS),4 - 2,-2,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,24,6,2,1,7:18 PM,10:11,Bertans S.FOUL (P1.T1) (C.Kirkland),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,26,3,10,1,7:19 PM,10:11,,,MISS Simmons Free Throw 1 of 1,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,27,4,0,1,7:19 PM,10:08,Hachimura REBOUND (Off:0 Def:1),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,28,2,79,1,7:19 PM,10:00,MISS Westbrook 16' Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,29,4,0,1,7:19 PM,9:56,,,Embiid REBOUND (Off:0 Def:2),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,30,1,73,1,7:19 PM,9:45,,,Curry 2' Driving Reverse Layup (2 PTS),6 - 2,-4,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,31,6,2,1,7:19 PM,9:42,,,Embiid S.FOUL (P1.T2) (C.Kirkland),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,33,3,11,1,7:20 PM,9:42,Bertans Free Throw 1 of 2 (1 PTS),,,6 - 3,-3,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,34,3,12,1,7:20 PM,9:42,Bertans Free Throw 2 of 2 (2 PTS),,,6 - 4,-2,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,35,1,101,1,7:20 PM,9:28,,,Harris 9' Driving Floating Jump Shot (2 PTS) (Embiid 1 AST),8 - 4,-4,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,37,5,1,1,7:20 PM,9:19,Westbrook Bad Pass Turnover (P1.T2),,Embiid STEAL (1 STL),,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,39,6,1,1,7:21 PM,9:10,Gafford P.FOUL (P1.T2) (K.Fitzgerald),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,41,1,80,1,7:21 PM,9:03,,,Harris 17' Step Back Jump Shot (4 PTS),10 - 4,-6,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,42,2,1,1,7:21 PM,8:49,MISS Beal 20' Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,43,4,0,1,7:21 PM,8:46,,,Harris REBOUND (Off:0 Def:1),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,44,2,1,1,7:21 PM,8:43,,,MISS Harris 26' 3PT Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,45,4,0,1,7:21 PM,8:39,Beal REBOUND (Off:0 Def:2),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,46,2,6,1,7:21 PM,8:35,MISS Beal 4' Driving Layup,,Green BLOCK (1 BLK),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,1
+0042000104,48,4,0,1,7:21 PM,8:35,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,50,6,2,1,7:22 PM,8:22,Gafford S.FOUL (P2.T3) (S.Corbin),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,52,3,11,1,7:22 PM,8:22,,,Embiid Free Throw 1 of 2 (1 PTS),11 - 4,-7,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,53,8,0,1,7:22 PM,8:22,SUB: Len FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,55,3,12,1,7:23 PM,8:22,,,Embiid Free Throw 2 of 2 (2 PTS),12 - 4,-8,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,56,9,1,1,7:23 PM,8:22,WIZARDS Timeout: Regular (Full 1 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,57,2,1,1,7:27 PM,8:12,MISS Beal 26' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,58,4,0,1,7:27 PM,8:09,,,Harris REBOUND (Off:0 Def:2),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,59,6,1,1,7:27 PM,8:03,Len P.FOUL (P1.T4) (C.Kirkland),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,61,1,1,1,7:27 PM,7:49,,,Embiid 15' Jump Shot (4 PTS),14 - 4,-10,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,62,6,2,1,7:27 PM,7:40,,,Green S.FOUL (P1.T3) (S.Corbin),,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,64,3,11,1,7:28 PM,7:40,Westbrook Free Throw 1 of 2 (1 PTS),,,14 - 5,-9,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,65,3,12,1,7:28 PM,7:40,MISS Westbrook Free Throw 2 of 2,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,66,4,0,1,7:28 PM,7:36,,,Embiid REBOUND (Off:0 Def:3),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,67,1,52,1,7:28 PM,7:28,,,Simmons 2' Alley Oop Dunk (6 PTS) (Curry 1 AST),16 - 5,-11,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,69,1,1,1,7:29 PM,7:15,Bertans 3PT Jump Shot (5 PTS) (Len 1 AST),,,16 - 8,-8,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,71,6,2,1,7:29 PM,6:59,Len S.FOUL (P2.PN) (S.Corbin),,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,73,3,11,1,7:29 PM,6:59,,,Embiid Free Throw 1 of 2 (5 PTS),17 - 8,-9,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,74,8,0,1,7:29 PM,6:59,SUB: Lopez FOR Len,,,,,4,203458,Alex Len,1610612764.0,Washington,Wizards,WAS,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,76,3,12,1,7:30 PM,6:59,,,Embiid Free Throw 2 of 2 (6 PTS),18 - 8,-10,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,77,2,6,1,7:30 PM,6:45,MISS Westbrook 5' Driving Layup,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,78,4,0,1,7:30 PM,6:41,Westbrook REBOUND (Off:1 Def:0),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,97,2,97,1,7:30 PM,6:40,MISS Westbrook 3' Tip Layup Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,98,4,0,1,7:30 PM,6:40,,,Embiid REBOUND (Off:0 Def:4),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,79,2,5,1,7:30 PM,6:24,,,MISS Harris 5' Layup,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,80,4,0,1,7:30 PM,6:22,Hachimura REBOUND (Off:0 Def:2),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,81,2,3,1,7:31 PM,6:16,MISS Lopez 6' Hook Shot,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,82,4,0,1,7:31 PM,6:16,Westbrook REBOUND (Off:2 Def:0),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,83,6,1,1,7:31 PM,6:16,,,Simmons P.FOUL (P1.T4) (S.Corbin),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,85,8,0,1,7:31 PM,6:16,SUB: Smith FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,87,6,1,1,7:31 PM,6:07,,,Curry P.FOUL (P2.PN) (S.Corbin),,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,89,3,11,1,7:32 PM,6:07,Bertans Free Throw 1 of 2 (6 PTS),,,18 - 9,-9,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0042000104,90,8,0,1,7:32 PM,6:07,,,SUB: G. Hill FOR Curry,,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,92,3,12,1,7:32 PM,6:07,Bertans Free Throw 2 of 2 (7 PTS),,,18 - 10,-8,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0042000104,93,2,98,1,7:33 PM,5:51,,,MISS Harris 5' Cutting Layup Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,94,4,0,1,7:33 PM,5:50,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0042000104,95,8,0,1,7:33 PM,5:50,,,SUB: Thybulle FOR Harris,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,99,5,40,1,7:33 PM,5:44,Beal Out of Bounds Lost Ball Turnover (P1.T3),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0042000104,101,2,1,1,7:33 PM,5:38,,,MISS Thybulle 27' 3PT Jump Shot,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,102,4,0,1,7:33 PM,5:34,Smith REBOUND (Off:0 Def:1),,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,103,2,79,1,7:33 PM,5:27,MISS Smith 16' Pullup Jump Shot,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,104,4,0,1,7:33 PM,5:25,,,Simmons REBOUND (Off:0 Def:2),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,105,1,9,1,7:34 PM,5:15,,,Thybulle 1' Driving Dunk (2 PTS) (Green 1 AST),20 - 10,-10,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,107,1,78,1,7:34 PM,4:52,Beal 7' Floating Jump Shot (4 PTS),,,20 - 12,-8,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,108,2,6,1,7:34 PM,4:43,Lopez BLOCK (1 BLK),,MISS Embiid 7' Driving Layup,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,1
+0042000104,110,4,0,1,7:34 PM,4:40,Hachimura REBOUND (Off:0 Def:3),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,111,1,2,1,7:34 PM,4:38,Bertans 25' 3PT Running Jump Shot (10 PTS) (Hachimura 1 AST),,,20 - 15,-5,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,113,9,1,1,7:34 PM,4:38,,,76ers Timeout: Regular (Reg.1 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,114,8,0,1,7:35 PM,4:38,SUB: Neto FOR Hachimura,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,116,6,28,1,7:38 PM,4:36,Neto Personal Take Foul (P1.PN) (C.Kirkland),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,118,3,11,1,7:38 PM,4:36,,,Simmons Free Throw 1 of 2 (7 PTS),21 - 15,-6,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,119,3,12,1,7:38 PM,4:36,,,MISS Simmons Free Throw 2 of 2,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,120,4,0,1,7:38 PM,4:33,Neto REBOUND (Off:0 Def:1),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,121,2,1,1,7:39 PM,4:22,MISS Bertans 26' 3PT Jump Shot,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,122,4,0,1,7:39 PM,4:18,,,Simmons REBOUND (Off:0 Def:3),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,123,2,79,1,7:39 PM,4:00,,,MISS Embiid 18' Pullup Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,124,4,0,1,7:39 PM,3:54,Lopez REBOUND (Off:0 Def:1),,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,125,1,98,1,7:39 PM,3:47,Bertans 8' Cutting Layup Shot (12 PTS) (Smith 1 AST),,,21 - 17,-4,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,128,1,1,1,7:40 PM,3:34,,,Thybulle 24' 3PT Jump Shot (5 PTS) (G. Hill 1 AST),24 - 17,-7,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,130,2,6,1,7:40 PM,3:21,MISS Beal 4' Driving Layup,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,131,4,0,1,7:40 PM,3:18,,,Embiid REBOUND (Off:0 Def:5),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,132,5,2,1,7:40 PM,3:09,Smith STEAL (1 STL),,G. Hill Lost Ball Turnover (P1.T2),,,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,134,6,2,1,7:40 PM,2:59,,,Simmons S.FOUL (P2.PN) (C.Kirkland),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,136,3,11,1,7:41 PM,2:59,Neto Free Throw 1 of 2 (1 PTS),,,24 - 18,-6,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,143,3,12,1,7:41 PM,2:59,MISS Neto Free Throw 2 of 2,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,137,8,0,1,7:41 PM,2:59,SUB: Westbrook FOR Beal,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,138,8,0,1,7:41 PM,2:59,,,SUB: Maxey FOR Green,,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,139,8,0,1,7:41 PM,2:59,,,SUB: Milton FOR Simmons,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,144,4,0,1,7:41 PM,2:56,,,Embiid REBOUND (Off:0 Def:6),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,145,2,1,1,7:42 PM,2:49,,,MISS Milton 26' 3PT Jump Shot,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,146,4,0,1,7:42 PM,2:46,Lopez REBOUND (Off:0 Def:2),,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,147,2,6,1,7:42 PM,2:39,MISS Westbrook 4' Driving Layup,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,148,4,0,1,7:42 PM,2:35,,,Thybulle REBOUND (Off:0 Def:1),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,149,1,6,1,7:42 PM,2:28,,,Embiid 2' Driving Layup (8 PTS) (Maxey 1 AST),26 - 18,-8,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,150,1,6,1,7:42 PM,2:18,Neto 2' Driving Layup (3 PTS) (Westbrook 1 AST),,,26 - 20,-6,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,152,6,2,1,7:42 PM,2:18,,,Maxey S.FOUL (P1.PN) (S.Corbin),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,154,3,10,1,7:43 PM,2:18,Neto Free Throw 1 of 1 (4 PTS),,,26 - 21,-5,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,155,5,1,1,7:43 PM,2:01,Neto STEAL (1 STL),,Maxey Bad Pass Turnover (P1.T3),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,157,2,6,1,7:43 PM,1:55,MISS Neto 3' Driving Layup,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,158,4,0,1,7:43 PM,1:53,Lopez REBOUND (Off:1 Def:2),,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,159,1,72,1,7:43 PM,1:52,Lopez 4' Putback Layup (2 PTS),,,26 - 23,-3,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,160,1,1,1,7:43 PM,1:37,,,G. Hill 27' 3PT Jump Shot (3 PTS) (Embiid 2 AST),29 - 23,-6,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,162,1,58,1,7:44 PM,1:23,Lopez 5' Turnaround Hook Shot (4 PTS) (Westbrook 2 AST),,,29 - 25,-4,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,164,2,79,1,7:44 PM,1:05,,,MISS Embiid 27' 3PT Pullup Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,165,4,0,1,7:44 PM,1:03,Bertans REBOUND (Off:0 Def:2),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,166,1,58,1,7:44 PM,0:55,Lopez 5' Turnaround Hook Shot (6 PTS) (Smith 2 AST),,,29 - 27,-2,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,168,2,1,1,7:44 PM,0:40,,,MISS Thybulle 24' 3PT Jump Shot,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,169,4,0,1,7:45 PM,0:36,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,171,8,0,1,7:45 PM,0:36,SUB: Hachimura FOR Neto,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,172,8,0,1,7:45 PM,0:36,,,SUB: Howard FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,175,2,6,1,7:46 PM,0:29,,,MISS Milton 6' Driving Layup,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,176,4,0,1,7:46 PM,0:26,Westbrook REBOUND (Off:2 Def:1),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,177,6,1,1,7:46 PM,0:21,,,Milton P.FOUL (P1.PN) (C.Kirkland),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,179,3,11,1,7:47 PM,0:21,MISS Westbrook Free Throw 1 of 2,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,180,4,1,1,7:47 PM,0:21,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,181,8,0,1,7:47 PM,0:21,SUB: Bonga FOR Lopez,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,182,8,0,1,7:47 PM,0:21,,,SUB: Korkmaz FOR Thybulle,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,183,8,0,1,7:47 PM,0:21,,,SUB: Harris FOR Howard,,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,187,3,12,1,7:47 PM,0:21,Westbrook Free Throw 2 of 2 (2 PTS),,,29 - 28,-1,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,188,1,6,1,7:48 PM,0:06,,,Milton 4' Driving Layup (2 PTS),31 - 28,-3,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,189,2,1,1,7:48 PM,0:00,MISS Bonga 25' 3PT Jump Shot,,,,,4,1629067,Isaac Bonga,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,190,4,0,1,7:48 PM,0:00,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,191,13,0,1,7:48 PM,0:00,,End of 1st Period (7:48 PM EST),,31 - 28,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042000104,198,12,0,2,7:52 PM,12:00,,Start of 2nd Period (7:52 PM EST),,31 - 28,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,199,1,108,2,7:52 PM,11:40,Lopez 2' Cutting Dunk Shot (8 PTS) (Westbrook 3 AST),,,31 - 30,-1,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,201,2,79,2,7:52 PM,11:21,,,MISS G. Hill 26' 3PT Pullup Jump Shot,,,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,202,4,0,2,7:52 PM,11:20,Westbrook REBOUND (Off:2 Def:2),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,203,6,1,2,7:52 PM,11:20,,,G. Hill P.FOUL (P1.T1) (S.Corbin),,,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,205,8,0,2,7:52 PM,11:20,,,SUB: Thybulle FOR Milton,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,207,2,78,2,7:53 PM,11:11,MISS Beal 9' Floating Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,208,4,0,2,7:53 PM,11:08,,,Harris REBOUND (Off:0 Def:3),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,209,1,1,2,7:53 PM,10:59,,,Thybulle 26' 3PT Jump Shot (8 PTS) (Harris 1 AST),34 - 30,-4,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,211,1,1,2,7:53 PM,10:43,Hachimura 26' 3PT Jump Shot (3 PTS) (Westbrook 4 AST),,,34 - 33,-1,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,213,1,80,2,7:53 PM,10:28,,,Harris 27' 3PT Step Back Jump Shot (7 PTS) (Howard 1 AST),37 - 33,-4,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,215,1,3,2,7:54 PM,10:18,Lopez 12' Hook Shot (10 PTS) (Westbrook 5 AST),,,37 - 35,-2,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,217,6,2,2,7:54 PM,9:53,Smith S.FOUL (P1.T1) (K.Fitzgerald),,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,219,3,11,2,7:55 PM,9:53,,,Harris Free Throw 1 of 2 (8 PTS),38 - 35,-3,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,220,3,12,2,7:55 PM,9:53,,,Harris Free Throw 2 of 2 (9 PTS),39 - 35,-4,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,221,6,1,2,7:55 PM,9:46,,,Thybulle P.FOUL (P1.T2) (S.Corbin),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,223,6,26,2,7:56 PM,9:38,Westbrook Offensive Charge Foul (P1.T2) (S.Corbin),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,225,5,37,2,7:56 PM,9:38,Westbrook Offensive Foul Turnover (P2.T4),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0042000104,226,2,6,2,7:56 PM,9:24,,,MISS Maxey 5' Driving Layup,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,227,4,0,2,7:56 PM,9:24,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,228,6,3,2,7:56 PM,9:24,,,Howard L.B.FOUL (P1.T3) (K.Fitzgerald),,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,230,2,6,2,7:57 PM,9:10,MISS Beal 5' Driving Layup,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,231,4,0,2,7:57 PM,9:05,Lopez REBOUND (Off:2 Def:2),,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,232,1,97,2,7:57 PM,9:05,Lopez Tip Layup Shot (12 PTS),,,39 - 37,-2,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,235,1,1,2,7:57 PM,8:52,,,G. Hill 27' 3PT Jump Shot (6 PTS) (Harris 2 AST),42 - 37,-5,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,237,2,1,2,7:57 PM,8:34,MISS Westbrook 25' 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,238,4,0,2,7:57 PM,8:31,,,Harris REBOUND (Off:0 Def:4),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,239,2,6,2,7:58 PM,8:24,,,MISS Harris 6' Driving Layup,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,240,4,0,2,7:58 PM,8:22,Beal REBOUND (Off:0 Def:3),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,241,1,75,2,7:58 PM,8:17,Beal 4' Driving Finger Roll Layup (6 PTS),,,42 - 39,-3,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,242,6,2,2,7:58 PM,7:59,Smith S.FOUL (P2.T3) (K.Fitzgerald),,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,244,3,11,2,7:59 PM,7:59,,,G. Hill Free Throw 1 of 2 (7 PTS),43 - 39,-4,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,245,8,0,2,7:59 PM,7:59,SUB: Bertans FOR Smith,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,247,3,12,2,7:59 PM,7:59,,,MISS G. Hill Free Throw 2 of 2,,,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,248,4,0,2,7:59 PM,7:55,Hachimura REBOUND (Off:0 Def:4),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,249,2,1,2,7:59 PM,7:52,MISS Beal 27' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,250,4,0,2,7:59 PM,7:47,,,Harris REBOUND (Off:0 Def:5),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,251,1,79,2,8:00 PM,7:25,,,Maxey 28' 3PT Pullup Jump Shot (3 PTS) (Harris 3 AST),46 - 39,-7,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,253,9,1,2,8:00 PM,7:23,WIZARDS Timeout: Regular (Full 2 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,254,8,0,2,8:00 PM,7:23,,,SUB: Curry FOR G. Hill,,,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,256,6,2,2,8:04 PM,7:07,,,Harris S.FOUL (P1.T4) (K.Fitzgerald),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,258,3,11,2,8:04 PM,7:07,Beal Free Throw 1 of 2 (7 PTS),,,46 - 40,-6,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,259,3,12,2,8:05 PM,7:07,Beal Free Throw 2 of 2 (8 PTS),,,46 - 41,-5,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,260,2,6,2,8:05 PM,6:53,Bertans BLOCK (1 BLK),,MISS Howard 4' Driving Layup,,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,1
+0042000104,262,4,0,2,8:05 PM,6:51,,,Howard REBOUND (Off:1 Def:0),,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,263,2,7,2,8:05 PM,6:50,Lopez BLOCK (2 BLK),,MISS Howard 4' Dunk,,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,1
+0042000104,265,4,0,2,8:05 PM,6:48,Hachimura REBOUND (Off:0 Def:5),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,266,1,3,2,8:05 PM,6:40,Lopez 7' Hook Shot (14 PTS),,,46 - 43,-3,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,267,2,1,2,8:05 PM,6:23,,,MISS Curry 27' 3PT Jump Shot,,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,268,4,0,2,8:05 PM,6:21,Hachimura REBOUND (Off:0 Def:6),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,269,2,1,2,8:05 PM,6:11,MISS Hachimura 3PT Jump Shot,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,270,4,0,2,8:06 PM,6:07,Westbrook REBOUND (Off:3 Def:2),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,271,2,102,2,8:06 PM,6:01,MISS Beal 11' Driving Floating Bank Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,272,4,0,2,8:06 PM,5:58,,,Howard REBOUND (Off:1 Def:1),,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,273,9,1,2,8:06 PM,5:55,,,76ers Timeout: Regular (Reg.2 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,274,8,0,2,8:06 PM,5:55,SUB: Gafford FOR Lopez,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,275,8,0,2,8:06 PM,5:55,,,SUB: Simmons FOR Maxey,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,276,8,0,2,8:06 PM,5:55,,,SUB: Green FOR Thybulle,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,280,1,79,2,8:10 PM,5:40,,,Harris 18' Pullup Jump Shot (11 PTS),48 - 43,-5,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,281,6,2,2,8:10 PM,5:40,Westbrook S.FOUL (P2.T4) (C.Kirkland),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,283,3,10,2,8:10 PM,5:40,,,Harris Free Throw 1 of 1 (12 PTS),49 - 43,-6,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,284,1,80,2,8:10 PM,5:16,Beal 20' Step Back Jump Shot (10 PTS),,,49 - 45,-4,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,285,1,79,2,8:11 PM,5:07,,,Curry 20' Pullup Jump Shot (4 PTS) (Simmons 1 AST),51 - 45,-6,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,286,6,2,2,8:11 PM,4:57,,,Simmons S.FOUL (P3.PN) (K.Fitzgerald),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,288,3,11,2,8:11 PM,4:57,Westbrook Free Throw 1 of 2 (3 PTS),,,51 - 46,-5,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,290,3,12,2,8:12 PM,4:57,Westbrook Free Throw 2 of 2 (4 PTS),,,51 - 47,-4,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,291,6,1,2,8:12 PM,4:44,Westbrook P.FOUL (P3.PN) (C.Kirkland),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,293,7,1,2,8:12 PM,4:44,WIZARDS Violation: Delay of game Violation,,,,,2,1610612764,,,,,,0,0,,,,,,1,0,,,,,,0
+0042000104,294,8,0,2,8:12 PM,4:44,,,SUB: G. Hill FOR Simmons,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,296,2,86,2,8:13 PM,4:31,,,MISS Harris 11' Turnaround Fadeaway Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,297,4,0,2,8:13 PM,4:28,,,Howard REBOUND (Off:2 Def:1),,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,298,5,2,2,8:13 PM,4:26,Gafford STEAL (1 STL),,Howard Lost Ball Turnover (P1.T4),,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,300,1,50,2,8:13 PM,4:24,Hachimura 1' Running Dunk (5 PTS) (Westbrook 6 AST),,,51 - 49,-2,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,302,1,79,2,8:13 PM,4:11,,,Green 27' 3PT Pullup Jump Shot (3 PTS) (Howard 2 AST),54 - 49,-5,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,304,1,52,2,8:13 PM,4:00,Gafford 1' Alley Oop Dunk (2 PTS) (Westbrook 7 AST),,,54 - 51,-3,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,306,1,1,2,8:13 PM,3:47,,,Curry 17' Jump Shot (6 PTS) (G. Hill 2 AST),56 - 51,-5,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,307,6,3,2,8:14 PM,3:44,,,Howard L.B.FOUL (P2.PN) (K.Fitzgerald),,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,309,3,11,2,8:14 PM,3:44,MISS Gafford Free Throw 1 of 2,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,310,4,1,2,8:14 PM,3:44,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,313,3,12,2,8:14 PM,3:44,MISS Gafford Free Throw 2 of 2,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,311,8,0,2,8:15 PM,3:44,,,SUB: Scott FOR Howard,,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,314,4,0,2,8:15 PM,3:39,,,Harris REBOUND (Off:0 Def:6),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,315,2,79,2,8:15 PM,3:28,,,MISS Harris 29' 3PT Pullup Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,316,4,0,2,8:15 PM,3:24,Westbrook REBOUND (Off:3 Def:3),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,317,5,1,2,8:15 PM,3:17,Westbrook Bad Pass Turnover (P3.T5),,Scott STEAL (1 STL),,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,319,2,1,2,8:15 PM,3:03,Gafford BLOCK (1 BLK),,MISS Harris 6' Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0042000104,321,4,0,2,8:16 PM,3:02,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,323,2,80,2,8:16 PM,2:56,,,MISS Harris 27' 3PT Step Back Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,324,4,0,2,8:16 PM,2:53,Westbrook REBOUND (Off:3 Def:4),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,325,1,1,2,8:16 PM,2:51,Bertans 25' 3PT Jump Shot (15 PTS) (Westbrook 8 AST),,,56 - 54,-2,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,327,5,1,2,8:16 PM,2:27,Hachimura STEAL (1 STL),,Green Bad Pass Turnover (P1.T5),,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,329,2,1,2,8:17 PM,2:19,MISS Hachimura 27' 3PT Jump Shot,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,330,4,0,2,8:17 PM,2:18,Westbrook REBOUND (Off:4 Def:4),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,331,1,107,2,8:17 PM,2:18,Westbrook Tip Dunk Shot (6 PTS),,,56 - 56,TIE,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,332,2,79,2,8:17 PM,1:54,,,MISS Curry 21' Pullup Jump Shot,,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,333,4,0,2,8:17 PM,1:49,Gafford REBOUND (Off:0 Def:1),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,334,2,1,2,8:17 PM,1:39,MISS Westbrook 28' 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,335,4,0,2,8:17 PM,1:36,,,Harris REBOUND (Off:0 Def:7),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,336,2,6,2,8:17 PM,1:30,Gafford BLOCK (2 BLK),,MISS Harris 6' Driving Layup,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0042000104,338,4,0,2,8:18 PM,1:26,Bertans REBOUND (Off:0 Def:3),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,339,2,6,2,8:18 PM,1:23,MISS Westbrook 6' Driving Layup,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,340,4,0,2,8:18 PM,1:20,Westbrook REBOUND (Off:5 Def:4),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,341,2,5,2,8:18 PM,1:19,MISS Westbrook 4' Layup,,Green BLOCK (2 BLK),,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,1
+0042000104,343,4,0,2,8:18 PM,1:17,,,Harris REBOUND (Off:0 Def:8),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,344,6,1,2,8:18 PM,1:17,Gafford P.FOUL (P3.PN) (C.Kirkland),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,346,3,11,2,8:18 PM,1:17,,,G. Hill Free Throw 1 of 2 (8 PTS),57 - 56,-1,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,349,3,12,2,8:18 PM,1:17,,,G. Hill Free Throw 2 of 2 (9 PTS),58 - 56,-2,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,347,8,0,2,8:18 PM,1:17,SUB: Smith FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,350,1,79,2,8:19 PM,0:57,Smith 15' Pullup Jump Shot (2 PTS) (Westbrook 9 AST),,,58 - 58,TIE,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,352,2,5,2,8:19 PM,0:46,Smith BLOCK (1 BLK),,MISS Harris 3' Layup,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,1
+0042000104,354,4,0,2,8:19 PM,0:43,Westbrook REBOUND (Off:5 Def:5),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,355,1,50,2,8:20 PM,0:42,Hachimura 1' Running Dunk (7 PTS) (Westbrook 10 AST),,,58 - 60,2,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,357,2,1,2,8:20 PM,0:30,Beal BLOCK (1 BLK),,MISS Harris 11' Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1
+0042000104,359,4,0,2,8:20 PM,0:27,Smith REBOUND (Off:0 Def:2),,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,360,2,2,2,8:20 PM,0:25,MISS Bertans 28' 3PT Running Jump Shot,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,361,4,0,2,8:20 PM,0:21,,,Harris REBOUND (Off:0 Def:9),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,362,1,1,2,8:20 PM,0:00,,,Green 3PT Jump Shot (6 PTS) (Curry 2 AST),61 - 60,-1,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,364,2,1,2,8:20 PM,0:00,MISS Bertans 69' 3PT Jump Shot,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,365,4,0,2,8:20 PM,0:00,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,366,13,0,2,8:21 PM,0:00,,End of 2nd Period (8:21 PM EST),,61 - 60,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042000104,372,12,0,3,8:37 PM,12:00,,Start of 3rd Period (8:37 PM EST),,61 - 60,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,373,6,1,3,8:37 PM,11:48,,,Simmons P.FOUL (P4.T1) (K.Fitzgerald),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,375,6,4,3,8:38 PM,11:43,Beal OFF.Foul (P1) (K.Fitzgerald),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,377,5,37,3,8:38 PM,11:43,Beal Offensive Foul Turnover (P2.T6),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0042000104,378,2,7,3,8:38 PM,11:32,Gafford BLOCK (3 BLK),,MISS Simmons 4' Dunk,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0042000104,380,4,0,3,8:38 PM,11:27,Bertans REBOUND (Off:0 Def:4),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,381,1,1,3,8:38 PM,11:26,Beal 3PT Jump Shot (13 PTS) (Hachimura 2 AST),,,61 - 63,2,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,383,2,1,3,8:39 PM,11:11,,,MISS Scott 26' 3PT Jump Shot,,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,384,4,0,3,8:39 PM,11:07,Westbrook REBOUND (Off:5 Def:6),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,385,2,79,3,8:39 PM,10:53,MISS Westbrook 18' Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,386,4,0,3,8:39 PM,10:50,,,Simmons REBOUND (Off:0 Def:4),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,387,5,1,3,8:39 PM,10:42,Westbrook STEAL (2 STL),,Green Bad Pass Turnover (P2.T6),,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,389,1,1,3,8:39 PM,10:37,Hachimura 3PT Jump Shot (10 PTS) (Westbrook 11 AST),,,61 - 66,5,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,391,9,1,3,8:39 PM,10:36,,,76ers Timeout: Regular (Reg.3 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,392,2,6,3,8:43 PM,10:19,Gafford BLOCK (4 BLK),,MISS Scott 5' Driving Layup,,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0042000104,393,4,0,3,8:43 PM,10:16,,,Scott REBOUND (Off:1 Def:0),,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,394,2,1,3,8:43 PM,10:13,,,MISS Green 28' 3PT Jump Shot,,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,395,4,0,3,8:43 PM,10:11,,,Simmons REBOUND (Off:1 Def:4),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,396,2,6,3,8:43 PM,10:05,Beal BLOCK (2 BLK),,MISS Harris 6' Driving Layup,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1
+0042000104,398,4,0,3,8:43 PM,10:03,,,Simmons REBOUND (Off:2 Def:4),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,399,1,5,3,8:43 PM,10:02,,,Simmons 5' Layup (9 PTS),63 - 66,3,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,400,5,4,3,8:44 PM,9:47,Westbrook Traveling Turnover (P4.T7),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0042000104,401,6,1,3,8:44 PM,9:36,Hachimura P.FOUL (P1.T1) (S.Corbin),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,403,2,1,3,8:44 PM,9:28,,,MISS Scott 26' 3PT Jump Shot,,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,404,4,0,3,8:44 PM,9:25,,,Green REBOUND (Off:1 Def:0),,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,405,1,101,3,8:45 PM,9:15,,,Curry 13' Driving Floating Jump Shot (8 PTS),65 - 66,1,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,406,5,2,3,8:45 PM,8:58,Beal Lost Ball Turnover (P3.T8),,Simmons STEAL (1 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,408,6,1,3,8:45 PM,8:57,Beal P.FOUL (P2.T2) (K.Fitzgerald),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,410,8,0,3,8:45 PM,8:57,SUB: Smith FOR Bertans,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,412,2,1,3,8:46 PM,8:37,,,MISS Green 3PT Jump Shot,,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,413,4,0,3,8:46 PM,8:35,,,Harris REBOUND (Off:1 Def:9),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,414,1,72,3,8:46 PM,8:33,,,Harris 3' Putback Layup (14 PTS),67 - 66,-1,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,415,1,79,3,8:46 PM,8:27,Westbrook 19' Pullup Jump Shot (8 PTS),,,67 - 68,1,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,416,1,80,3,8:47 PM,7:59,,,Harris 14' Step Back Jump Shot (16 PTS) (Scott 1 AST),69 - 68,-1,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,418,1,75,3,8:47 PM,7:47,Beal 5' Driving Finger Roll Layup (15 PTS) (Westbrook 12 AST),,,69 - 70,1,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,420,2,1,3,8:47 PM,7:30,,,MISS Harris 13' Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,421,4,0,3,8:47 PM,7:28,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,422,6,1,3,8:47 PM,7:28,,,Scott P.FOUL (P1.T2) (K.Fitzgerald),,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,424,2,101,3,8:47 PM,7:16,MISS Beal 11' Driving Floating Jump Shot,,Green BLOCK (3 BLK),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,1
+0042000104,426,4,0,3,8:47 PM,7:16,Gafford REBOUND (Off:1 Def:1),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,427,1,72,3,8:48 PM,7:16,Gafford 2' Putback Layup (4 PTS),,,69 - 72,3,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,428,6,2,3,8:48 PM,7:16,,,Scott S.FOUL (P2.T3) (S.Corbin),,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,430,3,10,3,8:48 PM,7:16,Gafford Free Throw 1 of 1 (5 PTS),,,69 - 73,4,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,431,1,79,3,8:48 PM,7:04,,,Green 27' 3PT Pullup Jump Shot (9 PTS) (Scott 2 AST),72 - 73,1,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,433,2,6,3,8:49 PM,6:41,MISS Beal 5' Driving Layup,,Scott BLOCK (1 BLK),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,1
+0042000104,434,4,0,3,8:49 PM,6:38,,,Simmons REBOUND (Off:2 Def:5),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,435,2,79,3,8:49 PM,6:30,,,MISS Curry 26' 3PT Pullup Jump Shot,,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,436,4,0,3,8:49 PM,6:25,Hachimura REBOUND (Off:0 Def:7),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,437,2,79,3,8:49 PM,6:19,MISS Westbrook 17' Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,438,4,0,3,8:49 PM,6:16,,,Curry REBOUND (Off:0 Def:1),,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,440,5,1,3,8:49 PM,5:55,Smith STEAL (2 STL),,Harris Bad Pass Turnover (P1.T7),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,442,6,2,3,8:49 PM,5:52,,,Harris S.FOUL (P2.T4) (S.Corbin),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,444,3,11,3,8:50 PM,5:52,Westbrook Free Throw 1 of 2 (9 PTS),,,72 - 74,2,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,446,3,12,3,8:50 PM,5:52,Westbrook Free Throw 2 of 2 (10 PTS),,,72 - 75,3,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,447,5,13,3,8:51 PM,5:38,,,Curry Backcourt Turnover (P1.T8),,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0042000104,448,8,0,3,8:51 PM,5:38,SUB: Neto FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,449,8,0,3,8:51 PM,5:38,,,SUB: Howard FOR Scott,,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,452,2,44,3,8:51 PM,5:30,MISS Smith 4' Reverse Layup,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,453,4,0,3,8:51 PM,5:27,,,Simmons REBOUND (Off:2 Def:6),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,454,5,2,3,8:51 PM,5:24,Beal STEAL (1 STL),,Simmons Lost Ball Turnover (P1.T9),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,456,2,41,3,8:52 PM,5:20,MISS Beal 6' Running Layup,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,458,1,87,3,8:52 PM,5:17,Hachimura 2' Putback Dunk (12 PTS),,,72 - 77,5,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,457,4,0,3,8:52 PM,5:17,Hachimura REBOUND (Off:1 Def:7),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,459,6,11,3,8:52 PM,5:17,Hachimura T.FOUL (P1.T2) (K.Fitzgerald),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0042000104,460,3,16,3,8:52 PM,5:17,,,Harris Free Throw Technical (17 PTS),73 - 77,4,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,461,2,5,3,8:53 PM,5:01,Gafford BLOCK (5 BLK),,MISS Howard 5' Layup,,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0042000104,463,4,0,3,8:53 PM,4:58,Smith REBOUND (Off:0 Def:3),,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,464,5,1,3,8:53 PM,4:55,Smith Bad Pass Turnover (P1.T9),,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0042000104,466,6,1,3,8:53 PM,4:44,Hachimura P.FOUL (P2.T3) (C.Kirkland),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,468,8,0,3,8:54 PM,4:44,,,SUB: Maxey FOR Simmons,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,470,6,2,3,8:54 PM,4:39,Hachimura S.FOUL (P3.T4) (K.Fitzgerald),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,472,3,11,3,8:54 PM,4:39,,,Howard Free Throw 1 of 2 (1 PTS),74 - 77,3,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,473,3,12,3,8:54 PM,4:39,,,MISS Howard Free Throw 2 of 2,,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,474,4,0,3,8:54 PM,4:36,Hachimura REBOUND (Off:1 Def:8),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,475,1,79,3,8:55 PM,4:28,Beal 27' 3PT Pullup Jump Shot (18 PTS) (Smith 3 AST),,,74 - 80,6,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,477,2,102,3,8:55 PM,4:04,,,MISS Green 8' Driving Floating Bank Jump Shot,,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,478,4,0,3,8:55 PM,4:02,Hachimura REBOUND (Off:1 Def:9),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,479,2,101,3,8:55 PM,3:58,MISS Smith 11' Driving Floating Jump Shot,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,480,4,0,3,8:55 PM,3:56,,,Howard REBOUND (Off:2 Def:2),,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,481,2,1,3,8:56 PM,3:43,,,MISS Curry 26' 3PT Jump Shot,,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,482,4,0,3,8:56 PM,3:40,Hachimura REBOUND (Off:1 Def:10),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,484,1,79,3,8:57 PM,3:30,Hachimura 18' Pullup Jump Shot (14 PTS) (Beal 1 AST),,,74 - 82,8,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,486,1,47,3,8:57 PM,3:10,,,Harris 8' Turnaround Jump Shot (19 PTS),76 - 82,6,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,487,9,1,3,8:57 PM,3:10,WIZARDS Timeout: Regular (Full 3 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,488,8,0,3,8:59 PM,3:10,SUB: Westbrook FOR Smith,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,489,8,0,3,8:59 PM,3:10,,,SUB: Thybulle FOR Green,,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,492,2,79,3,9:01 PM,2:52,MISS Beal 19' Pullup Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,493,4,0,3,9:01 PM,2:49,,,Harris REBOUND (Off:1 Def:10),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,494,2,79,3,9:01 PM,2:33,,,MISS Maxey 18' Pullup Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,495,4,0,3,9:02 PM,2:31,Beal REBOUND (Off:0 Def:4),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,496,1,75,3,9:02 PM,2:24,Beal 4' Driving Finger Roll Layup (20 PTS),,,76 - 84,8,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,497,2,1,3,9:02 PM,2:02,,,MISS Thybulle 27' 3PT Jump Shot,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,498,4,0,3,9:02 PM,2:01,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,501,6,3,3,9:02 PM,2:01,,,Howard L.B.FOUL (P3.PN) (K.Fitzgerald),,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,504,3,11,3,9:03 PM,2:01,Gafford Free Throw 1 of 2 (6 PTS),,,76 - 85,9,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,505,8,0,3,9:03 PM,2:01,,,SUB: Milton FOR Harris,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,506,8,0,3,9:03 PM,2:01,,,SUB: G. Hill FOR Curry,,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,509,3,12,3,9:03 PM,2:01,Gafford Free Throw 2 of 2 (7 PTS),,,76 - 86,10,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,510,5,45,3,9:04 PM,1:43,,,Thybulle Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0042000104,512,8,0,3,9:04 PM,1:43,SUB: Lopez FOR Hachimura,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,513,8,0,3,9:04 PM,1:43,SUB: Gill FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,516,5,2,3,9:04 PM,1:33,Beal Lost Ball Turnover (P4.T10),,Thybulle STEAL (1 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,518,1,6,3,9:04 PM,1:16,,,Milton 3' Driving Layup (4 PTS),78 - 86,8,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,519,1,79,3,9:05 PM,1:07,Westbrook 17' Pullup Jump Shot (12 PTS),,,78 - 88,10,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,520,6,1,3,9:05 PM,0:53,Beal P.FOUL (P3.PN) (C.Kirkland),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,522,3,11,3,9:06 PM,0:53,,,MISS Howard Free Throw 1 of 2,,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,523,4,1,3,9:06 PM,0:53,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,524,3,12,3,9:06 PM,0:53,,,MISS Howard Free Throw 2 of 2,,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,525,4,0,3,9:06 PM,0:51,Westbrook REBOUND (Off:5 Def:7),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,526,6,1,3,9:06 PM,0:47,,,Maxey P.FOUL (P2.PN) (K.Fitzgerald),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,528,3,11,3,9:07 PM,0:47,Westbrook Free Throw 1 of 2 (13 PTS),,,78 - 89,11,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,529,8,0,3,9:07 PM,0:47,SUB: Smith FOR Beal,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,531,3,12,3,9:07 PM,0:47,Westbrook Free Throw 2 of 2 (14 PTS),,,78 - 90,12,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,532,2,6,3,9:07 PM,0:30,,,MISS Milton 7' Driving Layup,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,533,4,0,3,9:07 PM,0:30,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,535,6,3,3,9:07 PM,0:30,,,Howard L.B.FOUL (P4.PN) (K.Fitzgerald),,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,537,3,11,3,9:08 PM,0:30,Neto Free Throw 1 of 2 (5 PTS),,,78 - 91,13,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,538,8,0,3,9:08 PM,0:30,,,SUB: Scott FOR Howard,,,5,2730,Dwight Howard,1610612755.0,Philadelphia,76ers,PHI,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,540,3,12,3,9:08 PM,0:30,Neto Free Throw 2 of 2 (6 PTS),,,78 - 92,14,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,541,1,102,3,9:09 PM,0:10,,,Maxey 7' Driving Floating Bank Jump Shot (5 PTS),80 - 92,12,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,542,2,6,3,9:09 PM,0:00,MISS Neto 3' Driving Layup,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,543,4,0,3,9:09 PM,0:00,Lopez REBOUND (Off:3 Def:2),,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,544,2,97,3,9:09 PM,0:00,MISS Lopez 1' Tip Layup Shot,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,545,4,0,3,9:09 PM,0:00,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,546,13,0,3,9:09 PM,0:00,,End of 3rd Period (9:09 PM EST),,80 - 92,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042000104,547,12,0,4,9:12 PM,12:00,,Start of 4th Period (9:12 PM EST),,80 - 92,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,548,6,2,4,9:13 PM,11:52,Smith S.FOUL (P3.T1) (K.Fitzgerald),,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,550,3,11,4,9:13 PM,11:52,,,Milton Free Throw 1 of 2 (5 PTS),81 - 92,11,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,551,3,12,4,9:13 PM,11:52,,,Milton Free Throw 2 of 2 (6 PTS),82 - 92,10,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,552,2,79,4,9:14 PM,11:30,MISS Smith 20' Pullup Jump Shot,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,553,4,0,4,9:14 PM,11:25,,,Maxey REBOUND (Off:0 Def:1),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,554,2,6,4,9:14 PM,11:17,,,MISS Maxey 5' Driving Layup,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,555,4,0,4,9:14 PM,11:17,,,G. Hill REBOUND (Off:1 Def:0),,,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,556,6,2,4,9:14 PM,11:17,Gill S.FOUL (P1.T2) (C.Kirkland),,,,,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,558,3,11,4,9:14 PM,11:17,,,G. Hill Free Throw 1 of 2 (10 PTS),83 - 92,9,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,559,8,0,4,9:14 PM,11:17,SUB: Hachimura FOR Gill,,,,,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,560,8,0,4,9:14 PM,11:17,,,SUB: Korkmaz FOR Thybulle,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,563,3,12,4,9:15 PM,11:17,,,G. Hill Free Throw 2 of 2 (11 PTS),84 - 92,8,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,564,2,1,4,9:15 PM,11:08,MISS Westbrook 26' 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,565,4,0,4,9:15 PM,11:03,,,Korkmaz REBOUND (Off:0 Def:1),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,566,2,6,4,9:15 PM,10:56,,,MISS Milton 9' Driving Layup,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,567,4,0,4,9:15 PM,10:54,Westbrook REBOUND (Off:5 Def:8),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,568,2,1,4,9:15 PM,10:50,MISS Neto 24' 3PT Jump Shot,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,569,4,0,4,9:15 PM,10:47,Westbrook REBOUND (Off:6 Def:8),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,570,6,2,4,9:15 PM,10:37,,,Korkmaz S.FOUL (P1.T1) (K.Fitzgerald),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,572,3,11,4,9:16 PM,10:37,Hachimura Free Throw 1 of 2 (15 PTS),,,84 - 93,9,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,577,3,12,4,9:16 PM,10:37,MISS Hachimura Free Throw 2 of 2,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,573,8,0,4,9:16 PM,10:37,SUB: Beal FOR Smith,,,,,4,202397,Ish Smith,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,575,8,0,4,9:16 PM,10:37,,,SUB: Simmons FOR Milton,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,578,4,0,4,9:16 PM,10:35,,,Simmons REBOUND (Off:2 Def:7),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,579,2,6,4,9:17 PM,10:24,,,MISS Maxey 13' Driving Layup,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,580,4,0,4,9:17 PM,10:20,Westbrook REBOUND (Off:6 Def:9),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,581,2,58,4,9:17 PM,10:14,MISS Lopez 7' Turnaround Hook Shot,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,582,4,0,4,9:17 PM,10:12,,,Korkmaz REBOUND (Off:0 Def:2),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,583,1,1,4,9:17 PM,10:09,,,Korkmaz 26' 3PT Jump Shot (3 PTS) (Simmons 2 AST),87 - 93,6,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,585,9,1,4,9:17 PM,10:06,WIZARDS Timeout: Regular (Full 4 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,586,5,1,4,9:21 PM,9:56,Beal Bad Pass Turnover (P5.T11),,Korkmaz STEAL (1 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,588,1,101,4,9:21 PM,9:47,,,Korkmaz 13' Driving Floating Jump Shot (5 PTS) (Simmons 3 AST),89 - 93,4,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,590,2,101,4,9:21 PM,9:35,MISS Westbrook 10' Driving Floating Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,591,4,0,4,9:22 PM,9:33,,,Scott REBOUND (Off:1 Def:1),,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,592,6,2,4,9:22 PM,9:29,Hachimura S.FOUL (P4.T3) (C.Kirkland),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,594,3,11,4,9:22 PM,9:29,,,MISS Maxey Free Throw 1 of 2,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,595,4,1,4,9:22 PM,9:29,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,596,3,12,4,9:22 PM,9:29,,,Maxey Free Throw 2 of 2 (6 PTS),90 - 93,3,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,597,6,2,4,9:23 PM,9:20,,,Simmons S.FOUL (P5.T2) (K.Fitzgerald),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,599,3,11,4,9:23 PM,9:20,Beal Free Throw 1 of 2 (21 PTS),,,90 - 94,4,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,600,3,12,4,9:24 PM,9:20,Beal Free Throw 2 of 2 (22 PTS),,,90 - 95,5,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,601,2,1,4,9:24 PM,9:01,,,MISS Scott 27' 3PT Jump Shot,,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,602,4,0,4,9:24 PM,8:57,,,Korkmaz REBOUND (Off:1 Def:2),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,603,1,6,4,9:24 PM,8:56,,,Korkmaz 6' Driving Layup (7 PTS),92 - 95,3,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,604,6,2,4,9:24 PM,8:56,Neto S.FOUL (P2.T4) (K.Fitzgerald),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,606,8,0,4,9:24 PM,8:56,,,SUB: Harris FOR Simmons,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,608,3,10,4,9:25 PM,8:56,,,MISS Korkmaz Free Throw 1 of 1,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,609,4,0,4,9:25 PM,8:52,Westbrook REBOUND (Off:6 Def:10),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,610,5,2,4,9:25 PM,8:47,Beal Lost Ball Turnover (P6.T12),,Maxey STEAL (1 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,612,1,50,4,9:25 PM,8:43,,,Maxey 2' Running Dunk (8 PTS),94 - 95,1,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,613,1,58,4,9:25 PM,8:24,Lopez 8' Turnaround Hook Shot (16 PTS),,,94 - 97,3,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,614,2,6,4,9:26 PM,7:59,Hachimura BLOCK (1 BLK),,MISS Harris 9' Driving Layup,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1
+0042000104,616,4,0,4,9:26 PM,7:56,Hachimura REBOUND (Off:1 Def:11),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,617,6,2,4,9:26 PM,7:53,,,Harris S.FOUL (P3.T3) (S.Corbin),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,619,3,11,4,9:26 PM,7:53,Westbrook Free Throw 1 of 2 (15 PTS),,,94 - 98,4,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,620,3,12,4,9:26 PM,7:53,Westbrook Free Throw 2 of 2 (16 PTS),,,94 - 99,5,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,621,9,1,4,9:27 PM,7:53,,,76ers Timeout: Regular (Reg.4 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,622,1,1,4,9:30 PM,7:37,,,G. Hill 3PT Jump Shot (14 PTS) (Maxey 2 AST),97 - 99,2,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,624,6,4,4,9:31 PM,7:27,Beal OFF.Foul (P4) (S.Corbin),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,626,5,37,4,9:31 PM,7:27,Beal Offensive Foul Turnover (P7.T13),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0042000104,627,8,0,4,9:31 PM,7:27,SUB: Gafford FOR Lopez,,,,,4,201577,Robin Lopez,1610612764.0,Washington,Wizards,WAS,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,629,2,1,4,9:31 PM,7:14,,,MISS G. Hill 25' 3PT Jump Shot,,,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,630,4,0,4,9:31 PM,7:11,Westbrook REBOUND (Off:6 Def:11),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,631,6,2,4,9:31 PM,7:11,,,Korkmaz S.FOUL (P2.T4) (C.Kirkland),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,633,3,11,4,9:32 PM,7:11,Beal Free Throw 1 of 2 (23 PTS),,,97 - 100,3,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,634,8,0,4,9:32 PM,7:11,,,SUB: Green FOR G. Hill,,,5,201588,George Hill,1610612755.0,Philadelphia,76ers,PHI,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,636,3,12,4,9:32 PM,7:11,Beal Free Throw 2 of 2 (24 PTS),,,97 - 101,4,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,637,1,101,4,9:33 PM,6:54,,,Maxey 14' Driving Floating Jump Shot (10 PTS) (Harris 4 AST),99 - 101,2,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,639,2,79,4,9:33 PM,6:41,MISS Beal 27' 3PT Pullup Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,641,1,87,4,9:33 PM,6:33,Gafford 1' Putback Dunk (9 PTS),,,99 - 103,4,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,640,4,0,4,9:33 PM,6:33,Gafford REBOUND (Off:2 Def:1),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,642,1,1,4,9:33 PM,6:15,,,Maxey 27' 3PT Jump Shot (13 PTS) (Harris 5 AST),102 - 103,1,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0042000104,644,2,6,4,9:34 PM,5:59,MISS Westbrook 5' Driving Layup,,Maxey BLOCK (1 BLK),,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1
+0042000104,646,4,0,4,9:34 PM,5:59,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,647,8,0,4,9:34 PM,5:59,,,SUB: Curry FOR Scott,,,5,203118,Mike Scott,1610612755.0,Philadelphia,76ers,PHI,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,650,2,6,4,9:34 PM,5:39,,,MISS Maxey 7' Driving Layup,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,651,4,0,4,9:34 PM,5:38,Westbrook REBOUND (Off:6 Def:12),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,652,1,1,4,9:34 PM,5:24,Neto 26' 3PT Jump Shot (9 PTS) (Beal 2 AST),,,102 - 106,4,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,654,9,1,4,9:35 PM,5:22,,,76ers Timeout: Regular (Reg.5 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,655,8,0,4,9:35 PM,5:22,,,SUB: Simmons FOR Maxey,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,657,2,1,4,9:36 PM,5:09,,,MISS Green 26' 3PT Jump Shot,,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,658,4,0,4,9:37 PM,5:05,Gafford REBOUND (Off:2 Def:2),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,659,2,102,4,9:37 PM,4:56,MISS Beal 14' Driving Floating Bank Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,660,4,0,4,9:37 PM,4:52,,,Curry REBOUND (Off:0 Def:2),,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,661,1,6,4,9:37 PM,4:46,,,Harris 4' Driving Layup (21 PTS),104 - 106,2,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,668,9,7,4,9:37 PM,4:30,,,76ers Timeout: Coach Challenge (Reg.5 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,664,18,5,4,9:38 PM,4:30,,Instant Replay4th Period (9:38 PM EST),,104 - 106,2,0,662,,,,,,0,0,,,,,,1,0,,,,,,1
+0042000104,665,10,1,4,9:40 PM,4:26,Jump Ball (CC) Gafford vs. Simmons: Tip to Curry,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,1
+0042000104,669,2,79,4,9:40 PM,4:18,,,MISS Curry 16' Pullup Jump Shot,,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,670,4,0,4,9:40 PM,4:16,,,Green REBOUND (Off:2 Def:0),,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,671,1,97,4,9:41 PM,4:15,,,Green Tip Layup Shot (11 PTS),106 - 106,TIE,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,672,2,1,4,9:41 PM,3:59,MISS Westbrook 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,673,4,0,4,9:41 PM,3:56,,,Harris REBOUND (Off:1 Def:11),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,674,6,26,4,9:41 PM,3:45,,,Harris Offensive Charge Foul (P4.PN) (C.Kirkland),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,676,5,37,4,9:41 PM,3:45,,,Harris Offensive Foul Turnover (P2.T11),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0042000104,677,1,101,4,9:41 PM,3:26,Neto 10' Driving Floating Jump Shot (11 PTS) (Beal 3 AST),,,106 - 108,2,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,679,1,80,4,9:42 PM,3:15,,,Curry 22' Step Back Jump Shot (10 PTS),108 - 108,TIE,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,680,9,1,4,9:42 PM,3:11,WIZARDS Timeout: Regular (Full 5 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,681,2,75,4,9:44 PM,2:52,MISS Hachimura 8' Driving Finger Roll Layup,,Harris BLOCK (1 BLK),,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1
+0042000104,683,4,0,4,9:44 PM,2:47,Neto REBOUND (Off:1 Def:1),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,684,5,11,4,9:44 PM,2:47,WIZARDS Turnover: Shot Clock (T#14),,,,,2,1610612764,,,,,,0,0,,,,,,1,0,,,,,,0
+0042000104,685,6,28,4,9:44 PM,2:47,Neto Personal Take Foul (P3.PN) (S.Corbin),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0042000104,687,3,11,4,9:45 PM,2:47,,,MISS Simmons Free Throw 1 of 2,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,688,4,1,4,9:45 PM,2:47,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,689,3,12,4,9:45 PM,2:47,,,Simmons Free Throw 2 of 2 (10 PTS),109 - 108,-1,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,690,1,79,4,9:45 PM,2:32,Beal 11' Pullup Jump Shot (26 PTS),,,109 - 110,1,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,691,6,1,4,9:46 PM,2:28,Westbrook P.FOUL (P4.PN) (S.Corbin),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,693,3,11,4,9:46 PM,2:28,,,MISS Simmons Free Throw 1 of 2,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,694,4,1,4,9:46 PM,2:28,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,695,3,12,4,9:46 PM,2:28,,,Simmons Free Throw 2 of 2 (11 PTS),110 - 110,TIE,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,696,1,7,4,9:47 PM,2:13,Gafford 1' Dunk (11 PTS) (Westbrook 13 AST),,,110 - 112,2,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,698,6,28,4,9:47 PM,2:07,Neto Personal Take Foul (P4.PN) (S.Corbin),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,700,3,11,4,9:47 PM,2:07,,,MISS Simmons Free Throw 1 of 2,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,701,4,1,4,9:47 PM,2:07,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,702,8,0,4,9:47 PM,2:07,,,SUB: Thybulle FOR Korkmaz,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,704,3,12,4,9:48 PM,2:07,,,Simmons Free Throw 2 of 2 (12 PTS),111 - 112,1,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,705,2,79,4,9:48 PM,1:47,MISS Westbrook 16' Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,706,4,0,4,9:48 PM,1:46,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,707,6,1,4,9:48 PM,1:46,,,Green P.FOUL (P2.PN) (C.Kirkland),,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,709,3,11,4,9:49 PM,1:46,Gafford Free Throw 1 of 2 (12 PTS),,,111 - 113,2,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,712,3,12,4,9:49 PM,1:46,MISS Gafford Free Throw 2 of 2,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,710,8,0,4,9:49 PM,1:46,,,SUB: Korkmaz FOR Thybulle,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,713,4,0,4,9:49 PM,1:43,,,Harris REBOUND (Off:1 Def:12),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,714,2,101,4,9:49 PM,1:33,,,MISS Harris 11' Driving Floating Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,715,4,0,4,9:50 PM,1:29,,,Green REBOUND (Off:3 Def:0),,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,716,2,1,4,9:50 PM,1:26,,,MISS Green 24' 3PT Jump Shot,,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,717,4,0,4,9:50 PM,1:22,,,Simmons REBOUND (Off:3 Def:7),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,718,2,1,4,9:50 PM,1:21,,,MISS Korkmaz 28' 3PT Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,719,4,0,4,9:50 PM,1:18,Westbrook REBOUND (Off:6 Def:13),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,720,1,50,4,9:50 PM,1:16,Hachimura 2' Running Dunk (17 PTS) (Westbrook 14 AST),,,111 - 115,4,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,722,6,2,4,9:50 PM,1:08,Westbrook S.FOUL (P5.PN) (C.Kirkland),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0042000104,724,18,3,4,9:51 PM,1:08,,Instant Replay4th Period (9:51 PM EST),,111 - 115,4,0,722,Corliss Williamson,,,,,0,0,,,,,,1,0,,,,,,0
+0042000104,725,8,0,4,9:53 PM,1:08,,,SUB: Maxey FOR Curry,,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,727,3,11,4,9:53 PM,1:08,,,Simmons Free Throw 1 of 2 (13 PTS),112 - 115,3,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,728,3,12,4,9:53 PM,1:08,,,MISS Simmons Free Throw 2 of 2,,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,729,4,0,4,9:53 PM,1:05,Westbrook REBOUND (Off:6 Def:14),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,730,1,1,4,9:54 PM,0:45,Hachimura 24' 3PT Jump Shot (20 PTS) (Beal 4 AST),,,112 - 118,6,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0042000104,732,2,80,4,9:54 PM,0:34,,,MISS Harris 27' 3PT Step Back Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,733,4,0,4,9:54 PM,0:30,Neto REBOUND (Off:1 Def:2),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,734,6,1,4,9:54 PM,0:27,,,Korkmaz P.FOUL (P3.PN) (S.Corbin),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,736,3,11,4,9:55 PM,0:27,Westbrook Free Throw 1 of 2 (17 PTS),,,112 - 119,7,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,737,3,12,4,9:55 PM,0:27,Westbrook Free Throw 2 of 2 (18 PTS),,,112 - 120,8,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,738,1,6,4,9:55 PM,0:22,,,Maxey 3' Driving Layup (15 PTS),114 - 120,6,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,740,9,1,4,9:55 PM,0:21,WIZARDS Timeout: Regular (Full 6 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000104,741,8,0,4,9:55 PM,0:21,SUB: Gill FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,742,8,0,4,9:55 PM,0:21,,,SUB: Thybulle FOR Korkmaz,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,745,6,1,4,9:57 PM,0:21,,,Maxey P.FOUL (P3.PN) (S.Corbin),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,747,3,11,4,9:58 PM,0:21,Beal Free Throw 1 of 2 (27 PTS),,,114 - 121,7,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,752,3,12,4,9:58 PM,0:21,MISS Beal Free Throw 2 of 2,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,748,8,0,4,9:58 PM,0:21,SUB: Gafford FOR Gill,,,,,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0042000104,749,8,0,4,9:58 PM,0:21,,,SUB: Korkmaz FOR Thybulle,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0042000104,753,4,0,4,9:58 PM,0:18,,,Simmons REBOUND (Off:3 Def:8),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,754,2,1,4,9:58 PM,0:13,,,MISS Green 26' 3PT Jump Shot,,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,755,4,0,4,9:58 PM,0:09,Westbrook REBOUND (Off:6 Def:15),,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,756,6,1,4,9:58 PM,0:07,,,Maxey P.FOUL (P4.PN) (C.Kirkland),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0042000104,758,3,11,4,9:59 PM,0:07,Westbrook Free Throw 1 of 2 (19 PTS),,,114 - 122,8,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,759,3,12,4,9:59 PM,0:07,MISS Westbrook Free Throw 2 of 2,,,,,4,201566,Russell Westbrook,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,760,4,0,4,9:59 PM,0:05,,,Simmons REBOUND (Off:3 Def:9),,,5,1627732,Ben Simmons,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,761,2,1,4,9:59 PM,0:01,,,MISS Maxey 26' 3PT Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0042000104,762,4,0,4,9:59 PM,0:01,Hachimura REBOUND (Off:1 Def:12),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0042000104,763,13,0,4,9:59 PM,0:00,,End of 4th Period (9:59 PM EST),,114 - 122,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
