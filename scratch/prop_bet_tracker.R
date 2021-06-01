@@ -98,8 +98,8 @@ bets_props <-
 bets_summary_all <-
   bets_props %>%
   group_by(type) %>%
-  summarise(bets = n(),
-            wins = sum(Outcome == "Win"),
+  summarise(bets = sum(wager),
+            wins = sum(wager[Outcome == "Win"]),
             losses = bets - wins,
             win_rate = wins/bets,
             net = sum(net))
