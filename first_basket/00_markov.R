@@ -17,7 +17,7 @@ library(scales)
 earliest_train_data_date <- "2015-09-01"
 # Setting date we want to start logging test data on
 # Default uses today's date so that all completed games are used in calcualting ratings
-train_test_date_split <- "2018-09-01"
+train_test_date_split <- "2017-09-01"
 
 # Read in all player csvs
 file_list <- list.files(path="./data/nba_player_info/")
@@ -343,89 +343,89 @@ test_df_exp_win_master <-
   filter(!is.na(win_tip_prob)) %>%
   mutate(exp_score_first = (win_tip_prob*.61) + ((1 - win_tip_prob)*.41))
 
-#write.csv(test_df_exp_win_master, "data/02_curated/nba_first_to_score/model_markov.csv.gz", row.names = FALSE)
+write.csv(test_df_exp_win_master, "data/02_curated/nba_first_to_score/model_markov.csv.gz", row.names = FALSE)
 
-# Views performance of model on test data
-# Is split into buckets of predicted win probability, and compares to performance of those predictions
-# Ideally, the average win percentage of a bucket should match the bucket it is in
-test_buckets_win_tip <-
-  test_df_exp_win_master %>%
-  mutate(exp_win_prob = cut(win_tip_prob, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
-  group_by(exp_win_prob) %>%
-  summarise(jumps = n(),
-            true_win_percent = mean(home_won_tip),
-            .groups = 'drop')
-
-test_buckets_score_model <-
-  test_df_exp_win_master %>%
-  mutate(exp_score_first_prob = cut(score_first_prob, breaks = seq(0, 100, by = 0.025), right = FALSE)) %>%
-  group_by(exp_score_first_prob) %>%
-  summarise(jumps = n(),
-            tip_win_percent = mean(home_won_tip),
-            first_score_percent = mean(home_score_first),
-            .groups = 'drop')
-
-test_buckets_score_myself <-
-  test_df_exp_win_master %>%
-  mutate(exp_score_first_prob = cut(exp_score_first, breaks = seq(0, 100, by = 0.025), right = FALSE)) %>%
-  group_by(exp_score_first_prob) %>%
-  summarise(jumps = n(),
-            tip_win_percent = mean(home_won_tip),
-            first_score_percent = mean(home_score_first),
-            .groups = 'drop')
-
-
-# Determines Brier Score on backtesting
-brier_score_test_df <-
-  test_df_exp_win_master %>%
-  mutate(brier_score_win_tip = (win_tip_prob - home_won_tip)^2,
-         brier_score_score_first_model = (score_first_prob - home_score_first)^2,
-         brier_score_score_first_myself = (exp_score_first - home_score_first)^2) %>%
-  filter(!is.na(brier_score_win_tip), !is.na(brier_score_score_first_model), !is.na(brier_score_score_first_myself))
-
-brier_score_by_season <-
-  brier_score_test_df %>%
-  group_by(season) %>%
-  summarise(brier_score_win_tip = mean(brier_score_win_tip),
-            brier_score_score_first_model = mean(brier_score_score_first_model),
-            brier_score_score_first_myself = mean(brier_score_score_first_myself))
-
-message("brier score of win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip), 5))
-message("brier score of score first model is equal to ", round(mean(brier_score_test_df$brier_score_score_first_model), 5))
-message("brier score of score first myself is equal to ", round(mean(brier_score_test_df$brier_score_score_first_myself), 5))
-
-
-library(pROC)
-g <- roc(home_won_tip ~ win_tip_prob, data = test_df_exp_win_master)
-g$auc
-plot(g)
-
-# Score First Rates based on Win Tip, home/away
-score_first_rates_by_season <-
-  test_df_exp_win_master %>%
-  group_by(season, home_won_tip, home_score_first) %>%
-  summarise(score_first = n()) %>%
-  group_by(season) %>%
-  mutate(season_tips = sum(score_first)) %>%
-  group_by(season, home_won_tip) %>%
-  mutate(tip_wins = sum(score_first),
-         tip_wins_pct = tip_wins/season_tips) %>%
-  ungroup() %>%
-  select(season, home_won_tip, home_score_first, season_tips, tip_wins, tip_wins_pct, score_first) %>%
-  mutate(score_first_pct = score_first/tip_wins)
-
-score_first_rates <-
-  test_df_exp_win_master %>%
-  group_by(home_won_tip, home_score_first) %>%
-  summarise(score_first = n()) %>%
-  ungroup() %>%
-  mutate(tips = sum(score_first)) %>%
-  group_by(home_won_tip) %>%
-  mutate(tip_wins = sum(score_first),
-         tip_wins_pct = tip_wins/tips) %>%
-  ungroup() %>%
-  select(home_won_tip, home_score_first, tips, tip_wins, tip_wins_pct, score_first) %>%
-  mutate(score_first_pct = score_first/tip_wins)
+# # Views performance of model on test data
+# # Is split into buckets of predicted win probability, and compares to performance of those predictions
+# # Ideally, the average win percentage of a bucket should match the bucket it is in
+# test_buckets_win_tip <-
+#   test_df_exp_win_master %>%
+#   mutate(exp_win_prob = cut(win_tip_prob, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
+#   group_by(exp_win_prob) %>%
+#   summarise(jumps = n(),
+#             true_win_percent = mean(home_won_tip),
+#             .groups = 'drop')
+# 
+# test_buckets_score_model <-
+#   test_df_exp_win_master %>%
+#   mutate(exp_score_first_prob = cut(score_first_prob, breaks = seq(0, 100, by = 0.025), right = FALSE)) %>%
+#   group_by(exp_score_first_prob) %>%
+#   summarise(jumps = n(),
+#             tip_win_percent = mean(home_won_tip),
+#             first_score_percent = mean(home_score_first),
+#             .groups = 'drop')
+# 
+# test_buckets_score_myself <-
+#   test_df_exp_win_master %>%
+#   mutate(exp_score_first_prob = cut(exp_score_first, breaks = seq(0, 100, by = 0.025), right = FALSE)) %>%
+#   group_by(exp_score_first_prob) %>%
+#   summarise(jumps = n(),
+#             tip_win_percent = mean(home_won_tip),
+#             first_score_percent = mean(home_score_first),
+#             .groups = 'drop')
+# 
+# 
+# # Determines Brier Score on backtesting
+# brier_score_test_df <-
+#   test_df_exp_win_master %>%
+#   mutate(brier_score_win_tip = (win_tip_prob - home_won_tip)^2,
+#          brier_score_score_first_model = (score_first_prob - home_score_first)^2,
+#          brier_score_score_first_myself = (exp_score_first - home_score_first)^2) %>%
+#   filter(!is.na(brier_score_win_tip), !is.na(brier_score_score_first_model), !is.na(brier_score_score_first_myself))
+# 
+# brier_score_by_season <-
+#   brier_score_test_df %>%
+#   group_by(season) %>%
+#   summarise(brier_score_win_tip = mean(brier_score_win_tip),
+#             brier_score_score_first_model = mean(brier_score_score_first_model),
+#             brier_score_score_first_myself = mean(brier_score_score_first_myself))
+# 
+# message("brier score of win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip), 5))
+# message("brier score of score first model is equal to ", round(mean(brier_score_test_df$brier_score_score_first_model), 5))
+# message("brier score of score first myself is equal to ", round(mean(brier_score_test_df$brier_score_score_first_myself), 5))
+# 
+# 
+# library(pROC)
+# g <- roc(home_won_tip ~ win_tip_prob, data = test_df_exp_win_master)
+# g$auc
+# plot(g)
+# 
+# # Score First Rates based on Win Tip, home/away
+# score_first_rates_by_season <-
+#   test_df_exp_win_master %>%
+#   group_by(season, home_won_tip, home_score_first) %>%
+#   summarise(score_first = n()) %>%
+#   group_by(season) %>%
+#   mutate(season_tips = sum(score_first)) %>%
+#   group_by(season, home_won_tip) %>%
+#   mutate(tip_wins = sum(score_first),
+#          tip_wins_pct = tip_wins/season_tips) %>%
+#   ungroup() %>%
+#   select(season, home_won_tip, home_score_first, season_tips, tip_wins, tip_wins_pct, score_first) %>%
+#   mutate(score_first_pct = score_first/tip_wins)
+# 
+# score_first_rates <-
+#   test_df_exp_win_master %>%
+#   group_by(home_won_tip, home_score_first) %>%
+#   summarise(score_first = n()) %>%
+#   ungroup() %>%
+#   mutate(tips = sum(score_first)) %>%
+#   group_by(home_won_tip) %>%
+#   mutate(tip_wins = sum(score_first),
+#          tip_wins_pct = tip_wins/tips) %>%
+#   ungroup() %>%
+#   select(home_won_tip, home_score_first, tips, tip_wins, tip_wins_pct, score_first) %>%
+#   mutate(score_first_pct = score_first/tip_wins)
 
 # ## Write out main file
 # write.csv(player_list_df, "data/02_curated/nba_first_to_score/jump_ball_ratings.csv.gz", row.names = FALSE)

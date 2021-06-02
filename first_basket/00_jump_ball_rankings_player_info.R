@@ -14,7 +14,7 @@ library(data.table)
 earliest_train_data_date <- "2015-09-01"
 # Setting date we want to start logging test data on
 # Default uses today's date so that all completed games are used in calcualting ratings
-train_test_date_split <- "2018-09-01"
+train_test_date_split <- "2017-09-01"
 
 # Read in all player csvs
 file_list <- list.files(path="./data/nba_player_info/")
@@ -547,23 +547,23 @@ score_first_rates <-
   select(home_won_tip, home_score_first, tips, tip_wins, tip_wins_pct, score_first) %>%
   mutate(score_first_pct = score_first/tip_wins)
 
-#write.csv(test_df_exp_win_master, "data/02_curated/nba_first_to_score/model_iterative.csv.gz", row.names = FALSE)
+write.csv(test_df_exp_win_master, "data/02_curated/nba_first_to_score/model_iterative.csv.gz", row.names = FALSE)
 
-## Write out main file
-write.csv(player_list_df, "data/02_curated/nba_first_to_score/jump_ball_ratings.csv.gz", row.names = FALSE)
-
-## Write out archive file
-yyyy <- as.character(year(Sys.Date()))
-mm <- str_pad(as.character(month(Sys.Date())), 2, "left", pad = 0)
-dd <- str_pad(as.character(day(Sys.Date())), 2, "left", pad = 0)
-
-if (dir.exists(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)))) {
-  message("directory already exists")
-}else{
-  dir.create(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)), recursive = TRUE)
-}
-
-write.csv(player_list_df, paste0("data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd, "/", "jump_ball_ratings.csv.gz"), row.names = FALSE)
+# ## Write out main file
+# write.csv(player_list_df, "data/02_curated/nba_first_to_score/jump_ball_ratings.csv.gz", row.names = FALSE)
+# 
+# ## Write out archive file
+# yyyy <- as.character(year(Sys.Date()))
+# mm <- str_pad(as.character(month(Sys.Date())), 2, "left", pad = 0)
+# dd <- str_pad(as.character(day(Sys.Date())), 2, "left", pad = 0)
+# 
+# if (dir.exists(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)))) {
+#   message("directory already exists")
+# }else{
+#   dir.create(file.path(paste0("./data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd)), recursive = TRUE)
+# }
+# 
+# write.csv(player_list_df, paste0("data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd, "/", "jump_ball_ratings.csv.gz"), row.names = FALSE)
 
 
 
