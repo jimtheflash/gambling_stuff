@@ -110,7 +110,8 @@ for (g in unique_games) {
              na.strings = c('')) %>%
     mutate(EVENTNUM = as.numeric(EVENTNUM)) %>%
     filter(grepl("jump ball", tolower(HOMEDESCRIPTION)) | HOMEDESCRIPTION == " ") %>%
-    mutate(opening_jump = if_else(PERIOD == "1" & PCTIMESTRING == "12:00", TRUE, FALSE))
+    mutate(opening_jump = if_else(PERIOD == "1" & PCTIMESTRING == "12:00", TRUE, FALSE),
+           center_court = if_else(opening_jump == TRUE | (PERIOD > 4 & PCTIMESTRING == "5:00"), TRUE, FALSE))
   
   pbp <-
     pbp_jumps %>%
@@ -135,6 +136,9 @@ for (g in unique_games) {
   possession <- as.character(pbp$PLAYER3_TEAM_ABBREVIATION)
   score_first <- as.character(score_first_df$PLAYER1_TEAM_ABBREVIATION)
   opening_jump <- as.character(pbp$opening_jump)
+  center_court <- as.character(pbp$center_court)
+  period <- as.character(pbp$PERIOD)
+  period_clock <- as.character(pbp$PCTIMESTRING)
   
   # Final output of relevant info about jumps
   output <- tibble(
@@ -143,6 +147,9 @@ for (g in unique_games) {
     game_id = g,
     matchup = matchup,
     opening_jump = opening_jump,
+    center_court = center_court,
+    period = period,
+    period_clock = period_clock,
     home_team_jumper = home_team_jumper,
     home_team_person_id = home_team_person_id,
     home_team_abbrev = home_team_abbrev,
@@ -163,7 +170,8 @@ possession_binded <-
   bind_rows(possession_list) %>%
   filter(!is.na(possession)) %>%
   mutate(home_won_tip = if_else(home_team_abbrev == possession, TRUE, FALSE),
-         home_score_first = if_else(home_team_abbrev == score_first, TRUE, FALSE))
+         home_score_first = if_else(home_team_abbrev == score_first, TRUE, FALSE),
+         period_clock = period_to_seconds(ms(period_clock)))
 
 # Adds in player height and weight
 possession_player_info <-
@@ -179,18 +187,24 @@ possession_player_info <-
 
 possession_home <-
   possession_player_info %>%
-  select(season, game_date, game_id, matchup,
-         person_id = home_team_person_id, jumper = home_team_jumper, height = home_team_height, weight = home_team_weight, team_abbrev = home_team_abbrev,
-         opp_person_id = away_team_person_id, opp_jumper = away_team_jumper, opp_height = away_team_height, opp_weight = away_team_weight, opp_team_abbrev = away_team_abbrev,
-         opening_jump, possession, height_diff = home_height_diff, weight_diff = home_weight_diff, won_tip = home_won_tip, score_first = home_score_first) %>%
+  select(season, game_date, game_id, matchup, period, period_clock,
+         person_id = home_team_person_id, jumper = home_team_jumper, 
+         height = home_team_height, weight = home_team_weight, team_abbrev = home_team_abbrev,
+         opp_person_id = away_team_person_id, opp_jumper = away_team_jumper, 
+         opp_height = away_team_height, opp_weight = away_team_weight, opp_team_abbrev = away_team_abbrev,
+         opening_jump, center_court, possession, height_diff = home_height_diff, weight_diff = home_weight_diff, 
+         won_tip = home_won_tip, score_first = home_score_first) %>%
   mutate(home = TRUE)
   
 possession_away <-
   possession_player_info %>%
-  select(season, game_date, game_id, matchup,
-         person_id = away_team_person_id, jumper = away_team_jumper, height = away_team_height, weight = away_team_weight, team_abbrev = away_team_abbrev,
-         opp_person_id = home_team_person_id, opp_jumper = home_team_jumper, opp_height = home_team_height, opp_weight = home_team_weight, opp_team_abbrev = home_team_abbrev,
-         opening_jump, possession, height_diff = home_height_diff, weight_diff = home_weight_diff, won_tip = home_won_tip, score_first = home_score_first) %>%
+  select(season, game_date, game_id, matchup, period, period_clock,
+         person_id = away_team_person_id, jumper = away_team_jumper, 
+         height = away_team_height, weight = away_team_weight, team_abbrev = away_team_abbrev,
+         opp_person_id = home_team_person_id, opp_jumper = home_team_jumper, 
+         opp_height = home_team_height, opp_weight = home_team_weight, opp_team_abbrev = home_team_abbrev,
+         opening_jump, center_court, possession, height_diff = home_height_diff, weight_diff = home_weight_diff, 
+         won_tip = home_won_tip, score_first = home_score_first) %>%
   mutate(home = FALSE) %>%
   mutate(height_diff = -height_diff,
          weight_diff = -weight_diff,
@@ -209,11 +223,9 @@ rollmean_p <- function(x, p, ...) {
   )
 }
 
-### Add TOP for order?
-### Add flag for center court tip vs mid game jump (start + OT)
 possession_df_vars <-
   possession_df %>%
-  arrange(jumper, game_date) %>%
+  arrange(jumper, game_date, period, desc(period_clock)) %>%
   group_by(jumper) %>%
   mutate(jumps = replace_na(lag(row_number()), 0),
          all_jumps_avg = lag(cummean(won_tip)),
@@ -222,7 +234,13 @@ possession_df_vars <-
          last_50_avg = lag(rollmean_p(won_tip, 49, .complete = FALSE)),
          last_75_avg = lag(rollmean_p(won_tip, 74, .complete = FALSE)),
          last_100_avg = lag(rollmean_p(won_tip, 99, .complete = FALSE))) %>%
-  arrange(opp_jumper, game_date) %>%
+  group_by(jumper, season) %>%
+  mutate(season_jumps = replace_na(lag(row_number()), 0),
+         season_all_jumps_avg = lag(cummean(won_tip)),
+         season_last_10_avg = lag(rollmean_p(won_tip, 9, .complete = FALSE)),
+         season_last_25_avg = lag(rollmean_p(won_tip, 24, .complete = FALSE)),
+         season_last_50_avg = lag(rollmean_p(won_tip, 49, .complete = FALSE))) %>%
+  arrange(opp_jumper, game_date, period, desc(period_clock)) %>%
   group_by(opp_jumper) %>%
   mutate(opp_jumps = replace_na(lag(row_number()), 0),
          opp_all_jumps_avg = lag(cummean(!won_tip)),
@@ -231,14 +249,20 @@ possession_df_vars <-
          opp_last_50_avg = lag(rollmean_p(!won_tip, 49, .complete = FALSE)),
          opp_last_75_avg = lag(rollmean_p(!won_tip, 74, .complete = FALSE)),
          opp_last_100_avg = lag(rollmean_p(!won_tip, 99, .complete = FALSE))) %>%
+  group_by(opp_jumper, season) %>%
+  mutate(opp_season_jumps = replace_na(lag(row_number()), 0),
+         opp_season_all_jumps_avg = lag(cummean(!won_tip)),
+         opp_season_last_10_avg = lag(rollmean_p(!won_tip, 9, .complete = FALSE)),
+         opp_season_last_25_avg = lag(rollmean_p(!won_tip, 24, .complete = FALSE)),
+         opp_season_last_50_avg = lag(rollmean_p(!won_tip, 49, .complete = FALSE))) %>%
   ungroup() %>%
   mutate(won_tip = as.factor(won_tip))
-
 
 ### Adding data from other models
 model_iterative_split <-
   model_iterative %>%
-  select(season, game_date, game_id, matchup, opening_jump, person_id = home_team_person_id, 
+  select(season, game_date, game_id, matchup, opening_jump,
+         person_id = home_team_person_id, 
          team_abbrev = home_team_abbrev,
          opp_person_id = away_team_person_id, 
          opp_team_abbrev = away_team_abbrev, 
@@ -247,8 +271,10 @@ model_iterative_split <-
          iterative_win_tip = final_exp_win_adj) %>%
   bind_rows(
     model_iterative %>%
-    select(season, game_date, game_id, matchup, opening_jump, person_id = away_team_person_id, 
-           team_abbrev = away_team_abbrev, opp_person_id = home_team_person_id, 
+    select(season, game_date, game_id, matchup, opening_jump,
+           person_id = away_team_person_id, 
+           team_abbrev = away_team_abbrev,
+           opp_person_id = home_team_person_id, 
            opp_team_abbrev = home_team_abbrev,
            iterative_rating = away_exp_win_adj, 
            opp_iterative_rating = home_exp_win_adj,
@@ -290,17 +316,16 @@ possession_models_joined <-
   mutate(game_id = as.character(as.integer(game_id)),
          person_id = as.character(as.integer(person_id)),
          opp_person_id = as.character(as.integer(opp_person_id)),
-         opening_jump = as.logical(opening_jump)) %>%
+         opening_jump = as.logical(opening_jump),
+         center_court = as.logical(center_court)) %>%
   left_join(model_iterative_split) %>%
-  #left_join(model_markov_split) %>%
   distinct()
-
 
 ################# Day by Day Run #####################
 possession_relevant_dates <-
   possession_models_joined %>%
-  filter(game_date >= '2017-09-01') %>%
-  drop_na()
+  filter(game_date >= '2017-09-01') #%>%
+  #drop_na()
 
 # Set of dates to loop through for test data
 unique_dates <-
@@ -308,6 +333,10 @@ unique_dates <-
   distinct(game_date) %>%
   arrange(game_date) %>%
   filter(game_date >= '2018-09-01')
+
+possession_all_predictors <-
+  possession_relevant_dates %>%
+  select(-c(person_id, team_abbrev, opp_person_id, opp_team_abbrev, possession, score_first))
 
 # If no values in unique_dates (i.e. doing current day run instead of historical testing)
 # Set unique_dates to current date so loop runs once to get player ratings
@@ -323,80 +352,696 @@ for (i in 1:length(unique_dates$game_date)) {
   
   # Splitting data into train and test sets
   possession_train <-
-    possession_relevant_dates %>%
-    filter(game_date < unique_dates$game_date[i]) %>%
-    select(-c(season, game_date, game_id, matchup, person_id, team_abbrev, 
-              opp_person_id, opp_team_abbrev, possession, score_first))
-  
+    possession_all_predictors %>%
+    filter(game_date < unique_dates$game_date[i])
+
   possession_test <-
-    possession_relevant_dates %>%
-    filter(game_date == unique_dates$game_date[i]) %>%
-    select(-c(season, game_date, game_id, matchup, person_id, team_abbrev, 
-              opp_person_id, opp_team_abbrev, possession, score_first))
+    possession_all_predictors %>%
+    filter(game_date == unique_dates$game_date[i],
+           opening_jump == TRUE) 
 
   rec_loop <-
     recipe(possession_train) %>%
     update_role(won_tip, new_role = 'outcome') %>%
     update_role(-all_outcomes(), new_role = 'predictor') %>%
     update_role(ends_with('jumper'), new_role = 'jumper') %>%
+    update_role(c(season, game_date, game_id, matchup, period, period_clock), new_role = 'game_info') %>%
     prep()
   
-  baked_train_loop <- bake(rec_loop, possession_train)
-  baked_test_loop <- bake(rec_loop, possession_test)
+  # When jumper has no jumps and opponent has jumps, but not this season
+  count_no_jumps_opp_jumps_not_this_season <- sum(possession_test$jumps == 0 & possession_test$opp_jumps > 0 & possession_test$opp_season_jumps == 0)
+  # When jumper has no jumps and opponent has jumps this season
+  count_no_jumps_opp_jumps_this_season <- sum(possession_test$jumps == 0 & possession_test$opp_season_jumps > 0)
+  # When jumper and opponent have no jumps
+  count_no_jumps_opp_no_jumps <- sum(possession_test$jumps == 0 & possession_test$opp_jumps == 0)
   
-  ## subset predictors
-  predictor_vars_loop <- rec_loop$term_info$variable[rec_loop$term_info$role == 'predictor']
+  # When jumper has jumps, but not this season and opponent has no jumps
+  count_jumps_not_this_season_opp_no_jumps <- sum(possession_test$jumps > 0 & possession_test$season_jumps == 0 & possession_test$opp_jumps == 0)
+  # When jumper and opponent have jumps, but not this season
+  count_jumps_not_this_season_opp_jumps_not_this_season <- sum(possession_test$jumps > 0 & possession_test$season_jumps == 0 & 
+                                                                  possession_test$opp_jumps > 0 & possession_test$opp_season_jumps == 0)
+  # When jumper has jumps, but not this season and opponent has jumps this year
+  count_jumps_not_this_season_opp_jumps_this_season <- sum(possession_test$jumps > 0 & possession_test$season_jumps == 0 & possession_test$opp_season_jumps > 0)
   
-  predictors_train_loop <- 
-    baked_train_loop %>%
-    select(any_of(predictor_vars_loop))
+  # When jumper has jumps this season and opponent has no jumps
+  count_jumps_this_season_opp_no_jumps <- sum(possession_test$season_jumps > 0 & possession_test$opp_jumps == 0)
+  # When jumper has jumps this season and opponent has jumps, but not this season
+  count_jumps_this_season_opp_jumps_not_this_season <- sum(possession_test$season_jumps > 0 & possession_test$opp_jumps > 0 & possession_test$opp_season_jumps == 0)
+  # When jumper and opponent have jumps this season
+  count_jumps_this_season_opp_jumps_this_season <- sum(possession_test$season_jumps > 0 & possession_test$opp_season_jumps > 0)
   
-  predictors_test_loop <-
-    baked_test_loop %>%
-    select(any_of(predictor_vars_loop))
+  # Initializing df that stores daily test data predictions
+  daily_model_preds <- tibble()
   
-  ## subset outcomes
-  outcome_vars_loop <- rec_loop$term_info$variable[rec_loop$term_info$role == 'outcome']
-  outcomes_loop <- 
-    baked_train_loop %>%
-    select(any_of(outcome_vars_loop))
+  #### Models for when Player has had 0 jumps and Opponent has jumped, but not jumped this season
+  if (count_no_jumps_opp_jumps_not_this_season > 0) {
+    
+    possession_train_no_jumps <-
+      possession_train %>%
+      filter(opp_jumps > 0) %>%
+      select(-c(jumps, all_jumps_avg, last_10_avg, last_25_avg, last_50_avg, last_75_avg, last_100_avg,
+                season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
+                opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg,
+                iterative_rating, opp_iterative_rating, iterative_win_tip))
+    
+    possession_test_no_jumps <-
+      possession_test %>%
+      filter(jumps == 0 & opp_jumps > 0 & opp_season_jumps == 0) %>%
+      select(-c(jumps, all_jumps_avg, last_10_avg, last_25_avg, last_50_avg, last_75_avg, last_100_avg,
+                season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
+                opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg,
+                iterative_rating, opp_iterative_rating, iterative_win_tip))
+    
+    baked_train_no_jumps <- bake(rec_loop, possession_train_no_jumps)
+    baked_test_no_jumps <- bake(rec_loop, possession_test_no_jumps)
+    
+    ## subset predictors
+    predictor_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'predictor']
+    
+    predictors_train_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    predictors_test_no_jumps <-
+      baked_test_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    ## subset outcomes
+    outcome_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'outcome']
+    
+    outcomes_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(outcome_vars_no_jumps))
   
-  mod_ranger_loop <- ranger(x = predictors_train_loop, y = outcomes_loop$won_tip, probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
-  
-  preds_ranger_loop <- 
-    cbind.data.frame(baked_test_loop, predict(mod_ranger_loop, predictors_test_loop, type = 'response')$predictions) %>%
-    rename(win_tip_prob_ranger = `TRUE`) %>%
-    select(-c(`FALSE`)) %>%
-    mutate(won_tip = as.logical(won_tip))
-  
-  mod_glmnet_loop <- cv.glmnet(x = as.matrix(predictors_train_loop), y = outcomes_loop$won_tip, family = 'binomial')
-  
-  preds_glmnet_loop <- 
-    cbind.data.frame(baked_test_loop, win_tip_prob_glmnet = as.numeric(predict(mod_glmnet_loop, as.matrix(predictors_test_loop), type = 'response'))) %>%
-    mutate(won_tip = as.logical(won_tip))
-  
-  mod_earth_loop <- earth(x = predictors_train_loop, y = outcomes_loop$won_tip, degree = 2, glm = list(family = binomial), nfold = 3)
-  
-  preds_earth_loop <- 
-    cbind.data.frame(baked_test_loop, predict(mod_earth_loop, predictors_test_loop, type = 'response')) %>%
-    rename(win_tip_prob_earth = `TRUE`) %>%
-    mutate(won_tip = as.logical(won_tip))
-  
-  preds_binded_loop <-
-    cbind.data.frame(preds_ranger_loop, preds_glmnet_loop$win_tip_prob_glmnet, preds_earth_loop$win_tip_prob_earth)
+    mod_ranger_no_jumps <- ranger(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip,
+                                  probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
+    
+    preds_ranger_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_ranger_no_jumps, predictors_test_no_jumps, type = 'response')$predictions) %>%
+      rename(win_tip_prob_ranger = `TRUE`) %>%
+      select(-c(`FALSE`)) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_ranger)
+    
+    mod_glmnet_no_jumps <- cv.glmnet(x = as.matrix(predictors_train_no_jumps), y = outcomes_no_jumps$won_tip, family = 'binomial')
+    
+    preds_glmnet_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, win_tip_prob_glmnet = as.numeric(predict(mod_glmnet_no_jumps, as.matrix(predictors_test_no_jumps), type = 'response'))) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_glmnet)
+    
+    mod_earth_no_jumps <- earth(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip, degree = 2, glm = list(family = binomial), nfold = 3)
+    
+    preds_earth_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_earth_no_jumps, predictors_test_no_jumps, type = 'response')) %>%
+      rename(win_tip_prob_earth = `TRUE`) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_earth)
+    
+    preds_no_jumps <-
+      preds_ranger_no_jumps %>%
+      left_join(preds_glmnet_no_jumps) %>%
+      left_join(preds_earth_no_jumps) %>%
+      mutate(model = "count_no_jumps_opp_jumps_not_this_season")
+    
+    daily_model_preds = rbind.data.frame(daily_model_preds, preds_no_jumps)
 
-  test_df_exp_win_master = rbind.data.frame(test_df_exp_win_master, preds_binded_loop)
+  }
   
-  preds_win_prob <-
-    preds_binded_loop
+  #### Models for when Player has had 0 jumps and Opponent has jumped this season
+  if (count_no_jumps_opp_jumps_this_season > 0) {
+    
+    possession_train_no_jumps <-
+      possession_train %>%
+      filter(opp_season_jumps > 0) %>%
+      select(-c(jumps, all_jumps_avg, last_10_avg, last_25_avg, last_50_avg, last_75_avg, last_100_avg,
+                season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
+                iterative_rating, opp_iterative_rating, iterative_win_tip))
+    
+    possession_test_no_jumps <-
+      possession_test %>%
+      filter(jumps == 0 & opp_season_jumps > 0) %>%
+      select(-c(jumps, all_jumps_avg, last_10_avg, last_25_avg, last_50_avg, last_75_avg, last_100_avg,
+                season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
+                iterative_rating, opp_iterative_rating, iterative_win_tip))
+    
+    baked_train_no_jumps <- bake(rec_loop, possession_train_no_jumps)
+    baked_test_no_jumps <- bake(rec_loop, possession_test_no_jumps)
+    
+    ## subset predictors
+    predictor_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'predictor']
+    
+    predictors_train_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    predictors_test_no_jumps <-
+      baked_test_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    ## subset outcomes
+    outcome_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'outcome']
+    
+    outcomes_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(outcome_vars_no_jumps))
+    
+    mod_ranger_no_jumps <- ranger(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip,
+                                  probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
+    
+    preds_ranger_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_ranger_no_jumps, predictors_test_no_jumps, type = 'response')$predictions) %>%
+      rename(win_tip_prob_ranger = `TRUE`) %>%
+      select(-c(`FALSE`)) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_ranger)
+    
+    mod_glmnet_no_jumps <- cv.glmnet(x = as.matrix(predictors_train_no_jumps), y = outcomes_no_jumps$won_tip, family = 'binomial')
+    
+    preds_glmnet_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, win_tip_prob_glmnet = as.numeric(predict(mod_glmnet_no_jumps, as.matrix(predictors_test_no_jumps), type = 'response'))) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_glmnet)
+    
+    mod_earth_no_jumps <- earth(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip, degree = 2, glm = list(family = binomial), nfold = 3)
+    
+    preds_earth_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_earth_no_jumps, predictors_test_no_jumps, type = 'response')) %>%
+      rename(win_tip_prob_earth = `TRUE`) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_earth)
+    
+    preds_no_jumps <-
+      preds_ranger_no_jumps %>%
+      left_join(preds_glmnet_no_jumps) %>%
+      left_join(preds_earth_no_jumps) %>%
+      mutate(model = "count_no_jumps_opp_jumps_this_season")
+    
+    daily_model_preds = rbind.data.frame(daily_model_preds, preds_no_jumps)
+    
+  }
   
-  rec_loop <-
-    recipe(possession_train) %>%
-    update_role(won_tip, new_role = 'outcome') %>%
-    update_role(-all_outcomes(), new_role = 'predictor') %>%
-    update_role(ends_with('jumper'), new_role = 'jumper') %>%
-    prep()
+  #### Models for when Player and opponent have 0 jumps
+  if (count_no_jumps_opp_no_jumps > 0) {
+    
+    possession_train_no_jumps <-
+      possession_train %>%
+      select(-c(jumps, all_jumps_avg, last_10_avg, last_25_avg, last_50_avg, last_75_avg, last_100_avg,
+                season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
+                opp_jumps, opp_all_jumps_avg, opp_last_10_avg, opp_last_25_avg, opp_last_50_avg, opp_last_75_avg, opp_last_100_avg,
+                opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg,
+                iterative_rating, opp_iterative_rating, iterative_win_tip))
+    
+    possession_test_no_jumps <-
+      possession_test %>%
+      filter(jumps == 0 & opp_jumps == 0) %>%
+      select(-c(jumps, all_jumps_avg, last_10_avg, last_25_avg, last_50_avg, last_75_avg, last_100_avg,
+                season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
+                opp_jumps, opp_all_jumps_avg, opp_last_10_avg, opp_last_25_avg, opp_last_50_avg, opp_last_75_avg, opp_last_100_avg,
+                opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg,
+                iterative_rating, opp_iterative_rating, iterative_win_tip))
+    
+    baked_train_no_jumps <- bake(rec_loop, possession_train_no_jumps)
+    baked_test_no_jumps <- bake(rec_loop, possession_test_no_jumps)
+    
+    ## subset predictors
+    predictor_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'predictor']
+    
+    predictors_train_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    predictors_test_no_jumps <-
+      baked_test_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    ## subset outcomes
+    outcome_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'outcome']
+    
+    outcomes_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(outcome_vars_no_jumps))
+    
+    mod_ranger_no_jumps <- ranger(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip,
+                                  probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
+    
+    preds_ranger_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_ranger_no_jumps, predictors_test_no_jumps, type = 'response')$predictions) %>%
+      rename(win_tip_prob_ranger = `TRUE`) %>%
+      select(-c(`FALSE`)) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_ranger)
+    
+    mod_glmnet_no_jumps <- cv.glmnet(x = as.matrix(predictors_train_no_jumps), y = outcomes_no_jumps$won_tip, family = 'binomial')
+    
+    preds_glmnet_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, win_tip_prob_glmnet = as.numeric(predict(mod_glmnet_no_jumps, as.matrix(predictors_test_no_jumps), type = 'response'))) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_glmnet)
+    
+    mod_earth_no_jumps <- earth(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip, degree = 2, glm = list(family = binomial), nfold = 3)
+    
+    preds_earth_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_earth_no_jumps, predictors_test_no_jumps, type = 'response')) %>%
+      rename(win_tip_prob_earth = `TRUE`) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_earth)
+    
+    preds_no_jumps <-
+      preds_ranger_no_jumps %>%
+      left_join(preds_glmnet_no_jumps) %>%
+      left_join(preds_earth_no_jumps) %>%
+      mutate(model = "count_no_jumps_opp_no_jumps")
+    
+    daily_model_preds = rbind.data.frame(daily_model_preds, preds_no_jumps)
+    
+  }
+  
+  #### Models for when Player has had jumps, but not this season, and opponent has 0 jumps
+  if (count_jumps_not_this_season_opp_no_jumps > 0) {
+    
+    possession_train_no_jumps <-
+      possession_train %>%
+      filter(jumps > 0) %>%
+      select(-c(season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
+                opp_jumps, opp_all_jumps_avg, opp_last_10_avg, opp_last_25_avg, opp_last_50_avg, opp_last_75_avg, opp_last_100_avg,
+                opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg,
+                iterative_rating, opp_iterative_rating, iterative_win_tip))
+    
+    possession_test_no_jumps <-
+      possession_test %>%
+      filter(jumps > 0 & season_jumps == 0 & opp_jumps == 0) %>%
+      select(-c(season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
+                opp_jumps, opp_all_jumps_avg, opp_last_10_avg, opp_last_25_avg, opp_last_50_avg, opp_last_75_avg, opp_last_100_avg,
+                opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg,
+                iterative_rating, opp_iterative_rating, iterative_win_tip))
+    
+    baked_train_no_jumps <- bake(rec_loop, possession_train_no_jumps)
+    baked_test_no_jumps <- bake(rec_loop, possession_test_no_jumps)
+    
+    ## subset predictors
+    predictor_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'predictor']
+    
+    predictors_train_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    predictors_test_no_jumps <-
+      baked_test_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    ## subset outcomes
+    outcome_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'outcome']
+    
+    outcomes_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(outcome_vars_no_jumps))
+    
+    mod_ranger_no_jumps <- ranger(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip,
+                                  probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
+    
+    preds_ranger_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_ranger_no_jumps, predictors_test_no_jumps, type = 'response')$predictions) %>%
+      rename(win_tip_prob_ranger = `TRUE`) %>%
+      select(-c(`FALSE`)) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_ranger)
+    
+    mod_glmnet_no_jumps <- cv.glmnet(x = as.matrix(predictors_train_no_jumps), y = outcomes_no_jumps$won_tip, family = 'binomial')
+    
+    preds_glmnet_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, win_tip_prob_glmnet = as.numeric(predict(mod_glmnet_no_jumps, as.matrix(predictors_test_no_jumps), type = 'response'))) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_glmnet)
+    
+    mod_earth_no_jumps <- earth(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip, degree = 2, glm = list(family = binomial), nfold = 3)
+    
+    preds_earth_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_earth_no_jumps, predictors_test_no_jumps, type = 'response')) %>%
+      rename(win_tip_prob_earth = `TRUE`) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_earth)
+    
+    preds_no_jumps <-
+      preds_ranger_no_jumps %>%
+      left_join(preds_glmnet_no_jumps) %>%
+      left_join(preds_earth_no_jumps) %>%
+      mutate(model = "count_jumps_not_this_season_opp_no_jumps")
+    
+    daily_model_preds = rbind.data.frame(daily_model_preds, preds_no_jumps)
+    
+  }
+  
+  #### Models for when Player has had jumps, but not this season, and opponent has jumps, but not this season
+  if (count_jumps_not_this_season_opp_jumps_not_this_season > 0) {
+    
+    possession_train_no_jumps <-
+      possession_train %>%
+      filter(jumps > 0 & opp_jumps > 0 & !is.na(iterative_rating)) %>%
+      select(-c(season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
+                opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
+    
+    possession_test_no_jumps <-
+      possession_test %>%
+      filter(jumps > 0 & season_jumps == 0 & opp_jumps > 0 & opp_season_jumps == 0) %>%
+      select(-c(season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
+                opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
+    
+    baked_train_no_jumps <- bake(rec_loop, possession_train_no_jumps)
+    baked_test_no_jumps <- bake(rec_loop, possession_test_no_jumps)
+    
+    ## subset predictors
+    predictor_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'predictor']
+    
+    predictors_train_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    predictors_test_no_jumps <-
+      baked_test_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    ## subset outcomes
+    outcome_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'outcome']
+    
+    outcomes_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(outcome_vars_no_jumps))
+    
+    mod_ranger_no_jumps <- ranger(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip,
+                                  probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
+    
+    preds_ranger_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_ranger_no_jumps, predictors_test_no_jumps, type = 'response')$predictions) %>%
+      rename(win_tip_prob_ranger = `TRUE`) %>%
+      select(-c(`FALSE`)) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_ranger)
+    
+    mod_glmnet_no_jumps <- cv.glmnet(x = as.matrix(predictors_train_no_jumps), y = outcomes_no_jumps$won_tip, family = 'binomial')
+    
+    preds_glmnet_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, win_tip_prob_glmnet = as.numeric(predict(mod_glmnet_no_jumps, as.matrix(predictors_test_no_jumps), type = 'response'))) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_glmnet)
+    
+    mod_earth_no_jumps <- earth(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip, degree = 2, glm = list(family = binomial), nfold = 3)
+    
+    preds_earth_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_earth_no_jumps, predictors_test_no_jumps, type = 'response')) %>%
+      rename(win_tip_prob_earth = `TRUE`) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_earth)
+    
+    preds_no_jumps <-
+      preds_ranger_no_jumps %>%
+      left_join(preds_glmnet_no_jumps) %>%
+      left_join(preds_earth_no_jumps) %>%
+      mutate(model = "count_jumps_not_this_season_opp_jumps_not_this_season")
+    
+    daily_model_preds = rbind.data.frame(daily_model_preds, preds_no_jumps)
+    
+  }
+  
+  #### Models for when Player has had jumps, but not this season, and opponent has jumped this season
+  if (count_jumps_not_this_season_opp_jumps_this_season > 0) {
+    
+    possession_train_no_jumps <-
+      possession_train %>%
+      filter(jumps > 0 & opp_season_jumps > 0 & !is.na(iterative_rating)) %>%
+      select(-c(season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg))
+    
+    possession_test_no_jumps <-
+      possession_test %>%
+      filter(jumps > 0 & season_jumps == 0 & opp_season_jumps > 0) %>%
+      select(-c(season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg))
+    
+    baked_train_no_jumps <- bake(rec_loop, possession_train_no_jumps)
+    baked_test_no_jumps <- bake(rec_loop, possession_test_no_jumps)
+    
+    ## subset predictors
+    predictor_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'predictor']
+    
+    predictors_train_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    predictors_test_no_jumps <-
+      baked_test_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    ## subset outcomes
+    outcome_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'outcome']
+    
+    outcomes_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(outcome_vars_no_jumps))
+    
+    mod_ranger_no_jumps <- ranger(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip,
+                                  probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
+    
+    preds_ranger_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_ranger_no_jumps, predictors_test_no_jumps, type = 'response')$predictions) %>%
+      rename(win_tip_prob_ranger = `TRUE`) %>%
+      select(-c(`FALSE`)) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_ranger)
+    
+    mod_glmnet_no_jumps <- cv.glmnet(x = as.matrix(predictors_train_no_jumps), y = outcomes_no_jumps$won_tip, family = 'binomial')
+    
+    preds_glmnet_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, win_tip_prob_glmnet = as.numeric(predict(mod_glmnet_no_jumps, as.matrix(predictors_test_no_jumps), type = 'response'))) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_glmnet)
+    
+    mod_earth_no_jumps <- earth(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip, degree = 2, glm = list(family = binomial), nfold = 3)
+    
+    preds_earth_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_earth_no_jumps, predictors_test_no_jumps, type = 'response')) %>%
+      rename(win_tip_prob_earth = `TRUE`) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_earth)
+    
+    preds_no_jumps <-
+      preds_ranger_no_jumps %>%
+      left_join(preds_glmnet_no_jumps) %>%
+      left_join(preds_earth_no_jumps) %>%
+      mutate(model = "count_jumps_not_this_season_opp_jumps_this_season")
+    
+    daily_model_preds = rbind.data.frame(daily_model_preds, preds_no_jumps)
+    
+  }
+  
+  #### Models for when Player has had jumps this season, and opponent has 0 jumps
+  if (count_jumps_this_season_opp_no_jumps > 0) {
+    
+    possession_train_no_jumps <-
+      possession_train %>%
+      filter(season_jumps > 0 & !is.na(iterative_rating)) %>%
+      select(-c(opp_jumps, opp_all_jumps_avg, opp_last_10_avg, opp_last_25_avg, opp_last_50_avg, opp_last_75_avg, opp_last_100_avg,
+                opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg,
+                iterative_rating, opp_iterative_rating, iterative_win_tip))
+    
+    possession_test_no_jumps <-
+      possession_test %>%
+      filter(season_jumps > 0 & opp_jumps == 0) %>%
+      select(-c(opp_jumps, opp_all_jumps_avg, opp_last_10_avg, opp_last_25_avg, opp_last_50_avg, opp_last_75_avg, opp_last_100_avg,
+                opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg,
+                iterative_rating, opp_iterative_rating, iterative_win_tip))
+    
+    baked_train_no_jumps <- bake(rec_loop, possession_train_no_jumps)
+    baked_test_no_jumps <- bake(rec_loop, possession_test_no_jumps)
+    
+    ## subset predictors
+    predictor_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'predictor']
+    
+    predictors_train_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    predictors_test_no_jumps <-
+      baked_test_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    ## subset outcomes
+    outcome_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'outcome']
+    
+    outcomes_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(outcome_vars_no_jumps))
+    
+    mod_ranger_no_jumps <- ranger(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip,
+                                  probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
+    
+    preds_ranger_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_ranger_no_jumps, predictors_test_no_jumps, type = 'response')$predictions) %>%
+      rename(win_tip_prob_ranger = `TRUE`) %>%
+      select(-c(`FALSE`)) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_ranger)
+    
+    mod_glmnet_no_jumps <- cv.glmnet(x = as.matrix(predictors_train_no_jumps), y = outcomes_no_jumps$won_tip, family = 'binomial')
+    
+    preds_glmnet_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, win_tip_prob_glmnet = as.numeric(predict(mod_glmnet_no_jumps, as.matrix(predictors_test_no_jumps), type = 'response'))) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_glmnet)
+    
+    mod_earth_no_jumps <- earth(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip, degree = 2, glm = list(family = binomial), nfold = 3)
+    
+    preds_earth_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_earth_no_jumps, predictors_test_no_jumps, type = 'response')) %>%
+      rename(win_tip_prob_earth = `TRUE`) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_earth)
+    
+    preds_no_jumps <-
+      preds_ranger_no_jumps %>%
+      left_join(preds_glmnet_no_jumps) %>%
+      left_join(preds_earth_no_jumps) %>%
+      mutate(model = "count_jumps_this_season_opp_no_jumps")
+    
+    daily_model_preds = rbind.data.frame(daily_model_preds, preds_no_jumps)
+    
+  }
+  
+  #### Models for when Player has had jumps this season, and opponent has jumps, but not this season
+  if (count_jumps_this_season_opp_jumps_not_this_season > 0) {
+    
+    possession_train_no_jumps <-
+      possession_train %>%
+      filter(season_jumps > 0 & opp_jumps > 0 & !is.na(iterative_rating)) %>%
+      select(-c(opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
+    
+    possession_test_no_jumps <-
+      possession_test %>%
+      filter(season_jumps > 0 & opp_jumps > 0 & opp_season_jumps == 0) %>%
+      select(-c(opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
+    
+    baked_train_no_jumps <- bake(rec_loop, possession_train_no_jumps)
+    baked_test_no_jumps <- bake(rec_loop, possession_test_no_jumps)
+    
+    ## subset predictors
+    predictor_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'predictor']
+    
+    predictors_train_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    predictors_test_no_jumps <-
+      baked_test_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    ## subset outcomes
+    outcome_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'outcome']
+    
+    outcomes_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(outcome_vars_no_jumps))
+    
+    mod_ranger_no_jumps <- ranger(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip,
+                                  probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
+    
+    preds_ranger_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_ranger_no_jumps, predictors_test_no_jumps, type = 'response')$predictions) %>%
+      rename(win_tip_prob_ranger = `TRUE`) %>%
+      select(-c(`FALSE`)) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_ranger)
+    
+    mod_glmnet_no_jumps <- cv.glmnet(x = as.matrix(predictors_train_no_jumps), y = outcomes_no_jumps$won_tip, family = 'binomial')
+    
+    preds_glmnet_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, win_tip_prob_glmnet = as.numeric(predict(mod_glmnet_no_jumps, as.matrix(predictors_test_no_jumps), type = 'response'))) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_glmnet)
+    
+    mod_earth_no_jumps <- earth(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip, degree = 2, glm = list(family = binomial), nfold = 3)
+    
+    preds_earth_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_earth_no_jumps, predictors_test_no_jumps, type = 'response')) %>%
+      rename(win_tip_prob_earth = `TRUE`) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_earth)
+    
+    preds_no_jumps <-
+      preds_ranger_no_jumps %>%
+      left_join(preds_glmnet_no_jumps) %>%
+      left_join(preds_earth_no_jumps) %>%
+      mutate(model = "count_jumps_this_season_opp_jumps_not_this_season")
+    
+    daily_model_preds = rbind.data.frame(daily_model_preds, preds_no_jumps)
+    
+  }
+  
+  #### Models for when Player has had jumps this season, and opponent has jumped this season
+  if (count_jumps_this_season_opp_jumps_this_season > 0) {
+    
+    possession_train_no_jumps <-
+      possession_train %>%
+      filter(season_jumps > 0 & opp_season_jumps > 0 & !is.na(iterative_rating))
+    
+    possession_test_no_jumps <-
+      possession_test %>%
+      filter(season_jumps > 0 & opp_season_jumps > 0)
+    
+    baked_train_no_jumps <- bake(rec_loop, possession_train_no_jumps)
+    baked_test_no_jumps <- bake(rec_loop, possession_test_no_jumps)
+    
+    ## subset predictors
+    predictor_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'predictor']
+    
+    predictors_train_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    predictors_test_no_jumps <-
+      baked_test_no_jumps %>%
+      select(any_of(predictor_vars_no_jumps))
+    
+    ## subset outcomes
+    outcome_vars_no_jumps <- rec_loop$term_info$variable[rec_loop$term_info$role == 'outcome']
+    
+    outcomes_no_jumps <- 
+      baked_train_no_jumps %>%
+      select(any_of(outcome_vars_no_jumps))
+    
+    mod_ranger_no_jumps <- ranger(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip,
+                                  probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
+    
+    preds_ranger_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_ranger_no_jumps, predictors_test_no_jumps, type = 'response')$predictions) %>%
+      rename(win_tip_prob_ranger = `TRUE`) %>%
+      select(-c(`FALSE`)) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_ranger)
+    
+    mod_glmnet_no_jumps <- cv.glmnet(x = as.matrix(predictors_train_no_jumps), y = outcomes_no_jumps$won_tip, family = 'binomial')
+    
+    preds_glmnet_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, win_tip_prob_glmnet = as.numeric(predict(mod_glmnet_no_jumps, as.matrix(predictors_test_no_jumps), type = 'response'))) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_glmnet)
+    
+    mod_earth_no_jumps <- earth(x = predictors_train_no_jumps, y = outcomes_no_jumps$won_tip, degree = 2, glm = list(family = binomial), nfold = 3)
+    
+    preds_earth_no_jumps <- 
+      cbind.data.frame(baked_test_no_jumps, predict(mod_earth_no_jumps, predictors_test_no_jumps, type = 'response')) %>%
+      rename(win_tip_prob_earth = `TRUE`) %>%
+      mutate(won_tip = as.logical(won_tip)) %>%
+      select(game_id, period, period_clock, jumper, opp_jumper, win_tip_prob_earth)
+    
+    preds_no_jumps <-
+      preds_ranger_no_jumps %>%
+      left_join(preds_glmnet_no_jumps) %>%
+      left_join(preds_earth_no_jumps) %>%
+      mutate(model = "count_jumps_this_season_opp_jumps_this_season")
+    
+    daily_model_preds = rbind.data.frame(daily_model_preds, preds_no_jumps)
+    
+  }
 
+  test_df_exp_win_master = rbind.data.frame(test_df_exp_win_master, daily_model_preds)
 }
 
 test_df_exp_win_master_renamed <-
@@ -415,7 +1060,6 @@ test_df_exp_win_master_all_combined <-
 brier_score_test_df_loop <-
   test_df_exp_win_master_all_combined %>%
   mutate(brier_score_iterative = (iterative_win_tip - won_tip)^2,
-         #brier_score_markov = (markov_win_tip - won_tip)^2,
          brier_score_win_tip_ranger = (win_tip_prob_ranger - won_tip)^2,
          brier_score_win_tip_glmnet = (win_tip_prob_glmnet - won_tip)^2,
          brier_score_win_tip_earth = (win_tip_prob_earth - won_tip)^2,
@@ -465,7 +1109,7 @@ one_row_per_jump_home <-
   test_df_exp_win_master_all_combined %>%
   filter(home == TRUE) %>%
   drop_na() %>%
-  select(jumper, opp_jumper, won_tip, jumps, opp_jumps, 
+  select(season, jumper, opp_jumper, won_tip, jumps, opp_jumps, 
          iterative_win_tip, win_tip_prob_ranger, win_tip_prob_glmnet,
          win_tip_prob_earth, win_tip_prob_all)
 
@@ -473,7 +1117,7 @@ one_row_per_jump_away <-
   test_df_exp_win_master_all_combined %>%
   filter(home == FALSE) %>%
   drop_na() %>%
-  select(jumper, opp_jumper, jumps, opp_jumps, 
+  select(season, jumper, opp_jumper, jumps, opp_jumps, 
          iterative_win_tip, win_tip_prob_ranger, win_tip_prob_glmnet,
          win_tip_prob_earth, win_tip_prob_all) %>%
   rename(opp_jumper = jumper,
@@ -540,12 +1184,18 @@ plot(all_auc_loop)
 
 
 ############ See how it compares by season
+season_analysis <-
+  brier_score_test_df_loop %>%
+  group_by(season) %>%
+  summarise(iterative =  round(mean(brier_score_iterative), 5),
+            ranger =  round(mean(brier_score_win_tip_ranger), 5),
+            glmnet =  round(mean(brier_score_win_tip_glmnet), 5),
+            earth =  round(mean(brier_score_win_tip_earth), 5),
+            all =  round(mean(brier_score_win_tip_all), 5))
 
 
 
 
-
-#### add current season jump count field
 
 
 
@@ -554,18 +1204,21 @@ plot(all_auc_loop)
 
 
 ########################### Random Train/Test split ######################################
-
 possession_final_cols <-
   possession_models_joined %>%
-  select(-c(season, game_date, game_id, matchup, person_id, team_abbrev, 
-            opp_person_id, opp_team_abbrev, possession, score_first))
+  select(-c(game_date, game_id, matchup, person_id, team_abbrev, 
+            opp_person_id, opp_team_abbrev, possession, score_first)) #%>%
+  # select(-c(season_last_10_avg,
+  #           season_last_25_avg, season_last_50_avg, opp_season_last_10_avg,
+  #           opp_season_last_25_avg, opp_season_last_50_avg)) %>%
+  # select(-c(season_jumps, opp_season_jumps, season_all_jumps_avg, opp_season_all_jumps_avg))
 
 ## Adding random number for training
-set.seed(051221)
+set.seed(052121)
 possession_final_df <-
   possession_final_cols %>%
   rowwise() %>%
-  mutate(train_or_test = if_else(runif(1) > .8, "Test", "Train")) %>%
+  mutate(train_or_test = if_else(runif(1) > .75, "Test", "Train")) %>%
   drop_na()
 
 training_data <-
@@ -583,6 +1236,7 @@ rec <-
   update_role(won_tip, new_role = 'outcome') %>%
   update_role(-all_outcomes(), new_role = 'predictor') %>%
   update_role(ends_with('jumper'), new_role = 'jumper') %>%
+  update_role(season, new_role = 'season') %>%
   prep()
 
 baked_train <- bake(rec, training_data)
@@ -606,157 +1260,52 @@ outcomes <-
   baked_train %>%
   select(any_of(outcome_vars))
 
-mod_ranger <- ranger(x = predictors_train, y = outcomes$won_tip, probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
+mod_ranger <- ranger(x = predictors_train, y = as.factor(outcomes$won_tip), 
+                     num.trees = 500, probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
 
 preds_ranger <- 
   cbind.data.frame(baked_test, predict(mod_ranger, predictors_test, type = 'response')$predictions) %>%
-  rename(win_tip_prob = `TRUE`) %>%
+  rename(win_tip_prob_ranger = `TRUE`) %>%
   select(-c(`FALSE`)) %>%
   mutate(won_tip = as.logical(won_tip))
 
-mod_glmnet <- cv.glmnet(x = as.matrix(predictors_train), y = outcomes$won_tip, family = 'binomial')
+mod_glmnet <- cv.glmnet(x = as.matrix(predictors_train), y = outcomes$won_tip, family = 'binomial', alpha = 1)
 
 preds_glmnet <- 
-  cbind.data.frame(baked_test, win_tip_prob = as.numeric(predict(mod_glmnet, as.matrix(predictors_test), type = 'response'))) %>%
+  cbind.data.frame(baked_test, win_tip_prob_glmnet = as.numeric(predict(mod_glmnet, as.matrix(predictors_test), type = 'response'))) %>%
   mutate(won_tip = as.logical(won_tip))
 
 mod_earth <- earth(x = predictors_train, y = outcomes$won_tip, degree = 2, glm = list(family = binomial), nfold = 3)
 
 preds_earth <- 
   cbind.data.frame(baked_test, predict(mod_earth, predictors_test, type = 'response')) %>%
-  rename(win_tip_prob = `TRUE`) %>%
+  rename(win_tip_prob_earth = `outcomes$won_tip`) %>%
   mutate(won_tip = as.logical(won_tip))
 
-test_buckets_win_tip_ranger <-
+preds_all <-
   preds_ranger %>%
-  mutate(exp_win_prob = cut(win_tip_prob, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
-  group_by(exp_win_prob) %>%
-  summarise(jumps = n(),
-            true_win_percent = mean(won_tip),
-            .groups = 'drop')
-
-test_buckets_win_tip_glmnet <-
-  preds_glmnet %>%
-  mutate(exp_win_prob = cut(win_tip_prob, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
-  group_by(exp_win_prob) %>%
-  summarise(jumps = n(),
-            true_win_percent = mean(won_tip),
-            .groups = 'drop')
-
-test_buckets_win_tip_earth <-
-  preds_earth %>%
-  mutate(exp_win_prob = cut(win_tip_prob, breaks = seq(0, 100, by = 0.05), right = FALSE)) %>%
-  group_by(exp_win_prob) %>%
-  summarise(jumps = n(),
-            true_win_percent = mean(won_tip),
-            .groups = 'drop')
-
-brier_score_test_df <-
-  preds_earth %>%
-  mutate(brier_score_win_tip = (win_tip_prob - won_tip)^2,
-         brier_score_markov = (markov_win_tip - won_tip)^2,
-         brier_score_iterative = (iterative_win_tip - won_tip)^2) %>%
-  filter(!is.na(brier_score_win_tip))
-
-message("brier score of ensemble win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip), 5))
-message("brier score of markov win tips is equal to ", round(mean(brier_score_test_df$brier_score_markov), 5))
-message("brier score of iterative win tips is equal to ", round(mean(brier_score_test_df$brier_score_iterative), 5))
-
-markov_auc <- roc(won_tip ~ markov_win_tip, data = preds_earth)
-markov_auc$auc
-plot(markov_auc)
-
-ensemble_auc <- roc(won_tip ~ win_tip_prob, data = preds_earth)
-ensemble_auc$auc
-plot(ensemble_auc)
-
-iterative_auc <- roc(won_tip ~ iterative_win_tip, data = preds_earth)
-iterative_auc$auc
-plot(iterative_auc)
-###
-
-
-
-
-
-
-###### Model with just win probs? ########
-win_prob_only_model <-
-  test_df_exp_win_master_all_combined %>%
-  select(jumper, opp_jumper, opening_jump, won_tip, home,
-         iterative_win_tip, win_tip_prob_ranger, win_tip_prob_glmnet,
-         win_tip_prob_earth, win_tip_prob_all)
-
-## Adding random number for training
-set.seed(051221)
-win_prob_only_model_data_split <-
-  win_prob_only_model %>%
+  left_join(preds_glmnet) %>%
+  left_join(preds_earth) %>%
   rowwise() %>%
-  mutate(train_or_test = if_else(runif(1) > .8, "Test", "Train")) %>%
-  drop_na()
+  mutate(win_tip_prob_all = mean(c(win_tip_prob_ranger, win_tip_prob_glmnet, win_tip_prob_earth)))
 
-training_data <-
-  win_prob_only_model_data_split %>%
-  filter(train_or_test == "Train") %>%
-  select(-train_or_test)
+brier_score_test_df <-
+  preds_all %>%
+  mutate(brier_score_iterative = (iterative_win_tip - won_tip)^2,
+         brier_score_win_tip_ranger = (win_tip_prob_ranger - won_tip)^2,
+         brier_score_win_tip_glmnet = (win_tip_prob_glmnet - won_tip)^2,
+         brier_score_win_tip_earth = (win_tip_prob_earth - won_tip)^2,
+         brier_score_win_tip_all = (win_tip_prob_all - won_tip)^2)
 
-testing_data <-
-  win_prob_only_model_data_split %>%
-  filter(train_or_test == "Test") %>%
-  select(-train_or_test)
-
-rec <-
-  recipe(training_data) %>%
-  update_role(won_tip, new_role = 'outcome') %>%
-  update_role(-all_outcomes(), new_role = 'predictor') %>%
-  update_role(ends_with('jumper'), new_role = 'jumper') %>%
-  prep()
-
-baked_train <- bake(rec, training_data)
-baked_test <- bake(rec, testing_data)
-
-## subset predictors
-predictor_vars <- rec$term_info$variable[rec$term_info$role == 'predictor']
-
-predictors_train <- 
-  baked_train %>%
-  select(any_of(predictor_vars))
-
-predictors_test <-
-  baked_test %>%
-  select(any_of(predictor_vars))
-
-## subset outcomes
-outcome_vars <- rec$term_info$variable[rec$term_info$role == 'outcome']
-
-outcomes <- 
-  baked_train %>%
-  select(any_of(outcome_vars))
-
-mod_ranger <- ranger(x = predictors_train, y = outcomes$won_tip, probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
-
-preds_ranger <- 
-  cbind.data.frame(baked_test, predict(mod_ranger, predictors_test, type = 'response')$predictions) %>%
-  rename(final_win_tip_ranger = `2`) %>%
-  select(-c(`1`)) %>%
-  mutate(won_tip = as.logical(won_tip))
-
-mod_glmnet <- cv.glmnet(x = as.matrix(predictors_train), y = outcomes$won_tip, family = 'binomial')
-
-preds_glmnet <- 
-  cbind.data.frame(baked_test, final_win_tip_glmnet = as.numeric(predict(mod_glmnet, as.matrix(predictors_test), type = 'response'))) %>%
-  mutate(won_tip = as.logical(won_tip))
-
-mod_earth <- earth(x = predictors_train, y = outcomes$won_tip, degree = 2, glm = list(family = binomial), nfold = 3)
-
-preds_earth <- 
-  cbind.data.frame(baked_test, predict(mod_earth, predictors_test, type = 'response')) %>%
-  rename(final_win_tip_earth = `outcomes$won_tip`) %>%
-  mutate(won_tip = as.logical(won_tip))
+message("brier score of iterative win tips is equal to ", round(mean(brier_score_test_df$brier_score_iterative), 5))
+message("brier score of ranger win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip_ranger), 5))
+message("brier score of glmnet win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip_glmnet), 5))
+message("brier score of earth win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip_earth), 5))
+message("brier score of all win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip_all), 5))
 
 test_buckets_win_tip_ranger <-
   preds_ranger %>%
-  mutate(exp_win_prob = cut(final_win_tip_ranger, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
+  mutate(exp_win_prob = cut(win_tip_prob_ranger, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
   group_by(exp_win_prob) %>%
   summarise(jumps = n(),
             true_win_percent = mean(won_tip),
@@ -764,7 +1313,7 @@ test_buckets_win_tip_ranger <-
 
 test_buckets_win_tip_glmnet <-
   preds_glmnet %>%
-  mutate(exp_win_prob = cut(final_win_tip_glmnet, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
+  mutate(exp_win_prob = cut(win_tip_glmnet, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
   group_by(exp_win_prob) %>%
   summarise(jumps = n(),
             true_win_percent = mean(won_tip),
@@ -772,19 +1321,13 @@ test_buckets_win_tip_glmnet <-
 
 test_buckets_win_tip_earth <-
   preds_earth %>%
-  mutate(exp_win_prob = cut(final_win_tip_earth, breaks = seq(0, 100, by = 0.05), right = FALSE)) %>%
+  mutate(exp_win_prob = cut(win_tip_earth, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
   group_by(exp_win_prob) %>%
   summarise(jumps = n(),
             true_win_percent = mean(won_tip),
             .groups = 'drop')
 
-brier_score_test_df <-
-  preds_earth %>%
-  mutate(brier_score_win_tip = (final_win_tip_earth - won_tip)^2,
-         brier_score_iterative = (iterative_win_tip - won_tip)^2) %>%
-  filter(!is.na(brier_score_win_tip))
 
-message("brier score of ensemble win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip), 5))
 
 
 
