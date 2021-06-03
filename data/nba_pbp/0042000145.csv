@@ -1,0 +1,435 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042000145,2,12,0,1,9:48 PM,12:00,,Start of 1st Period (9:48 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,4,10,0,1,9:48 PM,12:00,Jump Ball Gobert vs. Valanciunas: Tip to O'Neale,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,1
+0042000145,7,1,79,1,9:48 PM,11:39,Mitchell 7' Pullup Jump Shot (2 PTS),,,0 - 2,2,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,9,5,40,1,9:48 PM,11:30,,,Morant Out of Bounds Lost Ball Turnover (P1.T1),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0042000145,10,2,78,1,9:48 PM,11:17,MISS Mitchell 4' Floating Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,12,1,97,1,9:48 PM,11:14,Gobert Tip Layup Shot (2 PTS),,,0 - 4,4,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,11,4,0,1,9:48 PM,11:14,Gobert REBOUND (Off:1 Def:0),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,13,1,1,1,9:49 PM,11:06,,,Valanciunas 26' 3PT Jump Shot (3 PTS) (Brooks 1 AST),3 - 4,1,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,15,1,1,1,9:49 PM,10:49,Mitchell 25' 3PT Jump Shot (5 PTS) (Bogdanovic 1 AST),,,3 - 7,4,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,17,1,98,1,9:49 PM,10:35,,,Anderson 2' Cutting Layup Shot (2 PTS) (Morant 1 AST),5 - 7,2,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,19,2,1,1,9:49 PM,10:16,MISS Mitchell 26' 3PT Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,20,4,0,1,9:49 PM,10:14,,,Jackson Jr. REBOUND (Off:0 Def:1),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,21,2,1,1,9:50 PM,10:05,,,MISS Valanciunas 25' 3PT Jump Shot,,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,22,4,0,1,9:50 PM,10:02,Bogdanovic REBOUND (Off:0 Def:1),,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,23,1,1,1,9:50 PM,9:52,Conley 25' 3PT Jump Shot (3 PTS) (Mitchell 1 AST),,,5 - 10,5,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,25,1,58,1,9:50 PM,9:32,,,Valanciunas 5' Turnaround Hook Shot (5 PTS) (Morant 2 AST),7 - 10,3,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,27,1,79,1,9:50 PM,9:24,Bogdanovic 25' 3PT Pullup Jump Shot (3 PTS) (Conley 1 AST),,,7 - 13,6,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,28,5,1,1,9:51 PM,9:08,O'Neale STEAL (1 STL),,Brooks Bad Pass Turnover (P1.T2),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,30,2,1,1,9:51 PM,9:04,MISS O'Neale 26' 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,31,4,0,1,9:51 PM,8:59,,,Valanciunas REBOUND (Off:0 Def:1),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,32,5,2,1,9:51 PM,8:58,Bogdanovic STEAL (1 STL),,Valanciunas Lost Ball Turnover (P1.T3),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,36,1,79,1,9:51 PM,8:48,Mitchell 25' 3PT Pullup Jump Shot (8 PTS),,,7 - 16,9,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,37,9,1,1,9:51 PM,8:46,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,38,2,1,1,9:55 PM,8:30,,,MISS Brooks 3PT Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,39,4,0,1,9:55 PM,8:27,Gobert REBOUND (Off:1 Def:1),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,40,1,6,1,9:56 PM,8:16,Bogdanovic 5' Driving Layup (5 PTS) (Gobert 1 AST),,,7 - 18,11,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,41,2,101,1,9:56 PM,8:04,,,MISS Morant 7' Driving Floating Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,42,4,0,1,9:56 PM,8:01,Bogdanovic REBOUND (Off:0 Def:2),,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,43,1,2,1,9:56 PM,7:55,O'Neale 3PT Running Jump Shot (3 PTS) (Bogdanovic 2 AST),,,7 - 21,14,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,46,1,79,1,9:56 PM,7:35,,,Morant 26' 3PT Pullup Jump Shot (3 PTS),10 - 21,11,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,47,1,102,1,9:56 PM,7:22,Mitchell 9' Driving Floating Bank Jump Shot (10 PTS),,,10 - 23,13,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,48,1,79,1,9:57 PM,7:04,,,Brooks 15' Pullup Jump Shot (2 PTS),12 - 23,11,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,49,1,1,1,9:57 PM,6:53,O'Neale 27' 3PT Jump Shot (6 PTS) (Mitchell 2 AST),,,12 - 26,14,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,51,2,75,1,9:57 PM,6:40,,,MISS Anderson 3' Driving Finger Roll Layup,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,52,4,0,1,9:57 PM,6:39,Gobert REBOUND (Off:1 Def:2),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,53,1,6,1,9:57 PM,6:34,Mitchell 3' Driving Layup (12 PTS),,,12 - 28,16,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,54,9,1,1,9:57 PM,6:34,,,Grizzlies Timeout: Regular (Reg.2 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,55,8,0,1,9:59 PM,6:34,SUB: Favors FOR Conley,,,,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,56,8,0,1,9:59 PM,6:34,SUB: Ingles FOR Gobert,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,59,8,0,1,9:59 PM,6:34,,,SUB: Allen FOR Anderson,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,60,8,0,1,9:59 PM,6:34,,,SUB: Bane FOR Jackson Jr.,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,63,1,108,1,10:01 PM,6:18,,,Valanciunas 3' Cutting Dunk Shot (7 PTS) (Morant 3 AST),14 - 28,14,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,65,1,6,1,10:02 PM,5:57,Mitchell 2' Driving Layup (14 PTS),,,14 - 30,16,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,66,2,79,1,10:02 PM,5:50,,,MISS Morant 26' 3PT Pullup Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,67,4,0,1,10:02 PM,5:47,Bogdanovic REBOUND (Off:0 Def:3),,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,68,2,6,1,10:02 PM,5:40,MISS Bogdanovic 4' Driving Layup,,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,69,4,0,1,10:02 PM,5:38,,,Bane REBOUND (Off:0 Def:1),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,70,6,28,1,10:02 PM,5:37,Mitchell Personal Take Foul (P1.T1) (T.Brothers),,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,72,8,0,1,10:02 PM,5:37,SUB: Clarkson FOR Mitchell,,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,74,1,79,1,10:03 PM,5:22,,,Brooks 26' 3PT Pullup Jump Shot (5 PTS) (Morant 4 AST),17 - 30,13,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,76,1,102,1,10:03 PM,5:05,Clarkson 5' Driving Floating Bank Jump Shot (2 PTS) (Bogdanovic 3 AST),,,17 - 32,15,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,77,1,6,1,10:03 PM,4:55,,,Brooks 8' Driving Layup (7 PTS),19 - 32,13,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,79,1,1,1,10:03 PM,4:40,Bogdanovic 24' 3PT Jump Shot (8 PTS) (O'Neale 1 AST),,,19 - 35,16,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,81,5,1,1,10:04 PM,4:16,Clarkson STEAL (1 STL),,Morant Bad Pass Turnover (P2.T4),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,83,1,103,1,10:04 PM,4:12,Bogdanovic 26' 3PT Running Pull-Up Jump Shot (11 PTS) (Clarkson 1 AST),,,19 - 38,19,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,85,2,79,1,10:04 PM,3:59,,,MISS Brooks 15' Pullup Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,86,4,0,1,10:04 PM,3:55,Ingles REBOUND (Off:0 Def:1),,,,,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,87,6,2,1,10:04 PM,3:47,,,Valanciunas S.FOUL (P1.T1) (T.Brothers),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042000145,89,3,11,1,10:05 PM,3:47,Clarkson Free Throw 1 of 2 (3 PTS),,,19 - 39,20,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,90,3,12,1,10:05 PM,3:47,Clarkson Free Throw 2 of 2 (4 PTS),,,19 - 40,21,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,91,2,79,1,10:05 PM,3:35,,,MISS Allen 25' 3PT Pullup Jump Shot,,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,92,4,0,1,10:05 PM,3:32,,,Allen REBOUND (Off:1 Def:0),,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,93,2,6,1,10:05 PM,3:31,O'Neale BLOCK (1 BLK),,MISS Allen 3' Driving Layup,,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,1
+0042000145,98,4,0,1,10:05 PM,3:31,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,95,10,0,1,10:06 PM,3:29, ,,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,3,1610612763,,,,,,1
+0042000145,99,1,80,1,10:06 PM,3:23,,,Morant 21' Step Back Jump Shot (5 PTS),21 - 40,19,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,100,2,1,1,10:07 PM,3:09,MISS O'Neale 28' 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,101,4,0,1,10:07 PM,3:07,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,103,8,0,1,10:07 PM,3:07,SUB: Niang FOR Favors,,,,,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,104,8,0,1,10:07 PM,3:07,SUB: Gobert FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,105,8,0,1,10:07 PM,3:07,SUB: Conley FOR Bogdanovic,,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,106,8,0,1,10:07 PM,3:07,,,SUB: Jackson Jr. FOR Valanciunas,,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,111,1,6,1,10:07 PM,2:47,,,Brooks 2' Driving Layup (9 PTS) (Bane 1 AST),23 - 40,17,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,113,2,79,1,10:08 PM,2:32,MISS Clarkson 25' 3PT Pullup Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,114,4,0,1,10:08 PM,2:32,Niang REBOUND (Off:1 Def:0),,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,115,2,79,1,10:08 PM,2:19,MISS Clarkson 26' 3PT Pullup Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,116,4,0,1,10:08 PM,2:15,,,Bane REBOUND (Off:0 Def:2),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,117,2,80,1,10:08 PM,2:07,,,MISS Bane 25' 3PT Step Back Jump Shot,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,118,4,0,1,10:08 PM,2:05,Ingles REBOUND (Off:0 Def:2),,,,,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,119,1,57,1,10:08 PM,1:57,Conley 4' Driving Hook Shot (5 PTS),,,23 - 42,19,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,120,1,6,1,10:08 PM,1:37,,,Morant 4' Driving Layup (7 PTS),25 - 42,17,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,121,1,1,1,10:09 PM,1:23,Niang 24' 3PT Jump Shot (3 PTS) (Conley 2 AST),,,25 - 45,20,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,123,2,78,1,10:09 PM,1:08,,,MISS Morant 12' Floating Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,124,4,0,1,10:09 PM,1:05,Niang REBOUND (Off:1 Def:1),,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,125,5,1,1,10:09 PM,0:57,Clarkson Bad Pass Turnover (P1.T1),,Brooks STEAL (1 STL),,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,127,6,28,1,10:09 PM,0:55,Niang Personal Take Foul (P1.T2) (T.Ford),,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,129,1,9,1,10:10 PM,0:38,,,Jackson Jr. 1' Driving Dunk (2 PTS) (Morant 5 AST),27 - 45,18,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,131,2,80,1,10:10 PM,0:30,MISS Clarkson 25' 3PT Step Back Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,132,4,0,1,10:10 PM,0:27,,,Morant REBOUND (Off:0 Def:1),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,133,2,6,1,10:10 PM,0:05,Niang BLOCK (1 BLK),,MISS Morant 6' Driving Layup,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,1
+0042000145,135,4,0,1,10:10 PM,0:04,Niang REBOUND (Off:1 Def:2),,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,136,6,28,1,10:11 PM,0:00,,,Jackson Jr. Personal Take Foul (P1.T2) (T.Ford),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042000145,138,1,47,1,10:11 PM,0:00,Conley 22' Turnaround Jump Shot (7 PTS) (Ingles 1 AST),,,27 - 47,20,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,141,18,0,1,10:11 PM,0:00,,Instant Replay1st Period (10:11 PM EST),,27 - 47,20,0,138,Anthony Avent,,,,,0,0,,,,,,1,0,,,,,,0
+0042000145,140,13,0,1,10:11 PM,0:00,,End of 1st Period (10:11 PM EST),,27 - 47,20,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042000145,148,12,0,2,10:15 PM,12:00,,Start of 2nd Period (10:15 PM EST),,27 - 47,20,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,149,2,1,2,10:15 PM,11:50,,,MISS Jackson Jr. 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,150,4,0,2,10:15 PM,11:45,Niang REBOUND (Off:1 Def:3),,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,151,2,79,2,10:15 PM,11:36,MISS Conley 13' Pullup Jump Shot,,,,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,152,4,0,2,10:15 PM,11:33,,,Jones REBOUND (Off:0 Def:1),,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,153,1,101,2,10:15 PM,11:26,,,Jones 10' Driving Floating Jump Shot (2 PTS),29 - 47,18,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,154,2,1,2,10:16 PM,10:59,MISS Clarkson 27' 3PT Jump Shot,,Melton BLOCK (1 BLK),,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,1
+0042000145,156,4,0,2,10:16 PM,10:59,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,157,5,11,2,10:16 PM,10:59,JAZZ Turnover: Shot Clock (T#2),,,,,2,1610612762,,,,,,0,0,,,,,,1,0,,,,,,0
+0042000145,158,2,1,2,10:16 PM,10:46,,,MISS Jackson Jr. 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,159,4,0,2,10:16 PM,10:43,Niang REBOUND (Off:1 Def:4),,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,160,1,101,2,10:16 PM,10:38,Clarkson 7' Driving Floating Jump Shot (6 PTS),,,29 - 49,20,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,161,1,66,2,10:17 PM,10:23,,,Jackson Jr. 8' Jump Bank Shot (4 PTS) (Bane 2 AST),31 - 49,18,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,163,2,1,2,10:17 PM,10:03,MISS Niang 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,164,4,0,2,10:17 PM,10:00,,,Jackson Jr. REBOUND (Off:0 Def:2),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,165,1,79,2,10:17 PM,9:55,,,Bane 32' 3PT Pullup Jump Shot (3 PTS) (Jones 1 AST),34 - 49,15,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,167,2,1,2,10:17 PM,9:40,MISS Niang 26' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,168,4,0,2,10:17 PM,9:37,,,Melton REBOUND (Off:0 Def:1),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,169,2,102,2,10:17 PM,9:27,,,MISS Melton 8' Driving Floating Bank Jump Shot,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,170,4,0,2,10:18 PM,9:24,Gobert REBOUND (Off:1 Def:3),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,171,2,101,2,10:18 PM,9:13,MISS Clarkson 7' Driving Floating Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,172,4,0,2,10:18 PM,9:09,Gobert REBOUND (Off:2 Def:3),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,173,1,72,2,10:18 PM,9:09,Gobert Putback Layup (4 PTS),,,34 - 51,17,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,174,6,1,2,10:18 PM,8:58,Clarkson P.FOUL (P1.T1) (M.Davis),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,176,8,0,2,10:18 PM,8:58,SUB: Mitchell FOR Conley,,,,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,178,2,78,2,10:18 PM,8:54,,,MISS Jones 16' Floating Jump Shot,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,179,4,0,2,10:18 PM,8:51,Niang REBOUND (Off:1 Def:5),,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,180,1,6,2,10:19 PM,8:40,Mitchell 2' Driving Layup (16 PTS),,,34 - 53,19,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,181,6,2,2,10:19 PM,8:40,,,Jackson Jr. S.FOUL (P2.T1) (T.Ford),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042000145,183,3,10,2,10:19 PM,8:40,Mitchell Free Throw 1 of 1 (17 PTS),,,34 - 54,20,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,185,2,79,2,10:20 PM,8:16,,,MISS Anderson 17' Pullup Jump Shot,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,186,4,0,2,10:20 PM,8:13,Gobert REBOUND (Off:2 Def:4),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,187,1,108,2,10:20 PM,8:06,Gobert 1' Cutting Dunk Shot (6 PTS) (Mitchell 3 AST),,,34 - 56,22,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,189,9,1,2,10:20 PM,8:06,,,Grizzlies Timeout: Regular (Reg.3 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,190,8,0,2,10:23 PM,8:06,SUB: Bogdanovic FOR Niang,,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,191,8,0,2,10:23 PM,8:06,,,SUB: Valanciunas FOR Jackson Jr.,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,194,2,1,2,10:24 PM,7:55,,,MISS Bane 3PT Jump Shot,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,195,4,0,2,10:24 PM,7:52,Gobert REBOUND (Off:2 Def:5),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,196,2,1,2,10:24 PM,7:37,MISS Clarkson 3PT Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,197,4,0,2,10:24 PM,7:30,,,Valanciunas REBOUND (Off:0 Def:2),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,198,1,1,2,10:24 PM,7:28,,,Valanciunas 26' 3PT Jump Shot (10 PTS) (Melton 1 AST),37 - 56,19,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,200,5,2,2,10:25 PM,7:10,Gobert Lost Ball Turnover (P1.T3),,Melton STEAL (1 STL),,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,202,5,1,2,10:25 PM,7:08,Mitchell STEAL (1 STL),,Melton Bad Pass Turnover (P1.T5),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,204,2,1,2,10:25 PM,7:05,MISS Bogdanovic 25' 3PT Jump Shot,,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,205,4,0,2,10:25 PM,7:02,Gobert REBOUND (Off:3 Def:5),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,206,6,2,2,10:25 PM,7:02,,,Melton S.FOUL (P1.T2) (T.Brothers),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042000145,208,3,11,2,10:25 PM,7:02,Gobert Free Throw 1 of 2 (7 PTS),,,37 - 57,20,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,209,8,0,2,10:25 PM,7:02,SUB: O'Neale FOR Ingles,,,,,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,210,8,0,2,10:25 PM,7:02,,,SUB: Brooks FOR Jones,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,211,8,0,2,10:25 PM,7:02,,,SUB: Morant FOR Bane,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,215,3,12,2,10:26 PM,7:02,Gobert Free Throw 2 of 2 (8 PTS),,,37 - 58,21,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,216,2,79,2,10:26 PM,6:49,Gobert BLOCK (1 BLK),,MISS Brooks 17' Pullup Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1
+0042000145,218,4,0,2,10:26 PM,6:46,Gobert REBOUND (Off:3 Def:6),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,219,5,45,2,10:26 PM,6:43,Bogdanovic Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0042000145,220,8,0,2,10:26 PM,6:43,SUB: Favors FOR Gobert,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,222,6,1,2,10:27 PM,6:31,O'Neale P.FOUL (P1.T2) (M.Davis),,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,224,2,79,2,10:27 PM,6:20,,,MISS Morant 25' 3PT Pullup Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,225,4,0,2,10:27 PM,6:17,Bogdanovic REBOUND (Off:0 Def:4),,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,226,5,45,2,10:27 PM,6:10,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0042000145,227,2,47,2,10:28 PM,5:59,,,MISS Valanciunas 7' Turnaround Jump Shot,,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,228,4,0,2,10:28 PM,5:56,,,Valanciunas REBOUND (Off:1 Def:2),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,229,1,97,2,10:28 PM,5:56,,,Valanciunas Tip Layup Shot (12 PTS),39 - 58,19,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,231,1,98,2,10:28 PM,5:42,Bogdanovic 2' Cutting Layup Shot (13 PTS) (Mitchell 4 AST),,,39 - 60,21,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,233,1,79,2,10:28 PM,5:27,,,Brooks 16' Pullup Jump Shot (11 PTS),41 - 60,19,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,234,5,2,2,10:29 PM,5:18,Mitchell Lost Ball Turnover (P2.T6),,Valanciunas STEAL (1 STL),,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,236,5,1,2,10:29 PM,5:13,Bogdanovic STEAL (2 STL),,Valanciunas Bad Pass Turnover (P2.T6),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,238,9,1,2,10:29 PM,5:10,JAZZ Timeout: Regular (Full 1 Short 0),,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,239,8,0,2,10:32 PM,5:10,SUB: Ingles FOR Mitchell,,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,241,6,2,2,10:33 PM,4:59,,,Anderson S.FOUL (P1.T3) (T.Brothers),,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042000145,243,3,11,2,10:33 PM,4:59,Bogdanovic Free Throw 1 of 2 (14 PTS),,,41 - 61,20,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,244,3,12,2,10:33 PM,4:59,Bogdanovic Free Throw 2 of 2 (15 PTS),,,41 - 62,21,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,245,1,79,2,10:34 PM,4:43,,,Morant 26' 3PT Pullup Jump Shot (10 PTS) (Valanciunas 1 AST),44 - 62,18,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,247,5,40,2,10:34 PM,4:23,Bogdanovic Out of Bounds Lost Ball Turnover (P2.T7),,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0042000145,249,2,80,2,10:35 PM,3:59,,,MISS Melton 25' 3PT Step Back Jump Shot,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,250,4,0,2,10:35 PM,3:57,Ingles REBOUND (Off:0 Def:3),,,,,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,305,5,45,2,10:35 PM,3:52,Clarkson Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0042000145,254,8,0,2,10:35 PM,3:52,SUB: Gobert FOR Clarkson,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,255,8,0,2,10:35 PM,3:52,SUB: Mitchell FOR Favors,,,,,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,258,8,0,2,10:35 PM,3:52,,,SUB: Bane FOR Melton,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,260,8,0,2,10:35 PM,3:52,,,SUB: Jackson Jr. FOR Anderson,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,262,1,101,2,10:35 PM,3:39,,,Morant 10' Driving Floating Jump Shot (12 PTS),46 - 62,16,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,263,2,1,2,10:36 PM,3:19,MISS O'Neale 26' 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,264,4,0,2,10:36 PM,3:16,Bogdanovic REBOUND (Off:1 Def:4),,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,265,2,1,2,10:36 PM,3:15,MISS Bogdanovic 13' Jump Shot,,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,266,4,0,2,10:36 PM,3:14,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,268,2,1,2,10:36 PM,2:58,,,MISS Valanciunas 25' 3PT Jump Shot,,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,269,4,0,2,10:36 PM,2:55,Bogdanovic REBOUND (Off:1 Def:5),,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,270,1,79,2,10:36 PM,2:50,Mitchell 25' 3PT Pullup Jump Shot (20 PTS),,,46 - 65,19,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,271,6,1,2,10:37 PM,2:30,Gobert P.FOUL (P1.T3) (T.Brothers),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,273,2,79,2,10:37 PM,2:24,,,MISS Brooks 15' Pullup Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,274,4,0,2,10:37 PM,2:21,,,Morant REBOUND (Off:1 Def:1),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,275,1,1,2,10:37 PM,2:19,,,Brooks 25' 3PT Jump Shot (14 PTS) (Morant 6 AST),49 - 65,16,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,277,1,7,2,10:38 PM,2:02,Gobert 2' Dunk (10 PTS) (Ingles 2 AST),,,49 - 67,18,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,279,5,1,2,10:38 PM,1:50,O'Neale STEAL (2 STL),,Bane Bad Pass Turnover (P1.T7),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,281,6,28,2,10:38 PM,1:50,,,Jackson Jr. Personal Take Foul (P3.T4) (M.Davis),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042000145,283,8,0,2,10:38 PM,1:50,,,SUB: Allen FOR Jackson Jr.,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,285,1,98,2,10:38 PM,1:41,O'Neale 3' Cutting Layup Shot (8 PTS) (Mitchell 5 AST),,,49 - 69,20,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,287,2,78,2,10:39 PM,1:24,Gobert BLOCK (2 BLK),,MISS Morant 10' Floating Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1
+0042000145,289,4,0,2,10:39 PM,1:22,Mitchell REBOUND (Off:0 Def:1),,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,290,2,79,2,10:39 PM,1:17,MISS Mitchell 28' 3PT Pullup Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,291,4,0,2,10:39 PM,1:13,,,Allen REBOUND (Off:1 Def:1),,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,292,2,103,2,10:39 PM,1:10,,,MISS Allen 25' 3PT Running Pull-Up Jump Shot,,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,293,4,0,2,10:39 PM,1:07,Mitchell REBOUND (Off:0 Def:2),,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,294,1,79,2,10:39 PM,0:46,Mitchell 27' 3PT Pullup Jump Shot (23 PTS),,,49 - 72,23,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,295,6,1,2,10:40 PM,0:44,Ingles P.FOUL (P1.T4) (M.Davis),,,,,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,297,1,6,2,10:40 PM,0:33,,,Morant 3' Driving Layup (14 PTS),51 - 72,21,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,298,2,1,2,10:40 PM,0:28,MISS Ingles 24' 3PT Jump Shot,,,,,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,299,4,0,2,10:40 PM,0:24,,,Brooks REBOUND (Off:0 Def:1),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,300,2,6,2,10:41 PM,0:10,,,MISS Brooks 5' Driving Layup,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,301,4,0,2,10:41 PM,0:08,Ingles REBOUND (Off:0 Def:4),,,,,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,302,1,79,2,10:41 PM,0:00,Mitchell 26' 3PT Pullup Jump Shot (26 PTS),,,51 - 75,24,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,304,18,0,2,10:41 PM,0:00,,Instant Replay2nd Period (10:41 PM EST),,51 - 75,24,0,302,Mookie Blaylock,,,,,0,0,,,,,,1,0,,,,,,0
+0042000145,303,13,0,2,10:41 PM,0:00,,End of 2nd Period (10:41 PM EST),,51 - 75,24,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042000145,310,12,0,3,10:58 PM,12:00,,Start of 3rd Period (10:58 PM EST),,51 - 75,24,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,311,2,1,3,10:58 PM,11:46,,,MISS Morant 26' 3PT Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,312,4,0,3,10:58 PM,11:45,Mitchell REBOUND (Off:0 Def:3),,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,313,2,79,3,10:58 PM,11:39,MISS Mitchell 25' 3PT Pullup Jump Shot,,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,314,4,0,3,10:58 PM,11:37,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,316,2,79,3,10:58 PM,11:26,,,MISS Brooks 12' Pullup Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,317,4,0,3,10:58 PM,11:20,,,Valanciunas REBOUND (Off:2 Def:2),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,318,2,97,3,10:58 PM,11:20,,,MISS Valanciunas Tip Layup Shot,,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,319,4,0,3,10:58 PM,11:19,O'Neale REBOUND (Off:0 Def:1),,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,320,6,2,3,10:58 PM,11:17,,,Jackson Jr. S.FOUL (P4.T1) (T.Ford),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042000145,322,3,11,3,10:59 PM,11:17,Gobert Free Throw 1 of 2 (11 PTS),,,51 - 76,25,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,323,3,12,3,10:59 PM,11:17,MISS Gobert Free Throw 2 of 2,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,324,4,0,3,10:59 PM,11:16,,,Jackson Jr. REBOUND (Off:0 Def:3),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,325,5,1,3,11:00 PM,11:03,O'Neale STEAL (3 STL),,Brooks Bad Pass Turnover (P2.T8),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,327,1,41,3,11:00 PM,11:00,O'Neale 3' Running Layup (10 PTS),,,51 - 78,27,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,328,6,2,3,11:00 PM,10:44,Gobert S.FOUL (P2.T1) (T.Ford),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,330,3,11,3,11:00 PM,10:44,,,Brooks Free Throw 1 of 2 (15 PTS),52 - 78,26,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,331,3,12,3,11:01 PM,10:44,,,Brooks Free Throw 2 of 2 (16 PTS),53 - 78,25,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,332,2,1,3,11:01 PM,10:30,MISS Ingles 3PT Jump Shot,,,,,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,333,4,0,3,11:01 PM,10:27,,,Jackson Jr. REBOUND (Off:0 Def:4),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,334,2,79,3,11:01 PM,10:14,,,MISS Anderson 25' 3PT Pullup Jump Shot,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,335,4,0,3,11:01 PM,10:12,Bogdanovic REBOUND (Off:1 Def:6),,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,336,1,79,3,11:01 PM,10:00,Bogdanovic 11' Pullup Jump Shot (17 PTS) (Gobert 2 AST),,,53 - 80,27,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,338,6,4,3,11:02 PM,9:49,,,Valanciunas OFF.Foul (P2) (T.Ford),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042000145,340,5,37,3,11:02 PM,9:49,,,Valanciunas Offensive Foul Turnover (P3.T9),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0042000145,341,1,7,3,11:02 PM,9:37,Gobert 2' Dunk (13 PTS) (Ingles 3 AST),,,53 - 82,29,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,343,9,1,3,11:02 PM,9:37,,,Grizzlies Timeout: Regular (Reg.4 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,344,6,1,3,11:06 PM,9:28,Ingles P.FOUL (P2.T2) (T.Brothers),,,,,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,346,2,1,3,11:06 PM,9:23,,,MISS Morant 24' 3PT Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,347,4,0,3,11:06 PM,9:21,Gobert REBOUND (Off:3 Def:7),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,348,2,6,3,11:06 PM,9:14,MISS Ingles 3' Driving Layup,,Jackson Jr. BLOCK (1 BLK),,,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1
+0042000145,350,4,0,3,11:06 PM,9:11,,,Morant REBOUND (Off:1 Def:2),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,351,6,28,3,11:07 PM,9:08,O'Neale Personal Take Foul (P2.T3) (T.Brothers),,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,353,2,1,3,11:07 PM,9:00,,,MISS Jackson Jr. 25' 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,354,4,0,3,11:07 PM,8:56,Mitchell REBOUND (Off:0 Def:4),,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,355,1,50,3,11:07 PM,8:54,O'Neale 3' Running Dunk (12 PTS) (Mitchell 6 AST),,,53 - 84,31,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,357,2,47,3,11:07 PM,8:41,,,MISS Anderson 7' Turnaround Jump Shot,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,358,4,0,3,11:07 PM,8:38,Mitchell REBOUND (Off:0 Def:5),,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,359,1,5,3,11:07 PM,8:29,Gobert 2' Layup (15 PTS) (Mitchell 7 AST),,,53 - 86,33,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,361,6,4,3,11:08 PM,8:19,,,Valanciunas OFF.Foul (P3) (T.Brothers),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042000145,363,5,37,3,11:08 PM,8:19,,,Valanciunas Offensive Foul Turnover (P4.T10),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0042000145,364,2,1,3,11:08 PM,8:08,MISS Ingles 26' 3PT Jump Shot,,,,,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,365,4,0,3,11:08 PM,8:03,,,Valanciunas REBOUND (Off:2 Def:3),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,366,5,45,3,11:08 PM,7:59,,,Morant Out of Bounds - Bad Pass Turnover Turnover (P3.T11),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0042000145,367,8,0,3,11:08 PM,7:59,,,SUB: Bane FOR Jackson Jr.,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,369,2,1,3,11:09 PM,7:46,MISS Bogdanovic 25' 3PT Jump Shot,,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,370,4,0,3,11:09 PM,7:43,,,Morant REBOUND (Off:1 Def:3),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,371,6,2,3,11:09 PM,7:39,Gobert S.FOUL (P3.T4) (T.Ford),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,373,3,11,3,11:09 PM,7:39,,,Brooks Free Throw 1 of 2 (17 PTS),54 - 86,32,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,376,3,12,3,11:09 PM,7:39,,,MISS Brooks Free Throw 2 of 2,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,374,8,0,3,11:09 PM,7:39,SUB: Favors FOR Gobert,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,377,4,0,3,11:09 PM,7:38,O'Neale REBOUND (Off:0 Def:2),,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,378,1,7,3,11:10 PM,7:24,Favors 2' Dunk (2 PTS) (Mitchell 8 AST),,,54 - 88,34,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,380,2,1,3,11:10 PM,7:14,,,MISS Bane 24' 3PT Jump Shot,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,381,4,0,3,11:10 PM,7:11,,,Brooks REBOUND (Off:1 Def:1),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,382,6,2,3,11:10 PM,7:05,Favors S.FOUL (P1.PN) (T.Brothers),,,,,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,384,3,11,3,11:11 PM,7:05,,,Brooks Free Throw 1 of 2 (18 PTS),55 - 88,33,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,385,8,0,3,11:11 PM,7:05,SUB: Clarkson FOR Ingles,,,,,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,386,8,0,3,11:11 PM,7:05,,,SUB: Allen FOR Anderson,,,5,203937,Kyle Anderson,1610612763.0,Memphis,Grizzlies,MEM,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,389,3,12,3,11:11 PM,7:05,,,Brooks Free Throw 2 of 2 (19 PTS),56 - 88,32,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,390,2,102,3,11:11 PM,6:51,MISS Bogdanovic 9' Driving Floating Bank Jump Shot,,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,391,4,0,3,11:11 PM,6:49,,,Valanciunas REBOUND (Off:2 Def:4),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,392,2,1,3,11:12 PM,6:40,,,MISS Brooks 26' 3PT Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,393,4,0,3,11:12 PM,6:38,Bogdanovic REBOUND (Off:1 Def:7),,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,394,5,2,3,11:12 PM,6:36,Bogdanovic Lost Ball Turnover (P3.T9),,Bane STEAL (1 STL),,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,396,2,6,3,11:12 PM,6:33,,,MISS Brooks 4' Driving Layup,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,397,4,0,3,11:12 PM,6:31,Favors REBOUND (Off:0 Def:1),,,,,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,398,1,1,3,11:12 PM,6:25,Clarkson 24' 3PT Jump Shot (9 PTS) (Bogdanovic 4 AST),,,56 - 91,35,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,400,1,47,3,11:12 PM,5:57,,,Valanciunas 16' Turnaround Jump Shot (14 PTS) (Brooks 2 AST),58 - 91,33,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,402,2,1,3,11:13 PM,5:37,MISS Bogdanovic 3PT Jump Shot,,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,403,4,0,3,11:13 PM,5:33,,,Allen REBOUND (Off:1 Def:2),,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,404,2,6,3,11:13 PM,5:24,,,MISS Morant 3' Driving Layup,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,405,4,0,3,11:13 PM,5:23,,,Morant REBOUND (Off:2 Def:3),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,406,1,97,3,11:13 PM,5:23,,,Morant Tip Layup Shot (16 PTS),60 - 91,31,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,407,9,1,3,11:13 PM,5:23,JAZZ Timeout: Regular (Full 2 Short 0),,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,408,6,2,3,11:17 PM,5:07,,,Valanciunas S.FOUL (P4.T2) (T.Brothers),,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042000145,410,3,11,3,11:18 PM,5:07,Mitchell Free Throw 1 of 2 (27 PTS),,,60 - 92,32,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,411,3,12,3,11:18 PM,5:07,Mitchell Free Throw 2 of 2 (28 PTS),,,60 - 93,33,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,412,1,1,3,11:18 PM,4:48,,,Valanciunas 9' Jump Shot (16 PTS) (Bane 3 AST),62 - 93,31,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,414,2,80,3,11:19 PM,4:27,MISS Clarkson 25' 3PT Step Back Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,415,4,0,3,11:19 PM,4:23,,,Brooks REBOUND (Off:1 Def:2),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,416,1,79,3,11:19 PM,4:19,,,Bane 14' Pullup Jump Shot (5 PTS) (Brooks 3 AST),64 - 93,29,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,418,2,5,3,11:19 PM,4:03,MISS Mitchell 3' Layup,,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,419,4,0,3,11:19 PM,4:00,,,Morant REBOUND (Off:2 Def:4),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,420,2,1,3,11:19 PM,3:54,,,MISS Bane 25' 3PT Jump Shot,,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,421,4,0,3,11:19 PM,3:52,Mitchell REBOUND (Off:0 Def:6),,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,422,2,41,3,11:19 PM,3:48,MISS Bogdanovic 2' Running Layup,,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,424,1,72,3,11:19 PM,3:41,O'Neale Putback Layup (14 PTS),,,64 - 95,31,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,423,4,0,3,11:19 PM,3:41,O'Neale REBOUND (Off:1 Def:2),,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,426,1,86,3,11:20 PM,3:24,,,Morant 12' Turnaround Fadeaway (18 PTS),66 - 95,29,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,427,9,1,3,11:20 PM,3:23,JAZZ Timeout: Regular (Full 3 Short 0),,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,428,8,0,3,11:21 PM,3:23,SUB: Niang FOR Bogdanovic,,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,429,8,0,3,11:21 PM,3:23,SUB: Ingles FOR Mitchell,,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,432,1,80,3,11:22 PM,3:11,Clarkson 12' Step Back Jump Shot (11 PTS),,,66 - 97,31,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,433,5,1,3,11:22 PM,2:53,Ingles STEAL (1 STL),,Morant Bad Pass Turnover (P4.T12),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,435,1,1,3,11:22 PM,2:45,Niang 3PT Jump Shot (6 PTS) (Clarkson 2 AST),,,66 - 100,34,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,437,2,47,3,11:22 PM,2:24,,,MISS Valanciunas 13' Turnaround Jump Shot,,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,438,4,0,3,11:22 PM,2:21,O'Neale REBOUND (Off:1 Def:3),,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,439,2,1,3,11:23 PM,2:11,MISS Niang 26' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,440,4,0,3,11:23 PM,2:07,,,Morant REBOUND (Off:2 Def:5),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,441,1,98,3,11:23 PM,1:59,,,Valanciunas 5' Cutting Layup Shot (18 PTS) (Morant 7 AST),68 - 100,32,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,443,5,2,3,11:23 PM,1:41,Favors Lost Ball Turnover (P1.T10),,Valanciunas STEAL (2 STL),,,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,445,1,6,3,11:23 PM,1:37,,,Brooks 3' Driving Layup (21 PTS),70 - 100,30,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,446,6,2,3,11:23 PM,1:37,Clarkson S.FOUL (P2.PN) (M.Davis),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,448,8,0,3,11:24 PM,1:37,SUB: Gobert FOR Favors,,,,,4,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,449,8,0,3,11:24 PM,1:37,,,SUB: Jackson Jr. FOR Valanciunas,,,5,202685,Jonas Valanciunas,1610612763.0,Memphis,Grizzlies,MEM,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,452,3,10,3,11:24 PM,1:37,,,Brooks Free Throw 1 of 1 (22 PTS),71 - 100,29,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,454,1,1,3,11:24 PM,1:21,Clarkson 3PT Jump Shot (14 PTS) (Ingles 4 AST),,,71 - 103,32,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,456,1,79,3,11:25 PM,1:10,,,Morant 25' 3PT Pullup Jump Shot (21 PTS),74 - 103,29,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,457,5,1,3,11:25 PM,0:51,Clarkson Bad Pass Turnover (P3.T11),,Bane STEAL (2 STL),,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,459,1,50,3,11:25 PM,0:47,,,Allen 2' Running Dunk (2 PTS) (Bane 4 AST),76 - 103,27,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,461,2,1,3,11:25 PM,0:32,MISS Clarkson 27' 3PT Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,462,4,0,3,11:25 PM,0:29,,,Bane REBOUND (Off:0 Def:3),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,463,5,2,3,11:26 PM,0:24,O'Neale STEAL (4 STL),,Bane Lost Ball Turnover (P2.T13),,,5,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,465,1,80,3,11:26 PM,0:02,Clarkson 11' Step Back Jump Shot (16 PTS),,,76 - 105,29,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,467,6,2,3,11:26 PM,0:02,,,Allen S.FOUL (P1.T3) (T.Brothers),,,5,1628960,Grayson Allen,1610612763.0,Memphis,Grizzlies,MEM,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042000145,469,3,10,3,11:26 PM,0:02,Clarkson Free Throw 1 of 1 (17 PTS),,,76 - 106,30,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,471,5,2,3,11:27 PM,0:00,Clarkson STEAL (2 STL),,Morant Lost Ball Turnover (P5.T14),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,473,13,0,3,11:27 PM,0:00,,End of 3rd Period (11:27 PM EST),,76 - 106,30,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042000145,480,12,0,4,11:30 PM,12:00,,Start of 4th Period (11:30 PM EST),,76 - 106,30,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,482,6,1,4,11:31 PM,11:47,,,Melton P.FOUL (P2.T1) (T.Brothers),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0042000145,484,2,6,4,11:31 PM,11:38,MISS Niang 3' Driving Layup,,Jackson Jr. BLOCK (2 BLK),,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1
+0042000145,486,4,0,4,11:31 PM,11:38,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,488,5,2,4,11:31 PM,11:34,Niang Lost Ball Turnover (P1.T12),,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,490,6,3,4,11:31 PM,11:32,Niang L.B.FOUL (P2.T1) (T.Ford),,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,492,1,108,4,11:32 PM,11:22,,,Brooks 1' Cutting Dunk Shot (24 PTS) (Jones 2 AST),78 - 106,28,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,494,2,5,4,11:32 PM,11:09,MISS Gobert 2' Layup,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,495,4,0,4,11:32 PM,11:06,Gobert REBOUND (Off:4 Def:7),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,496,1,97,4,11:32 PM,11:06,Gobert Tip Layup Shot (17 PTS),,,78 - 108,30,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,497,2,1,4,11:32 PM,10:53,,,MISS Jackson Jr. 25' 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,498,4,0,4,11:32 PM,10:51,Niang REBOUND (Off:1 Def:6),,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,499,2,80,4,11:32 PM,10:40,MISS Clarkson 6' Step Back Jump Shot,,Jackson Jr. BLOCK (3 BLK),,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1
+0042000145,501,4,0,4,11:33 PM,10:37,,,Brooks REBOUND (Off:1 Def:3),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,502,2,73,4,11:33 PM,10:34,,,MISS Brooks 3' Driving Reverse Layup,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,504,1,72,4,11:33 PM,10:30,,,Jackson Jr. Putback Layup (6 PTS),80 - 108,28,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,503,4,0,4,11:33 PM,10:30,,,Jackson Jr. REBOUND (Off:1 Def:4),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,505,2,1,4,11:33 PM,10:15,MISS Ingles 26' 3PT Jump Shot,,,,,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,506,4,0,4,11:33 PM,10:11,Gobert REBOUND (Off:5 Def:7),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,507,2,3,4,11:33 PM,10:10,MISS Gobert 4' Hook Shot,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,508,4,0,4,11:33 PM,10:10,,,Jackson Jr. REBOUND (Off:1 Def:5),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,509,1,1,4,11:33 PM,9:59,,,Jackson Jr. 25' 3PT Jump Shot (9 PTS) (Morant 8 AST),83 - 108,25,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,511,9,1,4,11:33 PM,9:58,JAZZ Timeout: Regular (Full 4 Short 0),,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,512,8,0,4,11:36 PM,9:58,SUB: O'Neale FOR Ingles,,,,,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,513,8,0,4,11:36 PM,9:58,SUB: Mitchell FOR Forrest,,,,,4,1630235,Trent Forrest,1610612762.0,Utah,Jazz,UTA,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,516,1,80,4,11:37 PM,9:38,Clarkson 9' Step Back Jump Shot (19 PTS) (Mitchell 9 AST),,,83 - 110,27,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,518,2,43,4,11:37 PM,9:23,,,MISS Jackson Jr. 2' Alley Oop Layup,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,522,4,0,4,11:37 PM,9:21,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,519,10,0,4,11:38 PM,9:21,Jump Ball Gobert vs. Jackson Jr.: Tip to Mitchell,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,1
+0042000145,523,2,1,4,11:38 PM,9:09,MISS Niang 26' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,524,4,0,4,11:38 PM,9:05,,,Melton REBOUND (Off:0 Def:2),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,525,1,1,4,11:38 PM,8:59,,,Jackson Jr. 24' 3PT Jump Shot (12 PTS) (Morant 9 AST),86 - 110,24,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,527,1,101,4,11:39 PM,8:46,Clarkson 8' Driving Floating Jump Shot (21 PTS),,,86 - 112,26,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,528,2,1,4,11:39 PM,8:29,,,MISS Melton 25' 3PT Jump Shot,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,529,4,0,4,11:39 PM,8:26,O'Neale REBOUND (Off:1 Def:4),,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,530,1,1,4,11:39 PM,8:18,Clarkson 24' 3PT Jump Shot (24 PTS) (O'Neale 2 AST),,,86 - 115,29,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,532,2,80,4,11:39 PM,7:56,Gobert BLOCK (3 BLK),,MISS Morant 10' Step Back Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1
+0042000145,533,4,0,4,11:39 PM,7:55,,,Jackson Jr. REBOUND (Off:2 Def:5),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,534,1,5,4,11:39 PM,7:55,,,Jackson Jr. 3' Layup (14 PTS),88 - 115,27,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,535,6,2,4,11:40 PM,7:55,O'Neale S.FOUL (P3.T2) (M.Davis),,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,537,8,0,4,11:40 PM,7:55,SUB: Bogdanovic FOR Niang,,,,,4,1627777,Georges Niang,1610612762.0,Utah,Jazz,UTA,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,540,3,10,4,11:40 PM,7:55,,,Jackson Jr. Free Throw 1 of 1 (15 PTS),89 - 115,26,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,541,1,7,4,11:40 PM,7:38,Gobert 2' Dunk (19 PTS) (Clarkson 3 AST),,,89 - 117,28,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,543,2,101,4,11:41 PM,7:15,,,MISS Morant 8' Driving Floating Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,544,4,0,4,11:41 PM,7:13,Clarkson REBOUND (Off:0 Def:1),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,546,8,0,4,11:41 PM,7:05,SUB: Ingles FOR Mitchell,,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,548,2,5,4,11:41 PM,6:49,MISS Bogdanovic 3' Layup,,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,549,4,0,4,11:41 PM,6:47,,,Brooks REBOUND (Off:1 Def:4),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,550,1,79,4,11:42 PM,6:36,,,Morant 25' 3PT Pullup Jump Shot (24 PTS),92 - 117,25,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,551,5,40,4,11:42 PM,6:19,Clarkson Out of Bounds Lost Ball Turnover (P4.T13),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0042000145,552,1,80,4,11:42 PM,6:11,,,Morant 26' 3PT Step Back Jump Shot (27 PTS),95 - 117,22,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,553,9,1,4,11:42 PM,6:09,JAZZ Timeout: Regular (Full 5 Short 0),,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,554,8,0,4,11:45 PM,6:09,SUB: Mitchell FOR Ingles,,,,,4,204060,Joe Ingles,1610612762.0,Utah,Jazz,UTA,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,556,1,1,4,11:46 PM,5:49,O'Neale 28' 3PT Jump Shot (17 PTS) (Mitchell 10 AST),,,95 - 120,25,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0042000145,558,1,1,4,11:47 PM,5:25,,,Melton 3PT Jump Shot (3 PTS) (Morant 10 AST),98 - 120,22,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,560,2,63,4,11:47 PM,5:02,MISS Clarkson 24' 3PT Fadeaway Jumper,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,561,4,0,4,11:47 PM,4:59,,,Melton REBOUND (Off:0 Def:3),,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,562,1,41,4,11:47 PM,4:57,,,Melton 3' Running Layup (5 PTS),100 - 120,20,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,563,6,2,4,11:47 PM,4:57,Mitchell S.FOUL (P2.T3) (T.Brothers),,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,565,3,10,4,11:47 PM,4:57,,,Melton Free Throw 1 of 1 (6 PTS),101 - 120,19,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,567,2,52,4,11:48 PM,4:33,MISS Gobert 3' Alley Oop Dunk,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,568,4,0,4,11:48 PM,4:28,Gobert REBOUND (Off:6 Def:7),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,569,1,107,4,11:48 PM,4:28,Gobert Tip Dunk Shot (21 PTS),,,101 - 122,21,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,570,1,1,4,11:48 PM,4:14,,,Brooks 24' 3PT Jump Shot (27 PTS) (Morant 11 AST),104 - 122,18,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,572,2,1,4,11:49 PM,3:55,MISS Clarkson 26' 3PT Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,573,4,0,4,11:49 PM,3:51,Gobert REBOUND (Off:7 Def:7),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,574,1,97,4,11:49 PM,3:51,Gobert Tip Layup Shot (23 PTS),,,104 - 124,20,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,575,2,80,4,11:49 PM,3:39,,,MISS Melton 25' 3PT Step Back Jump Shot,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,576,4,0,4,11:49 PM,3:38,Gobert REBOUND (Off:7 Def:8),,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,577,2,1,4,11:49 PM,3:17,MISS O'Neale 28' 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,578,4,0,4,11:49 PM,3:13,,,Jones REBOUND (Off:0 Def:2),,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,579,1,6,4,11:50 PM,3:06,,,Jones 4' Driving Layup (4 PTS),106 - 124,18,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,580,1,101,4,11:50 PM,2:48,Mitchell 7' Driving Floating Jump Shot (30 PTS),,,106 - 126,20,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,581,9,1,4,11:50 PM,2:48,,,Grizzlies Timeout: Regular (Reg.5 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,582,8,0,4,11:51 PM,2:48,,,SUB: Tillman FOR Melton,,,5,1629001,De'Anthony Melton,1610612763.0,Memphis,Grizzlies,MEM,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,583,8,0,4,11:51 PM,2:48,,,SUB: Winslow FOR Morant,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,584,8,0,4,11:51 PM,2:48,,,SUB: Konchar FOR Jackson Jr.,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,585,8,0,4,11:51 PM,2:48,,,SUB: Clarke FOR Brooks,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0042000145,590,2,1,4,11:52 PM,2:36,,,MISS Clarke 10' Jump Shot,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,591,4,0,4,11:52 PM,2:32,O'Neale REBOUND (Off:1 Def:5),,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,592,5,1,4,11:52 PM,2:17,Mitchell Bad Pass Turnover (P3.T14),,Tillman STEAL (1 STL),,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,594,6,28,4,11:52 PM,2:17,Mitchell Personal Take Foul (P3.T4) (M.Davis),,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0042000145,596,8,0,4,11:52 PM,2:17,SUB: Forrest FOR Clarkson,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1630235,Trent Forrest,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,597,8,0,4,11:52 PM,2:17,SUB: Brantley FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612762.0,Utah,Jazz,UTA,4,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,598,8,0,4,11:52 PM,2:17,SUB: Oni FOR Gobert,,,,,4,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,1629671,Miye Oni,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,599,8,0,4,11:52 PM,2:17,SUB: Morgan FOR Bogdanovic,,,,,4,202711,Bojan Bogdanovic,1610612762.0,Utah,Jazz,UTA,4,1629752,Juwan Morgan,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,600,8,0,4,11:52 PM,2:17,SUB: Thomas FOR Mitchell,,,,,4,1628378,Donovan Mitchell,1610612762.0,Utah,Jazz,UTA,4,1629744,Matt Thomas,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0042000145,606,1,47,4,11:53 PM,2:00,,,Tillman 9' Turnaround Jump Shot (2 PTS),108 - 126,18,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,607,2,6,4,11:54 PM,1:40,MISS Brantley 2' Driving Layup,,Clarke BLOCK (1 BLK),,,4,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0042000145,609,4,0,4,11:54 PM,1:35,,,Tillman REBOUND (Off:0 Def:1),,,5,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,610,2,103,4,11:54 PM,1:33,,,MISS Jones 27' 3PT Running Pull-Up Jump Shot,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,611,4,0,4,11:54 PM,1:30,Brantley REBOUND (Off:0 Def:1),,,,,4,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,612,5,4,4,11:54 PM,1:22,Brantley Traveling Turnover (P1.T15),,,,,4,1629714,Jarrell Brantley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0042000145,613,2,1,4,11:54 PM,1:12,,,MISS Jones 25' 3PT Jump Shot,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,614,4,0,4,11:54 PM,1:09,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,616,2,1,4,11:55 PM,1:03,,,MISS Konchar 24' 3PT Jump Shot,,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,617,4,0,4,11:55 PM,1:01,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000145,619,2,75,4,11:55 PM,0:45,MISS Forrest 5' Driving Finger Roll Layup,,,,,4,1630235,Trent Forrest,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,620,4,0,4,11:55 PM,0:43,Morgan REBOUND (Off:1 Def:0),,,,,4,1629752,Juwan Morgan,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,621,2,63,4,11:55 PM,0:37,MISS Thomas 11' Fadeaway Jumper,,Konchar BLOCK (1 BLK),,,4,1629744,Matt Thomas,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,1
+0042000145,623,4,0,4,11:55 PM,0:34,,,Konchar REBOUND (Off:0 Def:1),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,624,2,6,4,11:55 PM,0:30,,,MISS Jones 3' Driving Layup,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,625,4,0,4,11:55 PM,0:28,Morgan REBOUND (Off:1 Def:1),,,,,4,1629752,Juwan Morgan,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,626,2,1,4,11:55 PM,0:21,MISS Thomas 21' Jump Shot,,,,,4,1629744,Matt Thomas,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0042000145,627,4,0,4,11:55 PM,0:18,,,Winslow REBOUND (Off:0 Def:1),,,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0042000145,628,1,52,4,11:56 PM,0:13,,,Clarke 2' Alley Oop Dunk (2 PTS) (Winslow 1 AST),110 - 126,16,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1626159,Justise Winslow,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0042000145,630,13,0,4,11:56 PM,0:00,,End of 4th Period (11:56 PM EST),,110 - 126,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
