@@ -1,0 +1,456 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042000175,2,12,0,1,10:17 PM,12:00,,Start of 1st Period (10:17 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,4,10,0,1,10:17 PM,12:00,Jump Ball Morris Sr. vs. Porzingis: Tip to Doncic,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1
+0042000175,7,6,2,1,10:17 PM,11:40,Jackson S.FOUL (P1.T1) (J.Williams),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,9,3,11,1,10:17 PM,11:40,,,Hardaway Jr. Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,10,3,12,1,10:18 PM,11:40,,,Hardaway Jr. Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0042000175,11,2,1,1,10:18 PM,11:18,MISS Morris Sr. 24' 3PT Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,12,4,0,1,10:18 PM,11:14,,,Porzingis REBOUND (Off:0 Def:1),,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,13,2,1,1,10:18 PM,11:02,,,MISS Porzingis 27' 3PT Jump Shot,,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,14,4,0,1,10:18 PM,10:59,George REBOUND (Off:0 Def:1),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,15,2,1,1,10:19 PM,10:48,MISS Jackson 27' 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,16,4,0,1,10:19 PM,10:45,,,Hardaway Jr. REBOUND (Off:0 Def:1),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,17,2,5,1,10:19 PM,10:32,,,MISS Doncic 2' Layup,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,18,4,0,1,10:19 PM,10:30,Morris Sr. REBOUND (Off:0 Def:1),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,19,2,74,1,10:19 PM,10:25,MISS Batum 2' Running Reverse Layup,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,20,4,0,1,10:19 PM,10:23,,,Doncic REBOUND (Off:0 Def:1),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,21,1,79,1,10:19 PM,10:10,,,Hardaway Jr. 14' Pullup Jump Shot (4 PTS) (Finney-Smith 1 AST),4 - 0,-4,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,23,2,79,1,10:19 PM,9:55,MISS Leonard 13' Pullup Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,24,4,0,1,10:19 PM,9:53,,,Doncic REBOUND (Off:0 Def:2),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,25,1,80,1,10:20 PM,9:45,,,Doncic 25' 3PT Step Back Jump Shot (3 PTS),7 - 0,-7,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,26,1,1,1,10:20 PM,9:20,Morris Sr. 25' 3PT Jump Shot (3 PTS) (George 1 AST),,,7 - 3,-4,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,27,1,9,1,10:20 PM,9:05,,,Porzingis 2' Driving Dunk (2 PTS) (Doncic 1 AST),9 - 3,-6,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,30,6,1,1,10:20 PM,8:57,,,Hardaway Jr. P.FOUL (P1.T1) (J.Goble),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,33,5,4,1,10:21 PM,8:52,Jackson Traveling Turnover (P1.T1),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0042000175,34,2,58,1,10:21 PM,8:40,,,MISS Marjanovic 4' Turnaround Hook Shot,,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,35,4,0,1,10:21 PM,8:37,Batum REBOUND (Off:0 Def:1),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,36,2,41,1,10:21 PM,8:34,MISS Leonard 3' Running Layup,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,37,4,0,1,10:21 PM,8:32,Batum REBOUND (Off:1 Def:1),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,38,1,1,1,10:21 PM,8:24,George 25' 3PT Jump Shot (3 PTS) (Morris Sr. 1 AST),,,9 - 6,-3,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,40,2,79,1,10:22 PM,8:16,,,MISS Hardaway Jr. 26' 3PT Pullup Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,41,4,0,1,10:22 PM,8:12,Batum REBOUND (Off:1 Def:2),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,42,7,5,1,10:22 PM,8:05,,,Finney-Smith Violation:Kicked Ball (J.Williams),,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0042000175,43,2,1,1,10:22 PM,7:55,MISS Jackson 26' 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,44,4,0,1,10:22 PM,7:50,,,Porzingis REBOUND (Off:0 Def:2),,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,45,2,1,1,10:22 PM,7:39,,,MISS Doncic 15' Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,46,4,0,1,10:22 PM,7:37,,,Porzingis REBOUND (Off:1 Def:2),,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,47,5,1,1,10:23 PM,7:32,Leonard STEAL (1 STL),,Doncic Bad Pass Turnover (P1.T1),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,49,6,28,1,10:23 PM,7:30,,,Doncic Personal Take Foul (P1.T2) (J.Goble),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,51,1,1,1,10:23 PM,7:19,Jackson 27' 3PT Jump Shot (3 PTS) (George 2 AST),,,9 - 9,TIE,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,53,1,5,1,10:23 PM,7:08,,,Marjanovic 3' Layup (2 PTS) (Doncic 2 AST),11 - 9,-2,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,55,2,1,1,10:24 PM,6:51,MISS Leonard 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,56,4,0,1,10:24 PM,6:49,,,Marjanovic REBOUND (Off:0 Def:1),,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,58,1,1,1,10:24 PM,6:36,,,Finney-Smith 25' 3PT Jump Shot (3 PTS) (Doncic 3 AST),14 - 9,-5,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,60,9,1,1,10:24 PM,6:36,CLIPPERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,62,6,1,1,10:28 PM,6:19,,,Marjanovic P.FOUL (P1.T3) (S.Corbin),,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,64,1,1,1,10:28 PM,6:04,George 28' 3PT Jump Shot (6 PTS) (Leonard 1 AST),,,14 - 12,-2,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,66,1,58,1,10:29 PM,5:49,,,Marjanovic 8' Turnaround Hook Shot (4 PTS) (Doncic 4 AST),16 - 12,-4,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,68,1,1,1,10:29 PM,5:36,George 27' 3PT Jump Shot (9 PTS) (Batum 1 AST),,,16 - 15,-1,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,70,5,1,1,10:29 PM,5:20,Batum STEAL (1 STL),,Doncic Bad Pass Turnover (P2.T2),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,72,1,74,1,10:29 PM,5:14,Jackson 2' Running Reverse Layup (5 PTS) (Leonard 2 AST),,,16 - 17,1,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,74,1,86,1,10:30 PM,4:53,,,Doncic 14' Turnaround Fadeaway (5 PTS),18 - 17,-1,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,75,2,79,1,10:30 PM,4:41,MISS Batum 15' Pullup Jump Shot,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,76,4,0,1,10:30 PM,4:41,,,Marjanovic REBOUND (Off:0 Def:2),,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,77,1,80,1,10:30 PM,4:29,,,Doncic 27' 3PT Step Back Jump Shot (8 PTS),21 - 17,-4,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,78,1,108,1,10:30 PM,4:14,Batum 2' Cutting Dunk Shot (2 PTS) (Leonard 3 AST),,,21 - 19,-2,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,80,2,1,1,10:30 PM,3:58,,,MISS Porzingis 26' 3PT Jump Shot,,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,81,4,0,1,10:31 PM,3:55,George REBOUND (Off:0 Def:2),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,82,2,79,1,10:31 PM,3:43,MISS George 15' Pullup Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,83,4,0,1,10:31 PM,3:43,,,Hardaway Jr. REBOUND (Off:0 Def:2),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,84,6,1,1,10:31 PM,3:43,Jackson P.FOUL (P2.T2) (J.Williams),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,86,8,0,1,10:31 PM,3:43,SUB: Rondo FOR Batum,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,87,8,0,1,10:31 PM,3:43,SUB: Zubac FOR Jackson,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,88,8,0,1,10:31 PM,3:43,,,SUB: Kleber FOR Porzingis,,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,89,8,0,1,10:31 PM,3:43,,,SUB: Powell FOR Marjanovic,,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,94,1,1,1,10:31 PM,3:38,,,Doncic 26' 3PT Jump Shot (11 PTS) (Powell 1 AST),24 - 19,-5,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,96,18,2,1,10:32 PM,3:38,,Instant Replay1st Period (10:32 PM EST),,24 - 19,-5,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0042000175,98,6,14,1,10:35 PM,3:38,Morris Sr. FLAGRANT.FOUL.TYPE1 (P1.T3) (S.Corbin),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,102,6,11,1,10:36 PM,3:38,,,Kleber T.FOUL (P0.T3) (S.Corbin),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042000175,103,3,16,1,10:36 PM,3:38,Leonard Free Throw Technical (1 PTS),,,24 - 20,-4,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0042000175,104,3,20,1,10:36 PM,3:38,,,Kleber Free Throw Flagrant 1 of 1 (1 PTS),25 - 20,-5,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,105,1,63,1,10:37 PM,3:24,,,Doncic 27' 3PT Fadeaway Jumper (14 PTS),28 - 20,-8,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,107,6,2,1,10:37 PM,3:08,,,Kleber S.FOUL (P1.T4) (J.Goble),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,109,3,11,1,10:37 PM,3:08,Leonard Free Throw 1 of 2 (2 PTS),,,28 - 21,-7,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,110,3,12,1,10:37 PM,3:08,MISS Leonard Free Throw 2 of 2,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,111,4,0,1,10:37 PM,3:07,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,113,2,1,1,10:38 PM,2:56,MISS Morris Sr. 24' Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,114,4,0,1,10:38 PM,2:52,,,Doncic REBOUND (Off:0 Def:3),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,115,1,80,1,10:38 PM,2:39,,,Doncic 26' 3PT Step Back Jump Shot (17 PTS),31 - 21,-10,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,116,2,1,1,10:39 PM,2:17,MISS George 26' 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,117,4,0,1,10:39 PM,2:16,Zubac REBOUND (Off:1 Def:0),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,118,6,2,1,10:39 PM,2:16,,,Powell S.FOUL (P1.PN) (S.Corbin),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,120,9,1,1,10:39 PM,2:16,,,Mavericks Timeout: Regular (Reg.1 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,121,8,0,1,10:42 PM,2:16,SUB: Mann FOR Morris Sr.,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,122,8,0,1,10:42 PM,2:16,,,SUB: Brunson FOR Hardaway Jr.,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,125,3,11,1,10:43 PM,2:16,Zubac Free Throw 1 of 2 (1 PTS),,,31 - 22,-9,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,126,3,12,1,10:43 PM,2:16,Zubac Free Throw 2 of 2 (2 PTS),,,31 - 23,-8,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,127,6,2,1,10:43 PM,2:01,Leonard S.FOUL (P1.T4) (S.Corbin),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,129,3,11,1,10:44 PM,2:01,,,Powell Free Throw 1 of 2 (1 PTS),32 - 23,-9,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,130,3,12,1,10:44 PM,2:01,,,Powell Free Throw 2 of 2 (2 PTS),33 - 23,-10,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,131,1,63,1,10:45 PM,1:36,Mann 5' Fadeaway Jumper (2 PTS),,,33 - 25,-8,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,132,2,1,1,10:45 PM,1:12,Leonard BLOCK (1 BLK),,MISS Finney-Smith 24' 3PT Jump Shot,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1
+0042000175,134,4,0,1,10:45 PM,1:06,George REBOUND (Off:0 Def:3),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,135,2,6,1,10:45 PM,1:00,MISS Rondo 1' Driving Layup,,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,136,4,0,1,10:45 PM,0:58,,,Powell REBOUND (Off:0 Def:1),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,137,2,101,1,10:45 PM,0:48,,,MISS Doncic 4' Driving Floating Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,138,4,0,1,10:45 PM,0:47,Leonard REBOUND (Off:0 Def:1),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,139,1,6,1,10:46 PM,0:40,Leonard 2' Driving Layup (4 PTS) (George 3 AST),,,33 - 27,-6,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,142,8,0,1,10:46 PM,0:33,SUB: Batum FOR George,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,144,2,1,1,10:46 PM,0:31,,,MISS Doncic 28' 3PT Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,145,4,0,1,10:46 PM,0:28,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,147,6,2,1,10:47 PM,0:11,,,Powell S.FOUL (P2.PN) (S.Corbin),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,149,3,11,1,10:47 PM,0:11,MISS Rondo Free Throw 1 of 2,,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,150,4,1,1,10:47 PM,0:11,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,151,8,0,1,10:47 PM,0:11,SUB: Beverley FOR Leonard,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,152,8,0,1,10:47 PM,0:11,SUB: Morris Sr. FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,153,8,0,1,10:47 PM,0:11,,,SUB: Porzingis FOR Powell,,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,157,3,12,1,10:48 PM,0:11,Rondo Free Throw 2 of 2 (1 PTS),,,33 - 28,-5,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,158,1,6,1,10:48 PM,0:01,,,Doncic 1' Driving Layup (19 PTS),35 - 28,-7,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,159,13,0,1,10:48 PM,0:00,,End of 1st Period (10:48 PM EST),,35 - 28,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042000175,166,12,0,2,10:52 PM,12:00,,Start of 2nd Period (10:52 PM EST),,35 - 28,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,167,6,2,2,10:52 PM,11:40,,,Porzingis S.FOUL (P1.T1) (J.Williams),,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,169,3,11,2,10:52 PM,11:40,George Free Throw 1 of 2 (10 PTS),,,35 - 29,-6,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,170,8,0,2,10:52 PM,11:40,SUB: Zubac FOR Mann,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,171,8,0,2,10:52 PM,11:40,,,SUB: Marjanovic FOR Kleber,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,174,3,12,2,10:53 PM,11:40,George Free Throw 2 of 2 (11 PTS),,,35 - 30,-5,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,175,2,102,2,10:53 PM,11:24,,,MISS Hardaway Jr. 12' Driving Floating Bank Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,176,4,0,2,10:53 PM,11:20,Zubac REBOUND (Off:1 Def:1),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,177,2,58,2,10:53 PM,11:12,MISS Rondo 7' Turnaround Hook Shot,,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,178,4,0,2,10:53 PM,11:10,Zubac REBOUND (Off:2 Def:1),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,179,2,98,2,10:53 PM,11:07,MISS Rondo 2' Cutting Layup Shot,,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,180,4,0,2,10:54 PM,11:05,Batum REBOUND (Off:2 Def:2),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,181,2,1,2,10:54 PM,11:03,MISS Morris Sr. 26' 3PT Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,182,4,0,2,10:54 PM,11:00,,,Marjanovic REBOUND (Off:0 Def:3),,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,183,5,1,2,10:54 PM,10:54,Morris Sr. STEAL (1 STL),,Richardson Bad Pass Turnover (P1.T3),,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,185,6,1,2,10:54 PM,10:54,,,Porzingis P.FOUL (P2.T2) (J.Goble),,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,187,1,108,2,10:54 PM,10:41,Batum 3' Cutting Dunk Shot (4 PTS) (Rondo 1 AST),,,35 - 32,-3,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,189,2,47,2,10:54 PM,10:25,,,MISS Porzingis 5' Turnaround Jump Shot,,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,190,4,0,2,10:54 PM,10:23,Zubac REBOUND (Off:2 Def:2),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,191,2,103,2,10:55 PM,10:20,MISS Batum 26' 3PT Running Pull-Up Jump Shot,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,192,4,0,2,10:55 PM,10:18,,,Hardaway Jr. REBOUND (Off:0 Def:3),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,193,2,6,2,10:55 PM,10:11,George BLOCK (1 BLK),,MISS Hardaway Jr. 4' Driving Layup,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1
+0042000175,195,4,0,2,10:55 PM,10:09,Rondo REBOUND (Off:0 Def:1),,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,196,6,2,2,10:55 PM,10:09,,,Porzingis S.FOUL (P3.T3) (S.Corbin),,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,198,3,11,2,10:55 PM,10:09,Batum Free Throw 1 of 2 (5 PTS),,,35 - 33,-2,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,199,8,0,2,10:55 PM,10:09,,,SUB: Powell FOR Porzingis,,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,200,8,0,2,10:55 PM,10:09,,,SUB: Kleber FOR Marjanovic,,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,203,3,12,2,10:56 PM,10:09,Batum Free Throw 2 of 2 (6 PTS),,,35 - 34,-1,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,205,2,79,2,10:56 PM,9:59,,,MISS Brunson 16' Pullup Jump Shot,,,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,206,4,0,2,10:56 PM,9:53,,,Powell REBOUND (Off:1 Def:1),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,207,1,107,2,10:56 PM,9:53,,,Powell Tip Dunk Shot (4 PTS),37 - 34,-3,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,208,2,6,2,10:57 PM,9:40,MISS George 3' Driving Layup,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,209,4,0,2,10:57 PM,9:39,,,Kleber REBOUND (Off:0 Def:1),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,210,6,1,2,10:57 PM,9:39,George P.FOUL (P1.T1) (J.Williams),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,212,2,1,2,10:57 PM,9:24,,,MISS Richardson 29' 3PT Jump Shot,,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,213,4,0,2,10:57 PM,9:19,George REBOUND (Off:0 Def:4),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,214,1,58,2,10:57 PM,9:04,Zubac 4' Turnaround Hook Shot (4 PTS) (Rondo 2 AST),,,37 - 36,-1,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,216,9,1,2,10:58 PM,9:04,,,Mavericks Timeout: Regular (Reg.2 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,217,8,0,2,11:01 PM,9:04,,,SUB: Doncic FOR Richardson,,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,219,1,1,2,11:01 PM,8:48,,,Hardaway Jr. 28' 3PT Jump Shot (7 PTS) (Doncic 5 AST),40 - 36,-4,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,221,2,6,2,11:02 PM,8:30,MISS Morris Sr. 3' Driving Layup,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,222,4,0,2,11:02 PM,8:30,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,223,6,3,2,11:02 PM,8:30,,,Kleber L.B.FOUL (P2.T4) (J.Goble),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,225,8,0,2,11:02 PM,8:30,,,SUB: Finney-Smith FOR Brunson,,,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,233,8,0,2,11:02 PM,8:30,SUB: Leonard FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,227,5,1,2,11:03 PM,8:18,George Bad Pass Turnover (P1.T2),,Finney-Smith STEAL (1 STL),,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,315,2,101,2,11:03 PM,8:04,Rondo BLOCK (1 BLK),,MISS Doncic 9' Driving Floating Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,1
+0042000175,317,4,0,2,11:03 PM,8:03,Batum REBOUND (Off:2 Def:3),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,231,6,28,2,11:03 PM,8:03,,,Doncic Personal Take Foul (P2.PN) (J.Goble),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,235,3,11,2,11:04 PM,8:03,Batum Free Throw 1 of 2 (7 PTS),,,40 - 37,-3,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,236,8,0,2,11:04 PM,8:03,,,SUB: Marjanovic FOR Powell,,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,238,3,12,2,11:04 PM,8:03,Batum Free Throw 2 of 2 (8 PTS),,,40 - 38,-2,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,239,1,71,2,11:05 PM,7:47,,,Marjanovic 3' Finger Roll Layup (6 PTS) (Doncic 6 AST),42 - 38,-4,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,241,1,6,2,11:05 PM,7:32,Leonard 3' Driving Layup (6 PTS),,,42 - 40,-2,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,242,2,80,2,11:05 PM,7:15,,,MISS Doncic 17' Step Back Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,243,4,0,2,11:05 PM,7:15,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,244,6,3,2,11:05 PM,7:15,Morris Sr. L.B.FOUL (P2.T2) (J.Goble),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,246,8,0,2,11:05 PM,7:15,SUB: Zubac FOR Batum,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,248,1,101,2,11:06 PM,7:05,,,Doncic 5' Driving Floating Jump Shot (21 PTS),44 - 40,-4,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,250,1,44,2,11:06 PM,6:50,Morris Sr. 4' Reverse Layup (5 PTS) (George 4 AST),,,44 - 42,-2,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,252,1,101,2,11:06 PM,6:32,,,Doncic 2' Driving Floating Jump Shot (23 PTS),46 - 42,-4,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,253,2,47,2,11:07 PM,6:09,MISS Morris Sr. 11' Turnaround Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,254,4,0,2,11:07 PM,6:08,Zubac REBOUND (Off:3 Def:2),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,255,1,87,2,11:07 PM,6:08,Zubac 1' Putback Dunk (6 PTS),,,46 - 44,-2,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,256,6,2,2,11:07 PM,6:08,,,Marjanovic S.FOUL (P2.PN) (J.Goble),,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,258,8,0,2,11:07 PM,6:08,SUB: Jackson FOR Rondo,,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,260,3,10,2,11:07 PM,6:08,MISS Zubac Free Throw 1 of 1,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,261,4,0,2,11:07 PM,6:05,,,Marjanovic REBOUND (Off:0 Def:4),,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,262,2,1,2,11:08 PM,5:47,,,MISS Kleber 26' 3PT Jump Shot,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,263,4,0,2,11:08 PM,5:45,Jackson REBOUND (Off:0 Def:1),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,264,1,79,2,11:08 PM,5:32,Leonard 13' Pullup Jump Shot (8 PTS),,,46 - 46,TIE,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,265,6,2,2,11:08 PM,5:15,Zubac S.FOUL (P1.T3) (J.Goble),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,267,3,11,2,11:09 PM,5:15,,,Doncic Free Throw 1 of 2 (24 PTS),47 - 46,-1,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,268,8,0,2,11:09 PM,5:15,,,SUB: Cauley-Stein FOR Marjanovic,,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,270,3,12,2,11:09 PM,5:15,,,Doncic Free Throw 2 of 2 (25 PTS),48 - 46,-2,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,271,2,73,2,11:10 PM,4:57,MISS Leonard 4' Driving Reverse Layup,,Cauley-Stein BLOCK (1 BLK),,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,1
+0042000175,273,4,0,2,11:10 PM,4:57,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0042000175,275,2,79,2,11:10 PM,4:44,,,MISS Doncic 27' 3PT Pullup Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,276,4,0,2,11:10 PM,4:40,Morris Sr. REBOUND (Off:0 Def:2),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,277,2,79,2,11:10 PM,4:33,MISS George 27' 3PT Pullup Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,278,4,0,2,11:10 PM,4:31,,,Cauley-Stein REBOUND (Off:0 Def:1),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,279,6,17,2,11:11 PM,4:24,CLIPPERS T.Foul (Def. 3 Sec Zubac ) (J.Williams),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0042000175,280,3,16,2,11:11 PM,4:24,,,Hardaway Jr. Free Throw Technical (8 PTS),49 - 46,-3,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,281,6,4,2,11:11 PM,4:22,,,Cauley-Stein OFF.Foul (P1) (S.Corbin),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,283,5,37,2,11:11 PM,4:22,,,Cauley-Stein Offensive Foul Turnover (P1.T4),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042000175,284,6,2,2,11:12 PM,4:06,,,Cauley-Stein S.FOUL (P2.PN) (S.Corbin),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,286,3,11,2,11:12 PM,4:06,Morris Sr. Free Throw 1 of 2 (6 PTS),,,49 - 47,-2,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,287,3,12,2,11:13 PM,4:06,Morris Sr. Free Throw 2 of 2 (7 PTS),,,49 - 48,-1,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,288,6,1,2,11:13 PM,3:57,George P.FOUL (P2.T4) (J.Goble),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,290,2,101,2,11:13 PM,3:44,,,MISS Doncic 4' Driving Floating Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,291,4,0,2,11:13 PM,3:42,Zubac REBOUND (Off:3 Def:3),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,292,2,103,2,11:14 PM,3:35,MISS Leonard 27' 3PT Running Pull-Up Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,293,4,0,2,11:14 PM,3:33,,,Cauley-Stein REBOUND (Off:0 Def:2),,,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,294,2,1,2,11:14 PM,3:23,,,MISS Hardaway Jr. 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,295,4,0,2,11:14 PM,3:21,Morris Sr. REBOUND (Off:0 Def:3),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,296,2,101,2,11:14 PM,3:10,MISS Jackson 10' Driving Floating Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,297,4,0,2,11:14 PM,3:07,Jackson REBOUND (Off:1 Def:1),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,299,2,1,2,11:14 PM,2:57,MISS Morris Sr. 25' 3PT Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,300,4,0,2,11:14 PM,2:54,,,Kleber REBOUND (Off:0 Def:2),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,301,2,102,2,11:14 PM,2:47,,,MISS Doncic 2' Driving Floating Bank Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,302,4,0,2,11:14 PM,2:45,Zubac REBOUND (Off:3 Def:4),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,303,1,2,2,11:14 PM,2:40,Leonard 25' 3PT Running Jump Shot (11 PTS) (George 5 AST),,,49 - 51,2,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,305,9,1,2,11:15 PM,2:38,,,Mavericks Timeout: Regular (Reg.3 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,306,8,0,2,11:18 PM,2:38,SUB: Rondo FOR George,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,308,1,5,2,11:19 PM,2:19,,,Doncic 1' Layup (27 PTS),51 - 51,TIE,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,309,1,1,2,11:19 PM,2:03,Morris Sr. 3PT Jump Shot (10 PTS) (Rondo 3 AST),,,51 - 54,3,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,311,1,1,2,11:19 PM,1:36,,,Kleber 25' 3PT Jump Shot (4 PTS) (Doncic 7 AST),54 - 54,TIE,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,313,2,1,2,11:20 PM,1:18,MISS Morris Sr. 24' 3PT Jump Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,314,4,0,2,11:20 PM,1:18,Zubac REBOUND (Off:4 Def:4),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,318,5,1,2,11:20 PM,1:04,Leonard Bad Pass Turnover (P1.T3),,Cauley-Stein STEAL (1 STL),,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,320,1,52,2,11:20 PM,0:54,,,Cauley-Stein 1' Alley Oop Dunk (2 PTS) (Doncic 8 AST),56 - 54,-2,5,1626161,Willie Cauley-Stein,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,322,2,1,2,11:20 PM,0:43,MISS Rondo 28' 3PT Jump Shot,,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,323,4,0,2,11:20 PM,0:39,,,Kleber REBOUND (Off:0 Def:3),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,324,2,101,2,11:21 PM,0:27,,,MISS Hardaway Jr. 3' Driving Floating Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,325,4,0,2,11:21 PM,0:24,Zubac REBOUND (Off:4 Def:5),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,326,2,79,2,11:21 PM,0:02,MISS Jackson 27' 3PT Pullup Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,327,4,0,2,11:21 PM,0:00,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,328,13,0,2,11:21 PM,0:00,,End of 2nd Period (11:21 PM EST),,56 - 54,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042000175,337,12,0,3,11:38 PM,12:00,,Start of 3rd Period (11:38 PM EST),,56 - 54,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,338,2,1,3,11:38 PM,11:43,MISS Jackson 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,339,4,0,3,11:38 PM,11:39,,,Marjanovic REBOUND (Off:0 Def:5),,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,342,6,2,3,11:39 PM,11:17,Morris Sr. S.FOUL (P3.T1) (J.Goble),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,344,3,11,3,11:40 PM,11:17,,,Marjanovic Free Throw 1 of 2 (7 PTS),57 - 54,-3,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,345,3,12,3,11:40 PM,11:17,,,Marjanovic Free Throw 2 of 2 (8 PTS),58 - 54,-4,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,346,1,6,3,11:40 PM,11:04,George 3' Driving Layup (13 PTS),,,58 - 56,-2,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,347,6,2,3,11:40 PM,10:51,Batum S.FOUL (P1.T2) (S.Corbin),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,349,3,11,3,11:41 PM,10:51,,,MISS Marjanovic Free Throw 1 of 2,,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,350,4,1,3,11:41 PM,10:51,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,351,3,12,3,11:41 PM,10:51,,,Marjanovic Free Throw 2 of 2 (9 PTS),59 - 56,-3,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,352,1,1,3,11:41 PM,10:40,Jackson 28' 3PT Jump Shot (8 PTS) (Leonard 4 AST),,,59 - 59,TIE,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,354,2,1,3,11:41 PM,10:27,,,MISS Finney-Smith 26' 3PT Jump Shot,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,355,4,0,3,11:42 PM,10:24,Morris Sr. REBOUND (Off:0 Def:4),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,358,1,1,3,11:42 PM,10:01,Jackson 27' 3PT Jump Shot (11 PTS) (Leonard 5 AST),,,59 - 62,3,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,360,1,1,3,11:43 PM,9:41,,,Finney-Smith 24' 3PT Jump Shot (6 PTS) (Doncic 9 AST),62 - 62,TIE,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,362,2,1,3,11:43 PM,9:32,MISS George 26' 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,363,4,0,3,11:43 PM,9:30,,,Doncic REBOUND (Off:0 Def:4),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,364,5,1,3,11:43 PM,9:24,Morris Sr. STEAL (2 STL),,Doncic Bad Pass Turnover (P3.T5),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,366,6,28,3,11:43 PM,9:20,,,Finney-Smith Personal Take Foul (P1.T1) (J.Goble),,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,368,2,1,3,11:44 PM,9:11,MISS Jackson 26' 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,369,4,0,3,11:44 PM,9:08,Batum REBOUND (Off:3 Def:3),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,370,2,1,3,11:44 PM,9:07,MISS Leonard 26' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,371,4,0,3,11:44 PM,9:03,,,Porzingis REBOUND (Off:1 Def:3),,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,372,2,101,3,11:44 PM,8:49,,,MISS Doncic 7' Driving Floating Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,373,4,0,3,11:44 PM,8:43,Leonard REBOUND (Off:0 Def:2),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,374,1,1,3,11:44 PM,8:36,Morris Sr. 27' 3PT Jump Shot (13 PTS) (Batum 2 AST),,,62 - 65,3,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,376,2,6,3,11:45 PM,8:20,,,MISS Doncic 3' Driving Layup,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,377,4,0,3,11:45 PM,8:18,Batum REBOUND (Off:3 Def:4),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,378,1,63,3,11:45 PM,8:07,Leonard 7' Fadeaway Jumper (13 PTS) (Jackson 1 AST),,,62 - 67,5,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,380,9,1,3,11:45 PM,8:06,,,Mavericks Timeout: Regular (Reg.4 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,381,2,1,3,11:49 PM,7:53,,,MISS Hardaway Jr. 25' 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,382,4,0,3,11:49 PM,7:47,,,Finney-Smith REBOUND (Off:1 Def:0),,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,383,2,5,3,11:49 PM,7:43,Leonard BLOCK (2 BLK),,MISS Marjanovic 3' Layup,,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1
+0042000175,385,4,0,3,11:49 PM,7:39,,,Doncic REBOUND (Off:1 Def:4),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,386,2,72,3,11:49 PM,7:38,,,MISS Doncic 4' Putback Layup,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,387,4,0,3,11:49 PM,7:38,,,Marjanovic REBOUND (Off:1 Def:5),,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,388,2,97,3,11:49 PM,7:38,,,MISS Marjanovic Tip Layup Shot,,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,389,4,0,3,11:49 PM,7:38,,,Marjanovic REBOUND (Off:2 Def:5),,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,390,10,0,3,11:50 PM,7:35,Jump Ball Batum vs. Marjanovic: Tip to Doncic,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1
+0042000175,393,6,1,3,11:50 PM,7:31,Batum P.FOUL (P2.T3) (J.Williams),,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,395,1,66,3,11:50 PM,7:21,,,Doncic 4' Jump Bank Shot (29 PTS),64 - 67,3,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,396,6,2,3,11:50 PM,7:21,George S.FOUL (P3.T4) (S.Corbin),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,398,3,10,3,11:51 PM,7:21,,,MISS Doncic Free Throw 1 of 1,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,399,4,0,3,11:51 PM,7:18,Leonard REBOUND (Off:0 Def:3),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,400,1,1,3,11:51 PM,7:01,Jackson 3PT Jump Shot (14 PTS) (Morris Sr. 2 AST),,,64 - 70,6,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,402,1,1,3,11:51 PM,6:50,,,Porzingis 24' 3PT Jump Shot (5 PTS) (Hardaway Jr. 1 AST),67 - 70,3,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,404,6,4,3,11:52 PM,6:32,George OFF.Foul (P4) (J.Williams),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,406,5,37,3,11:52 PM,6:32,George Offensive Foul Turnover (P2.T4),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0042000175,407,8,0,3,11:52 PM,6:32,SUB: Zubac FOR George,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,409,2,98,3,11:52 PM,6:21,Zubac BLOCK (1 BLK),,MISS Finney-Smith 4' Cutting Layup Shot,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1
+0042000175,411,4,0,3,11:53 PM,6:17,,,Porzingis REBOUND (Off:2 Def:3),,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,412,2,101,3,11:53 PM,6:11,,,MISS Finney-Smith 9' Driving Floating Jump Shot,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,413,4,0,3,11:53 PM,6:09,Zubac REBOUND (Off:4 Def:6),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,414,5,40,3,11:53 PM,6:04,Leonard Out of Bounds Lost Ball Turnover (P2.T5),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0042000175,415,8,0,3,11:53 PM,6:04,,,SUB: Powell FOR Marjanovic,,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,417,2,1,3,11:53 PM,5:55,,,MISS Finney-Smith 26' 3PT Jump Shot,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,418,4,0,3,11:53 PM,5:51,Zubac REBOUND (Off:4 Def:7),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,419,2,101,3,11:53 PM,5:44,MISS Leonard 3' Driving Floating Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,420,4,0,3,11:53 PM,5:40,,,Doncic REBOUND (Off:1 Def:5),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,421,2,6,3,11:54 PM,5:31,Morris Sr. BLOCK (1 BLK),,MISS Hardaway Jr. 3' Driving Layup,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1
+0042000175,423,4,0,3,11:54 PM,5:30,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,425,1,102,3,11:54 PM,5:07,Leonard 6' Driving Floating Bank Jump Shot (15 PTS) (Jackson 2 AST),,,67 - 72,5,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,426,1,63,3,11:55 PM,4:50,,,Doncic 17' Fadeaway Jumper (31 PTS),69 - 72,3,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,427,9,1,3,11:55 PM,4:49,CLIPPERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,429,8,0,3,11:58 PM,4:49,SUB: Rondo FOR Batum,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,431,5,1,3,11:59 PM,4:27,Rondo Bad Pass Turnover (P1.T6),,Doncic STEAL (1 STL),,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,433,1,41,3,11:59 PM,4:22,,,Powell 2' Running Layup (6 PTS) (Doncic 10 AST),71 - 72,1,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,435,5,2,3,11:59 PM,4:09,Leonard Lost Ball Turnover (P3.T7),,Finney-Smith STEAL (2 STL),,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,437,1,41,3,11:59 PM,4:05,,,Hardaway Jr. 3' Running Layup (10 PTS) (Doncic 11 AST),73 - 72,-1,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,439,1,79,3,11:59 PM,3:47,Jackson 26' 3PT Pullup Jump Shot (17 PTS) (Rondo 4 AST),,,73 - 75,2,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,441,2,80,3,12:00 AM,3:22,,,MISS Hardaway Jr. 27' 3PT Step Back Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,442,4,0,3,12:00 AM,3:18,,,Powell REBOUND (Off:2 Def:1),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,443,1,1,3,12:00 AM,3:17,,,Hardaway Jr. 26' 3PT Jump Shot (13 PTS) (Powell 2 AST),76 - 75,-1,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,445,2,80,3,12:00 AM,2:51,MISS Jackson 25' 3PT Step Back Jump Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,446,4,0,3,12:00 AM,2:48,,,Powell REBOUND (Off:2 Def:2),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,447,1,101,3,12:01 AM,2:39,,,Doncic 8' Driving Floating Jump Shot (33 PTS),78 - 75,-3,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,448,5,1,3,12:01 AM,2:23,Leonard Bad Pass Turnover (P4.T8),,Hardaway Jr. STEAL (1 STL),,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,450,1,100,3,12:01 AM,2:22,,,Doncic 2' Running Alley Oop Layup Shot (35 PTS) (Hardaway Jr. 2 AST),80 - 75,-5,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,452,9,1,3,12:01 AM,2:22,CLIPPERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,453,8,0,3,12:02 AM,2:22,SUB: Mann FOR Jackson,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,455,2,63,3,12:03 AM,2:06,MISS Leonard 14' Fadeaway Jumper,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,456,4,0,3,12:03 AM,2:04,,,Powell REBOUND (Off:2 Def:3),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,457,1,101,3,12:03 AM,1:51,,,Doncic 5' Driving Floating Jump Shot (37 PTS),82 - 75,-7,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,458,2,80,3,12:03 AM,1:38,MISS Rondo 28' 3PT Step Back Jump Shot,,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,459,4,0,3,12:03 AM,1:38,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,461,1,108,3,12:04 AM,1:25,,,Powell 2' Cutting Dunk Shot (8 PTS) (Doncic 12 AST),84 - 75,-9,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,463,2,1,3,12:04 AM,1:04,MISS Rondo 27' 3PT Jump Shot,,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,464,4,0,3,12:04 AM,1:01,,,Finney-Smith REBOUND (Off:1 Def:1),,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,465,1,80,3,12:04 AM,0:52,,,Doncic 27' 3PT Step Back Jump Shot (40 PTS),87 - 75,-12,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,467,2,1,3,12:05 AM,0:35,MISS Leonard 27' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,468,4,0,3,12:05 AM,0:32,,,Doncic REBOUND (Off:1 Def:6),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,469,2,103,3,12:05 AM,0:30,,,MISS Doncic 30' 3PT Running Pull-Up Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,470,4,0,3,12:05 AM,0:30,,,Finney-Smith REBOUND (Off:2 Def:1),,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,471,6,1,3,12:05 AM,0:30,Rondo P.FOUL (P1.PN) (J.Goble),,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,473,3,11,3,12:05 AM,0:30,,,Finney-Smith Free Throw 1 of 2 (7 PTS),88 - 75,-13,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,474,8,0,3,12:05 AM,0:30,SUB: Batum FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,475,8,0,3,12:05 AM,0:30,,,SUB: Richardson FOR Hardaway Jr.,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,478,3,12,3,12:06 AM,0:30,,,Finney-Smith Free Throw 2 of 2 (8 PTS),89 - 75,-14,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,479,6,1,3,12:06 AM,0:14,,,Finney-Smith P.FOUL (P2.T2) (S.Corbin),,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,481,8,0,3,12:07 AM,0:14,SUB: Jackson FOR Rondo,,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,482,8,0,3,12:07 AM,0:14,SUB: George FOR Mann,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,483,8,0,3,12:07 AM,0:14,,,SUB: Kleber FOR Porzingis,,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,484,8,0,3,12:07 AM,0:14,,,SUB: Brunson FOR Doncic,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,489,2,57,3,12:07 AM,0:05,MISS Jackson 4' Driving Hook Shot,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,490,4,0,3,12:07 AM,0:03,Morris Sr. REBOUND (Off:1 Def:4),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,491,2,97,3,12:07 AM,0:03,MISS Morris Sr. Tip Layup Shot,,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,492,4,0,3,12:07 AM,0:01,Leonard REBOUND (Off:1 Def:3),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,493,2,105,3,12:07 AM,0:00,MISS Leonard 15' Turnaround Fadeaway Bank Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,494,4,0,3,12:07 AM,0:00,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,495,13,0,3,12:07 AM,0:00,,End of 3rd Period (12:07 AM EST),,89 - 75,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042000175,502,12,0,4,12:11 AM,12:00,,Start of 4th Period (12:11 AM EST),,89 - 75,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,503,1,86,4,12:11 AM,11:42,,,Hardaway Jr. 12' Turnaround Fadeaway (15 PTS) (Richardson 1 AST),91 - 75,-16,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,505,1,101,4,12:11 AM,11:27,George 6' Driving Floating Jump Shot (15 PTS) (Rondo 5 AST),,,91 - 77,-14,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,507,2,73,4,12:11 AM,11:14,,,MISS Brunson 2' Driving Reverse Layup,,,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,508,4,0,4,12:11 AM,11:13,Mann REBOUND (Off:0 Def:1),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,509,2,6,4,12:12 AM,10:59,MISS Jackson 4' Driving Layup,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,510,4,0,4,12:12 AM,10:57,,,Powell REBOUND (Off:2 Def:4),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,511,2,1,4,12:12 AM,10:49,,,MISS Hardaway Jr. 28' 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,512,4,0,4,12:12 AM,10:46,Mann REBOUND (Off:0 Def:2),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,513,1,6,4,12:12 AM,10:32,Mann 3' Driving Layup (4 PTS),,,91 - 79,-12,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,543,2,78,4,12:13 AM,10:13,George BLOCK (2 BLK),,MISS Hardaway Jr. 8' Floating Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1
+0042000175,514,2,1,4,12:13 AM,10:12,George BLOCK (3 BLK),,MISS Hardaway Jr. 11' Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1
+0042000175,545,4,0,4,12:13 AM,10:12,,,Hardaway Jr. REBOUND (Off:1 Def:3),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,516,4,0,4,12:13 AM,10:11,Rondo REBOUND (Off:0 Def:2),,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,519,6,2,4,12:13 AM,10:07,,,Kleber S.FOUL (P3.T1) (S.Corbin),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,521,3,11,4,12:13 AM,10:07,MISS Mann Free Throw 1 of 2,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,522,4,1,4,12:13 AM,10:07,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,523,3,12,4,12:13 AM,10:07,MISS Mann Free Throw 2 of 2,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,524,4,0,4,12:13 AM,10:04,,,Hardaway Jr. REBOUND (Off:1 Def:4),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,525,2,80,4,12:14 AM,9:51,Mann BLOCK (1 BLK),,MISS Richardson 22' Step Back Jump Shot,,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1
+0042000175,527,4,0,4,12:14 AM,9:46,George REBOUND (Off:0 Def:5),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,529,6,2,4,12:14 AM,9:41,,,Kleber S.FOUL (P4.T2) (J.Williams),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,531,3,11,4,12:14 AM,9:41,George Free Throw 1 of 2 (16 PTS),,,91 - 80,-11,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,532,8,0,4,12:14 AM,9:41,,,SUB: Doncic FOR Richardson,,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,534,3,12,4,12:15 AM,9:41,George Free Throw 2 of 2 (17 PTS),,,91 - 81,-10,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,535,1,79,4,12:15 AM,9:22,,,Brunson 12' Pullup Jump Shot (2 PTS) (Doncic 13 AST),93 - 81,-12,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,546,6,1,4,12:15 AM,9:13,,,Powell P.FOUL (P3.T3) (J.Goble),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,548,8,0,4,12:15 AM,9:13,SUB: Leonard FOR Jackson,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,550,1,7,4,12:16 AM,8:57,Batum 2' Dunk (10 PTS) (Rondo 6 AST),,,93 - 83,-10,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,552,2,1,4,12:16 AM,8:34,,,MISS Kleber 27' 3PT Jump Shot,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,553,4,0,4,12:16 AM,8:31,Mann REBOUND (Off:0 Def:3),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,554,5,1,4,12:17 AM,8:22,Rondo Bad Pass Turnover (P2.T9),,Powell STEAL (1 STL),,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,556,6,1,4,12:17 AM,8:22,Rondo P.FOUL (P2.T1) (S.Corbin),,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,558,6,1,4,12:17 AM,8:14,Rondo P.FOUL (P3.T2) (J.Williams),,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,560,8,0,4,12:17 AM,8:14,SUB: Morris Sr. FOR Rondo,,,,,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,562,2,80,4,12:18 AM,8:00,,,MISS Doncic 30' 3PT Step Back Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,563,4,0,4,12:18 AM,7:56,Morris Sr. REBOUND (Off:1 Def:5),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,564,6,2,4,12:18 AM,7:55,,,Kleber S.FOUL (P5.T4) (J.Williams),,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,566,3,11,4,12:18 AM,7:55,George Free Throw 1 of 2 (18 PTS),,,93 - 84,-9,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,567,8,0,4,12:18 AM,7:55,,,SUB: Porzingis FOR Powell,,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,568,8,0,4,12:18 AM,7:55,,,SUB: Marjanovic FOR Brunson,,,5,1628973,Jalen Brunson,1610612742.0,Dallas,Mavericks,DAL,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,569,8,0,4,12:18 AM,7:55,,,SUB: Finney-Smith FOR Kleber,,,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,573,3,12,4,12:19 AM,7:55,George Free Throw 2 of 2 (19 PTS),,,93 - 85,-8,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,574,2,1,4,12:19 AM,7:34,,,MISS Hardaway Jr. 27' 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,575,4,0,4,12:19 AM,7:30,George REBOUND (Off:0 Def:6),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,576,2,1,4,12:20 AM,7:16,MISS Leonard 26' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,577,4,0,4,12:20 AM,7:13,,,Porzingis REBOUND (Off:2 Def:4),,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,578,2,73,4,12:20 AM,7:03,Mann BLOCK (2 BLK),,MISS Doncic 4' Driving Reverse Layup,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1
+0042000175,580,4,0,4,12:20 AM,7:03,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,582,6,1,4,12:20 AM,6:57,Leonard P.FOUL (P2.T3) (S.Corbin),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,584,9,1,4,12:20 AM,6:57,CLIPPERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,585,2,1,4,12:24 AM,6:47,,,MISS Finney-Smith 25' 3PT Jump Shot,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,586,4,0,4,12:24 AM,6:45,Morris Sr. REBOUND (Off:1 Def:6),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,587,1,73,4,12:24 AM,6:34,George 2' Driving Reverse Layup (21 PTS),,,93 - 87,-6,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,588,6,4,4,12:25 AM,6:23,,,Marjanovic OFF.Foul (P3) (J.Goble),,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,590,5,37,4,12:25 AM,6:23,,,Marjanovic Offensive Foul Turnover (P1.T6),,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042000175,591,18,3,4,12:25 AM,6:23,,Instant Replay4th Period (12:25 AM EST),,93 - 87,-6,0,588,,,,,,0,0,,,,,,1,0,,,,,,0
+0042000175,592,8,0,4,12:26 AM,6:23,,,SUB: Powell FOR Marjanovic,,,5,1626246,Boban Marjanovic,1610612742.0,Dallas,Mavericks,DAL,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,594,5,2,4,12:27 AM,6:13,George Lost Ball Turnover (P3.T10),,Finney-Smith STEAL (3 STL),,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,596,2,86,4,12:27 AM,5:56,,,MISS Doncic 21' Turnaround Fadeaway Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,597,4,0,4,12:27 AM,5:53,George REBOUND (Off:0 Def:7),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,598,6,1,4,12:27 AM,5:51,,,Powell P.FOUL (P4.PN) (J.Goble),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,600,3,11,4,12:28 AM,5:51,Leonard Free Throw 1 of 2 (16 PTS),,,93 - 88,-5,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,601,3,12,4,12:28 AM,5:51,Leonard Free Throw 2 of 2 (17 PTS),,,93 - 89,-4,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,602,1,104,4,12:28 AM,5:34,,,Doncic 15' Step Back Bank Jump Shot (42 PTS),95 - 89,-6,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,603,2,73,4,12:28 AM,5:20,MISS George 3' Driving Reverse Layup,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,604,4,0,4,12:28 AM,5:17,,,Hardaway Jr. REBOUND (Off:1 Def:5),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,605,2,80,4,12:29 AM,4:57,,,MISS Finney-Smith 18' Step Back Jump Shot,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,606,4,0,4,12:29 AM,4:56,,,Mavericks Rebound,,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,607,5,11,4,12:29 AM,4:56,,,Mavericks Turnover: Shot Clock (T#7),,,3,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
+0042000175,608,5,2,4,12:29 AM,4:45,Leonard Lost Ball Turnover (P5.T11),,Finney-Smith STEAL (4 STL),,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,610,2,80,4,12:30 AM,4:25,,,MISS Doncic 29' 3PT Step Back Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,611,4,0,4,12:30 AM,4:22,Leonard REBOUND (Off:1 Def:4),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,612,1,105,4,12:30 AM,4:13,George 4' Turnaround Fadeaway Bank Jump Shot (23 PTS),,,95 - 91,-4,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,614,9,1,4,12:30 AM,4:04,,,Mavericks Timeout: Regular (Reg.5 Short 0),,,3,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,615,2,105,4,12:34 AM,3:52,,,MISS Doncic 13' Turnaround Fadeaway Bank Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,616,4,0,4,12:34 AM,3:50,George REBOUND (Off:0 Def:8),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,617,2,103,4,12:34 AM,3:46,MISS George 25' 3PT Running Pull-Up Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,618,4,0,4,12:34 AM,3:44,,,Doncic REBOUND (Off:1 Def:7),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,619,6,1,4,12:34 AM,3:44,Mann P.FOUL (P1.T4) (J.Williams),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,621,5,40,4,12:35 AM,3:26,,,Powell Out of Bounds Lost Ball Turnover (P1.T8),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0042000175,622,5,2,4,12:35 AM,3:07,George Lost Ball Turnover (P4.T12),,Finney-Smith STEAL (5 STL),,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,624,1,1,4,12:35 AM,2:50,,,Hardaway Jr. 28' 3PT Jump Shot (18 PTS) (Finney-Smith 2 AST),98 - 91,-7,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,681,2,1,4,12:36 AM,2:34,MISS George 8' Jump Shot,,Finney-Smith BLOCK (1 BLK),,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1
+0042000175,683,4,0,4,12:36 AM,2:33,,,Finney-Smith REBOUND (Off:2 Def:2),,,5,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,628,1,1,4,12:36 AM,2:13,,,Porzingis 24' 3PT Jump Shot (8 PTS) (Doncic 14 AST),101 - 91,-10,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0042000175,630,9,1,4,12:36 AM,2:13,CLIPPERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,631,8,0,4,12:37 AM,2:13,SUB: Jackson FOR Mann,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,633,1,79,4,12:38 AM,1:54,Jackson 29' 3PT Pullup Jump Shot (20 PTS) (Morris Sr. 3 AST),,,101 - 94,-7,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,636,2,80,4,12:39 AM,1:29,,,MISS Doncic 30' 3PT Step Back Jump Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,637,4,0,4,12:39 AM,1:26,George REBOUND (Off:0 Def:9),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,638,1,2,4,12:39 AM,1:19,Morris Sr. 26' 3PT Running Jump Shot (16 PTS) (Jackson 3 AST),,,101 - 97,-4,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,640,2,1,4,12:40 AM,1:00,,,MISS Hardaway Jr. 26' 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,641,4,0,4,12:40 AM,0:57,,,Powell REBOUND (Off:3 Def:4),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,642,2,86,4,12:40 AM,0:46,,,MISS Doncic 19' Turnaround Fadeaway Shot,,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,643,4,0,4,12:40 AM,0:44,George REBOUND (Off:0 Def:10),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,644,1,6,4,12:40 AM,0:39,Leonard 2' Driving Layup (19 PTS) (George 6 AST),,,101 - 99,-2,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,646,6,2,4,12:40 AM,0:39,,,Powell S.FOUL (P5.PN) (S.Corbin),,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0042000175,648,8,0,4,12:41 AM,0:39,,,SUB: Kleber FOR Powell,,,5,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,657,8,0,4,12:41 AM,0:39,SUB: Mann FOR Jackson,,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,650,3,10,4,12:41 AM,0:39,Leonard Free Throw 1 of 1 (20 PTS),,,101 - 100,-1,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,651,5,1,4,12:41 AM,0:18,Mann STEAL (1 STL),,Doncic Bad Pass Turnover (P4.T9),,,5,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0042000175,653,2,6,4,12:41 AM,0:09,MISS Batum 3' Driving Layup,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,654,4,0,4,12:41 AM,0:08,,,Hardaway Jr. REBOUND (Off:1 Def:6),,,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,659,6,28,4,12:42 AM,0:08,Morris Sr. Personal Take Foul (P4.PN) (J.Goble),,,,,4,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,661,3,11,4,12:42 AM,0:08,,,Hardaway Jr. Free Throw 1 of 2 (19 PTS),102 - 100,-2,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,662,8,0,4,12:42 AM,0:08,SUB: Zubac FOR Mann,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,663,8,0,4,12:42 AM,0:08,,,SUB: Richardson FOR Porzingis,,,5,204001,Kristaps Porzingis,1610612742.0,Dallas,Mavericks,DAL,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0042000175,666,3,12,4,12:43 AM,0:08,,,Hardaway Jr. Free Throw 2 of 2 (20 PTS),103 - 100,-3,5,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,667,9,1,4,12:43 AM,0:08,CLIPPERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0042000175,668,8,0,4,12:44 AM,0:08,SUB: Jackson FOR Batum,,,,,4,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,669,8,0,4,12:44 AM,0:08,SUB: Rondo FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,200765,Rajon Rondo,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0042000175,672,2,63,4,12:44 AM,0:04,MISS Leonard 3PT Fadeaway Jumper,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0042000175,673,4,0,4,12:44 AM,0:04,,,Richardson REBOUND (Off:0 Def:1),,,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,674,6,28,4,12:45 AM,0:04,Jackson Personal Take Foul (P3.PN) (S.Corbin),,,,,4,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0042000175,676,3,11,4,12:45 AM,0:04,,,Richardson Free Throw 1 of 2 (1 PTS),104 - 100,-4,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,677,3,12,4,12:45 AM,0:04,,,Richardson Free Throw 2 of 2 (2 PTS),105 - 100,-5,5,1626196,Josh Richardson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0042000175,678,13,0,4,12:46 AM,0:00,,End of 4th Period (12:46 AM EST),,105 - 100,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
