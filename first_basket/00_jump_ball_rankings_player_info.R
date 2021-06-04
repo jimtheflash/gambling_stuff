@@ -42,125 +42,19 @@ player_info_mutated <-
          feet = as.integer(feet),
          inches = as.integer(inches)) %>%
   mutate(HEIGHT = (feet*12)+inches) %>%
-  select(PERSON_ID, HEIGHT, WEIGHT)
+  select(jumper = DISPLAY_FIRST_LAST, person_id = PERSON_ID,
+         height = HEIGHT, weight = WEIGHT)
 
-# Relevant gamelogs
-gamelogs_15_16 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2015-16.csv',
-                           colClasses = 'character')
-gamelogs_16_17 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2016-17.csv',
-                           colClasses = 'character')
-gamelogs_17_18 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2017-18.csv',
-                           colClasses = 'character')
-gamelogs_18_19 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2018-19.csv',
-                           colClasses = 'character')
-gamelogs_19_20 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2019-20.csv',
-                           colClasses = 'character')
-gamelogs_20_21 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2020-21.csv',
-                           colClasses = 'character')
-
-gamelogs <-
-  rbind.data.frame(gamelogs_15_16,
-                   gamelogs_16_17,
-                   gamelogs_17_18,
-                   gamelogs_18_19,
-                   gamelogs_19_20,
-                   gamelogs_20_21)
-
-# Filtering gamelogs to only include data since desired train data start date
-gamelogs <-
-  gamelogs %>%
-  filter(GAME_DATE >= earliest_train_data_date)
-
-unique_games <- unique(gamelogs$GAME_ID)
-
-# Initializing list
-possession_list <- list()
-
-home_tip_win_parameter <- .508
-
-for (g in unique_games) {
-  
-  # Unique game in loop
-  gamelog <-
-    gamelogs %>%
-    filter(GAME_ID == g)
-  
-  # Relevant info of game
-  season <- as.character(gamelog$SEASON_YEAR[[1]])
-  matchup <- as.character(gamelog$MATCHUP[[1]])
-  gamedate <- as.Date(gamelog$GAME_DATE[[1]])
-  
-  csv_path <- paste0('./data/nba_pbp/', g, '.csv')
-  
-  # Finding all jump balls in game, noting if it is opening tip
-  pbp_jumps <-
-    read.csv(csv_path,
-             colClasses = 'character',
-             na.strings = c('')) %>%
-    mutate(EVENTNUM = as.numeric(EVENTNUM)) %>%
-    filter(grepl("jump ball", tolower(HOMEDESCRIPTION)) | HOMEDESCRIPTION == " ") %>%
-    mutate(opening_jump = if_else(PERIOD == "1" & PCTIMESTRING == "12:00", TRUE, FALSE))
-  
-  pbp <-
-    pbp_jumps %>%
-    left_join(team_list, by = c("PLAYER3_ID" = "TEAM_ID")) %>%
-    mutate(PLAYER3_TEAM_ABBREVIATION = coalesce(PLAYER3_TEAM_ABBREVIATION, ABBREVIATION)) %>%
-    select(-ABBREVIATION)
-  
-  score_first_df <-
-    read.csv(csv_path,
-             colClasses = 'character',
-             na.strings = c('')) %>%
-    mutate(EVENTNUM = as.numeric(EVENTNUM)) %>%
-    filter(SCORE != '' & !is.na(SCORE) & !is.na(EVENTNUM)) %>%
-    filter(row_number() == min(row_number()))
-  
-  home_team_abbrev <- as.character(pbp$PLAYER1_TEAM_ABBREVIATION)
-  home_team_jumper <- as.character(pbp$PLAYER1_NAME)
-  home_team_person_id <- as.character(pbp$PLAYER1_ID)
-  away_team_abbrev <- as.character(pbp$PLAYER2_TEAM_ABBREVIATION)
-  away_team_jumper <- as.character(pbp$PLAYER2_NAME)
-  away_team_person_id <- as.character(pbp$PLAYER2_ID)
-  possession <- as.character(pbp$PLAYER3_TEAM_ABBREVIATION)
-  score_first <- as.character(score_first_df$PLAYER1_TEAM_ABBREVIATION)
-  opening_jump <- as.character(pbp$opening_jump)
-  
-  # Final output of relevant info about jumps
-  output <- tibble(
-    season = season,
-    game_date = gamedate,
-    game_id = g,
-    matchup = matchup,
-    opening_jump = opening_jump,
-    home_team_jumper = home_team_jumper,
-    home_team_person_id = home_team_person_id,
-    home_team_abbrev = home_team_abbrev,
-    away_team_jumper = away_team_jumper,
-    away_team_person_id = away_team_person_id,
-    away_team_abbrev = away_team_abbrev,
-    possession = possession,
-    score_first = score_first
-  )
-  
-  possession_list[[g]] <- output
-  
-}
-
-# Removing cases where first possession could not be determined from pbp
-# Adding indicator if home team won tip
-possession_binded <-
-  bind_rows(possession_list) %>%
-  filter(!is.na(possession)) %>%
-  mutate(home_won_tip = if_else(home_team_abbrev == possession, TRUE, FALSE),
-         home_score_first = if_else(home_team_abbrev == score_first, TRUE, FALSE))
+possession_binded <- fread("data/02_curated/nba_first_to_score/jump_ball_dataset.csv.gz",
+                           colClasses = c('game_id' = 'character', 'home_team_person_id' = 'character', 'away_team_person_id' = 'character'))
 
 # Adds in player height and weight
 possession_player_info <-
   possession_binded %>%
-  left_join(player_info_mutated, by = c("home_team_person_id" = "PERSON_ID")) %>%
-  rename(home_team_height = HEIGHT, home_team_weight = WEIGHT) %>%
-  left_join(player_info_mutated, by = c("away_team_person_id" = "PERSON_ID")) %>%
-  rename(away_team_height = HEIGHT, away_team_weight = WEIGHT) %>%
+  left_join(player_info_mutated, by = c("home_team_jumper" = "jumper", "home_team_person_id" = "person_id")) %>%
+  rename(home_team_height = height, home_team_weight = weight) %>%
+  left_join(player_info_mutated, by = c("away_team_jumper" = "jumper", "away_team_person_id" = "person_id")) %>%
+  rename(away_team_height = height, away_team_weight = weight) %>%
   mutate(height_diff = home_team_height - away_team_height)
 
 # Organizes column order
@@ -172,6 +66,8 @@ possession_df <-
          possession, height_diff, home_won_tip, home_score_first) %>%
   filter(!is.na(home_team_height),
          !is.na(away_team_height))
+
+home_tip_win_parameter <- .508
 
 # Set of dates to loop through for test data
 unique_dates <-
@@ -203,6 +99,31 @@ for (i in 1:length(unique_dates$game_date)) {
   possession_test <-
     possession_df %>%
     filter(game_date == unique_dates$game_date[i])
+  
+  # Table that stores wins rates for each height
+  height_rating_df <-
+    possession_train %>%
+    group_by(home_team_height) %>%
+    summarise(tips = n(),
+              wins = sum(home_won_tip),
+              .groups = 'drop') %>%
+    rename(height = home_team_height) %>%
+    bind_rows(possession_train %>%
+                group_by(away_team_height) %>%
+                summarise(tips = n(),
+                          wins = tips - sum(home_won_tip),
+                          .groups = 'drop') %>%
+                rename(height = away_team_height)) %>%
+    group_by(height) %>%
+    summarise(tips = sum(tips),
+              wins = sum(wins),
+              height_win_rate = wins/tips,
+              .groups = 'drop')
+  
+  loess_win_rate_95 <- loess(height_win_rate ~ height, data = height_rating_df, span = 0.95)
+  smoothed95 <- predict(loess_win_rate_95)
+  
+  smoothed_height_win_rate <- cbind.data.frame(height_rating_df, smoothed_height_win_rate = smoothed95)
   
   # Table that stores win rates for each jumper
   jump_balls_df <-
@@ -320,33 +241,7 @@ for (i in 1:length(unique_dates$game_date)) {
   expected_win_prob <-
     expected_win_prob %>%
     mutate(home_exp_win = if_else(is.nan(home_exp_win), 0.508, home_exp_win))
-  
-  # Table that stores wins rates for each height
-  height_rating_df <-
-    expected_win_prob %>%
-    group_by(home_team_height) %>%
-    summarise(tips = n(),
-              wins = sum(home_won_tip),
-              .groups = 'drop') %>%
-    rename(height = home_team_height) %>%
-    bind_rows(expected_win_prob %>%
-                group_by(away_team_height) %>%
-                summarise(tips = n(),
-                          wins = tips - sum(home_won_tip),
-                          .groups = 'drop') %>%
-                rename(height = away_team_height)) %>%
-    group_by(height) %>%
-    summarise(tips = sum(tips),
-              wins = sum(wins),
-              height_win_rate = wins/tips,
-              .groups = 'drop')
-  
-  loess_win_rate_95 <- loess(height_win_rate ~ height, data = height_rating_df, span = 0.95)
-  smoothed95 <- predict(loess_win_rate_95)
-  
-  smoothed_height_win_rate <-
-    cbind.data.frame(height_rating_df, smoothed_height_win_rate = smoothed95)
-  
+
   expected_win_with_height <-
     expected_win_prob %>%
     left_join(select(smoothed_height_win_rate, height, smoothed_height_win_rate), by = c("home_team_height" = "height")) %>%
@@ -373,7 +268,7 @@ for (i in 1:length(unique_dates$game_date)) {
     mutate(home_exp_win_adj = (home_win_rate_adj*(1-away_win_rate_adj)*home_tip_win_parameter) /
              ((home_win_rate_adj*(1-away_win_rate_adj)*home_tip_win_parameter) + (away_win_rate_adj*(1-home_win_rate_adj)*(1-home_tip_win_parameter))))
   
-  # Viewing performance of fitted win probabilities by expected win proabibility buckets (every 10 percent are grouped)
+  # Viewing performance of fitted win probabilities by expected win probability buckets (every 10 percent are grouped)
   train_buckets <-
     expected_win_with_height_jumps_count %>%
     mutate(exp_win_prob = cut(home_exp_win, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
@@ -382,7 +277,7 @@ for (i in 1:length(unique_dates$game_date)) {
               true_win_percent = mean(home_won_tip),
               .groups = 'drop')
   
-  # Viewing performance of fitted win probabilities by expected win proabibility buckets (every 10 percent are grouped)
+  # Viewing performance of fitted win probabilities by expected win probability buckets (every 10 percent are grouped)
   train_buckets_height <-
     expected_win_with_height_jumps_count %>%
     mutate(exp_win_prob = cut(home_exp_win_adj, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
@@ -391,8 +286,9 @@ for (i in 1:length(unique_dates$game_date)) {
               true_win_percent = mean(home_won_tip),
               .groups = 'drop')
   
+
   # Creating list of players and their expected win rates
-  player_list_df <-
+  player_list_active_df <-
     expected_win_with_height_jumps_count %>%
     distinct(jumper = home_team_jumper, height = home_team_height, jumps = home_jumps,
              exp_win = home_win_rate, exp_win_adj = home_win_rate_adj) %>%
@@ -402,22 +298,28 @@ for (i in 1:length(unique_dates$game_date)) {
     distinct() %>%
     arrange(jumper)
   
+  # Includes players who don't have a logged jump
+  player_list_df <-
+    player_info_mutated %>%
+    left_join(player_list_active_df, by = c("jumper", "height")) %>%
+    left_join(select(smoothed_height_win_rate, height, smoothed_height_win_rate), by = "height") %>%
+    mutate(exp_win_adj = coalesce(exp_win_adj, smoothed_height_win_rate)) %>%
+    select(-smoothed_height_win_rate)
+  
   # Finding predicted tip win probability on test
   test_df <-
     possession_test %>%
-    left_join(player_list_df, by = c("home_team_jumper" = "jumper")) %>%
-    rename(home_height = height, home_jumps = jumps, home_exp_win = exp_win, home_exp_win_adj = exp_win_adj) %>%
-    left_join(player_list_df, by = c("away_team_jumper" = "jumper")) %>%
-    rename(away_height = height, away_jumps = jumps, away_exp_win = exp_win, away_exp_win_adj = exp_win_adj)
-  
-  # Filtering out players without jumps prior to this game
-  test_df_filtered <-
-    test_df %>%
-    filter(!is.na(home_exp_win),
-           !is.na(away_exp_win))
+    left_join(player_list_df, by = c("home_team_jumper" = "jumper", "home_team_person_id" = "person_id", "home_team_height" = "height")) %>%
+    rename(home_team_weight = weight, home_jumps = jumps, home_exp_win = exp_win, home_exp_win_adj = exp_win_adj) %>%
+    left_join(player_list_df, by = c("away_team_jumper" = "jumper", "away_team_person_id" = "person_id", "away_team_height" = "height")) %>%
+    rename(away_team_weight = weight, away_jumps = jumps, away_exp_win = exp_win, away_exp_win_adj = exp_win_adj) %>%
+    mutate(home_jumps = replace_na(home_jumps, 0),
+           home_exp_win = replace_na(home_exp_win, 0),
+           away_jumps = replace_na(away_jumps, 0),
+           away_exp_win = replace_na(away_exp_win, 0))
   
   test_df_exp_win <-
-    test_df_filtered %>%
+    test_df %>%
     mutate(exp_win = (home_exp_win*(1-away_exp_win)*home_tip_win_parameter) /
              ((home_exp_win*(1-away_exp_win)*home_tip_win_parameter) + (away_exp_win*(1-home_exp_win)*(1-home_tip_win_parameter))),
            exp_win_adj = (home_exp_win_adj*(1-away_exp_win_adj)*home_tip_win_parameter) /
