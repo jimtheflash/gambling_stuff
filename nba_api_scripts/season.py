@@ -40,7 +40,7 @@ def get_season_gamelog(season_string: str) -> pd.DataFrame:
     """
     logger.info(f"Getting season game log for season: {season_string}")
     gl_df_list = []
-    for season_type in ["Pre Season", "Regular Season", "Playoffs"]:
+    for season_type in ["Pre Season", "Regular Season", "PlayIn", "Playoffs"]:
         seas_gamelog = pg.PlayerGameLogs(
             season_nullable=season_string, season_type_nullable=season_type
         )
