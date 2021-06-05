@@ -12,27 +12,16 @@ library(earth)
 # Parameters
 
 # Example - for full run where you use all history and start the test data at 2019-2020 season
-# earliest_train_data_date <- "2015-09-01"
-# train_test_date_split <- "2017-09-01"
+# earliest_train_data_date <- "2018-09-01"
+# train_test_date_split <- "2020-02-01"
 
 # Current model uses last two completed seasons and current season as train data
 # To run model for current day's ratings, train_test_date_split is set to current day
 # Sets furthest date that train data goes back
-earliest_train_data_date <- "2015-09-01"
+earliest_train_data_date <- "2018-09-01"
 # Setting date we want to start logging test data on
 # Default uses today's date so that all completed games are used in calculating ratings
-train_test_date_split <- "2017-09-01"
-
-# # Read in all player csvs
-# file_list <- list.files(path="./data/nba_player_info/")
-# player_info_df <- tibble()
-# 
-# for (i in 1:length(file_list)){
-#   # Read in file for each player
-#   temp_player <- read.csv(paste0("./data/nba_player_info/", file_list[i]))
-#   # Bind the new data to the dataset
-#   player_info_df <- rbind.data.frame(player_info_df, temp_player)
-# }
+train_test_date_split <- "2020-02-01"
 
 line_info_df <- 
   fread("./data/nba_lines/all_historical_lines.csv") %>%
@@ -135,7 +124,7 @@ unique_dates <-
   score_first_game_lines %>%
   distinct(game_date) %>%
   arrange(game_date) %>%
-  filter(game_date >= '2020-02-01')
+  filter(game_date >= train_test_date_split)
 
 score_first_relevant_cols <-
   score_first_game_lines %>%
