@@ -541,12 +541,17 @@ for (i in 1:length(unique_dates$game_date)) {
 
 write.csv(test_df_exp_win_master, "data/02_curated/nba_first_to_score/model_ml.csv.gz", row.names = FALSE)
 
+# If reading in latest version (skipping full run)
+test_df_exp_win_master <- 
+  fread("data/02_curated/nba_first_to_score/model_ml.csv.gz") %>%
+  mutate(game_date = as.Date(game_date),
+         game_id = as.character(game_id))
+
 # Currently not including markov
 test_df_exp_win_master_all_combined <- 
   test_df_exp_win_master %>%
   rowwise() %>%
   mutate(win_tip_prob_all = mean(c(iterative_win_tip, 
-                                   #markov_win_tip,
                                    #win_tip_prob_ranger,
                                    win_tip_prob_glmnet,
                                    win_tip_prob_earth)))
@@ -634,7 +639,7 @@ one_row_per_jump_joined <-
             by = c("season", "game_date", "game_id", "matchup", "period", "period_clock", "jumper", "opp_jumper")) %>%
   mutate(final_win_prob_iterative = (iterative_win_tip + (1 - iterative_win_tip_opp)) / 2,
          final_win_prob_ranger = (win_tip_prob_ranger + (1 - win_tip_prob_ranger_opp)) / 2,
-         final_win_prob_glment = (win_tip_prob_glmnet + (1 - win_tip_prob_glmnet_opp)) / 2,
+         final_win_prob_glmnet = (win_tip_prob_glmnet + (1 - win_tip_prob_glmnet_opp)) / 2,
          final_win_prob_earth = (win_tip_prob_earth + (1 - win_tip_prob_earth_opp)) / 2,
          final_win_prob_all = (win_tip_prob_all + (1 - win_tip_prob_all_opp)) / 2) %>%
   drop_na()
@@ -643,7 +648,7 @@ brier_score_test_df_loop <-
   one_row_per_jump_joined %>%
   mutate(brier_score_iterative = (final_win_prob_iterative - won_tip)^2,
          brier_score_win_tip_ranger = (final_win_prob_ranger - won_tip)^2,
-         brier_score_win_tip_glmnet = (final_win_prob_glment - won_tip)^2,
+         brier_score_win_tip_glmnet = (final_win_prob_glmnet - won_tip)^2,
          brier_score_win_tip_earth = (final_win_prob_earth - won_tip)^2,
          brier_score_win_tip_all = (final_win_prob_all - won_tip)^2)
 
@@ -697,8 +702,12 @@ final_output <-
   possession_binded %>%
   mutate(game_date = as.Date(game_date),
          game_id = as.character(as.integer(game_id))) %>%
-  left_join(one_row_per_jump_joined) %>%
-  drop_na()
+  left_join(one_row_per_jump_joined, 
+            by = c("season", "game_date", "game_id", "matchup", "period", "period_clock")) %>%
+  drop_na() %>%
+  select(-c(iterative_win_tip, win_tip_prob_ranger, win_tip_prob_glmnet, win_tip_prob_earth, win_tip_prob_all,
+            iterative_win_tip_opp, win_tip_prob_ranger_opp, win_tip_prob_glmnet_opp, win_tip_prob_earth_opp, win_tip_prob_all_opp,
+            final_win_prob_iterative, final_win_prob_ranger, final_win_prob_glmnet, final_win_prob_earth))
 
 write.csv(final_output, "data/02_curated/nba_first_to_score/win_tip_outputs.csv.gz", row.names = FALSE)
 

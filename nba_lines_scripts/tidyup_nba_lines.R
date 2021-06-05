@@ -12,8 +12,20 @@ for (sp in tot) {
 }
 
 tot_df <- bind_rows(tot_list)
-tot_df_long <- tot_df %>%
-  transmute(game_date = lubridate::as_date(as.character(Date)),
+
+# Replacing LA with L.A. Clippers if dates between start of 2019 season and mid Jan 2021
+tot_df_LA_update <-
+  tot_df %>%
+  mutate(game_date = lubridate::as_date(as.character(Date)),
+         home_Team = case_when(
+           game_date >= "2019-09-01" & game_date <= "2021-01-15" & home_Team == "LA" ~ "L.A. Clippers",
+           TRUE ~ home_Team),
+         away_Team = case_when(
+           game_date >= "2019-09-01" & game_date <= "2021-01-15" & away_Team == "LA" ~ "L.A. Clippers",
+           TRUE ~ away_Team))
+
+tot_df_long <- tot_df_LA_update %>%
+  transmute(game_date,
             team = home_Team,
             home_away = 'home',
             open_bookmaker_total_line = home_open_line,
@@ -24,8 +36,8 @@ tot_df_long <- tot_df %>%
             # close_pinnacle_total_odds = home_pinnacle_odds
             ) %>%
   bind_rows(
-    tot_df %>%
-      transmute(game_date = lubridate::as_date(as.character(Date)),
+    tot_df_LA_update %>%
+      transmute(game_date,
                 team = away_Team,
                 home_away = 'away',
                 open_bookmaker_total_line = away_open_line,
@@ -48,8 +60,20 @@ for (sp in spr) {
 }
 
 spr_df <- bind_rows(spr_list)
-spr_df_long <- spr_df %>%
-  transmute(game_date = lubridate::as_date(as.character(Date)),
+
+# Replacing LA with L.A. Clippers if dates between start of 2019 season and mid Jan 2021
+spr_df_LA_update <-
+  spr_df %>%
+  mutate(game_date = lubridate::as_date(as.character(Date)),
+         home_Team = case_when(
+           game_date >= "2019-09-01" & game_date <= "2021-01-15" & home_Team == "LA" ~ "L.A. Clippers",
+           TRUE ~ home_Team),
+         away_Team = case_when(
+           game_date >= "2019-09-01" & game_date <= "2021-01-15" & away_Team == "LA" ~ "L.A. Clippers",
+           TRUE ~ away_Team))
+
+spr_df_long <- spr_df_LA_update %>%
+  transmute(game_date,
             team = home_Team,
             home_away = 'home',
             open_bookmaker_spread_line = home_open_line,
@@ -60,8 +84,8 @@ spr_df_long <- spr_df %>%
             # close_pinnacle_spread_odds = home_pinnacle_odds
             ) %>%
   bind_rows(
-    spr_df %>%
-    transmute(game_date = lubridate::as_date(as.character(Date)),
+    spr_df_LA_update %>%
+    transmute(game_date,
               team = away_Team,
               home_away = 'away',
               open_bookmaker_spread_line = away_open_line,
@@ -84,16 +108,28 @@ for (sp in ml) {
 }
 
 ml_df <- bind_rows(ml_list)
-ml_df_long <- ml_df %>%
-  transmute(game_date = lubridate::as_date(as.character(Date)),
+
+# Replacing LA with L.A. Clippers if dates between start of 2019 season and mid Jan 2021
+ml_df_LA_update <-
+  ml_df %>%
+  mutate(game_date = lubridate::as_date(as.character(Date)),
+         home_Team = case_when(
+           game_date >= "2019-09-01" & game_date <= "2021-01-15" & home_Team == "LA" ~ "L.A. Clippers",
+           TRUE ~ home_Team),
+         away_Team = case_when(
+           game_date >= "2019-09-01" & game_date <= "2021-01-15" & away_Team == "LA" ~ "L.A. Clippers",
+           TRUE ~ away_Team))
+
+ml_df_long <- ml_df_LA_update %>%
+  transmute(game_date,
             team = home_Team,
             home_away = 'home',
             open_bookmaker_moneyline_line = home_open_line,
             close_bookmaker_moneyline_line = home_bookmaker_line,
             close_pinnacle_moneyline_line = home_pinnacle_line) %>%
   bind_rows(
-    ml_df %>%
-      transmute(game_date = lubridate::as_date(as.character(Date)),
+    ml_df_LA_update %>%
+      transmute(game_date,
                 team = away_Team,
                 home_away = 'away',
                 open_bookmaker_moneyline_line = away_open_line,

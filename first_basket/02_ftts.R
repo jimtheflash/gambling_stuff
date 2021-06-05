@@ -47,7 +47,9 @@ team_list <-
 
 team_ratings <-
   fread("./data/02_curated/nba_team_ratings/dunksandthrees.csv") %>%
-  mutate(date = as.Date(date))
+  mutate(date = as.Date(date)) %>%
+  separate(wl, c("Wins", "Losses")) %>%
+  mutate(games_played = as.integer(Wins) + as.integer(Losses))
 
 model_ml <- fread("data/02_curated/nba_first_to_score/win_tip_outputs.csv.gz",
                   colClasses = c('game_date' = 'Date',
@@ -79,10 +81,10 @@ score_first_home <-
          possession, won_tip = home_won_tip, score_first = home_score_first,
          win_tip_prob = final_win_prob_all) %>%
   mutate(home = TRUE) %>%
-  left_join(select(team_ratings, team, anet, aortg, adrtg, pace, date), by = c("team_abbrev" = "team", "game_date" = "date")) %>%
-  rename(team_anet = anet, team_aortg = aortg, team_adrtg = adrtg, team_pace = pace) %>%
-  left_join(select(team_ratings, team, anet, aortg, adrtg, pace, date), by = c("opp_team_abbrev" = "team", "game_date" = "date")) %>%
-  rename(opp_anet = anet, opp_aortg = aortg, opp_adrtg = adrtg, opp_pace = pace)
+  left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("team_abbrev" = "team", "game_date" = "date")) %>%
+  rename(team_anet = anet, team_aortg = aortg, team_adrtg = adrtg, team_pace = pace, team_games_played = games_played) %>%
+  left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("opp_team_abbrev" = "team", "game_date" = "date")) %>%
+  rename(opp_anet = anet, opp_aortg = aortg, opp_adrtg = adrtg, opp_pace = pace, opp_games_played = games_played)
 
 score_first_away <-
   model_relevant_cols %>%
@@ -90,10 +92,10 @@ score_first_away <-
          team_abbrev = away_team_abbrev, opp_team_abbrev = home_team_abbrev,
          possession, won_tip = home_won_tip, score_first = home_score_first,
          win_tip_prob = final_win_prob_all) %>%
-  left_join(select(team_ratings, team, anet, aortg, adrtg, pace, date), by = c("team_abbrev" = "team", "game_date" = "date")) %>%
-  rename(team_anet = anet, team_aortg = aortg, team_adrtg = adrtg, team_pace = pace) %>%
-  left_join(select(team_ratings, team, anet, aortg, adrtg, pace, date), by = c("opp_team_abbrev" = "team", "game_date" = "date")) %>%
-  rename(opp_anet = anet, opp_aortg = aortg, opp_adrtg = adrtg, opp_pace = pace) %>%
+  left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("team_abbrev" = "team", "game_date" = "date")) %>%
+  rename(team_anet = anet, team_aortg = aortg, team_adrtg = adrtg, team_pace = pace, team_games_played = games_played) %>%
+  left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("opp_team_abbrev" = "team", "game_date" = "date")) %>%
+  rename(opp_anet = anet, opp_aortg = aortg, opp_adrtg = adrtg, opp_pace = pace, opp_games_played = games_played) %>%
   mutate(home = FALSE,
          won_tip = !won_tip,
          score_first = !score_first,
@@ -111,21 +113,21 @@ score_first_game_lines <-
   mutate(score_first = as.factor(score_first)) %>%
   drop_na()
 
-# score_first_game_lines_no_na <-
-#   score_first_df %>%
-#   left_join(line_info_df, by = c("game_date", "team_id")) %>%
-#   mutate(score_first = as.factor(score_first))
-# 
-# test <-
-#   score_first_game_lines %>%
-#   group_by(game_id) %>%
-#   count() %>%
-#   filter(n == 1)
-# 
-# list_of_games <-
-#   score_first_game_lines_no_na %>%
-#   filter(game_id %in% test$game_id)
+### Removing cases when line only exists for one of two teams in game
+score_first_game_lines_no_na <-
+  score_first_df %>%
+  left_join(line_info_df, by = c("game_date", "team_id")) %>%
+  mutate(score_first = as.factor(score_first))
 
+single_count_game_ids <-
+  score_first_game_lines %>%
+  group_by(game_id) %>%
+  count() %>%
+  filter(n == 1)
+
+score_first_game_lines <-
+  score_first_game_lines %>%
+  filter(!game_id %in% single_count_game_ids$game_id)
 
 ################# Day by Day Run #####################
 # Set of dates to loop through for test data
@@ -133,11 +135,23 @@ unique_dates <-
   score_first_game_lines %>%
   distinct(game_date) %>%
   arrange(game_date) %>%
-  filter(game_date >= '2019-09-01')
+  filter(game_date >= '2020-02-01')
 
 score_first_relevant_cols <-
   score_first_game_lines %>%
-  select(-c(bookmaker_spread_line_delta_perc, bookmaker_moneyline_delta_perc, bookmaker_total_line_delta_perc))
+  select(-c(bookmaker_spread_line_delta_perc, bookmaker_moneyline_delta_perc, bookmaker_total_line_delta_perc,
+            bookmaker_spread_line_delta, bookmaker_moneyline_delta, bookmaker_total_line_delta,
+            team_aortg, team_adrtg, team_pace, opp_aortg, opp_adrtg, opp_pace,
+            open_bookmaker_moneyline_line, open_bookmaker_implied_pts, open_bookmaker_total_line,
+            close_bookmaker_moneyline_line, close_bookmaker_implied_pts,
+            close_bookmaker_total_line,
+            open_bookmaker_implied_pts_allowed, close_bookmaker_implied_pts_allowed,
+            open_bookmaker_spread_line,
+            team_anet, 
+            team_games_played, 
+            opp_anet, 
+            opp_games_played
+            ))
 
 function_to_run_models <- function(score_first_train_model, score_first_test_model, model_desc){
   
@@ -145,7 +159,8 @@ function_to_run_models <- function(score_first_train_model, score_first_test_mod
   
   ## subset predictors, outcomes, extras
   outcome_vars <- "score_first"
-  game_info_vars <- c("season", "game_date", "game_id", "matchup", "team_abbrev", "team_id", "opp_team_abbrev", "possession", "won_tip")
+  game_info_vars <- c("season", "game_date", "game_id", "matchup", 
+                      "team_abbrev", "team_id", "opp_team_abbrev", "possession", "won_tip")
   predictor_vars <- colnames(subset(score_first_train_model, select = !names(score_first_train_model) %in% c(game_info_vars, outcome_vars)))
   
   predictors_train <- 
@@ -238,226 +253,9 @@ for (i in 1:length(unique_dates$game_date)) {
   score_first_test_model <- score_first_test
   
   preds <- function_to_run_models(score_first_train_model, score_first_test_model, "all")
-  
-
-  # # When jumper has no jumps and opponent has jumps, but not this season
-  # count_no_jumps_opp_jumps_not_this_season <- sum(score_first_test$jumps == 0 & score_first_test$opp_jumps > 0 & score_first_test$opp_season_jumps == 0)
-  # # When jumper has no jumps and opponent has jumps this season
-  # count_no_jumps_opp_jumps_this_season <- sum(score_first_test$jumps == 0 & score_first_test$opp_season_jumps > 0)
-  # # When jumper and opponent have no jumps
-  # count_no_jumps_opp_no_jumps <- sum(score_first_test$jumps == 0 & score_first_test$opp_jumps == 0)
-  # 
-  # # When jumper has jumps, but not this season and opponent has no jumps
-  # count_jumps_not_this_season_opp_no_jumps <- sum(possession_test$jumps > 0 & possession_test$season_jumps == 0 & possession_test$opp_jumps == 0)
-  # # When jumper and opponent have jumps, but not this season
-  # count_jumps_not_this_season_opp_jumps_not_this_season <- sum(possession_test$jumps > 0 & possession_test$season_jumps == 0 & 
-  #                                                                 possession_test$opp_jumps > 0 & possession_test$opp_season_jumps == 0)
-  # # When jumper has jumps, but not this season and opponent has jumps this year
-  # count_jumps_not_this_season_opp_jumps_this_season <- sum(possession_test$jumps > 0 & possession_test$season_jumps == 0 & possession_test$opp_season_jumps > 0)
-  # 
-  # # When jumper has jumps this season and opponent has no jumps
-  # count_jumps_this_season_opp_no_jumps <- sum(possession_test$season_jumps > 0 & possession_test$opp_jumps == 0)
-  # # When jumper has jumps this season and opponent has jumps, but not this season
-  # count_jumps_this_season_opp_jumps_not_this_season <- sum(possession_test$season_jumps > 0 & possession_test$opp_jumps > 0 & possession_test$opp_season_jumps == 0)
-  # # When jumper and opponent have jumps this season
-  # count_jumps_this_season_opp_jumps_this_season <- sum(possession_test$season_jumps > 0 & possession_test$opp_season_jumps > 0)
-  # 
-  # # Initializing df that stores daily test data predictions
-  # daily_model_preds <- tibble()
-  # 
-  # #### Models for when Player has had 0 jumps and Opponent has jumped, but not jumped this season
-  # if (count_no_jumps_opp_jumps_not_this_season > 0) {
-  #   
-  #   possession_train_model <-
-  #     possession_train %>%
-  #     filter(opp_jumps > 0) %>%
-  #     select(-c(jumps, all_jumps_avg, last_10_avg, last_25_avg, last_50_avg, last_75_avg, last_100_avg,
-  #               season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
-  #               opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
-  #   
-  #   possession_test_model <-
-  #     possession_test %>%
-  #     filter(jumps == 0 & opp_jumps > 0 & opp_season_jumps == 0) %>%
-  #     select(-c(jumps, all_jumps_avg, last_10_avg, last_25_avg, last_50_avg, last_75_avg, last_100_avg,
-  #               season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
-  #               opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
-  #   
-  #   preds <- function_to_run_models(possession_train_model, possession_test_model, "no_jumps_opp_jumps_not_this_season")
-  #   
-  #   daily_model_preds <- rbind.data.frame(daily_model_preds, preds)
-  # 
-  # }
-  # 
-  # #### Models for when Player has had 0 jumps and Opponent has jumped this season
-  # if (count_no_jumps_opp_jumps_this_season > 0) {
-  #   
-  #   possession_train_model <-
-  #     possession_train %>%
-  #     filter(opp_season_jumps > 0) %>%
-  #     select(-c(jumps, all_jumps_avg, last_10_avg, last_25_avg, last_50_avg, last_75_avg, last_100_avg,
-  #               season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg))
-  #   
-  #   possession_test_model <-
-  #     possession_test %>%
-  #     filter(jumps == 0 & opp_season_jumps > 0) %>%
-  #     select(-c(jumps, all_jumps_avg, last_10_avg, last_25_avg, last_50_avg, last_75_avg, last_100_avg,
-  #               season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg))
-  #   
-  #   preds <- function_to_run_models(possession_train_model, possession_test_model, "no_jumps_opp_jumps_this_season")
-  #   
-  #   daily_model_preds <- rbind.data.frame(daily_model_preds, preds)
-  #   
-  # }
-  # 
-  # #### Models for when Player and opponent have 0 jumps
-  # if (count_no_jumps_opp_no_jumps > 0) {
-  #   
-  #   possession_train_model <-
-  #     possession_train %>%
-  #     select(-c(jumps, all_jumps_avg, last_10_avg, last_25_avg, last_50_avg, last_75_avg, last_100_avg,
-  #               season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
-  #               opp_jumps, opp_all_jumps_avg, opp_last_10_avg, opp_last_25_avg, opp_last_50_avg, opp_last_75_avg, opp_last_100_avg,
-  #               opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
-  #   
-  #   possession_test_model <-
-  #     possession_test %>%
-  #     filter(jumps == 0 & opp_jumps == 0) %>%
-  #     select(-c(jumps, all_jumps_avg, last_10_avg, last_25_avg, last_50_avg, last_75_avg, last_100_avg,
-  #               season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
-  #               opp_jumps, opp_all_jumps_avg, opp_last_10_avg, opp_last_25_avg, opp_last_50_avg, opp_last_75_avg, opp_last_100_avg,
-  #               opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
-  #   
-  #   preds <- function_to_run_models(possession_train_model, possession_test_model, "no_jumps_opp_no_jumps")
-  #   
-  #   daily_model_preds <- rbind.data.frame(daily_model_preds, preds)
-  #   
-  # }
-  # 
-  # #### Models for when Player has had jumps, but not this season, and opponent has 0 jumps
-  # if (count_jumps_not_this_season_opp_no_jumps > 0) {
-  #   
-  #   possession_train_model <-
-  #     possession_train %>%
-  #     filter(jumps > 0) %>%
-  #     select(-c(season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
-  #               opp_jumps, opp_all_jumps_avg, opp_last_10_avg, opp_last_25_avg, opp_last_50_avg, opp_last_75_avg, opp_last_100_avg,
-  #               opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
-  #   
-  #   possession_test_model <-
-  #     possession_test %>%
-  #     filter(jumps > 0 & season_jumps == 0 & opp_jumps == 0) %>%
-  #     select(-c(season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
-  #               opp_jumps, opp_all_jumps_avg, opp_last_10_avg, opp_last_25_avg, opp_last_50_avg, opp_last_75_avg, opp_last_100_avg,
-  #               opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
-  #   
-  #   preds <- function_to_run_models(possession_train_model, possession_test_model, "jumps_not_this_season_opp_no_jumps")
-  #   
-  #   daily_model_preds <- rbind.data.frame(daily_model_preds, preds)
-  #   
-  # }
-  # 
-  # #### Models for when Player has had jumps, but not this season, and opponent has jumps, but not this season
-  # if (count_jumps_not_this_season_opp_jumps_not_this_season > 0) {
-  #   
-  #   possession_train_model <-
-  #     possession_train %>%
-  #     filter(jumps > 0 & opp_jumps > 0) %>%
-  #     select(-c(season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
-  #               opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
-  #   
-  #   possession_test_model <-
-  #     possession_test %>%
-  #     filter(jumps > 0 & season_jumps == 0 & opp_jumps > 0 & opp_season_jumps == 0) %>%
-  #     select(-c(season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg,
-  #               opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
-  #   
-  #   preds <- function_to_run_models(possession_train_model, possession_test_model, "jumps_not_this_season_opp_jumps_not_this_season")
-  #   
-  #   daily_model_preds <- rbind.data.frame(daily_model_preds, preds)
-  #   
-  # }
-  # 
-  # #### Models for when Player has had jumps, but not this season, and opponent has jumped this season
-  # if (count_jumps_not_this_season_opp_jumps_this_season > 0) {
-  #   
-  #   possession_train_model <-
-  #     possession_train %>%
-  #     filter(jumps > 0 & opp_season_jumps > 0) %>%
-  #     select(-c(season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg))
-  #   
-  #   possession_test_model <-
-  #     possession_test %>%
-  #     filter(jumps > 0 & season_jumps == 0 & opp_season_jumps > 0) %>%
-  #     select(-c(season_jumps, season_all_jumps_avg, season_last_10_avg, season_last_25_avg, season_last_50_avg))
-  #   
-  #   preds <- function_to_run_models(possession_train_model, possession_test_model, "jumps_not_this_season_opp_jumps_this_season")
-  #   
-  #   daily_model_preds <- rbind.data.frame(daily_model_preds, preds)
-  #   
-  # }
-  # 
-  # #### Models for when Player has had jumps this season, and opponent has 0 jumps
-  # if (count_jumps_this_season_opp_no_jumps > 0) {
-  #   
-  #   possession_train_model <-
-  #     possession_train %>%
-  #     filter(season_jumps > 0) %>%
-  #     select(-c(opp_jumps, opp_all_jumps_avg, opp_last_10_avg, opp_last_25_avg, opp_last_50_avg, opp_last_75_avg, opp_last_100_avg,
-  #               opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
-  #   
-  #   possession_test_model <-
-  #     possession_test %>%
-  #     filter(season_jumps > 0 & opp_jumps == 0) %>%
-  #     select(-c(opp_jumps, opp_all_jumps_avg, opp_last_10_avg, opp_last_25_avg, opp_last_50_avg, opp_last_75_avg, opp_last_100_avg,
-  #               opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
-  #   
-  #   preds <- function_to_run_models(possession_train_model, possession_test_model, "jumps_this_season_opp_no_jumps")
-  #   
-  #   daily_model_preds <- rbind.data.frame(daily_model_preds, preds)
-  #   
-  # }
-  # 
-  # #### Models for when Player has had jumps this season, and opponent has jumps, but not this season
-  # if (count_jumps_this_season_opp_jumps_not_this_season > 0) {
-  #   
-  #   possession_train_model <-
-  #     possession_train %>%
-  #     filter(season_jumps > 0 & opp_jumps > 0) %>%
-  #     select(-c(opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
-  #   
-  #   possession_test_model <-
-  #     possession_test %>%
-  #     filter(season_jumps > 0 & opp_jumps > 0 & opp_season_jumps == 0) %>%
-  #     select(-c(opp_season_jumps, opp_season_all_jumps_avg, opp_season_last_10_avg, opp_season_last_25_avg, opp_season_last_50_avg))
-  #   
-  #   preds <- function_to_run_models(possession_train_model, possession_test_model, "jumps_this_season_opp_jumps_not_this_season")
-  #   
-  #   daily_model_preds <- rbind.data.frame(daily_model_preds, preds)
-  #   
-  # }
-  # 
-  # #### Models for when Player has had jumps this season, and opponent has jumped this season
-  # if (count_jumps_this_season_opp_jumps_this_season > 0) {
-  #   
-  #   possession_train_model <-
-  #     possession_train %>%
-  #     filter(season_jumps > 0 & opp_season_jumps > 0)
-  #   
-  #   possession_test_model <-
-  #     possession_test %>%
-  #     filter(season_jumps > 0 & opp_season_jumps > 0)
-  #   
-  #   preds <- function_to_run_models(possession_train_model, possession_test_model, "jumps_this_season_opp_jumps_this_season")
-  #   
-  #   daily_model_preds <- rbind.data.frame(daily_model_preds, preds)
-  #   
-  # }
 
   test_df_score_first_master = rbind.data.frame(test_df_score_first_master, preds)
 }
-
-#write.csv(test_df_score_first_master, "data/02_curated/nba_first_to_score/model_ftts.csv.gz", row.names = FALSE)
-
 
 test_df_score_first_master_mutated <-
   test_df_score_first_master %>%
@@ -476,11 +274,11 @@ test_df_score_first_master_all_combined <-
 
 brier_score_test_df_loop <-
   test_df_score_first_master_all_combined %>%
-  mutate(brier_score_score_first_iterative = (score_first_prob_iterative - won_tip)^2,
-         brier_score_score_first_ranger = (score_first_prob_ranger - won_tip)^2,
-         brier_score_score_first_glmnet = (score_first_prob_glmnet - won_tip)^2,
-         brier_score_score_first_earth = (score_first_prob_earth - won_tip)^2,
-         brier_score_score_first_all = (score_first_prob_all - won_tip)^2)
+  mutate(brier_score_score_first_iterative = (score_first_prob_iterative - score_first)^2,
+         brier_score_score_first_ranger = (score_first_prob_ranger - score_first)^2,
+         brier_score_score_first_glmnet = (score_first_prob_glmnet - score_first)^2,
+         brier_score_score_first_earth = (score_first_prob_earth - score_first)^2,
+         brier_score_score_first_all = (score_first_prob_all - score_first)^2)
 
 brier_by_season <-
   brier_score_test_df_loop %>%
@@ -491,118 +289,113 @@ brier_by_season <-
             brier_score_score_first_earth = mean(brier_score_score_first_earth),
             brier_score_score_first_all = mean(brier_score_score_first_all))
  
-message("brier score of iterative win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_iterative), 5))
-message("brier score of ranger win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_ranger), 5))
-message("brier score of glmnet win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_glmnet), 5))
-message("brier score of earth win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_earth), 5))
-message("brier score of all win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_all), 5))
+message("brier score of iterative score first is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_iterative), 5))
+message("brier score of ranger score first is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_ranger), 5))
+message("brier score of glmnet score first is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_glmnet), 5))
+message("brier score of earth score first is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_earth), 5))
+message("brier score of all score first is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_all), 5))
 
 test_buckets_score_first_loop <-
   test_df_score_first_master_all_combined %>%
-  mutate(exp_win_prob = cut(score_first_prob_all, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
+  mutate(exp_win_prob = cut(score_first_prob_all, breaks = seq(0, 100, by = 0.05), right = FALSE)) %>%
   group_by(exp_win_prob) %>%
-  summarise(jumps = n(),
-            true_win_percent = mean(won_tip),
+  summarise(obs = n(),
+            true_score_first_percent = mean(score_first),
             .groups = 'drop')
 
-iterative_auc_loop <- roc(won_tip ~ score_first_prob_iterative, data = test_df_score_first_master_all_combined)
+iterative_auc_loop <- roc(score_first ~ score_first_prob_iterative, data = test_df_score_first_master_all_combined)
 iterative_auc_loop$auc
 plot(iterative_auc_loop)
 
-ranger_auc_loop <- roc(won_tip ~ score_first_prob_ranger, data = test_df_score_first_master_all_combined)
+ranger_auc_loop <- roc(score_first ~ score_first_prob_ranger, data = test_df_score_first_master_all_combined)
 ranger_auc_loop$auc
 plot(ranger_auc_loop)
 
-glmnet_auc_loop <- roc(won_tip ~ score_first_prob_glmnet, data = test_df_score_first_master_all_combined)
+glmnet_auc_loop <- roc(score_first ~ score_first_prob_glmnet, data = test_df_score_first_master_all_combined)
 glmnet_auc_loop$auc
 plot(glmnet_auc_loop)
 
-earth_auc_loop <- roc(won_tip ~ score_first_prob_earth, data = test_df_score_first_master_all_combined)
+earth_auc_loop <- roc(score_first ~ score_first_prob_earth, data = test_df_score_first_master_all_combined)
 earth_auc_loop$auc
 plot(earth_auc_loop)
 
-all_auc_loop <- roc(won_tip ~ score_first_prob_all, data = test_df_score_first_master_all_combined)
+all_auc_loop <- roc(score_first ~ score_first_prob_all, data = test_df_score_first_master_all_combined)
 all_auc_loop$auc
 plot(all_auc_loop)
 
-one_row_per_jump_home <-
+one_row_per_game_home <-
   test_df_score_first_master_all_combined %>%
   filter(home == TRUE) %>%
   drop_na() %>%
-  select(season, game_date, game_id, matchup, period, period_clock,
-         jumper, opp_jumper, home, won_tip,
+  select(season, game_date, game_id, matchup, home_score_first = score_first,
          score_first_prob_iterative, score_first_prob_ranger, score_first_prob_glmnet,
          score_first_prob_earth, score_first_prob_all)
 
-one_row_per_jump_away <-
+one_row_per_game_away <-
   test_df_score_first_master_all_combined %>%
   filter(home == FALSE) %>%
   drop_na() %>%
-  select(season, game_date, game_id, matchup, period, period_clock,
-         jumper, opp_jumper,
+  select(season, game_date, game_id, matchup,
          score_first_prob_iterative, score_first_prob_ranger, score_first_prob_glmnet,
          score_first_prob_earth, score_first_prob_all) %>%
-  rename(opp_jumper = jumper,
-         jumper = opp_jumper,
-         score_first_prob_iterative_opp = score_first_prob_iterative,
+  rename(score_first_prob_iterative_opp = score_first_prob_iterative,
          score_first_prob_ranger_opp = score_first_prob_ranger,
          score_first_prob_glmnet_opp = score_first_prob_glmnet,
          score_first_prob_earth_opp = score_first_prob_earth,
          score_first_prob_all_opp = score_first_prob_all)
 
-one_row_per_jump_joined <-
-  one_row_per_jump_home %>%
-  left_join(one_row_per_jump_away,
-            by = c("season", "game_date", "game_id", "matchup", "period", "period_clock", "jumper", "opp_jumper")) %>%
-  mutate(final_win_prob_iterative = (score_first_prob_iterative + (1 - score_first_prob_iterative_opp)) / 2,
-         final_win_prob_ranger = (score_first_prob_ranger + (1 - score_first_prob_ranger_opp)) / 2,
-         final_win_prob_glment = (score_first_prob_glmnet + (1 - score_first_prob_glmnet_opp)) / 2,
-         final_win_prob_earth = (score_first_prob_earth + (1 - score_first_prob_earth_opp)) / 2,
-         final_win_prob_all = (score_first_prob_all + (1 - score_first_prob_all_opp)) / 2) %>%
+one_row_per_game_joined <-
+  one_row_per_game_home %>%
+  left_join(one_row_per_game_away,
+            by = c("season", "game_date", "game_id", "matchup")) %>%
+  mutate(final_score_first_prob_iterative = (score_first_prob_iterative + (1 - score_first_prob_iterative_opp)) / 2,
+         final_score_first_prob_ranger = (score_first_prob_ranger + (1 - score_first_prob_ranger_opp)) / 2,
+         final_score_first_prob_glmnet = (score_first_prob_glmnet + (1 - score_first_prob_glmnet_opp)) / 2,
+         final_score_first_prob_earth = (score_first_prob_earth + (1 - score_first_prob_earth_opp)) / 2,
+         final_score_first_prob_all = (score_first_prob_all + (1 - score_first_prob_all_opp)) / 2) %>%
   drop_na()
 
 brier_score_test_df_loop <-
-  one_row_per_jump_joined %>%
-  mutate(brier_score_score_first_iterative = (final_win_prob_iterative - won_tip)^2,
-         brier_score_score_first_ranger = (final_win_prob_ranger - won_tip)^2,
-         brier_score_score_first_glmnet = (final_win_prob_glment - won_tip)^2,
-         brier_score_score_first_earth = (final_win_prob_earth - won_tip)^2,
-         brier_score_score_first_all = (final_win_prob_all - won_tip)^2)
+  one_row_per_game_joined %>%
+  mutate(brier_score_score_first_iterative = (final_score_first_prob_iterative - home_score_first)^2,
+         brier_score_score_first_ranger = (final_score_first_prob_ranger - home_score_first)^2,
+         brier_score_score_first_glmnet = (final_score_first_prob_glmnet - home_score_first)^2,
+         brier_score_score_first_earth = (final_score_first_prob_earth - home_score_first)^2,
+         brier_score_score_first_all = (final_score_first_prob_all - home_score_first)^2)
 
-message("brier score of iterative win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_iterative), 5))
-message("brier score of ranger win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_ranger), 5))
-message("brier score of glmnet win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_glmnet), 5))
-message("brier score of earth win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_earth), 5))
-message("brier score of all win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_all), 5))
+message("brier score of iterative score first is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_iterative), 5))
+message("brier score of ranger score first is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_ranger), 5))
+message("brier score of glmnet score first is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_glmnet), 5))
+message("brier score of earth score first is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_earth), 5))
+message("brier score of all score first is equal to ", round(mean(brier_score_test_df_loop$brier_score_score_first_all), 5))
 
 test_buckets_score_first_loop <-
-  one_row_per_jump_joined %>%
-  mutate(exp_win_prob = cut(final_win_prob_all, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
+  one_row_per_game_joined %>%
+  mutate(exp_win_prob = cut(final_score_first_prob_all, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
   group_by(exp_win_prob) %>%
-  summarise(jumps = n(),
-            true_win_percent = mean(won_tip),
+  summarise(obs = n(),
+            true_score_first_percent = mean(home_score_first),
             .groups = 'drop')
 
-iterative_auc_loop <- roc(won_tip ~ score_first_prob_iterative, data = one_row_per_jump_joined)
+iterative_auc_loop <- roc(home_score_first ~ score_first_prob_iterative, data = one_row_per_game_joined)
 iterative_auc_loop$auc
 plot(iterative_auc_loop)
 
-ranger_auc_loop <- roc(won_tip ~ score_first_prob_ranger, data = one_row_per_jump_joined)
+ranger_auc_loop <- roc(home_score_first ~ score_first_prob_ranger, data = one_row_per_game_joined)
 ranger_auc_loop$auc
 plot(ranger_auc_loop)
 
-glmnet_auc_loop <- roc(won_tip ~ score_first_prob_glmnet, data = one_row_per_jump_joined)
+glmnet_auc_loop <- roc(home_score_first ~ score_first_prob_glmnet, data = one_row_per_game_joined)
 glmnet_auc_loop$auc
 plot(glmnet_auc_loop)
 
-earth_auc_loop <- roc(won_tip ~ score_first_prob_earth, data = one_row_per_jump_joined)
+earth_auc_loop <- roc(home_score_first ~ score_first_prob_earth, data = one_row_per_game_joined)
 earth_auc_loop$auc
 plot(earth_auc_loop)
 
-all_auc_loop <- roc(won_tip ~ score_first_prob_all, data = one_row_per_jump_joined)
+all_auc_loop <- roc(home_score_first ~ score_first_prob_all, data = one_row_per_game_joined)
 all_auc_loop$auc
 plot(all_auc_loop)
-
 
 ############ See how it compares by season
 season_analysis <-
@@ -616,11 +409,17 @@ season_analysis <-
 
 ## Join back to entire data set
 final_output <-
-  possession_binded %>%
+  model_ml %>%
   mutate(game_date = as.Date(game_date),
          game_id = as.character(as.integer(game_id))) %>%
-  left_join(one_row_per_jump_joined) %>%
-  drop_na()
+  left_join(one_row_per_game_joined, by = c("season", "game_date", "game_id", "matchup", "home_score_first")) %>%
+  drop_na() %>%
+  select(-c(score_first_prob_iterative, score_first_prob_ranger, score_first_prob_glmnet,
+            score_first_prob_earth, score_first_prob_all,
+            score_first_prob_iterative_opp, score_first_prob_ranger_opp, score_first_prob_glmnet_opp,
+            score_first_prob_earth_opp, score_first_prob_all_opp,
+            final_score_first_prob_iterative, final_score_first_prob_ranger, final_score_first_prob_glmnet,
+            final_score_first_prob_earth))
 
 write.csv(final_output, "data/02_curated/nba_first_to_score/score_first_outputs.csv.gz", row.names = FALSE)
 
@@ -729,11 +528,11 @@ write.csv(final_output, "data/02_curated/nba_first_to_score/score_first_outputs.
 #          brier_score_win_tip_earth = (win_tip_prob_earth - won_tip)^2,
 #          brier_score_win_tip_all = (win_tip_prob_all - won_tip)^2)
 # 
-# message("brier score of iterative win tips is equal to ", round(mean(brier_score_test_df$brier_score_score_first_iterative), 5))
-# message("brier score of ranger win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip_ranger), 5))
-# message("brier score of glmnet win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip_glmnet), 5))
-# message("brier score of earth win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip_earth), 5))
-# message("brier score of all win tips is equal to ", round(mean(brier_score_test_df$brier_score_win_tip_all), 5))
+# message("brier score of iterative score first is equal to ", round(mean(brier_score_test_df$brier_score_score_first_iterative), 5))
+# message("brier score of ranger score first is equal to ", round(mean(brier_score_test_df$brier_score_win_tip_ranger), 5))
+# message("brier score of glmnet score first is equal to ", round(mean(brier_score_test_df$brier_score_win_tip_glmnet), 5))
+# message("brier score of earth score first is equal to ", round(mean(brier_score_test_df$brier_score_win_tip_earth), 5))
+# message("brier score of all score first is equal to ", round(mean(brier_score_test_df$brier_score_win_tip_all), 5))
 # 
 # test_buckets_win_tip_ranger <-
 #   preds_ranger %>%
