@@ -15,15 +15,21 @@ library(earth)
 # earliest_train_data_date <- "2017-09-01"
 # train_test_date_split <- "2018-09-01"
 
+# Load previous run of this model
+current_model_ml <- fread("data/02_curated/nba_first_to_score/model_ml.csv.gz",
+                          colClasses =  c('game_date' = 'Date', 'game_id' = 'character'))
+max_date_model_ml <- max(current_model_ml$game_date)
+
+model_iterative <- fread("data/02_curated/nba_first_to_score/model_iterative.csv.gz")
+min_date_model_iterative <- min(model_iterative$game_date)
+
 # Current model uses last two completed seasons and current season as train data
 # To run model for current day's ratings, train_test_date_split is set to current day
 # Sets furthest date that train data goes back
-earliest_train_data_date <- "2017-09-01"
+earliest_train_data_date <- min_date_model_iterative
 # Setting date we want to start logging test data on
 # Default uses today's date so that all completed games are used in calculating ratings
-train_test_date_split <- "2018-09-01"
-
-model_iterative <- fread("data/02_curated/nba_first_to_score/model_iterative.csv.gz")
+train_test_date_split <- max_date_model_ml + days(1)
 
 # Read in all player csvs
 file_list <- list.files(path="./data/nba_player_info/")
@@ -281,7 +287,11 @@ if (nrow(unique_dates) == 0) {
 }
 
 # Initializing df that stores test data predictions
-test_df_exp_win_master <- tibble()
+if (exists('current_model_ml')){
+  test_df_exp_win_master <- current_model_ml
+}else{
+  test_df_exp_win_master <- tibble()
+}
 
 for (i in 1:length(unique_dates$game_date)) {
   message(unique_dates$game_date[i])
@@ -513,12 +523,6 @@ for (i in 1:length(unique_dates$game_date)) {
 }
 
 write.csv(test_df_exp_win_master, "data/02_curated/nba_first_to_score/model_ml.csv.gz", row.names = FALSE)
-
-# If reading in latest version (skipping full run)
-test_df_exp_win_master <- 
-  fread("data/02_curated/nba_first_to_score/model_ml.csv.gz") %>%
-  mutate(game_date = as.Date(game_date),
-         game_id = as.character(game_id))
 
 test_df_exp_win_master_all_combined <- 
   test_df_exp_win_master %>%

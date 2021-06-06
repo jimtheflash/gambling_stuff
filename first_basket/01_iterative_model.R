@@ -4,17 +4,26 @@ library(data.table)
 
 # Parameters
 
-# Example - for full run where you use all history and start the test data at 2019-2020 season
+# Example - for full run where you use all history and start the test data at 2017-18 season
 # earliest_train_data_date <- "2015-09-01"
 # train_test_date_split <- "2017-09-01"
+
+# Load previous run of this model
+current_iterative <- fread("data/02_curated/nba_first_to_score/model_iterative.csv.gz",
+                           colClasses =  c('game_date' = 'Date'))
+max_date_iterative <- max(current_iterative$game_date)
+
+# Load list of game logs
+possession_binded <- fread("data/02_curated/nba_first_to_score/jump_ball_dataset.csv.gz",
+                           colClasses = c('game_id' = 'character', 'home_team_person_id' = 'character', 'away_team_person_id' = 'character'))
 
 # Current model uses last two completed seasons and current season as train data
 # To run model for current day's ratings, train_test_date_split is set to current day
 # Sets furthest date that train data goes back
 earliest_train_data_date <- "2015-09-01"
 # Setting date we want to start logging test data on
-# Default uses today's date so that all completed games are used in calculating ratings
-train_test_date_split <- "2017-09-01"
+# Default uses day after max date from prior run, so any data that has occurred since then is added
+train_test_date_split <- max_date_iterative + days(1)
 
 # Read in all player csvs
 file_list <- list.files(path="./data/nba_player_info/")
@@ -44,9 +53,6 @@ player_info_mutated <-
   mutate(HEIGHT = (feet*12)+inches) %>%
   select(jumper = DISPLAY_FIRST_LAST, person_id = PERSON_ID,
          height = HEIGHT, weight = WEIGHT)
-
-possession_binded <- fread("data/02_curated/nba_first_to_score/jump_ball_dataset.csv.gz",
-                           colClasses = c('game_id' = 'character', 'home_team_person_id' = 'character', 'away_team_person_id' = 'character'))
 
 # Adds in player height and weight
 possession_player_info <-
@@ -83,7 +89,11 @@ if (nrow(unique_dates) == 0) {
 }
 
 # Initializing df that stores test data predictions
-test_df_exp_win_master <- tibble()
+if (exists('current_iterative')){
+  test_df_exp_win_master <- current_iterative
+}else{
+  test_df_exp_win_master <- tibble()
+}
 
 # Function that loops through every day in our test dates
 # At each day, the function resets the train data to include everything up to current date
@@ -334,121 +344,6 @@ for (i in 1:length(unique_dates$game_date)) {
   
 }
 
-# Adding score first percentage (given tip win prediction)
-test_df_exp_win_master <-
-  test_df_exp_win_master %>%
-  mutate(exp_score_first = (final_exp_win_adj*.61) + ((1 - final_exp_win_adj)*.41))
-
-# Views performance of model on test data
-# Is split into buckets of predicted win probability, and compares to performance of those predictions
-# Ideally, the average win percentage of a bucket should match the bucket it is in
-test_buckets <-
-  test_df_exp_win_master %>%
-  mutate(exp_win_prob = cut(final_exp_win, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
-  group_by(exp_win_prob) %>%
-  summarise(jumps = n(),
-            true_win_percent = mean(home_won_tip),
-            .groups = 'drop')
-
-test_buckets_height <-
-  test_df_exp_win_master %>%
-  mutate(exp_win_prob = cut(final_exp_win_adj, breaks = seq(0, 100, by = 0.10), right = FALSE)) %>%
-  group_by(exp_win_prob) %>%
-  summarise(jumps = n(),
-            true_win_percent = mean(home_won_tip),
-            .groups = 'drop')
-
-test_buckets_height_score <-
-  test_df_exp_win_master %>%
-  mutate(exp_score_first_prob = cut(exp_score_first, breaks = seq(0, 100, by = 0.025), right = FALSE)) %>%
-  group_by(exp_score_first_prob) %>%
-  summarise(jumps = n(),
-            tip_win_percent = mean(home_won_tip),
-            first_score_percent = mean(home_score_first),
-            .groups = 'drop')
-
-test_score_first_by_exp_tip <-
-  test_df_exp_win_master %>%
-  mutate(exp_win_tip_prob = cut(final_exp_win_adj, breaks = seq(0, 100, by = 0.1), right = FALSE)) %>%
-  group_by(exp_win_tip_prob) %>%
-  summarise(jumps = n(),
-            tip_win_percent = mean(home_won_tip),
-            exp_first_score_percent = mean(exp_score_first),
-            true_first_score_percent = mean(home_score_first),
-            .groups = 'drop')
-
-# Determines Brier Score for win tip backtesting
-brier_score_df <-
-  test_df_exp_win_master %>%
-  mutate(brier_score_normal = (final_exp_win - home_won_tip)^2,
-         brier_score_height = (final_exp_win_adj - home_won_tip)^2) %>%
-  filter(!is.na(brier_score_normal), !is.na(brier_score_height))
-
-brier_score <- mean(brier_score_df$brier_score_normal)
-message("brier score of win tips is equal to ", round(brier_score, 5))
-
-brier_score <- mean(brier_score_df$brier_score_height)
-message("brier score of height win tips is equal to ", round(brier_score, 5))
-
-brier_buckets_tip <-
-  brier_score_df %>%
-  mutate(home_jumps_buckets = cut(home_jumps, breaks = seq(0, 450, by = 50), right = FALSE),
-         away_jumps_buckets = cut(away_jumps, breaks = seq(0, 450, by = 50), right = FALSE)) %>%
-  group_by(home_jumps_buckets, away_jumps_buckets) %>%
-  summarise(jumps = n(),
-            brier_avg = mean(brier_score_height),
-            .groups = 'drop')
-
-# Determines Brier Score for score first backtesting
-brier_score_first_df <-
-  test_df_exp_win_master %>%
-  mutate(brier_score_prob = (exp_score_first - home_score_first)^2) %>%
-  filter(!is.na(brier_score_prob))
-
-brier_score <- mean(brier_score_first_df$brier_score_prob)
-message("brier score of score first is equal to ", round(brier_score, 5))
-
-brier_buckets_score <-
-  brier_score_first_df %>%
-  mutate(home_jumps_buckets = cut(home_jumps, breaks = seq(0, 450, by = 50), right = FALSE),
-         away_jumps_buckets = cut(away_jumps, breaks = seq(0, 450, by = 50), right = FALSE)) %>%
-  group_by(home_jumps_buckets, away_jumps_buckets) %>%
-  summarise(jumps = n(),
-            brier_avg = mean(brier_score_prob),
-            .groups = 'drop')
-
-sum(test_df_exp_win_master$final_exp_win_adj)
-sum(test_df_exp_win_master$home_won_tip)
-sum(test_df_exp_win_master$exp_score_first)
-sum(test_df_exp_win_master$home_score_first)
-
-# Score First Rates based on Win Tip, home/away
-score_first_rates_by_season <-
-  test_df_exp_win_master %>%
-  group_by(season, home_won_tip, home_score_first) %>%
-  summarise(score_first = n()) %>%
-  group_by(season) %>%
-  mutate(season_tips = sum(score_first)) %>%
-  group_by(season, home_won_tip) %>%
-  mutate(tip_wins = sum(score_first),
-         tip_wins_pct = tip_wins/season_tips) %>%
-  ungroup() %>%
-  select(season, home_won_tip, home_score_first, season_tips, tip_wins, tip_wins_pct, score_first) %>%
-  mutate(score_first_pct = score_first/tip_wins)
-
-score_first_rates <-
-  test_df_exp_win_master %>%
-  group_by(home_won_tip, home_score_first) %>%
-  summarise(score_first = n()) %>%
-  ungroup() %>%
-  mutate(tips = sum(score_first)) %>%
-  group_by(home_won_tip) %>%
-  mutate(tip_wins = sum(score_first),
-         tip_wins_pct = tip_wins/tips) %>%
-  ungroup() %>%
-  select(home_won_tip, home_score_first, tips, tip_wins, tip_wins_pct, score_first) %>%
-  mutate(score_first_pct = score_first/tip_wins)
-
 write.csv(test_df_exp_win_master, "data/02_curated/nba_first_to_score/model_iterative.csv.gz", row.names = FALSE)
 
 # ## Write out main file
@@ -467,31 +362,3 @@ write.csv(test_df_exp_win_master, "data/02_curated/nba_first_to_score/model_iter
 # 
 # write.csv(player_list_df, paste0("data/02_curated/nba_first_to_score/", yyyy, "/", mm, "/", dd, "/", "jump_ball_ratings.csv.gz"), row.names = FALSE)
 
-
-
-#### SCRATCH #####
-# When do player ratings stay the same?
-# jumps_counts_players_home <-
-#   test_df_exp_win_master %>%
-#   select(person_id = home_team_person_id, jumps = home_jumps, exp_win = home_exp_win, exp_win_adj = home_exp_win_adj)
-
-# jumps_counts_players_away <-
-#   test_df_exp_win_master %>%
-#   select(person_id = away_team_person_id, jumps = away_jumps, exp_win = away_exp_win, exp_win_adj = away_exp_win_adj)
-
-# jump_counts_players <-
-#   rbind.data.frame(jumps_counts_players_home, jumps_counts_players_away) %>%
-#   arrange(person_id, jumps) %>%
-#   distinct() %>%
-#   group_by(person_id) %>%
-#   mutate(difference = abs(exp_win - lag(exp_win)),
-#          difference_adj = abs(exp_win_adj - lag(exp_win_adj)))
-
-# difference_by_jumps <-
-#   jump_counts_players %>%
-#   group_by(jumps) %>%
-#   summarise(avg_diff = mean(difference, na.rm = T),
-#             avg_diff_adj = mean(difference_adj, na.rm = T))
-
-# plot(difference_by_jumps$jumps, difference_by_jumps$avg_diff)
-# plot(difference_by_jumps$jumps, difference_by_jumps$avg_diff_adj)

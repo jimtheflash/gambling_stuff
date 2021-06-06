@@ -15,13 +15,25 @@ library(earth)
 # earliest_train_data_date <- "2018-09-01"
 # train_test_date_split <- "2020-02-01"
 
+# Load previous run of this model
+current_model_ftts <- fread("data/02_curated/nba_first_to_score/model_ftts.csv.gz",
+                          colClasses =  c('game_date' = 'Date', 'game_id' = 'character'))
+max_date_model_ftts <- max(current_model_ftts$game_date)
+
+model_win_tip <- fread("data/02_curated/nba_first_to_score/win_tip_outputs.csv.gz",
+                       colClasses = c('game_date' = 'Date',
+                                      'game_id' = 'character',
+                                      'home_team_person_id' = 'character',
+                                      'away_team_person_id' = 'character'))
+min_date_model_win_tip <- min(model_win_tip$game_date)
+
 # Current model uses last two completed seasons and current season as train data
 # To run model for current day's ratings, train_test_date_split is set to current day
 # Sets furthest date that train data goes back
-earliest_train_data_date <- "2018-09-01"
+earliest_train_data_date <- min_date_model_win_tip
 # Setting date we want to start logging test data on
 # Default uses today's date so that all completed games are used in calculating ratings
-train_test_date_split <- "2020-02-01"
+train_test_date_split <- max_date_model_ftts + days(1)
 
 line_info_df <- 
   fread("./data/nba_lines/all_historical_lines.csv") %>%
@@ -40,14 +52,8 @@ team_ratings <-
   separate(wl, c("Wins", "Losses")) %>%
   mutate(games_played = as.integer(Wins) + as.integer(Losses))
 
-model_ml <- fread("data/02_curated/nba_first_to_score/win_tip_outputs.csv.gz",
-                  colClasses = c('game_date' = 'Date',
-                                 'game_id' = 'character',
-                                 'home_team_person_id' = 'character',
-                                 'away_team_person_id' = 'character'))
-
 model_relevant_cols <-
-  model_ml %>%
+  model_win_tip %>%
   select(season, game_date, game_id, matchup, home_team_abbrev,
          away_team_abbrev, possession, score_first, home_won_tip,
          home_score_first, final_win_prob_all)
@@ -69,11 +75,11 @@ score_first_home <-
          team_abbrev = home_team_abbrev, opp_team_abbrev = away_team_abbrev,
          possession, won_tip = home_won_tip, score_first = home_score_first,
          win_tip_prob = final_win_prob_all) %>%
-  mutate(home = TRUE) %>%
-  left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("team_abbrev" = "team", "game_date" = "date")) %>%
-  rename(team_anet = anet, team_aortg = aortg, team_adrtg = adrtg, team_pace = pace, team_games_played = games_played) %>%
-  left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("opp_team_abbrev" = "team", "game_date" = "date")) %>%
-  rename(opp_anet = anet, opp_aortg = aortg, opp_adrtg = adrtg, opp_pace = pace, opp_games_played = games_played)
+  mutate(home = TRUE) #%>%
+  # left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("team_abbrev" = "team", "game_date" = "date")) %>%
+  # rename(team_anet = anet, team_aortg = aortg, team_adrtg = adrtg, team_pace = pace, team_games_played = games_played) %>%
+  # left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("opp_team_abbrev" = "team", "game_date" = "date")) %>%
+  # rename(opp_anet = anet, opp_aortg = aortg, opp_adrtg = adrtg, opp_pace = pace, opp_games_played = games_played)
 
 score_first_away <-
   model_relevant_cols %>%
@@ -81,10 +87,10 @@ score_first_away <-
          team_abbrev = away_team_abbrev, opp_team_abbrev = home_team_abbrev,
          possession, won_tip = home_won_tip, score_first = home_score_first,
          win_tip_prob = final_win_prob_all) %>%
-  left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("team_abbrev" = "team", "game_date" = "date")) %>%
-  rename(team_anet = anet, team_aortg = aortg, team_adrtg = adrtg, team_pace = pace, team_games_played = games_played) %>%
-  left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("opp_team_abbrev" = "team", "game_date" = "date")) %>%
-  rename(opp_anet = anet, opp_aortg = aortg, opp_adrtg = adrtg, opp_pace = pace, opp_games_played = games_played) %>%
+  # left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("team_abbrev" = "team", "game_date" = "date")) %>%
+  # rename(team_anet = anet, team_aortg = aortg, team_adrtg = adrtg, team_pace = pace, team_games_played = games_played) %>%
+  # left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("opp_team_abbrev" = "team", "game_date" = "date")) %>%
+  # rename(opp_anet = anet, opp_aortg = aortg, opp_adrtg = adrtg, opp_pace = pace, opp_games_played = games_played) %>%
   mutate(home = FALSE,
          won_tip = !won_tip,
          score_first = !score_first,
@@ -130,16 +136,16 @@ score_first_relevant_cols <-
   score_first_game_lines %>%
   select(-c(bookmaker_spread_line_delta_perc, bookmaker_moneyline_delta_perc, bookmaker_total_line_delta_perc,
             bookmaker_spread_line_delta, bookmaker_moneyline_delta, bookmaker_total_line_delta,
-            team_aortg, team_adrtg, team_pace, opp_aortg, opp_adrtg, opp_pace,
+            #team_aortg, team_adrtg, team_pace, opp_aortg, opp_adrtg, opp_pace,
             open_bookmaker_moneyline_line, open_bookmaker_implied_pts, open_bookmaker_total_line,
             close_bookmaker_moneyline_line, close_bookmaker_implied_pts,
             close_bookmaker_total_line,
             open_bookmaker_implied_pts_allowed, close_bookmaker_implied_pts_allowed,
             open_bookmaker_spread_line,
-            team_anet, 
-            team_games_played, 
-            opp_anet, 
-            opp_games_played
+            #team_anet, 
+            #team_games_played, 
+            #opp_anet, 
+            #opp_games_played
             ))
 
 function_to_run_models <- function(score_first_train_model, score_first_test_model, model_desc){
@@ -224,7 +230,11 @@ if (nrow(unique_dates) == 0) {
 }
 
 # Initializing df that stores test data predictions
-test_df_score_first_master <- tibble()
+if (exists('current_model_ftts')){
+  test_df_score_first_master <- current_model_ftts
+}else{
+  test_df_score_first_master <- tibble()
+}
 
 for (i in 1:length(unique_dates$game_date)) {
   message(unique_dates$game_date[i])
@@ -241,10 +251,16 @@ for (i in 1:length(unique_dates$game_date)) {
   score_first_train_model <- score_first_train
   score_first_test_model <- score_first_test
   
-  preds <- function_to_run_models(score_first_train_model, score_first_test_model, "all")
-
+  if (nrow(score_first_test_model) > 0) {
+    preds <- function_to_run_models(score_first_train_model, score_first_test_model, "all")
+  }else{
+    preds <- tibble()
+  }
+  
   test_df_score_first_master = rbind.data.frame(test_df_score_first_master, preds)
 }
+
+write.csv(test_df_score_first_master, "data/02_curated/nba_first_to_score/model_ftts.csv.gz", row.names = FALSE)
 
 test_df_score_first_master_mutated <-
   test_df_score_first_master %>%
@@ -398,7 +414,7 @@ season_analysis <-
 
 ## Join back to entire data set
 final_output <-
-  model_ml %>%
+  model_win_tip %>%
   mutate(game_date = as.Date(game_date),
          game_id = as.character(as.integer(game_id))) %>%
   left_join(one_row_per_game_joined, by = c("season", "game_date", "game_id", "matchup", "home_score_first")) %>%
