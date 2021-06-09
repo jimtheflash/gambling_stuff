@@ -136,25 +136,6 @@
         },
         {
             "person": {
-                "id": 643265,
-                "fullName": "Garrett Cooper",
-                "link": "/api/v1/people/643265"
-            },
-            "jerseyNumber": "26",
-            "position": {
-                "code": "9",
-                "name": "Outfielder",
-                "type": "Outfielder",
-                "abbreviation": "RF"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 146
-        },
-        {
-            "person": {
                 "id": 656371,
                 "fullName": "Isan Diaz",
                 "link": "/api/v1/people/656371"
@@ -279,6 +260,25 @@
                 "name": "Shortstop",
                 "type": "Infielder",
                 "abbreviation": "SS"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 146
+        },
+        {
+            "person": {
+                "id": 650331,
+                "fullName": "Lewin Diaz",
+                "link": "/api/v1/people/650331"
+            },
+            "jerseyNumber": "68",
+            "position": {
+                "code": "3",
+                "name": "First Base",
+                "type": "Infielder",
+                "abbreviation": "1B"
             },
             "status": {
                 "code": "A",

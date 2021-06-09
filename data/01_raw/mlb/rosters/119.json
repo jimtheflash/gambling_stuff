@@ -383,6 +383,25 @@
         },
         {
             "person": {
+                "id": 664062,
+                "fullName": "Tony Gonsolin",
+                "link": "/api/v1/people/664062"
+            },
+            "jerseyNumber": "26",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 119
+        },
+        {
+            "person": {
                 "id": 545333,
                 "fullName": "Trevor Bauer",
                 "link": "/api/v1/people/545333"
@@ -450,25 +469,6 @@
                 "name": "Catcher",
                 "type": "Catcher",
                 "abbreviation": "C"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 119
-        },
-        {
-            "person": {
-                "id": 660294,
-                "fullName": "Yoshi Tsutsugo",
-                "link": "/api/v1/people/660294"
-            },
-            "jerseyNumber": "28",
-            "position": {
-                "code": "7",
-                "name": "Outfielder",
-                "type": "Outfielder",
-                "abbreviation": "LF"
             },
             "status": {
                 "code": "A",

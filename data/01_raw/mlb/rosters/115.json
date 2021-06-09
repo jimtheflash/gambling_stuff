@@ -174,6 +174,25 @@
         },
         {
             "person": {
+                "id": 656582,
+                "fullName": "Connor Joe",
+                "link": "/api/v1/people/656582"
+            },
+            "jerseyNumber": "9",
+            "position": {
+                "code": "3",
+                "name": "First Base",
+                "type": "Infielder",
+                "abbreviation": "1B"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 115
+        },
+        {
+            "person": {
                 "id": 453268,
                 "fullName": "Daniel Bard",
                 "link": "/api/v1/people/453268"
@@ -336,25 +355,6 @@
                 "name": "Pitcher",
                 "type": "Pitcher",
                 "abbreviation": "P"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 115
-        },
-        {
-            "person": {
-                "id": 571431,
-                "fullName": "Matt Adams",
-                "link": "/api/v1/people/571431"
-            },
-            "jerseyNumber": "18",
-            "position": {
-                "code": "3",
-                "name": "First Base",
-                "type": "Infielder",
-                "abbreviation": "1B"
             },
             "status": {
                 "code": "A",

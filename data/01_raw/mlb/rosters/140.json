@@ -174,25 +174,6 @@
         },
         {
             "person": {
-                "id": 453178,
-                "fullName": "Ian Kennedy",
-                "link": "/api/v1/people/453178"
-            },
-            "jerseyNumber": "31",
-            "position": {
-                "code": "1",
-                "name": "Pitcher",
-                "type": "Pitcher",
-                "abbreviation": "P"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 140
-        },
-        {
-            "person": {
                 "id": 643396,
                 "fullName": "Isiah Kiner-Falefa",
                 "link": "/api/v1/people/643396"
@@ -450,6 +431,25 @@
                 "name": "Second Base",
                 "type": "Infielder",
                 "abbreviation": "2B"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 140
+        },
+        {
+            "person": {
+                "id": 607359,
+                "fullName": "Spencer Patton",
+                "link": "/api/v1/people/607359"
+            },
+            "jerseyNumber": "61",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
             },
             "status": {
                 "code": "A",

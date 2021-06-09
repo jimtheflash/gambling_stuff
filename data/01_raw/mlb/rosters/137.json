@@ -3,25 +3,6 @@
     "roster": [
         {
             "person": {
-                "id": 543105,
-                "fullName": "Alex Dickerson",
-                "link": "/api/v1/people/543105"
-            },
-            "jerseyNumber": "12",
-            "position": {
-                "code": "7",
-                "name": "Outfielder",
-                "type": "Outfielder",
-                "abbreviation": "LF"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 137
-        },
-        {
-            "person": {
                 "id": 622072,
                 "fullName": "Alex Wood",
                 "link": "/api/v1/people/622072"
@@ -269,6 +250,25 @@
         },
         {
             "person": {
+                "id": 642073,
+                "fullName": "Jimmie Sherfy",
+                "link": "/api/v1/people/642073"
+            },
+            "jerseyNumber": "64",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 137
+        },
+        {
+            "person": {
                 "id": 456501,
                 "fullName": "Johnny Cueto",
                 "link": "/api/v1/people/456501"
@@ -345,25 +345,6 @@
         },
         {
             "person": {
-                "id": 605538,
-                "fullName": "Matt Wisler",
-                "link": "/api/v1/people/605538"
-            },
-            "jerseyNumber": "37",
-            "position": {
-                "code": "1",
-                "name": "Pitcher",
-                "type": "Pitcher",
-                "abbreviation": "P"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 137
-        },
-        {
-            "person": {
                 "id": 643289,
                 "fullName": "Mauricio Dubon",
                 "link": "/api/v1/people/643289"
@@ -393,6 +374,25 @@
                 "name": "Outfielder",
                 "type": "Outfielder",
                 "abbreviation": "LF"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 137
+        },
+        {
+            "person": {
+                "id": 669674,
+                "fullName": "Sammy Long",
+                "link": "/api/v1/people/669674"
+            },
+            "jerseyNumber": "73",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
             },
             "status": {
                 "code": "A",

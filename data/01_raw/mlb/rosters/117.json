@@ -41,6 +41,25 @@
         },
         {
             "person": {
+                "id": 656232,
+                "fullName": "Brandon Bielak",
+                "link": "/api/v1/people/656232"
+            },
+            "jerseyNumber": "64",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 117
+        },
+        {
+            "person": {
                 "id": 548384,
                 "fullName": "Brooks Raley",
                 "link": "/api/v1/people/548384"
@@ -179,25 +198,6 @@
                 "link": "/api/v1/people/543606"
             },
             "jerseyNumber": "17",
-            "position": {
-                "code": "1",
-                "name": "Pitcher",
-                "type": "Pitcher",
-                "abbreviation": "P"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 117
-        },
-        {
-            "person": {
-                "id": 501925,
-                "fullName": "Joe Smith",
-                "link": "/api/v1/people/501925"
-            },
-            "jerseyNumber": "38",
             "position": {
                 "code": "1",
                 "name": "Pitcher",

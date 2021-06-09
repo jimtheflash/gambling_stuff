@@ -22,6 +22,25 @@
         },
         {
             "person": {
+                "id": 605521,
+                "fullName": "Art Warren",
+                "link": "/api/v1/people/605521"
+            },
+            "jerseyNumber": "",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 113
+        },
+        {
+            "person": {
                 "id": 623485,
                 "fullName": "Ashton Goudeau",
                 "link": "/api/v1/people/623485"
@@ -336,25 +355,6 @@
                 "name": "Outfielder",
                 "type": "Outfielder",
                 "abbreviation": "LF"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 113
-        },
-        {
-            "person": {
-                "id": 543243,
-                "fullName": "Sonny Gray",
-                "link": "/api/v1/people/543243"
-            },
-            "jerseyNumber": "54",
-            "position": {
-                "code": "1",
-                "name": "Pitcher",
-                "type": "Pitcher",
-                "abbreviation": "P"
             },
             "status": {
                 "code": "A",
