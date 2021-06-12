@@ -22,6 +22,44 @@
         },
         {
             "person": {
+                "id": 656638,
+                "fullName": "Alex Lange",
+                "link": "/api/v1/people/656638"
+            },
+            "jerseyNumber": "57",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 116
+        },
+        {
+            "person": {
+                "id": 663366,
+                "fullName": "Beau Burrows",
+                "link": "/api/v1/people/663366"
+            },
+            "jerseyNumber": "37",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 116
+        },
+        {
+            "person": {
                 "id": 650530,
                 "fullName": "Bryan Garcia",
                 "link": "/api/v1/people/650530"
@@ -79,35 +117,16 @@
         },
         {
             "person": {
-                "id": 656537,
-                "fullName": "Derek Hill",
-                "link": "/api/v1/people/656537"
+                "id": 663662,
+                "fullName": "Daz Cameron",
+                "link": "/api/v1/people/663662"
             },
-            "jerseyNumber": "54",
+            "jerseyNumber": "41",
             "position": {
                 "code": "8",
                 "name": "Outfielder",
                 "type": "Outfielder",
                 "abbreviation": "CF"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 116
-        },
-        {
-            "person": {
-                "id": 502706,
-                "fullName": "Derek Holland",
-                "link": "/api/v1/people/502706"
-            },
-            "jerseyNumber": "49",
-            "position": {
-                "code": "1",
-                "name": "Pitcher",
-                "type": "Pitcher",
-                "abbreviation": "P"
             },
             "status": {
                 "code": "A",
@@ -412,25 +431,6 @@
                 "name": "Outfielder",
                 "type": "Outfielder",
                 "abbreviation": "LF"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 116
-        },
-        {
-            "person": {
-                "id": 665621,
-                "fullName": "Rony Garcia",
-                "link": "/api/v1/people/665621"
-            },
-            "jerseyNumber": "51",
-            "position": {
-                "code": "1",
-                "name": "Pitcher",
-                "type": "Pitcher",
-                "abbreviation": "P"
             },
             "status": {
                 "code": "A",

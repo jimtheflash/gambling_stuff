@@ -117,6 +117,25 @@
         },
         {
             "person": {
+                "id": 670056,
+                "fullName": "Caleb Baragar",
+                "link": "/api/v1/people/670056"
+            },
+            "jerseyNumber": "45",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 137
+        },
+        {
+            "person": {
                 "id": 644433,
                 "fullName": "Chadwick Tromp",
                 "link": "/api/v1/people/644433"
@@ -383,6 +402,25 @@
         },
         {
             "person": {
+                "id": 573262,
+                "fullName": "Mike Yastrzemski",
+                "link": "/api/v1/people/573262"
+            },
+            "jerseyNumber": "5",
+            "position": {
+                "code": "9",
+                "name": "Outfielder",
+                "type": "Outfielder",
+                "abbreviation": "RF"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 137
+        },
+        {
+            "person": {
                 "id": 669674,
                 "fullName": "Sammy Long",
                 "link": "/api/v1/people/669674"
@@ -412,25 +450,6 @@
                 "name": "Outfielder",
                 "type": "Outfielder",
                 "abbreviation": "CF"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 137
-        },
-        {
-            "person": {
-                "id": 642731,
-                "fullName": "Thairo Estrada",
-                "link": "/api/v1/people/642731"
-            },
-            "jerseyNumber": "39",
-            "position": {
-                "code": "6",
-                "name": "Shortstop",
-                "type": "Infielder",
-                "abbreviation": "SS"
             },
             "status": {
                 "code": "A",

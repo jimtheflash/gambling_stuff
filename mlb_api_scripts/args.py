@@ -1,4 +1,5 @@
 import argparse
+from datetime import date
 from logging import getLevelName
 
 from get_logger import get_logger
@@ -14,7 +15,7 @@ def get_cli_args():
         action="store_true",
         help="Omit this argument to actually extract API files",
     )
-    parser.add_argument("--season", help="Season starting year")
+    parser.add_argument("--logical_date", help="Date for which to get data", default=str(date.today()))
     args = vars(parser.parse_args())
     logger.debug(args)
     return args

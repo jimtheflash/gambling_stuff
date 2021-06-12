@@ -22,6 +22,25 @@
         },
         {
             "person": {
+                "id": 600921,
+                "fullName": "Andres Machado",
+                "link": "/api/v1/people/600921"
+            },
+            "jerseyNumber": "57",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 120
+        },
+        {
+            "person": {
                 "id": 664057,
                 "fullName": "Andrew Stevenson",
                 "link": "/api/v1/people/664057"
@@ -60,11 +79,30 @@
         },
         {
             "person": {
-                "id": 543339,
-                "fullName": "Daniel Hudson",
-                "link": "/api/v1/people/543339"
+                "id": 607200,
+                "fullName": "Erick Fedde",
+                "link": "/api/v1/people/607200"
             },
-            "jerseyNumber": "44",
+            "jerseyNumber": "23",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 120
+        },
+        {
+            "person": {
+                "id": 622446,
+                "fullName": "Jefry Rodriguez",
+                "link": "/api/v1/people/622446"
+            },
+            "jerseyNumber": "39",
             "position": {
                 "code": "1",
                 "name": "Pitcher",
@@ -450,25 +488,6 @@
                 "name": "Pitcher",
                 "type": "Pitcher",
                 "abbreviation": "P"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 120
-        },
-        {
-            "person": {
-                "id": 628450,
-                "fullName": "Yadiel Hernandez",
-                "link": "/api/v1/people/628450"
-            },
-            "jerseyNumber": "29",
-            "position": {
-                "code": "9",
-                "name": "Outfielder",
-                "type": "Outfielder",
-                "abbreviation": "RF"
             },
             "status": {
                 "code": "A",

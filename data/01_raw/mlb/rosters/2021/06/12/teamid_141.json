@@ -3,11 +3,11 @@
     "roster": [
         {
             "person": {
-                "id": 517008,
-                "fullName": "Alex Colome",
-                "link": "/api/v1/people/517008"
+                "id": 666201,
+                "fullName": "Alek Manoah",
+                "link": "/api/v1/people/666201"
             },
-            "jerseyNumber": "48",
+            "jerseyNumber": "6",
             "position": {
                 "code": "1",
                 "name": "Pitcher",
@@ -18,34 +18,34 @@
                 "code": "A",
                 "description": "Active"
             },
-            "parentTeamId": 142
+            "parentTeamId": 141
         },
         {
             "person": {
-                "id": 666135,
-                "fullName": "Alex Kirilloff",
-                "link": "/api/v1/people/666135"
+                "id": 621593,
+                "fullName": "Anthony Castro",
+                "link": "/api/v1/people/621593"
             },
-            "jerseyNumber": "19",
+            "jerseyNumber": "63",
             "position": {
-                "code": "7",
-                "name": "Outfielder",
-                "type": "Outfielder",
-                "abbreviation": "LF"
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
             },
             "status": {
                 "code": "A",
                 "description": "Active"
             },
-            "parentTeamId": 142
+            "parentTeamId": 141
         },
         {
             "person": {
-                "id": 592743,
-                "fullName": "Andrelton Simmons",
-                "link": "/api/v1/people/592743"
+                "id": 666182,
+                "fullName": "Bo Bichette",
+                "link": "/api/v1/people/666182"
             },
-            "jerseyNumber": "9",
+            "jerseyNumber": "11",
             "position": {
                 "code": "6",
                 "name": "Shortstop",
@@ -56,15 +56,15 @@
                 "code": "A",
                 "description": "Active"
             },
-            "parentTeamId": 142
+            "parentTeamId": 141
         },
         {
             "person": {
-                "id": 641927,
-                "fullName": "Bailey Ober",
-                "link": "/api/v1/people/641927"
+                "id": 605218,
+                "fullName": "Carl Edwards Jr.",
+                "link": "/api/v1/people/605218"
             },
-            "jerseyNumber": "82",
+            "jerseyNumber": "43",
             "position": {
                 "code": "1",
                 "name": "Pitcher",
@@ -75,148 +75,15 @@
                 "code": "A",
                 "description": "Active"
             },
-            "parentTeamId": 142
+            "parentTeamId": 141
         },
         {
             "person": {
-                "id": 666163,
-                "fullName": "Ben Rortvedt",
-                "link": "/api/v1/people/666163"
+                "id": 624415,
+                "fullName": "Cavan Biggio",
+                "link": "/api/v1/people/624415"
             },
-            "jerseyNumber": "70",
-            "position": {
-                "code": "2",
-                "name": "Catcher",
-                "type": "Catcher",
-                "abbreviation": "C"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 643377,
-                "fullName": "Griffin Jax",
-                "link": "/api/v1/people/643377"
-            },
-            "jerseyNumber": "83",
-            "position": {
-                "code": "1",
-                "name": "Pitcher",
-                "type": "Pitcher",
-                "abbreviation": "P"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 570663,
-                "fullName": "Hansel Robles",
-                "link": "/api/v1/people/570663"
-            },
-            "jerseyNumber": "57",
-            "position": {
-                "code": "1",
-                "name": "Pitcher",
-                "type": "Pitcher",
-                "abbreviation": "P"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 457918,
-                "fullName": "J.A. Happ",
-                "link": "/api/v1/people/457918"
-            },
-            "jerseyNumber": "33",
-            "position": {
-                "code": "1",
-                "name": "Pitcher",
-                "type": "Pitcher",
-                "abbreviation": "P"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 660896,
-                "fullName": "Jorge Alcala",
-                "link": "/api/v1/people/660896"
-            },
-            "jerseyNumber": "66",
-            "position": {
-                "code": "1",
-                "name": "Pitcher",
-                "type": "Pitcher",
-                "abbreviation": "P"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 593871,
-                "fullName": "Jorge Polanco",
-                "link": "/api/v1/people/593871"
-            },
-            "jerseyNumber": "11",
-            "position": {
-                "code": "4",
-                "name": "Second Base",
-                "type": "Infielder",
-                "abbreviation": "2B"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 621244,
-                "fullName": "Jose Berrios",
-                "link": "/api/v1/people/621244"
-            },
-            "jerseyNumber": "17",
-            "position": {
-                "code": "1",
-                "name": "Pitcher",
-                "type": "Pitcher",
-                "abbreviation": "P"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 518626,
-                "fullName": "Josh Donaldson",
-                "link": "/api/v1/people/518626"
-            },
-            "jerseyNumber": "20",
+            "jerseyNumber": "8",
             "position": {
                 "code": "5",
                 "name": "Third Base",
@@ -227,146 +94,108 @@
                 "code": "A",
                 "description": "Active"
             },
-            "parentTeamId": 142
+            "parentTeamId": 141
         },
         {
             "person": {
-                "id": 664247,
-                "fullName": "Kyle Garlick",
-                "link": "/api/v1/people/664247"
+                "id": 547943,
+                "fullName": "Hyun Jin Ryu",
+                "link": "/api/v1/people/547943"
             },
-            "jerseyNumber": "30",
+            "jerseyNumber": "99",
             "position": {
-                "code": "7",
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 676886,
+                "fullName": "Jeremy Beasley",
+                "link": "/api/v1/people/676886"
+            },
+            "jerseyNumber": "59",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 605412,
+                "fullName": "Joe Panik",
+                "link": "/api/v1/people/605412"
+            },
+            "jerseyNumber": "2",
+            "position": {
+                "code": "5",
+                "name": "Third Base",
+                "type": "Infielder",
+                "abbreviation": "3B"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 606303,
+                "fullName": "Joel Payamps",
+                "link": "/api/v1/people/606303"
+            },
+            "jerseyNumber": "54",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 641505,
+                "fullName": "Jonathan Davis",
+                "link": "/api/v1/people/641505"
+            },
+            "jerseyNumber": "3",
+            "position": {
+                "code": "8",
                 "name": "Outfielder",
                 "type": "Outfielder",
-                "abbreviation": "LF"
+                "abbreviation": "CF"
             },
             "status": {
                 "code": "A",
                 "description": "Active"
             },
-            "parentTeamId": 142
+            "parentTeamId": 141
         },
         {
             "person": {
-                "id": 608652,
-                "fullName": "Luke Farrell",
-                "link": "/api/v1/people/608652"
-            },
-            "jerseyNumber": "51",
-            "position": {
-                "code": "1",
-                "name": "Pitcher",
-                "type": "Pitcher",
-                "abbreviation": "P"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 533167,
-                "fullName": "Matt Shoemaker",
-                "link": "/api/v1/people/533167"
-            },
-            "jerseyNumber": "32",
-            "position": {
-                "code": "1",
-                "name": "Pitcher",
-                "type": "Pitcher",
-                "abbreviation": "P"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 501381,
-                "fullName": "Michael Pineda",
-                "link": "/api/v1/people/501381"
-            },
-            "jerseyNumber": "35",
-            "position": {
-                "code": "1",
-                "name": "Pitcher",
-                "type": "Pitcher",
-                "abbreviation": "P"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 593934,
-                "fullName": "Miguel Sano",
-                "link": "/api/v1/people/593934"
-            },
-            "jerseyNumber": "22",
-            "position": {
-                "code": "3",
-                "name": "First Base",
-                "type": "Infielder",
-                "abbreviation": "1B"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 443558,
-                "fullName": "Nelson Cruz",
-                "link": "/api/v1/people/443558"
-            },
-            "jerseyNumber": "23",
-            "position": {
-                "code": "10",
-                "name": "Designated Hitter",
-                "type": "Hitter",
-                "abbreviation": "DH"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 624503,
-                "fullName": "Nick Gordon",
-                "link": "/api/v1/people/624503"
-            },
-            "jerseyNumber": "1",
-            "position": {
-                "code": "6",
-                "name": "Shortstop",
-                "type": "Infielder",
-                "abbreviation": "SS"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 677976,
-                "fullName": "Randy Dobnak",
-                "link": "/api/v1/people/677976"
+                "id": 605447,
+                "fullName": "Jordan Romano",
+                "link": "/api/v1/people/605447"
             },
             "jerseyNumber": "68",
             "position": {
@@ -379,72 +208,15 @@
                 "code": "A",
                 "description": "Active"
             },
-            "parentTeamId": 142
+            "parentTeamId": 141
         },
         {
             "person": {
-                "id": 608701,
-                "fullName": "Rob Refsnyder",
-                "link": "/api/v1/people/608701"
+                "id": 666971,
+                "fullName": "Lourdes Gurriel Jr.",
+                "link": "/api/v1/people/666971"
             },
-            "jerseyNumber": "38",
-            "position": {
-                "code": "8",
-                "name": "Outfielder",
-                "type": "Outfielder",
-                "abbreviation": "CF"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 680777,
-                "fullName": "Ryan Jeffers",
-                "link": "/api/v1/people/680777"
-            },
-            "jerseyNumber": "27",
-            "position": {
-                "code": "2",
-                "name": "Catcher",
-                "type": "Catcher",
-                "abbreviation": "C"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 573124,
-                "fullName": "Taylor Rogers",
-                "link": "/api/v1/people/573124"
-            },
-            "jerseyNumber": "55",
-            "position": {
-                "code": "1",
-                "name": "Pitcher",
-                "type": "Pitcher",
-                "abbreviation": "P"
-            },
-            "status": {
-                "code": "A",
-                "description": "Active"
-            },
-            "parentTeamId": 142
-        },
-        {
-            "person": {
-                "id": 663616,
-                "fullName": "Trevor Larnach",
-                "link": "/api/v1/people/663616"
-            },
-            "jerseyNumber": "24",
+            "jerseyNumber": "13",
             "position": {
                 "code": "7",
                 "name": "Outfielder",
@@ -455,15 +227,34 @@
                 "code": "A",
                 "description": "Active"
             },
-            "parentTeamId": 142
+            "parentTeamId": 141
         },
         {
             "person": {
-                "id": 608648,
-                "fullName": "Tyler Duffey",
-                "link": "/api/v1/people/608648"
+                "id": 543760,
+                "fullName": "Marcus Semien",
+                "link": "/api/v1/people/543760"
             },
-            "jerseyNumber": "21",
+            "jerseyNumber": "10",
+            "position": {
+                "code": "4",
+                "name": "Second Base",
+                "type": "Infielder",
+                "abbreviation": "2B"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 503569,
+                "fullName": "Rafael Dolis",
+                "link": "/api/v1/people/503569"
+            },
+            "jerseyNumber": "41",
             "position": {
                 "code": "1",
                 "name": "Pitcher",
@@ -474,15 +265,110 @@
                 "code": "A",
                 "description": "Active"
             },
-            "parentTeamId": 142
+            "parentTeamId": 141
         },
         {
             "person": {
-                "id": 553902,
-                "fullName": "Willians Astudillo",
-                "link": "/api/v1/people/553902"
+                "id": 545341,
+                "fullName": "Randal Grichuk",
+                "link": "/api/v1/people/545341"
             },
-            "jerseyNumber": "64",
+            "jerseyNumber": "15",
+            "position": {
+                "code": "8",
+                "name": "Outfielder",
+                "type": "Outfielder",
+                "abbreviation": "CF"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 624512,
+                "fullName": "Reese McGuire",
+                "link": "/api/v1/people/624512"
+            },
+            "jerseyNumber": "7",
+            "position": {
+                "code": "2",
+                "name": "Catcher",
+                "type": "Catcher",
+                "abbreviation": "C"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 656180,
+                "fullName": "Riley Adams",
+                "link": "/api/v1/people/656180"
+            },
+            "jerseyNumber": "50",
+            "position": {
+                "code": "2",
+                "name": "Catcher",
+                "type": "Catcher",
+                "abbreviation": "C"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 592662,
+                "fullName": "Robbie Ray",
+                "link": "/api/v1/people/592662"
+            },
+            "jerseyNumber": "38",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 548389,
+                "fullName": "Ross Stripling",
+                "link": "/api/v1/people/548389"
+            },
+            "jerseyNumber": "48",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 642133,
+                "fullName": "Rowdy Tellez",
+                "link": "/api/v1/people/642133"
+            },
+            "jerseyNumber": "44",
             "position": {
                 "code": "3",
                 "name": "First Base",
@@ -493,10 +379,124 @@
                 "code": "A",
                 "description": "Active"
             },
-            "parentTeamId": 142
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 571927,
+                "fullName": "Steven Matz",
+                "link": "/api/v1/people/571927"
+            },
+            "jerseyNumber": "22",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 606192,
+                "fullName": "Teoscar Hernandez",
+                "link": "/api/v1/people/606192"
+            },
+            "jerseyNumber": "37",
+            "position": {
+                "code": "9",
+                "name": "Outfielder",
+                "type": "Outfielder",
+                "abbreviation": "RF"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 641835,
+                "fullName": "Tim Mayza",
+                "link": "/api/v1/people/641835"
+            },
+            "jerseyNumber": "58",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 663423,
+                "fullName": "Trent Thornton",
+                "link": "/api/v1/people/663423"
+            },
+            "jerseyNumber": "57",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 543022,
+                "fullName": "Tyler Chatwood",
+                "link": "/api/v1/people/543022"
+            },
+            "jerseyNumber": "34",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
+        },
+        {
+            "person": {
+                "id": 665489,
+                "fullName": "Vladimir Guerrero Jr.",
+                "link": "/api/v1/people/665489"
+            },
+            "jerseyNumber": "27",
+            "position": {
+                "code": "3",
+                "name": "First Base",
+                "type": "Infielder",
+                "abbreviation": "1B"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 141
         }
     ],
-    "link": "/api/v1/teams/142/roster",
-    "teamId": 142,
+    "link": "/api/v1/teams/141/roster",
+    "teamId": 141,
     "rosterType": "active"
 }

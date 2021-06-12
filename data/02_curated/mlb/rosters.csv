@@ -71,12 +71,12 @@ player_id,name,position,team_id
 656775,Cedric Mullins,CF,110
 656945,Tanner Scott,P,110
 663624,Ryan Mountcastle,1B,110
-663630,Ryan McKenna,CF,110
 664042,Travis Lakins Sr.,P,110
 669135,Mac Sceroler,P,110
 669145,Bruce Zimmermann,P,110
 669211,Keegan Akin,P,110
 669330,Tyler Wells,P,110
+669720,Austin Hays,LF,110
 493603,Adam Ottavino,P,111
 502110,J.D. Martinez,LF,111
 503556,Marwin Gonzalez,2B,111
@@ -86,9 +86,9 @@ player_id,name,position,team_id
 542882,Matt Andriese,P,111
 543135,Nathan Eovaldi,P,111
 543877,Christian Vazquez,C,111
-570488,Phillips Valdez,P,111
 571771,Enrique Hernandez,CF,111
 572070,Garrett Richards,P,111
+592165,Brandon Brennan,P,111
 592669,Hunter Renfroe,RF,111
 593428,Xander Bogaerts,SS,111
 593958,Eduardo Rodriguez,P,111
@@ -103,6 +103,7 @@ player_id,name,position,team_id
 657077,Alex Verdugo,CF,111
 666915,Bobby Dalbec,1B,111
 676477,Garrett Whitlock,P,111
+446653,Jose Lobaton,C,112
 453562,Jake Arrieta,P,112
 518792,Jason Heyward,RF,112
 518886,Craig Kimbrel,P,112
@@ -127,7 +128,6 @@ player_id,name,position,team_id
 640464,Kohl Stewart,P,112
 642727,Sergio Alcantara,SS,112
 664023,Ian Happ,CF,112
-664731,P.J. Higgins,C,112
 667297,Tommy Nance,P,112
 448281,Sean Doolittle,P,113
 458015,Joey Votto,1B,113
@@ -146,7 +146,6 @@ player_id,name,position,team_id
 607237,Amir Garrett,P,113
 608371,Lucas Sims,P,113
 608385,Jesse Winker,LF,113
-622088,Tejay Antone,P,113
 622491,Luis Castillo,P,113
 623485,Ashton Goudeau,P,113
 641682,Ryan Hendrix,P,113
@@ -174,10 +173,10 @@ player_id,name,position,team_id
 656252,Bobby Bradley,1B,114
 656529,Sam Hentges,P,114
 661403,Emmanuel Clase,P,114
+663474,Triston McKenzie,P,114
 663986,Trevor Stephan,P,114
 664208,Phil Maton,P,114
 669456,Shane Bieber,P,114
-669459,Kyle Nelson,P,114
 675916,James Karinchak,P,114
 680704,Nick Sandlin,P,114
 680911,Owen Miller,2B,114
@@ -189,6 +188,7 @@ player_id,name,position,team_id
 571710,Mychal Givens,P,115
 592346,Chi Chi Gonzalez,P,115
 596112,Robert Stephenson,P,115
+596115,Trevor Story,SS,115
 596295,Austin Gomber,P,115
 602074,Yonathan Daza,CF,115
 606132,Raimel Tapia,LF,115
@@ -206,9 +206,7 @@ player_id,name,position,team_id
 656582,Connor Joe,1B,115
 658069,Joshua Fuentes,3B,115
 663898,Brendan Rodgers,2B,115
-676701,Alan Trejo,2B,115
 408234,Miguel Cabrera,1B,116
-502706,Derek Holland,P,116
 542585,Jose Cisnero,P,116
 543257,Robbie Grossman,LF,116
 570632,Jose Urena,P,116
@@ -225,9 +223,10 @@ player_id,name,position,team_id
 642397,Gregory Soto,P,116
 650489,Willi Castro,2B,116
 650530,Bryan Garcia,P,116
-656537,Derek Hill,CF,116
+656638,Alex Lange,P,116
+663366,Beau Burrows,P,116
 663554,Casey Mize,P,116
-665621,Rony Garcia,P,116
+663662,Daz Cameron,CF,116
 668670,Jake Rogers,C,116
 668731,Akil Baddoo,LF,116
 669373,Tarik Skubal,P,116
@@ -246,10 +245,10 @@ player_id,name,position,team_id
 596825,Robel Garcia,2B,117
 608324,Alex Bregman,3B,117
 621043,Carlos Correa,SS,117
+621248,Ralph Garza Jr.,P,117
 622100,Taylor Jones,1B,117
 642130,Blake Taylor,P,117
 656232,Brandon Bielak,P,117
-660600,Enoli Paredes,P,117
 663656,Kyle Tucker,RF,117
 664285,Framber Valdez,P,117
 664299,Cristian Javier,P,117
@@ -279,12 +278,12 @@ player_id,name,position,team_id
 641745,Brad Keller,P,118
 642721,Kelvin Gutierrez,3B,118
 643217,Andrew Benintendi,LF,118
-658668,Edward Olivares,CF,118
 663460,Kris Bubic,P,118
 663804,Jackson Kowar,P,118
 663903,Brady Singer,P,118
 670032,Nicky Lopez,SS,118
 671790,Ronald Bolanos,P,118
+672578,Carlos Hernandez,P,118
 405395,Albert Pujols,1B,119
 445276,Kenley Jansen,P,119
 456034,David Price,P,119
@@ -321,15 +320,16 @@ player_id,name,position,team_id
 543228,Yan Gomes,C,120
 543272,Brad Hand,P,120
 543281,Josh Harrison,2B,120
-543339,Daniel Hudson,P,120
 571578,Patrick Corbin,P,120
 593833,Wander Suero,P,120
+600921,Andres Machado,P,120
 605137,Josh Bell,1B,120
 605452,Joe Ross,P,120
+607200,Erick Fedde,P,120
 607208,Trea Turner,SS,120
 607560,Ryne Harper,P,120
 621348,Sam Clay,P,120
-628450,Yadiel Hernandez,RF,120
+622446,Jefry Rodriguez,P,120
 640448,Kyle Finnegan,P,120
 641851,Kyle McGowin,P,120
 645302,Victor Robles,CF,120
@@ -358,10 +358,10 @@ player_id,name,position,team_id
 621512,Tomas Nido,C,121
 622098,Drew Smith,P,121
 624413,Pete Alonso,1B,121
+641645,Luis Guillorme,3B,121
 641856,Billy McKinney,LF,121
 642086,Dominic Smith,LF,121
 656849,David Peterson,P,121
-663905,Travis Blankenhorn,2B,121
 664192,Joey Lucchesi,P,121
 433589,Yusmeiro Petit,P,133
 462101,Elvis Andrus,SS,133
@@ -389,6 +389,7 @@ player_id,name,position,team_id
 664913,Seth Brown,RF,133
 666200,Jesus Luzardo,P,133
 669221,Sean Murphy,C,133
+502239,Trevor Cahill,P,134
 542881,Tyler Anderson,P,134
 570256,Gregory Polanco,RF,134
 570481,Erik Gonzalez,3B,134
@@ -412,7 +413,6 @@ player_id,name,position,team_id
 663647,Ke'Bryan Hayes,3B,134
 664141,JT Brubaker,P,134
 664789,Ka'ai Tom,LF,134
-665854,Luis Oviedo,P,134
 668804,Bryan Reynolds,CF,134
 670280,David Bednar,P,134
 453343,Mark Melancon,P,135
@@ -446,20 +446,20 @@ player_id,name,position,team_id
 572122,Kyle Seager,3B,136
 579328,Yusei Kikuchi,P,136
 594835,Marco Gonzales,P,136
-605441,Yacksel Rios,P,136
 605504,Dillon Thomas,RF,136
 606160,Rafael Montero,P,136
 608422,Jose Godoy,C,136
 608596,Tom Murphy,C,136
 608638,JT Chargois,P,136
-608686,Jack Mayfield,2B,136
+608665,Kendall Graveman,P,136
 608716,Drew Steckenrider,P,136
 622268,Donovan Walton,2B,136
 623149,Paul Sewald,P,136
 623167,Chris Flexen,P,136
+641343,Jake Bauers,1B,136
 641487,J.P. Crawford,SS,136
 641584,Jake Fraley,LF,136
-641871,Keynan Middleton,P,136
+643290,Justin Dunn,P,136
 643418,Shed Long Jr.,2B,136
 656954,Justus Sheffield,P,136
 664034,Ty France,2B,136
@@ -476,6 +476,7 @@ player_id,name,position,team_id
 527038,Wilmer Flores,2B,137
 543063,Brandon Crawford,SS,137
 543101,Anthony DeSclafani,P,137
+573262,Mike Yastrzemski,RF,137
 592332,Kevin Gausman,P,137
 596103,Austin Slater,CF,137
 606424,Jarlin Garcia,P,137
@@ -485,7 +486,6 @@ player_id,name,position,team_id
 622072,Alex Wood,P,137
 641793,Zack Littell,P,137
 642073,Jimmie Sherfy,P,137
-642731,Thairo Estrada,SS,137
 643289,Mauricio Dubon,SS,137
 643511,Tyler Rogers,P,137
 643565,Mike Tauchman,LF,137
@@ -493,6 +493,7 @@ player_id,name,position,team_id
 664774,LaMonte Wade Jr,LF,137
 669214,Conner Menez,P,137
 669674,Sammy Long,P,137
+670056,Caleb Baragar,P,137
 425794,Adam Wainwright,P,138
 425877,Yadier Molina,C,138
 453192,Andrew Miller,P,138
@@ -501,7 +502,6 @@ player_id,name,position,team_id
 572761,Matt Carpenter,2B,138
 593372,Carlos Martinez,P,138
 594965,Daniel Ponce de Leon,P,138
-596056,John Nogowski,1B,138
 602922,Jose Rondon,SS,138
 606149,Giovanny Gallegos,P,138
 607231,John Gant,P,138
@@ -510,6 +510,7 @@ player_id,name,position,team_id
 641933,Tyler O'Neill,LF,138
 650893,Genesis Cabrera,P,138
 657041,Lane Thomas,CF,138
+657557,Paul DeJong,SS,138
 658551,Junior Fernandez,P,138
 663765,Jake Woodford,P,138
 664854,Ryan Helsley,P,138
@@ -524,7 +525,6 @@ player_id,name,position,team_id
 552640,Andrew Kittredge,P,139
 572287,Mike Zunino,C,139
 595281,Kevin Kiermaier,CF,139
-595411,Ryan Sherriff,P,139
 605488,Jeffrey Springs,P,139
 607192,Tyler Glasnow,P,139
 608379,Michael Wacha,P,139
@@ -585,6 +585,7 @@ player_id,name,position,team_id
 606192,Teoscar Hernandez,RF,141
 606303,Joel Payamps,P,141
 621593,Anthony Castro,P,141
+624415,Cavan Biggio,3B,141
 624512,Reese McGuire,C,141
 641505,Jonathan Davis,CF,141
 641835,Tim Mayza,P,141
@@ -595,7 +596,6 @@ player_id,name,position,team_id
 666182,Bo Bichette,SS,141
 666201,Alek Manoah,P,141
 666971,Lourdes Gurriel Jr.,LF,141
-669289,Santiago Espinal,3B,141
 676886,Jeremy Beasley,P,141
 443558,Nelson Cruz,DH,142
 457918,J.A. Happ,P,142
@@ -618,14 +618,13 @@ player_id,name,position,team_id
 643377,Griffin Jax,P,142
 660896,Jorge Alcala,P,142
 663616,Trevor Larnach,LF,142
-664247,Kyle Garlick,LF,142
+665482,Gilberto Celestino,CF,142
 666135,Alex Kirilloff,LF,142
 666163,Ben Rortvedt,C,142
 677976,Randy Dobnak,P,142
 680777,Ryan Jeffers,C,142
 457705,Andrew McCutchen,LF,143
 459964,Matt Joyce,LF,143
-502624,Chase Anderson,P,143
 516416,Jean Segura,2B,143
 543543,Brad Miller,LF,143
 546318,Odubel Herrera,CF,143
@@ -648,6 +647,7 @@ player_id,name,position,team_id
 656555,Rhys Hoskins,1B,143
 663897,Luke Williams,2B,143
 664761,Alec Bohm,3B,143
+665561,Rafael Marchan,C,143
 675921,Spencer Howard,P,143
 450203,Charlie Morton,P,144
 455119,Chris Martin,P,144
@@ -680,6 +680,7 @@ player_id,name,position,team_id
 521230,Liam Hendriks,P,145
 544725,Leury Garcia,CF,145
 547989,Jose Abreu,1B,145
+571718,Brian Goodwin,CF,145
 571875,Jake Lamb,LF,145
 572971,Dallas Keuchel,P,145
 594809,Adam Eaton,RF,145
@@ -696,7 +697,6 @@ player_id,name,position,team_id
 641582,Matt Foster,P,145
 656302,Dylan Cease,P,145
 660162,Yoan Moncada,3B,145
-663611,Nick Madrigal,2B,145
 664901,Danny Mendick,SS,145
 676051,Codi Heuer,P,145
 676979,Garrett Crochet,P,145
@@ -757,7 +757,6 @@ player_id,name,position,team_id
 474463,Brett Anderson,P,158
 502202,Brad Boxberger,P,158
 541645,Avisail Garcia,RF,158
-543768,Travis Shaw,3B,158
 553882,Omar Narvaez,C,158
 571948,Hoby Milner,P,158
 592885,Christian Yelich,LF,158
@@ -769,6 +768,7 @@ player_id,name,position,team_id
 608718,Brent Suter,P,158
 621002,Daniel Robertson,SS,158
 621438,Tyrone Taylor,LF,158
+622256,Patrick Weigel,P,158
 622569,Pablo Reyes,3B,158
 623352,Josh Hader,P,158
 641778,Eric Lauer,P,158
