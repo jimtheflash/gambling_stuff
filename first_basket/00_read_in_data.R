@@ -34,7 +34,8 @@ gamelogs_18_19 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2018-19.csv',
 gamelogs_19_20 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2019-20.csv',
                            colClasses = 'character')
 gamelogs_20_21 <- read.csv('./data/nba_gamelogs/nba_gamelogs_2020-21.csv',
-                           colClasses = 'character')
+                           colClasses = 'character') %>%
+                  select(-c(NICKNAME, VIDEO_AVAILABLE_FLAG))
 
 gamelogs <-
   rbind.data.frame(gamelogs_15_16,
