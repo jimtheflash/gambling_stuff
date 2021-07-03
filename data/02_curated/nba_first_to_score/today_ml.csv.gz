@@ -1,0 +1,3 @@
+"season","game_date","game_id","matchup","period","period_clock","jumper","opp_jumper","home","won_tip","iterative_win_tip","win_tip_prob_glmnet","win_tip_prob_earth","model"
+"2020-21",2021-07-03,"1111111111","ABC vs. XYZ",1,720,"Clint Capela","Brook Lopez",TRUE,NA,0.291108750982188,0.273964851826982,0.30470861045341,"jumps_this_season_opp_jumps_this_season"
+"2020-21",2021-07-03,"1111111111","ABC vs. XYZ",1,720,"Brook Lopez","Clint Capela",FALSE,NA,0.708891249017812,0.726027610918975,0.706152621688845,"jumps_this_season_opp_jumps_this_season"

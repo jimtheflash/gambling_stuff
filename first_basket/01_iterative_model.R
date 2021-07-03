@@ -43,7 +43,7 @@ team_list <-
   mutate(TEAM_ID = as.character(TEAM_ID))
 
 # Relevant fields for players
-# Changing height to inches
+# Changing height to inches and remove players we don't have height info for
 player_info_mutated <-
   player_info_df %>%
   separate(HEIGHT, c("feet", "inches"), remove = FALSE) %>%
@@ -52,7 +52,8 @@ player_info_mutated <-
          inches = as.integer(inches)) %>%
   mutate(HEIGHT = (feet*12)+inches) %>%
   select(jumper = DISPLAY_FIRST_LAST, person_id = PERSON_ID,
-         height = HEIGHT, weight = WEIGHT)
+         height = HEIGHT, weight = WEIGHT) %>%
+  filter(!is.na(height))
 
 # Adds in player height and weight
 possession_player_info <-
@@ -344,10 +345,173 @@ for (i in 1:length(unique_dates$game_date)) {
   
 }
 
+# Write Out Historical Predictions
 write.csv(test_df_exp_win_master, "data/02_curated/nba_first_to_score/model_iterative.csv.gz", row.names = FALSE)
 
-# ## Write out main file
-# write.csv(player_list_df, "data/02_curated/nba_first_to_score/jump_ball_ratings.csv.gz", row.names = FALSE)
+
+########################################## Current Day Predictions #################################
+## Set Parameter values
+today_full_date <- gsub("-", "", Sys.Date())
+
+## Read Data into Environment
+schedule <- fread(paste0("data/nba_schedules/", today_full_date, ".csv"))
+opening_tip <- fread("data/02_curated/nba_first_to_score/current_season_opening_tip.csv.gz")
+first_shot <- fread("data/02_curated/nba_first_to_score/current_season_first_shot.csv.gz")
+player_usage <- fread("data/02_curated/nba_first_to_score/current_season_usage_rate.csv.gz")
+current_lineups <- fread("data/02_curated/nba_lineups/rotowire.csv")
+current_rosters <- fread("data/02_curated/nba_rosters/current.csv.gz")
+
+## Update Player Names (hopefully change to engineering end eventually)
+player_name_changes <-
+  tibble(player_api = character(),
+         player_lineup = character()) %>%
+  add_row(player_api = "Michael Porter Jr.", player_lineup = "Michael Porter") %>%
+  add_row(player_api = "Gary Trent Jr.", player_lineup = "Gary Trent") %>%
+  add_row(player_api = "James Ennis III", player_lineup = "James Ennis") %>%
+  add_row(player_api = "Robert Williams III", player_lineup = "Robert Williams") %>%
+  add_row(player_api = "Larry Nance Jr.", player_lineup = "Larry Nance") %>%
+  add_row(player_api = "Kelly Oubre Jr.", player_lineup = "Kelly Oubre") %>%
+  add_row(player_api = "Kevin Porter Jr.", player_lineup = "Kevin Porter") %>%
+  add_row(player_api = "Marcus Morris Sr.", player_lineup = "Marcus Morris") %>%
+  add_row(player_api = "Danuel House Jr.", player_lineup = "Danuel House") %>%
+  add_row(player_api = "Tim Hardaway Jr.", player_lineup = "Tim Hardaway") %>%
+  add_row(player_api = "Wendell Carter Jr.", player_lineup = "Wendell Carter") %>%
+  add_row(player_api = "Dennis Smith Jr.", player_lineup = "Dennis Smith") %>%
+  add_row(player_api = "Derrick Jones Jr.", player_lineup = "Derrick Jones") %>%
+  add_row(player_api = "Vernon Carey Jr.", player_lineup = "Vernon Carey") %>%
+  add_row(player_api = "Lonnie Walker IV", player_lineup = "Lonnie Walker") %>%
+  add_row(player_api = "Marvin Bagley III", player_lineup = "Marvin Bagley") %>%
+  add_row(player_api = "Charlie Brown Jr.", player_lineup = "Charlie Brown") %>%
+  add_row(player_api = "Jaren Jackson Jr.", player_lineup = "Jaren Jackson") %>%
+  add_row(player_api = "Troy Brown Jr.", player_lineup = "Troy Brown") %>%
+  add_row(player_api = "Kira Lewis Jr.", player_lineup = "Kira Lewis") %>%
+  add_row(player_api = "Otto Porter Jr.", player_lineup = "Otto Porter") %>%
+  add_row(player_api = "Kenyon Martin Jr.", player_lineup = "Kenyon Martin") %>%
+  add_row(player_api = "Harry Giles III", player_lineup = "Harry Giles") %>%
+  add_row(player_api = "Kevin Knox II", player_lineup = "Kevin Knox") %>%
+  add_row(player_api = "Robert Woodard II", player_lineup = "Robert Woodard")
+
+## List of teams playing today for a join
+list_of_team_abbrev_id <-
+  opening_tip %>%
+  distinct(team_abbrev, team_id)
+
+opening_tip_aggregates <-
+  opening_tip %>%
+  group_by(jumper) %>%
+  summarise(opening_tip_jumps = sum(jumps), 
+            opening_tip_wins = sum(wins), 
+            opening_tip_win_rate = opening_tip_wins/opening_tip_jumps,
+            last_jump = max(last_jump),
+            .groups = 'drop')
+
+first_shot_aggregates <-
+  first_shot %>%
+  group_by(player) %>%
+  summarise(starts = sum(starts),
+            shots = sum(shots),
+            percentage = shots/starts,
+            .groups = 'drop')
+
+# Need to fix exp win to the height value of that player
+jumper_aggregates <-
+  current_rosters %>%
+  left_join(player_list_df, by = c("PLAYER_NAME" = "jumper")) %>%
+  rename(jumper = PLAYER_NAME) %>%
+  select(jumper, person_id, height, weight, jumps, exp_win_adj) %>%
+  left_join(opening_tip_aggregates, by = "jumper") %>%
+  left_join(select(first_shot_aggregates, player, starts), by = c("jumper" = "player")) %>%
+  mutate(jumps = replace_na(jumps, 0),
+         exp_win_adj = replace_na(exp_win_adj, 0),
+         opening_tip_jumps = replace_na(opening_tip_jumps, 0),
+         opening_tip_wins = replace_na(opening_tip_wins, 0),
+         opening_tip_win_rate = replace_na(opening_tip_win_rate, 0),
+         starts = replace_na(starts, 0)) %>%
+  mutate(jump_rate = opening_tip_jumps/starts)
+
+projected_starters <-
+  current_lineups %>%
+  filter(LINEUP_DESC != "") %>%
+  left_join(player_name_changes, by = c("PLAYER_NAME" = "player_lineup")) %>%
+  mutate(PLAYER_NAME = coalesce(player_api, PLAYER_NAME))
+
+projected_jumpers <-
+  current_lineups %>%
+  filter(LINEUP_DESC != "") %>%
+  left_join(player_name_changes, by = c("PLAYER_NAME" = "player_lineup")) %>%
+  mutate(PLAYER_NAME = coalesce(player_api, PLAYER_NAME)) %>%
+  left_join(jumper_aggregates, by = c("PLAYER_NAME" = "jumper")) %>%
+  # Replace NAs from join
+  mutate(jump_rate = replace_na(jump_rate, 0),
+         jumps = replace_na(jumps, 0),
+         exp_win_adj = replace_na(exp_win_adj, 0),
+         starts = replace_na(starts, 0),
+         opening_tip_jumps = replace_na(opening_tip_jumps, 0),
+         opening_tip_wins = replace_na(opening_tip_wins, 0),
+         opening_tip_win_rate = replace_na(opening_tip_win_rate, 0)) %>%
+  mutate(jump_rate_over75 = if_else(jump_rate >= 0.75, TRUE, FALSE),
+         jump_rate_over15 = if_else(jump_rate >= 0.15, TRUE, FALSE)) %>%
+  left_join(list_of_team_abbrev_id, by = c("TEAM_ABBREVIATION" = "team_abbrev")) %>%
+  group_by(TEAM_ABBREVIATION) %>%
+  # If team has no players with jumps in more than 15% of starts, filter to Center, 
+  # Otherwise, if team has multiple players with jumps in more than 75% of starts, filter to player who jumped last
+  # Otherwise, filter to the player with the highest jump rate
+  filter(if (sum(jump_rate_over15) == 0) STARTING_POSITION == "C" 
+         else if (sum(jump_rate_over75) > 1) last_jump == max(last_jump, na.rm = T) 
+         else jump_rate == max(jump_rate)) %>%
+  # If tie on team for last jump date (trade, etc), filter by more opening season jumps
+  filter(opening_tip_jumps == max(opening_tip_jumps)) %>%
+  # If tie on team for opening tip jumps this year, filter by total overall jumps
+  filter(jumps == max(jumps)) %>%
+  # If no players with opening tip jumps this year, pick the center
+  select(TEAM_ABBREVIATION, team_id, PLAYER_NAME, person_id, TO_PLAY_DESC,
+         jumps, height, weight, exp_win_adj)
+
+today_games <-
+  schedule %>%
+  distinct(HOME_TEAM_ID, VISITOR_TEAM_ID)
+
+####### Determining First Team To Score Probabilities #########
+today_games_jumper <-
+  today_games %>%
+  left_join(projected_jumpers, by = c("HOME_TEAM_ID" = "team_id")) %>%
+  rename(home_team_jumper = PLAYER_NAME,
+         home_team_person_id = person_id,
+         home_team_height = height,
+         home_team_weight = weight,
+         home_team_abbrev = TEAM_ABBREVIATION,
+         home_injury_status = TO_PLAY_DESC,
+         home_total_jumps = jumps,
+         home_exp_win_adj = exp_win_adj) %>%
+  left_join(projected_jumpers, by = c("VISITOR_TEAM_ID" = "team_id")) %>%
+  rename(away_team_jumper = PLAYER_NAME,
+         away_team_person_id = person_id,
+         away_team_height = height,
+         away_team_weight = weight,
+         away_team_abbrev = TEAM_ABBREVIATION,
+         away_injury_status = TO_PLAY_DESC,
+         away_total_jumps = jumps,
+         away_exp_win_adj = exp_win_adj) %>%
+  mutate(height_diff = home_team_height - away_team_height,
+         exp_win_adj = (home_exp_win_adj*(1-away_exp_win_adj)*home_tip_win_parameter) /
+           ((home_exp_win_adj*(1-away_exp_win_adj)*home_tip_win_parameter) + (away_exp_win_adj*(1-home_exp_win_adj)*(1-home_tip_win_parameter))),
+         final_exp_win_adj = if_else(is.nan(exp_win_adj), 0.5, exp_win_adj)) %>%
+select(-c(HOME_TEAM_ID, VISITOR_TEAM_ID)) %>%
+  mutate(season = '2020-21',
+         game_date = as.Date(today_full_date, format = "%Y%m%d"),
+         game_id = '1111111111',
+         matchup = 'ABC vs. XYZ',
+         period = 1,
+         period_clock = 720,
+         opening_jump = TRUE,
+         center_court = TRUE,
+         possession = NA,
+         score_first = NA,
+         home_won_tip = NA,
+         home_score_first = NA)
+
+## Write out projection file
+write.csv(today_games_jumper, "data/02_curated/nba_first_to_score/today_iterative.csv.gz", row.names = FALSE)
 # 
 # ## Write out archive file
 # yyyy <- as.character(year(Sys.Date()))
