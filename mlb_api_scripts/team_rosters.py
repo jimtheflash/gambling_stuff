@@ -5,7 +5,6 @@ from pathlib import Path
 
 import pandas as pd
 import requests as req
-from statsapi import lookup_team, roster
 
 from args import get_cli_args
 from common import BASE_URL
