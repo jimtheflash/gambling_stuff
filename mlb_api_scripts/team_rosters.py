@@ -5,7 +5,6 @@ from pathlib import Path
 
 import pandas as pd
 import requests as req
-from statsapi import lookup_team, roster
 
 from args import get_cli_args
 from common import BASE_URL
@@ -108,6 +107,12 @@ def main(logical_date: str = str(date.today())) -> None:
         roster_df = parse_team_season_roster(roster_json)
         roster_dfs.append(roster_df)
     all_roster_dfs = pd.concat(roster_dfs).sort_values(["team_id", "player_id"])
+    all_roster_dfs = pd.merge(
+        left=all_roster_dfs,
+        right=teams_df[["team_id", "team_name", "abbrev"]],
+        on="team_id",
+        how="inner",
+    )
     write_files.append(
         [Path(CURATED_PATH).joinpath(*ymd, "rosters.csv"), all_roster_dfs]
     )
