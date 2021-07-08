@@ -1,0 +1,502 @@
+{
+    "copyright": "Copyright 2021 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+    "roster": [
+        {
+            "person": {
+                "id": 642708,
+                "fullName": "Amed Rosario",
+                "link": "/api/v1/people/642708"
+            },
+            "jerseyNumber": "1",
+            "position": {
+                "code": "6",
+                "name": "Shortstop",
+                "type": "Infielder",
+                "abbreviation": "SS"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 595978,
+                "fullName": "Austin Hedges",
+                "link": "/api/v1/people/595978"
+            },
+            "jerseyNumber": "17",
+            "position": {
+                "code": "2",
+                "name": "Catcher",
+                "type": "Catcher",
+                "abbreviation": "C"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 453284,
+                "fullName": "Blake Parker",
+                "link": "/api/v1/people/453284"
+            },
+            "jerseyNumber": "53",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 656252,
+                "fullName": "Bobby Bradley",
+                "link": "/api/v1/people/656252"
+            },
+            "jerseyNumber": "44",
+            "position": {
+                "code": "3",
+                "name": "First Base",
+                "type": "Infielder",
+                "abbreviation": "1B"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 605548,
+                "fullName": "Bradley Zimmer",
+                "link": "/api/v1/people/605548"
+            },
+            "jerseyNumber": "4",
+            "position": {
+                "code": "8",
+                "name": "Outfielder",
+                "type": "Outfielder",
+                "abbreviation": "CF"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 543766,
+                "fullName": "Bryan Shaw",
+                "link": "/api/v1/people/543766"
+            },
+            "jerseyNumber": "27",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 615698,
+                "fullName": "Cal Quantrill",
+                "link": "/api/v1/people/615698"
+            },
+            "jerseyNumber": "47",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 514917,
+                "fullName": "Cesar Hernandez",
+                "link": "/api/v1/people/514917"
+            },
+            "jerseyNumber": "7",
+            "position": {
+                "code": "4",
+                "name": "Second Base",
+                "type": "Infielder",
+                "abbreviation": "2B"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 597113,
+                "fullName": "DJ Johnson",
+                "link": "/api/v1/people/597113"
+            },
+            "jerseyNumber": "56",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 669288,
+                "fullName": "Daniel Johnson",
+                "link": "/api/v1/people/669288"
+            },
+            "jerseyNumber": "23",
+            "position": {
+                "code": "9",
+                "name": "Outfielder",
+                "type": "Outfielder",
+                "abbreviation": "RF"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 669212,
+                "fullName": "Eli Morgan",
+                "link": "/api/v1/people/669212"
+            },
+            "jerseyNumber": "49",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 661403,
+                "fullName": "Emmanuel Clase",
+                "link": "/api/v1/people/661403"
+            },
+            "jerseyNumber": "48",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 676391,
+                "fullName": "Ernie Clement",
+                "link": "/api/v1/people/676391"
+            },
+            "jerseyNumber": "28",
+            "position": {
+                "code": "4",
+                "name": "Second Base",
+                "type": "Infielder",
+                "abbreviation": "2B"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 614177,
+                "fullName": "Franmil Reyes",
+                "link": "/api/v1/people/614177"
+            },
+            "jerseyNumber": "32",
+            "position": {
+                "code": "9",
+                "name": "Outfielder",
+                "type": "Outfielder",
+                "abbreviation": "RF"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 623912,
+                "fullName": "Harold Ramirez",
+                "link": "/api/v1/people/623912"
+            },
+            "jerseyNumber": "40",
+            "position": {
+                "code": "8",
+                "name": "Outfielder",
+                "type": "Outfielder",
+                "abbreviation": "CF"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 650496,
+                "fullName": "J.C. Mejia",
+                "link": "/api/v1/people/650496"
+            },
+            "jerseyNumber": "36",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 675916,
+                "fullName": "James Karinchak",
+                "link": "/api/v1/people/675916"
+            },
+            "jerseyNumber": "99",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 608070,
+                "fullName": "Jose Ramirez",
+                "link": "/api/v1/people/608070"
+            },
+            "jerseyNumber": "11",
+            "position": {
+                "code": "5",
+                "name": "Third Base",
+                "type": "Infielder",
+                "abbreviation": "3B"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 621057,
+                "fullName": "Justin Garza",
+                "link": "/api/v1/people/621057"
+            },
+            "jerseyNumber": "63",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 680704,
+                "fullName": "Nick Sandlin",
+                "link": "/api/v1/people/680704"
+            },
+            "jerseyNumber": "52",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 621295,
+                "fullName": "Nick Wittgren",
+                "link": "/api/v1/people/621295"
+            },
+            "jerseyNumber": "62",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 640458,
+                "fullName": "Oscar Mercado",
+                "link": "/api/v1/people/640458"
+            },
+            "jerseyNumber": "35",
+            "position": {
+                "code": "7",
+                "name": "Outfielder",
+                "type": "Outfielder",
+                "abbreviation": "LF"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 664208,
+                "fullName": "Phil Maton",
+                "link": "/api/v1/people/664208"
+            },
+            "jerseyNumber": "88",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 547379,
+                "fullName": "Roberto Perez",
+                "link": "/api/v1/people/547379"
+            },
+            "jerseyNumber": "55",
+            "position": {
+                "code": "2",
+                "name": "Catcher",
+                "type": "Catcher",
+                "abbreviation": "C"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 656529,
+                "fullName": "Sam Hentges",
+                "link": "/api/v1/people/656529"
+            },
+            "jerseyNumber": "31",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        },
+        {
+            "person": {
+                "id": 663986,
+                "fullName": "Trevor Stephan",
+                "link": "/api/v1/people/663986"
+            },
+            "jerseyNumber": "37",
+            "position": {
+                "code": "1",
+                "name": "Pitcher",
+                "type": "Pitcher",
+                "abbreviation": "P"
+            },
+            "status": {
+                "code": "A",
+                "description": "Active"
+            },
+            "parentTeamId": 114
+        }
+    ],
+    "link": "/api/v1/teams/114/roster",
+    "teamId": 114,
+    "rosterType": "active"
+}
