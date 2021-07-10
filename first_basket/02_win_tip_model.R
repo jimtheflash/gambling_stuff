@@ -16,9 +16,21 @@ library(earth)
 # train_test_date_split <- "2018-09-01"
 
 # Load previous run of this model
-current_model_ml <- fread("data/02_curated/nba_first_to_score/model_ml.csv.gz",
-                          colClasses =  c('game_date' = 'Date', 'game_id' = 'character'))
-max_date_model_ml <- max(current_model_ml$game_date)
+model_ml_file_path <- "data/02_curated/nba_first_to_score/model_ml.csv.gz"
+
+# Initializing df that stores test data predictions
+# If prior version of model exists, use that file
+# Otherwise, start from scratch
+# This allows process to not iterate through every day - only those that we don't have data for already
+if (file.exists(model_ml_file_path)){
+  current_model_ml <- fread(model_ml_file_path,
+                            colClasses =  c('game_date' = 'Date', 
+                                            'game_id' = 'character'))
+  max_date_model_ml <- max(current_model_ml$game_date)
+}else{
+  # Start training at 18-19 season
+  max_date_model_ml <- as.Date("2018-09-01")
+}
 
 model_iterative <- fread("data/02_curated/nba_first_to_score/model_iterative.csv.gz")
 min_date_model_iterative <- min(model_iterative$game_date)
@@ -73,15 +85,18 @@ todays_games <-
                        'home_team_person_id' = 'character', 
                        'away_team_person_id' = 'character'))
 
-todays_games_possession <-
-  todays_games %>%
-  select(season, game_date, game_id, matchup, opening_jump, center_court,
-         period, period_clock, home_team_jumper, home_team_person_id,
-         home_team_abbrev, away_team_jumper, away_team_person_id, away_team_abbrev,
-         possession, score_first, home_won_tip, home_score_first)
-
-possession_binded <- 
-  rbind.data.frame(possession_binded, todays_games_possession)
+# If there are games today, add to the possession table to make predictions on it
+if(ncol(todays_games) > 1){
+  todays_games_possession <-
+    todays_games %>%
+    select(season, game_date, game_id, matchup, opening_jump, center_court,
+           period, period_clock, home_team_jumper, home_team_person_id,
+           home_team_abbrev, away_team_jumper, away_team_person_id, away_team_abbrev,
+           possession, score_first, home_won_tip, home_score_first)
+  
+  possession_binded <- 
+    rbind.data.frame(possession_binded, todays_games_possession)
+}
 
 # Adds in player height and weight
 possession_player_info <-
@@ -194,30 +209,32 @@ model_iterative_split <-
          person_id = as.character(person_id),
          opp_person_id = as.character(opp_person_id))
 
-todays_games_ratings_split <-
-  todays_games %>%
-  select(season, game_date, game_id, matchup, opening_jump,
-         person_id = home_team_person_id, 
-         team_abbrev = home_team_abbrev,
-         opp_person_id = away_team_person_id, 
-         opp_team_abbrev = away_team_abbrev, 
-         iterative_rating = home_exp_win_adj, 
-         opp_iterative_rating = away_exp_win_adj,
-         iterative_win_tip = final_exp_win_adj) %>%
-  bind_rows(
+if(ncol(todays_games) > 1){
+  todays_games_ratings_split <-
     todays_games %>%
-      select(season, game_date, game_id, matchup, opening_jump,
-             person_id = away_team_person_id, 
-             team_abbrev = away_team_abbrev,
-             opp_person_id = home_team_person_id, 
-             opp_team_abbrev = home_team_abbrev,
-             iterative_rating = away_exp_win_adj, 
-             opp_iterative_rating = home_exp_win_adj,
-             iterative_win_tip = final_exp_win_adj) %>%
-      mutate(iterative_win_tip = 1 - iterative_win_tip))
-
-model_iterative_binded <-
-  rbind.data.frame(model_iterative_split, todays_games_ratings_split)
+    select(season, game_date, game_id, matchup, opening_jump,
+           person_id = home_team_person_id, 
+           team_abbrev = home_team_abbrev,
+           opp_person_id = away_team_person_id, 
+           opp_team_abbrev = away_team_abbrev, 
+           iterative_rating = home_exp_win_adj, 
+           opp_iterative_rating = away_exp_win_adj,
+           iterative_win_tip = final_exp_win_adj) %>%
+    bind_rows(
+      todays_games %>%
+        select(season, game_date, game_id, matchup, opening_jump,
+               person_id = away_team_person_id, 
+               team_abbrev = away_team_abbrev,
+               opp_person_id = home_team_person_id, 
+               opp_team_abbrev = home_team_abbrev,
+               iterative_rating = away_exp_win_adj, 
+               opp_iterative_rating = home_exp_win_adj,
+               iterative_win_tip = final_exp_win_adj) %>%
+        mutate(iterative_win_tip = 1 - iterative_win_tip))
+  
+  model_iterative_split <-
+    rbind.data.frame(model_iterative_split, todays_games_ratings_split)
+}
 
 possession_models_joined <-
   possession_df_vars %>%
@@ -227,7 +244,7 @@ possession_models_joined <-
          opp_person_id = as.character(as.integer(opp_person_id)),
          opening_jump = as.logical(opening_jump),
          center_court = as.logical(center_court)) %>%
-  left_join(model_iterative_binded,
+  left_join(model_iterative_split,
             by = c("season", "game_date", "game_id", "matchup", "person_id", 
                    "team_abbrev", "opp_person_id", "opp_team_abbrev", "opening_jump")) %>%
   distinct()
@@ -282,18 +299,6 @@ function_to_run_models <- function(possession_train_model, possession_test_model
   game_info_test <-
     possession_test_model %>%
     select(any_of(game_info_vars))
-  
-  # model_ranger <- ranger(x = predictors_train, y = outcomes_train$won_tip, 
-  #                        probability = TRUE, importance = 'impurity_corrected', keep.inbag = TRUE)
-  # 
-  # preds_ranger <- 
-  #   cbind.data.frame(game_info_test,
-  #                    predictors_test, 
-  #                    outcomes_test,
-  #                    predict(model_ranger, predictors_test, type = 'response')$predictions) %>%
-  #   rename(win_tip_prob_ranger = `TRUE`) %>%
-  #   select(-c(`FALSE`)) %>%
-  #   mutate(won_tip = as.logical(won_tip))
   
   model_glmnet <- cv.glmnet(x = as.matrix(predictors_train), y = outcomes_train$won_tip, family = 'binomial')
   
@@ -578,11 +583,10 @@ predictions_today <-
 write.csv(predictions_historical, "data/02_curated/nba_first_to_score/model_ml.csv.gz", row.names = FALSE)
 write.csv(predictions_today, "data/02_curated/nba_first_to_score/today_ml.csv.gz", row.names = FALSE)
 
-test_df_exp_win_master_all_combined <- 
+test_df_exp_win_master_all_combined <-
   test_df_exp_win_master %>%
   rowwise() %>%
   mutate(win_tip_prob_all = mean(c(iterative_win_tip, 
-                                   #win_tip_prob_ranger,
                                    win_tip_prob_glmnet,
                                    win_tip_prob_earth)))
 
@@ -591,7 +595,7 @@ one_row_per_jump_home <-
   filter(home == TRUE) %>%
   select(season, game_date, game_id, matchup, period, period_clock,
          jumper, opp_jumper, home, won_tip,
-         iterative_win_tip,# win_tip_prob_ranger,
+         iterative_win_tip,
          win_tip_prob_glmnet,
          win_tip_prob_earth,
          win_tip_prob_all)
@@ -601,14 +605,13 @@ one_row_per_jump_away <-
   filter(home == FALSE) %>%
   select(season, game_date, game_id, matchup, period, period_clock,
          jumper, opp_jumper,
-         iterative_win_tip, #win_tip_prob_ranger, 
+         iterative_win_tip,
          win_tip_prob_glmnet,
          win_tip_prob_earth,
          win_tip_prob_all) %>%
   rename(opp_jumper = jumper,
          jumper = opp_jumper,
          iterative_win_tip_opp = iterative_win_tip,
-         #win_tip_prob_ranger_opp = win_tip_prob_ranger,
          win_tip_prob_glmnet_opp = win_tip_prob_glmnet,
          win_tip_prob_earth_opp = win_tip_prob_earth,
          win_tip_prob_all_opp = win_tip_prob_all)
@@ -618,7 +621,6 @@ one_row_per_jump_joined <-
   left_join(one_row_per_jump_away,
             by = c("season", "game_date", "game_id", "matchup", "period", "period_clock", "jumper", "opp_jumper")) %>%
   mutate(final_win_prob_iterative = (iterative_win_tip + (1 - iterative_win_tip_opp)) / 2,
-         #final_win_prob_ranger = (win_tip_prob_ranger + (1 - win_tip_prob_ranger_opp)) / 2,
          final_win_prob_glmnet = (win_tip_prob_glmnet + (1 - win_tip_prob_glmnet_opp)) / 2,
          final_win_prob_earth = (win_tip_prob_earth + (1 - win_tip_prob_earth_opp)) / 2,
          final_win_prob_all = (win_tip_prob_all + (1 - win_tip_prob_all_opp)) / 2)
@@ -631,15 +633,15 @@ final_output <-
   left_join(one_row_per_jump_joined, 
             by = c("season", "game_date", "game_id", "matchup", "period", "period_clock")) %>%
   filter(!is.na(final_win_prob_all)) %>%
-  select(-c(iterative_win_tip, #win_tip_prob_ranger, 
+  select(-c(iterative_win_tip,
             win_tip_prob_glmnet, win_tip_prob_earth, win_tip_prob_all,
-            iterative_win_tip_opp, #win_tip_prob_ranger_opp,
+            iterative_win_tip_opp,
             win_tip_prob_glmnet_opp, win_tip_prob_earth_opp, win_tip_prob_all_opp,
-            final_win_prob_iterative, #final_win_prob_ranger, 
-            final_win_prob_glmnet, final_win_prob_earth))
+            final_win_prob_iterative,
+            final_win_prob_glmnet,
+            final_win_prob_earth))
 
 write.csv(final_output, "data/02_curated/nba_first_to_score/win_tip_outputs.csv.gz", row.names = FALSE)
-
 
 ########## Historical Testing Performance ###############
 test_df_exp_win_master_all_historical <-
@@ -649,7 +651,6 @@ test_df_exp_win_master_all_historical <-
 brier_score_test_df_loop <-
   test_df_exp_win_master_all_historical %>%
   mutate(brier_score_iterative = (iterative_win_tip - won_tip)^2,
-         #brier_score_win_tip_ranger = (win_tip_prob_ranger - won_tip)^2,
          brier_score_win_tip_glmnet = (win_tip_prob_glmnet - won_tip)^2,
          brier_score_win_tip_earth = (win_tip_prob_earth - won_tip)^2,
          brier_score_win_tip_all = (win_tip_prob_all - won_tip)^2)
@@ -658,13 +659,11 @@ brier_by_season <-
   brier_score_test_df_loop %>%
   group_by(season) %>%
   summarise(brier_score_iterative = mean(brier_score_iterative),
-            #brier_score_win_tip_ranger = mean(brier_score_win_tip_ranger),
             brier_score_win_tip_glmnet = mean(brier_score_win_tip_glmnet),
             brier_score_win_tip_earth = mean(brier_score_win_tip_earth),
             brier_score_win_tip_all = mean(brier_score_win_tip_all))
  
 message("brier score of iterative win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_iterative), 5))
-#message("brier score of ranger win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_win_tip_ranger), 5))
 message("brier score of glmnet win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_win_tip_glmnet), 5))
 message("brier score of earth win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_win_tip_earth), 5))
 message("brier score of all win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_win_tip_all), 5))
@@ -681,10 +680,6 @@ iterative_auc_loop <- roc(won_tip ~ iterative_win_tip, data = test_df_exp_win_ma
 iterative_auc_loop$auc
 plot(iterative_auc_loop)
 
-# ranger_auc_loop <- roc(won_tip ~ win_tip_prob_ranger, data = test_df_exp_win_master_all_historical)
-# ranger_auc_loop$auc
-# plot(ranger_auc_loop)
-
 glmnet_auc_loop <- roc(won_tip ~ win_tip_prob_glmnet, data = test_df_exp_win_master_all_historical)
 glmnet_auc_loop$auc
 plot(glmnet_auc_loop)
@@ -700,13 +695,11 @@ plot(all_auc_loop)
 brier_score_test_df_loop <-
   one_row_per_jump_joined %>%
   mutate(brier_score_iterative = (final_win_prob_iterative - won_tip)^2,
-         #brier_score_win_tip_ranger = (final_win_prob_ranger - won_tip)^2,
          brier_score_win_tip_glmnet = (final_win_prob_glmnet - won_tip)^2,
          brier_score_win_tip_earth = (final_win_prob_earth - won_tip)^2,
          brier_score_win_tip_all = (final_win_prob_all - won_tip)^2)
 
 message("brier score of iterative win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_iterative), 5))
-#message("brier score of ranger win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_win_tip_ranger), 5))
 message("brier score of glmnet win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_win_tip_glmnet), 5))
 message("brier score of earth win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_win_tip_earth), 5))
 message("brier score of all win tips is equal to ", round(mean(brier_score_test_df_loop$brier_score_win_tip_all), 5))
@@ -723,10 +716,6 @@ test_buckets_win_tip_loop <-
 iterative_auc_loop <- roc(won_tip ~ iterative_win_tip, data = one_row_per_jump_joined)
 iterative_auc_loop$auc
 plot(iterative_auc_loop)
-
-# ranger_auc_loop <- roc(won_tip ~ win_tip_prob_ranger, data = one_row_per_jump_joined)
-# ranger_auc_loop$auc
-# plot(ranger_auc_loop)
 
 glmnet_auc_loop <- roc(won_tip ~ win_tip_prob_glmnet, data = one_row_per_jump_joined)
 glmnet_auc_loop$auc
@@ -745,7 +734,6 @@ season_analysis <-
   brier_score_test_df_loop %>%
   group_by(season) %>%
   summarise(iterative =  round(mean(brier_score_iterative), 5),
-            #ranger =  round(mean(brier_score_win_tip_ranger), 5),
             glmnet =  round(mean(brier_score_win_tip_glmnet), 5),
             earth =  round(mean(brier_score_win_tip_earth), 5),
             all =  round(mean(brier_score_win_tip_all), 5))

@@ -16,9 +16,21 @@ library(earth)
 # train_test_date_split <- "2020-02-01"
 
 # Load previous run of this model
-current_model_ftts <- fread("data/02_curated/nba_first_to_score/model_ftts.csv.gz",
-                          colClasses =  c('game_date' = 'Date', 'game_id' = 'character'))
-max_date_model_ftts <- max(current_model_ftts$game_date)
+model_ftts_file_path <- "data/02_curated/nba_first_to_score/model_ftts.csv.gz"
+
+# Initializing df that stores test data predictions
+# If prior version of model exists, use that file
+# Otherwise, start from scratch
+# This allows process to not iterate through every day - only those that we don't have data for already
+if (file.exists(model_ftts_file_path)){
+  current_model_ftts <- fread("data/02_curated/nba_first_to_score/model_ftts.csv.gz",
+                              colClasses =  c('game_date' = 'Date', 
+                                              'game_id' = 'character'))
+  max_date_model_ftts <- max(current_model_ftts$game_date)
+}else{
+  # Start training at midway 19-20 season season
+  max_date_model_ftts <- as.Date("2020-01-31")
+}
 
 model_win_tip <- fread("data/02_curated/nba_first_to_score/win_tip_outputs.csv.gz",
                        colClasses = c('game_date' = 'Date',
@@ -46,18 +58,13 @@ team_list <-
   select(TEAM_ID, ABBREVIATION) %>%
   mutate(TEAM_ID = as.character(TEAM_ID))
 
-team_ratings <-
-  fread("./data/02_curated/nba_team_ratings/dunksandthrees.csv") %>%
-  mutate(date = as.Date(date)) %>%
-  separate(wl, c("Wins", "Losses")) %>%
-  mutate(games_played = as.integer(Wins) + as.integer(Losses))
-
 model_relevant_cols <-
   model_win_tip %>%
   select(season, game_date, game_id, matchup, home_team_abbrev,
          away_team_abbrev, possession, score_first, home_won_tip,
          home_score_first, final_win_prob_all)
 
+# Original model gave slight advantage to home team to score first
 score_first_original <-
   model_relevant_cols %>%
   mutate(exp_score_first_all = (final_win_prob_all*.61) + ((1 - final_win_prob_all)*.41))
@@ -75,11 +82,7 @@ score_first_home <-
          team_abbrev = home_team_abbrev, opp_team_abbrev = away_team_abbrev,
          possession, won_tip = home_won_tip, score_first = home_score_first,
          win_tip_prob = final_win_prob_all) %>%
-  mutate(home = TRUE) #%>%
-  # left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("team_abbrev" = "team", "game_date" = "date")) %>%
-  # rename(team_anet = anet, team_aortg = aortg, team_adrtg = adrtg, team_pace = pace, team_games_played = games_played) %>%
-  # left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("opp_team_abbrev" = "team", "game_date" = "date")) %>%
-  # rename(opp_anet = anet, opp_aortg = aortg, opp_adrtg = adrtg, opp_pace = pace, opp_games_played = games_played)
+  mutate(home = TRUE)
 
 score_first_away <-
   model_relevant_cols %>%
@@ -87,10 +90,6 @@ score_first_away <-
          team_abbrev = away_team_abbrev, opp_team_abbrev = home_team_abbrev,
          possession, won_tip = home_won_tip, score_first = home_score_first,
          win_tip_prob = final_win_prob_all) %>%
-  # left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("team_abbrev" = "team", "game_date" = "date")) %>%
-  # rename(team_anet = anet, team_aortg = aortg, team_adrtg = adrtg, team_pace = pace, team_games_played = games_played) %>%
-  # left_join(select(team_ratings, team, anet, aortg, adrtg, pace, games_played, date), by = c("opp_team_abbrev" = "team", "game_date" = "date")) %>%
-  # rename(opp_anet = anet, opp_aortg = aortg, opp_adrtg = adrtg, opp_pace = pace, opp_games_played = games_played) %>%
   mutate(home = FALSE,
          won_tip = !won_tip,
          score_first = !score_first,
@@ -143,17 +142,11 @@ score_first_relevant_cols <-
   score_first_game_lines %>%
   select(-c(bookmaker_spread_line_delta_perc, bookmaker_moneyline_delta_perc, bookmaker_total_line_delta_perc,
             bookmaker_spread_line_delta, bookmaker_moneyline_delta, bookmaker_total_line_delta,
-            #team_aortg, team_adrtg, team_pace, opp_aortg, opp_adrtg, opp_pace,
             open_bookmaker_moneyline_line, open_bookmaker_implied_pts, open_bookmaker_total_line,
             close_bookmaker_moneyline_line, close_bookmaker_implied_pts,
             close_bookmaker_total_line,
             open_bookmaker_implied_pts_allowed, close_bookmaker_implied_pts_allowed,
-            open_bookmaker_spread_line,
-            #team_anet, 
-            #team_games_played, 
-            #opp_anet, 
-            #opp_games_played
-            ))
+            open_bookmaker_spread_line))
 
 function_to_run_models <- function(score_first_train_model, score_first_test_model, model_desc){
   

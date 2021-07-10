@@ -4,17 +4,10 @@ library(lubridate)
 
 # Parameters
 
-# Example - for full run where you use all history and start the test data at 2019-2020 season
-# earliest_train_data_date <- "2015-09-01"
-# train_test_date_split <- "2017-09-01"
-
 # Current model uses last two completed seasons and current season as train data
 # To run model for current day's ratings, train_test_date_split is set to current day
 # Sets furthest date that train data goes back
 earliest_train_data_date <- "2015-09-01"
-# Setting date we want to start logging test data on
-# Default uses today's date so that all completed games are used in calculating ratings
-train_test_date_split <- "2017-09-01"
 
 # Reads in list of teams to join on team id
 team_list <-
